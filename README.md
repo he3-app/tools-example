@@ -11,9 +11,11 @@ He3 Store: https://portal.he3app.com/tools
 Currently, there are two types of tools:
 
 - Batch tools
-- Regular tools
+- Single tools
 
 Batch tools are designed for the convenience of writing multiple similar tools in a single project, such as the batch-json directory, which contains all the tools in the He3 client JSON category.
+
+For single tools, you can use the directory name as a search keyword in the He3 client to find the corresponding tool.
 
 # Tools Component Documentation
 
