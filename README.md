@@ -1,8 +1,8 @@
 # He3 Official Open Source Tools
 
-This repository contains open source tools developed by He3 official. You can refer to them to develop small tools for He3 and publish them in the official marketplace.
+This repository contains open source tools developed by He3 official. You can refer to them to develop tools for He3 and publish them in the official store.
 
-To create a tool, you can go to the Portal to [create a tool](https://portal.he3app.com/create-tools) or fork the [he3-tools-demo](https://github.com/he3-app/he3-tool-demo) project to get started.
+To create a tool, you can go to the portal [create a tool](https://portal.he3app.com/create-tools) menu or fork the [he3-tools-demo](https://github.com/he3-app/he3-tool-demo) project to get started.
 
 He3 Marketplace: https://portal.he3app.com/tools
 
