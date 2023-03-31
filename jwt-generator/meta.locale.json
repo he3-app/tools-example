@@ -1,0 +1,117 @@
+{
+  "zh": {
+    "$name": "JWT 生成器",
+    "$description": "生成一个 JWT 密钥",
+    "$keywords": [
+      "令牌",
+      "生成",
+      "生成器"
+    ]
+  },
+  "en": {
+    "$name": "JWT Generator",
+    "$description": "Generate a JWT token",
+    "$keywords": [
+      "generate",
+      "generator",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "token",
+      "javascript"
+    ]
+  },
+  "de": {
+    "$name": "JWT -Generator",
+    "$description": "Generieren Sie einen JWT -Schlüssel",
+    "$keywords": [
+      "Zeichen",
+      "generieren",
+      "Erbauer"
+    ]
+  },
+  "es": {
+    "$name": "Generador de jwt",
+    "$description": "Generar una clave JWT",
+    "$keywords": [
+      "Simbólico",
+      "generar",
+      "Constructor"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur JWT",
+    "$description": "Générer une clé JWT",
+    "$keywords": [
+      "Jeton",
+      "générer",
+      "Constructeur"
+    ]
+  },
+  "it": {
+    "$name": "Generatore JWT",
+    "$description": "Generare una chiave JWT",
+    "$keywords": [
+      "Gettone",
+      "creare",
+      "Costruttore"
+    ]
+  },
+  "ja": {
+    "$name": "JWTジェネレーター",
+    "$description": "JWTキーを生成します",
+    "$keywords": [
+      "トークン",
+      "生成",
+      "ビルダー"
+    ]
+  },
+  "ko": {
+    "$name": "JWT 생성기",
+    "$description": "JWT 키를 생성하십시오",
+    "$keywords": [
+      "토큰",
+      "생성하다",
+      "빌더"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador JWT",
+    "$description": "Gerar uma chave JWT",
+    "$keywords": [
+      "Símbolo",
+      "gerar",
+      "Construtor"
+    ]
+  },
+  "ru": {
+    "$name": "JWT Generator",
+    "$description": "Генерировать ключ JWT",
+    "$keywords": [
+      "Токен",
+      "генерировать",
+      "Строитель"
+    ]
+  },
+  "zh-tw": {
+    "$name": "JWT 生成器",
+    "$description": "生成一個 JWT 密鑰",
+    "$keywords": [
+      "令牌",
+      "生成",
+      "生成器"
+    ]
+  },
+  "zh-cn": {
+    "$name": "JWT 生成器",
+    "$description": "生成一个 JWT 密钥",
+    "$keywords": [
+      "令牌",
+      "生成",
+      "生成器"
+    ]
+  }
+}

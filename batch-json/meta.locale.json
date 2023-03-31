@@ -1,0 +1,3463 @@
+[
+  {
+    "id": "properties-to-json",
+    "zh": {
+      "$name": "Properties 转 JSON",
+      "$description": "Properties 转化为 JSON",
+      "$keywords": [
+        "Properties",
+        "JSON"
+      ]
+    },
+    "en": {
+      "$name": "Properties To JSON",
+      "$description": "Properties To JSON",
+      "$keywords": [
+        "convert",
+        "Properties",
+        "JSON",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "Properties To JSON",
+      "$description": "Eigenschaften, die in JSON umgewandelt wurden",
+      "$keywords": [
+        "Eigenschaften",
+        "JSON"
+      ]
+    },
+    "es": {
+      "$name": "Properties To JSON",
+      "$description": "Propiedades convertidas en JSON",
+      "$keywords": [
+        "Propiedades",
+        "Json"
+      ]
+    },
+    "fr": {
+      "$name": "Properties To JSON",
+      "$description": "Propriétés converties en JSON",
+      "$keywords": [
+        "Propriétés",
+        "Json"
+      ]
+    },
+    "it": {
+      "$name": "Properties To JSON",
+      "$description": "Proprietà convertite in JSON",
+      "$keywords": [
+        "Proprietà",
+        "JSON"
+      ]
+    },
+    "ja": {
+      "$name": "Properties To JSON",
+      "$description": "JSONに変換されたプロパティ",
+      "$keywords": [
+        "プロパティ",
+        "JSON"
+      ]
+    },
+    "ko": {
+      "$name": "Properties To JSON",
+      "$description": "속성은 JSON으로 변환되었습니다",
+      "$keywords": [
+        "속성",
+        "JSON"
+      ]
+    },
+    "pt": {
+      "$name": "Properties To JSON",
+      "$description": "Propriedades convertidas em json",
+      "$keywords": [
+        "Propriedades",
+        "JSON"
+      ]
+    },
+    "ru": {
+      "$name": "Properties To JSON",
+      "$description": "Свойства, преобразованные в JSON",
+      "$keywords": [
+        "Характеристики",
+        "Json"
+      ]
+    },
+    "zh-tw": {
+      "$name": "Properties 轉 JSON",
+      "$description": "Properties 轉化為 JSON",
+      "$keywords": [
+        "Properties",
+        "JSON"
+      ]
+    },
+    "zh-cn": {
+      "$name": "Properties 转 JSON",
+      "$description": "Properties 转化为 JSON",
+      "$keywords": [
+        "Properties",
+        "JSON"
+      ]
+    }
+  },
+  {
+    "id": "json-to-properties",
+    "zh": {
+      "$name": "JSON 转 Properties",
+      "$description": "JSON 转化为 Properties",
+      "$keywords": [
+        "JSON",
+        "Properties"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Properties",
+      "$description": "JSON To Properties",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Properties",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Properties",
+      "$description": "JSON wandelt",
+      "$keywords": [
+        "JSON",
+        "Eigenschaften"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Properties",
+      "$description": "JSON se convierte en propuestas",
+      "$keywords": [
+        "Json",
+        "Propiedades"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Properties",
+      "$description": "JSON se convertit en propriétés",
+      "$keywords": [
+        "Json",
+        "Propriétés"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Properties",
+      "$description": "JSON si converte in eguali",
+      "$keywords": [
+        "JSON",
+        "Proprietà"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Properties",
+      "$description": "JSONはProprtiesに変換します",
+      "$keywords": [
+        "JSON",
+        "プロパティ"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Properties",
+      "$description": "JSON은 프로 프리티로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "속성"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Properties",
+      "$description": "JSON converte em proprietários",
+      "$keywords": [
+        "JSON",
+        "Propriedades"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Properties",
+      "$description": "Json конвертируется в Proprties",
+      "$keywords": [
+        "Json",
+        "Характеристики"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Properties",
+      "$description": "JSON 轉化為 Properties",
+      "$keywords": [
+        "JSON",
+        "Properties"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Properties",
+      "$description": "JSON 转化为 Properties",
+      "$keywords": [
+        "JSON",
+        "Properties"
+      ]
+    }
+  },
+  {
+    "id": "json-to-go-struct",
+    "zh": {
+      "$name": "JSON 转 Go Struct",
+      "$description": "JSON 转化为 Go Struct",
+      "$keywords": [
+        "JSON",
+        "Go Struct"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Go Struct",
+      "$description": "JSON To Go Struct",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Go Struct",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Go Struct",
+      "$description": "JSON wandelt sich um Struktur um",
+      "$keywords": [
+        "JSON",
+        "Strukturieren"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Go Struct",
+      "$description": "JSON se convierte para ser estructural",
+      "$keywords": [
+        "Json",
+        "Ser estructural"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Go Struct",
+      "$description": "JSON se convertit pour aller structure",
+      "$keywords": [
+        "Json",
+        "Strust"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Go Struct",
+      "$description": "JSON si converte per andare struct",
+      "$keywords": [
+        "JSON",
+        "Vai struct"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Go Struct",
+      "$description": "JSONはGo Structに変換します",
+      "$keywords": [
+        "JSON",
+        "structに移動します"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Go Struct",
+      "$description": "JSON은 구조로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "구조로 가십시오"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Go Struct",
+      "$description": "JSON converte para ir estruturar",
+      "$keywords": [
+        "JSON",
+        "Vá estrutura"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Go Struct",
+      "$description": "Json конвертируется, чтобы go struct",
+      "$keywords": [
+        "Json",
+        "Go Struct"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Go Struct",
+      "$description": "JSON 轉化為 Go Struct",
+      "$keywords": [
+        "JSON",
+        "Go Struct"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Go Struct",
+      "$description": "JSON 转化为 Go Struct",
+      "$keywords": [
+        "JSON",
+        "Go Struct"
+      ]
+    }
+  },
+  {
+    "id": "json-to-java-bean",
+    "zh": {
+      "$name": "JSON 转 JAVA Bean",
+      "$description": "JSON 转化为 JAVA Bean",
+      "$keywords": [
+        "JSON",
+        "JAVA Bean"
+      ]
+    },
+    "en": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "JSON To JAVA Bean",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "JAVA Bean",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "JSON konvertiert in Java Bean",
+      "$keywords": [
+        "JSON",
+        "Java Bean"
+      ]
+    },
+    "es": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "JSON se convierte a Java Bean",
+      "$keywords": [
+        "Json",
+        "Java"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "JSON se convertit en Java Bean",
+      "$keywords": [
+        "Json",
+        "Haricot java"
+      ]
+    },
+    "it": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "JSON si converte in java bean",
+      "$keywords": [
+        "JSON",
+        "Java bean"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "JsonはJava Beanに変換します",
+      "$keywords": [
+        "JSON",
+        "Java Bean"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "JSON은 Java Bean으로 변환됩니다",
+      "$keywords": [
+        "JSON",
+        "자바 콩"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "JSON converte para Java Bean",
+      "$keywords": [
+        "JSON",
+        "Java Bean"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To JAVA Bean",
+      "$description": "Json обратится в Java Bean",
+      "$keywords": [
+        "Json",
+        "Java Bean"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 JAVA Bean",
+      "$description": "JSON 轉化為 JAVA Bean",
+      "$keywords": [
+        "JSON",
+        "JAVA Bean"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 JAVA Bean",
+      "$description": "JSON 转化为 JAVA Bean",
+      "$keywords": [
+        "JSON",
+        "JAVA Bean"
+      ]
+    }
+  },
+  {
+    "id": "json-to-python-class",
+    "zh": {
+      "$name": "JSON 转 Python Class",
+      "$description": "JSON 转化为 Python Class",
+      "$keywords": [
+        "JSON",
+        "Python Class"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Python Class",
+      "$description": "JSON To Python Class",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Python Class",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Python Class",
+      "$description": "JSON konvertiert in die Python -Klasse",
+      "$keywords": [
+        "JSON",
+        "Python -Klasse"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Python Class",
+      "$description": "JSON se convierte a la clase de Python",
+      "$keywords": [
+        "Json",
+        "Clase de pitón"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Python Class",
+      "$description": "JSON se convertit en classe Python",
+      "$keywords": [
+        "Json",
+        "Classe python"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Python Class",
+      "$description": "JSON si converte in classe Python",
+      "$keywords": [
+        "JSON",
+        "Classe Python"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Python Class",
+      "$description": "JSONはPythonクラスに変換します",
+      "$keywords": [
+        "JSON",
+        "Pythonクラス"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Python Class",
+      "$description": "JSON은 Python 클래스로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "파이썬 클래스"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Python Class",
+      "$description": "JSON converte para a classe Python",
+      "$keywords": [
+        "JSON",
+        "Classe Python"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Python Class",
+      "$description": "Json конвертируется в класс Python",
+      "$keywords": [
+        "Json",
+        "Класс Python"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Python Class",
+      "$description": "JSON 轉化為 Python Class",
+      "$keywords": [
+        "JSON",
+        "Python Class"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Python Class",
+      "$description": "JSON 转化为 Python Class",
+      "$keywords": [
+        "JSON",
+        "Python Class"
+      ]
+    }
+  },
+  {
+    "zh": {
+      "$name": "JSON 转 Zod Schema",
+      "$description": "JSON 转化为 Zod Schema",
+      "$keywords": [
+        "JSON",
+        "Zod Schema"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON To Zod Schema",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Zod Schema",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON konvertiert in das ZOD -Schema",
+      "$keywords": [
+        "JSON",
+        "ZOD -Schema"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON se convierte al esquema Zod",
+      "$keywords": [
+        "Json",
+        "Esquema de zod"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON se convertit en schéma ZOD",
+      "$keywords": [
+        "Json",
+        "Schéma zod"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON si converte in schema Zod",
+      "$keywords": [
+        "JSON",
+        "Schema Zod"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JsonはZodスキーマに変換します",
+      "$keywords": [
+        "JSON",
+        "ZODスキーマ"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON은 ZOD 스키마로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "조드 스키마"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON converte para Zod Schema",
+      "$keywords": [
+        "JSON",
+        "Esquema Zod"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON обращается в схему ZOD",
+      "$keywords": [
+        "Json",
+        "Зод схема"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Zod Schema",
+      "$description": "JSON 轉化為 Zod Schema",
+      "$keywords": [
+        "JSON",
+        "Zod Schema"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Zod Schema",
+      "$description": "JSON 转化为 Zod Schema",
+      "$keywords": [
+        "JSON",
+        "Zod Schema"
+      ]
+    }
+  },
+  {
+    "id": "json-to-ruby-module",
+    "zh": {
+      "$name": "JSON 转 Ruby Module",
+      "$description": "JSON 转化为 Ruby Module",
+      "$keywords": [
+        "JSON",
+        "Ruby Module"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSON To Ruby Module",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Ruby Module",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSON wandelt sich zum Ruby -Modul um",
+      "$keywords": [
+        "JSON",
+        "Rubinmodul"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSON se convierte en módulo Ruby",
+      "$keywords": [
+        "Json",
+        "Módulo de rubí"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSON se convertit en module Ruby",
+      "$keywords": [
+        "Json",
+        "Module rubis"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSON si converte in modulo Ruby",
+      "$keywords": [
+        "JSON",
+        "Modulo Ruby"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSONはRubyモジュールに変換します",
+      "$keywords": [
+        "JSON",
+        "ルビーモジュール"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSON은 루비 모듈로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "루비 모듈"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSON converte para o módulo Ruby",
+      "$keywords": [
+        "JSON",
+        "Módulo Ruby"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Ruby Module",
+      "$description": "JSON конвертируется в Ruby Module",
+      "$keywords": [
+        "Json",
+        "Рубиновый модуль"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Ruby Module",
+      "$description": "JSON 轉化為 Ruby Module",
+      "$keywords": [
+        "JSON",
+        "Ruby Module"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Ruby Module",
+      "$description": "JSON 转化为 Ruby Module",
+      "$keywords": [
+        "JSON",
+        "Ruby Module"
+      ]
+    }
+  },
+  {
+    "id": "json-to-rust-struct",
+    "zh": {
+      "$name": "JSON 转 Rust Struct",
+      "$description": "JSON 转化为 Rust Struct",
+      "$keywords": [
+        "JSON",
+        "Rust Struct"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Rust Struct",
+      "$description": "JSON To Rust Struct",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Rust Struct",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Rust Struct",
+      "$description": "JSON wandelt sich in Rust Strupte um",
+      "$keywords": [
+        "JSON",
+        "Roststruktur"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Rust Struct",
+      "$description": "JSON se convierte en estructura de óxido",
+      "$keywords": [
+        "Json",
+        "Estructura de óxido"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Rust Struct",
+      "$description": "JSON se convertit en structure rouille",
+      "$keywords": [
+        "Json",
+        "Structure de rouille"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Rust Struct",
+      "$description": "JSON si converte in Rust Struct",
+      "$keywords": [
+        "JSON",
+        "Rust Struct"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Rust Struct",
+      "$description": "JSONは錆構造に変換します",
+      "$keywords": [
+        "JSON",
+        "錆構造"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Rust Struct",
+      "$description": "JSON은 Rust Stround로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "녹 구조물"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Rust Struct",
+      "$description": "JSON se converte em estrutura de ferrugem",
+      "$keywords": [
+        "JSON",
+        "Estrutura de ferrugem"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Rust Struct",
+      "$description": "Json превращается в структуру ржавчины",
+      "$keywords": [
+        "Json",
+        "Ржаво -структура"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Rust Struct",
+      "$description": "JSON 轉化為 Rust Struct",
+      "$keywords": [
+        "JSON",
+        "Rust Struct"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Rust Struct",
+      "$description": "JSON 转化为 Rust Struct",
+      "$keywords": [
+        "JSON",
+        "Rust Struct"
+      ]
+    }
+  },
+  {
+    "id": "json-to-dart-class",
+    "zh": {
+      "$name": "JSON 转 Dart Class",
+      "$description": "JSON 转化为 Dart Class",
+      "$keywords": [
+        "JSON",
+        "Dart Class"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSON To Dart Class",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Dart Class",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSON konvertiert in die Dartklasse",
+      "$keywords": [
+        "JSON",
+        "Dartklasse"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSON se convierte a la clase de DART",
+      "$keywords": [
+        "Json",
+        "Clase"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSON se convertit en classe Dart",
+      "$keywords": [
+        "Json",
+        "Classe de fléchettes"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSON si converte in classe Dart",
+      "$keywords": [
+        "JSON",
+        "Classe Dart"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSONはDARTクラスに変換します",
+      "$keywords": [
+        "JSON",
+        "ダートクラス"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSON은 다트 클래스로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "다트 클래스"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSON converte para a aula de dardo",
+      "$keywords": [
+        "JSON",
+        "Dart Class"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Dart Class",
+      "$description": "JSON конвертируется в класс DART",
+      "$keywords": [
+        "Json",
+        "ДАРТ КЛАСС"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Dart Class",
+      "$description": "JSON 轉化為 Dart Class",
+      "$keywords": [
+        "JSON",
+        "Dart Class"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Dart Class",
+      "$description": "JSON 转化为 Dart Class",
+      "$keywords": [
+        "JSON",
+        "Dart Class"
+      ]
+    }
+  },
+  {
+    "id": "json-to-c0-class",
+    "zh": {
+      "$name": "JSON 转 C# Class",
+      "$description": "JSON 转化为 C# Class",
+      "$keywords": [
+        "JSON",
+        "C# Class"
+      ]
+    },
+    "en": {
+      "$name": "JSON To C# Class",
+      "$description": "JSON To C# Class",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "C# Class",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To C# Class",
+      "$description": "JSON konvertiert in C# Klasse",
+      "$keywords": [
+        "JSON",
+        "C# Klasse"
+      ]
+    },
+    "es": {
+      "$name": "JSON To C# Class",
+      "$description": "JSON se convierte a la clase C#",
+      "$keywords": [
+        "Json",
+        "Clase C#"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To C# Class",
+      "$description": "JSON se convertit en classe C #",
+      "$keywords": [
+        "Json",
+        "Classe C #"
+      ]
+    },
+    "it": {
+      "$name": "JSON To C# Class",
+      "$description": "JSON si converte in classe C#",
+      "$keywords": [
+        "JSON",
+        "Classe C#"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To C# Class",
+      "$description": "JSONはC＃クラスに変換します",
+      "$keywords": [
+        "JSON",
+        "C＃クラス"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To C# Class",
+      "$description": "JSON은 C# 클래스로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "C# 클래스"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To C# Class",
+      "$description": "JSON converte para a classe C#",
+      "$keywords": [
+        "JSON",
+        "Classe C#"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To C# Class",
+      "$description": "JSON конвертируется в C# Class",
+      "$keywords": [
+        "Json",
+        "C# Class"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 C# Class",
+      "$description": "JSON 轉化為 C# Class",
+      "$keywords": [
+        "JSON",
+        "C# Class"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 C# Class",
+      "$description": "JSON 转化为 C# Class",
+      "$keywords": [
+        "JSON",
+        "C# Class"
+      ]
+    }
+  },
+  {
+    "id": "json-to-c00-struct",
+    "zh": {
+      "$name": "JSON 转 C++ Struct",
+      "$description": "JSON 转化为 C++ Struct",
+      "$keywords": [
+        "JSON",
+        "C++ Struct"
+      ]
+    },
+    "en": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSON To C++ Struct",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "C++ Struct",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSON konvertiert in C ++ Struct",
+      "$keywords": [
+        "JSON",
+        "C ++ Struktur"
+      ]
+    },
+    "es": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSON se convierte en estructura C ++",
+      "$keywords": [
+        "Json",
+        "Estructura de c ++"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSON se convertit en structure C ++",
+      "$keywords": [
+        "Json",
+        "C ++ structure"
+      ]
+    },
+    "it": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSON si converte in struct C ++",
+      "$keywords": [
+        "JSON",
+        "C ++ struct"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSONはC ++ structに変換します",
+      "$keywords": [
+        "JSON",
+        "C ++ struct"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSON은 C ++ struct로 변환됩니다",
+      "$keywords": [
+        "JSON",
+        "C ++ 구조"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSON converte em estrutura C ++",
+      "$keywords": [
+        "JSON",
+        "C ++ Struct"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To C++ Struct",
+      "$description": "JSON превращается в C ++ struct",
+      "$keywords": [
+        "Json",
+        "C ++ Структур"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 C++ Struct",
+      "$description": "JSON 轉化為 C++ Struct",
+      "$keywords": [
+        "JSON",
+        "C++ Struct"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 C++ Struct",
+      "$description": "JSON 转化为 C++ Struct",
+      "$keywords": [
+        "JSON",
+        "C++ Struct"
+      ]
+    }
+  },
+  {
+    "id": "json-to-swift-struct",
+    "zh": {
+      "$name": "JSON 转 Swift Struct",
+      "$description": "JSON 转化为 Swift Struct",
+      "$keywords": [
+        "JSON",
+        "Swift Struct"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Swift Struct",
+      "$description": "JSON To Swift Struct",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Swift Struct",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Swift Struct",
+      "$description": "JSON konvertiert in Swift Strupte",
+      "$keywords": [
+        "JSON",
+        "Swift Struct"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Swift Struct",
+      "$description": "JSON se convierte en Swift Struct",
+      "$keywords": [
+        "Json",
+        "Estructura rápida"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Swift Struct",
+      "$description": "JSON se convertit en structure rapide",
+      "$keywords": [
+        "Json",
+        "Structure rapide"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Swift Struct",
+      "$description": "JSON si converte in Swift Struct",
+      "$keywords": [
+        "JSON",
+        "Struttura rapida"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Swift Struct",
+      "$description": "JSONはSwift Structに変換します",
+      "$keywords": [
+        "JSON",
+        "迅速な構造"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Swift Struct",
+      "$description": "JSON은 신속한 구조물로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "신속한 구조"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Swift Struct",
+      "$description": "JSON converte para Swift Struct",
+      "$keywords": [
+        "JSON",
+        "Swift Struct"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Swift Struct",
+      "$description": "Json конвертируется в Swift Struct",
+      "$keywords": [
+        "Json",
+        "Swift Struct"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Swift Struct",
+      "$description": "JSON 轉化為 Swift Struct",
+      "$keywords": [
+        "JSON",
+        "Swift Struct"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Swift Struct",
+      "$description": "JSON 转化为 Swift Struct",
+      "$keywords": [
+        "JSON",
+        "Swift Struct"
+      ]
+    }
+  },
+  {
+    "id": "json-to-objective-c-interface",
+    "zh": {
+      "$name": "JSON 转 Objective-C Interface",
+      "$description": "JSON 转化为 Objective-C Interface",
+      "$keywords": [
+        "JSON",
+        "Objective-C Interface"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSON To Objective-C Interface",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Objective-C Interface",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSON wandelt sich in die Objective-C-Schnittstelle um",
+      "$keywords": [
+        "JSON",
+        "Objektiv-C-Schnittstelle"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSON se convierte en la interfaz Objective-C",
+      "$keywords": [
+        "Json",
+        "Interfaz Objective-C"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSON se convertit en interface objective-C",
+      "$keywords": [
+        "Json",
+        "Interface objective-C"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSON si converte in interfaccia Objective-C",
+      "$keywords": [
+        "JSON",
+        "Interfaccia Objective-C."
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSONはObjective-Cインターフェイスに変換します",
+      "$keywords": [
+        "JSON",
+        "Objective-Cインターフェイス"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSON은 Objective-C 인터페이스로 변환됩니다",
+      "$keywords": [
+        "JSON",
+        "대상 C 인터페이스"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSON converte para a interface Objective-C",
+      "$keywords": [
+        "JSON",
+        "Interface Objective-C."
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Objective-C Interface",
+      "$description": "JSON преобразуется в интерфейс Objective-C",
+      "$keywords": [
+        "Json",
+        "Objective-C интерфейс"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Objective-C Interface",
+      "$description": "JSON 轉化為 Objective-C Interface",
+      "$keywords": [
+        "JSON",
+        "Objective-C Interface"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Objective-C Interface",
+      "$description": "JSON 转化为 Objective-C Interface",
+      "$keywords": [
+        "JSON",
+        "Objective-C Interface"
+      ]
+    }
+  },
+  {
+    "id": "json-to-haskell-module",
+    "zh": {
+      "$name": "JSON 转 Haskell Module",
+      "$description": "JSON 转化为 Haskell Module",
+      "$keywords": [
+        "JSON",
+        "Haskell Module"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSON To Haskell Module",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Haskell Module",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSON wandelt sich zum Haskell -Modul um",
+      "$keywords": [
+        "JSON",
+        "Haskell -Modul"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSON se convierte en módulo Haskell",
+      "$keywords": [
+        "Json",
+        "Módulo Haskell"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSON se convertit en module Haskell",
+      "$keywords": [
+        "Json",
+        "Module Haskell"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSON si converte in modulo Haskell",
+      "$keywords": [
+        "JSON",
+        "Modulo Haskell"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSONはHaskellモジュールに変換します",
+      "$keywords": [
+        "JSON",
+        "Haskellモジュール"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSON은 Haskell 모듈로 변환됩니다",
+      "$keywords": [
+        "JSON",
+        "Haskell 모듈"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSON converte para o módulo Haskell",
+      "$keywords": [
+        "JSON",
+        "Módulo Haskell"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Haskell Module",
+      "$description": "JSON конвертируется в модуль Haskell",
+      "$keywords": [
+        "Json",
+        "Модуль Haskell"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Haskell Module",
+      "$description": "JSON 轉化為 Haskell Module",
+      "$keywords": [
+        "JSON",
+        "Haskell Module"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Haskell Module",
+      "$description": "JSON 转化为 Haskell Module",
+      "$keywords": [
+        "JSON",
+        "Haskell Module"
+      ]
+    }
+  },
+  {
+    "id": "json-to-pike-class",
+    "zh": {
+      "$name": "JSON 转 Pike Class",
+      "$description": "JSON 转化为 Pike Class",
+      "$keywords": [
+        "JSON",
+        "Pike Class"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Pike Class",
+      "$description": "JSON To Pike Class",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Pike Class",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Pike Class",
+      "$description": "JSON konvertiert in die Hechtsklasse",
+      "$keywords": [
+        "JSON",
+        "Hechtklasse"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Pike Class",
+      "$description": "JSON se convierte a la clase Pike",
+      "$keywords": [
+        "Json",
+        "Clase de luces"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Pike Class",
+      "$description": "JSON se convertit en classe Pike",
+      "$keywords": [
+        "Json",
+        "Classe de brochet"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Pike Class",
+      "$description": "JSON si converte in classe Pike",
+      "$keywords": [
+        "JSON",
+        "Classe Pike"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Pike Class",
+      "$description": "JSONはパイククラスに変換します",
+      "$keywords": [
+        "JSON",
+        "パイククラス"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Pike Class",
+      "$description": "JSON은 파이크 클래스로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "파이크 클래스"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Pike Class",
+      "$description": "JSON converte para a aula de Pike",
+      "$keywords": [
+        "JSON",
+        "Classe Pike"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Pike Class",
+      "$description": "Json конвертируется в класс Pike",
+      "$keywords": [
+        "Json",
+        "Класс"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Pike Class",
+      "$description": "JSON 轉化為 Pike Class",
+      "$keywords": [
+        "JSON",
+        "Pike Class"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Pike Class",
+      "$description": "JSON 转化为 Pike Class",
+      "$keywords": [
+        "JSON",
+        "Pike Class"
+      ]
+    }
+  },
+  {
+    "id": "json-to-elm-module",
+    "zh": {
+      "$name": "JSON 转 Elm Module",
+      "$description": "JSON 转化为 Elm Module",
+      "$keywords": [
+        "JSON",
+        "Elm Module"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSON To Elm Module",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Elm Module",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSON konvertiert in das Elm -Modul",
+      "$keywords": [
+        "JSON",
+        "ELM -Modul"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSON se convierte al módulo ELM",
+      "$keywords": [
+        "Json",
+        "Módulo de olmo"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSON se convertit en module ELM",
+      "$keywords": [
+        "Json",
+        "Module d'orme"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSON si converte in modulo ELM",
+      "$keywords": [
+        "JSON",
+        "Modulo ELM"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSONはELMモジュールに変換します",
+      "$keywords": [
+        "JSON",
+        "ELMモジュール"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSON은 ELM 모듈로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "ELM 모듈"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSON converte para o módulo ELM",
+      "$keywords": [
+        "JSON",
+        "Módulo Elm"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Elm Module",
+      "$description": "JSON конвертируется в модуль ELM",
+      "$keywords": [
+        "Json",
+        "Модуль ELM"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Elm Module",
+      "$description": "JSON 轉化為 Elm Module",
+      "$keywords": [
+        "JSON",
+        "Elm Module"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Elm Module",
+      "$description": "JSON 转化为 Elm Module",
+      "$keywords": [
+        "JSON",
+        "Elm Module"
+      ]
+    }
+  },
+  {
+    "id": "json-to-crystal-class",
+    "zh": {
+      "$name": "JSON 转 Crystal Class",
+      "$description": "JSON 转化为 Crystal Class",
+      "$keywords": [
+        "JSON",
+        "Crystal Class"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSON To Crystal Class",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Crystal Class",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSON konvertiert in die Kristallklasse",
+      "$keywords": [
+        "JSON",
+        "Kristallklasse"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSON se convierte en clase de cristal",
+      "$keywords": [
+        "Json",
+        "Clase de cristal"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSON se convertit en classe Crystal",
+      "$keywords": [
+        "Json",
+        "Classe de cristal"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSON si converte in classe di cristallo",
+      "$keywords": [
+        "JSON",
+        "Classe di cristallo"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSONはクリスタルクラスに変換します",
+      "$keywords": [
+        "JSON",
+        "クリスタルクラス"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSON은 Crystal 클래스로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "크리스탈 클래스"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSON converte para a classe de cristal",
+      "$keywords": [
+        "JSON",
+        "Classe de cristal"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Crystal Class",
+      "$description": "JSON конвертируется в класс Crystal",
+      "$keywords": [
+        "Json",
+        "Хрустальный класс"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Crystal Class",
+      "$description": "JSON 轉化為 Crystal Class",
+      "$keywords": [
+        "JSON",
+        "Crystal Class"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Crystal Class",
+      "$description": "JSON 转化为 Crystal Class",
+      "$keywords": [
+        "JSON",
+        "Crystal Class"
+      ]
+    }
+  },
+  {
+    "id": "json-to-json-schema",
+    "zh": {
+      "$name": "JSON 转 JSON Schema",
+      "$description": "JSON 转化为 JSON Schema",
+      "$keywords": [
+        "JSON",
+        "Schema"
+      ]
+    },
+    "en": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSON To JSON Schema",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Schema",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSON konvertiert in JSON Schema",
+      "$keywords": [
+        "JSON",
+        "Schema"
+      ]
+    },
+    "es": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSON se convierte al esquema JSON",
+      "$keywords": [
+        "Json",
+        "Esquema"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSON se convertit en schéma JSON",
+      "$keywords": [
+        "Json",
+        "Schéma"
+      ]
+    },
+    "it": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSON si converte in schema JSON",
+      "$keywords": [
+        "JSON",
+        "Schema"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSONはJSONスキーマに変換します",
+      "$keywords": [
+        "JSON",
+        "スキーマ"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSON은 JSON 스키마로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "개요"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSON converte para JSON Schema",
+      "$keywords": [
+        "JSON",
+        "Esquema"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To JSON Schema",
+      "$description": "JSON обращается в схему JSON",
+      "$keywords": [
+        "Json",
+        "Схема"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 JSON Schema",
+      "$description": "JSON 轉化為 JSON Schema",
+      "$keywords": [
+        "JSON",
+        "Schema"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 JSON Schema",
+      "$description": "JSON 转化为 JSON Schema",
+      "$keywords": [
+        "JSON",
+        "Schema"
+      ]
+    }
+  },
+  {
+    "id": "json-to-kotlin-class",
+    "zh": {
+      "$name": "JSON 转 Kotlin Class",
+      "$description": "JSON 转化为 Kotlin Class",
+      "$keywords": [
+        "JSON",
+        "Kotlin Class"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JSON To Kotlin Class",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Kotlin Class",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JSON konvertiert in die Kotlin -Klasse",
+      "$keywords": [
+        "JSON",
+        "Kotlin -Klasse"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JSON se convierte a la clase Kotlin",
+      "$keywords": [
+        "Json",
+        "Clase Kotlin"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JSON se convertit en classe Kotlin",
+      "$keywords": [
+        "Json",
+        "Classe Kotlin"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JSON si converte in classe Kotlin",
+      "$keywords": [
+        "JSON",
+        "Classe Kotlin"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JsonはKotlinクラスに変換します",
+      "$keywords": [
+        "JSON",
+        "コトリンクラス"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JSON은 Kotlin 클래스로 전환합니다",
+      "$keywords": [
+        "JSON",
+        "Kotlin 클래스"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JSON converte para a classe Kotlin",
+      "$keywords": [
+        "JSON",
+        "Classe Kotlin"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Kotlin Class",
+      "$description": "JSON конвертируется в класс Kotlin",
+      "$keywords": [
+        "Json",
+        "Kotlin Class"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Kotlin Class",
+      "$description": "JSON 轉化為 Kotlin Class",
+      "$keywords": [
+        "JSON",
+        "Kotlin Class"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Kotlin Class",
+      "$description": "JSON 转化为 Kotlin Class",
+      "$keywords": [
+        "JSON",
+        "Kotlin Class"
+      ]
+    }
+  },
+  {
+    "id": "json-to-toml",
+    "zh": {
+      "$name": "JSON 转 TOML",
+      "$description": "JSON 转化为 TOML",
+      "$keywords": [
+        "JSON",
+        "TOML"
+      ]
+    },
+    "en": {
+      "$name": "JSON To TOML",
+      "$description": "JSON To TOML",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "TOML",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To TOML",
+      "$description": "JSON konvertiert nach Toml",
+      "$keywords": [
+        "JSON",
+        "Toml"
+      ]
+    },
+    "es": {
+      "$name": "JSON To TOML",
+      "$description": "JSON se convierte en Toml",
+      "$keywords": [
+        "Json",
+        "Toml"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To TOML",
+      "$description": "JSON se convertit en Toml",
+      "$keywords": [
+        "Json",
+        "Toml"
+      ]
+    },
+    "it": {
+      "$name": "JSON To TOML",
+      "$description": "JSON si converte in Toml",
+      "$keywords": [
+        "JSON",
+        "Toml"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To TOML",
+      "$description": "JSONはTOMLに変換します",
+      "$keywords": [
+        "JSON",
+        "トム"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To TOML",
+      "$description": "JSON은 Toml로 전환합니다",
+      "$keywords": [
+        "JSON",
+        "톰"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To TOML",
+      "$description": "JSON converte para Toml",
+      "$keywords": [
+        "JSON",
+        "Toml"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To TOML",
+      "$description": "Json обратится в Toml",
+      "$keywords": [
+        "Json",
+        "Томл"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 TOML",
+      "$description": "JSON 轉化為 TOML",
+      "$keywords": [
+        "JSON",
+        "TOML"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 TOML",
+      "$description": "JSON 转化为 TOML",
+      "$keywords": [
+        "JSON",
+        "TOML"
+      ]
+    }
+  },
+  {
+    "id": "json-to-xml",
+    "zh": {
+      "$name": "JSON 转 XML",
+      "$description": "JSON 转化为 XML",
+      "$keywords": [
+        "JSON",
+        "XML"
+      ]
+    },
+    "en": {
+      "$name": "JSON To XML",
+      "$description": "JSON To XML",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "XML",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To XML",
+      "$description": "JSON konvertiert in XML",
+      "$keywords": [
+        "JSON",
+        "Xml"
+      ]
+    },
+    "es": {
+      "$name": "JSON To XML",
+      "$description": "JSON se convierte en XML",
+      "$keywords": [
+        "Json",
+        "Xml"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To XML",
+      "$description": "JSON se convertit en XML",
+      "$keywords": [
+        "Json",
+        "Xml"
+      ]
+    },
+    "it": {
+      "$name": "JSON To XML",
+      "$description": "JSON si converte in XML",
+      "$keywords": [
+        "JSON",
+        "XML"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To XML",
+      "$description": "JSONはXMLに変換します",
+      "$keywords": [
+        "JSON",
+        "XML"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To XML",
+      "$description": "JSON은 XML로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "XML"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To XML",
+      "$description": "JSON converte para XML",
+      "$keywords": [
+        "JSON",
+        "Xml"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To XML",
+      "$description": "JSON обращается в XML",
+      "$keywords": [
+        "Json",
+        "XML"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 XML",
+      "$description": "JSON 轉化為 XML",
+      "$keywords": [
+        "JSON",
+        "XML"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 XML",
+      "$description": "JSON 转化为 XML",
+      "$keywords": [
+        "JSON",
+        "XML"
+      ]
+    }
+  },
+  {
+    "id": "json-to-pretty",
+    "zh": {
+      "$name": "JSON 格式化",
+      "$description": "格式化 JSON 代码",
+      "$keywords": [
+        "格式化",
+        "美化",
+        "排版",
+        "验证",
+        "校验"
+      ]
+    },
+    "en": {
+      "$name": "JSON Format",
+      "$description": "Format JSON code",
+      "$keywords": [
+        "json",
+        "beautify",
+        "pretty",
+        "prettify",
+        "fmt",
+        "format",
+        "formatter",
+        "validate",
+        "validator"
+      ]
+    },
+    "de": {
+      "$name": "JSON -Formatisierung",
+      "$description": "Formatieren von JSON -Code",
+      "$keywords": [
+        "Format",
+        "verschönern",
+        "Artensett",
+        "verifizieren",
+        "überprüfen"
+      ]
+    },
+    "es": {
+      "$name": "Formatización JSON",
+      "$description": "Formateo del código JSON",
+      "$keywords": [
+        "formato",
+        "embellecer",
+        "tipografía",
+        "verificar",
+        "controlar"
+      ]
+    },
+    "fr": {
+      "$name": "Formatisation JSON",
+      "$description": "Formatage du code JSON",
+      "$keywords": [
+        "format",
+        "embellir",
+        "typographie",
+        "vérifier",
+        "vérifier"
+      ]
+    },
+    "it": {
+      "$name": "Formatizzazione JSON",
+      "$description": "Formattazione del codice JSON",
+      "$keywords": [
+        "formato",
+        "abbellire",
+        "composizione",
+        "verificare",
+        "controllo"
+      ]
+    },
+    "ja": {
+      "$name": "JSON形式",
+      "$description": "JSONコードのフォーマット",
+      "$keywords": [
+        "フォーマット",
+        "美化します",
+        "組版",
+        "確認",
+        "チェック"
+      ]
+    },
+    "ko": {
+      "$name": "JSON 형식화",
+      "$description": "JSON 코드 서식",
+      "$keywords": [
+        "체재",
+        "멋있게 하다",
+        "조판",
+        "확인하다",
+        "확인하다"
+      ]
+    },
+    "pt": {
+      "$name": "Formatização JSON",
+      "$description": "Formatando o código JSON",
+      "$keywords": [
+        "formatar",
+        "embelezar",
+        "TIPO",
+        "verificar",
+        "verificar"
+      ]
+    },
+    "ru": {
+      "$name": "Форматизация JSON",
+      "$description": "Форматирование кода JSON",
+      "$keywords": [
+        "формат",
+        "украсить",
+        "набор",
+        "проверять",
+        "проверять"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 格式化",
+      "$description": "格式化 JSON 代碼",
+      "$keywords": [
+        "格式化",
+        "美化",
+        "排版",
+        "驗證",
+        "校驗"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 格式化",
+      "$description": "格式化 JSON 代码",
+      "$keywords": [
+        "格式化",
+        "美化",
+        "排版",
+        "验证",
+        "校验"
+      ]
+    }
+  },
+  {
+    "id": "json-to-typescript-interface",
+    "zh": {
+      "$name": "JSON 转 TypeScript Interface",
+      "$description": "JSON 转化为 TypeScript Interface",
+      "$keywords": [
+        "JSON",
+        "TypeScript Interface"
+      ]
+    },
+    "en": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSON To TypeScript Interface",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "TypeScript Interface",
+        "transform",
+        "ts"
+      ]
+    },
+    "de": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSON konvertiert zur Typscript -Schnittstelle",
+      "$keywords": [
+        "JSON",
+        "TypeScript -Schnittstelle"
+      ]
+    },
+    "es": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSON se convierte en interfaz TypeScript",
+      "$keywords": [
+        "Json",
+        "Interfaz mecanografiado"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSON se convertit à l'interface dactylographiée",
+      "$keywords": [
+        "Json",
+        "Interface dactylographiée"
+      ]
+    },
+    "it": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSON si converte in interfaccia dattiloscritto",
+      "$keywords": [
+        "JSON",
+        "Interfaccia dattiloscritto"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSONはタイプスクリプトインターフェイスに変換します",
+      "$keywords": [
+        "JSON",
+        "タイプスクリプトインターフェイス"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSON은 TypeScript 인터페이스로 변환됩니다",
+      "$keywords": [
+        "JSON",
+        "TypeScript 인터페이스"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSON converte para a interface do título",
+      "$keywords": [
+        "JSON",
+        "Interface datilografada"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To TypeScript Interface",
+      "$description": "JSON преобразуется в интерфейс TypeScript",
+      "$keywords": [
+        "Json",
+        "Интерфейс TypeScript"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 TypeScript Interface",
+      "$description": "JSON 轉化為 TypeScript Interface",
+      "$keywords": [
+        "JSON",
+        "TypeScript Interface"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 TypeScript Interface",
+      "$description": "JSON 转化为 TypeScript Interface",
+      "$keywords": [
+        "JSON",
+        "TypeScript Interface"
+      ]
+    }
+  },
+  {
+    "id": "json-to-big-query-schema",
+    "zh": {
+      "$name": "JSON 转 Big Query Schema",
+      "$description": "JSON 转化为 Big Query Schema",
+      "$keywords": [
+        "JSON",
+        "Big Query Schema"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSON To Big Query Schema",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Big Query Schema",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSON konvertiert in ein großes Query -Schema",
+      "$keywords": [
+        "JSON",
+        "Großes Query -Schema"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSON se convierte en un gran esquema de consultas",
+      "$keywords": [
+        "Json",
+        "Esquema de consultas grandes"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSON se convertit en grand schéma de requête",
+      "$keywords": [
+        "Json",
+        "Grand schéma de requête"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSON si converte in grande schema di query",
+      "$keywords": [
+        "JSON",
+        "Grande schema di query"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSONはビッグクエリスキーマに変換します",
+      "$keywords": [
+        "JSON",
+        "大きなクエリスキーマ"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSON은 큰 쿼리 스키마로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "큰 쿼리 스키마"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSON se converte em um grande esquema de consulta",
+      "$keywords": [
+        "JSON",
+        "Esquema Big Query"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Big Query Schema",
+      "$description": "JSON обращается в схему больших запросов",
+      "$keywords": [
+        "Json",
+        "Большая схема запроса"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Big Query Schema",
+      "$description": "JSON 轉化為 Big Query Schema",
+      "$keywords": [
+        "JSON",
+        "Big Query Schema"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Big Query Schema",
+      "$description": "JSON 转化为 Big Query Schema",
+      "$keywords": [
+        "JSON",
+        "Big Query Schema"
+      ]
+    }
+  },
+  {
+    "id": "json-to-io-ts",
+    "zh": {
+      "$name": "JSON 转 IO-TS",
+      "$description": "JSON 转化为 IO-TS",
+      "$keywords": [
+        "JSON",
+        "IO-TS"
+      ]
+    },
+    "en": {
+      "$name": "JSON To IO-TS",
+      "$description": "JSON To IO-TS",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "IO-TS",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To IO-TS",
+      "$description": "JSON konvertiert in IO-Ts",
+      "$keywords": [
+        "JSON",
+        "Io-ts"
+      ]
+    },
+    "es": {
+      "$name": "JSON To IO-TS",
+      "$description": "JSON se convierte en IO-TS",
+      "$keywords": [
+        "Json",
+        "Io-ts"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To IO-TS",
+      "$description": "JSON se convertit en IO-TS",
+      "$keywords": [
+        "Json",
+        "Io-TS"
+      ]
+    },
+    "it": {
+      "$name": "JSON To IO-TS",
+      "$description": "JSON si converte in io-ts",
+      "$keywords": [
+        "JSON",
+        "Io-t"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To IO-TS",
+      "$description": "JSONはIO-TSに変換します",
+      "$keywords": [
+        "JSON",
+        "io-ts"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To IO-TS",
+      "$description": "JSON은 IO-T로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "IO-TS"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To IO-TS",
+      "$description": "JSON converte para io-ts",
+      "$keywords": [
+        "JSON",
+        "Io-ts"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To IO-TS",
+      "$description": "Json обращается в iO-ts",
+      "$keywords": [
+        "Json",
+        "Io-ts"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 IO-TS",
+      "$description": "JSON 轉化為 IO-TS",
+      "$keywords": [
+        "JSON",
+        "IO-TS"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 IO-TS",
+      "$description": "JSON 转化为 IO-TS",
+      "$keywords": [
+        "JSON",
+        "IO-TS"
+      ]
+    }
+  },
+  {
+    "id": "json-to-scala",
+    "zh": {
+      "$name": "JSON 转 Scala",
+      "$description": "JSON 转化为 Scala",
+      "$keywords": [
+        "JSON",
+        "Scala"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Scala",
+      "$description": "JSON To Scala",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Scala",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Scala",
+      "$description": "JSON konvertiert nach Scala",
+      "$keywords": [
+        "JSON",
+        "Scala"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Scala",
+      "$description": "JSON se convierte en Scala",
+      "$keywords": [
+        "Json",
+        "Escala"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Scala",
+      "$description": "JSON se convertit à Scala",
+      "$keywords": [
+        "Json",
+        "Scala"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Scala",
+      "$description": "JSON si converte in Scala",
+      "$keywords": [
+        "JSON",
+        "Scala"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Scala",
+      "$description": "JsonはScalaに変換します",
+      "$keywords": [
+        "JSON",
+        "スカラ"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Scala",
+      "$description": "JSON은 스칼라로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "스칼라"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Scala",
+      "$description": "JSON converte para Scala",
+      "$keywords": [
+        "JSON",
+        "Scala"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Scala",
+      "$description": "Json конвертируется в Scala",
+      "$keywords": [
+        "Json",
+        "Скала"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Scala",
+      "$description": "JSON 轉化為 Scala",
+      "$keywords": [
+        "JSON",
+        "Scala"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Scala",
+      "$description": "JSON 转化为 Scala",
+      "$keywords": [
+        "JSON",
+        "Scala"
+      ]
+    }
+  },
+  {
+    "id": "json-to-sarcastic",
+    "zh": {
+      "$name": "JSON 转 Sarcastic",
+      "$description": "JSON 转化为 Sarcastic",
+      "$keywords": [
+        "JSON",
+        "Sarcastic"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSON To Sarcastic",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Sarcastic",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSON wandelt sich in sarkastisch",
+      "$keywords": [
+        "JSON",
+        "Sarkastisch"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSON se convierte en sarcástico",
+      "$keywords": [
+        "Json",
+        "Sarcástico"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSON se convertit en sarcastique",
+      "$keywords": [
+        "Json",
+        "Sarcastique"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSON si converte in sarcastico",
+      "$keywords": [
+        "JSON",
+        "Sarcastico"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSONは皮肉に変換します",
+      "$keywords": [
+        "JSON",
+        "皮肉な"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSON은 냉소로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "냉소"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSON se converte em sarcástico",
+      "$keywords": [
+        "JSON",
+        "Sarcástico"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Sarcastic",
+      "$description": "JSON превращается в саркастическую",
+      "$keywords": [
+        "Json",
+        "Саркастический"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Sarcastic",
+      "$description": "JSON 轉化為 Sarcastic",
+      "$keywords": [
+        "JSON",
+        "Sarcastic"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Sarcastic",
+      "$description": "JSON 转化为 Sarcastic",
+      "$keywords": [
+        "JSON",
+        "Sarcastic"
+      ]
+    }
+  },
+  {
+    "id": "json-to-zod-schema",
+    "zh": {
+      "$name": "JSON 转 Zod Schema",
+      "$description": "JSON 转化为 Zod Schema",
+      "$keywords": [
+        "JSON",
+        "Zod Schema"
+      ]
+    },
+    "en": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON To Zod Schema",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "Zod Schema",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON konvertiert in das ZOD -Schema",
+      "$keywords": [
+        "JSON",
+        "ZOD -Schema"
+      ]
+    },
+    "es": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON se convierte al esquema Zod",
+      "$keywords": [
+        "Json",
+        "Esquema de zod"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON se convertit en schéma ZOD",
+      "$keywords": [
+        "Json",
+        "Schéma zod"
+      ]
+    },
+    "it": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON si converte in schema Zod",
+      "$keywords": [
+        "JSON",
+        "Schema Zod"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JsonはZodスキーマに変換します",
+      "$keywords": [
+        "JSON",
+        "ZODスキーマ"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON은 ZOD 스키마로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "조드 스키마"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON converte para Zod Schema",
+      "$keywords": [
+        "JSON",
+        "Esquema Zod"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To Zod Schema",
+      "$description": "JSON обращается в схему ZOD",
+      "$keywords": [
+        "Json",
+        "Зод схема"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Zod Schema",
+      "$description": "JSON 轉化為 Zod Schema",
+      "$keywords": [
+        "JSON",
+        "Zod Schema"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 Zod Schema",
+      "$description": "JSON 转化为 Zod Schema",
+      "$keywords": [
+        "JSON",
+        "Zod Schema"
+      ]
+    }
+  },
+  {
+    "id": "json-to-generator",
+    "zh": {
+      "$name": "JSON 生成器",
+      "$description": "生成 JSON 代码",
+      "$keywords": [
+        "生成器"
+      ]
+    },
+    "en": {
+      "$name": "JSON Generator",
+      "$description": "Generate JSON code",
+      "$keywords": [
+        "json",
+        "generate",
+        "generator"
+      ]
+    },
+    "de": {
+      "$name": "JSON -Generator",
+      "$description": "Generieren Sie JSON -Code",
+      "$keywords": [
+        "Erbauer"
+      ]
+    },
+    "es": {
+      "$name": "Generador json",
+      "$description": "Generar código JSON",
+      "$keywords": [
+        "Constructor"
+      ]
+    },
+    "fr": {
+      "$name": "Générateur JSON",
+      "$description": "Générer du code JSON",
+      "$keywords": [
+        "Constructeur"
+      ]
+    },
+    "it": {
+      "$name": "Generatore JSON",
+      "$description": "Genera il codice JSON",
+      "$keywords": [
+        "Costruttore"
+      ]
+    },
+    "ja": {
+      "$name": "JSONジェネレーター",
+      "$description": "JSONコードを生成します",
+      "$keywords": [
+        "ビルダー"
+      ]
+    },
+    "ko": {
+      "$name": "JSON 생성기",
+      "$description": "JSON 코드를 생성합니다",
+      "$keywords": [
+        "빌더"
+      ]
+    },
+    "pt": {
+      "$name": "JSON Generator",
+      "$description": "Gerar código JSON",
+      "$keywords": [
+        "Construtor"
+      ]
+    },
+    "ru": {
+      "$name": "JSON Generator",
+      "$description": "Генерировать код JSON",
+      "$keywords": [
+        "Строитель"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 生成器",
+      "$description": "生成 JSON 代碼",
+      "$keywords": [
+        "生成器"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 生成器",
+      "$description": "生成 JSON 代码",
+      "$keywords": [
+        "生成器"
+      ]
+    }
+  },
+  {
+    "id": "json-to-yaml",
+    "zh": {
+      "$name": "JSON 转 YAML",
+      "$description": "JSON 转化为 YAML",
+      "$keywords": [
+        "JSON",
+        "YAML"
+      ]
+    },
+    "en": {
+      "$name": "JSON To YAML",
+      "$description": "JSON To YAML",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "YAML",
+        "transform",
+        "YML"
+      ]
+    },
+    "de": {
+      "$name": "JSON To YAML",
+      "$description": "JSON konvertiert in Yaml",
+      "$keywords": [
+        "JSON",
+        "Yaml"
+      ]
+    },
+    "es": {
+      "$name": "JSON To YAML",
+      "$description": "JSON se convierte a Yaml",
+      "$keywords": [
+        "Json",
+        "Yaml"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To YAML",
+      "$description": "JSON se convertit en yaml",
+      "$keywords": [
+        "Json",
+        "Yaml"
+      ]
+    },
+    "it": {
+      "$name": "JSON To YAML",
+      "$description": "JSON si converte in yaml",
+      "$keywords": [
+        "JSON",
+        "Yaml"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To YAML",
+      "$description": "JsonはYamlに変換します",
+      "$keywords": [
+        "JSON",
+        "Yaml"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To YAML",
+      "$description": "JSON은 Yaml로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "얌"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To YAML",
+      "$description": "JSON converte para Yaml",
+      "$keywords": [
+        "JSON",
+        "Yaml"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To YAML",
+      "$description": "JSON обращается в YAML",
+      "$keywords": [
+        "Json",
+        "Ямл"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 YAML",
+      "$description": "JSON 轉化為 YAML",
+      "$keywords": [
+        "JSON",
+        "YAML"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 YAML",
+      "$description": "JSON 转化为 YAML",
+      "$keywords": [
+        "JSON",
+        "YAML"
+      ]
+    }
+  },
+  {
+    "id": "json-to-csv",
+    "zh": {
+      "$name": "JSON 转 CSV",
+      "$description": "JSON 转化为 CSV",
+      "$keywords": [
+        "JSON",
+        "CSV"
+      ]
+    },
+    "en": {
+      "$name": "JSON To CSV",
+      "$description": "JSON To CSV",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "CSV",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To CSV",
+      "$description": "JSON konvertiert in CSV",
+      "$keywords": [
+        "JSON",
+        "CSV"
+      ]
+    },
+    "es": {
+      "$name": "JSON To CSV",
+      "$description": "JSON se convierte en CSV",
+      "$keywords": [
+        "Json",
+        "CSV"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To CSV",
+      "$description": "JSON se convertit en CSV",
+      "$keywords": [
+        "Json",
+        "CSV"
+      ]
+    },
+    "it": {
+      "$name": "JSON To CSV",
+      "$description": "JSON si converte in CSV",
+      "$keywords": [
+        "JSON",
+        "CSV"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To CSV",
+      "$description": "JSONはCSVに変換します",
+      "$keywords": [
+        "JSON",
+        "CSV"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To CSV",
+      "$description": "JSON은 CSV로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "CSV"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To CSV",
+      "$description": "JSON converte para CSV",
+      "$keywords": [
+        "JSON",
+        "CSV"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To CSV",
+      "$description": "JSON обращается в CSV",
+      "$keywords": [
+        "Json",
+        "CSV"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 CSV",
+      "$description": "JSON 轉化為 CSV",
+      "$keywords": [
+        "JSON",
+        "CSV"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 CSV",
+      "$description": "JSON 转化为 CSV",
+      "$keywords": [
+        "JSON",
+        "CSV"
+      ]
+    }
+  },
+  {
+    "id": "json-to-minify",
+    "zh": {
+      "$name": "JSON 最小化",
+      "$description": "最小化 JSON 内容",
+      "$keywords": [
+        "最小化",
+        "压缩"
+      ]
+    },
+    "en": {
+      "$name": "JSON Minify",
+      "$description": "Minify JSON code",
+      "$keywords": [
+        "json",
+        "minify",
+        "compress",
+        "uglify"
+      ]
+    },
+    "de": {
+      "$name": "JSON Minimum",
+      "$description": "Minimieren Sie JSON -Inhalte",
+      "$keywords": [
+        "minimieren",
+        "Kompression"
+      ]
+    },
+    "es": {
+      "$name": "JSON Mínimo",
+      "$description": "Minimizar el contenido de JSON",
+      "$keywords": [
+        "minimizar",
+        "compresión"
+      ]
+    },
+    "fr": {
+      "$name": "JSON minimum",
+      "$description": "Minimiser le contenu JSON",
+      "$keywords": [
+        "minimiser",
+        "compression"
+      ]
+    },
+    "it": {
+      "$name": "Json minimo",
+      "$description": "Riduci al minimo il contenuto JSON",
+      "$keywords": [
+        "minimizzare",
+        "compressione"
+      ]
+    },
+    "ja": {
+      "$name": "JSON最小",
+      "$description": "JSONコンテンツを最小化します",
+      "$keywords": [
+        "最小化します",
+        "圧縮"
+      ]
+    },
+    "ko": {
+      "$name": "JSON 최소",
+      "$description": "JSON 컨텐츠를 최소화합니다",
+      "$keywords": [
+        "최소화하십시오",
+        "압축"
+      ]
+    },
+    "pt": {
+      "$name": "JSON mínimo",
+      "$description": "Minimize o conteúdo JSON",
+      "$keywords": [
+        "minimizar",
+        "compressão"
+      ]
+    },
+    "ru": {
+      "$name": "Json минимум",
+      "$description": "Минимизировать содержание JSON",
+      "$keywords": [
+        "минимизировать",
+        "сжатие"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 最小化",
+      "$description": "最小化 JSON 內容",
+      "$keywords": [
+        "最小化",
+        "壓縮"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 最小化",
+      "$description": "最小化 JSON 内容",
+      "$keywords": [
+        "最小化",
+        "压缩"
+      ]
+    }
+  },
+  {
+    "id": "json-to-php",
+    "zh": {
+      "$name": "JSON 转 PHP",
+      "$description": "JSON 转化为 PHP",
+      "$keywords": [
+        "JSON",
+        "PHP"
+      ]
+    },
+    "en": {
+      "$name": "JSON To PHP",
+      "$description": "JSON To PHP",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "PHP",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To PHP",
+      "$description": "JSON konvertiert in PHP",
+      "$keywords": [
+        "JSON",
+        "Php"
+      ]
+    },
+    "es": {
+      "$name": "JSON To PHP",
+      "$description": "JSON se convierte en PHP",
+      "$keywords": [
+        "Json",
+        "Php"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To PHP",
+      "$description": "JSON se convertit en php",
+      "$keywords": [
+        "Json",
+        "Php"
+      ]
+    },
+    "it": {
+      "$name": "JSON To PHP",
+      "$description": "JSON si converte in PHP",
+      "$keywords": [
+        "JSON",
+        "PHP"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To PHP",
+      "$description": "JSONはPHPに変換されます",
+      "$keywords": [
+        "JSON",
+        "Php"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To PHP",
+      "$description": "JSON은 PHP로 전환합니다",
+      "$keywords": [
+        "JSON",
+        "PHP"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To PHP",
+      "$description": "JSON se converte em PHP",
+      "$keywords": [
+        "JSON",
+        "Php"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To PHP",
+      "$description": "JSON превращается в PHP",
+      "$keywords": [
+        "Json",
+        "PHP"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 PHP",
+      "$description": "JSON 轉化為 PHP",
+      "$keywords": [
+        "JSON",
+        "PHP"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 PHP",
+      "$description": "JSON 转化为 PHP",
+      "$keywords": [
+        "JSON",
+        "PHP"
+      ]
+    }
+  },
+  {
+    "id": "json-to-sql-schema",
+    "zh": {
+      "$name": "JSON 转 SQL Schema",
+      "$description": "JSON 转化为 SQL Schema",
+      "$keywords": [
+        "JSON",
+        "SQL Schema"
+      ]
+    },
+    "en": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSON To SQL Schema",
+      "$keywords": [
+        "convert",
+        "JSON",
+        "SQL Schema",
+        "transform"
+      ]
+    },
+    "de": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSON konvertiert in SQL Schema",
+      "$keywords": [
+        "JSON",
+        "SQL -Schema"
+      ]
+    },
+    "es": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSON se convierte al esquema SQL",
+      "$keywords": [
+        "Json",
+        "Esquema SQL"
+      ]
+    },
+    "fr": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSON se convertit en schéma SQL",
+      "$keywords": [
+        "Json",
+        "Schéma SQL"
+      ]
+    },
+    "it": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSON si converte in schema SQL",
+      "$keywords": [
+        "JSON",
+        "Schema SQL"
+      ]
+    },
+    "ja": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSONはSQLスキーマに変換します",
+      "$keywords": [
+        "JSON",
+        "SQLスキーマ"
+      ]
+    },
+    "ko": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSON은 SQL 스키마로 변환합니다",
+      "$keywords": [
+        "JSON",
+        "SQL 스키마"
+      ]
+    },
+    "pt": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSON converte em esquema SQL",
+      "$keywords": [
+        "JSON",
+        "Esquema SQL"
+      ]
+    },
+    "ru": {
+      "$name": "JSON To SQL Schema",
+      "$description": "JSON превращается в SQL Schema",
+      "$keywords": [
+        "Json",
+        "SQL схема"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 SQL Schema",
+      "$description": "JSON 轉化為 SQL Schema",
+      "$keywords": [
+        "JSON",
+        "SQL Schema"
+      ]
+    },
+    "zh-cn": {
+      "$name": "JSON 转 SQL Schema",
+      "$description": "JSON 转化为 SQL Schema",
+      "$keywords": [
+        "JSON",
+        "SQL Schema"
+      ]
+    }
+  }
+]

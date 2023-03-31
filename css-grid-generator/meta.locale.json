@@ -1,0 +1,123 @@
+{
+  "en": {
+    "$name": "CSS Grid Generator",
+    "$description": "CSS Grid layout preview and generate",
+    "$keywords": [
+      "grid",
+      "layout",
+      "css",
+      "preview",
+      "generate"
+    ]
+  },
+  "zh-cn": {
+    "$name": "CSS Grid 生成器",
+    "$description": "预览和生成 CSS Grid 布局",
+    "$keywords": [
+      "网格",
+      "布局",
+      "CSS",
+      "预览",
+      "生成"
+    ]
+  },
+  "zh-tw": {
+    "$name": "CSS Grid 生成器",
+    "$description": "預覽和生成 CSS Grid 佈局",
+    "$keywords": [
+      "網格",
+      "佈局",
+      "CSS",
+      "預覽",
+      "生成"
+    ]
+  },
+  "de": {
+    "$name": "CSS-Grid-Generator",
+    "$description": "Vorschau und Generierung des CSS-Rasterlayouts",
+    "$keywords": [
+      "Netz",
+      "Layout",
+      "css",
+      "Vorschau",
+      "generieren"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de grille CSS",
+    "$description": "Aperçu et génération de la disposition de la grille CSS",
+    "$keywords": [
+      "grille",
+      "mise en page",
+      "CSS",
+      "Aperçu",
+      "générer"
+    ]
+  },
+  "ko": {
+    "$name": "CSS 그리드 생성기",
+    "$description": "CSS 그리드 레이아웃 미리보기 및 생성",
+    "$keywords": [
+      "그리드",
+      "공들여 나열한 것",
+      "CSS",
+      "시사",
+      "생성하다"
+    ]
+  },
+  "es": {
+    "$name": "Generador de cuadrícula CSS",
+    "$description": "Vista previa y generación del diseño de cuadrícula CSS",
+    "$keywords": [
+      "red",
+      "disposición",
+      "CSS",
+      "avance",
+      "generar"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de grade CSS",
+    "$description": "Pré-visualização e geração do layout CSS Grid",
+    "$keywords": [
+      "grade",
+      "disposição",
+      "CSS",
+      "visualizar",
+      "gerar"
+    ]
+  },
+  "ja": {
+    "$name": "CSS グリッド ジェネレーター",
+    "$description": "CSS グリッド レイアウトのプレビューと生成",
+    "$keywords": [
+      "グリッド",
+      "レイアウト",
+      "CSS",
+      "プレビュー",
+      "生成"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di griglia CSS",
+    "$description": "Anteprima e generazione del layout della griglia CSS",
+    "$keywords": [
+      "griglia",
+      "disposizione",
+      "css",
+      "anteprima",
+      "creare"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор сетки CSS",
+    "$description": "Предварительный просмотр и создание макета CSS Grid",
+    "$keywords": [
+      "сетка",
+      "макет",
+      "css",
+      "предварительный просмотр",
+      "генерировать"
+    ]
+  }
+}

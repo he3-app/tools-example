@@ -1,0 +1,9 @@
+{
+  "json": {
+    "input": {
+      "placeholder": "请输入 JSON"
+    }
+  },
+  "jsonParseError": "JSON 解析错误",
+  "reverse": "反转"
+}

@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "language": "语言",
+    "fileName": "文件名",
+    "saveAsFile": "保存下载"
+  },
+  "en": {
+    "language": "Language",
+    "fileName": "File Name",
+    "saveAsFile": "Save as File"
+  },
+  "de": {
+    "language": "Sprache",
+    "fileName": "Dateinamen",
+    "saveAsFile": "Download speichern"
+  },
+  "es": {
+    "language": "idioma",
+    "fileName": "Nombre del archivo",
+    "saveAsFile": "guardar descarga"
+  },
+  "fr": {
+    "language": "langue",
+    "fileName": "nom de fichier",
+    "saveAsFile": "Sauvegarder le téléchargement"
+  },
+  "it": {
+    "language": "lingua",
+    "fileName": "nome del file",
+    "saveAsFile": "Salva download"
+  },
+  "ja": {
+    "language": "言語",
+    "fileName": "ファイル名",
+    "saveAsFile": "ダウンロードを保存します"
+  },
+  "ko": {
+    "language": "언어",
+    "fileName": "파일 이름",
+    "saveAsFile": "다운로드를 저장하십시오"
+  },
+  "pt": {
+    "language": "linguagem",
+    "fileName": "nome do arquivo",
+    "saveAsFile": "salvar download"
+  },
+  "ru": {
+    "language": "язык",
+    "fileName": "имя файла",
+    "saveAsFile": "Сохранить скачать"
+  },
+  "zh-tw": {
+    "language": "語言",
+    "fileName": "文件名",
+    "saveAsFile": "保存下載"
+  }
+}

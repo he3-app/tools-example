@@ -1,0 +1,118 @@
+{
+    "zh": {
+      "$name": "Hosts Editor",
+      "$description": "Hosts 编辑器",
+      "$keywords": [
+        "编辑",
+        "切换",
+        "域名"
+      ]
+    },
+    "en": {
+      "$name": "Hosts Editor",
+      "$description": "Hosts Editor",
+      "$keywords": [
+        "hosts",
+        "editor",
+        "/etc/hosts",
+        "dns",
+        "record",
+        "localhost",
+        "127",
+        "192",
+        "168",
+        "domain",
+        "ip"
+      ]
+    },
+    "de": {
+      "$name": "Hosts Editor",
+      "$description": "Hosts Editor",
+      "$keywords": [
+        "bearbeiten",
+        "Schalten",
+        "Domain -Name"
+      ]
+    },
+    "es": {
+      "$name": "Hosts Editor",
+      "$description": "Editor de anfitriones",
+      "$keywords": [
+        "editar",
+        "Cambiar",
+        "nombre de dominio"
+      ]
+    },
+    "fr": {
+      "$name": "Hosts Editor",
+      "$description": "Éditeur d'hôtes",
+      "$keywords": [
+        "modifier",
+        "Changer",
+        "nom de domaine"
+      ]
+    },
+    "it": {
+      "$name": "Hosts Editor",
+      "$description": "Editor di host",
+      "$keywords": [
+        "modificare",
+        "Interruttore",
+        "nome del dominio"
+      ]
+    },
+    "ja": {
+      "$name": "Hosts Editor",
+      "$description": "ホストエディター",
+      "$keywords": [
+        "編集",
+        "スイッチ",
+        "ドメイン名"
+      ]
+    },
+    "ko": {
+      "$name": "Hosts Editor",
+      "$description": "호스트 편집기",
+      "$keywords": [
+        "편집하다",
+        "스위치",
+        "도메인 이름"
+      ]
+    },
+    "pt": {
+      "$name": "Hosts Editor",
+      "$description": "Editor de anfitriões",
+      "$keywords": [
+        "editar",
+        "Trocar",
+        "nome do domínio"
+      ]
+    },
+    "ru": {
+      "$name": "Hosts Editor",
+      "$description": "Хозяева редактора",
+      "$keywords": [
+        "редактировать",
+        "Выключатель",
+        "доменное имя"
+      ]
+    },
+    "zh-tw": {
+      "$name": "Hosts Editor",
+      "$description": "Hosts 編輯器",
+      "$keywords": [
+        "編輯",
+        "切換",
+        "域名"
+      ]
+    },
+    "zh-cn": {
+      "$name": "Hosts Editor",
+      "$description": "Hosts 编辑器",
+      "$keywords": [
+        "编辑",
+        "切换",
+        "域名"
+      ]
+    }
+  }

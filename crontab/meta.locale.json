@@ -1,0 +1,110 @@
+{
+    "zh": {
+      "$name": "Cron 表达式",
+      "$description": "Cron 表达式工具",
+      "$keywords": [
+        "定时",
+        "定期",
+        "重复"
+      ]
+    },
+    "en": {
+      "$name": "Cron Expression",
+      "$description": "Cron Expression",
+      "$keywords": [
+        "cron",
+        "crontab",
+        "regular"
+      ]
+    },
+    "de": {
+      "$name": "Cron Expression Editor",
+      "$description": "Cron expression preview and edit",
+      "$keywords": [
+        "zeitliche Koordinierung",
+        "regulär",
+        "wiederholen"
+      ]
+    },
+    "es": {
+      "$name": "Cron Expression Editor",
+      "$description": "Cron expression preview and edit",
+      "$keywords": [
+        "momento",
+        "regular",
+        "repetir"
+      ]
+    },
+    "fr": {
+      "$name": "Cron Expression Editor",
+      "$description": "Cron expression preview and edit",
+      "$keywords": [
+        "Horaire",
+        "régulier",
+        "répéter"
+      ]
+    },
+    "it": {
+      "$name": "Cron Expression Editor",
+      "$description": "Cron expression preview and edit",
+      "$keywords": [
+        "tempismo",
+        "regolare",
+        "ripetere"
+      ]
+    },
+    "ja": {
+      "$name": "Cron Expression Editor",
+      "$description": "Cron expression preview and edit",
+      "$keywords": [
+        "タイミング",
+        "通常",
+        "繰り返す"
+      ]
+    },
+    "ko": {
+      "$name": "Cron Expression Editor",
+      "$description": "Cron expression preview and edit",
+      "$keywords": [
+        "타이밍",
+        "정기적인",
+        "반복하다"
+      ]
+    },
+    "pt": {
+      "$name": "Cron Expression Editor",
+      "$description": "Cron expression preview and edit",
+      "$keywords": [
+        "tempo",
+        "regular",
+        "repita"
+      ]
+    },
+    "ru": {
+      "$name": "Cron Expression Editor",
+      "$description": "Cron expression preview and edit",
+      "$keywords": [
+        "время",
+        "обычный",
+        "повторить"
+      ]
+    },
+    "zh-tw": {
+      "$name": "Cron 表達式",
+      "$description": "Cron 表達式工具",
+      "$keywords": [
+        "定時",
+        "定期",
+        "重複"
+      ]
+    },
+    "zh-cn": {
+      "$name": "Cron 表达式",
+      "$description": "Cron 表达式工具",
+      "$keywords": [
+        "定时",
+        "定期",
+        "重复"
+      ]
+    }
+  }

@@ -1,0 +1,1267 @@
+{
+  "zh": {
+    "CronExpression": "Cron表达式",
+    "CronExpressionOutput": "Cron表达式输出",
+    "CronExpressionExecute": "执行Cron表达式",
+    "Seconds": {
+      "name": "秒",
+      "every": "每秒钟",
+      "interval": [
+        "每隔",
+        "秒执行 从",
+        "秒开始"
+      ],
+      "specific": "具体秒数(可多选)",
+      "cycle": [
+        "周期从",
+        "到",
+        "秒"
+      ]
+    },
+    "Minutes": {
+      "name": "分",
+      "every": "每分钟",
+      "interval": [
+        "每隔",
+        "分执行 从",
+        "分开始"
+      ],
+      "specific": "具体分钟数(可多选)",
+      "cycle": [
+        "周期从",
+        "到",
+        "分"
+      ]
+    },
+    "Hours": {
+      "name": "时",
+      "every": "每小时",
+      "interval": [
+        "每隔",
+        "小时执行 从",
+        "小时开始"
+      ],
+      "specific": "具体小时数(可多选)",
+      "cycle": [
+        "周期从",
+        "到",
+        "小时"
+      ]
+    },
+    "Day": {
+      "name": "天",
+      "every": "每天",
+      "intervalDay": [
+        "每隔",
+        "天执行 从",
+        "天开始"
+      ],
+      "cycleDay": [
+        "周期从",
+        "到",
+        "天"
+      ],
+      "specificDay": "具体天数(可多选)",
+      "noSpecific": "不指定",
+      "lastDay": "在这个月的最后一天"
+    },
+    "Month": {
+      "name": "月",
+      "every": "每月",
+      "interval": [
+        "每隔",
+        "月执行 从",
+        "月开始"
+      ],
+      "specific": "具体月数(可多选)",
+      "cycle": [
+        "从",
+        "到",
+        "月之间的每个月"
+      ]
+    },
+    "Week": {
+      "name": "周",
+      "every": "每周",
+      "interval": [
+        "每隔",
+        "周执行 从",
+        "周开始"
+      ],
+      "specific": "具体周数(可多选)",
+      "cycle": [
+        "从",
+        "到",
+        "周之间的每周"
+      ],
+      "noSpecific": "不指定",
+      "lastWeek": "在这个月的最后一个周六"
+    },
+    "Year": {
+      "name": "年",
+      "every": "每年",
+      "interval": [
+        "每隔",
+        "年执行 从",
+        "年开始"
+      ],
+      "specific": "具体年份(可多选)",
+      "cycle": [
+        "从",
+        "到",
+        "年之间的每一年"
+      ],
+      "noSpecific": "不指定"
+    }
+  },
+  "en": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression Output",
+    "CronExpressionExecute": "Execute Cron Expression",
+    "Seconds": {
+      "name": "Seconds",
+      "every": "Every second",
+      "interval": [
+        "Every",
+        "second(s) starting at second",
+        ""
+      ],
+      "specific": "Specific second (choose one or many)",
+      "cycle": [
+        "Every second between second",
+        "and second",
+        ""
+      ]
+    },
+    "Minutes": {
+      "name": "Minutes",
+      "every": "Every minute",
+      "interval": [
+        "Every",
+        "minute(s) starting at minute",
+        ""
+      ],
+      "specific": "Specific minute (choose one or many)",
+      "cycle": [
+        "Every minute between minute",
+        "and minute",
+        ""
+      ]
+    },
+    "Hours": {
+      "name": "Hours",
+      "every": "Every hour",
+      "interval": [
+        "Every",
+        "hour(s) starting at hour",
+        ""
+      ],
+      "specific": "Specific hour (choose one or many)",
+      "cycle": [
+        "Every hour between hour",
+        "and hour",
+        ""
+      ]
+    },
+    "Day": {
+      "name": "Day",
+      "every": "Every day",
+      "intervalDay": [
+        "Every",
+        "day(s) starting at the",
+        "of the month"
+      ],
+      "cycleDay": [
+        "Every day between day",
+        "and day",
+        ""
+      ],
+      "specificDay": "Specific day of month (choose one or many)",
+      "noSpecific": "No specific day",
+      "lastDay": "On the last day of the month"
+    },
+    "Month": {
+      "name": "Month",
+      "every": "Every month",
+      "interval": [
+        "Every",
+        "month(s) starting in",
+        ""
+      ],
+      "specific": "Specific month (choose one or many)",
+      "cycle": [
+        "Every month between",
+        "and",
+        ""
+      ]
+    },
+    "Week": {
+      "name": "Week",
+      "every": "Every week",
+      "interval": [
+        "Every",
+        "week(s) starting in",
+        ""
+      ],
+      "specific": "Specific week (choose one or many)",
+      "cycle": [
+        "Every week between",
+        "abd",
+        ""
+      ],
+      "noSpecific": "No specific day",
+      "lastWeek": "On the last week of the month"
+    },
+    "Year": {
+      "name": "Year",
+      "every": "Any year",
+      "interval": [
+        "Every",
+        "year(s) starting in",
+        ""
+      ],
+      "specific": "Specific year (choose one or many)",
+      "cycle": [
+        "Every year between",
+        "and",
+        ""
+      ],
+      "noSpecific": "No specific day"
+    }
+  },
+  "de": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression output",
+    "CronExpressionExecute": "Excute Cron Expression",
+    "Seconds": {
+      "name": "Zweite",
+      "every": "Pro Sekunde",
+      "interval": [
+        "Überall",
+        "Ausführen",
+        "Beginnen Sie in Sekunden"
+      ],
+      "specific": "Spezifische Sekunden (können mehr wählen)",
+      "cycle": [
+        "Zyklus",
+        "ankommen",
+        "Zweite"
+      ]
+    },
+    "Minutes": {
+      "name": "Punkt",
+      "every": "jede Minute",
+      "interval": [
+        "Überall",
+        "Sub -Execution",
+        "Start"
+      ],
+      "specific": "Spezifische Minutenzahl (kann mehr auswählen)",
+      "cycle": [
+        "Zyklus",
+        "ankommen",
+        "Punkt"
+      ]
+    },
+    "Hours": {
+      "name": "Stunde",
+      "every": "pro Stunde",
+      "interval": [
+        "Überall",
+        "Stunden ausführen",
+        "Stunden beginnen"
+      ],
+      "specific": "Bestimmte Stunden (können mehr wählen)",
+      "cycle": [
+        "Zyklus",
+        "ankommen",
+        "Stunde"
+      ]
+    },
+    "Day": {
+      "name": "Himmel",
+      "every": "täglich",
+      "intervalDay": [
+        "Überall",
+        "Himmelsausführung",
+        "Der Himmel fängt an"
+      ],
+      "cycleDay": [
+        "Zyklus",
+        "ankommen",
+        "Himmel"
+      ],
+      "specificDay": "Bestimmte Tage (können mehr wählen)",
+      "noSpecific": "Nicht angeben",
+      "lastDay": "Am letzten Tag dieses Monats"
+    },
+    "Month": {
+      "name": "Mond",
+      "every": "pro Monat",
+      "interval": [
+        "Überall",
+        "Monatliche Ausführung",
+        "Mond beginnen"
+      ],
+      "specific": "Spezifische Monatsnummer (kann mehr auswählen)",
+      "cycle": [
+        "aus",
+        "ankommen",
+        "Jeden Monat zwischen dem Monat"
+      ]
+    },
+    "Week": {
+      "name": "Woche",
+      "every": "wöchentlich",
+      "interval": [
+        "Überall",
+        "Wöchentliche Ausführung",
+        "Wöchentlicher Start"
+      ],
+      "specific": "Spezifische Wochennummer (kann mehr auswählen)",
+      "cycle": [
+        "aus",
+        "ankommen",
+        "Wöchentlich wöchentlich"
+      ],
+      "noSpecific": "Nicht angeben",
+      "lastWeek": "Am letzten Samstag dieses Monats"
+    },
+    "Year": {
+      "name": "Jahr",
+      "every": "Pro Jahr",
+      "interval": [
+        "Überall",
+        "Jährliche Ausführung",
+        "Jahr für Jahr"
+      ],
+      "specific": "Bestimmtes Jahr (kann mehr wählen)",
+      "cycle": [
+        "aus",
+        "ankommen",
+        "Jedes Jahr im Jahr"
+      ],
+      "noSpecific": "Nicht angeben"
+    }
+  },
+  "es": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression output",
+    "CronExpressionExecute": "Excute Cron Expression",
+    "Seconds": {
+      "name": "Segundo",
+      "every": "Por segundo",
+      "interval": [
+        "En todos lados",
+        "Ejecutar",
+        "Empezar en segundos"
+      ],
+      "specific": "Segundos específicos (pueden elegir más)",
+      "cycle": [
+        "Ciclo",
+        "llegar",
+        "Segundo"
+      ]
+    },
+    "Minutes": {
+      "name": "punto",
+      "every": "cada minuto",
+      "interval": [
+        "En todos lados",
+        "Subconjunción",
+        "Comenzar"
+      ],
+      "specific": "Número de minuto específico (puede elegir más)",
+      "cycle": [
+        "Ciclo",
+        "llegar",
+        "punto"
+      ]
+    },
+    "Hours": {
+      "name": "hora",
+      "every": "por hora",
+      "interval": [
+        "En todos lados",
+        "Horas ejecutar",
+        "Inicio de horas"
+      ],
+      "specific": "Horas específicas (puede elegir más)",
+      "cycle": [
+        "Ciclo",
+        "llegar",
+        "Hora"
+      ]
+    },
+    "Day": {
+      "name": "cielo",
+      "every": "cada día",
+      "intervalDay": [
+        "En todos lados",
+        "Ejecución del cielo",
+        "Comienza el cielo"
+      ],
+      "cycleDay": [
+        "Ciclo",
+        "llegar",
+        "cielo"
+      ],
+      "specificDay": "Días específicos (pueden elegir más)",
+      "noSpecific": "No especifico",
+      "lastDay": "El último día de este mes"
+    },
+    "Month": {
+      "name": "luna",
+      "every": "por mes",
+      "interval": [
+        "En todos lados",
+        "Ejecución mensual",
+        "Comienzo de la luna"
+      ],
+      "specific": "Número de mes específico (puede elegir más)",
+      "cycle": [
+        "de",
+        "llegar",
+        "Cada mes entre el mes"
+      ]
+    },
+    "Week": {
+      "name": "semana",
+      "every": "semanalmente",
+      "interval": [
+        "En todos lados",
+        "Ejecución semanal",
+        "Comienzo semanal"
+      ],
+      "specific": "Número de semana específico (puede elegir más)",
+      "cycle": [
+        "de",
+        "llegar",
+        "Semanal semanal"
+      ],
+      "noSpecific": "No especifico",
+      "lastWeek": "El último sábado de este mes"
+    },
+    "Year": {
+      "name": "Año",
+      "every": "Por año",
+      "interval": [
+        "En todos lados",
+        "Ejecución anual",
+        "Año con año"
+      ],
+      "specific": "Año específico (puede elegir más)",
+      "cycle": [
+        "de",
+        "llegar",
+        "Cada año en el año"
+      ],
+      "noSpecific": "No especifico"
+    }
+  },
+  "fr": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression output",
+    "CronExpressionExecute": "Excute Cron Expression",
+    "Seconds": {
+      "name": "Deuxième",
+      "every": "Par seconde",
+      "interval": [
+        "Partout",
+        "Exécuter",
+        "Commencer en quelques secondes"
+      ],
+      "specific": "Secondes spécifiques (peut choisir plus)",
+      "cycle": [
+        "Cycle",
+        "arriver",
+        "Deuxième"
+      ]
+    },
+    "Minutes": {
+      "name": "indiquer",
+      "every": "chaque minute",
+      "interval": [
+        "Partout",
+        "Sub-exécution",
+        "Commencer"
+      ],
+      "specific": "Numéro de minute spécifique (peut choisir plus)",
+      "cycle": [
+        "Cycle",
+        "arriver",
+        "indiquer"
+      ]
+    },
+    "Hours": {
+      "name": "heure",
+      "every": "par heure",
+      "interval": [
+        "Partout",
+        "Les heures s'exécutent",
+        "Les heures commencent"
+      ],
+      "specific": "Heures spécifiques (peut choisir plus)",
+      "cycle": [
+        "Cycle",
+        "arriver",
+        "Heure"
+      ]
+    },
+    "Day": {
+      "name": "ciel",
+      "every": "tous les jours",
+      "intervalDay": [
+        "Partout",
+        "Exécution du paradis",
+        "Le paradis commence"
+      ],
+      "cycleDay": [
+        "Cycle",
+        "arriver",
+        "ciel"
+      ],
+      "specificDay": "Jours spécifiques (peut choisir plus)",
+      "noSpecific": "Pas spécifier",
+      "lastDay": "Le dernier jour de ce mois"
+    },
+    "Month": {
+      "name": "lune",
+      "every": "par mois",
+      "interval": [
+        "Partout",
+        "Exécution mensuelle",
+        "Moon Start"
+      ],
+      "specific": "Numéro de mois spécifique (peut choisir plus)",
+      "cycle": [
+        "depuis",
+        "arriver",
+        "Chaque mois entre le mois"
+      ]
+    },
+    "Week": {
+      "name": "semaine",
+      "every": "hebdomadaire",
+      "interval": [
+        "Partout",
+        "Exécution hebdomadaire",
+        "Début hebdomadaire"
+      ],
+      "specific": "Numéro de semaine spécifique (peut choisir plus)",
+      "cycle": [
+        "depuis",
+        "arriver",
+        "Hebdomadaire hebdomadaire"
+      ],
+      "noSpecific": "Pas spécifier",
+      "lastWeek": "Le dernier samedi de ce mois"
+    },
+    "Year": {
+      "name": "Année",
+      "every": "Par an",
+      "interval": [
+        "Partout",
+        "Exécution annuelle",
+        "D'année en année"
+      ],
+      "specific": "Année spécifique (peut choisir plus)",
+      "cycle": [
+        "depuis",
+        "arriver",
+        "Chaque année de l'année"
+      ],
+      "noSpecific": "Pas spécifier"
+    }
+  },
+  "it": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression output",
+    "CronExpressionExecute": "Excute Cron Expression",
+    "Seconds": {
+      "name": "Secondo",
+      "every": "Al secondo",
+      "interval": [
+        "Ovunque",
+        "Eseguire",
+        "Inizia in secondi"
+      ],
+      "specific": "Secondi specifici (può scegliere di più)",
+      "cycle": [
+        "Ciclo",
+        "arrivare",
+        "Secondo"
+      ]
+    },
+    "Minutes": {
+      "name": "punto",
+      "every": "ogni minuto",
+      "interval": [
+        "Ovunque",
+        "Sotto -esecuzione",
+        "Inizio"
+      ],
+      "specific": "Numero minuto specifico (può scegliere di più)",
+      "cycle": [
+        "Ciclo",
+        "arrivare",
+        "punto"
+      ]
+    },
+    "Hours": {
+      "name": "ora",
+      "every": "all'ora",
+      "interval": [
+        "Ovunque",
+        "Ore eseguite",
+        "Ore iniziano"
+      ],
+      "specific": "Ore specifiche (possono scegliere di più)",
+      "cycle": [
+        "Ciclo",
+        "arrivare",
+        "Ora"
+      ]
+    },
+    "Day": {
+      "name": "cielo",
+      "every": "ogni giorno",
+      "intervalDay": [
+        "Ovunque",
+        "Esecuzione del paradiso",
+        "Il paradiso inizi"
+      ],
+      "cycleDay": [
+        "Ciclo",
+        "arrivare",
+        "cielo"
+      ],
+      "specificDay": "Giorni specifici (possono scegliere di più)",
+      "noSpecific": "Non specificare",
+      "lastDay": "L'ultimo giorno di questo mese"
+    },
+    "Month": {
+      "name": "luna",
+      "every": "al mese",
+      "interval": [
+        "Ovunque",
+        "Esecuzione mensile",
+        "Inizio della luna"
+      ],
+      "specific": "Numero del mese specifico (può scegliere di più)",
+      "cycle": [
+        "da",
+        "arrivare",
+        "Ogni mese tra il mese"
+      ]
+    },
+    "Week": {
+      "name": "settimana",
+      "every": "settimanalmente",
+      "interval": [
+        "Ovunque",
+        "Esecuzione settimanale",
+        "Inizio settimanale"
+      ],
+      "specific": "Numero della settimana specifico (può scegliere di più)",
+      "cycle": [
+        "da",
+        "arrivare",
+        "Settimanalmente settimanale"
+      ],
+      "noSpecific": "Non specificare",
+      "lastWeek": "L'ultimo sabato di questo mese"
+    },
+    "Year": {
+      "name": "Anno",
+      "every": "Per anno",
+      "interval": [
+        "Ovunque",
+        "Esecuzione annuale",
+        "Anno dopo anno"
+      ],
+      "specific": "Anno specifico (può scegliere di più)",
+      "cycle": [
+        "da",
+        "arrivare",
+        "Ogni anno dell'anno"
+      ],
+      "noSpecific": "Non specificare"
+    }
+  },
+  "ja": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression output",
+    "CronExpressionExecute": "Excute Cron Expression",
+    "Seconds": {
+      "name": "2番",
+      "every": "毎秒",
+      "interval": [
+        "どこにでも",
+        "実行する",
+        "数秒で開始します"
+      ],
+      "specific": "特定の秒（もっと選択できます）",
+      "cycle": [
+        "サイクル",
+        "到着",
+        "2番"
+      ]
+    },
+    "Minutes": {
+      "name": "点",
+      "every": "毎分",
+      "interval": [
+        "どこにでも",
+        "サブ解釈",
+        "始める"
+      ],
+      "specific": "特定の分数（もっと選択できます）",
+      "cycle": [
+        "サイクル",
+        "到着",
+        "点"
+      ]
+    },
+    "Hours": {
+      "name": "時間",
+      "every": "1時間当たり",
+      "interval": [
+        "どこにでも",
+        "時間実行",
+        "時間の開始"
+      ],
+      "specific": "特定の時間（もっと選択できます）",
+      "cycle": [
+        "サイクル",
+        "到着",
+        "時間"
+      ]
+    },
+    "Day": {
+      "name": "空",
+      "every": "毎日",
+      "intervalDay": [
+        "どこにでも",
+        "天国の処刑",
+        "天国が始まります"
+      ],
+      "cycleDay": [
+        "サイクル",
+        "到着",
+        "空"
+      ],
+      "specificDay": "特定の日（もっと選ぶことができます）",
+      "noSpecific": "指定しないでください",
+      "lastDay": "今月の最終日"
+    },
+    "Month": {
+      "name": "月",
+      "every": "月あたり",
+      "interval": [
+        "どこにでも",
+        "毎月の実行",
+        "月が始まります"
+      ],
+      "specific": "特定の月数（もっと選択できます）",
+      "cycle": [
+        "から",
+        "到着",
+        "毎月毎月"
+      ]
+    },
+    "Week": {
+      "name": "週",
+      "every": "毎週",
+      "interval": [
+        "どこにでも",
+        "毎週の実行",
+        "毎週開始"
+      ],
+      "specific": "特定の週番号（もっと選択できます）",
+      "cycle": [
+        "から",
+        "到着",
+        "毎週"
+      ],
+      "noSpecific": "指定しないでください",
+      "lastWeek": "今月の最後の土曜日"
+    },
+    "Year": {
+      "name": "年",
+      "every": "1年当たり",
+      "interval": [
+        "どこにでも",
+        "年間実行",
+        "年 -  1YEAR"
+      ],
+      "specific": "特定の年（もっと選択できます）",
+      "cycle": [
+        "から",
+        "到着",
+        "年に毎年"
+      ],
+      "noSpecific": "指定しないでください"
+    }
+  },
+  "ko": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression output",
+    "CronExpressionExecute": "Excute Cron Expression",
+    "Seconds": {
+      "name": "두번째",
+      "every": "초당",
+      "interval": [
+        "어디에나",
+        "실행하다",
+        "몇 초 만에 시작하십시오"
+      ],
+      "specific": "특정 초 (더 많은 것을 선택할 수 있음)",
+      "cycle": [
+        "주기",
+        "도착하다",
+        "두번째"
+      ]
+    },
+    "Minutes": {
+      "name": "가리키다",
+      "every": "매 순간",
+      "interval": [
+        "어디에나",
+        "하위 실행",
+        "시작"
+      ],
+      "specific": "특정 분수 (더 많은 선택 가능)",
+      "cycle": [
+        "주기",
+        "도착하다",
+        "가리키다"
+      ]
+    },
+    "Hours": {
+      "name": "시간",
+      "every": "시간당",
+      "interval": [
+        "어디에나",
+        "시간이 실행됩니다",
+        "시간이 시작됩니다"
+      ],
+      "specific": "특정 시간 (더 많은 것을 선택할 수 있음)",
+      "cycle": [
+        "주기",
+        "도착하다",
+        "시간"
+      ]
+    },
+    "Day": {
+      "name": "하늘",
+      "every": "매일",
+      "intervalDay": [
+        "어디에나",
+        "천국 처형",
+        "천국 시작"
+      ],
+      "cycleDay": [
+        "주기",
+        "도착하다",
+        "하늘"
+      ],
+      "specificDay": "특정 날 (더 많은 선택 가능)",
+      "noSpecific": "지정하지 않습니다",
+      "lastDay": "이번 달의 마지막 날"
+    },
+    "Month": {
+      "name": "달",
+      "every": "달마다",
+      "interval": [
+        "어디에나",
+        "월간 실행",
+        "달 시작"
+      ],
+      "specific": "특정 월 번호 (더 많은 것을 선택할 수 있음)",
+      "cycle": [
+        "~에서",
+        "도착하다",
+        "매월"
+      ]
+    },
+    "Week": {
+      "name": "주",
+      "every": "주간",
+      "interval": [
+        "어디에나",
+        "주간 실행",
+        "주간 시작"
+      ],
+      "specific": "특정 주 번호 (더 많은 선택 가능)",
+      "cycle": [
+        "~에서",
+        "도착하다",
+        "주간 주간"
+      ],
+      "noSpecific": "지정하지 않습니다",
+      "lastWeek": "이번 달의 마지막 토요일"
+    },
+    "Year": {
+      "name": "년도",
+      "every": "연간",
+      "interval": [
+        "어디에나",
+        "연간 실행",
+        "1 년 -시어"
+      ],
+      "specific": "특정 연도 (더 많은 것을 선택할 수 있음)",
+      "cycle": [
+        "~에서",
+        "도착하다",
+        "연중 매년"
+      ],
+      "noSpecific": "지정하지 않습니다"
+    }
+  },
+  "pt": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression output",
+    "CronExpressionExecute": "Excute Cron Expression",
+    "Seconds": {
+      "name": "Segundo",
+      "every": "Por segundo",
+      "interval": [
+        "Em todos os lugares",
+        "Executar",
+        "Comece em segundos"
+      ],
+      "specific": "Segundos específicos (pode escolher mais)",
+      "cycle": [
+        "Ciclo",
+        "chegar",
+        "Segundo"
+      ]
+    },
+    "Minutes": {
+      "name": "apontar",
+      "every": "todo minuto",
+      "interval": [
+        "Em todos os lugares",
+        "Sub -execução",
+        "Começar"
+      ],
+      "specific": "Número minuto específico (pode escolher mais)",
+      "cycle": [
+        "Ciclo",
+        "chegar",
+        "apontar"
+      ]
+    },
+    "Hours": {
+      "name": "hora",
+      "every": "por hora",
+      "interval": [
+        "Em todos os lugares",
+        "Execução de horas",
+        "As horas começam"
+      ],
+      "specific": "Horas específicas (pode escolher mais)",
+      "cycle": [
+        "Ciclo",
+        "chegar",
+        "Hora"
+      ]
+    },
+    "Day": {
+      "name": "céu",
+      "every": "diariamente",
+      "intervalDay": [
+        "Em todos os lugares",
+        "Execução do céu",
+        "O céu começa"
+      ],
+      "cycleDay": [
+        "Ciclo",
+        "chegar",
+        "céu"
+      ],
+      "specificDay": "Dias específicos (pode escolher mais)",
+      "noSpecific": "Não especificar",
+      "lastDay": "No último dia deste mês"
+    },
+    "Month": {
+      "name": "lua",
+      "every": "por mês",
+      "interval": [
+        "Em todos os lugares",
+        "Execução mensal",
+        "Lua começa"
+      ],
+      "specific": "Número do mês específico (pode escolher mais)",
+      "cycle": [
+        "de",
+        "chegar",
+        "Todo mês entre o mês"
+      ]
+    },
+    "Week": {
+      "name": "semana",
+      "every": "semanalmente",
+      "interval": [
+        "Em todos os lugares",
+        "Execução semanal",
+        "Início semanal"
+      ],
+      "specific": "Número de semana específico (pode escolher mais)",
+      "cycle": [
+        "de",
+        "chegar",
+        "Semanalmente semanalmente"
+      ],
+      "noSpecific": "Não especificar",
+      "lastWeek": "No último sábado deste mês"
+    },
+    "Year": {
+      "name": "Ano",
+      "every": "Por ano",
+      "interval": [
+        "Em todos os lugares",
+        "Execução anual",
+        "Ano a ano"
+      ],
+      "specific": "Ano específico (pode escolher mais)",
+      "cycle": [
+        "de",
+        "chegar",
+        "Todo ano do ano"
+      ],
+      "noSpecific": "Não especificar"
+    }
+  },
+  "ru": {
+    "CronExpression": "Cron Expression",
+    "CronExpressionOutput": "Cron Expression output",
+    "CronExpressionExecute": "Excute Cron Expression",
+    "Seconds": {
+      "name": "Второй",
+      "every": "В секунду",
+      "interval": [
+        "Повсюду",
+        "Выполнять",
+        "Начните за секунды"
+      ],
+      "specific": "Конкретные секунды (можно выбрать больше)",
+      "cycle": [
+        "Цикл",
+        "приезжать",
+        "Второй"
+      ]
+    },
+    "Minutes": {
+      "name": "точка",
+      "every": "каждую минуту",
+      "interval": [
+        "Повсюду",
+        "Суб -выполнение",
+        "Начинать"
+      ],
+      "specific": "Конкретный минутный номер (может выбрать больше)",
+      "cycle": [
+        "Цикл",
+        "приезжать",
+        "точка"
+      ]
+    },
+    "Hours": {
+      "name": "час",
+      "every": "в час",
+      "interval": [
+        "Повсюду",
+        "Часы выполняются",
+        "Часы начинаются"
+      ],
+      "specific": "Конкретные часы (могут выбрать больше)",
+      "cycle": [
+        "Цикл",
+        "приезжать",
+        "Час"
+      ]
+    },
+    "Day": {
+      "name": "небо",
+      "every": "каждый день",
+      "intervalDay": [
+        "Повсюду",
+        "Небесное исполнение",
+        "Небеса начинаются"
+      ],
+      "cycleDay": [
+        "Цикл",
+        "приезжать",
+        "небо"
+      ],
+      "specificDay": "Конкретные дни (могут выбрать больше)",
+      "noSpecific": "Не укажите",
+      "lastDay": "В последний день этого месяца"
+    },
+    "Month": {
+      "name": "луна",
+      "every": "в месяц",
+      "interval": [
+        "Повсюду",
+        "Ежемесячное исполнение",
+        "Луна старт"
+      ],
+      "specific": "Конкретный номер месяца (может выбрать больше)",
+      "cycle": [
+        "от",
+        "приезжать",
+        "Каждый месяц с месяца"
+      ]
+    },
+    "Week": {
+      "name": "неделя",
+      "every": "еженедельно",
+      "interval": [
+        "Повсюду",
+        "Еженедельное исполнение",
+        "Еженедельный старт"
+      ],
+      "specific": "Конкретный номер недели (может выбрать больше)",
+      "cycle": [
+        "от",
+        "приезжать",
+        "Еженедельный еженедельный"
+      ],
+      "noSpecific": "Не укажите",
+      "lastWeek": "В последнюю субботу этого месяца"
+    },
+    "Year": {
+      "name": "Год",
+      "every": "В год",
+      "interval": [
+        "Повсюду",
+        "Ежегодное исполнение",
+        "Год за годом"
+      ],
+      "specific": "Конкретный год (может выбрать больше)",
+      "cycle": [
+        "от",
+        "приезжать",
+        "Каждый год года"
+      ],
+      "noSpecific": "Не укажите"
+    }
+  },
+  "zh-tw": {
+    "CronExpression": "Cron表達式",
+    "CronExpressionOutput": "Cron表達式輸出",
+    "CronExpressionExecute": "執行Cron表達式",
+    "Seconds": {
+      "name": "秒",
+      "every": "每秒鐘",
+      "interval": [
+        "每隔",
+        "秒執行 從",
+        "秒開始"
+      ],
+      "specific": "具體秒數(可多選)",
+      "cycle": [
+        "週期從",
+        "到",
+        "秒"
+      ]
+    },
+    "Minutes": {
+      "name": "分",
+      "every": "每分鐘",
+      "interval": [
+        "每隔",
+        "分執行 從",
+        "分開始"
+      ],
+      "specific": "具體分鐘數(可多選)",
+      "cycle": [
+        "週期從",
+        "到",
+        "分"
+      ]
+    },
+    "Hours": {
+      "name": "時",
+      "every": "每小時",
+      "interval": [
+        "每隔",
+        "小時執行 從",
+        "小時開始"
+      ],
+      "specific": "具體小時數(可多選)",
+      "cycle": [
+        "週期從",
+        "到",
+        "小時"
+      ]
+    },
+    "Day": {
+      "name": "天",
+      "every": "每天",
+      "intervalDay": [
+        "每隔",
+        "天執行 從",
+        "天開始"
+      ],
+      "cycleDay": [
+        "週期從",
+        "到",
+        "天"
+      ],
+      "specificDay": "具體天數(可多選)",
+      "noSpecific": "不指定",
+      "lastDay": "在這個月的最後一天"
+    },
+    "Month": {
+      "name": "月",
+      "every": "每月",
+      "interval": [
+        "每隔",
+        "月執行 從",
+        "月開始"
+      ],
+      "specific": "具體月數(可多選)",
+      "cycle": [
+        "從",
+        "到",
+        "月之間的每個月"
+      ]
+    },
+    "Week": {
+      "name": "週",
+      "every": "每週",
+      "interval": [
+        "每隔",
+        "週執行 從",
+        "週開始"
+      ],
+      "specific": "具體週數(可多選)",
+      "cycle": [
+        "從",
+        "到",
+        "週之間的每週"
+      ],
+      "noSpecific": "不指定",
+      "lastWeek": "在這個月的最後一個週六"
+    },
+    "Year": {
+      "name": "年",
+      "every": "每年",
+      "interval": [
+        "每隔",
+        "年執行 從",
+        "年開始"
+      ],
+      "specific": "具體年份(可多選)",
+      "cycle": [
+        "從",
+        "到",
+        "年之間的每一年"
+      ],
+      "noSpecific": "不指定"
+    }
+  }
+}

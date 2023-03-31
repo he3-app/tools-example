@@ -1,0 +1,23 @@
+# npm
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.yarnclean
+
+logs
+*.log
+
+.idea
+.vscode
+!@template/**/.vscode
+.DS_Store
+
+
+node_modules
+
+pnpm-lock.yaml
+*.txt
+.eslintcache

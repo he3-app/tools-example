@@ -1,0 +1,36 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "name": "Color Picker",
+    "id": "color-picker",
+    "icon": "pie-chart-outlined",
+    "version": "0.0.7",
+    "description": "color picker",
+    "isPublic": true,
+    "category": [
+      "color"
+    ],
+    "keywords": [
+      "color",
+      "picker"
+    ],
+    "repository": "https://github.com/he3-app/tools.git"
+  },
+  "dependencies": {
+    "@he3-kit/utils": "latest",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

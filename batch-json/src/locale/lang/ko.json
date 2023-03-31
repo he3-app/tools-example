@@ -1,0 +1,8 @@
+{
+  "json": {
+    "input": {
+      "placeholder": "JSON을 입력하세요."
+    }
+  },
+  "jsonParseError": "JSON 구문 분석 오류"
+}

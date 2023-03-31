@@ -1,0 +1,123 @@
+{
+    "zh": {
+      "$name": "Mermaid 编辑器",
+      "$description": "编辑并预览 mermaid 图表",
+      "$keywords": [
+        "编辑器",
+        "图表",
+        "编辑",
+        "预览"
+      ]
+    },
+    "en": {
+      "$name": "Mermaid Editor",
+      "$description": "Edit and preview mermaid charts",
+      "$keywords": [
+        "mermaid",
+        "chart",
+        "edit",
+        "preview",
+        "editor"
+      ]
+    },
+    "de": {
+      "$name": "Mermaid Editor",
+      "$description": "Mermaid Chart Editor",
+      "$keywords": [
+        "Editor",
+        "Diagramm",
+        "bearbeiten",
+        "Vorschau"
+      ]
+    },
+    "es": {
+      "$name": "Mermaid Editor",
+      "$description": "Mermaid Chart Editor",
+      "$keywords": [
+        "editor",
+        "cuadro",
+        "editar",
+        "Avance"
+      ]
+    },
+    "fr": {
+      "$name": "Mermaid Editor",
+      "$description": "Mermaid Chart Editor",
+      "$keywords": [
+        "éditeur",
+        "graphique",
+        "modifier",
+        "Aperçu"
+      ]
+    },
+    "it": {
+      "$name": "Mermaid Editor",
+      "$description": "Mermaid Chart Editor",
+      "$keywords": [
+        "editore",
+        "grafico",
+        "modificare",
+        "Anteprima"
+      ]
+    },
+    "ja": {
+      "$name": "Mermaid Editor",
+      "$description": "Mermaid Chart Editor",
+      "$keywords": [
+        "編集者",
+        "チャート",
+        "編集",
+        "プレビュー"
+      ]
+    },
+    "ko": {
+      "$name": "Mermaid Editor",
+      "$description": "Mermaid Chart Editor",
+      "$keywords": [
+        "편집자",
+        "차트",
+        "편집하다",
+        "시사"
+      ]
+    },
+    "pt": {
+      "$name": "Mermaid Editor",
+      "$description": "Mermaid Chart Editor",
+      "$keywords": [
+        "editor",
+        "gráfico",
+        "editar",
+        "Visualização"
+      ]
+    },
+    "ru": {
+      "$name": "Mermaid Editor",
+      "$description": "Mermaid Chart Editor",
+      "$keywords": [
+        "редактор",
+        "диаграмма",
+        "редактировать",
+        "Предварительный просмотр"
+      ]
+    },
+    "zh-tw": {
+      "$name": "Mermaid 編輯器",
+      "$description": "編輯並預覽 mermaid 圖表",
+      "$keywords": [
+        "編輯器",
+        "圖表",
+        "編輯",
+        "預覽"
+      ]
+    },
+    "zh-cn": {
+      "$name": "Mermaid 编辑器",
+      "$description": "编辑并预览 mermaid 图表",
+      "$keywords": [
+        "编辑器",
+        "图表",
+        "编辑",
+        "预览"
+      ]
+    }
+  }

@@ -1,0 +1,619 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": [
+    {
+      "id": "properties-to-json",
+      "name": "Properties To JSON",
+      "icon": "coffee-outlined",
+      "version": "0.0.11",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools",
+      "category": [
+        "json"
+      ],
+      "description": "Properties To JSON",
+      "keywords": [
+        "convert",
+        "Properties",
+        "JSON",
+        "transform"
+      ],
+      "relatedToolId": [
+        "json-to-properties",
+        "properties-to-yaml"
+      ]
+    },
+    {
+      "id": "json-to-properties",
+      "name": "JSON To Properties",
+      "icon": "coffee-outlined",
+      "version": "0.0.16",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools",
+      "category": [
+        "json"
+      ],
+      "description": "JSON To Properties",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Properties",
+        "transform"
+      ],
+      "relatedToolId": [
+        "properties-to-json",
+        "yaml-to-properties"
+      ]
+    },
+    {
+      "name": "JSON To Go Struct",
+      "id": "json-to-go-struct",
+      "version": "0.0.16",
+      "description": "JSON To Go Struct",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "keywords": [
+        "convert",
+        "JSON",
+        "Go Struct",
+        "transform"
+      ]
+    },
+    {
+      "name": "JSON To JAVA Bean",
+      "id": "json-to-java-bean",
+      "version": "0.0.16",
+      "description": "JSON To JAVA Bean",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "keywords": [
+        "convert",
+        "JSON",
+        "JAVA Bean",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-python-class",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Python Class",
+      "description": "JSON To Python Class",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Python Class",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-zod-schema",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "name": "JSON To Zod Schema",
+      "description": "JSON To Zod Schema",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Zod Schema",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-ruby-module",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Ruby Module",
+      "description": "JSON To Ruby Module",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Ruby Module",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-rust-struct",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Rust Struct",
+      "description": "JSON To Rust Struct",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Rust Struct",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-dart-class",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Dart Class",
+      "description": "JSON To Dart Class",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Dart Class",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-c0-class",
+      "version": "0.0.18",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To C# Class",
+      "description": "JSON To C# Class",
+      "keywords": [
+        "convert",
+        "JSON",
+        "C# Class",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-c00-struct",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To C++ Struct",
+      "description": "JSON To C++ Struct",
+      "keywords": [
+        "convert",
+        "JSON",
+        "C++ Struct",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-swift-struct",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Swift Struct",
+      "description": "JSON To Swift Struct",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Swift Struct",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-objective-c-interface",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Objective-C Interface",
+      "description": "JSON To Objective-C Interface",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Objective-C Interface",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-haskell-module",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Haskell Module",
+      "description": "JSON To Haskell Module",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Haskell Module",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-pike-class",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Pike Class",
+      "description": "JSON To Pike Class",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Pike Class",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-elm-module",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Elm Module",
+      "description": "JSON To Elm Module",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Elm Module",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-crystal-class",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Crystal Class",
+      "description": "JSON To Crystal Class",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Crystal Class",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-json-schema",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To JSON Schema",
+      "description": "JSON To JSON Schema",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Schema",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-kotlin-class",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Kotlin Class",
+      "description": "JSON To Kotlin Class",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Kotlin Class",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-toml",
+      "version": "0.0.21",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To TOML",
+      "description": "JSON To TOML",
+      "keywords": [
+        "convert",
+        "JSON",
+        "TOML",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-xml",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To XML",
+      "description": "JSON To XML",
+      "keywords": [
+        "convert",
+        "JSON",
+        "XML",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-pretty",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON Format",
+      "description": "Format JSON code",
+      "keywords": [
+        "json",
+        "beautify",
+        "pretty",
+        "prettify",
+        "fmt",
+        "format",
+        "formatter",
+        "validate",
+        "validator"
+      ]
+    },
+    {
+      "id": "json-to-typescript-interface",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To TypeScript Interface",
+      "description": "JSON To TypeScript Interface",
+      "keywords": [
+        "convert",
+        "JSON",
+        "TypeScript Interface",
+        "transform",
+        "ts"
+      ]
+    },
+    {
+      "id": "json-to-big-query-schema",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Big Query Schema",
+      "description": "JSON To Big Query Schema",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Big Query Schema",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-io-ts",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To IO-TS",
+      "description": "JSON To IO-TS",
+      "keywords": [
+        "convert",
+        "JSON",
+        "IO-TS",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-scala",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Scala",
+      "description": "JSON To Scala",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Scala",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-sarcastic",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To Sarcastic",
+      "description": "JSON To Sarcastic",
+      "keywords": [
+        "convert",
+        "JSON",
+        "Sarcastic",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-generator",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON Generator",
+      "description": "Generate JSON code",
+      "keywords": [
+        "json",
+        "generate",
+        "generator"
+      ]
+    },
+    {
+      "id": "json-to-yaml",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To YAML",
+      "description": "JSON To YAML",
+      "keywords": [
+        "convert",
+        "JSON",
+        "YAML",
+        "transform",
+        "YML"
+      ]
+    },
+    {
+      "id": "json-to-csv",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To CSV",
+      "description": "JSON To CSV",
+      "keywords": [
+        "convert",
+        "JSON",
+        "CSV",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-minify",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON Minify",
+      "description": "Minify JSON code",
+      "keywords": [
+        "json",
+        "minify",
+        "compress",
+        "uglify"
+      ]
+    },
+    {
+      "id": "json-to-php",
+      "version": "0.0.16",
+      "isPublic": true,
+      "category": [
+        "json"
+      ],
+      "relatedToolId": [],
+      "name": "JSON To PHP",
+      "description": "JSON To PHP",
+      "keywords": [
+        "convert",
+        "JSON",
+        "PHP",
+        "transform"
+      ]
+    },
+    {
+      "id": "json-to-sql-schema",
+      "name": "JSON To SQL Schema",
+      "icon": "coffee-outlined",
+      "version": "0.0.16",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools",
+      "category": [
+        "json"
+      ],
+      "description": "JSON To SQL Schema",
+      "keywords": [
+        "convert",
+        "JSON",
+        "SQL Schema",
+        "transform"
+      ],
+      "relatedToolId": [
+        "yaml-to-sql-schema"
+      ]
+    }
+  ],
+  "dependencies": {
+    "@he3-kit/utils": "latest",
+    "@ltd/j-toml": "^1.38.0",
+    "@types/json2csv": "^5.0.3",
+    "dayjs": "^1.11.7",
+    "generate-schema": "^2.6.0",
+    "js-yaml": "^4.1.0",
+    "json-stringify-pretty-compact": "^4.0.0",
+    "json-to-kotlin-class": "^1.2.0",
+    "json-to-schema-fork": "^1.3.0",
+    "json-to-zod": "^1.1.2",
+    "json2csv": "^5.0.7",
+    "json2php": "^0.0.7",
+    "json2ts": "^0.0.7",
+    "jstoxml": "^3.2.6",
+    "sql-ddl-to-json-schema": "^4.0.9",
+    "sql-formatter": "^12.1.3",
+    "transform-json-types": "^0.7.0",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2",
+    "yaml": "^2.2.1"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

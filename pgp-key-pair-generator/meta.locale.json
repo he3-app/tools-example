@@ -1,0 +1,117 @@
+{
+  "zh": {
+    "$name": "PGP 密钥对生成器",
+    "$description": "生成 PGP 密钥对",
+    "$keywords": [
+      "密钥",
+      "生成",
+      "生成器"
+    ]
+  },
+  "en": {
+    "$name": "PGP Key Pair Generator",
+    "$description": "Generate PGP Key Pairs",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "key",
+      "generate",
+      "generator",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "de": {
+    "$name": "PGP -Schlüsselpaargenerator",
+    "$description": "Generieren Sie ein PGP -Schlüsselpaar",
+    "$keywords": [
+      "Taste",
+      "generieren",
+      "Erbauer"
+    ]
+  },
+  "es": {
+    "$name": "Generador de pares de teclas PGP",
+    "$description": "Generar un par de claves PGP",
+    "$keywords": [
+      "Llave",
+      "generar",
+      "Constructor"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de paires de clés PGP",
+    "$description": "Générer une paire de clés PGP",
+    "$keywords": [
+      "Clé",
+      "générer",
+      "Constructeur"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di coppie di tasti PGP",
+    "$description": "Generare coppia di chiavi PGP",
+    "$keywords": [
+      "Chiave",
+      "creare",
+      "Costruttore"
+    ]
+  },
+  "ja": {
+    "$name": "PGPキーペアジェネレーター",
+    "$description": "PGPキーペアを生成します",
+    "$keywords": [
+      "鍵",
+      "生成",
+      "ビルダー"
+    ]
+  },
+  "ko": {
+    "$name": "PGP 키 쌍 생성기",
+    "$description": "PGP 키 쌍을 생성하십시오",
+    "$keywords": [
+      "열쇠",
+      "생성하다",
+      "빌더"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de pares de chave PGP",
+    "$description": "Gerar par de chaves pgp",
+    "$keywords": [
+      "Chave",
+      "gerar",
+      "Construtor"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор пары ключей PGP",
+    "$description": "Генерировать пару ключей PGP",
+    "$keywords": [
+      "Ключ",
+      "генерировать",
+      "Строитель"
+    ]
+  },
+  "zh-tw": {
+    "$name": "PGP 密鑰對生成器",
+    "$description": "生成 PGP 密鑰對",
+    "$keywords": [
+      "密鑰",
+      "生成",
+      "生成器"
+    ]
+  },
+  "zh-cn": {
+    "$name": "PGP 密钥对生成器",
+    "$description": "生成 PGP 密钥对",
+    "$keywords": [
+      "密钥",
+      "生成",
+      "生成器"
+    ]
+  }
+}

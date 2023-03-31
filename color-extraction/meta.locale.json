@@ -1,0 +1,110 @@
+{
+  "zh": {
+    "$name": "颜色提取",
+    "$description": "从图片中提取颜色",
+    "$keywords": [
+      "颜色",
+      "提取",
+      "图片"
+    ]
+  },
+  "en": {
+    "$name": "Color Extraction",
+    "$description": "Extract color",
+    "$keywords": [
+      "color",
+      "extraction",
+      "image"
+    ]
+  },
+  "de": {
+    "$name": "Farbgewinnung",
+    "$description": "Farbe aus dem Bild extrahieren",
+    "$keywords": [
+      "Farbe",
+      "Extrakt",
+      "Bild"
+    ]
+  },
+  "es": {
+    "$name": "Extracción de color",
+    "$description": "Extraer color de la imagen",
+    "$keywords": [
+      "color",
+      "extracto",
+      "imagen"
+    ]
+  },
+  "fr": {
+    "$name": "Extraction des couleurs",
+    "$description": "Extraire la couleur de l'image",
+    "$keywords": [
+      "couleur",
+      "extrait",
+      "image"
+    ]
+  },
+  "it": {
+    "$name": "Estrazione del colore",
+    "$description": "Estrarre il colore dall'immagine",
+    "$keywords": [
+      "colore",
+      "estratto",
+      "immagine"
+    ]
+  },
+  "ja": {
+    "$name": "色の抽出",
+    "$description": "写真から色を抽出します",
+    "$keywords": [
+      "色",
+      "エキス",
+      "写真"
+    ]
+  },
+  "ko": {
+    "$name": "색상 추출",
+    "$description": "그림에서 색상을 추출하십시오",
+    "$keywords": [
+      "색상",
+      "발췌",
+      "그림"
+    ]
+  },
+  "pt": {
+    "$name": "Extração de cores",
+    "$description": "Extraia cor da imagem",
+    "$keywords": [
+      "cor",
+      "extrair",
+      "foto"
+    ]
+  },
+  "ru": {
+    "$name": "Извлечение цвета",
+    "$description": "Извлеките цвет из картинки",
+    "$keywords": [
+      "цвет",
+      "извлекать",
+      "картина"
+    ]
+  },
+  "zh-tw": {
+    "$name": "顏色提取",
+    "$description": "從圖片中提取顏色",
+    "$keywords": [
+      "顏色",
+      "提取",
+      "圖片"
+    ]
+  },
+  "zh-cn": {
+    "$name": "颜色提取",
+    "$description": "从图片中提取颜色",
+    "$keywords": [
+      "颜色",
+      "提取",
+      "图片"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "editingHosts": "正在编辑文件：",
+    "apply": "应用",
+    "applySuccess": "应用成功",
+    "applyFailed": "应用失败"
+  },
+  "en": {
+    "editingHosts": "Editing hosts file:",
+    "apply": "Apply",
+    "applySuccess": "Apply Successfully",
+    "applyFailed": "Apply Failed"
+  },
+  "de": {
+    "editingHosts": "Datei bearbeiten:",
+    "apply": "Anwendung",
+    "applySuccess": "Erfolgreiche Anwendung",
+    "applyFailed": "Anwendungsfehler"
+  },
+  "es": {
+    "editingHosts": "Editar archivo:",
+    "apply": "solicitud",
+    "applySuccess": "Aplicación exitosa",
+    "applyFailed": "Falla de la aplicación"
+  },
+  "fr": {
+    "editingHosts": "Modifier le fichier:",
+    "apply": "application",
+    "applySuccess": "Application réussie",
+    "applyFailed": "Échec de la demande"
+  },
+  "it": {
+    "editingHosts": "Modifica file:",
+    "apply": "applicazione",
+    "applySuccess": "Applicazione di successo",
+    "applyFailed": "Guasto dell'applicazione"
+  },
+  "ja": {
+    "editingHosts": "編集ファイル：",
+    "apply": "応用",
+    "applySuccess": "成功したアプリケーション",
+    "applyFailed": "アプリケーションの障害"
+  },
+  "ko": {
+    "editingHosts": "파일 편집 :",
+    "apply": "애플리케이션",
+    "applySuccess": "성공적인 응용 프로그램",
+    "applyFailed": "응용 프로그램 실패"
+  },
+  "pt": {
+    "editingHosts": "Editar Arquivo:",
+    "apply": "aplicativo",
+    "applySuccess": "Aplicação bem -sucedida",
+    "applyFailed": "Falha do aplicativo"
+  },
+  "ru": {
+    "editingHosts": "Редактировать файл:",
+    "apply": "приложение",
+    "applySuccess": "Успешное приложение",
+    "applyFailed": "Сбой заявки"
+  },
+  "zh-tw": {
+    "editingHosts": "正在編輯文件：",
+    "apply": "應用",
+    "applySuccess": "應用成功",
+    "applyFailed": "應用失敗"
+  }
+}

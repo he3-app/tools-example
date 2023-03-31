@@ -1,0 +1,135 @@
+{
+  "zh": {
+    "$name": "端口清单",
+    "$description": "网络端口信息参考",
+    "$keywords": [
+      "端口",
+      "网络",
+      "参考",
+      "查询",
+      "说明"
+    ]
+  },
+  "en": {
+    "$name": "Ports Cheatsheet",
+    "$description": "Network ports references",
+    "$keywords": [
+      "port",
+      "cheat",
+      "sheet",
+      "tcp",
+      "udp",
+      "network"
+    ]
+  },
+  "de": {
+    "$name": "Portliste",
+    "$description": "Referenz für Netzwerkportinformationen",
+    "$keywords": [
+      "Hafen",
+      "Netzwerk",
+      "beziehen auf",
+      "Anfragen",
+      "veranschaulichen"
+    ]
+  },
+  "es": {
+    "$name": "Lista de puertos",
+    "$description": "Referencia de información del puerto de red",
+    "$keywords": [
+      "puerto",
+      "red",
+      "Referirse a",
+      "Preguntar",
+      "ilustrar"
+    ]
+  },
+  "fr": {
+    "$name": "Liste de ports",
+    "$description": "Référence des informations du port réseau",
+    "$keywords": [
+      "port",
+      "réseau",
+      "faire référence à",
+      "Renseigner",
+      "illustrer"
+    ]
+  },
+  "it": {
+    "$name": "Elenco delle porte",
+    "$description": "Riferimento informazioni sulla porta di rete",
+    "$keywords": [
+      "porta",
+      "rete",
+      "fare riferimento a",
+      "Chiedere informazioni",
+      "illustrare"
+    ]
+  },
+  "ja": {
+    "$name": "ポートリスト",
+    "$description": "ネットワークポート情報リファレンス",
+    "$keywords": [
+      "ポート",
+      "通信網",
+      "参照する",
+      "お問い合わせください",
+      "説明します"
+    ]
+  },
+  "ko": {
+    "$name": "포트 목록",
+    "$description": "네트워크 포트 정보 참조",
+    "$keywords": [
+      "포트",
+      "회로망",
+      "인용하다",
+      "문의",
+      "설명"
+    ]
+  },
+  "pt": {
+    "$name": "Lista de portas",
+    "$description": "Referência de informações da porta de rede",
+    "$keywords": [
+      "porta",
+      "rede",
+      "referir-se",
+      "Investigar",
+      "ilustrar"
+    ]
+  },
+  "ru": {
+    "$name": "Список портов",
+    "$description": "Справочная информация о сетевом порте",
+    "$keywords": [
+      "порт",
+      "сеть",
+      "Ссылаться на",
+      "Запросить",
+      "иллюстрировать"
+    ]
+  },
+  "zh-tw": {
+    "$name": "端口清單",
+    "$description": "網絡端口信息參考",
+    "$keywords": [
+      "端口",
+      "網絡",
+      "參考",
+      "查詢",
+      "說明"
+    ]
+  },
+  "zh-cn": {
+    "$name": "端口清单",
+    "$description": "网络端口信息参考",
+    "$keywords": [
+      "端口",
+      "网络",
+      "参考",
+      "查询",
+      "说明"
+    ]
+  }
+}

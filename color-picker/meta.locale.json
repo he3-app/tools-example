@@ -1,0 +1,87 @@
+{
+  "zh": {
+    "$name": "颜色选择器",
+    "$description": "颜色选择器",
+    "$keywords": [
+      "选择器"
+    ]
+  },
+  "en": {
+    "$name": "Color Picker",
+    "$description": "color picker",
+    "$keywords": [
+      "color",
+      "picker"
+    ]
+  },
+  "de": {
+    "$name": "Farbauswahl",
+    "$description": "Farbauswahl",
+    "$keywords": [
+      "Wähler"
+    ]
+  },
+  "es": {
+    "$name": "Selector de color",
+    "$description": "Selector de color",
+    "$keywords": [
+      "Selector"
+    ]
+  },
+  "fr": {
+    "$name": "Sélecteur de couleurs",
+    "$description": "Sélecteur de couleurs",
+    "$keywords": [
+      "Sélecteur"
+    ]
+  },
+  "it": {
+    "$name": "Selettore di colori",
+    "$description": "Selettore di colori",
+    "$keywords": [
+      "Selettore"
+    ]
+  },
+  "ja": {
+    "$name": "カラーセレクター",
+    "$description": "カラーセレクター",
+    "$keywords": [
+      "セレクタ"
+    ]
+  },
+  "ko": {
+    "$name": "색상 선택기",
+    "$description": "색상 선택기",
+    "$keywords": [
+      "선택자"
+    ]
+  },
+  "pt": {
+    "$name": "Seletor de cores",
+    "$description": "Seletor de cores",
+    "$keywords": [
+      "Seletor"
+    ]
+  },
+  "ru": {
+    "$name": "Селектор цвета",
+    "$description": "Селектор цвета",
+    "$keywords": [
+      "Селектор"
+    ]
+  },
+  "zh-tw": {
+    "$name": "顏色選擇器",
+    "$description": "顏色選擇器",
+    "$keywords": [
+      "選擇器"
+    ]
+  },
+  "zh-cn": {
+    "$name": "颜色选择器",
+    "$description": "颜色选择器",
+    "$keywords": [
+      "选择器"
+    ]
+  }
+}

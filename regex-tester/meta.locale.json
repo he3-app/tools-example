@@ -1,0 +1,111 @@
+{
+    "zh": {
+        "$name": "正则编辑器",
+        "$description": "编辑并测试正则表达式,支持Javascript",
+        "$keywords": [
+            "正则",
+            "表达式",
+            "测试"
+        ]
+    },
+    "en": {
+        "$name": "Regex Tester",
+        "$description": "Edit and test regex,support Javascript",
+        "$keywords": [
+            "regex",
+            "test",
+            "js",
+            "javascript"
+        ]
+    },
+    "de": {
+        "$name": "Regulärer Herausgeber",
+        "$description": "Bearbeiten und testen Sie den regulären Ausdruck, unterstützen Sie JavaScript",
+        "$keywords": [
+            "Regulär",
+            "Ausdruck",
+            "prüfen"
+        ]
+    },
+    "es": {
+        "$name": "Editor regular",
+        "$description": "Editar y probar la expresión regular, admitir JavaScript",
+        "$keywords": [
+            "Regular",
+            "expresión",
+            "prueba"
+        ]
+    },
+    "fr": {
+        "$name": "Rédacteur en chef régulier",
+        "$description": "Modifier et tester l'expression régulière, soutenir JavaScript",
+        "$keywords": [
+            "Régulier",
+            "expression",
+            "test"
+        ]
+    },
+    "it": {
+        "$name": "Editore regolare",
+        "$description": "Modificare e testare l'espressione regolare, supportare JavaScript",
+        "$keywords": [
+            "Regolare",
+            "espressione",
+            "test"
+        ]
+    },
+    "ja": {
+        "$name": "通常の編集者",
+        "$description": "正規表現を編集およびテストし、JavaScriptをサポートします",
+        "$keywords": [
+            "通常",
+            "表現",
+            "テスト"
+        ]
+    },
+    "ko": {
+        "$name": "일반 편집자",
+        "$description": "정규 표현식 편집 및 테스트, JavaScript를 지원하십시오",
+        "$keywords": [
+            "정기적인",
+            "표현",
+            "시험"
+        ]
+    },
+    "pt": {
+        "$name": "Editor regular",
+        "$description": "Editar e testar a expressão regular, suporta JavaScript",
+        "$keywords": [
+            "Regular",
+            "expressão",
+            "teste"
+        ]
+    },
+    "ru": {
+        "$name": "Обычный редактор",
+        "$description": "Редактировать и проверить регулярное выражение, поддержка JavaScript",
+        "$keywords": [
+            "Обычный",
+            "выражение",
+            "тест"
+        ]
+    },
+    "zh-tw": {
+        "$name": "正則編輯器",
+        "$description": "編輯並測試正則表達式,支持Javascript",
+        "$keywords": [
+            "正則",
+            "表達式",
+            "測試"
+        ]
+    },
+    "zh-cn": {
+        "$name": "正则编辑器",
+        "$description": "编辑并测试正则表达式,支持Javascript",
+        "$keywords": [
+            "正则",
+            "表达式",
+            "测试"
+        ]
+    }
+}

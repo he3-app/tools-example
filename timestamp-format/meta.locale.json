@@ -1,0 +1,134 @@
+{
+    "zh": {
+      "$name": "时间戳转换",
+      "$description": "时间戳转换",
+      "$keywords": [
+        "时间戳",
+        "毫秒",
+        "转换",
+        "日期",
+        "时间"
+      ]
+    },
+    "en": {
+      "$name": "Timestamp Convertor",
+      "$description": "Timestamp Convertor",
+      "$keywords": [
+        "timestamp",
+        "milisecond",
+        "convert",
+        "datetime",
+        "time"
+      ]
+    },
+    "de": {
+      "$name": "Zeitstempelkonvertierung",
+      "$description": "Zeitstempelkonvertierung",
+      "$keywords": [
+        "Zeitstempel",
+        "Millisekunde",
+        "Konvertieren",
+        "Datum",
+        "Zeit"
+      ]
+    },
+    "es": {
+      "$name": "Conversión de timación",
+      "$description": "Conversión de timación",
+      "$keywords": [
+        "Marca de tiempo",
+        "milisegundo",
+        "Convertir",
+        "fecha",
+        "tiempo"
+      ]
+    },
+    "fr": {
+      "$name": "Conversion horaire",
+      "$description": "Conversion horaire",
+      "$keywords": [
+        "Horodatage",
+        "millisecondes",
+        "Convertir",
+        "date",
+        "temps"
+      ]
+    },
+    "it": {
+      "$name": "Conversione del timestamp",
+      "$description": "Conversione del timestamp",
+      "$keywords": [
+        "Timestamp",
+        "millisecondo",
+        "Convertire",
+        "data",
+        "tempo"
+      ]
+    },
+    "ja": {
+      "$name": "タイムスタンプ変換",
+      "$description": "タイムスタンプ変換",
+      "$keywords": [
+        "タイムスタンプ",
+        "ミリ秒",
+        "変換",
+        "日にち",
+        "時間"
+      ]
+    },
+    "ko": {
+      "$name": "타임 스탬프 변환",
+      "$description": "타임 스탬프 변환",
+      "$keywords": [
+        "타임 스탬프",
+        "밀리 초",
+        "전환하다",
+        "날짜",
+        "시간"
+      ]
+    },
+    "pt": {
+      "$name": "Conversão de carimbo de hora",
+      "$description": "Conversão de carimbo de hora",
+      "$keywords": [
+        "Timestamp",
+        "milissegundo",
+        "Converter",
+        "data",
+        "tempo"
+      ]
+    },
+    "ru": {
+      "$name": "Преобразование марки времени",
+      "$description": "Преобразование марки времени",
+      "$keywords": [
+        "Временная метка",
+        "миллисекунд",
+        "Конвертировать",
+        "дата",
+        "время"
+      ]
+    },
+    "zh-tw": {
+      "$name": "時間戳轉換",
+      "$description": "時間戳轉換",
+      "$keywords": [
+        "時間戳",
+        "毫秒",
+        "轉換",
+        "日期",
+        "時間"
+      ]
+    },
+    "zh-cn": {
+      "$name": "时间戳转换",
+      "$description": "时间戳转换",
+      "$keywords": [
+        "时间戳",
+        "毫秒",
+        "转换",
+        "日期",
+        "时间"
+      ]
+    }
+  }

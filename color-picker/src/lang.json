@@ -1,0 +1,112 @@
+{
+  "zh": {
+    "pickColor": "选择一种颜色",
+    "enterColor": "输入颜色",
+    "useHTML": "使用HTML5",
+    "selected": "所选颜色",
+    "ld": "浅/深色",
+    "hue": "色调",
+    "saturation": "饱和",
+    "lightness": "亮度"
+  },
+  "en": {
+    "pickColor": "Pick a Color",
+    "enterColor": "Enter a Color",
+    "useHTML": "Use HTML5",
+    "selected": "Selected Color",
+    "ld": "Lighter / Darker",
+    "hue": "Hue",
+    "saturation": "Saturation",
+    "lightness": "Lightness"
+  },
+  "de": {
+    "pickColor": "Wähle eine Farbe",
+    "enterColor": "Eingangsfarbe",
+    "useHTML": "Verwenden Sie HTML5",
+    "selected": "Ausgewählte Farbe",
+    "ld": "Hell dunkel",
+    "hue": "Ton",
+    "saturation": "Sättigung",
+    "lightness": "Helligkeit"
+  },
+  "es": {
+    "pickColor": "Elige un color",
+    "enterColor": "Color de entrada",
+    "useHTML": "Use HTML5",
+    "selected": "Color seleccionado",
+    "ld": "Oscura luz",
+    "hue": "tono",
+    "saturation": "saturación",
+    "lightness": "brillo"
+  },
+  "fr": {
+    "pickColor": "Choisir une couleur",
+    "enterColor": "Couleur d'entrée",
+    "useHTML": "Utilisez HTML5",
+    "selected": "Couleur sélectionnée",
+    "ld": "Clair / sombre",
+    "hue": "Ton",
+    "saturation": "saturation",
+    "lightness": "luminosité"
+  },
+  "it": {
+    "pickColor": "Scegli un colore",
+    "enterColor": "Colore di ingresso",
+    "useHTML": "Usa html5",
+    "selected": "Colore selezionato",
+    "ld": "Luce/scuro",
+    "hue": "tono",
+    "saturation": "saturazione",
+    "lightness": "luminosità"
+  },
+  "ja": {
+    "pickColor": "色を選択してください",
+    "enterColor": "入力色",
+    "useHTML": "HTML5を使用します",
+    "selected": "選択した色",
+    "ld": "明るい/暗い",
+    "hue": "調子",
+    "saturation": "飽和",
+    "lightness": "輝度"
+  },
+  "ko": {
+    "pickColor": "색상을 선택하십시오",
+    "enterColor": "입력 색상",
+    "useHTML": "html5를 사용하십시오",
+    "selected": "선택된 색상",
+    "ld": "빛/어두운",
+    "hue": "음정",
+    "saturation": "포화",
+    "lightness": "명도"
+  },
+  "pt": {
+    "pickColor": "Escolha uma cor",
+    "enterColor": "Cor de entrada",
+    "useHTML": "Use html5",
+    "selected": "Cor selecionada",
+    "ld": "Claro/escuro",
+    "hue": "tom",
+    "saturation": "saturação",
+    "lightness": "brilho"
+  },
+  "ru": {
+    "pickColor": "Выберите цвет",
+    "enterColor": "Входной цвет",
+    "useHTML": "Используйте HTML5",
+    "selected": "Выбранный цвет",
+    "ld": "Светлый темный",
+    "hue": "тон",
+    "saturation": "насыщенность",
+    "lightness": "Яркость"
+  },
+  "zh-tw": {
+    "pickColor": "選擇一種顏色",
+    "enterColor": "輸入顏色",
+    "useHTML": "使用HTML5",
+    "selected": "所選顏色",
+    "ld": "淺/深色",
+    "hue": "色調",
+    "saturation": "飽和",
+    "lightness": "亮度"
+  }
+}

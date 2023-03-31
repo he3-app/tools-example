@@ -1,0 +1,8 @@
+{
+  "json": {
+    "input": {
+      "placeholder": "請輸入 JSON"
+    }
+  },
+  "jsonParseError": "JSON 解析錯誤"
+}

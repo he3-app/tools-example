@@ -1,0 +1,35 @@
+{
+  "zh": {
+    "searchPlaceholder": "请选择端口号"
+  },
+  "en": {
+    "searchPlaceholder": "Please select a port number"
+  },
+  "de": {
+    "searchPlaceholder": "Bitte wählen Sie die Portnummer aus"
+  },
+  "es": {
+    "searchPlaceholder": "Seleccione el número de puerto"
+  },
+  "fr": {
+    "searchPlaceholder": "Veuillez sélectionner le numéro de port"
+  },
+  "it": {
+    "searchPlaceholder": "Seleziona il numero di porta"
+  },
+  "ja": {
+    "searchPlaceholder": "ポート番号を選択してください"
+  },
+  "ko": {
+    "searchPlaceholder": "포트 번호를 선택하십시오"
+  },
+  "pt": {
+    "searchPlaceholder": "Selecione o número da porta"
+  },
+  "ru": {
+    "searchPlaceholder": "Пожалуйста, выберите номер порта"
+  },
+  "zh-tw": {
+    "searchPlaceholder": "請選擇端口號"
+  }
+}

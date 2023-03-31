@@ -1,0 +1,8 @@
+{
+  "json": {
+    "input": {
+      "placeholder": "Por favor, insira JSON"
+    }
+  },
+  "jsonParseError": "Erro de análise JSON"
+}

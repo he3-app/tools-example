@@ -1,0 +1,99 @@
+{
+  "en": {
+    "$name": "URL Decode",
+    "$description": "URL Decode",
+    "$keywords": [
+      "url",
+      "uri",
+      "Decode"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação de URL",
+    "$description": "Decodificação de URL",
+    "$keywords": [
+      "url",
+      "uri",
+      "Decodificar"
+    ]
+  },
+  "ru": {
+    "$name": "URL-декодирование",
+    "$description": "URL-декодирование",
+    "$keywords": [
+      "URL",
+      "ури",
+      "Расшифровать"
+    ]
+  },
+  "zh-tw": {
+    "$name": "URL 解碼",
+    "$description": "URL 解碼",
+    "$keywords": [
+      "網址",
+      "解碼"
+    ]
+  },
+  "zh-cn": {
+    "$name": "URL 解码",
+    "$description": "URL 解码",
+    "$keywords": [
+      "网址",
+      "解码"
+    ]
+  },
+  "ko": {
+    "$name": "URL 디코드",
+    "$description": "URL 디코드",
+    "$keywords": [
+      "URL",
+      "우리",
+      "풀다"
+    ]
+  },
+  "ja": {
+    "$name": "URL デコード",
+    "$description": "URL デコード",
+    "$keywords": [
+      "URL",
+      "うり",
+      "デコード"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación de URL",
+    "$description": "Decodificación de URL",
+    "$keywords": [
+      "URL",
+      "uri",
+      "Descodificar"
+    ]
+  },
+  "de": {
+    "$name": "URL-Decodierung",
+    "$description": "URL-Decodierung",
+    "$keywords": [
+      "URL",
+      "uri",
+      "Dekodieren"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage d'URL",
+    "$description": "Décodage d'URL",
+    "$keywords": [
+      "URL",
+      "uri",
+      "Décoder"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica dell'URL",
+    "$description": "Decodifica dell'URL",
+    "$keywords": [
+      "URL",
+      "uri",
+      "Decodificare"
+    ]
+  }
+}

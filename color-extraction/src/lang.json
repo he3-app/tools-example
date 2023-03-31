@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "dominantColor": "主色",
+    "palette": "调色板"
+  },
+  "en": {
+    "dominantColor": "Dominant Color",
+    "palette": "Palette"
+  },
+  "de": {
+    "dominantColor": "Hauptfarbe",
+    "palette": "Palette"
+  },
+  "es": {
+    "dominantColor": "Color principal",
+    "palette": "Paleta"
+  },
+  "fr": {
+    "dominantColor": "Couleur principale",
+    "palette": "Palette"
+  },
+  "it": {
+    "dominantColor": "Colore principale",
+    "palette": "Tavolozza"
+  },
+  "ja": {
+    "dominantColor": "メインカラー",
+    "palette": "パレット"
+  },
+  "ko": {
+    "dominantColor": "메인 색상",
+    "palette": "팔레트"
+  },
+  "pt": {
+    "dominantColor": "Cor Principal",
+    "palette": "Paleta"
+  },
+  "ru": {
+    "dominantColor": "Основной цвет",
+    "palette": "Палитра"
+  },
+  "zh-tw": {
+    "dominantColor": "主色",
+    "palette": "調色板"
+  }
+}

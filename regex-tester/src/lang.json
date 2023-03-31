@@ -1,0 +1,123 @@
+{
+  "zh": {
+    "TestString": "匹配字符串:",
+    "RegularExpression": "正则表达式:",
+    "matchResult": "匹配结果",
+    "noMatch": "匹配失败",
+    "RegexImage": "正则表达式解释",
+    "nothing": "请输入文字",
+    "replace": "替换",
+    "wrongFormat": "格式错误",
+    "result": "结果"
+  },
+  "en": {
+    "RegularExpression": "Regular Expression:",
+    "TestString": "Test String:",
+    "matchResult": "Match Result",
+    "noMatch": "no match",
+    "RegexImage": "Regex Explain",
+    "nothing": "Please input your code first",
+    "replace": "replace",
+    "wrongFormat": "Wrong Format",
+    "result": "Result"
+  },
+  "de": {
+    "TestString": "Passende Zeichenfolge:",
+    "RegularExpression": "Regulären Ausdruck:",
+    "matchResult": "Match -Ergebnis",
+    "noMatch": "Versäumte es, übereinzustimmen",
+    "RegexImage": "Regelmäßige Ausdruckserklärung",
+    "nothing": "Bitte geben Sie Text ein",
+    "replace": "ersetzen",
+    "wrongFormat": "falsches Format",
+    "result": "Ergebnis"
+  },
+  "es": {
+    "TestString": "Cadena coincidente:",
+    "RegularExpression": "Expresión regular:",
+    "matchResult": "Resultado del partido",
+    "noMatch": "No se pudo coincidir",
+    "RegexImage": "Explicación de expresión regular",
+    "nothing": "Por favor ingrese texto",
+    "replace": "reemplazar",
+    "wrongFormat": "Formato erróneo",
+    "result": "resultado"
+  },
+  "fr": {
+    "TestString": "Chaîne correspondante:",
+    "RegularExpression": "Expression régulière:",
+    "matchResult": "Résultat de correspondance",
+    "noMatch": "Échec de la correspondance",
+    "RegexImage": "Explication d'expression régulière",
+    "nothing": "Veuillez saisir le texte",
+    "replace": "remplacer",
+    "wrongFormat": "mauvais format",
+    "result": "résultat"
+  },
+  "it": {
+    "TestString": "Stringa corrispondente:",
+    "RegularExpression": "Espressione regolare:",
+    "matchResult": "Risultato di corrispondenza",
+    "noMatch": "Impossibile abbinare",
+    "RegexImage": "Spiegazione dell'espressione regolare",
+    "nothing": "Inserisci il testo",
+    "replace": "sostituire",
+    "wrongFormat": "formato errato",
+    "result": "risultato"
+  },
+  "ja": {
+    "TestString": "一致する文字列：",
+    "RegularExpression": "正規表現：",
+    "matchResult": "一致する結果",
+    "noMatch": "一致しなかった",
+    "RegexImage": "正規表現の説明",
+    "nothing": "テキストを入力してください",
+    "replace": "交換",
+    "wrongFormat": "間違った形式",
+    "result": "結果"
+  },
+  "ko": {
+    "TestString": "일치하는 문자열 :",
+    "RegularExpression": "정규 표현 :",
+    "matchResult": "일치 결과",
+    "noMatch": "일치하지 못했습니다",
+    "RegexImage": "정규 표현 설명",
+    "nothing": "텍스트를 입력하십시오",
+    "replace": "바꾸다",
+    "wrongFormat": "잘못된 형식",
+    "result": "결과"
+  },
+  "pt": {
+    "TestString": "String correspondente:",
+    "RegularExpression": "Expressão regular:",
+    "matchResult": "Resultado de correspondência",
+    "noMatch": "Falhou em corresponder",
+    "RegexImage": "Explicação de expressão regular",
+    "nothing": "Por favor, insira o texto",
+    "replace": "substituir",
+    "wrongFormat": "formato incorreto",
+    "result": "resultado"
+  },
+  "ru": {
+    "TestString": "Соответствующая строка:",
+    "RegularExpression": "Регулярное выражение:",
+    "matchResult": "Соответствие результаты",
+    "noMatch": "Не удалось соответствовать",
+    "RegexImage": "Регулярное выражение объяснения",
+    "nothing": "Пожалуйста, введите текст",
+    "replace": "заменять",
+    "wrongFormat": "неверный формат",
+    "result": "результат"
+  },
+  "zh-tw": {
+    "TestString": "匹配字符串:",
+    "RegularExpression": "正則表達式:",
+    "matchResult": "匹配結果",
+    "noMatch": "匹配失敗",
+    "RegexImage": "正則表達式解釋",
+    "nothing": "請輸入文字",
+    "replace": "替換",
+    "wrongFormat": "格式錯誤",
+    "result": "結果"
+  }
+}

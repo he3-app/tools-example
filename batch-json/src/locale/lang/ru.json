@@ -1,0 +1,8 @@
+{
+  "json": {
+    "input": {
+      "placeholder": "Пожалуйста, введите JSON"
+    }
+  },
+  "jsonParseError": "Ошибка синтаксического анализа JSON"
+}

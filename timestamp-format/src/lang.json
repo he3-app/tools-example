@@ -1,0 +1,68 @@
+{
+    "zh": {
+      "timestamp": "时间戳",
+      "enableUTC": "启用 UTC",
+      "inputTimezone": "输入时区",
+      "outputTimezone": "输出时区"
+    },
+    "en": {
+      "timestamp": "Timestamp",
+      "enableUTC": "Enable UTC",
+      "inputTimezone": "Input Timezone",
+      "outputTimezone": "Output Timezone"
+    },
+    "de": {
+      "timestamp": "Zeitstempel",
+      "enableUTC": "Aktivieren Sie UTC",
+      "inputTimezone": "Eingangszeitzone",
+      "outputTimezone": "Ausgangszone"
+    },
+    "es": {
+      "timestamp": "Marca de tiempo",
+      "enableUTC": "Habilitar UTC",
+      "inputTimezone": "Zona horaria de entrada",
+      "outputTimezone": "Zona de salida"
+    },
+    "fr": {
+      "timestamp": "Horodatage",
+      "enableUTC": "Activer UTC",
+      "inputTimezone": "Fuseau horaire d'entrée",
+      "outputTimezone": "Zone de sortie"
+    },
+    "it": {
+      "timestamp": "Timestamp",
+      "enableUTC": "Abilita UTC",
+      "inputTimezone": "Fuso orario di input",
+      "outputTimezone": "Zona di output"
+    },
+    "ja": {
+      "timestamp": "タイムスタンプ",
+      "enableUTC": "UTCを有効にします",
+      "inputTimezone": "入力タイムゾーン",
+      "outputTimezone": "出力ゾーン"
+    },
+    "ko": {
+      "timestamp": "타임 스탬프",
+      "enableUTC": "UTC 활성화",
+      "inputTimezone": "입력 시간대",
+      "outputTimezone": "출력 영역"
+    },
+    "pt": {
+      "timestamp": "Timestamp",
+      "enableUTC": "Ativar UTC",
+      "inputTimezone": "Fuso horário de entrada",
+      "outputTimezone": "Zona de saída"
+    },
+    "ru": {
+      "timestamp": "Временная метка",
+      "enableUTC": "Включить UTC",
+      "inputTimezone": "Входной часовой пояс",
+      "outputTimezone": "Выходной зона"
+    },
+    "zh-tw": {
+      "timestamp": "時間戳",
+      "enableUTC": "啟用 UTC",
+      "inputTimezone": "輸入時區",
+      "outputTimezone": "輸出時區"
+    }
+  }

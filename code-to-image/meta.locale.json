@@ -1,0 +1,202 @@
+{
+  "zh": {
+    "$name": "代码转图片",
+    "$description": "将你的代码转化为漂亮的图片",
+    "$keywords": [
+      "代码",
+      "图片",
+      "图像",
+      "照片",
+      "图",
+      "转",
+      "生成",
+      "图片",
+      "图像",
+      "照片",
+      "图"
+    ]
+  },
+  "en": {
+    "$name": "Code To Image",
+    "$description": "Create beautiful images of your code",
+    "$keywords": [
+      "code",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "code2image",
+      "png"
+    ]
+  },
+  "de": {
+    "$name": "Code -Übertragungsbild",
+    "$description": "Konvertieren Sie Ihren Code in ein schönes Bild",
+    "$keywords": [
+      "Code",
+      "Bild",
+      "Bild",
+      "Foto",
+      "Bild",
+      "ändern",
+      "generieren",
+      "Bild",
+      "Bild",
+      "Foto",
+      "Bild"
+    ]
+  },
+  "es": {
+    "$name": "Imagen de transferencia de código",
+    "$description": "Convierta su código en una hermosa imagen",
+    "$keywords": [
+      "Código",
+      "imagen",
+      "imagen",
+      "foto",
+      "imagen",
+      "cambiar",
+      "generar",
+      "imagen",
+      "imagen",
+      "foto",
+      "imagen"
+    ]
+  },
+  "fr": {
+    "$name": "Image de transfert de code",
+    "$description": "Convertissez votre code en une belle image",
+    "$keywords": [
+      "Code",
+      "image",
+      "image",
+      "photo",
+      "image",
+      "changement",
+      "générer",
+      "image",
+      "image",
+      "photo",
+      "image"
+    ]
+  },
+  "it": {
+    "$name": "Immagine di trasferimento del codice",
+    "$description": "Converti il ​​tuo codice in una bella immagine",
+    "$keywords": [
+      "Codice",
+      "immagine",
+      "Immagine",
+      "foto",
+      "immagine",
+      "modifica",
+      "creare",
+      "immagine",
+      "Immagine",
+      "foto",
+      "immagine"
+    ]
+  },
+  "ja": {
+    "$name": "コード転送画像",
+    "$description": "コードを美しい写真に変換します",
+    "$keywords": [
+      "コード",
+      "写真",
+      "画像",
+      "写真",
+      "写真",
+      "変化",
+      "生成",
+      "写真",
+      "画像",
+      "写真",
+      "写真"
+    ]
+  },
+  "ko": {
+    "$name": "코드 전송 사진",
+    "$description": "코드를 아름다운 그림으로 변환하십시오",
+    "$keywords": [
+      "암호",
+      "그림",
+      "영상",
+      "사진",
+      "그림",
+      "변화",
+      "생성하다",
+      "그림",
+      "영상",
+      "사진",
+      "그림"
+    ]
+  },
+  "pt": {
+    "$name": "Imagem de transferência de código",
+    "$description": "Converta seu código em uma bela foto",
+    "$keywords": [
+      "Código",
+      "foto",
+      "imagem",
+      "foto",
+      "foto",
+      "mudar",
+      "gerar",
+      "foto",
+      "imagem",
+      "foto",
+      "foto"
+    ]
+  },
+  "ru": {
+    "$name": "Код передачи изображения",
+    "$description": "Преобразовать свой код в красивую картину",
+    "$keywords": [
+      "Код",
+      "картина",
+      "изображение",
+      "Фото",
+      "картина",
+      "изменять",
+      "генерировать",
+      "картина",
+      "изображение",
+      "Фото",
+      "картина"
+    ]
+  },
+  "zh-tw": {
+    "$name": "代碼轉圖片",
+    "$description": "將你的代碼轉化為漂亮的圖片",
+    "$keywords": [
+      "代碼",
+      "圖片",
+      "圖像",
+      "照片",
+      "圖",
+      "轉",
+      "生成",
+      "圖片",
+      "圖像",
+      "照片",
+      "圖"
+    ]
+  },
+  "zh-cn": {
+    "$name": "代码转图片",
+    "$description": "将你的代码转化为漂亮的图片",
+    "$keywords": [
+      "代码",
+      "图片",
+      "图像",
+      "照片",
+      "图",
+      "转",
+      "生成",
+      "图片",
+      "图像",
+      "照片",
+      "图"
+    ]
+  }
+}

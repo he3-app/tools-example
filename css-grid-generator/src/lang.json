@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "columns": "列",
+    "rows": "行",
+    "columnGap": "列间距",
+    "rowGap": "行间距",
+    "show": "展示"
+  },
+  "en": {
+    "columns": "Columns",
+    "rows": "Rows",
+    "columnGap": "Column Gap",
+    "rowGap": "Row Gap",
+    "show": "show"
+  },
+  "de": {
+    "columns": "Aufführen",
+    "rows": "OK",
+    "columnGap": "Abstand",
+    "rowGap": "Zeilenabstand",
+    "show": "Ausstellungsstück"
+  },
+  "es": {
+    "columns": "Lista",
+    "rows": "DE ACUERDO",
+    "columnGap": "Espaciado",
+    "rowGap": "Espaciado entre líneas",
+    "show": "anexo"
+  },
+  "fr": {
+    "columns": "Liste",
+    "rows": "D'ACCORD",
+    "columnGap": "Espacement",
+    "rowGap": "Interligne",
+    "show": "exposition"
+  },
+  "it": {
+    "columns": "Elenco",
+    "rows": "OK",
+    "columnGap": "Spaziatura",
+    "rowGap": "Interlinea",
+    "show": "mostra"
+  },
+  "ja": {
+    "columns": "リスト",
+    "rows": "OK",
+    "columnGap": "間隔",
+    "rowGap": "行間隔",
+    "show": "示す"
+  },
+  "ko": {
+    "columns": "목록",
+    "rows": "좋아요",
+    "columnGap": "간격",
+    "rowGap": "라인 간격",
+    "show": "전시하다"
+  },
+  "pt": {
+    "columns": "Lista",
+    "rows": "OK",
+    "columnGap": "Espaçamento",
+    "rowGap": "Espaçamento entre linhas",
+    "show": "Exibir"
+  },
+  "ru": {
+    "columns": "Список",
+    "rows": "ХОРОШО",
+    "columnGap": "Интервал",
+    "rowGap": "Межстрочный интервал",
+    "show": "выставка"
+  },
+  "zh-tw": {
+    "columns": "列",
+    "rows": "行",
+    "columnGap": "列間距",
+    "rowGap": "行間距",
+    "show": "展示"
+  }
+}
