@@ -11,9 +11,9 @@
       "id": "properties-to-json",
       "name": "Properties To JSON",
       "icon": "coffee-outlined",
-      "version": "0.0.11",
+      "version": "1.0.1",
       "isPublic": true,
-      "repository": "https://github.com/he3-app/tools",
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
@@ -33,9 +33,9 @@
       "id": "json-to-properties",
       "name": "JSON To Properties",
       "icon": "coffee-outlined",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
-      "repository": "https://github.com/he3-app/tools",
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
@@ -54,13 +54,16 @@
     {
       "name": "JSON To Go Struct",
       "id": "json-to-go-struct",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "description": "JSON To Go Struct",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-go-struct"
+      ],
       "keywords": [
         "convert",
         "JSON",
@@ -71,13 +74,16 @@
     {
       "name": "JSON To JAVA Bean",
       "id": "json-to-java-bean",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "description": "JSON To JAVA Bean",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-java-bean"
+      ],
       "keywords": [
         "convert",
         "JSON",
@@ -87,12 +93,15 @@
     },
     {
       "id": "json-to-python-class",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-python-class"
+      ],
       "name": "JSON To Python Class",
       "description": "JSON To Python Class",
       "keywords": [
@@ -104,8 +113,9 @@
     },
     {
       "id": "json-to-zod-schema",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
@@ -116,16 +126,22 @@
         "JSON",
         "Zod Schema",
         "transform"
+      ],
+      "relatedToolId": [
+        "yaml-to-zod-schema"
       ]
     },
     {
       "id": "json-to-ruby-module",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-ruby-module"
+      ],
       "name": "JSON To Ruby Module",
       "description": "JSON To Ruby Module",
       "keywords": [
@@ -137,12 +153,15 @@
     },
     {
       "id": "json-to-rust-struct",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-rust-struct"
+      ],
       "name": "JSON To Rust Struct",
       "description": "JSON To Rust Struct",
       "keywords": [
@@ -154,12 +173,15 @@
     },
     {
       "id": "json-to-dart-class",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-dart-class"
+      ],
       "name": "JSON To Dart Class",
       "description": "JSON To Dart Class",
       "keywords": [
@@ -171,12 +193,15 @@
     },
     {
       "id": "json-to-c0-class",
-      "version": "0.0.18",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-c0-class"
+      ],
       "name": "JSON To C# Class",
       "description": "JSON To C# Class",
       "keywords": [
@@ -188,12 +213,15 @@
     },
     {
       "id": "json-to-c00-struct",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-c00-struct"
+      ],
       "name": "JSON To C++ Struct",
       "description": "JSON To C++ Struct",
       "keywords": [
@@ -205,12 +233,15 @@
     },
     {
       "id": "json-to-swift-struct",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-swift-struct"
+      ],
       "name": "JSON To Swift Struct",
       "description": "JSON To Swift Struct",
       "keywords": [
@@ -222,12 +253,15 @@
     },
     {
       "id": "json-to-objective-c-interface",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-objective-c-interface"
+      ],
       "name": "JSON To Objective-C Interface",
       "description": "JSON To Objective-C Interface",
       "keywords": [
@@ -239,12 +273,15 @@
     },
     {
       "id": "json-to-haskell-module",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-haskell-module"
+      ],
       "name": "JSON To Haskell Module",
       "description": "JSON To Haskell Module",
       "keywords": [
@@ -256,12 +293,15 @@
     },
     {
       "id": "json-to-pike-class",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-pike-class"
+      ],
       "name": "JSON To Pike Class",
       "description": "JSON To Pike Class",
       "keywords": [
@@ -273,12 +313,15 @@
     },
     {
       "id": "json-to-elm-module",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-elm-module"
+      ],
       "name": "JSON To Elm Module",
       "description": "JSON To Elm Module",
       "keywords": [
@@ -290,12 +333,15 @@
     },
     {
       "id": "json-to-crystal-class",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-crystal-class"
+      ],
       "name": "JSON To Crystal Class",
       "description": "JSON To Crystal Class",
       "keywords": [
@@ -307,12 +353,15 @@
     },
     {
       "id": "json-to-json-schema",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-json-schema"
+      ],
       "name": "JSON To JSON Schema",
       "description": "JSON To JSON Schema",
       "keywords": [
@@ -324,12 +373,15 @@
     },
     {
       "id": "json-to-kotlin-class",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-kotlin-class"
+      ],
       "name": "JSON To Kotlin Class",
       "description": "JSON To Kotlin Class",
       "keywords": [
@@ -341,12 +393,15 @@
     },
     {
       "id": "json-to-toml",
-      "version": "0.0.21",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "toml-to-json"
+      ],
       "name": "JSON To TOML",
       "description": "JSON To TOML",
       "keywords": [
@@ -358,12 +413,15 @@
     },
     {
       "id": "json-to-xml",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-xml"
+      ],
       "name": "JSON To XML",
       "description": "JSON To XML",
       "keywords": [
@@ -375,12 +433,15 @@
     },
     {
       "id": "json-to-pretty",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-pretty"
+      ],
       "name": "JSON Format",
       "description": "Format JSON code",
       "keywords": [
@@ -397,12 +458,15 @@
     },
     {
       "id": "json-to-typescript-interface",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-typescript-interface"
+      ],
       "name": "JSON To TypeScript Interface",
       "description": "JSON To TypeScript Interface",
       "keywords": [
@@ -415,12 +479,15 @@
     },
     {
       "id": "json-to-big-query-schema",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-big-query-schema"
+      ],
       "name": "JSON To Big Query Schema",
       "description": "JSON To Big Query Schema",
       "keywords": [
@@ -432,12 +499,15 @@
     },
     {
       "id": "json-to-io-ts",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-io-ts"
+      ],
       "name": "JSON To IO-TS",
       "description": "JSON To IO-TS",
       "keywords": [
@@ -449,12 +519,15 @@
     },
     {
       "id": "json-to-scala",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-scala"
+      ],
       "name": "JSON To Scala",
       "description": "JSON To Scala",
       "keywords": [
@@ -466,12 +539,15 @@
     },
     {
       "id": "json-to-sarcastic",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-sarcastic"
+      ],
       "name": "JSON To Sarcastic",
       "description": "JSON To Sarcastic",
       "keywords": [
@@ -483,12 +559,15 @@
     },
     {
       "id": "json-to-generator",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-generator"
+      ],
       "name": "JSON Generator",
       "description": "Generate JSON code",
       "keywords": [
@@ -499,12 +578,15 @@
     },
     {
       "id": "json-to-yaml",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-json"
+      ],
       "name": "JSON To YAML",
       "description": "JSON To YAML",
       "keywords": [
@@ -517,12 +599,15 @@
     },
     {
       "id": "json-to-csv",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-csv"
+      ],
       "name": "JSON To CSV",
       "description": "JSON To CSV",
       "keywords": [
@@ -534,12 +619,15 @@
     },
     {
       "id": "json-to-minify",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-minify"
+      ],
       "name": "JSON Minify",
       "description": "Minify JSON code",
       "keywords": [
@@ -551,12 +639,15 @@
     },
     {
       "id": "json-to-php",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "relatedToolId": [],
+      "relatedToolId": [
+        "yaml-to-php"
+      ],
       "name": "JSON To PHP",
       "description": "JSON To PHP",
       "keywords": [
@@ -570,9 +661,9 @@
       "id": "json-to-sql-schema",
       "name": "JSON To SQL Schema",
       "icon": "coffee-outlined",
-      "version": "0.0.16",
+      "version": "1.0.1",
       "isPublic": true,
-      "repository": "https://github.com/he3-app/tools",
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],

@@ -45,13 +45,7 @@
           @search="onSearch"
         />
         <span class="title">{{ t('useHTML') }}</span>
-        <a-input
-          v-model:value="iptColor"
-          type="color"
-          style="width: 60%"
-          size="small"
-          @blur="iptPick"
-        />
+        <h-input :value="iptColor" type="color" style="width: 60%" size="small" @blur="iptPick" />
       </div>
       <div class="flexC">
         <span class="title">{{ t('selected') }}</span>
@@ -91,8 +85,8 @@
       class="ant-table-striped"
       :pagination="false"
       :row-class-name="
-          (_record:any, index:number) => (index % 2 === 1 ? 'table-striped' : null)
-        "
+        (_record: any, index: number) => (index % 2 === 1 ? 'table-striped' : null)
+      "
     >
       <template #bodyCell="{ column, text }">
         <template v-if="column.dataIndex === 'color'">
@@ -110,8 +104,8 @@
       class="ant-table-striped"
       :pagination="false"
       :row-class-name="
-          (_record:any, index:number) => (index % 2 === 1 ? 'table-striped' : null)
-        "
+        (_record: any, index: number) => (index % 2 === 1 ? 'table-striped' : null)
+      "
     >
       <template #bodyCell="{ column, text }">
         <template v-if="column.dataIndex === 'color'">
@@ -129,8 +123,8 @@
       class="ant-table-striped"
       :pagination="false"
       :row-class-name="
-          (_record:any, index:number) => (index % 2 === 1 ? 'table-striped' : null)
-        "
+        (_record: any, index: number) => (index % 2 === 1 ? 'table-striped' : null)
+      "
     >
       <template #bodyCell="{ column, text }">
         <template v-if="column.dataIndex === 'color'">
@@ -207,9 +201,11 @@ const { t } = useI18n({
   messages,
 });
 
-const iptPick = () => {
-  console.log(1)
-  selectColor.value = convertColor(iptColor.value, ColorType.HEX);
+const iptPick = (e) => {
+  if (e.target?.value) {
+    iptColor.value = e.target.value;
+    selectColor.value = convertColor(iptColor.value, ColorType.HEX);
+  }
 };
 const selectColor = ref<string>('#a6a6a6');
 const iptVal = ref<string>('');
@@ -443,6 +439,7 @@ watch(
   margin-top: 20px;
   font-size: 18px;
 }
+
 .flexC {
   display: flex;
   flex-direction: column;
@@ -450,6 +447,7 @@ watch(
   width: 28%;
   margin: 10px 3%;
 }
+
 .flexCan {
   display: flex;
   flex-direction: column;
@@ -457,6 +455,7 @@ watch(
   width: 35%;
   margin: 10px 3%;
 }
+
 .midDiv {
   display: flex;
   flex-direction: column;
@@ -467,6 +466,7 @@ watch(
   height: 300px;
   background-color: v-bind(selectColor);
 }
+
 .imgCard {
   border: none;
   display: flex;
@@ -475,15 +475,19 @@ watch(
 }
 
 .main {
-  --s: 20px; /* size  */
-  --m: 0px; /* margin */
+  --s: 20px;
+  /* size  */
+  --m: 0px;
+  /* margin */
   min-width: 260px;
 }
 
 .container {
   height: 220px;
-  font-size: 0; /* 禁用内联块元素之间的空白 */
+  font-size: 0;
+  /* 禁用内联块元素之间的空白 */
 }
+
 .container > div {
   text-align: center;
 }
@@ -498,12 +502,15 @@ watch(
   margin: 0;
   cursor: pointer;
 }
+
 .ant-table-striped :deep(.table-striped) td {
   background-color: #fafafa;
 }
+
 :deep(td.ant-table-cell) {
   padding: 0 !important;
 }
+
 h2 {
   margin-top: 20px;
 }

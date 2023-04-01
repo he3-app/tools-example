@@ -9,7 +9,7 @@
   "he3": {
     "name": "Cron Expression",
     "id": "crontab",
-    "version": "0.0.4",
+    "version": "1.0.1",
     "description": "Cron Expression",
     "isPublic": true,
     "category": [
@@ -19,7 +19,9 @@
       "cron",
       "crontab",
       "regular"
-    ]
+    ],
+    "repository": "https://github.com/he3-app/tools-example/tree/main/crontab",
+    "relatedToolId": []
   },
   "dependencies": {
     "@chuxingpay/cron-parser": "^2.16.4",
