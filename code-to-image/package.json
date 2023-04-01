@@ -8,11 +8,11 @@
   },
   "he3": {
     "id": "code-to-image",
-    "name": "Code To Image",
+    "name": "Code to Image",
     "icon": "thunderbolt-outlined",
-    "version": "0.0.6",
+    "version": "1.0.2",
     "isPublic": true,
-    "repository": "https://github.com/he3-app/tools",
+    "repository": "https://github.com/he3-app/tools-example/tree/main/code-to-image",
     "category": [
       "image",
       "programming"

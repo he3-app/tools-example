@@ -10,7 +10,7 @@
     "name": "Mermaid Editor",
     "id": "mermaid-editor",
     "icon": "file-image-outlined",
-    "version": "0.0.4",
+    "version": "1.0.1",
     "description": "Edit and preview mermaid charts",
     "isPublic": true,
     "category": [
@@ -22,7 +22,9 @@
       "edit",
       "preview",
       "editor"
-    ]
+    ],
+    "repository": "https://github.com/he3-app/tools-example/tree/main/mermaid-editor",
+    "relatedToolId": []
   },
   "dependencies": {
     "@ant-design/icons-vue": "^6.1.0",

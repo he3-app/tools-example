@@ -10,9 +10,9 @@
     "id": "timestamp-format",
     "name": "Timestamp Convertor",
     "icon": "field-time-outlined",
-    "version": "0.0.7",
+    "version": "1.0.1",
     "isPublic": true,
-    "repository": "https://github.com/he3-app/tools",
+    "repository": "https://github.com/he3-app/tools-example/tree/main/timestamp-format",
     "category": [
       "datetime"
     ],

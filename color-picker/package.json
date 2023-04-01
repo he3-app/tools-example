@@ -10,7 +10,7 @@
     "name": "Color Picker",
     "id": "color-picker",
     "icon": "pie-chart-outlined",
-    "version": "0.0.7",
+    "version": "1.0.2",
     "description": "color picker",
     "isPublic": true,
     "category": [
@@ -20,7 +20,8 @@
       "color",
       "picker"
     ],
-    "repository": "https://github.com/he3-app/tools.git"
+    "repository": "https://github.com/he3-app/tools-example/tree/main/color-picker",
+    "relatedToolId": []
   },
   "dependencies": {
     "@he3-kit/utils": "latest",
