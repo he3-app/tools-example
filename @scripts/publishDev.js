@@ -8,12 +8,12 @@ const feishuToken = process.env.FEISHU_TOKEN;
 const baseUrl = process.env.BASE_URL;
 // 获取commit作者
 const latestAuthor = execSync('git log -1 --pretty=format:"%an"').toString();
-// 获取上一次 commit 的 hash 值
-const lastCommitHash = execSync('git log --format="%H" -n 1 HEAD^').toString().trim();
-// 获取上一次 commit 的提交信息
-const lastCommitMessage = execSync(`git log --pretty=format:"%s" ${lastCommitHash} -n 1`)
-  .toString()
-  .trim();
+// // 获取上一次 commit 的 hash 值
+// const lastCommitHash = execSync('git log --format="%H" -n 1 HEAD^').toString().trim();
+// // 获取上一次 commit 的提交信息
+// const lastCommitMessage = execSync(`git log --pretty=format:"%s" ${lastCommitHash} -n 1`)
+  // .toString()
+  // .trim();
 const successArr = [];
 const errorArr = [];
 
