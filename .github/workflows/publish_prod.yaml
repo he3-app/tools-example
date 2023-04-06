@@ -1,0 +1,23 @@
+name: 'Publish Prod'
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish-prod:
+    runs-on: [self-hosted, X64, Linux]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: 'Publish Prod'
+        env:
+          HE3_TOKEN: ${{ secrets.HE3_TOEKN_PROD }}
+          FEISHU_TOKEN: ${{ secrets.FEISHU_BOT_WEBHOOK_URL }}
+          BASE_URL: ${{ secrets.VERSION_URL_PROD }}
+        run: node ./@scripts/publishProd.js

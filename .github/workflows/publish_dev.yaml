@@ -1,0 +1,28 @@
+name: 'Publish Dev'
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches-ignore:
+      - main
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+  publish-dev:
+    runs-on: [self-hosted, X64, Linux]
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: 'Publish Dev'
+        env:
+          HE3_TOKEN: ${{ secrets.HE3_TOKEN }}
+          FEISHU_TOKEN: ${{ secrets.FEISHU_BOT_WEBHOOK_URL }}
+          BASE_URL: ${{ secrets.VERSION_URL_DEV }}
+        run: node ./@scripts/publishDev.js
