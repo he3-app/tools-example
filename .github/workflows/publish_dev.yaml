@@ -2,13 +2,9 @@ name: 'Publish Dev'
 
 on:
   workflow_dispatch:
-  pull_request:
-    branches-ignore:
+  push:
+    branches:
       - main
-    types:
-      - opened
-      - synchronize
-      - reopened
 
 jobs:
   publish-dev:

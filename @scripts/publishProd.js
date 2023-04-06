@@ -117,7 +117,7 @@ async function publish() {
   console.log('\n\n===========================');
   console.log(`发版完毕👏 \n发版成功: ${successArr.join(',')}\n发版失败: ${errorArr.join(',')} `);
   console.log('===========================');
-  sendMsg(`> 测试环境工具发布
+  sendMsg(`> 正式环境工具发布
   Author: ${latestAuthor}
   发版成功: ${successArr.join(',')}
   发版失败: ${errorArr.join(',')} 
@@ -176,7 +176,7 @@ function sendMsg(msg) {
   let obj = {
     msg_type: 'text',
     content: {
-      title: 'Tools Publish - TEST',
+      title: 'Example Tools Publish - PROD',
       text: msg,
     },
   };

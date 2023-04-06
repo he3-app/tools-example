@@ -172,7 +172,7 @@ function sendMsg(msg) {
   let obj = {
     msg_type: 'text',
     content: {
-      title: 'Tools Publish - TEST',
+      title: 'Example Tools Publish - DEV',
       text: msg,
     },
   };
