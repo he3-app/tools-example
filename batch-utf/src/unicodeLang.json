@@ -1,0 +1,35 @@
+{
+    "zh": {
+      "donTConvertAll": "不转换字母和数字"
+    },
+    "en": {
+      "donTConvertAll": "Don't convert letter and number"
+    },
+    "de": {
+      "donTConvertAll": "Konvertieren Sie keine Buchstaben und Zahlen"
+    },
+    "es": {
+      "donTConvertAll": "No convierta letras y números"
+    },
+    "fr": {
+      "donTConvertAll": "Ne convertissez pas les lettres et les chiffres"
+    },
+    "it": {
+      "donTConvertAll": "Non convertire lettere e numeri"
+    },
+    "ja": {
+      "donTConvertAll": "文字や数字を変換しないでください"
+    },
+    "ko": {
+      "donTConvertAll": "글자와 숫자를 변환하지 마십시오"
+    },
+    "pt": {
+      "donTConvertAll": "Não converta letras e números"
+    },
+    "ru": {
+      "donTConvertAll": "Не конвертируйте буквы и цифры"
+    },
+    "zh-tw": {
+      "donTConvertAll": "不轉換字母和數字"
+    }
+  }

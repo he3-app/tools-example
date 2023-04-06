@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "Arabic number to Roman",
+    "$description": "Arabic number to Roman numerals",
+    "$keywords": [
+      "roman numerals",
+      "arabic number",
+      "number"
+    ]
+  },
+  "zh-cn": {
+    "$name": "阿拉伯数字转罗马数字",
+    "$description": "阿拉伯数字转罗马数字",
+    "$keywords": [
+      "罗马数字",
+      "阿拉伯数字",
+      "数字"
+    ]
+  },
+  "ko": {
+    "$name": "아라비아 숫자를 로마자로",
+    "$description": "아라비아 숫자를 로마 숫자로",
+    "$keywords": [
+      "로마 숫자",
+      "아라비아 숫자",
+      "숫자"
+    ]
+  },
+  "zh-tw": {
+    "$name": "阿拉伯數字轉羅馬數字",
+    "$description": "阿拉伯數字轉羅馬數字",
+    "$keywords": [
+      "羅馬數字",
+      "阿拉伯數字",
+      "數字"
+    ]
+  },
+  "ja": {
+    "$name": "ローマ数字へのアラビア数字",
+    "$description": "アラビア数字からローマ数字へ",
+    "$keywords": [
+      "ローマ数字",
+      "アラビア数字",
+      "番号"
+    ]
+  },
+  "de": {
+    "$name": "Arabische Zahl zu Roman",
+    "$description": "Arabische Zahl zu römischen Ziffern",
+    "$keywords": [
+      "römische Zahlen",
+      "Arabische Zahl",
+      "Nummer"
+    ]
+  },
+  "fr": {
+    "$name": "Nombre arabe en romain",
+    "$description": "Nombre arabe en chiffres romains",
+    "$keywords": [
+      "chiffres romains",
+      "nombre arabe",
+      "nombre"
+    ]
+  },
+  "pt": {
+    "$name": "número arábico para romano",
+    "$description": "Número arábico para algarismos romanos",
+    "$keywords": [
+      "números romanos",
+      "número arábico",
+      "número"
+    ]
+  },
+  "it": {
+    "$name": "Numero arabo in romano",
+    "$description": "Da numero arabo a numero romano",
+    "$keywords": [
+      "numeri romani",
+      "numero arabo",
+      "numero"
+    ]
+  },
+  "ru": {
+    "$name": "арабское число в римское",
+    "$description": "арабское число в римские цифры",
+    "$keywords": [
+      "римские цифры",
+      "арабский номер",
+      "число"
+    ]
+  },
+  "es": {
+    "$name": "número arábigo a romano",
+    "$description": "Número arábigo a números romanos",
+    "$keywords": [
+      "números romanos",
+      "número arábigo",
+      "número"
+    ]
+  }
+}

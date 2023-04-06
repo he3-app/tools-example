@@ -1,0 +1,89 @@
+{
+    "zh": {
+        "$name": "UUID 解析器",
+        "$description": "解析 UUID",
+        "$keywords": [
+            "解析"
+        ]
+    },
+    "en": {
+        "$name": "UUID Parser",
+        "$description": "Parse UUID",
+        "$keywords": [
+            "UUID",
+            "ID",
+            "parse",
+            "inspect"
+        ]
+    },
+    "de": {
+        "$name": "Uuid Parser",
+        "$description": "Analysieren Sie UUID",
+        "$keywords": [
+            "Analysieren"
+        ]
+    },
+    "es": {
+        "$name": "Uuid Parser",
+        "$description": "Analizar uuid",
+        "$keywords": [
+            "Analizar"
+        ]
+    },
+    "fr": {
+        "$name": "Analyseur UUID",
+        "$description": "Analyser UUID",
+        "$keywords": [
+            "Analyser"
+        ]
+    },
+    "it": {
+        "$name": "Parser uuid",
+        "$description": "Analizzare uuid",
+        "$keywords": [
+            "Analizzare"
+        ]
+    },
+    "ja": {
+        "$name": "UUIDパーサー",
+        "$description": "UUIDを分析します",
+        "$keywords": [
+            "分析します"
+        ]
+    },
+    "ko": {
+        "$name": "Uuid Parser",
+        "$description": "UUID를 분석하십시오",
+        "$keywords": [
+            "분석"
+        ]
+    },
+    "pt": {
+        "$name": "Analisador uuid",
+        "$description": "Analise uuid",
+        "$keywords": [
+            "Analisar"
+        ]
+    },
+    "ru": {
+        "$name": "UUID PARSER",
+        "$description": "Проанализировать uuid",
+        "$keywords": [
+            "Анализировать"
+        ]
+    },
+    "zh-tw": {
+        "$name": "UUID 解析器",
+        "$description": "解析 UUID",
+        "$keywords": [
+            "解析"
+        ]
+    },
+    "zh-cn": {
+        "$name": "UUID 解析器",
+        "$description": "解析 UUID",
+        "$keywords": [
+            "解析"
+        ]
+    }
+}

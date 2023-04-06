@@ -1,0 +1,221 @@
+{
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "generate": "he3 generate",
+    "version": "he3 version"
+  },
+  "he3": [
+    {
+      "id": "utf7-decode",
+      "name": "UTF7 Decode",
+      "icon": "block-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "UTF7 Decode",
+      "keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decode"
+      ],
+      "relatedToolId": [
+        "utf7-encode"
+      ]
+    },
+    {
+      "id": "utf7-encode",
+      "name": "UTF7 Encode",
+      "icon": "block-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "UTF7 Encode",
+      "keywords": [
+        "UTF7",
+        "UTF-7",
+        "Encode"
+      ],
+      "relatedToolId": [
+        "utf7-decode"
+      ]
+    },
+    {
+      "id": "utf8-encode",
+      "name": "UTF8 Encode",
+      "icon": "block-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "UTF8 Encode",
+      "keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Encode"
+      ],
+      "relatedToolId": [
+        "utf8-decode"
+      ]
+    },
+    {
+      "id": "utf8-decode",
+      "name": "UTF8 Decode",
+      "icon": "block-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "UTF8 Decode",
+      "keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decode"
+      ],
+      "relatedToolId": [
+        "utf8-encode"
+      ]
+    },
+    {
+      "id": "utf16-encode",
+      "name": "UTF16 Encode",
+      "icon": "block-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "UTF16 Encode",
+      "keywords": [
+        "utf16",
+        "encode"
+      ],
+      "relatedToolId": [
+        "utf16-decode"
+      ]
+    },
+    {
+      "id": "utf16-decode",
+      "name": "UTF16 Decode",
+      "icon": "block-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "UTF16 Decode",
+      "keywords": [
+        "utf16",
+        "decode"
+      ],
+      "relatedToolId": [
+        "utf16-encode"
+      ]
+    },
+    {
+      "id": "utf32-encode",
+      "name": "UTF32 Encode",
+      "icon": "block-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "UTF32 Encode",
+      "keywords": [
+        "utf32",
+        "encode"
+      ],
+      "relatedToolId": [
+        "utf32-decode"
+      ]
+    },
+    {
+      "id": "utf32-decode",
+      "name": "UTF32 Decode",
+      "icon": "block-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "UTF32 Decode",
+      "keywords": [
+        "utf32",
+        "decode"
+      ],
+      "relatedToolId": [
+        "utf32-encode"
+      ]
+    },
+    {
+      "id": "unicode-encode",
+      "name": "Unicode Encode",
+      "icon": "block-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "Encodes text into unicode",
+      "keywords": [
+        "unicode",
+        "encode"
+      ],
+      "relatedToolId": [
+        "unicode-decode"
+      ]
+    },
+    {
+      "id": "unicode-decode",
+      "name": "Unicode Decode",
+      "icon": "block-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "encode"
+      ],
+      "description": "Decodes unicode into text",
+      "keywords": [
+        "unicode",
+        "decode"
+      ],
+      "relatedToolId": [
+        "unicode-encode"
+      ]
+    }
+  ],
+  "dependencies": {
+    "@he3-kit/utils": "latest",
+    "utf32char": "^1.4.1",
+    "utf8": "^3.0.0",
+    "vue": "^3.2.47",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "terser": "^5.16.6",
+    "vite": "^4.1.4"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "en": {
+    "$name": "URL Encode",
+    "$description": "URL Encode",
+    "$keywords": [
+      "url",
+      "uri",
+      "Encode"
+    ]
+  },
+  "es": {
+    "$name": "Codificación de URL",
+    "$description": "Codificación de URL",
+    "$keywords": [
+      "URL",
+      "uri",
+      "Codificar"
+    ]
+  },
+  "de": {
+    "$name": "URL-Codierung",
+    "$description": "URL-Codierung",
+    "$keywords": [
+      "URL",
+      "uri",
+      "Kodieren"
+    ]
+  },
+  "pt": {
+    "$name": "Codificação de URL",
+    "$description": "Codificação de URL",
+    "$keywords": [
+      "url",
+      "uri",
+      "Codificar"
+    ]
+  },
+  "ko": {
+    "$name": "URL 인코딩",
+    "$description": "URL 인코딩",
+    "$keywords": [
+      "URL",
+      "우리",
+      "인코딩"
+    ]
+  },
+  "zh-tw": {
+    "$name": "URL 編碼",
+    "$description": "URL 編碼",
+    "$keywords": [
+      "網址",
+      "編碼"
+    ]
+  },
+  "zh-cn": {
+    "$name": "URL 编码",
+    "$description": "URL 编码",
+    "$keywords": [
+      "网址",
+      "编码"
+    ]
+  },
+  "ru": {
+    "$name": "URL кодировать",
+    "$description": "URL кодировать",
+    "$keywords": [
+      "URL",
+      "ури",
+      "Кодировать"
+    ]
+  },
+  "fr": {
+    "$name": "Encodage d'URL",
+    "$description": "Encodage d'URL",
+    "$keywords": [
+      "URL",
+      "uri",
+      "Encoder"
+    ]
+  },
+  "ja": {
+    "$name": "URL エンコード",
+    "$description": "URL エンコード",
+    "$keywords": [
+      "URL",
+      "うり",
+      "エンコード"
+    ]
+  },
+  "it": {
+    "$name": "Codifica URL",
+    "$description": "Codifica URL",
+    "$keywords": [
+      "URL",
+      "uri",
+      "Codificare"
+    ]
+  }
+}

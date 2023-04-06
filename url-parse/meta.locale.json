@@ -1,0 +1,89 @@
+{
+    "zh": {
+        "$name": "URL 解析器",
+        "$description": "解析 URL",
+        "$keywords": [
+            "解析"
+        ]
+    },
+    "en": {
+        "$name": "URL Parser",
+        "$description": "Parse URL",
+        "$keywords": [
+            "URL",
+            "URI",
+            "parse",
+            "inspect"
+        ]
+    },
+    "de": {
+        "$name": "URL -Parser",
+        "$description": "URL analysieren",
+        "$keywords": [
+            "Analysieren"
+        ]
+    },
+    "es": {
+        "$name": "Parser de URL",
+        "$description": "Analizar URL",
+        "$keywords": [
+            "Analizar"
+        ]
+    },
+    "fr": {
+        "$name": "Analyseur URL",
+        "$description": "Analyser l'URL",
+        "$keywords": [
+            "Analyser"
+        ]
+    },
+    "it": {
+        "$name": "Parser URL",
+        "$description": "Analizzare l'URL",
+        "$keywords": [
+            "Analizzare"
+        ]
+    },
+    "ja": {
+        "$name": "URLパーサー",
+        "$description": "URLを分析します",
+        "$keywords": [
+            "分析します"
+        ]
+    },
+    "ko": {
+        "$name": "URL 파서",
+        "$description": "URL을 분석하십시오",
+        "$keywords": [
+            "분석"
+        ]
+    },
+    "pt": {
+        "$name": "Analisador de URL",
+        "$description": "Analise URL",
+        "$keywords": [
+            "Analisar"
+        ]
+    },
+    "ru": {
+        "$name": "Сандитор URL",
+        "$description": "Проанализировать URL",
+        "$keywords": [
+            "Анализировать"
+        ]
+    },
+    "zh-tw": {
+        "$name": "URL 解析器",
+        "$description": "解析 URL",
+        "$keywords": [
+            "解析"
+        ]
+    },
+    "zh-cn": {
+        "$name": "URL 解析器",
+        "$description": "解析 URL",
+        "$keywords": [
+            "解析"
+        ]
+    }
+}

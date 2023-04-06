@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "generateBtn": "生成",
+    "result": "结果"
+  },
+  "en": {
+    "generateBtn": "Generate",
+    "result": "Result"
+  },
+  "de": {
+    "generateBtn": "generieren",
+    "result": "Ergebnis"
+  },
+  "es": {
+    "generateBtn": "generar",
+    "result": "resultado"
+  },
+  "fr": {
+    "generateBtn": "générer",
+    "result": "résultat"
+  },
+  "it": {
+    "generateBtn": "creare",
+    "result": "risultato"
+  },
+  "ja": {
+    "generateBtn": "生成",
+    "result": "結果"
+  },
+  "ko": {
+    "generateBtn": "생성하다",
+    "result": "결과"
+  },
+  "pt": {
+    "generateBtn": "gerar",
+    "result": "resultado"
+  },
+  "ru": {
+    "generateBtn": "генерировать",
+    "result": "результат"
+  },
+  "zh-tw": {
+    "generateBtn": "生成",
+    "result": "結果"
+  }
+}

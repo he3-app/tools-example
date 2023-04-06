@@ -1,0 +1,35 @@
+{
+    "zh": {
+    "IMAPMode": "IMAP模式"
+    },
+    "en": {
+    "IMAPMode": "IMAP mode"
+    },
+    "de": {
+    "IMAPMode": "IMAP-Modus"
+    },
+    "es": {
+    "IMAPMode": "Modo IMAP"
+    },
+    "fr": {
+    "IMAPMode": "Mode IMAP"
+    },
+    "it": {
+    "IMAPMode": "Modalità IMAP"
+    },
+    "ja": {
+    "IMAPMode": "IMAPモード"
+    },
+    "ko": {
+    "IMAPMode": "IMAP 모드"
+    },
+    "pt": {
+    "IMAPMode": "Modo IMAP"
+    },
+    "ru": {
+    "IMAPMode": "Режим IMAP"
+    },
+    "zh-tw": {
+    "IMAPMode": "IMAP模式"
+    }
+    }

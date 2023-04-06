@@ -1,0 +1,105 @@
+{
+  "en": {
+    "$name": "English singular to plural",
+    "$description": "English singular to plural",
+    "$keywords": [
+      "plural",
+      "pluralize",
+      "single",
+      "singular",
+      "english"
+    ]
+  },
+  "zh-cn": {
+    "$name": "英语单数变复数",
+    "$description": "英语单数变复数",
+    "$keywords": [
+      "复数",
+      "复数化",
+      "单数",
+      "英语"
+    ]
+  },
+  "zh-tw": {
+    "$name": "英語單數變複數",
+    "$description": "英語單數變複數",
+    "$keywords": [
+      "複數",
+      "複數化",
+      "單數",
+      "英語"
+    ]
+  },
+  "ja": {
+    "$name": "英語の単数形から複数形",
+    "$description": "英語の単数形から複数形",
+    "$keywords": [
+      "複数",
+      "複数形にする",
+      "英語"
+    ]
+  },
+  "ko": {
+    "$name": "영어 단수에서 복수로",
+    "$description": "영어 단수에서 복수로",
+    "$keywords": [
+      "복수형",
+      "복수화하다",
+      "영어"
+    ]
+  },
+  "fr": {
+    "$name": "Anglais du singulier au pluriel",
+    "$description": "Anglais du singulier au pluriel",
+    "$keywords": [
+      "pluriel",
+      "pluraliser",
+      "Anglais"
+    ]
+  },
+  "it": {
+    "$name": "Inglese dal singolare al plurale",
+    "$description": "Inglese dal singolare al plurale",
+    "$keywords": [
+      "plurale",
+      "pluralizzare",
+      "inglese"
+    ]
+  },
+  "de": {
+    "$name": "Englisch Singular zum Plural",
+    "$description": "Englisch Singular zum Plural",
+    "$keywords": [
+      "Plural",
+      "pluralisieren",
+      "Englisch"
+    ]
+  },
+  "ru": {
+    "$name": "Английский от единственного до множественного числа",
+    "$description": "Английский от единственного до множественного числа",
+    "$keywords": [
+      "множественное число",
+      "множественное число",
+      "английский"
+    ]
+  },
+  "pt": {
+    "$name": "Inglês singular para plural",
+    "$description": "Inglês singular para plural",
+    "$keywords": [
+      "plural",
+      "pluralizar",
+      "inglês"
+    ]
+  },
+  "es": {
+    "$name": "Inglés singular a plural",
+    "$description": "Inglés singular a plural",
+    "$keywords": [
+      "plural",
+      "pluralizar",
+      "inglés"
+    ]
+  }
+}

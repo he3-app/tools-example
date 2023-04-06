@@ -1,0 +1,14 @@
+{
+    "en": {
+      "input": "Please input candidates here:",
+      "select": "Please input count:",
+      "resultText": "result",
+      "lottery":"lottery"
+    },
+    "zh": {
+      "input": "请输入要抽奖的样本:",
+      "select": "请输入抽出的个数:",
+      "resultText": "结果:",
+      "lottery":"抽奖"
+    }
+  }
