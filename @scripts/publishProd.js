@@ -121,7 +121,7 @@ async function publish() {
     errorArr.length ? `\n发版失败: ${errorArr.join(', ')}` : ''
   }
 Author: ${latestAuthor}
-详情可见: https://github.com/he3-app/tools/actions/workflows/publish_prod.yaml
+详情可见: https://github.com/he3-app/tools-example/actions/workflows/publish_prod.yaml
   `);
 }
 
