@@ -113,12 +113,11 @@ async function publish() {
   console.log('\n\n===========================');
   console.log(`发版完毕👏 \n发版成功: ${successArr.join(',')}\n发版失败: ${errorArr.join(',')} `);
   console.log('===========================');
-  sendMsg(`> 测试环境工具发布
-  Author: ${latestAuthor}
-  发版成功: ${successArr.join(',')}
-  发版失败: ${errorArr.join(',')} 
-  commit: ${lastCommitMessage}
-  详情可见: https://github.com/he3-app/tools/actions/workflows/publish_dev.yaml
+  sendMsg(`测试环境工具发布${successArr.length ? `\n发版成功: ${successArr.join(', ')}` : ''}${
+    errorArr.length ? `\n发版失败: ${errorArr.join(', ')}` : ''
+  }
+Author: ${latestAuthor}
+详情可见: https://github.com/he3-app/tools/actions/workflows/publish_dev.yaml
   `);
 }
 
