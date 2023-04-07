@@ -433,7 +433,7 @@
     },
     {
       "id": "json-to-pretty",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -684,6 +684,7 @@
     "@ltd/j-toml": "^1.38.0",
     "@types/json2csv": "^5.0.3",
     "dayjs": "^1.11.7",
+    "decimal.js": "^10.4.3",
     "generate-schema": "^2.6.0",
     "js-yaml": "^4.1.0",
     "json-stringify-pretty-compact": "^4.0.0",
