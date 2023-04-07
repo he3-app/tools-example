@@ -3,6 +3,7 @@ import Decimal from 'decimal.js';
 import { uglyJsonExample } from './example';
 import register from './utils/register';
 
+//将数字转换成高精度类型
 const toSafeJSON = (key, value) => {
   if (typeof value === 'number') {
     const decimalValue = new Decimal(value);
@@ -10,18 +11,32 @@ const toSafeJSON = (key, value) => {
   }
   return value;
 }
+//将json分段解析 提高性能
+function* chunkify(str, size) {
+  const chunks = Math.ceil(str.length / size);
+  for (let i = 0, index = 0; i < chunks; ++i, index += size) {
+    yield str.substr(index, size);
+  }
+}
 
 export default register({
   inputHandler: (str: string) => {
-    const json = JSON.parse(str, (key, value) => {
-      // 如果 value 是字符串类型并且可以转换为数字，则使用 Decimal 对象存储
-      if (typeof value === 'string' && /^\d+$/.test(value)) {
-        const decimalValue = new Decimal(value);
-        return decimalValue.toNumber();
-      }
-      return value;
-    });
-    return prettyJson(json, { maxLength: 20, replacer: toSafeJSON });
+    const chunkSize = 10000;
+    const stream = chunkify(str, chunkSize);
+    let json = '';
+
+    for (const chunk of stream) {
+      const parsedChunk = JSON.parse(chunk, (key, value) => {
+        if (typeof value === 'string' && /^\d+$/.test(value)) {
+          const decimalValue = new Decimal(value);
+          return decimalValue.toNumber();
+        }
+        return value;
+      });
+      json += prettyJson(parsedChunk, { maxLength: 20, replacer: toSafeJSON });
+    }
+
+    return json;
   },
   lang: 'JSON',
   example: uglyJsonExample,
