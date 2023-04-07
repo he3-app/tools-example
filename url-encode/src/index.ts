@@ -6,4 +6,9 @@ export const advance = {
     type: 'url',
     priority: 4,
   },
+  
+  conversionFunction:(input:string)=>{
+    return encodeURI(input)
+  }
+  
 };
