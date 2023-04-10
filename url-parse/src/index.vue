@@ -20,7 +20,7 @@
 </template>
 
 <script setup lang="ts">
-import { defineEmits, defineProps, ref } from 'vue';
+import { defineEmits, defineProps, ref,onMounted } from 'vue';
 import parse from 'url-parse';
 import { useI18n } from 'vue-i18n';
 import { isUrl } from '@he3-kit/utils';
@@ -43,8 +43,16 @@ function parseUrl() {
   outputValue.value = parse(inputValue.value, true);
 }
 
-setTimeout(() => {
-  parseUrl();
+
+onMounted(() => {
+  $he3.getLastClipboard().then((res) => {
+    if (isUrl(res)) {
+      inputValue.value = res;
+      parseUrl()
+      $he3.onUseClipboardValue();
+    }
+  });
+  parseUrl()
 });
 </script>
 <style scoped lang="less">
