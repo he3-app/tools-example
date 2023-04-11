@@ -1,0 +1,102 @@
+{
+    "zh": {
+      "$name": "UUID/ULID/NANOID 生成器",
+      "$description": "生成 UUID 或 ULID 或 NANOID",
+      "$keywords": [
+        "生成",
+        "唯一"
+      ]
+    },
+    "en": {
+      "$name": "UUID/ULID/NANOID Generator",
+      "$description": "Generate UUID or ULID or NANOID",
+      "$keywords": [
+        "UUID",
+        "ULID",
+        "NANOID",
+        "ID",
+        "Generate",
+        "unique"
+      ]
+    },
+    "de": {
+      "$name": "UUID/ULID/NANOID -Generator",
+      "$description": "Uuid oder ulid erzeugen",
+      "$keywords": [
+        "generieren",
+        "nur"
+      ]
+    },
+    "es": {
+      "$name": "Uuid/Ulid/Nanoid Generator",
+      "$description": "Generare uuid o ulid o nanoid",
+      "$keywords": [
+        "generar",
+        "solo"
+      ]
+    },
+    "fr": {
+      "$name": "Générateur UUID / ULID  / NANOID",
+      "$description": "Générer UUID ou ULID or NANOID",
+      "$keywords": [
+        "générer",
+        "seul"
+      ]
+    },
+    "it": {
+      "$name": "Generatore UUID/Ulid/Nanoid",
+      "$description": "Generare uuid o ulid o nanoid",
+      "$keywords": [
+        "creare",
+        "soltanto"
+      ]
+    },
+    "ja": {
+      "$name": "uuid/ulid/nanoidジェネレーター",
+      "$description": "UUID または ULID または NANOID を生成します,",
+      "$keywords": [
+        "生成",
+        "それだけ"
+      ]
+    },
+    "ko": {
+      "$name": "uuid/ulid/nanoid 생성기",
+      "$description": "UUID 또는 ULID 또는 NANOID를 생성합니다.",
+      "$keywords": [
+        "생성하다",
+        "오직"
+      ]
+    },
+    "pt": {
+      "$name": "Gerador Uuid/Ulid/Nanoid",
+      "$description": "Gera UUID ou ULID ou NANOID",
+      "$keywords": [
+        "gerar",
+        "apenas"
+      ]
+    },
+    "ru": {
+      "$name": "Uuid/ulid/nanoid Generator",
+      "$description":  "Генерирует UUID или ULID или NANOID",
+      "$keywords": [
+        "генерировать",
+        "только"
+      ]
+    },
+    "zh-tw": {
+      "$name": "UUID/ULID/NANOID 生成器",
+      "$description": "生成 UUID、ULID 或 NANOID",
+      "$keywords": [
+        "生成",
+        "唯一"
+      ]
+    },
+    "zh-cn": {
+      "$name": "UUID/ULID/NANOID 生成器",
+      "$description": "生成 UUID、ULID 或 NANOID",
+      "$keywords": [
+        "生成",
+        "唯一"
+      ]
+    }
+  }

@@ -3,7 +3,7 @@
     <template #left>
       <div class="wrapper">
         <!-- UUID -->
-        <a-form :label-col="{ span: 12 }" :wrapper-col="{ span: 16 }" size="small">
+        <a-form :label-col="{ span: 9 }" :wrapper-col="{ span: 16 }" size="small">
           <a-form-item label="Type: ">
             <h-radio v-model:value="showUuid" :options="fun" size="small" option-type="button"
               :save-options="{ autoSave: true, key: 'fun' }" />
@@ -39,14 +39,16 @@
             <a-switch v-model:checked="dashShow" />
           </a-form-item>
 
-          <a-form-item v-show="showUuid !== 'UUID'" label="Number: ">
+          <a-form-item v-show="showUuid == 'ULID'" label="Number: ">
             <h-number-input v-model:value="ulidNumber" size="small" min="1" max="20"
               :save-options="{ autoSave: true, key: 'uuidNumber-2' }" @change="generator(Type.ULID)" />
           </a-form-item>
-
+          <a-form-item v-show="showUuid == 'NANOID'" label="Number: ">
+            <h-number-input v-model:value="nanoidNumber" size="small" min="1" max="20" @change="generator(Type.NANOID)" />
+          </a-form-item>
           <a-form-item :wrapper-col="{ span: 16, offset: 12 }">
             <a-button id="generate" type="primary" size="middle"
-              @click="generator(showUuid !== 'UUID' ? Type.ULID : Type.UUID)">
+              @click="generator(type)">
               {{ t("generateBtn") }}
             </a-button>
           </a-form-item>
@@ -56,14 +58,15 @@
     <template #right>
       <div>
         <h-multiline v-show="showUuid === 'UUID'" v-model:value="uuid" :title="`${t('result')}`" />
-        <h-multiline v-show="showUuid !== 'UUID'" v-model:value="ulid" :title="`${t('result')}`" />
+        <h-multiline v-show="showUuid === 'ULID'" v-model:value="ulid" :title="`${t('result')}`" />
+        <h-multiline v-show="showUuid === 'NANOID'" v-model:value="nanoidValue" :title="`${t('result')}`" />
       </div>
     </template>
   </h-horizontal-layout>
 </template>
 
 <script setup lang="ts">
-import { onMounted, ref, watch } from "vue";
+import { onMounted, ref, watch, computed } from "vue";
 import { ulid as ulidGenerator } from "ulid";
 import random from "random";
 import * as UUID from "uuid";
@@ -72,6 +75,8 @@ import { v5 as uuidv5 } from "uuid";
 import randomStringGen, { Type as TypeOption } from "random-string-generator";
 import { useI18n } from "vue-i18n";
 import messages from "./lang.json";
+import { nanoid } from 'nanoid'
+
 const $he3 = window.$he3;
 const { t } = useI18n({
   locale: $he3.lang,
@@ -81,6 +86,7 @@ const { t } = useI18n({
 enum Type {
   UUID = "uuid",
   ULID = "ulid",
+  NANOID = "nanoid",
   RANDOM_NUMBER = "Random Number",
   RANDOM_STRING = "Random String",
 }
@@ -99,11 +105,13 @@ const TypeOption: Array<TypeOption> = [
 
 const uuid = ref("");
 const ulid = ref("");
+const nanoidValue = ref("");
 const name = ref("Hello, World!");
 const nameSpace = ref("1b671a64-40d5-491e-99b0-da01ff1f3341");
 const dashShow = ref<boolean>(false);
 const uuidNumber = ref(5);
 const ulidNumber = ref(5);
+const nanoidNumber = ref(5);
 const randomNumber = ref({
   val: 0,
   min: 0,
@@ -120,10 +128,21 @@ const randomString = ref<{
 });
 
 const UUIDVersion: Version[] = ["v1", "v3", "v4", "v5"];
-const fun = ["UUID", "ULID"];
+const fun = ["UUID", "ULID", "NANOID"];
 const uuidVersion = ref<Version>(UUIDVersion[0]);
 const showUuid = ref(fun[0]);
-
+const type = computed(() => {
+  switch(showUuid.value){
+    case fun[0]:
+      return Type.UUID
+    case fun[1]:
+      return Type.ULID
+    case fun[2]:
+      return Type.NANOID
+    default:
+      return Type.UUID
+  }
+})
 watch(dashShow, () => {
   generator(Type.UUID);
 });
@@ -135,6 +154,8 @@ const generator = (type: Type) => {
     case Type.ULID:
       generatUlid();
       break;
+    case Type.NANOID:
+      generatNANOid();
     case Type.RANDOM_NUMBER:
       const max = +randomNumber.value.max;
       const min = +randomNumber.value.min;
@@ -171,8 +192,14 @@ function generatUlid() {
     res += `${ulidGenerator()}\n`;
   }
   ulid.value = res;
-}
-
+};
+function generatNANOid() {
+  let res = "";
+  for (let i = 0; i < nanoidNumber.value; i++) {
+    res += `${nanoid()}\n`;
+  }
+  nanoidValue.value = res;
+};
 function generatUuid() {
   switch (uuidVersion.value) {
     case "v3":
@@ -202,11 +229,12 @@ function generatUuid() {
       break;
   }
 
-}
+};
 
 onMounted(() => {
   generator(Type.UUID);
   generator(Type.ULID);
+  generator(Type.NANOID);
 });
 </script>
 

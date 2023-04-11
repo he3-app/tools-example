@@ -27,6 +27,7 @@
     "relatedToolId": []
   },
   "dependencies": {
+    "nanoid": "^4.0.2",
     "random": "^4.1.0",
     "random-string-generator": "^1.0.1",
     "ulid": "^2.3.0",
