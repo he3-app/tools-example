@@ -8,18 +8,19 @@
   },
   "he3": {
     "id": "uuid-ulid-generator",
-    "name": "UUID/ULID Generator",
+    "name": "UUID/ULID/NANOID Generator",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "isPublic": true,
     "repository": "",
     "category": [
       "programming"
     ],
-    "description": "Generate UUID or ULID",
+    "description": "Generate UUID 、ULID or NANOID",
     "keywords": [
       "UUID",
       "ULID",
+      "NANOID",
       "ID",
       "Generate",
       "unique"
