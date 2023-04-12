@@ -8,7 +8,7 @@
   },
   "he3": {
     "id": "js-regex-tester",
-    "name": "Regex Tester",
+    "name": "Regex Editor",
     "icon": "thunderbolt-outlined",
     "version": "1.0.1",
     "isPublic": true,
