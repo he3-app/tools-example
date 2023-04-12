@@ -9,7 +9,7 @@
   "he3": [
     {
       "id": "properties-to-json",
-      "name": "Properties To JSON",
+      "name": "Properties to JSON",
       "icon": "coffee-outlined",
       "version": "1.0.1",
       "isPublic": true,
@@ -31,7 +31,7 @@
     },
     {
       "id": "json-to-properties",
-      "name": "JSON To Properties",
+      "name": "JSON to Properties",
       "icon": "coffee-outlined",
       "version": "1.0.1",
       "isPublic": true,
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "name": "JSON To Go Struct",
+      "name": "JSON to Go Struct",
       "id": "json-to-go-struct",
       "version": "1.0.1",
       "description": "JSON To Go Struct",
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "name": "JSON To JAVA Bean",
+      "name": "JSON to Java Bean",
       "id": "json-to-java-bean",
       "version": "1.0.1",
       "description": "JSON To JAVA Bean",
@@ -102,7 +102,7 @@
       "relatedToolId": [
         "yaml-to-python-class"
       ],
-      "name": "JSON To Python Class",
+      "name": "JSON to Python Class",
       "description": "JSON To Python Class",
       "keywords": [
         "convert",
@@ -119,7 +119,7 @@
       "category": [
         "json"
       ],
-      "name": "JSON To Zod Schema",
+      "name": "JSON to Zod Schema",
       "description": "JSON To Zod Schema",
       "keywords": [
         "convert",
@@ -142,7 +142,7 @@
       "relatedToolId": [
         "yaml-to-ruby-module"
       ],
-      "name": "JSON To Ruby Module",
+      "name": "JSON to Ruby Module",
       "description": "JSON To Ruby Module",
       "keywords": [
         "convert",
@@ -162,7 +162,7 @@
       "relatedToolId": [
         "yaml-to-rust-struct"
       ],
-      "name": "JSON To Rust Struct",
+      "name": "JSON to Rust Struct",
       "description": "JSON To Rust Struct",
       "keywords": [
         "convert",
@@ -182,7 +182,7 @@
       "relatedToolId": [
         "yaml-to-dart-class"
       ],
-      "name": "JSON To Dart Class",
+      "name": "JSON to Dart Class",
       "description": "JSON To Dart Class",
       "keywords": [
         "convert",
@@ -202,7 +202,7 @@
       "relatedToolId": [
         "yaml-to-c0-class"
       ],
-      "name": "JSON To C# Class",
+      "name": "JSON to C# Class",
       "description": "JSON To C# Class",
       "keywords": [
         "convert",
@@ -222,7 +222,7 @@
       "relatedToolId": [
         "yaml-to-c00-struct"
       ],
-      "name": "JSON To C++ Struct",
+      "name": "JSON to C++ Struct",
       "description": "JSON To C++ Struct",
       "keywords": [
         "convert",
@@ -242,7 +242,7 @@
       "relatedToolId": [
         "yaml-to-swift-struct"
       ],
-      "name": "JSON To Swift Struct",
+      "name": "JSON to Swift Struct",
       "description": "JSON To Swift Struct",
       "keywords": [
         "convert",
@@ -262,7 +262,7 @@
       "relatedToolId": [
         "yaml-to-objective-c-interface"
       ],
-      "name": "JSON To Objective-C Interface",
+      "name": "JSON to Objective-C Interface",
       "description": "JSON To Objective-C Interface",
       "keywords": [
         "convert",
@@ -282,7 +282,7 @@
       "relatedToolId": [
         "yaml-to-haskell-module"
       ],
-      "name": "JSON To Haskell Module",
+      "name": "JSON to Haskell Module",
       "description": "JSON To Haskell Module",
       "keywords": [
         "convert",
@@ -302,7 +302,7 @@
       "relatedToolId": [
         "yaml-to-pike-class"
       ],
-      "name": "JSON To Pike Class",
+      "name": "JSON to Pike Class",
       "description": "JSON To Pike Class",
       "keywords": [
         "convert",
@@ -322,7 +322,7 @@
       "relatedToolId": [
         "yaml-to-elm-module"
       ],
-      "name": "JSON To Elm Module",
+      "name": "JSON to Elm Module",
       "description": "JSON To Elm Module",
       "keywords": [
         "convert",
@@ -342,7 +342,7 @@
       "relatedToolId": [
         "yaml-to-crystal-class"
       ],
-      "name": "JSON To Crystal Class",
+      "name": "JSON to Crystal Class",
       "description": "JSON To Crystal Class",
       "keywords": [
         "convert",
@@ -362,7 +362,7 @@
       "relatedToolId": [
         "yaml-to-json-schema"
       ],
-      "name": "JSON To JSON Schema",
+      "name": "JSON to JSON Schema",
       "description": "JSON To JSON Schema",
       "keywords": [
         "convert",
@@ -382,7 +382,7 @@
       "relatedToolId": [
         "yaml-to-kotlin-class"
       ],
-      "name": "JSON To Kotlin Class",
+      "name": "JSON to Kotlin Class",
       "description": "JSON To Kotlin Class",
       "keywords": [
         "convert",
@@ -402,7 +402,7 @@
       "relatedToolId": [
         "toml-to-json"
       ],
-      "name": "JSON To TOML",
+      "name": "JSON to TOML",
       "description": "JSON To TOML",
       "keywords": [
         "convert",
@@ -422,7 +422,7 @@
       "relatedToolId": [
         "yaml-to-xml"
       ],
-      "name": "JSON To XML",
+      "name": "JSON to XML",
       "description": "JSON To XML",
       "keywords": [
         "convert",
@@ -442,7 +442,7 @@
       "relatedToolId": [
         "yaml-to-pretty"
       ],
-      "name": "JSON Format",
+      "name": "JSON Formatting",
       "description": "Format JSON code",
       "keywords": [
         "json",
@@ -467,7 +467,7 @@
       "relatedToolId": [
         "yaml-to-typescript-interface"
       ],
-      "name": "JSON To TypeScript Interface",
+      "name": "JSON to TypeScript Interface",
       "description": "JSON To TypeScript Interface",
       "keywords": [
         "convert",
@@ -488,7 +488,7 @@
       "relatedToolId": [
         "yaml-to-big-query-schema"
       ],
-      "name": "JSON To Big Query Schema",
+      "name": "JSON to Big Query Schema",
       "description": "JSON To Big Query Schema",
       "keywords": [
         "convert",
@@ -508,7 +508,7 @@
       "relatedToolId": [
         "yaml-to-io-ts"
       ],
-      "name": "JSON To IO-TS",
+      "name": "JSON to IO-TS",
       "description": "JSON To IO-TS",
       "keywords": [
         "convert",
@@ -528,7 +528,7 @@
       "relatedToolId": [
         "yaml-to-scala"
       ],
-      "name": "JSON To Scala",
+      "name": "JSON to Scala",
       "description": "JSON To Scala",
       "keywords": [
         "convert",
@@ -548,7 +548,7 @@
       "relatedToolId": [
         "yaml-to-sarcastic"
       ],
-      "name": "JSON To Sarcastic",
+      "name": "JSON to Sarcastic",
       "description": "JSON To Sarcastic",
       "keywords": [
         "convert",
@@ -587,7 +587,7 @@
       "relatedToolId": [
         "yaml-to-json"
       ],
-      "name": "JSON To YAML",
+      "name": "JSON to YAML",
       "description": "JSON To YAML",
       "keywords": [
         "convert",
@@ -608,7 +608,7 @@
       "relatedToolId": [
         "yaml-to-csv"
       ],
-      "name": "JSON To CSV",
+      "name": "JSON to CSV",
       "description": "JSON To CSV",
       "keywords": [
         "convert",
@@ -628,7 +628,7 @@
       "relatedToolId": [
         "yaml-to-minify"
       ],
-      "name": "JSON Minify",
+      "name": "JSON Minimizer",
       "description": "Minify JSON code",
       "keywords": [
         "json",
@@ -648,7 +648,7 @@
       "relatedToolId": [
         "yaml-to-php"
       ],
-      "name": "JSON To PHP",
+      "name": "JSON to PHP",
       "description": "JSON To PHP",
       "keywords": [
         "convert",
@@ -659,7 +659,7 @@
     },
     {
       "id": "json-to-sql-schema",
-      "name": "JSON To SQL Schema",
+      "name": "JSON to SQL Schema",
       "icon": "coffee-outlined",
       "version": "1.0.1",
       "isPublic": true,
