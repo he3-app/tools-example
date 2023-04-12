@@ -9,7 +9,7 @@
   "he3": [
     {
       "id": "utf7-decode",
-      "name": "UTF7 Decoder",
+      "name": "UTF7 Decoding",
       "icon": "block-outlined",
       "version": "1.0.1",
       "isPublic": true,
