@@ -9,7 +9,7 @@
   "mode": "production",
   "he3": {
     "id": "url-encode",
-    "name": "URL Encoding",
+    "name": "URL Encode",
     "icon": "block-outlined",
     "version": "1.0.1",
     "isPublic": true,

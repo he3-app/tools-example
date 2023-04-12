@@ -9,7 +9,7 @@
   "mode": "production",
   "he3": {
     "id": "url-decode",
-    "name": "URL Decoding",
+    "name": "URL Decode",
     "icon": "block-outlined",
     "version": "1.0.2",
     "isPublic": true,

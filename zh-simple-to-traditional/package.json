@@ -8,7 +8,7 @@
   },
   "mode": "production",
   "he3": {
-    "name": null,
+    "name": "Chinese Simplified to Traditional",
     "id": "zh-simple-to-traditional",
     "icon": "block-outlined",
     "version": "1.0.0",

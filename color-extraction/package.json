@@ -8,7 +8,7 @@
   },
   "he3": {
     "id": "color-extraction",
-    "name": "Color Extractor",
+    "name": "Color Extraction",
     "icon": "pie-chart-outlined",
     "version": "1.0.1",
     "isPublic": true,
