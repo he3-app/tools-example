@@ -10,7 +10,7 @@
     "id": "js-regex-tester",
     "name": "Regex Tester",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/regex-tester",
     "category": [
