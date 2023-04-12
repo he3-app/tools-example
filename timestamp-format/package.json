@@ -8,7 +8,7 @@
   },
   "he3": {
     "id": "timestamp-format",
-    "name": "Timestamp Conversion",
+    "name": "Timestamp Convertor",
     "icon": "field-time-outlined",
     "version": "1.0.1",
     "isPublic": true,
