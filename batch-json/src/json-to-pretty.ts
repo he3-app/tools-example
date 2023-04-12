@@ -1,6 +1,6 @@
 import { uglyJsonExample } from './example';
 import register from './utils/register';
-
+import { handleZip } from './utils/json2minifiedJson';
 function formatJson(jsonString: string, indent: number = 2): string {
   let result = '';
   let indentLevel = 0;
@@ -69,6 +69,7 @@ function getIndent(indentLevel: number, indentSize: number): string {
 
 export default register({
   inputHandler: formatJson,
+  resultHandler: handleZip,
   lang: 'JSON',
   example: uglyJsonExample,
 });
