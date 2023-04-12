@@ -628,7 +628,7 @@
       "relatedToolId": [
         "yaml-to-minify"
       ],
-      "name": "JSON Minimizer",
+      "name": "JSON Compressor",
       "description": "Minify JSON code",
       "keywords": [
         "json",
