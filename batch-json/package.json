@@ -393,7 +393,7 @@
     },
     {
       "id": "json-to-toml",
-      "version": "1.0.1",
+      "version": "1.0.4",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [

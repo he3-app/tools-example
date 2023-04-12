@@ -82,8 +82,7 @@ const { t } = useI18n({
   locale: $he3.lang,
   messages,
 });
-const props = defineProps({});
-const emit = defineEmits(['acceptClipboardCb']);
+
 const activeKey = ref('1');
 // 正则
 const leftRegex = ref(
@@ -144,10 +143,6 @@ const match = window._.debounce(() => {
     $he3.message.error(t('wrongFormat'));
     return;
   }
-  // const matchText = highlightWords({
-  //   text: testStr.value,
-  //   query: `${matchText}`,
-  // })
   const results = testStr.value.match(reg);
   if (results) {
     matchResult.value = results.join('\n');
