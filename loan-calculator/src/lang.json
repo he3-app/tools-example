@@ -1,6 +1,8 @@
 {
   "zh": {
     "LoanPrincipal": "贷款本金 / CNY: ",
+    "LatestLPR" : "最新LPR值 / %",
+    "LPRPlusValue" : "LPR加点数值 / ‱",
     "AnnualInterestRate": "年利率 / % : ",
     "LoanTerm" : "贷款期限 / 月: ",
     "CalcMethod" :"还款计算方式：",
@@ -20,6 +22,8 @@
   },
   "en": {
     "LoanPrincipal": "Loan Principal / USD: ",
+    "LatestLPR" : "Latest LPR Value / %",
+    "LPRPlusValue" : "LPR Plus Value / ‱",
     "AnnualInterestRate": "Annual Interest Rate / % : ",
     "LoanTerm" : "Loan Term / Month: ",
     "CalcMethod" :"Repayment calculation method: ",
@@ -39,6 +43,8 @@
   },
   "de": {
     "LoanPrincipal": "Darlehensbetrag / EUR: ",
+    "LatestLPR" : "Aktueller LPR-Wert / %",
+    "LPRPlusValue" : "LPR-Pluswert / ‱",
     "AnnualInterestRate": "Jahreszins / %: ",
     "LoanTerm" : "Darlehenslaufzeit / Monate: ",
     "CalcMethod" :"Rückzahlungsart: ",
@@ -58,6 +64,8 @@
   },
   "es": {
     "LoanPrincipal": "Capital del préstamo / EUR: ",
+    "LatestLPR" : "Último valor LPR  / %",
+    "LPRPlusValue" : "Valor agregado de LPR / ‱",
     "AnnualInterestRate": "Tasa de interés anual / %: ",
     "LoanTerm" : "Plazo del préstamo / Meses: ",
     "CalcMethod" :"Método de cálculo de la devolución: ",
@@ -77,6 +85,8 @@
   },
   "fr": {
     "LoanPrincipal": "Montant du prêt / EUR: ",
+    "LatestLPR" : "Dernière valeur LPR / %",
+    "LPRPlusValue" : "Valeur ajoutée LPR / ‱",
     "AnnualInterestRate": "Taux d'intérêt annuel / % : ",
     "LoanTerm" : "Durée du prêt / Mois: ",
     "CalcMethod" :"Méthode de calcul des remboursements: ",
@@ -96,6 +106,8 @@
   },
   "it": {
     "LoanPrincipal": "Capitale del prestito / EUR: ",
+    "LatestLPR" : "Valore LPR più recente / %",
+    "LPRPlusValue" : "Valore aggiunto di LPR / ‱",
     "AnnualInterestRate": "Tasso di interesse annuo / % : ",
     "LoanTerm" : "Termine del prestito / Mese: ",
     "CalcMethod" :"Metodo di calcolo del rimborso: ",
@@ -115,6 +127,8 @@
   },
   "ja": {
     "LoanPrincipal": "ローンの元金 / JPY:",
+    "LatestLPR" : "最新のLPR値 / %",
+    "LPRPlusValue" : "LPR加点値 / ‱",
     "AnnualInterestRate": "年間利息率 / % :",
     "LoanTerm": "ローン期間 / 月：",
     "CalcMethod": "返済計算方法：",
@@ -134,6 +148,8 @@
   },
   "ko": {
     "LoanPrincipal": "대출 원금 / KRW: ",
+    "LatestLPR" : "최신 LPR 값 / %",
+    "LPRPlusValue" : "LPR 추가 값 / ‱",
     "AnnualInterestRate": "연간 이자율 / % : ",
     "LoanTerm" : "대출 기간 / 개월: ",
     "CalcMethod" :"상환 계산 방법: ",
@@ -153,6 +169,8 @@
   },
   "pt": {
     "LoanPrincipal": "Principal do Empréstimo / EUR: ",
+    "LatestLPR" : "Último valor LPR / %",
+    "LPRPlusValue" : "Valor de pontos adicionais LPR / ‱",
     "AnnualInterestRate": "Taxa de Juros Anual / % : ",
     "LoanTerm" : "Prazo do Empréstimo / Meses: ",
     "CalcMethod" :"Método de cálculo de reembolso: ",
@@ -172,6 +190,8 @@
   },
   "ru": {
     "LoanPrincipal": "Основная сумма кредита / RUB: ",
+    "LatestLPR" : "Последнее значение LPR / %",
+    "LPRPlusValue" : "LPR плюс значение / ‱",
     "AnnualInterestRate": "Годовая процентная ставка / % : ",
     "LoanTerm" : "Срок кредита / месяцы: ",
     "CalcMethod" :"Метод расчета выплат: ",
@@ -191,6 +211,8 @@
   },
   "zh-tw": {
     "LoanPrincipal": "貸款本金 / TWD：",
+    "LatestLPR" : "最新LPR值 / %",
+    "LPRPlusValue" : "LPR加點數值 / ‱",
     "AnnualInterestRate": "年利率 / ％：",
     "LoanTerm": "貸款期限 / 月：",
     "CalcMethod": "還款計算方法：",
