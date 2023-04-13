@@ -13,8 +13,34 @@
           :save-options="{autoSave:true,key:'user-input'}"
         />
       </a-form-item>
-      <a-form-item :label="t('AnnualInterestRate')">
+      <a-form-item :label="t('LatestLPR')">
         <h-input
+          v-model:value="latestLPR"
+          :min="0"
+          :max="100"
+          :precision="2"
+          :step="0.01"
+          size="default"
+          style="width: 200px"
+          :onchange="calculateInterestRate()"
+        />
+      </a-form-item>
+      <a-form-item :label="t('LPRPlusValue')">
+        <h-input
+          v-model:value="LPRPlusValue"
+          :min="0"
+          :max="100"
+          :precision="2"
+          :step="0.01"
+          size="default"
+          style="width: 200px"
+          :onchange="calculateInterestRate()"
+        />
+      </a-form-item>
+      <a-form-item :label="t('AnnualInterestRate')">
+        <span class="interestDisplay">{{ interestRate.toFixed(2) }}</span>
+        <!-- <h-singleline :value="interestRate" /> -->
+        <!-- <h-input
           v-model:value="interestRate"
           :min="0"
           :max="100"
@@ -22,7 +48,7 @@
           :step="0.01"
           size="default"
           style="width: 200px"
-        />
+        /> -->
       </a-form-item>
       <a-form-item :label="t('LoanTerm')">
         <h-input
@@ -48,6 +74,7 @@
         </a-button>
       </a-form-item>
     </a-form>
+    
 
     <h2>{{ t('TotalInterest') }} {{ totalInterestNum.toFixed(2) }}</h2>
     <h2>{{ t('TotalPayment') }} {{ totalPayNum.toFixed(2) }}</h2>
@@ -93,12 +120,18 @@ const { t } = useI18n({
 const he3 = window.$he3;
 
 const loanAmount = ref<number>(0);
+const latestLPR = ref<number>(4.6);
+const LPRPlusValue = ref<number>(0);
 const interestRate = ref<number>(0);
 const loanTerm = ref<number>(0);
 const repaymentType = ref<number>(0);
 var monthlyPaymentDetail = ref<number[][]>([])
 var totalPayNum = ref<number>(0);
 var totalInterestNum = ref<number>(0);
+
+function calculateInterestRate() {
+  interestRate.value = Number(latestLPR.value) + 0.01*Number(LPRPlusValue.value);
+}
 
 function monthlyInterestRate() {
   // 计算月利率
@@ -121,8 +154,9 @@ function monthlyPayment() {
     const monthlyPaymentAmount = (loanAmount.value * mir * pow) / (pow - 1)
     var leftLoanAmount = Number(loanAmount.value);
     for (let i=0;i<n;i++){
-      var temp = [monthlyPaymentAmount, leftLoanAmount*mir, monthlyPaymentAmount-leftLoanAmount*mir, leftLoanAmount]
       leftLoanAmount -= monthlyPaymentAmount - leftLoanAmount*mir;
+      if (leftLoanAmount<0) leftLoanAmount = 0;
+      var temp = [monthlyPaymentAmount, leftLoanAmount*mir, monthlyPaymentAmount-leftLoanAmount*mir, leftLoanAmount]
       res.push(temp);
     }
   } else if (repaymentType.value==1) {
@@ -136,9 +170,10 @@ function monthlyPayment() {
     const mir = monthlyInterestRate(); // 月利率
     var leftLoanAmount = Number(loanAmount.value);
     for (let i=0;i<n;i++){
+      leftLoanAmount = leftLoanAmount - loanAmount.value/n;
+      if (leftLoanAmount<0) leftLoanAmount = 0;
       var temp = [leftLoanAmount*mir + loanAmount.value/n, leftLoanAmount*mir, loanAmount.value/n, leftLoanAmount]
       res.push(temp)
-      leftLoanAmount = leftLoanAmount - loanAmount.value/n;
     }
   } else {
     return [[0,0,0,0]]
@@ -256,5 +291,9 @@ function exportTableToCSV(filename) {
   .th2 {
     background-color: var(--primary-bg-color); 
     border-top: 1px solid purple;
+  }
+
+  .interestDisplay {
+    font-size: large;
   }
 </style>
