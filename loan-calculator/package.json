@@ -1,0 +1,36 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish"
+  },
+  "mode": "production",
+  "he3": {
+    "name": "He3 Loan Calculator",
+    "id": "he3-loan-calculator",
+    "icon": "block-outlined",
+    "version": "0.0.13",
+    "description": "He3 Loan Calculator",
+    "relatedToolId": [],
+    "isPublic": true,
+    "category": [
+      "calculator"
+    ],
+    "keywords": [
+      "loan",
+      "calculator"
+    ]
+  },
+  "dependencies": {
+    "punycode": "^2.3.0",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "^0.0.68-beta.3",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

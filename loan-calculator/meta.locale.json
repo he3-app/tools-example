@@ -1,0 +1,90 @@
+{
+  "zh-cn": {
+    "$name": "贷款计算器",
+    "$description": "贷款计算器",
+    "$keywords": [
+      "计算器",
+      "贷款"
+    ]
+  },
+  "zh-tw": {
+    "$name": "貸款計算器",
+    "$description": "貸款計算器",
+    "$keywords": [
+      "計算器",
+      "貸款"
+    ]
+  },
+  "en": {
+    "$name": "Loan Calculator",
+    "$description": "Loan Calculator",
+    "$keywords": [
+      "calculator",
+      "loan"
+    ]
+  },
+  "es": {
+    "$name": "Calculadora de préstamos",
+    "$description": "Calculadora de préstamos",
+    "$keywords": [
+      "calculadora",
+      "préstamo"
+    ]
+  },
+  "ja": {
+    "$name": "ローン計算機",
+    "$description": "ローン計算機",
+    "$keywords": [
+      "計算機",
+      "ローン"
+    ]
+  },
+  "ko": {
+    "$name": "대출 계산기",
+    "$description": "대출 계산기",
+    "$keywords": [
+      "계산기",
+      "대출"
+    ]
+  },
+  "de": {
+    "$name": "Darlehensrechner",
+    "$description": "Darlehensrechner",
+    "$keywords": [
+      "Rechner",
+      "Darlehen"
+    ]
+  },
+  "fr": {
+    "$name": "Calculatrice de prêt",
+    "$description": "Calculatrice de prêt",
+    "$keywords": [
+      "calculatrice",
+      "prêt"
+    ]
+  },
+  "it": {
+    "$name": "Calcolatrice del prestito",
+    "$description": "Calcolatrice del prestito",
+    "$keywords": [
+      "calcolatrice",
+      "prestito"
+    ]
+  },
+  "ru": {
+    "$name": "Калькулятор кредита",
+    "$description": "Калькулятор кредита",
+    "$keywords": [
+      "калькулятор",
+      "кредит"
+    ]
+  },
+  "pt": {
+    "$name": "Calculadora de empréstimos",
+    "$description": "Calculadora de empréstimos",
+    "$keywords": [
+      "calculadora",
+      "empréstimo"
+    ]
+  }
+}
