@@ -3,12 +3,18 @@
     <div class="url-parse">
       <div class="input">
         <p>
-          {{ t('input_tip') }}
+          {{ t("input_tip") }}
         </p>
-        <h-input v-model:value="inputValue" autofocus class="input" @change="parseUrl()" :autoFillInputCondition="isUrl"/>
+        <h-input
+          v-model:value="inputValue"
+          autofocus
+          class="input"
+          @change="parseUrl()"
+          :autoFillInputCondition="isUrl"
+        />
       </div>
       <p>
-        {{ t('result_tip') }}
+        {{ t("result_tip") }}
       </p>
       <h-kv :value="outputValue" :width="370" />
       <div v-if="JSON.stringify(outputValue.query) !== '{}'" class="query">
@@ -20,22 +26,22 @@
 </template>
 
 <script setup lang="ts">
-import { defineEmits, defineProps, ref,onMounted } from 'vue';
-import parse from 'url-parse';
-import { useI18n } from 'vue-i18n';
-import { isUrl } from '@he3-kit/utils';
-import messages from './lang.json';
+import { defineEmits, defineProps, ref, onMounted } from "vue";
+import parse from "url-parse";
+import { useI18n } from "vue-i18n";
+import { isUrl } from "@he3-kit/utils";
+import messages from "./lang.json";
 const $he3 = window.$he3;
 const props = defineProps<{
   clipboardValue?: any;
 }>();
-const emit = defineEmits(['acceptClipboardCb']);
+const emit = defineEmits(["acceptClipboardCb"]);
 
 const { t } = useI18n({
   locale: $he3.lang,
   messages,
 });
-const inputValue = ref('https://user:pass@he3.app/index.html#download');
+const inputValue = ref("https://user:pass@he3.app/index.html#download");
 
 const outputValue = ref({});
 
@@ -43,16 +49,31 @@ function parseUrl() {
   outputValue.value = parse(inputValue.value, true);
 }
 
-
 onMounted(() => {
-  $he3.getLastClipboard().then((res) => {
-    if (isUrl(res)) {
-      inputValue.value = res;
-      parseUrl()
-      $he3.onUseClipboardValue();
-    }
-  });
-  parseUrl()
+  $he3
+    .getPreviewerValue()
+    .then((res) => {
+      if (isUrl(res)) {
+        inputValue.value = res;
+        parseUrl();
+        return false;
+      } else {
+        return true;
+      }
+    })
+    .then((flag) => {
+      console.log('%cindex.vue line:65 flag', 'color: #007acc;', flag);
+      flag &&
+        $he3.getLastClipboard().then((res) => {
+          if (isUrl(res)) {
+            inputValue.value = res;
+            parseUrl();
+            $he3.onUseClipboardValue();
+          }
+        });
+    });
+
+  parseUrl();
 });
 </script>
 <style scoped lang="less">
