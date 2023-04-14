@@ -86,7 +86,7 @@ const props = defineProps({
   },
   enableUTC: {
     type: Boolean,
-    default: false,
+    default: true,
   },
   clipboardValue: {
     default: undefined,
@@ -199,6 +199,7 @@ function formatTimestamp() {
       [key]: outputFormatTimestamp.format(item.value),
     };
   });
+  
   if (!props.renderOnSearch) {
     // add user local timezone
     const localKey = `Local (${dayjs.tz.guess()})`;
