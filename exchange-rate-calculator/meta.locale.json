@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "Exchange Rate Calculator",
+    "$description": "Exchange Rate Calculator",
+    "$keywords": [
+      "calculator",
+      "currency",
+      "exchange"
+    ]
+  },
+  "zh-cn": {
+    "$name": "汇率计算器",
+    "$description": "汇率计算器",
+    "$keywords": [
+      "计算器",
+      "货币",
+      "汇率"
+    ]
+  },
+  "es": {
+    "$name": "Calculadora de tipo de cambio",
+    "$description": "Calculadora de tipo de cambio",
+    "$keywords": [
+      "calculadora",
+      "divisas",
+      "cambio"
+    ]
+  },
+  "fr": {
+    "$name": "Calculatrice de taux de change",
+    "$description": "Calculatrice de taux de change",
+    "$keywords": [
+      "calculatrice",
+      "devises",
+      "taux de change"
+    ]
+  },
+  "it": {
+    "$name": "Calcolatore del tasso di cambio",
+    "$description": "Calcolatore del tasso di cambio",
+    "$keywords": [
+      "calcolatore",
+      "valuta",
+      "cambio"
+    ]
+  },
+  "de": {
+    "$name": "Wechselkursrechner",
+    "$description": "Wechselkursrechner",
+    "$keywords": [
+      "Rechner",
+      "Währung",
+      "Wechselkurs"
+    ]
+  },
+  "ja": {
+    "$name": "為替レート計算機",
+    "$description": "為替レート計算機",
+    "$keywords": [
+      "計算機",
+      "通貨",
+      "為替"
+    ]
+  },
+  "ko": {
+    "$name": "환율 계산기",
+    "$description": "환율 계산기",
+    "$keywords": [
+      "계산기",
+      "화폐",
+      "환율"
+    ]
+  },
+  "pt": {
+    "$name": "Calculadora de câmbio",
+    "$description": "Calculadora de câmbio",
+    "$keywords": [
+      "calculadora",
+      "moeda",
+      "câmbio"
+    ]
+  },
+  "ru": {
+    "$name": "Калькулятор обменного курса",
+    "$description": "Калькулятор обменного курса",
+    "$keywords": [
+      "калькулятор",
+      "валюта",
+      "обменный курс"
+    ]
+  },
+  "zh-tw": {
+    "$name": "匯率計算器",
+    "$description": "匯率計算器",
+    "$keywords": [
+      "計算器",
+      "貨幣",
+      "匯率"
+    ]
+  }
+}
