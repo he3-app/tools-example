@@ -16,7 +16,7 @@
     "category": [
       "programming"
     ],
-    "description": "Generate UUID 、ULID or NANOID",
+    "description": "The UUID/ULID/NANOID Generator is a powerful tool that allows users to generate unique identifiers such as UUID, ULID, and NANOID. With this tool, users can easily create IDs that are guaranteed to be unique, making it ideal for various applications that require unique identification.",
     "keywords": [
       "UUID",
       "ULID",

@@ -16,7 +16,7 @@
     "category": [
       "programming"
     ],
-    "description": "Parse URL",
+    "description": "URL Parser is a tool that allows users to parse and inspect URLs, URIs, and other web addresses. It provides a detailed breakdown of the different components of a URL, including the protocol, domain, path, and query parameters.",
     "keywords": [
       "URL",
       "URI",

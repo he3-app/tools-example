@@ -16,7 +16,7 @@
     "category": [
       "programming"
     ],
-    "description": "Parse UUID",
+    "description": "UUID Parser is a tool that allows users to parse and inspect UUIDs and IDs, providing a detailed breakdown of the components that make up the unique identifier. It is a useful tool for developers and system administrators who need to work with UUIDs and IDs in their applications or systems.",
     "keywords": [
       "UUID",
       "ID",

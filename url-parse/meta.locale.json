@@ -1,89 +1,112 @@
 {
-    "zh": {
-        "$name": "URL 解析器",
-        "$description": "解析 URL",
-        "$keywords": [
-            "解析"
-        ]
-    },
-    "en": {
-        "$name": "URL Parser",
-        "$description": "Parse URL",
-        "$keywords": [
-            "URL",
-            "URI",
-            "parse",
-            "inspect"
-        ]
-    },
-    "de": {
-        "$name": "URL -Parser",
-        "$description": "URL analysieren",
-        "$keywords": [
-            "Analysieren"
-        ]
-    },
-    "es": {
-        "$name": "Parser de URL",
-        "$description": "Analizar URL",
-        "$keywords": [
-            "Analizar"
-        ]
-    },
-    "fr": {
-        "$name": "Analyseur URL",
-        "$description": "Analyser l'URL",
-        "$keywords": [
-            "Analyser"
-        ]
-    },
-    "it": {
-        "$name": "Parser URL",
-        "$description": "Analizzare l'URL",
-        "$keywords": [
-            "Analizzare"
-        ]
-    },
-    "ja": {
-        "$name": "URLパーサー",
-        "$description": "URLを分析します",
-        "$keywords": [
-            "分析します"
-        ]
-    },
-    "ko": {
-        "$name": "URL 파서",
-        "$description": "URL을 분석하십시오",
-        "$keywords": [
-            "분석"
-        ]
-    },
-    "pt": {
-        "$name": "Analisador de URL",
-        "$description": "Analise URL",
-        "$keywords": [
-            "Analisar"
-        ]
-    },
-    "ru": {
-        "$name": "Сандитор URL",
-        "$description": "Проанализировать URL",
-        "$keywords": [
-            "Анализировать"
-        ]
-    },
-    "zh-tw": {
-        "$name": "URL 解析器",
-        "$description": "解析 URL",
-        "$keywords": [
-            "解析"
-        ]
-    },
-    "zh-cn": {
-        "$name": "URL 解析器",
-        "$description": "解析 URL",
-        "$keywords": [
-            "解析"
-        ]
-    }
+  "zh-cn": {
+    "$name": "URL解析器",
+    "$description": "URL解析器是一款允许用户解析和检查URL、URI和其他Web地址的工具。它提供了URL的不同组成部分的详细分解，包括协议、域名、路径和查询参数。",
+    "$keywords": [
+      "URL",
+      "URI",
+      "解析",
+      "检查"
+    ]
+  },
+  "zh-tw": {
+    "$name": "URL 解析器",
+    "$description": "URL 解析器是一個工具，允許用戶解析和檢查 URL、URI 和其他網址。它提供了 URL 的不同組件的詳細分解，包括協議、域名、路徑和查詢參數。",
+    "$keywords": [
+      "URL",
+      "URI",
+      "解析",
+      "檢查"
+    ]
+  },
+  "es": {
+    "$name": "Analizador de URL",
+    "$description": "El Analizador de URL es una herramienta que permite a los usuarios analizar e inspeccionar URLs, URIs y otras direcciones web. Proporciona un desglose detallado de los diferentes componentes de una URL, incluyendo el protocolo, el dominio, la ruta y los parámetros de consulta.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "analizar",
+      "inspeccionar"
+    ]
+  },
+  "ja": {
+    "$name": "URLパーサー",
+    "$description": "URLパーサーは、ユーザーがURL、URI、およびその他のWebアドレスを解析および検査できるツールです。プロトコル、ドメイン、パス、およびクエリパラメータなど、URLのさまざまなコンポーネントを詳細に分解します。",
+    "$keywords": [
+      "URL",
+      "URI",
+      "解析",
+      "検査"
+    ]
+  },
+  "ko": {
+    "$name": "URL 파서",
+    "$description": "URL 파서는 사용자가 URL, URI 및 기타 웹 주소를 구문 분석하고 검사할 수 있는 도구입니다. 프로토콜, 도메인, 경로 및 쿼리 매개변수를 포함한 URL의 다양한 구성 요소를 자세히 분해합니다.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "구문 분석",
+      "검사"
+    ]
+  },
+  "de": {
+    "$name": "URL Parser",
+    "$description": "URL Parser ist ein Tool, das Benutzern das Parsen und Inspektieren von URLs, URIs und anderen Webadressen ermöglicht. Es bietet eine detaillierte Aufschlüsselung der verschiedenen Komponenten einer URL, einschließlich des Protokolls, der Domain, des Pfads und der Abfrageparameter.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "parsen",
+      "inspizieren"
+    ]
+  },
+  "fr": {
+    "$name": "Analyseur d'URL",
+    "$description": "L'analyseur d'URL est un outil qui permet aux utilisateurs d'analyser et d'inspecter des URL, des URI et d'autres adresses web. Il fournit une ventilation détaillée des différents composants d'une URL, y compris le protocole, le domaine, le chemin et les paramètres de requête.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "analyse",
+      "inspection"
+    ]
+  },
+  "it": {
+    "$name": "URL Parser",
+    "$description": "URL Parser è uno strumento che consente agli utenti di analizzare e ispezionare gli URL, gli URI e altri indirizzi web. Fornisce una dettagliata suddivisione dei diversi componenti di un URL, tra cui il protocollo, il dominio, il percorso e i parametri di query.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "analizzare",
+      "ispezionare"
+    ]
+  },
+  "ru": {
+    "$name": "URL-анализатор",
+    "$description": "URL-анализатор - это инструмент, который позволяет пользователям анализировать и проверять URL-адреса, URI и другие веб-адреса. Он предоставляет подробный разбор различных компонентов URL-адреса, включая протокол, домен, путь и параметры запроса.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "анализ",
+      "проверка"
+    ]
+  },
+  "pt": {
+    "$name": "Analisador de URL",
+    "$description": "O Analisador de URL é uma ferramenta que permite aos usuários analisar e inspecionar URLs, URIs e outros endereços da web. Ele fornece uma análise detalhada dos diferentes componentes de uma URL, incluindo o protocolo, domínio, caminho e parâmetros de consulta.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "analisar",
+      "inspecionar"
+    ]
+  },
+  "en": {
+    "$name": "URL Parser",
+    "$description": "URL Parser is a tool that allows users to parse and inspect URLs, URIs, and other web addresses. It provides a detailed breakdown of the different components of a URL, including the protocol, domain, path, and query parameters.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "parse",
+      "inspect"
+    ]
+  }
 }

@@ -12,7 +12,7 @@
     "id": "zh-simple-to-traditional",
     "icon": "block-outlined",
     "version": "1.0.0",
-    "description": "Chinese Simplified to Traditional",
+    "description": "The Chinese Simplified to Traditional tool is a language conversion tool that allows users to convert written Chinese text from simplified characters to traditional characters. This tool is particularly useful for individuals who need to communicate with individuals who use traditional Chinese characters, such as those in Taiwan or Hong Kong.",
     "isPublic": true,
     "category": [
       "encode"

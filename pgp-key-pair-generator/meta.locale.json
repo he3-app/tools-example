@@ -1,16 +1,167 @@
 {
-  "zh": {
-    "$name": "PGP 密钥对生成器",
-    "$description": "生成 PGP 密钥对",
+  "zh-cn": {
+    "$name": "PGP密钥对生成器",
+    "$description": "PGP密钥对生成器是一款工具，允许用户生成PGP（Pretty Good Privacy）密钥对，包括长度为2048、4096和8192位的RSA和ECC密钥。该工具可用于安全通信和加密敏感数据。",
     "$keywords": [
+      "GPG",
+      "PGP",
       "密钥",
       "生成",
-      "生成器"
+      "生成器",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "zh-tw": {
+    "$name": "PGP金鑰對產生器",
+    "$description": "PGP金鑰對產生器是一個工具，允許用戶生成PGP（Pretty Good Privacy）金鑰對，包括2048、4096和8192位的RSA和ECC金鑰。此工具可用於安全通信和加密敏感數據。",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "金鑰",
+      "生成",
+      "產生器",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "es": {
+    "$name": "Generador de pares de claves PGP",
+    "$description": "El Generador de pares de claves PGP es una herramienta que permite a los usuarios generar pares de claves PGP (Pretty Good Privacy), incluyendo claves RSA y ECC con longitudes de 2048, 4096 y 8192 bits. Esta herramienta se puede utilizar para la comunicación segura y el cifrado de datos sensibles.",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "clave",
+      "generar",
+      "generador",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "ja": {
+    "$name": "PGPキーペアジェネレーター",
+    "$description": "PGPキーペアジェネレーターは、RSAおよびECCキーを含む2048、4096、および8192ビットの長さのPGP（プリティグッドプライバシー）キーペアを生成することができるツールです。このツールは、機密データの安全な通信と暗号化に使用できます。",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "キー",
+      "生成",
+      "ジェネレーター",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "ko": {
+    "$name": "PGP 키 쌍 생성기",
+    "$description": "PGP 키 쌍 생성기는 RSA 및 ECC 키를 포함한 2048, 4096 및 8192 비트 길이의 PGP (Pretty Good Privacy) 키 쌍을 생성할 수 있는 도구입니다. 이 도구는 안전한 통신 및 민감한 데이터의 암호화에 사용할 수 있습니다.",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "키",
+      "생성",
+      "생성기",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "de": {
+    "$name": "PGP-Schlüsselpaar-Generator",
+    "$description": "Der PGP-Schlüsselpaar-Generator ist ein Tool, mit dem Benutzer PGP (Pretty Good Privacy)-Schlüsselpaare generieren können, einschließlich RSA- und ECC-Schlüssel mit Längen von 2048, 4096 und 8192 Bits. Dieses Tool kann für sichere Kommunikation und Verschlüsselung sensibler Daten verwendet werden.",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "Schlüssel",
+      "generieren",
+      "Generator",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de paires de clés PGP",
+    "$description": "Le générateur de paires de clés PGP est un outil qui permet aux utilisateurs de générer des paires de clés PGP (Pretty Good Privacy), y compris des clés RSA et ECC avec des longueurs de 2048, 4096 et 8192 bits. Cet outil peut être utilisé pour une communication sécurisée et le chiffrement de données sensibles.",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "clé",
+      "générer",
+      "générateur",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di Coppie di Chiavi PGP",
+    "$description": "Il Generatore di Coppie di Chiavi PGP è uno strumento che consente agli utenti di generare coppie di chiavi PGP (Pretty Good Privacy), inclusi chiavi RSA ed ECC con lunghezze di 2048, 4096 e 8192 bit. Questo strumento può essere utilizzato per la comunicazione sicura e la crittografia di dati sensibili.",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "chiave",
+      "generare",
+      "generatore",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор пар ключей PGP",
+    "$description": "Генератор пар ключей PGP - это инструмент, который позволяет пользователям генерировать пары ключей PGP (Pretty Good Privacy), включая ключи RSA и ECC с длиной 2048, 4096 и 8192 бит. Этот инструмент может использоваться для безопасной связи и шифрования конфиденциальных данных.",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "ключ",
+      "генерировать",
+      "генератор",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de Par de Chaves PGP",
+    "$description": "O Gerador de Par de Chaves PGP é uma ferramenta que permite aos usuários gerar pares de chaves PGP (Pretty Good Privacy), incluindo chaves RSA e ECC com comprimentos de 2048, 4096 e 8192 bits. Esta ferramenta pode ser usada para comunicação segura e criptografia de dados sensíveis.",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "chave",
+      "gerar",
+      "gerador",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192"
     ]
   },
   "en": {
     "$name": "PGP Key Pair Generator",
-    "$description": "Generate PGP Key Pairs",
+    "$description": "The PGP Key Pair Generator is a tool that allows users to generate PGP (Pretty Good Privacy) key pairs, including RSA and ECC keys with lengths of 2048, 4096, and 8192 bits. This tool can be used for secure communication and encryption of sensitive data.",
     "$keywords": [
       "GPG",
       "PGP",
@@ -22,96 +173,6 @@
       "2048",
       "4096",
       "8192"
-    ]
-  },
-  "de": {
-    "$name": "PGP -Schlüsselpaargenerator",
-    "$description": "Generieren Sie ein PGP -Schlüsselpaar",
-    "$keywords": [
-      "Taste",
-      "generieren",
-      "Erbauer"
-    ]
-  },
-  "es": {
-    "$name": "Generador de pares de teclas PGP",
-    "$description": "Generar un par de claves PGP",
-    "$keywords": [
-      "Llave",
-      "generar",
-      "Constructor"
-    ]
-  },
-  "fr": {
-    "$name": "Générateur de paires de clés PGP",
-    "$description": "Générer une paire de clés PGP",
-    "$keywords": [
-      "Clé",
-      "générer",
-      "Constructeur"
-    ]
-  },
-  "it": {
-    "$name": "Generatore di coppie di tasti PGP",
-    "$description": "Generare coppia di chiavi PGP",
-    "$keywords": [
-      "Chiave",
-      "creare",
-      "Costruttore"
-    ]
-  },
-  "ja": {
-    "$name": "PGPキーペアジェネレーター",
-    "$description": "PGPキーペアを生成します",
-    "$keywords": [
-      "鍵",
-      "生成",
-      "ビルダー"
-    ]
-  },
-  "ko": {
-    "$name": "PGP 키 쌍 생성기",
-    "$description": "PGP 키 쌍을 생성하십시오",
-    "$keywords": [
-      "열쇠",
-      "생성하다",
-      "빌더"
-    ]
-  },
-  "pt": {
-    "$name": "Gerador de pares de chave PGP",
-    "$description": "Gerar par de chaves pgp",
-    "$keywords": [
-      "Chave",
-      "gerar",
-      "Construtor"
-    ]
-  },
-  "ru": {
-    "$name": "Генератор пары ключей PGP",
-    "$description": "Генерировать пару ключей PGP",
-    "$keywords": [
-      "Ключ",
-      "генерировать",
-      "Строитель"
-    ]
-  },
-  "zh-tw": {
-    "$name": "PGP 密鑰對生成器",
-    "$description": "生成 PGP 密鑰對",
-    "$keywords": [
-      "密鑰",
-      "生成",
-      "生成器"
-    ]
-  },
-  "zh-cn": {
-    "$name": "PGP 密钥对生成器",
-    "$description": "生成 PGP 密钥对",
-    "$keywords": [
-      "密钥",
-      "生成",
-      "生成器"
     ]
   }
 }

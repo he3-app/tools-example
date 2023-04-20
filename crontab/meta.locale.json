@@ -1,110 +1,101 @@
 {
-    "zh": {
-      "$name": "Cron 表达式",
-      "$description": "Cron 表达式工具",
-      "$keywords": [
-        "定时",
-        "定期",
-        "重复"
-      ]
-    },
-    "en": {
-      "$name": "Cron Expression",
-      "$description": "Cron Expression",
-      "$keywords": [
-        "cron",
-        "crontab",
-        "regular"
-      ]
-    },
-    "de": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "zeitliche Koordinierung",
-        "regulär",
-        "wiederholen"
-      ]
-    },
-    "es": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "momento",
-        "regular",
-        "repetir"
-      ]
-    },
-    "fr": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "Horaire",
-        "régulier",
-        "répéter"
-      ]
-    },
-    "it": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "tempismo",
-        "regolare",
-        "ripetere"
-      ]
-    },
-    "ja": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "タイミング",
-        "通常",
-        "繰り返す"
-      ]
-    },
-    "ko": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "타이밍",
-        "정기적인",
-        "반복하다"
-      ]
-    },
-    "pt": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "tempo",
-        "regular",
-        "repita"
-      ]
-    },
-    "ru": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "время",
-        "обычный",
-        "повторить"
-      ]
-    },
-    "zh-tw": {
-      "$name": "Cron 表達式",
-      "$description": "Cron 表達式工具",
-      "$keywords": [
-        "定時",
-        "定期",
-        "重複"
-      ]
-    },
-    "zh-cn": {
-      "$name": "Cron 表达式",
-      "$description": "Cron 表达式工具",
-      "$keywords": [
-        "定时",
-        "定期",
-        "重复"
-      ]
-    }
+  "zh-cn": {
+    "$name": "Cron表达式",
+    "$description": "Cron表达式是一种用于在基于Unix的系统上安排和自动化任务的工具。它使用一种称为\"cron\"或\"crontab\"的语法来指定任务应该何时以及多久执行一次，从而允许任务进行定期和精确的调度。",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Cron表達式",
+    "$description": "Cron表達式是一個用於在基於Unix的系統上安排和自動化任務的工具。它使用一種稱為\"cron\"或\"crontab\"的語法來指定任務應該何時以及多久執行一次，從而實現任務的定期和精確排程。",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "定期"
+    ]
+  },
+  "es": {
+    "$name": "Expresión Cron",
+    "$description": "Expresión Cron es una herramienta utilizada para programar y automatizar tareas en sistemas basados en Unix. Utiliza una sintaxis llamada \"cron\" o \"crontab\" para especificar cuándo y con qué frecuencia se debe ejecutar una tarea, permitiendo una programación regular y precisa de tareas.",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular"
+    ]
+  },
+  "ja": {
+    "$name": "Cron Expression",
+    "$description": "Cron Expressionは、Unixベースのシステムでタスクをスケジュールして自動化するためのツールです。タスクを実行するタイミングと頻度を指定するために「cron」または「crontab」と呼ばれる構文を使用し、タスクを定期的かつ正確にスケジュールすることができます。",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular"
+    ]
+  },
+  "ko": {
+    "$name": "크론 표현식",
+    "$description": "크론 표현식은 유닉스 기반 시스템에서 작업을 예약하고 자동화하는 데 사용되는 도구입니다. \"크론\" 또는 \"크론탭\"이라는 구문을 사용하여 작업을 실행할 때와 얼마나 자주 실행할지를 지정하여 작업을 정기적이고 정확하게 예약할 수 있습니다.",
+    "$keywords": [
+      "크론",
+      "크론탭",
+      "정기적"
+    ]
+  },
+  "de": {
+    "$name": "Cron-Ausdruck",
+    "$description": "Cron-Ausdruck ist ein Tool, das zur Planung und Automatisierung von Aufgaben auf Unix-basierten Systemen verwendet wird. Es verwendet eine Syntax namens \"cron\" oder \"crontab\", um anzugeben, wann und wie oft eine Aufgabe ausgeführt werden soll, was eine regelmäßige und präzise Planung von Aufgaben ermöglicht.",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regelmäßig"
+    ]
+  },
+  "fr": {
+    "$name": "Expression Cron",
+    "$description": "Expression Cron est un outil utilisé pour planifier et automatiser des tâches sur des systèmes Unix. Il utilise une syntaxe appelée \"cron\" ou \"crontab\" pour spécifier quand et à quelle fréquence une tâche doit être exécutée, permettant une planification régulière et précise des tâches.",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "régulier"
+    ]
+  },
+  "it": {
+    "$name": "Espressione Cron",
+    "$description": "Espressione Cron è uno strumento utilizzato per pianificare e automatizzare attività su sistemi basati su Unix. Utilizza una sintassi chiamata \"cron\" o \"crontab\" per specificare quando e con quale frequenza un'attività deve essere eseguita, consentendo la pianificazione regolare e precisa delle attività.",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regolare"
+    ]
+  },
+  "ru": {
+    "$name": "Выражение Cron",
+    "$description": "Выражение Cron - это инструмент, используемый для планирования и автоматизации задач в системах на основе Unix. Он использует синтаксис, называемый \"cron\" или \"crontab\", чтобы указать, когда и с какой периодичностью должна выполняться задача, что позволяет регулярно и точно планировать задачи.",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "регулярный"
+    ]
+  },
+  "pt": {
+    "$name": "Expressão Cron",
+    "$description": "A Expressão Cron é uma ferramenta usada para agendar e automatizar tarefas em sistemas baseados em Unix. Ela usa uma sintaxe chamada \"cron\" ou \"crontab\" para especificar quando e com que frequência uma tarefa deve ser executada, permitindo agendamento regular e preciso de tarefas.",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular"
+    ]
+  },
+  "en": {
+    "$name": "Cron Expression",
+    "$description": "Cron Expression is a tool used to schedule and automate tasks on Unix-based systems. It uses a syntax called \"cron\" or \"crontab\" to specify when and how often a task should be executed, allowing for regular and precise scheduling of tasks.",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular"
+    ]
   }
+}

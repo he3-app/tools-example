@@ -11,7 +11,7 @@
     "id": "mermaid-editor",
     "icon": "file-image-outlined",
     "version": "1.0.1",
-    "description": "Edit and preview mermaid charts",
+    "description": "Mermaid Editor is a powerful tool that allows users to create, edit, and preview mermaid charts with ease. With its intuitive interface and robust features, users can quickly and efficiently create visually stunning diagrams and flowcharts for a variety of purposes.",
     "isPublic": true,
     "category": [
       "image"

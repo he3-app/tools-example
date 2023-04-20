@@ -1,24 +1,44 @@
 {
-  "zh": {
+  "zh-cn": {
     "$name": "代码转图片",
-    "$description": "将你的代码转化为漂亮的图片",
+    "$description": "代码转图片是一款工具，可以将您的代码转换为视觉上吸引人的图片，使分享和展示您的工作变得更加容易。通过将代码导出为PNG文件的能力，代码转图片是创建专业外观的代码图片的绝佳方式，可用于演示、文档或社交媒体。",
     "$keywords": [
       "代码",
       "图片",
       "图像",
       "照片",
-      "图",
-      "转",
-      "生成",
-      "图片",
-      "图像",
-      "照片",
-      "图"
+      "code2image",
+      "png"
     ]
   },
-  "en": {
-    "$name": "Code To Image",
-    "$description": "Create beautiful images of your code",
+  "zh-tw": {
+    "$name": "代碼轉圖片",
+    "$description": "代碼轉圖片是一個工具，可以將您的代碼轉換為視覺上吸引人的圖像，使分享和展示您的工作更加容易。通過將代碼導出為PNG文件的能力，代碼轉圖片是創建專業外觀的代碼圖像的絕佳方式，可用於演示、文檔或社交媒體。",
+    "$keywords": [
+      "代碼",
+      "圖片",
+      "圖片",
+      "照片",
+      "code2image",
+      "png"
+    ]
+  },
+  "es": {
+    "$name": "Código a Imagen",
+    "$description": "Código a Imagen es una herramienta que te permite transformar tu código en imágenes visualmente atractivas, lo que facilita compartir y mostrar tu trabajo. Con la capacidad de exportar tu código como un archivo PNG, Código a Imagen es una excelente manera de crear imágenes profesionales de tu código para presentaciones, documentación o redes sociales.",
+    "$keywords": [
+      "código",
+      "imagen",
+      "foto",
+      "imagen",
+      "photo",
+      "code2image",
+      "png"
+    ]
+  },
+  "ja": {
+    "$name": "Code to Image",
+    "$description": "Code to Imageは、コードを視覚的に魅力的な画像に変換することができるツールで、作業内容を共有したり、ショーケースしたりすることが容易になります。PNGファイルとしてコードをエクスポートする機能を備えているため、プレゼンテーション、ドキュメンテーション、またはソーシャルメディアのためのプロフェッショナルなコードの画像を作成するのに最適です。",
     "$keywords": [
       "code",
       "image",
@@ -29,174 +49,90 @@
       "png"
     ]
   },
-  "de": {
-    "$name": "Code -Übertragungsbild",
-    "$description": "Konvertieren Sie Ihren Code in ein schönes Bild",
+  "ko": {
+    "$name": "코드를 이미지로",
+    "$description": "코드를 이미지로 변환해 시각적으로 매력적인 이미지로 만들어주는 도구입니다. PNG 파일로 코드를 내보낼 수 있는 기능을 갖추고 있어 발표, 문서 또는 소셜 미디어에 전문적으로 보이는 코드 이미지를 만드는 데 좋습니다.",
     "$keywords": [
-      "Code",
-      "Bild",
-      "Bild",
-      "Foto",
-      "Bild",
-      "ändern",
-      "generieren",
-      "Bild",
-      "Bild",
-      "Foto",
-      "Bild"
+      "코드",
+      "이미지",
+      "사진",
+      "code2image",
+      "png"
     ]
   },
-  "es": {
-    "$name": "Imagen de transferencia de código",
-    "$description": "Convierta su código en una hermosa imagen",
+  "de": {
+    "$name": "Code zu Bild",
+    "$description": "Code to Image ist ein Tool, das es Ihnen ermöglicht, Ihren Code in visuell ansprechende Bilder zu verwandeln, um Ihre Arbeit einfacher zu teilen und zu präsentieren. Mit der Möglichkeit, Ihren Code als PNG-Datei zu exportieren, ist Code to Image eine großartige Möglichkeit, professionell aussehende Bilder Ihres Codes für Präsentationen, Dokumentationen oder soziale Medien zu erstellen.",
     "$keywords": [
-      "Código",
-      "imagen",
-      "imagen",
+      "code",
+      "bild",
+      "pic",
+      "bild",
       "foto",
-      "imagen",
-      "cambiar",
-      "generar",
-      "imagen",
-      "imagen",
-      "foto",
-      "imagen"
+      "code2image",
+      "png"
     ]
   },
   "fr": {
-    "$name": "Image de transfert de code",
-    "$description": "Convertissez votre code en une belle image",
+    "$name": "Code to Image",
+    "$description": "Code to Image est un outil qui vous permet de transformer votre code en images attrayantes, facilitant ainsi le partage et la présentation de votre travail. Avec la possibilité d'exporter votre code sous forme de fichier PNG, Code to Image est un excellent moyen de créer des images professionnelles de votre code pour des présentations, de la documentation ou des réseaux sociaux.",
     "$keywords": [
-      "Code",
+      "code",
       "image",
-      "image",
+      "pic",
+      "picture",
       "photo",
-      "image",
-      "changement",
-      "générer",
-      "image",
-      "image",
-      "photo",
-      "image"
+      "code2image",
+      "png"
     ]
   },
   "it": {
-    "$name": "Immagine di trasferimento del codice",
-    "$description": "Converti il ​​tuo codice in una bella immagine",
+    "$name": "Codice in Immagine",
+    "$description": "Codice in Immagine è uno strumento che consente di trasformare il tuo codice in immagini accattivanti, rendendo più facile condividere e mostrare il tuo lavoro. Con la possibilità di esportare il tuo codice come file PNG, Codice in Immagine è un ottimo modo per creare immagini professionali del tuo codice per presentazioni, documentazione o social media.",
     "$keywords": [
-      "Codice",
+      "codice",
       "immagine",
-      "Immagine",
       "foto",
       "immagine",
-      "modifica",
-      "creare",
-      "immagine",
-      "Immagine",
-      "foto",
-      "immagine"
-    ]
-  },
-  "ja": {
-    "$name": "コード転送画像",
-    "$description": "コードを美しい写真に変換します",
-    "$keywords": [
-      "コード",
-      "写真",
-      "画像",
-      "写真",
-      "写真",
-      "変化",
-      "生成",
-      "写真",
-      "画像",
-      "写真",
-      "写真"
-    ]
-  },
-  "ko": {
-    "$name": "코드 전송 사진",
-    "$description": "코드를 아름다운 그림으로 변환하십시오",
-    "$keywords": [
-      "암호",
-      "그림",
-      "영상",
-      "사진",
-      "그림",
-      "변화",
-      "생성하다",
-      "그림",
-      "영상",
-      "사진",
-      "그림"
-    ]
-  },
-  "pt": {
-    "$name": "Imagem de transferência de código",
-    "$description": "Converta seu código em uma bela foto",
-    "$keywords": [
-      "Código",
-      "foto",
-      "imagem",
-      "foto",
-      "foto",
-      "mudar",
-      "gerar",
-      "foto",
-      "imagem",
-      "foto",
-      "foto"
+      "codice2immagine",
+      "png"
     ]
   },
   "ru": {
-    "$name": "Код передачи изображения",
-    "$description": "Преобразовать свой код в красивую картину",
+    "$name": "Код в изображение",
+    "$description": "Код в изображение - это инструмент, который позволяет превратить ваш код в визуально привлекательные изображения, что упрощает его обмен и демонстрацию вашей работы. С возможностью экспорта вашего кода в файл PNG, Код в изображение - отличный способ создания профессионально выглядящих изображений вашего кода для презентаций, документации или социальных сетей.",
     "$keywords": [
-      "Код",
-      "картина",
+      "код",
       "изображение",
-      "Фото",
-      "картина",
-      "изменять",
-      "генерировать",
-      "картина",
-      "изображение",
-      "Фото",
-      "картина"
+      "картинка",
+      "фото",
+      "code2image",
+      "png"
     ]
   },
-  "zh-tw": {
-    "$name": "代碼轉圖片",
-    "$description": "將你的代碼轉化為漂亮的圖片",
+  "pt": {
+    "$name": "Código para Imagem",
+    "$description": "Código para Imagem é uma ferramenta que permite transformar seu código em imagens visualmente atraentes, tornando mais fácil compartilhar e exibir seu trabalho. Com a capacidade de exportar seu código como um arquivo PNG, Código para Imagem é uma ótima maneira de criar imagens profissionais do seu código para apresentações, documentação ou mídias sociais.",
     "$keywords": [
-      "代碼",
-      "圖片",
-      "圖像",
-      "照片",
-      "圖",
-      "轉",
-      "生成",
-      "圖片",
-      "圖像",
-      "照片",
-      "圖"
+      "código",
+      "imagem",
+      "foto",
+      "imagem",
+      "code2image",
+      "png"
     ]
   },
-  "zh-cn": {
-    "$name": "代码转图片",
-    "$description": "将你的代码转化为漂亮的图片",
+  "en": {
+    "$name": "Code to Image",
+    "$description": "Code to Image is a tool that allows you to transform your code into visually appealing images, making it easier to share and showcase your work. With the ability to export your code as a PNG file, Code to Image is a great way to create professional-looking images of your code for presentations, documentation, or social media.",
     "$keywords": [
-      "代码",
-      "图片",
-      "图像",
-      "照片",
-      "图",
-      "转",
-      "生成",
-      "图片",
-      "图像",
-      "照片",
-      "图"
+      "code",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "code2image",
+      "png"
     ]
   }
 }

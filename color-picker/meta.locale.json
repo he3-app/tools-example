@@ -1,87 +1,90 @@
 {
-  "zh": {
+  "zh-cn": {
     "$name": "颜色选择器",
-    "$description": "颜色选择器",
+    "$description": "颜色选择器是一种数字工具，允许用户从图像或颜色调色板中选择和识别特定颜色。它通常用于图形设计、网站开发和数字艺术，以确保颜色的准确性和一致性。",
     "$keywords": [
+      "颜色",
       "选择器"
-    ]
-  },
-  "en": {
-    "$name": "Color Picker",
-    "$description": "color picker",
-    "$keywords": [
-      "color",
-      "picker"
-    ]
-  },
-  "de": {
-    "$name": "Farbauswahl",
-    "$description": "Farbauswahl",
-    "$keywords": [
-      "Wähler"
-    ]
-  },
-  "es": {
-    "$name": "Selector de color",
-    "$description": "Selector de color",
-    "$keywords": [
-      "Selector"
-    ]
-  },
-  "fr": {
-    "$name": "Sélecteur de couleurs",
-    "$description": "Sélecteur de couleurs",
-    "$keywords": [
-      "Sélecteur"
-    ]
-  },
-  "it": {
-    "$name": "Selettore di colori",
-    "$description": "Selettore di colori",
-    "$keywords": [
-      "Selettore"
-    ]
-  },
-  "ja": {
-    "$name": "カラーセレクター",
-    "$description": "カラーセレクター",
-    "$keywords": [
-      "セレクタ"
-    ]
-  },
-  "ko": {
-    "$name": "색상 선택기",
-    "$description": "색상 선택기",
-    "$keywords": [
-      "선택자"
-    ]
-  },
-  "pt": {
-    "$name": "Seletor de cores",
-    "$description": "Seletor de cores",
-    "$keywords": [
-      "Seletor"
-    ]
-  },
-  "ru": {
-    "$name": "Селектор цвета",
-    "$description": "Селектор цвета",
-    "$keywords": [
-      "Селектор"
     ]
   },
   "zh-tw": {
     "$name": "顏色選擇器",
-    "$description": "顏色選擇器",
+    "$description": "顏色選擇器是一種數字工具，允許用戶從圖像或調色板中選擇和識別特定的顏色。它通常用於平面設計、網頁開發和數字藝術，以確保顏色的準確性和一致性。",
     "$keywords": [
+      "顏色",
       "選擇器"
     ]
   },
-  "zh-cn": {
-    "$name": "颜色选择器",
-    "$description": "颜色选择器",
+  "es": {
+    "$name": "Selector de color",
+    "$description": "La herramienta Selector de color es una herramienta digital que permite a los usuarios seleccionar e identificar colores específicos de una imagen o paleta de colores. Se utiliza comúnmente en diseño gráfico, desarrollo web y arte digital para garantizar la precisión y consistencia del color.",
     "$keywords": [
-      "选择器"
+      "color",
+      "selector"
+    ]
+  },
+  "ja": {
+    "$name": "カラーピッカー",
+    "$description": "カラーピッカーツールは、ユーザーが画像やカラーパレットから特定の色を選択して識別できるデジタルツールです。グラフィックデザイン、Web開発、デジタルアートなどで、色の正確性と一貫性を確保するために一般的に使用されています。",
+    "$keywords": [
+      "カラー",
+      "ピッカー"
+    ]
+  },
+  "ko": {
+    "$name": "컬러 피커",
+    "$description": "컬러 피커 도구는 이미지나 컬러 팔레트에서 특정 색상을 선택하고 식별할 수 있는 디지털 도구입니다. 그래픽 디자인, 웹 개발 및 디지털 아트에서 색상 정확성과 일관성을 보장하기 위해 일반적으로 사용됩니다.",
+    "$keywords": [
+      "색상",
+      "피커"
+    ]
+  },
+  "de": {
+    "$name": "Farbauswahl",
+    "$description": "Das Farbauswahl-Tool ist ein digitales Werkzeug, mit dem Benutzer bestimmte Farben aus einem Bild oder einer Farbpalette auswählen und identifizieren können. Es wird häufig in Grafikdesign, Webentwicklung und digitaler Kunst eingesetzt, um Farbgenauigkeit und -konsistenz zu gewährleisten.",
+    "$keywords": [
+      "Farbe",
+      "Auswahl"
+    ]
+  },
+  "fr": {
+    "$name": "Sélecteur de couleurs",
+    "$description": "Le Sélecteur de couleurs est un outil numérique qui permet aux utilisateurs de sélectionner et d'identifier des couleurs spécifiques à partir d'une image ou d'une palette de couleurs. Il est couramment utilisé en conception graphique, en développement web et en art numérique pour assurer la précision et la cohérence des couleurs.",
+    "$keywords": [
+      "couleur",
+      "sélecteur"
+    ]
+  },
+  "it": {
+    "$name": "Selettore di colore",
+    "$description": "Lo strumento Selettore di colore è uno strumento digitale che consente agli utenti di selezionare e identificare colori specifici da un'immagine o da una tavolozza di colori. Viene comunemente utilizzato nel design grafico, nello sviluppo web e nell'arte digitale per garantire l'accuratezza e la coerenza del colore.",
+    "$keywords": [
+      "colore",
+      "selettore"
+    ]
+  },
+  "ru": {
+    "$name": "Выбор цвета",
+    "$description": "Инструмент выбора цвета - это цифровой инструмент, который позволяет пользователям выбирать и определять определенные цвета изображения или палитры цветов. Он часто используется в графическом дизайне, веб-разработке и цифровом искусстве для обеспечения точности и последовательности цвета.",
+    "$keywords": [
+      "цвет",
+      "выбор"
+    ]
+  },
+  "pt": {
+    "$name": "Seletor de Cores",
+    "$description": "A ferramenta Seletor de Cores é uma ferramenta digital que permite aos usuários selecionar e identificar cores específicas de uma imagem ou paleta de cores. É comumente usada em design gráfico, desenvolvimento web e arte digital para garantir precisão e consistência de cores.",
+    "$keywords": [
+      "cor",
+      "seletor"
+    ]
+  },
+  "en": {
+    "$name": "Color Picker",
+    "$description": "The Color Picker tool is a digital tool that allows users to select and identify specific colors from an image or color palette. It is commonly used in graphic design, web development, and digital art to ensure color accuracy and consistency.",
+    "$keywords": [
+      "color",
+      "picker"
     ]
   }
 }

@@ -16,7 +16,7 @@
     "category": [
       "cryptography"
     ],
-    "description": "Generate PGP Key Pairs",
+    "description": "The PGP Key Pair Generator is a tool that allows users to generate PGP (Pretty Good Privacy) key pairs, including RSA and ECC keys with lengths of 2048, 4096, and 8192 bits. This tool can be used for secure communication and encryption of sensitive data.",
     "keywords": [
       "GPG",
       "PGP",

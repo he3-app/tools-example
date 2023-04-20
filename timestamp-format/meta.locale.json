@@ -1,134 +1,123 @@
 {
-    "zh": {
-      "$name": "时间戳转换",
-      "$description": "时间戳转换",
-      "$keywords": [
-        "时间戳",
-        "毫秒",
-        "转换",
-        "日期",
-        "时间"
-      ]
-    },
-    "en": {
-      "$name": "Timestamp Convertor",
-      "$description": "Timestamp Convertor",
-      "$keywords": [
-        "timestamp",
-        "milisecond",
-        "convert",
-        "datetime",
-        "time"
-      ]
-    },
-    "de": {
-      "$name": "Zeitstempelkonvertierung",
-      "$description": "Zeitstempelkonvertierung",
-      "$keywords": [
-        "Zeitstempel",
-        "Millisekunde",
-        "Konvertieren",
-        "Datum",
-        "Zeit"
-      ]
-    },
-    "es": {
-      "$name": "Conversión de timación",
-      "$description": "Conversión de timación",
-      "$keywords": [
-        "Marca de tiempo",
-        "milisegundo",
-        "Convertir",
-        "fecha",
-        "tiempo"
-      ]
-    },
-    "fr": {
-      "$name": "Conversion horaire",
-      "$description": "Conversion horaire",
-      "$keywords": [
-        "Horodatage",
-        "millisecondes",
-        "Convertir",
-        "date",
-        "temps"
-      ]
-    },
-    "it": {
-      "$name": "Conversione del timestamp",
-      "$description": "Conversione del timestamp",
-      "$keywords": [
-        "Timestamp",
-        "millisecondo",
-        "Convertire",
-        "data",
-        "tempo"
-      ]
-    },
-    "ja": {
-      "$name": "タイムスタンプ変換",
-      "$description": "タイムスタンプ変換",
-      "$keywords": [
-        "タイムスタンプ",
-        "ミリ秒",
-        "変換",
-        "日にち",
-        "時間"
-      ]
-    },
-    "ko": {
-      "$name": "타임 스탬프 변환",
-      "$description": "타임 스탬프 변환",
-      "$keywords": [
-        "타임 스탬프",
-        "밀리 초",
-        "전환하다",
-        "날짜",
-        "시간"
-      ]
-    },
-    "pt": {
-      "$name": "Conversão de carimbo de hora",
-      "$description": "Conversão de carimbo de hora",
-      "$keywords": [
-        "Timestamp",
-        "milissegundo",
-        "Converter",
-        "data",
-        "tempo"
-      ]
-    },
-    "ru": {
-      "$name": "Преобразование марки времени",
-      "$description": "Преобразование марки времени",
-      "$keywords": [
-        "Временная метка",
-        "миллисекунд",
-        "Конвертировать",
-        "дата",
-        "время"
-      ]
-    },
-    "zh-tw": {
-      "$name": "時間戳轉換",
-      "$description": "時間戳轉換",
-      "$keywords": [
-        "時間戳",
-        "毫秒",
-        "轉換",
-        "日期",
-        "時間"
-      ]
-    },
-    "zh-cn": {
-      "$name": "时间戳转换",
-      "$description": "时间戳转换",
-      "$keywords": [
-        "时间戳",
-        "毫秒",
-        "转换",
-        "日期",
-        "时间"
-      ]
-    }
+  "zh-cn": {
+    "$name": "时间戳转换器",
+    "$description": "时间戳转换器是一款强大的工具，可以让用户轻松地将时间戳转换为带有毫秒精度的日期时间或时间格式。通过直观的界面，用户可以快速准确地将时间戳转换为所需格式，使其成为任何处理时间敏感数据的人必备的工具。",
+    "$keywords": [
+      "时间戳",
+      "毫秒",
+      "转换",
+      "日期时间",
+      "时间"
+    ]
+  },
+  "zh-tw": {
+    "$name": "時間戳轉換器",
+    "$description": "時間戳轉換器是一個強大的工具，可以讓用戶輕鬆地將時間戳轉換為毫秒精度的日期時間或時間格式。通過直觀的界面，用戶可以快速而準確地將時間戳轉換為所需的格式，使其成為任何處理時間敏感數據的人必不可少的工具。",
+    "$keywords": [
+      "時間戳",
+      "毫秒",
+      "轉換",
+      "日期時間",
+      "時間"
+    ]
+  },
+  "es": {
+    "$name": "Convertidor de marcas de tiempo",
+    "$description": "El Convertidor de marcas de tiempo es una herramienta poderosa que permite a los usuarios convertir fácilmente marcas de tiempo a formatos de fecha y hora con precisión de milisegundos. Con su interfaz intuitiva, los usuarios pueden convertir rápidamente y con precisión marcas de tiempo al formato deseado, lo que lo convierte en una herramienta esencial para cualquier persona que trabaje con datos sensibles al tiempo.",
+    "$keywords": [
+      "marca de tiempo",
+      "milisegundo",
+      "convertir",
+      "fecha y hora",
+      "tiempo"
+    ]
+  },
+  "ja": {
+    "$name": "タイムスタンプコンバーター",
+    "$description": "タイムスタンプコンバーターは、ミリ秒単位の精度でタイムスタンプを日時または時間形式に簡単に変換できる強力なツールです。直感的なインターフェースにより、ユーザーは迅速かつ正確にタイムスタンプを所望の形式に変換できるため、時間に敏感なデータを扱う人にとって必須のツールです。",
+    "$keywords": [
+      "タイムスタンプ",
+      "ミリ秒",
+      "変換",
+      "日時",
+      "時間"
+    ]
+  },
+  "ko": {
+    "$name": "타임스탬프 변환기",
+    "$description": "타임스탬프 변환기는 밀리초 정밀도로 타임스탬프를 날짜 및 시간 형식으로 쉽게 변환할 수 있는 강력한 도구입니다. 직관적인 인터페이스를 통해 사용자는 빠르고 정확하게 원하는 형식으로 타임스탬프를 변환할 수 있으므로 시간에 민감한 데이터를 다루는 모든 사람에게 필수적인 도구입니다.",
+    "$keywords": [
+      "타임스탬프",
+      "밀리초",
+      "변환",
+      "날짜",
+      "시간"
+    ]
+  },
+  "de": {
+    "$name": "Zeitstempel-Konverter",
+    "$description": "Der Zeitstempel-Konverter ist ein leistungsstarkes Tool, mit dem Benutzer Zeitstempel einfach in Datums- oder Zeitformate mit Millisekunden-Präzision umwandeln können. Mit seiner intuitiven Benutzeroberfläche können Benutzer Zeitstempel schnell und genau in das gewünschte Format konvertieren, was es zu einem unverzichtbaren Werkzeug für alle macht, die mit zeitkritischen Daten arbeiten.",
+    "$keywords": [
+      "Zeitstempel",
+      "Millisekunde",
+      "konvertieren",
+      "Datum",
+      "Zeit"
+    ]
+  },
+  "fr": {
+    "$name": "Convertisseur de timestamp",
+    "$description": "Le Convertisseur de timestamp est un outil puissant qui permet aux utilisateurs de convertir facilement des timestamps en formats datetime ou time avec une précision de milliseconde. Avec son interface intuitive, les utilisateurs peuvent rapidement et précisément convertir des timestamps dans le format souhaité, en faisant un outil essentiel pour toute personne travaillant avec des données sensibles au temps.",
+    "$keywords": [
+      "timestamp",
+      "milliseconde",
+      "convertir",
+      "datetime",
+      "time"
+    ]
+  },
+  "it": {
+    "$name": "Convertitore di Timestamp",
+    "$description": "Il Convertitore di Timestamp è uno strumento potente che consente agli utenti di convertire facilmente timestamp in formati datetime o time con precisione al millisecondo. Con la sua interfaccia intuitiva, gli utenti possono convertire rapidamente e con precisione i timestamp nel formato desiderato, rendendolo uno strumento essenziale per chiunque lavori con dati sensibili al tempo.",
+    "$keywords": [
+      "timestamp",
+      "millisecondo",
+      "convertire",
+      "datetime",
+      "time"
+    ]
+  },
+  "ru": {
+    "$name": "Конвертер временных меток",
+    "$description": "Конвертер временных меток - это мощный инструмент, который позволяет пользователям легко преобразовывать временные метки в форматы даты и времени с миллисекундной точностью. С его интуитивно понятным интерфейсом пользователи могут быстро и точно преобразовывать временные метки в нужный формат, что делает его необходимым инструментом для всех, кто работает с данными, связанными со временем.",
+    "$keywords": [
+      "временная метка",
+      "миллисекунда",
+      "конвертировать",
+      "дата и время",
+      "время"
+    ]
+  },
+  "pt": {
+    "$name": "Conversor de Timestamp",
+    "$description": "O Conversor de Timestamp é uma ferramenta poderosa que permite aos usuários converter facilmente timestamps para formatos de data e hora com precisão de milissegundos. Com sua interface intuitiva, os usuários podem converter rapidamente e com precisão os timestamps para o formato desejado, tornando-se uma ferramenta essencial para qualquer pessoa que trabalhe com dados sensíveis ao tempo.",
+    "$keywords": [
+      "timestamp",
+      "milissegundo",
+      "converter",
+      "datahora",
+      "hora"
+    ]
+  },
+  "en": {
+    "$name": "Timestamp Convertor",
+    "$description": "The Timestamp Convertor is a powerful tool that allows users to easily convert timestamps to datetime or time formats with millisecond precision. With its intuitive interface, users can quickly and accurately convert timestamps to the desired format, making it an essential tool for anyone working with time-sensitive data.",
+    "$keywords": [
+      "timestamp",
+      "milisecond",
+      "convert",
+      "datetime",
+      "time"
+    ]
   }
+}

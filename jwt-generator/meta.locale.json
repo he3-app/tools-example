@@ -1,18 +1,89 @@
 {
-  "zh": {
-    "$name": "JWT 生成器",
-    "$description": "生成一个 JWT 密钥",
+  "zh-cn": {
+    "$name": "JWT生成器",
+    "$description": "JWT生成器是一个基于Web的工具，允许用户使用各种算法（如HS256、HS384和HS512）轻松生成JSON Web Tokens（JWT）。该工具特别适用于开发人员使用Web应用程序和JavaScript，因为它简化了生成用于身份验证和授权目的的安全令牌的过程。",
     "$keywords": [
-      "令牌",
       "生成",
-      "生成器"
+      "生成器",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "令牌",
+      "javascript"
     ]
   },
-  "en": {
-    "$name": "JWT Generator",
-    "$description": "Generate a JWT token",
+  "zh-tw": {
+    "$name": "JWT 產生器",
+    "$description": "JWT 產生器是一個基於網頁的工具，允許使用者使用各種演算法（如 HS256、HS384 和 HS512）輕鬆生成 JSON Web Tokens（JWT）。此工具對於開發 Web 應用程式和 JavaScript 的開發人員特別有用，因為它簡化了生成用於身份驗證和授權目的的安全令牌的過程。",
     "$keywords": [
-      "generate",
+      "產生",
+      "產生器",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "令牌",
+      "javascript"
+    ]
+  },
+  "es": {
+    "$name": "Generador de JWT",
+    "$description": "El Generador de JWT es una herramienta basada en la web que permite a los usuarios generar fácilmente Tokens Web JSON (JWT) utilizando varios algoritmos como HS256, HS384 y HS512. Esta herramienta es particularmente útil para desarrolladores que trabajan con aplicaciones web y JavaScript, ya que simplifica el proceso de generación de tokens seguros para fines de autenticación y autorización.",
+    "$keywords": [
+      "generar",
+      "generador",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "token",
+      "javascript"
+    ]
+  },
+  "ja": {
+    "$name": "JWTジェネレーター",
+    "$description": "JWTジェネレーターは、HS256、HS384、HS512などのさまざまなアルゴリズムを使用してJSON Webトークン（JWT）を簡単に生成できるWebベースのツールです。このツールは、WebアプリケーションやJavaScriptで作業する開発者にとって特に役立ちます。認証や認可の目的で安全なトークンを生成するプロセスを簡素化します。",
+    "$keywords": [
+      "生成",
+      "ジェネレーター",
+      "JWT",
+      "JSON",
+      "HS256",
+      "HS384",
+      "HS512",
+      "Web",
+      "トークン",
+      "JavaScript"
+    ]
+  },
+  "ko": {
+    "$name": "JWT 생성기",
+    "$description": "JWT 생성기는 HS256, HS384 및 HS512와 같은 다양한 알고리즘을 사용하여 JSON Web Token (JWT)을 쉽게 생성할 수 있는 웹 기반 도구입니다. 이 도구는 웹 애플리케이션 및 JavaScript를 사용하는 개발자에게 특히 유용하며, 인증 및 권한 부여 목적으로 안전한 토큰을 생성하는 프로세스를 간소화합니다.",
+    "$keywords": [
+      "생성",
+      "생성기",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "웹",
+      "토큰",
+      "자바스크립트"
+    ]
+  },
+  "de": {
+    "$name": "JWT Generator",
+    "$description": "Der JWT Generator ist ein webbasiertes Tool, das Benutzern ermöglicht, JSON Web Tokens (JWT) mithilfe verschiedener Algorithmen wie HS256, HS384 und HS512 einfach zu generieren. Dieses Tool ist besonders nützlich für Entwickler, die mit Webanwendungen und JavaScript arbeiten, da es den Prozess der Generierung sicherer Tokens für Authentifizierungs- und Autorisierungszwecke vereinfacht.",
+    "$keywords": [
+      "generieren",
       "generator",
       "jwt",
       "json",
@@ -24,94 +95,84 @@
       "javascript"
     ]
   },
-  "de": {
-    "$name": "JWT -Generator",
-    "$description": "Generieren Sie einen JWT -Schlüssel",
-    "$keywords": [
-      "Zeichen",
-      "generieren",
-      "Erbauer"
-    ]
-  },
-  "es": {
-    "$name": "Generador de jwt",
-    "$description": "Generar una clave JWT",
-    "$keywords": [
-      "Simbólico",
-      "generar",
-      "Constructor"
-    ]
-  },
   "fr": {
     "$name": "Générateur JWT",
-    "$description": "Générer une clé JWT",
+    "$description": "Le Générateur JWT est un outil en ligne qui permet aux utilisateurs de générer facilement des JSON Web Tokens (JWT) en utilisant divers algorithmes tels que HS256, HS384 et HS512. Cet outil est particulièrement utile pour les développeurs travaillant avec des applications web et JavaScript, car il simplifie le processus de génération de jetons sécurisés à des fins d'authentification et d'autorisation.",
     "$keywords": [
-      "Jeton",
       "générer",
-      "Constructeur"
+      "générateur",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "jeton",
+      "javascript"
     ]
   },
   "it": {
     "$name": "Generatore JWT",
-    "$description": "Generare una chiave JWT",
+    "$description": "Il Generatore JWT è uno strumento basato sul web che consente agli utenti di generare facilmente JSON Web Tokens (JWT) utilizzando vari algoritmi come HS256, HS384 e HS512. Questo strumento è particolarmente utile per gli sviluppatori che lavorano con applicazioni web e JavaScript, poiché semplifica il processo di generazione di token sicuri per scopi di autenticazione e autorizzazione.",
     "$keywords": [
-      "Gettone",
-      "creare",
-      "Costruttore"
-    ]
-  },
-  "ja": {
-    "$name": "JWTジェネレーター",
-    "$description": "JWTキーを生成します",
-    "$keywords": [
-      "トークン",
-      "生成",
-      "ビルダー"
-    ]
-  },
-  "ko": {
-    "$name": "JWT 생성기",
-    "$description": "JWT 키를 생성하십시오",
-    "$keywords": [
-      "토큰",
-      "생성하다",
-      "빌더"
-    ]
-  },
-  "pt": {
-    "$name": "Gerador JWT",
-    "$description": "Gerar uma chave JWT",
-    "$keywords": [
-      "Símbolo",
-      "gerar",
-      "Construtor"
+      "generare",
+      "generatore",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "token",
+      "javascript"
     ]
   },
   "ru": {
-    "$name": "JWT Generator",
-    "$description": "Генерировать ключ JWT",
+    "$name": "Генератор JWT",
+    "$description": "Генератор JWT - это веб-инструмент, который позволяет пользователям легко генерировать токены JSON Web Tokens (JWT) с использованием различных алгоритмов, таких как HS256, HS384 и HS512. Этот инструмент особенно полезен для разработчиков, работающих с веб-приложениями и JavaScript, так как он упрощает процесс генерации безопасных токенов для целей аутентификации и авторизации.",
     "$keywords": [
-      "Токен",
       "генерировать",
-      "Строитель"
+      "генератор",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "веб",
+      "токен",
+      "javascript"
     ]
   },
-  "zh-tw": {
-    "$name": "JWT 生成器",
-    "$description": "生成一個 JWT 密鑰",
+  "pt": {
+    "$name": "Gerador de JWT",
+    "$description": "O Gerador de JWT é uma ferramenta baseada na web que permite aos usuários gerar facilmente Tokens Web JSON (JWT) usando vários algoritmos, como HS256, HS384 e HS512. Esta ferramenta é particularmente útil para desenvolvedores que trabalham com aplicativos da web e JavaScript, pois simplifica o processo de geração de tokens seguros para fins de autenticação e autorização.",
     "$keywords": [
-      "令牌",
-      "生成",
-      "生成器"
+      "gerar",
+      "gerador",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "token",
+      "javascript"
     ]
   },
-  "zh-cn": {
-    "$name": "JWT 生成器",
-    "$description": "生成一个 JWT 密钥",
+  "en": {
+    "$name": "JWT Generator",
+    "$description": "The JWT Generator is a web-based tool that allows users to easily generate JSON Web Tokens (JWT) using various algorithms such as HS256, HS384, and HS512. This tool is particularly useful for developers working with web applications and JavaScript, as it simplifies the process of generating secure tokens for authentication and authorization purposes.",
     "$keywords": [
-      "令牌",
-      "生成",
-      "生成器"
+      "generate",
+      "generator",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "token",
+      "javascript"
     ]
   }
 }

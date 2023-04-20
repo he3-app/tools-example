@@ -1,110 +1,101 @@
 {
-  "zh": {
-    "$name": "颜色提取",
-    "$description": "从图片中提取颜色",
+  "zh-cn": {
+    "$name": "颜色提取器",
+    "$description": "颜色提取器是一款强大的图像处理工具，允许用户从图像中提取特定的颜色。使用此工具，用户可以轻松识别和提取图像中的颜色，使其成为图形设计师、网站开发人员和任何使用数字图像的人的理想工具。颜色提取器工具易于使用，提供准确的颜色提取，是任何需要在数字项目中使用颜色的人必备的工具。",
     "$keywords": [
       "颜色",
       "提取",
-      "图片"
+      "图像"
     ]
   },
-  "en": {
-    "$name": "Color Extraction",
-    "$description": "Extract color",
+  "zh-tw": {
+    "$name": "色彩提取器",
+    "$description": "色彩提取器是一款強大的圖像處理工具，允許用戶從圖像中提取特定的顏色。使用此工具，用戶可以輕鬆識別和提取圖像中的顏色，使其成為圖形設計師、網站開發人員和任何使用數字圖像的人的理想工具。色彩提取器易於使用，提供準確的色彩提取，是任何需要在其數字項目中使用色彩的人必不可少的工具。",
+    "$keywords": [
+      "色彩",
+      "提取",
+      "圖像"
+    ]
+  },
+  "es": {
+    "$name": "Extractor de Color",
+    "$description": "La herramienta Extractor de Color es una poderosa herramienta de procesamiento de imágenes que permite a los usuarios extraer colores específicos de una imagen. Con esta herramienta, los usuarios pueden identificar y extraer fácilmente colores de una imagen, lo que la convierte en una herramienta ideal para diseñadores gráficos, desarrolladores web y cualquier persona que trabaje con imágenes digitales. El Extractor de Color es fácil de usar y proporciona una extracción de color precisa, lo que lo convierte en una herramienta esencial para cualquier persona que necesite trabajar con color en sus proyectos digitales.",
     "$keywords": [
       "color",
+      "extracción",
+      "imagen"
+    ]
+  },
+  "ja": {
+    "$name": "カラーエキストラクター",
+    "$description": "カラーエキストラクターツールは、画像から特定の色を抽出することができる強力な画像処理ツールです。このツールを使用すると、ユーザーは簡単に画像から色を特定して抽出することができます。グラフィックデザイナーやWeb開発者、デジタル画像を扱う人にとって理想的なツールです。カラーエキストラクターツールは使いやすく、正確な色の抽出ができるため、デジタルプロジェクトで色を扱う必要がある人にとって必須のツールです。",
+    "$keywords": [
+      "カラー",
+      "抽出",
+      "画像"
+    ]
+  },
+  "ko": {
+    "$name": "컬러 추출기",
+    "$description": "컬러 추출기 도구는 이미지에서 특정 색상을 추출할 수 있는 강력한 이미지 처리 도구입니다. 이 도구를 사용하면 사용자는 이미지에서 색상을 쉽게 식별하고 추출할 수 있으므로, 그래픽 디자이너, 웹 개발자 및 디지털 이미지를 다루는 모든 사람들에게 이상적인 도구입니다. 컬러 추출기 도구는 사용하기 쉽고 정확한 색상 추출을 제공하여 디지털 프로젝트에서 색상을 다루어야 하는 모든 사람들에게 필수적인 도구입니다.",
+    "$keywords": [
+      "색상",
+      "추출",
+      "이미지"
+    ]
+  },
+  "de": {
+    "$name": "Farbextraktor",
+    "$description": "Das Farbextraktor-Tool ist ein leistungsstarkes Bildverarbeitungstool, mit dem Benutzer bestimmte Farben aus einem Bild extrahieren können. Mit diesem Tool können Benutzer Farben leicht identifizieren und aus einem Bild extrahieren, was es zu einem idealen Tool für Grafikdesigner, Webentwickler und alle macht, die mit digitalen Bildern arbeiten. Das Farbextraktor-Tool ist einfach zu bedienen und bietet eine genaue Farbextraktion, was es zu einem unverzichtbaren Tool für alle macht, die mit Farben in ihren digitalen Projekten arbeiten müssen.",
+    "$keywords": [
+      "Farbe",
+      "Extraktion",
+      "Bild"
+    ]
+  },
+  "fr": {
+    "$name": "Extracteur de couleur",
+    "$description": "L'outil Extracteur de couleur est un puissant outil de traitement d'image qui permet aux utilisateurs d'extraire des couleurs spécifiques d'une image. Avec cet outil, les utilisateurs peuvent facilement identifier et extraire des couleurs d'une image, ce qui en fait un outil idéal pour les graphistes, les développeurs web et toute personne travaillant avec des images numériques. L'Extracteur de couleur est facile à utiliser et fournit une extraction de couleur précise, ce qui en fait un outil essentiel pour toute personne ayant besoin de travailler avec des couleurs dans ses projets numériques.",
+    "$keywords": [
+      "couleur",
       "extraction",
       "image"
     ]
   },
-  "de": {
-    "$name": "Farbgewinnung",
-    "$description": "Farbe aus dem Bild extrahieren",
-    "$keywords": [
-      "Farbe",
-      "Extrakt",
-      "Bild"
-    ]
-  },
-  "es": {
-    "$name": "Extracción de color",
-    "$description": "Extraer color de la imagen",
-    "$keywords": [
-      "color",
-      "extracto",
-      "imagen"
-    ]
-  },
-  "fr": {
-    "$name": "Extraction des couleurs",
-    "$description": "Extraire la couleur de l'image",
-    "$keywords": [
-      "couleur",
-      "extrait",
-      "image"
-    ]
-  },
   "it": {
-    "$name": "Estrazione del colore",
-    "$description": "Estrarre il colore dall'immagine",
+    "$name": "Estrattore di colore",
+    "$description": "L'estrattore di colore è uno strumento potente di elaborazione delle immagini che consente agli utenti di estrarre colori specifici da un'immagine. Con questo strumento, gli utenti possono facilmente identificare ed estrarre colori da un'immagine, rendendolo uno strumento ideale per i designer grafici, i sviluppatori web e chiunque lavori con immagini digitali. L'estrattore di colore è facile da usare e fornisce un'accurata estrazione del colore, rendendolo uno strumento essenziale per chiunque abbia bisogno di lavorare con il colore nei propri progetti digitali.",
     "$keywords": [
       "colore",
-      "estratto",
+      "estrazione",
       "immagine"
     ]
   },
-  "ja": {
-    "$name": "色の抽出",
-    "$description": "写真から色を抽出します",
+  "ru": {
+    "$name": "Извлекатель цвета",
+    "$description": "Инструмент Извлекатель цвета - это мощный инструмент обработки изображений, который позволяет пользователям извлекать определенные цвета из изображения. С помощью этого инструмента пользователи могут легко определять и извлекать цвета из изображения, что делает его идеальным инструментом для графических дизайнеров, веб-разработчиков и всех, кто работает с цифровыми изображениями. Инструмент Извлекатель цвета легок в использовании и обеспечивает точное извлечение цвета, что делает его необходимым инструментом для всех, кто работает с цветом в своих цифровых проектах.",
     "$keywords": [
-      "色",
-      "エキス",
-      "写真"
-    ]
-  },
-  "ko": {
-    "$name": "색상 추출",
-    "$description": "그림에서 색상을 추출하십시오",
-    "$keywords": [
-      "색상",
-      "발췌",
-      "그림"
+      "цвет",
+      "извлечение",
+      "изображение"
     ]
   },
   "pt": {
-    "$name": "Extração de cores",
-    "$description": "Extraia cor da imagem",
+    "$name": "Extrator de Cor",
+    "$description": "A ferramenta Extrator de Cor é uma poderosa ferramenta de processamento de imagem que permite aos usuários extrair cores específicas de uma imagem. Com esta ferramenta, os usuários podem facilmente identificar e extrair cores de uma imagem, tornando-a uma ferramenta ideal para designers gráficos, desenvolvedores web e qualquer pessoa que trabalhe com imagens digitais. O Extrator de Cor é fácil de usar e fornece extração de cor precisa, tornando-se uma ferramenta essencial para quem precisa trabalhar com cor em seus projetos digitais.",
     "$keywords": [
       "cor",
-      "extrair",
-      "foto"
+      "extração",
+      "imagem"
     ]
   },
-  "ru": {
-    "$name": "Извлечение цвета",
-    "$description": "Извлеките цвет из картинки",
+  "en": {
+    "$name": "Color Extractor",
+    "$description": "The Color Extractor tool is a powerful image processing tool that allows users to extract specific colors from an image. With this tool, users can easily identify and extract colors from an image, making it an ideal tool for graphic designers, web developers, and anyone who works with digital images. The Color Extractor tool is easy to use and provides accurate color extraction, making it an essential tool for anyone who needs to work with color in their digital projects.",
     "$keywords": [
-      "цвет",
-      "извлекать",
-      "картина"
-    ]
-  },
-  "zh-tw": {
-    "$name": "顏色提取",
-    "$description": "從圖片中提取顏色",
-    "$keywords": [
-      "顏色",
-      "提取",
-      "圖片"
-    ]
-  },
-  "zh-cn": {
-    "$name": "颜色提取",
-    "$description": "从图片中提取颜色",
-    "$keywords": [
-      "颜色",
-      "提取",
-      "图片"
+      "color",
+      "extraction",
+      "image"
     ]
   }
 }

@@ -16,7 +16,7 @@
     "category": [
       "network"
     ],
-    "description": "Hosts Editor",
+    "description": "Hosts Editor is a powerful tool that allows users to edit the /etc/hosts file on their computer, which is responsible for mapping domain names to IP addresses. With this tool, users can easily add, remove, or modify DNS records for their local machine, including the popular localhost, 127.x.x.x, 192.x.x.x, and 168.x.x.x IP addresses.",
     "keywords": [
       "hosts",
       "editor",

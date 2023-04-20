@@ -16,7 +16,7 @@
     "category": [
       "network"
     ],
-    "description": "Network ports references",
+    "description": "The Port Cheatsheet is a comprehensive reference tool that provides a list of commonly used network ports, their associated protocols (TCP or UDP), and their respective services. It serves as a quick and easy reference guide for network administrators and security professionals to identify and troubleshoot network connectivity issues.",
     "keywords": [
       "port",
       "cheat",
