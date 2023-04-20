@@ -1,86 +1,79 @@
 {
-  "zh": {
-    "$name": "抽奖",
-    "$description": "抽奖",
+  "zh-cn": {
+    "$name": "彩票",
+    "$description": "是一种游戏，玩家购买彩票，希望赢得奖品。中奖号码通常是随机抽取的，中奖的几率取决于具体的彩票游戏。",
     "$keywords": [
-      "抽奖"
+      "彩票"
     ]
   },
-  "en": {
-    "$name": "Lottery",
-    "$description": "Lottery",
+  "zh-tw": {
+    "$name": "彩票",
+    "$description": "是一種運氣遊戲，玩家購買彩票，希望贏得獎品。中獎號碼通常是隨機抽取的，中獎的機會取決於具體的彩票遊戲。",
     "$keywords": [
-      "lottery"
-    ]
-  },
-  "de": {
-    "$name": "Lotterie",
-    "$description": "Lotterie",
-    "$keywords": [
-      "Lotterie"
+      "彩票"
     ]
   },
   "es": {
-    "$name": "lotería",
-    "$description": "lotería",
+    "$name": "Lotería",
+    "$description": "es un juego de azar en el que los jugadores compran boletos con la esperanza de ganar un premio. Los números ganadores suelen ser elegidos al azar, y las probabilidades de ganar varían según el juego de lotería específico.",
     "$keywords": [
       "lotería"
     ]
   },
-  "fr": {
-    "$name": "loterie",
-    "$description": "loterie",
-    "$keywords": [
-      "loterie"
-    ]
-  },
-  "it": {
-    "$name": "lotteria",
-    "$description": "lotteria",
-    "$keywords": [
-      "lotteria"
-    ]
-  },
   "ja": {
     "$name": "宝くじ",
-    "$description": "宝くじ",
+    "$description": "は、プレイヤーが賞品を獲得することを望んでチケットを購入する運のゲームです。当選番号は通常ランダムに抽選され、当選の確率は特定の宝くじゲームによって異なります。",
     "$keywords": [
       "宝くじ"
     ]
   },
   "ko": {
-    "$name": "운",
-    "$description": "운",
+    "$name": "복권",
+    "$description": "은 상금을 희망하며 티켓을 구매하는 운빨 게임입니다. 당첨 번호는 일반적으로 무작위로 추첨되며, 당첨 확률은 특정 복권 게임에 따라 다릅니다.",
     "$keywords": [
-      "운"
+      "복권"
     ]
   },
-  "pt": {
-    "$name": "loteria",
-    "$description": "loteria",
+  "de": {
+    "$name": "Lotterie",
+    "$description": "ist ein Glücksspiel, bei dem Spieler Tickets kaufen, in der Hoffnung, einen Preis zu gewinnen. Die Gewinnzahlen werden in der Regel zufällig gezogen, und die Gewinnchancen variieren je nach spezifischem Lotteriespiel.",
     "$keywords": [
-      "loteria"
+      "Lotterie"
+    ]
+  },
+  "fr": {
+    "$name": "Loterie",
+    "$description": "est un jeu de hasard où les joueurs achètent des billets dans l'espoir de remporter un prix. Les numéros gagnants sont généralement tirés au sort et les chances de gagner varient en fonction du jeu de loterie spécifique.",
+    "$keywords": [
+      "loterie"
+    ]
+  },
+  "it": {
+    "$name": "Lotteria",
+    "$description": "è un gioco d'azzardo in cui i giocatori acquistano biglietti con la speranza di vincere un premio. I numeri vincenti vengono solitamente estratti a caso e le probabilità di vincita variano a seconda del gioco della lotteria specifico.",
+    "$keywords": [
+      "lotteria"
     ]
   },
   "ru": {
-    "$name": "лотерея",
-    "$description": "лотерея",
+    "$name": "Лотерея",
+    "$description": "это игра случая, в которой игроки покупают билеты в надежде выиграть приз. Выигрышные номера обычно выбираются случайным образом, и шансы на победу варьируются в зависимости от конкретной лотерейной игры.",
     "$keywords": [
       "лотерея"
     ]
   },
-  "zh-tw": {
-    "$name": "抽獎",
-    "$description": "抽獎",
+  "pt": {
+    "$name": "Loteria",
+    "$description": "é um jogo de azar em que os jogadores compram bilhetes na esperança de ganhar um prêmio. Os números vencedores são geralmente sorteados aleatoriamente, e as chances de ganhar variam dependendo do jogo de loteria específico.",
     "$keywords": [
-      "抽獎"
+      "loteria"
     ]
   },
-  "zh-cn": {
-    "$name": "抽奖",
-    "$description": "抽奖",
+  "en": {
+    "$name": "Lottery",
+    "$description": "is a game of chance where players purchase tickets with the hopes of winning a prize. The winning numbers are typically drawn at random, and the odds of winning vary depending on the specific lottery game.",
     "$keywords": [
-      "抽奖"
+      "lottery"
     ]
   }
 }

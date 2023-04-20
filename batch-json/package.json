@@ -17,7 +17,7 @@
       "category": [
         "json"
       ],
-      "description": "Properties To JSON",
+      "description": "Properties to JSON is a tool that allows users to convert properties files into JSON format, making it easier to transform and manipulate data. This tool simplifies the process of converting properties files to JSON, enabling users to quickly and efficiently transform their data.",
       "keywords": [
         "convert",
         "Properties",
@@ -39,7 +39,7 @@
       "category": [
         "json"
       ],
-      "description": "JSON To Properties",
+      "description": "JSON to Properties is a tool that allows users to easily convert JSON files into Properties files. This transformation enables users to work with JSON data in a more structured and organized manner, making it easier to manage and manipulate data.",
       "keywords": [
         "convert",
         "JSON",
@@ -55,7 +55,7 @@
       "name": "JSON to Go Struct",
       "id": "json-to-go-struct",
       "version": "1.0.1",
-      "description": "JSON To Go Struct",
+      "description": "JSON to Go Struct is a tool that allows users to easily convert JSON data into Go Struct format. This transformation enables developers to work with JSON data in a more structured and organized manner, making it easier to manipulate and analyze.",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -75,7 +75,7 @@
       "name": "JSON to Java Bean",
       "id": "json-to-java-bean",
       "version": "1.0.1",
-      "description": "JSON To JAVA Bean",
+      "description": "JSON to Java Bean is a tool that allows users to easily convert JSON data into Java objects, making it easier to work with and manipulate data in Java-based applications. This tool simplifies the process of transforming JSON data into Java Beans, saving developers time and effort.",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -103,7 +103,7 @@
         "yaml-to-python-class"
       ],
       "name": "JSON to Python Class",
-      "description": "JSON To Python Class",
+      "description": "JSON to Python Class is a tool that allows users to easily convert JSON data into Python classes. This transformation enables users to manipulate and work with the data in a more organized and efficient manner.",
       "keywords": [
         "convert",
         "JSON",
@@ -120,7 +120,7 @@
         "json"
       ],
       "name": "JSON to Zod Schema",
-      "description": "JSON To Zod Schema",
+      "description": "JSON to Zod Schema is a tool that allows users to easily convert JSON data into Zod Schema format. This transformation enables developers to validate and enforce data types and structures in their applications, ensuring data consistency and reducing errors.",
       "keywords": [
         "convert",
         "JSON",
@@ -143,7 +143,7 @@
         "yaml-to-ruby-module"
       ],
       "name": "JSON to Ruby Module",
-      "description": "JSON To Ruby Module",
+      "description": "JSON to Ruby Module is a tool that allows users to easily convert JSON data into a Ruby Module format. This transformation enables developers to work with JSON data in a more efficient and organized manner within their Ruby applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -163,7 +163,7 @@
         "yaml-to-rust-struct"
       ],
       "name": "JSON to Rust Struct",
-      "description": "JSON To Rust Struct",
+      "description": "JSON to Rust Struct is a tool that allows users to easily convert JSON data into Rust Struct format. This transformation enables developers to work with JSON data in Rust programming language, making it easier to manipulate and analyze data in their applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -183,7 +183,7 @@
         "yaml-to-dart-class"
       ],
       "name": "JSON to Dart Class",
-      "description": "JSON To Dart Class",
+      "description": "JSON to Dart Class is a tool that allows developers to easily convert JSON data into Dart classes. This transformation simplifies the process of working with JSON data in Dart-based applications, making it easier to manage and manipulate data structures.",
       "keywords": [
         "convert",
         "JSON",
@@ -203,7 +203,7 @@
         "yaml-to-c0-class"
       ],
       "name": "JSON to C# Class",
-      "description": "JSON To C# Class",
+      "description": "JSON to C# Class is a tool that allows users to easily convert JSON data into C# class objects. This transformation enables developers to work with JSON data in a more structured and organized manner, making it easier to manipulate and utilize in their applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -223,7 +223,7 @@
         "yaml-to-c00-struct"
       ],
       "name": "JSON to C++ Struct",
-      "description": "JSON To C++ Struct",
+      "description": "JSON to C++ Struct is a tool that allows users to easily convert JSON data into C++ Struct format. This transformation enables developers to efficiently work with JSON data in C++ programming language.",
       "keywords": [
         "convert",
         "JSON",
@@ -243,7 +243,7 @@
         "yaml-to-swift-struct"
       ],
       "name": "JSON to Swift Struct",
-      "description": "JSON To Swift Struct",
+      "description": "JSON to Swift Struct is a tool that allows developers to easily convert JSON data into Swift Structs, making it easier to work with and manipulate data in Swift-based applications. This tool simplifies the process of transforming JSON data into a format that can be easily integrated into Swift code, saving developers time and effort.",
       "keywords": [
         "convert",
         "JSON",
@@ -263,7 +263,7 @@
         "yaml-to-objective-c-interface"
       ],
       "name": "JSON to Objective-C Interface",
-      "description": "JSON To Objective-C Interface",
+      "description": "The JSON to Objective-C Interface tool is a software application that enables the conversion of JSON data into an Objective-C Interface format. This tool allows developers to easily transform JSON data into a format that can be used in Objective-C programming, making it easier to integrate data from various sources into their applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -283,7 +283,7 @@
         "yaml-to-haskell-module"
       ],
       "name": "JSON to Haskell Module",
-      "description": "JSON To Haskell Module",
+      "description": "JSON to Haskell Module is a tool that allows users to convert JSON data into a Haskell module. This transformation enables the user to work with the JSON data in a more structured and type-safe manner within the Haskell programming language.",
       "keywords": [
         "convert",
         "JSON",
@@ -303,7 +303,7 @@
         "yaml-to-pike-class"
       ],
       "name": "JSON to Pike Class",
-      "description": "JSON To Pike Class",
+      "description": "JSON to Pike Class is a tool that allows users to easily convert JSON data into Pike Class objects. This transformation enables developers to work with JSON data in a more structured and organized manner, making it easier to manipulate and utilize in their applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -323,7 +323,7 @@
         "yaml-to-elm-module"
       ],
       "name": "JSON to Elm Module",
-      "description": "JSON To Elm Module",
+      "description": "JSON to Elm Module is a tool that allows users to easily convert JSON data into Elm Module format. This transformation enables developers to seamlessly integrate JSON data into their Elm applications, making it easier to manage and manipulate data within the application.",
       "keywords": [
         "convert",
         "JSON",
@@ -343,7 +343,7 @@
         "yaml-to-crystal-class"
       ],
       "name": "JSON to Crystal Class",
-      "description": "JSON To Crystal Class",
+      "description": "JSON to Crystal Class is a tool that allows users to easily convert JSON data into Crystal Class format. This transformation enables developers to efficiently work with JSON data in their Crystal applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -363,7 +363,7 @@
         "yaml-to-json-schema"
       ],
       "name": "JSON to JSON Schema",
-      "description": "JSON To JSON Schema",
+      "description": "JSON to JSON Schema is a tool that allows users to convert JSON data into a JSON schema format. This transformation enables users to validate and ensure the consistency of their JSON data against a predefined schema.",
       "keywords": [
         "convert",
         "JSON",
@@ -383,7 +383,7 @@
         "yaml-to-kotlin-class"
       ],
       "name": "JSON to Kotlin Class",
-      "description": "JSON To Kotlin Class",
+      "description": "JSON to Kotlin Class is a tool that allows developers to easily convert JSON data into Kotlin classes. This transformation simplifies the process of working with JSON data in Kotlin, making it easier to manipulate and use in applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -403,7 +403,7 @@
         "toml-to-json"
       ],
       "name": "JSON to TOML",
-      "description": "JSON To TOML",
+      "description": "JSON to TOML is a tool that allows users to easily convert JSON files to TOML format. This transformation enables users to work with TOML files, which are more human-readable and easier to edit than JSON files.",
       "keywords": [
         "convert",
         "JSON",
@@ -423,7 +423,7 @@
         "yaml-to-xml"
       ],
       "name": "JSON to XML",
-      "description": "JSON To XML",
+      "description": "JSON to XML is a tool that allows users to easily convert JSON data into XML format. With this tool, users can transform their JSON data into a more structured and readable format, making it easier to analyze and manipulate.",
       "keywords": [
         "convert",
         "JSON",
@@ -443,7 +443,7 @@
         "yaml-to-pretty"
       ],
       "name": "JSON Formatting",
-      "description": "Format JSON code",
+      "description": "JSON Formatting is a tool that allows users to format their JSON code in a more readable and organized way. It can also validate the syntax of the JSON code to ensure it is properly structured.",
       "keywords": [
         "json",
         "beautify",
@@ -468,7 +468,7 @@
         "yaml-to-typescript-interface"
       ],
       "name": "JSON to TypeScript Interface",
-      "description": "JSON To TypeScript Interface",
+      "description": "The JSON to TypeScript Interface tool is a powerful tool that allows developers to easily convert JSON data into TypeScript interfaces. With this tool, developers can quickly transform their JSON data into a format that is compatible with TypeScript, making it easier to work with and manipulate in their code. The tool is designed to be simple and intuitive, allowing developers to quickly generate TypeScript interfaces from their JSON data with just a few clicks.",
       "keywords": [
         "convert",
         "JSON",
@@ -489,7 +489,7 @@
         "yaml-to-big-query-schema"
       ],
       "name": "JSON to Big Query Schema",
-      "description": "JSON To Big Query Schema",
+      "description": "JSON to Big Query Schema is a tool that allows users to easily convert JSON data into a Big Query Schema format. This transformation process enables users to efficiently store and analyze their JSON data in Big Query, a cloud-based data warehouse.",
       "keywords": [
         "convert",
         "JSON",
@@ -509,7 +509,7 @@
         "yaml-to-io-ts"
       ],
       "name": "JSON to IO-TS",
-      "description": "JSON To IO-TS",
+      "description": "JSON to IO-TS is a tool that allows developers to easily convert JSON data into TypeScript interfaces using the IO-TS library. This transformation simplifies the process of creating type-safe interfaces for JSON data, reducing the likelihood of errors and improving code quality.",
       "keywords": [
         "convert",
         "JSON",
@@ -529,7 +529,7 @@
         "yaml-to-scala"
       ],
       "name": "JSON to Scala",
-      "description": "JSON To Scala",
+      "description": "JSON to Scala is a tool that allows users to easily convert JSON data into Scala code. This transformation enables developers to work with JSON data in a more efficient and streamlined manner within their Scala applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -549,7 +549,7 @@
         "yaml-to-sarcastic"
       ],
       "name": "JSON to Sarcastic",
-      "description": "JSON To Sarcastic",
+      "description": "JSON to Sarcastic is a tool that allows users to easily convert JSON data into a sarcastic tone. This transformation can add a humorous twist to otherwise mundane data, making it more engaging and entertaining for readers.",
       "keywords": [
         "convert",
         "JSON",
@@ -569,7 +569,7 @@
         "yaml-to-generator"
       ],
       "name": "JSON Generator",
-      "description": "Generate JSON code",
+      "description": "JSON Generator is a web-based tool that allows users to easily generate JSON code by specifying the desired data structure and values. It simplifies the process of creating JSON objects, arrays, and nested structures, making it an essential tool for developers and data analysts.",
       "keywords": [
         "json",
         "generate",
@@ -588,7 +588,7 @@
         "yaml-to-json"
       ],
       "name": "JSON to YAML",
-      "description": "JSON To YAML",
+      "description": "JSON to YAML is a tool that allows users to easily convert JSON data into YAML format. This transformation enables users to manipulate and analyze data in a more readable and organized way, making it easier to work with and understand.",
       "keywords": [
         "convert",
         "JSON",
@@ -609,7 +609,7 @@
         "yaml-to-csv"
       ],
       "name": "JSON to CSV",
-      "description": "JSON To CSV",
+      "description": "JSON to CSV is a tool that allows users to easily convert JSON data into CSV format. With this tool, users can transform their JSON data into a more readable and organized format for analysis or sharing.",
       "keywords": [
         "convert",
         "JSON",
@@ -629,7 +629,7 @@
         "yaml-to-minify"
       ],
       "name": "JSON Compressor",
-      "description": "Minify JSON code",
+      "description": "JSON Compressor is a tool that helps to reduce the size of JSON code by removing unnecessary white spaces, line breaks, and comments. It uses minification, compression, and uglification techniques to make the code more compact and efficient.",
       "keywords": [
         "json",
         "minify",
@@ -649,7 +649,7 @@
         "yaml-to-php"
       ],
       "name": "JSON to PHP",
-      "description": "JSON To PHP",
+      "description": "JSON to PHP is a tool that allows users to easily convert JSON data into PHP code. This transformation enables developers to seamlessly integrate JSON data into their PHP applications.",
       "keywords": [
         "convert",
         "JSON",
@@ -667,7 +667,7 @@
       "category": [
         "json"
       ],
-      "description": "JSON To SQL Schema",
+      "description": "JSON to SQL Schema is a tool that allows users to easily convert JSON data into SQL schema format. With this tool, users can transform their JSON data into a structured SQL database, making it easier to manage and analyze their data.",
       "keywords": [
         "convert",
         "JSON",

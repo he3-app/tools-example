@@ -11,7 +11,7 @@
     "id": "color-picker",
     "icon": "pie-chart-outlined",
     "version": "1.0.2",
-    "description": "color picker",
+    "description": "The Color Picker tool is a digital tool that allows users to select and identify specific colors from an image or color palette. It is commonly used in graphic design, web development, and digital art to ensure color accuracy and consistency.",
     "isPublic": true,
     "category": [
       "color"

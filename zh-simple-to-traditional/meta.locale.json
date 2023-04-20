@@ -1,0 +1,101 @@
+{
+  "zh-cn": {
+    "$name": "简体中文转繁体中文",
+    "$description": "简体中文转繁体中文工具是一种语言转换工具，允许用户将简体中文文本转换为繁体中文字符。该工具特别适用于需要与使用繁体中文字符的个人进行交流的个人，例如台湾或香港的个人。",
+    "$keywords": [
+      "中文",
+      "简体",
+      "繁体"
+    ]
+  },
+  "zh-tw": {
+    "$name": "簡體中文轉繁體中文",
+    "$description": "簡體中文轉繁體中文工具是一種語言轉換工具，允許用戶將簡體字寫成的中文文本轉換為繁體字。此工具對於需要與使用繁體中文字符的人進行交流的個人特別有用，例如臺灣或香港的人。",
+    "$keywords": [
+      "中文",
+      "簡體",
+      "繁體"
+    ]
+  },
+  "es": {
+    "$name": "Chino Simplificado a Tradicional",
+    "$description": "La herramienta de Chino Simplificado a Tradicional es una herramienta de conversión de idioma que permite a los usuarios convertir texto chino escrito de caracteres simplificados a caracteres tradicionales. Esta herramienta es particularmente útil para personas que necesitan comunicarse con personas que usan caracteres chinos tradicionales, como las de Taiwán o Hong Kong.",
+    "$keywords": [
+      "chino",
+      "simplificado",
+      "tradicional"
+    ]
+  },
+  "ja": {
+    "$name": "簡体字から繁体字への変換ツール",
+    "$description": "簡体字から繁体字への変換ツールは、ユーザーが書かれた中国語のテキストを簡体字から繁体字に変換することができる言語変換ツールです。このツールは、台湾や香港などの繁体字を使用する人々とコミュニケーションを取る必要がある個人に特に役立ちます。",
+    "$keywords": [
+      "中国語",
+      "簡体字",
+      "繁体字"
+    ]
+  },
+  "ko": {
+    "$name": "중국어 간체자-번체자 변환기",
+    "$description": "중국어 간체자-번체자 변환기는 사용자가 간체자로 작성된 중국어 텍스트를 번체자로 변환할 수 있는 언어 변환 도구입니다. 이 도구는 대만이나 홍콩 등 번체자를 사용하는 사람들과 소통해야 하는 개인에게 특히 유용합니다.",
+    "$keywords": [
+      "중국어",
+      "간체자",
+      "번체자"
+    ]
+  },
+  "de": {
+    "$name": "Vereinfachtes Chinesisch zu Traditionellem Chinesisch",
+    "$description": "Das Vereinfachtes Chinesisch zu Traditionellem Chinesisch Tool ist ein Sprachkonvertierungstool, das Benutzern ermöglicht, geschriebenen chinesischen Text von vereinfachten Schriftzeichen in traditionelle Schriftzeichen umzuwandeln. Dieses Tool ist besonders nützlich für Personen, die mit Personen kommunizieren müssen, die traditionelle chinesische Schriftzeichen verwenden, wie zum Beispiel in Taiwan oder Hongkong.",
+    "$keywords": [
+      "chinesisch",
+      "vereinfacht",
+      "traditionell"
+    ]
+  },
+  "fr": {
+    "$name": "Chinois simplifié vers traditionnel",
+    "$description": "L'outil de conversion de chinois simplifié en traditionnel est un outil de conversion de langue qui permet aux utilisateurs de convertir du texte chinois écrit en caractères simplifiés en caractères traditionnels. Cet outil est particulièrement utile pour les personnes qui ont besoin de communiquer avec des personnes qui utilisent des caractères chinois traditionnels, comme celles de Taiwan ou de Hong Kong.",
+    "$keywords": [
+      "chinois",
+      "simplifié",
+      "traditionnel"
+    ]
+  },
+  "it": {
+    "$name": "Cinese semplificato a tradizionale",
+    "$description": "Lo strumento Cinese semplificato a tradizionale è uno strumento di conversione linguistica che consente agli utenti di convertire il testo cinese scritto da caratteri semplificati a caratteri tradizionali. Questo strumento è particolarmente utile per le persone che devono comunicare con individui che utilizzano caratteri cinesi tradizionali, come quelli a Taiwan o Hong Kong.",
+    "$keywords": [
+      "cinese",
+      "semplificato",
+      "tradizionale"
+    ]
+  },
+  "ru": {
+    "$name": "Упрощенный китайский в традиционный",
+    "$description": "Упрощенный китайский в традиционный - это инструмент для конвертации языка, который позволяет пользователям конвертировать письменный китайский текст из упрощенных символов в традиционные символы. Этот инструмент особенно полезен для людей, которые должны общаться с людьми, использующими традиционные китайские символы, таких как Тайвань или Гонконг.",
+    "$keywords": [
+      "китайский",
+      "упрощенный",
+      "традиционный"
+    ]
+  },
+  "pt": {
+    "$name": "Simplificado Chinês para Tradicional",
+    "$description": "A ferramenta Simplificado Chinês para Tradicional é uma ferramenta de conversão de idioma que permite aos usuários converter texto chinês escrito de caracteres simplificados para caracteres tradicionais. Esta ferramenta é particularmente útil para pessoas que precisam se comunicar com pessoas que usam caracteres chineses tradicionais, como as de Taiwan ou Hong Kong.",
+    "$keywords": [
+      "chinês",
+      "simplificado",
+      "tradicional"
+    ]
+  },
+  "en": {
+    "$name": "Chinese Simplified to Traditional",
+    "$description": "The Chinese Simplified to Traditional tool is a language conversion tool that allows users to convert written Chinese text from simplified characters to traditional characters. This tool is particularly useful for individuals who need to communicate with individuals who use traditional Chinese characters, such as those in Taiwan or Hong Kong.",
+    "$keywords": [
+      "chinese",
+      "simplified",
+      "traditional"
+    ]
+  }
+}

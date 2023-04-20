@@ -1,18 +1,7 @@
 {
-  "en": {
-    "$name": "CSS Grid Generator",
-    "$description": "CSS Grid layout preview and generate",
-    "$keywords": [
-      "grid",
-      "layout",
-      "css",
-      "preview",
-      "generate"
-    ]
-  },
   "zh-cn": {
-    "$name": "CSS Grid 生成器",
-    "$description": "预览和生成 CSS Grid 布局",
+    "$name": "CSS Grid生成器",
+    "$description": "CSS Grid生成器是一个基于Web的工具，允许用户轻松预览和生成CSS网格布局。它提供了一个用户友好的界面，用于创建自定义网格结构和生成相应的CSS代码，使其成为Web设计师和开发人员的必备工具。",
     "$keywords": [
       "网格",
       "布局",
@@ -22,74 +11,30 @@
     ]
   },
   "zh-tw": {
-    "$name": "CSS Grid 生成器",
-    "$description": "預覽和生成 CSS Grid 佈局",
+    "$name": "CSS Grid 產生器",
+    "$description": "CSS Grid 產生器是一個基於網頁的工具，讓使用者可以輕鬆預覽和產生 CSS Grid 佈局。它提供了一個使用者友好的介面，用於創建自定義的網格結構和生成相應的 CSS 代碼，使其成為網頁設計師和開發人員的必備工具。",
     "$keywords": [
       "網格",
       "佈局",
       "CSS",
       "預覽",
-      "生成"
-    ]
-  },
-  "de": {
-    "$name": "CSS-Grid-Generator",
-    "$description": "Vorschau und Generierung des CSS-Rasterlayouts",
-    "$keywords": [
-      "Netz",
-      "Layout",
-      "css",
-      "Vorschau",
-      "generieren"
-    ]
-  },
-  "fr": {
-    "$name": "Générateur de grille CSS",
-    "$description": "Aperçu et génération de la disposition de la grille CSS",
-    "$keywords": [
-      "grille",
-      "mise en page",
-      "CSS",
-      "Aperçu",
-      "générer"
-    ]
-  },
-  "ko": {
-    "$name": "CSS 그리드 생성기",
-    "$description": "CSS 그리드 레이아웃 미리보기 및 생성",
-    "$keywords": [
-      "그리드",
-      "공들여 나열한 것",
-      "CSS",
-      "시사",
-      "생성하다"
+      "產生"
     ]
   },
   "es": {
-    "$name": "Generador de cuadrícula CSS",
-    "$description": "Vista previa y generación del diseño de cuadrícula CSS",
+    "$name": "Generador de Cuadrícula CSS",
+    "$description": "Generador de Cuadrícula CSS es una herramienta basada en la web que permite a los usuarios previsualizar y generar diseños de cuadrícula CSS con facilidad. Proporciona una interfaz amigable para crear estructuras de cuadrícula personalizadas y generar el código CSS correspondiente, convirtiéndose en una herramienta esencial para diseñadores y desarrolladores web.",
     "$keywords": [
-      "red",
-      "disposición",
-      "CSS",
-      "avance",
+      "cuadrícula",
+      "diseño",
+      "css",
+      "previsualización",
       "generar"
     ]
   },
-  "pt": {
-    "$name": "Gerador de grade CSS",
-    "$description": "Pré-visualização e geração do layout CSS Grid",
-    "$keywords": [
-      "grade",
-      "disposição",
-      "CSS",
-      "visualizar",
-      "gerar"
-    ]
-  },
   "ja": {
-    "$name": "CSS グリッド ジェネレーター",
-    "$description": "CSS グリッド レイアウトのプレビューと生成",
+    "$name": "CSS Grid Generator",
+    "$description": "CSS Grid Generatorは、ユーザーが簡単にCSSグリッドレイアウトをプレビューして生成できるWebベースのツールです。カスタムグリッド構造を作成し、対応するCSSコードを生成するためのユーザーフレンドリーなインターフェイスを提供し、Webデザイナーや開発者にとって必須のツールです。",
     "$keywords": [
       "グリッド",
       "レイアウト",
@@ -98,26 +43,81 @@
       "生成"
     ]
   },
+  "ko": {
+    "$name": "CSS Grid Generator",
+    "$description": "CSS Grid Generator는 사용자가 쉽게 CSS 그리드 레이아웃을 미리보고 생성할 수 있는 웹 기반 도구입니다. 사용자 정의 그리드 구조를 만들고 해당하는 CSS 코드를 생성하는 데 사용자 친화적인 인터페이스를 제공하여 웹 디자이너와 개발자에게 필수적인 도구입니다.",
+    "$keywords": [
+      "그리드",
+      "레이아웃",
+      "CSS",
+      "미리보기",
+      "생성"
+    ]
+  },
+  "de": {
+    "$name": "CSS Grid Generator",
+    "$description": "CSS Grid Generator ist ein webbasiertes Tool, mit dem Benutzer CSS-Rasterlayouts einfach anzeigen und generieren können. Es bietet eine benutzerfreundliche Oberfläche zur Erstellung benutzerdefinierter Rasterstrukturen und zur Generierung entsprechender CSS-Codes, was es zu einem unverzichtbaren Werkzeug für Webdesigner und Entwickler macht.",
+    "$keywords": [
+      "Raster",
+      "Layout",
+      "CSS",
+      "Vorschau",
+      "Generieren"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de grille CSS",
+    "$description": "Le générateur de grille CSS est un outil en ligne qui permet aux utilisateurs de prévisualiser et de générer facilement des mises en page de grille CSS. Il offre une interface conviviale pour créer des structures de grille personnalisées et générer le code CSS correspondant, ce qui en fait un outil essentiel pour les concepteurs et les développeurs web.",
+    "$keywords": [
+      "grille",
+      "mise en page",
+      "css",
+      "prévisualisation",
+      "générer"
+    ]
+  },
   "it": {
-    "$name": "Generatore di griglia CSS",
-    "$description": "Anteprima e generazione del layout della griglia CSS",
+    "$name": "Generatore di griglie CSS",
+    "$description": "Il Generatore di griglie CSS è uno strumento basato sul web che consente agli utenti di visualizzare e generare facilmente layout di griglie CSS. Fornisce un'interfaccia utente intuitiva per la creazione di strutture di griglie personalizzate e la generazione del codice CSS corrispondente, rendendolo uno strumento essenziale per i web designer e gli sviluppatori.",
     "$keywords": [
       "griglia",
-      "disposizione",
+      "layout",
       "css",
       "anteprima",
-      "creare"
+      "generare"
     ]
   },
   "ru": {
-    "$name": "Генератор сетки CSS",
-    "$description": "Предварительный просмотр и создание макета CSS Grid",
+    "$name": "Генератор CSS-сетки",
+    "$description": "Генератор CSS-сетки - это веб-инструмент, который позволяет пользователям предварительно просматривать и создавать макеты CSS-сетки с легкостью. Он предоставляет пользовательский интерфейс для создания настраиваемых сеточных структур и генерации соответствующего CSS-кода, что делает его необходимым инструментом для веб-дизайнеров и разработчиков.",
     "$keywords": [
       "сетка",
       "макет",
       "css",
       "предварительный просмотр",
-      "генерировать"
+      "генерация"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de Grade CSS",
+    "$description": "O Gerador de Grade CSS é uma ferramenta baseada na web que permite aos usuários visualizar e gerar layouts de grade CSS com facilidade. Ele fornece uma interface amigável para criar estruturas de grade personalizadas e gerar o código CSS correspondente, tornando-se uma ferramenta essencial para designers e desenvolvedores da web.",
+    "$keywords": [
+      "grade",
+      "layout",
+      "css",
+      "visualização",
+      "gerar"
+    ]
+  },
+  "en": {
+    "$name": "CSS Grid Generator",
+    "$description": "CSS Grid Generator is a web-based tool that allows users to preview and generate CSS grid layouts with ease. It provides a user-friendly interface for creating custom grid structures and generating corresponding CSS code, making it an essential tool for web designers and developers.",
+    "$keywords": [
+      "grid",
+      "layout",
+      "css",
+      "preview",
+      "generate"
     ]
   }
 }

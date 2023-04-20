@@ -1,118 +1,189 @@
 {
-    "zh": {
-      "$name": "Hosts Editor",
-      "$description": "Hosts 编辑器",
-      "$keywords": [
-        "编辑",
-        "切换",
-        "域名"
-      ]
-    },
-    "en": {
-      "$name": "Hosts Editor",
-      "$description": "Hosts Editor",
-      "$keywords": [
-        "hosts",
-        "editor",
-        "/etc/hosts",
-        "dns",
-        "record",
-        "localhost",
-        "127",
-        "192",
-        "168",
-        "domain",
-        "ip"
-      ]
-    },
-    "de": {
-      "$name": "Hosts Editor",
-      "$description": "Hosts Editor",
-      "$keywords": [
-        "bearbeiten",
-        "Schalten",
-        "Domain -Name"
-      ]
-    },
-    "es": {
-      "$name": "Hosts Editor",
-      "$description": "Editor de anfitriones",
-      "$keywords": [
-        "editar",
-        "Cambiar",
-        "nombre de dominio"
-      ]
-    },
-    "fr": {
-      "$name": "Hosts Editor",
-      "$description": "Éditeur d'hôtes",
-      "$keywords": [
-        "modifier",
-        "Changer",
-        "nom de domaine"
-      ]
-    },
-    "it": {
-      "$name": "Hosts Editor",
-      "$description": "Editor di host",
-      "$keywords": [
-        "modificare",
-        "Interruttore",
-        "nome del dominio"
-      ]
-    },
-    "ja": {
-      "$name": "Hosts Editor",
-      "$description": "ホストエディター",
-      "$keywords": [
-        "編集",
-        "スイッチ",
-        "ドメイン名"
-      ]
-    },
-    "ko": {
-      "$name": "Hosts Editor",
-      "$description": "호스트 편집기",
-      "$keywords": [
-        "편집하다",
-        "스위치",
-        "도메인 이름"
-      ]
-    },
-    "pt": {
-      "$name": "Hosts Editor",
-      "$description": "Editor de anfitriões",
-      "$keywords": [
-        "editar",
-        "Trocar",
-        "nome do domínio"
-      ]
-    },
-    "ru": {
-      "$name": "Hosts Editor",
-      "$description": "Хозяева редактора",
-      "$keywords": [
-        "редактировать",
-        "Выключатель",
-        "доменное имя"
-      ]
-    },
-    "zh-tw": {
-      "$name": "Hosts Editor",
-      "$description": "Hosts 編輯器",
-      "$keywords": [
-        "編輯",
-        "切換",
-        "域名"
-      ]
-    },
-    "zh-cn": {
-      "$name": "Hosts Editor",
-      "$description": "Hosts 编辑器",
-      "$keywords": [
-        "编辑",
-        "切换",
-        "域名"
-      ]
-    }
+  "zh-cn": {
+    "$name": "Hosts编辑器",
+    "$description": "Hosts编辑器是一款强大的工具，允许用户编辑计算机上的/etc/hosts文件，该文件负责将域名映射到IP地址。使用此工具，用户可以轻松添加、删除或修改本地机器的DNS记录，包括流行的localhost、127.x.x.x、192.x.x.x和168.x.x.x IP地址。",
+    "$keywords": [
+      "hosts",
+      "editor",
+      "/etc/hosts",
+      "dns",
+      "record",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "domain",
+      "ip"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Hosts 編輯器",
+    "$description": "Hosts 編輯器是一個強大的工具，允許用戶編輯其電腦上的 /etc/hosts 文件，該文件負責將域名映射到 IP 地址。使用此工具，用戶可以輕鬆添加、刪除或修改其本地機器的 DNS 記錄，包括流行的 localhost、127.x.x.x、192.x.x.x 和 168.x.x.x IP 地址。",
+    "$keywords": [
+      "hosts",
+      "editor",
+      "/etc/hosts",
+      "dns",
+      "record",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "domain",
+      "ip"
+    ]
+  },
+  "es": {
+    "$name": "Editor de Hosts",
+    "$description": "El Editor de Hosts es una herramienta poderosa que permite a los usuarios editar el archivo /etc/hosts en su computadora, el cual es responsable de mapear nombres de dominio a direcciones IP. Con esta herramienta, los usuarios pueden fácilmente agregar, eliminar o modificar registros DNS para su máquina local, incluyendo los populares localhost, 127.x.x.x, 192.x.x.x y 168.x.x.x direcciones IP.",
+    "$keywords": [
+      "hosts",
+      "editor",
+      "/etc/hosts",
+      "dns",
+      "registro",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "dominio",
+      "ip"
+    ]
+  },
+  "ja": {
+    "$name": "ホストエディター",
+    "$description": "ホストエディターは、コンピューター上の/etc/hostsファイルを編集することができる強力なツールで、ドメイン名をIPアドレスにマッピングする責任があります。このツールを使用すると、ユーザーはローカルマシン用のDNSレコード、人気のあるlocalhost、127.x.x.x、192.x.x.x、および168.x.x.x IPアドレスを含め、簡単に追加、削除、または変更できます。",
+    "$keywords": [
+      "ホスト",
+      "エディター",
+      "/etc/hosts",
+      "DNS",
+      "レコード",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "ドメイン",
+      "IP"
+    ]
+  },
+  "ko": {
+    "$name": "호스트 편집기",
+    "$description": "호스트 편집기는 사용자가 컴퓨터의 /etc/hosts 파일을 편집할 수 있는 강력한 도구로, 이 파일은 도메인 이름을 IP 주소로 매핑하는 역할을 합니다. 이 도구를 사용하면 사용자는 로컬 머신을 위한 DNS 레코드를 쉽게 추가, 제거 또는 수정할 수 있으며, 이에는 인기 있는 localhost, 127.x.x.x, 192.x.x.x 및 168.x.x.x IP 주소가 포함됩니다.",
+    "$keywords": [
+      "호스트",
+      "편집기",
+      "/etc/hosts",
+      "dns",
+      "레코드",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "도메인",
+      "ip"
+    ]
+  },
+  "de": {
+    "$name": "Hosts Editor",
+    "$description": "Hosts Editor ist ein leistungsstarkes Tool, mit dem Benutzer die /etc/hosts-Datei auf ihrem Computer bearbeiten können, die für die Zuordnung von Domänennamen zu IP-Adressen verantwortlich ist. Mit diesem Tool können Benutzer DNS-Einträge für ihre lokale Maschine einfach hinzufügen, entfernen oder ändern, einschließlich der beliebten localhost-, 127.x.x.x-, 192.x.x.x- und 168.x.x.x-IP-Adressen.",
+    "$keywords": [
+      "hosts",
+      "editor",
+      "/etc/hosts",
+      "dns",
+      "record",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "domain",
+      "ip"
+    ]
+  },
+  "fr": {
+    "$name": "Éditeur de fichiers hosts",
+    "$description": "L'éditeur de fichiers hosts est un outil puissant qui permet aux utilisateurs de modifier le fichier /etc/hosts sur leur ordinateur, qui est responsable de la mise en correspondance des noms de domaine avec les adresses IP. Avec cet outil, les utilisateurs peuvent facilement ajouter, supprimer ou modifier des enregistrements DNS pour leur machine locale, y compris les adresses IP populaires localhost, 127.x.x.x, 192.x.x.x et 168.x.x.x.",
+    "$keywords": [
+      "hosts",
+      "éditeur",
+      "/etc/hosts",
+      "dns",
+      "enregistrement",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "domaine",
+      "ip"
+    ]
+  },
+  "it": {
+    "$name": "Editor di Hosts",
+    "$description": "L'Editor di Hosts è uno strumento potente che consente agli utenti di modificare il file /etc/hosts sul proprio computer, che è responsabile della mappatura dei nomi di dominio agli indirizzi IP. Con questo strumento, gli utenti possono facilmente aggiungere, rimuovere o modificare i record DNS per la propria macchina locale, inclusi i popolari indirizzi IP localhost, 127.x.x.x, 192.x.x.x e 168.x.x.x.",
+    "$keywords": [
+      "hosts",
+      "editor",
+      "/etc/hosts",
+      "dns",
+      "record",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "dominio",
+      "ip"
+    ]
+  },
+  "ru": {
+    "$name": "Редактор хостов",
+    "$description": "Редактор хостов - мощный инструмент, который позволяет пользователям редактировать файл /etc/hosts на своем компьютере, который отвечает за отображение доменных имен на IP-адреса. С помощью этого инструмента пользователи могут легко добавлять, удалять или изменять DNS-записи для своей локальной машины, включая популярные локальный хост, 127.x.x.x, 192.x.x.x и 168.x.x.x IP-адреса.",
+    "$keywords": [
+      "хосты",
+      "редактор",
+      "/etc/hosts",
+      "dns",
+      "запись",
+      "локальный хост",
+      "127",
+      "192",
+      "168",
+      "домен",
+      "ip"
+    ]
+  },
+  "pt": {
+    "$name": "Editor de Hosts",
+    "$description": "O Editor de Hosts é uma ferramenta poderosa que permite aos usuários editar o arquivo /etc/hosts em seu computador, que é responsável por mapear nomes de domínio para endereços IP. Com esta ferramenta, os usuários podem facilmente adicionar, remover ou modificar registros DNS para sua máquina local, incluindo os populares endereços IP localhost, 127.x.x.x, 192.x.x.x e 168.x.x.x.",
+    "$keywords": [
+      "hosts",
+      "editor",
+      "/etc/hosts",
+      "dns",
+      "registro",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "domínio",
+      "ip"
+    ]
+  },
+  "en": {
+    "$name": "Hosts Editor",
+    "$description": "Hosts Editor is a powerful tool that allows users to edit the /etc/hosts file on their computer, which is responsible for mapping domain names to IP addresses. With this tool, users can easily add, remove, or modify DNS records for their local machine, including the popular localhost, 127.x.x.x, 192.x.x.x, and 168.x.x.x IP addresses.",
+    "$keywords": [
+      "hosts",
+      "editor",
+      "/etc/hosts",
+      "dns",
+      "record",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "domain",
+      "ip"
+    ]
   }
+}

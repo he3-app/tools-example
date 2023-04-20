@@ -1,18 +1,125 @@
 {
-  "zh": {
-    "$name": "端口清单",
-    "$description": "网络端口信息参考",
+  "zh-cn": {
+    "$name": "端口速查表",
+    "$description": "端口速查表是一款综合参考工具，提供常用网络端口列表、它们所使用的协议（TCP或UDP）以及它们各自的服务。它作为网络管理员和安全专业人员快速易用的参考指南，用于识别和解决网络连接问题。",
     "$keywords": [
       "端口",
-      "网络",
-      "参考",
-      "查询",
-      "说明"
+      "速查表",
+      "TCP",
+      "UDP",
+      "网络"
+    ]
+  },
+  "zh-tw": {
+    "$name": "連接埠速查表",
+    "$description": "連接埠速查表是一個全面的參考工具，提供常用網路連接埠列表、相關協定（TCP 或 UDP）及其相應服務。它是網路管理員和安全專業人員快速參考指南，用於識別和解決網路連通性問題。",
+    "$keywords": [
+      "連接埠",
+      "速查表",
+      "TCP",
+      "UDP",
+      "網路"
+    ]
+  },
+  "es": {
+    "$name": "Port Cheatsheet",
+    "$description": "La Port Cheatsheet es una herramienta de referencia completa que proporciona una lista de puertos de red comúnmente utilizados, sus protocolos asociados (TCP o UDP) y sus respectivos servicios. Sirve como una guía de referencia rápida y fácil para los administradores de red y profesionales de seguridad para identificar y solucionar problemas de conectividad de red.",
+    "$keywords": [
+      "puerto",
+      "trampa",
+      "hoja",
+      "tcp",
+      "udp",
+      "red"
+    ]
+  },
+  "ja": {
+    "$name": "ポートチートシート",
+    "$description": "ポートチートシートは、一般的に使用されるネットワークポート、それらに関連するプロトコル（TCPまたはUDP）、およびそれらの各サービスのリストを提供する包括的な参照ツールです。ネットワーク管理者やセキュリティ専門家がネットワーク接続の問題を特定し、トラブルシューティングするための迅速で簡単な参考ガイドとして機能します。",
+    "$keywords": [
+      "ポート",
+      "チート",
+      "シート",
+      "TCP",
+      "UDP",
+      "ネットワーク"
+    ]
+  },
+  "ko": {
+    "$name": "포트 치트시트",
+    "$description": "포트 치트시트는 일반적으로 사용되는 네트워크 포트, 해당 프로토콜(TCP 또는 UDP) 및 해당 서비스 목록을 제공하는 종합적인 참조 도구입니다. 네트워크 관리자 및 보안 전문가가 네트워크 연결 문제를 식별하고 해결하기 위한 빠르고 쉬운 참조 가이드로 사용됩니다.",
+    "$keywords": [
+      "포트",
+      "치트",
+      "시트",
+      "TCP",
+      "UDP",
+      "네트워크"
+    ]
+  },
+  "de": {
+    "$name": "Port Cheatsheet",
+    "$description": "Das Port Cheatsheet ist ein umfassendes Referenzwerkzeug, das eine Liste der häufig verwendeten Netzwerkports, ihrer zugehörigen Protokolle (TCP oder UDP) und ihrer jeweiligen Dienste bereitstellt. Es dient als schneller und einfacher Referenzleitfaden für Netzwerkadministratoren und Sicherheitsfachleute, um Netzwerkverbindungsprobleme zu identifizieren und zu beheben.",
+    "$keywords": [
+      "Port",
+      "Cheat",
+      "Sheet",
+      "TCP",
+      "UDP",
+      "Netzwerk"
+    ]
+  },
+  "fr": {
+    "$name": "Port Cheatsheet",
+    "$description": "Le Port Cheatsheet est un outil de référence complet qui fournit une liste des ports réseau couramment utilisés, leurs protocoles associés (TCP ou UDP) et leurs services respectifs. Il sert de guide de référence rapide et facile pour les administrateurs réseau et les professionnels de la sécurité pour identifier et résoudre les problèmes de connectivité réseau.",
+    "$keywords": [
+      "port",
+      "triche",
+      "feuille",
+      "tcp",
+      "udp",
+      "réseau"
+    ]
+  },
+  "it": {
+    "$name": "Port Cheatsheet",
+    "$description": "Il Port Cheatsheet è uno strumento di riferimento completo che fornisce un elenco delle porte di rete comunemente utilizzate, i loro protocolli associati (TCP o UDP) e i rispettivi servizi. Serve come guida di riferimento rapida e facile per gli amministratori di rete e i professionisti della sicurezza per identificare e risolvere i problemi di connettività di rete.",
+    "$keywords": [
+      "porta",
+      "imbroglio",
+      "foglio",
+      "tcp",
+      "udp",
+      "rete"
+    ]
+  },
+  "ru": {
+    "$name": "Шпаргалка по портам",
+    "$description": "Шпаргалка по портам - это всесторонний справочный инструмент, который предоставляет список часто используемых сетевых портов, их соответствующих протоколов (TCP или UDP) и соответствующих служб. Он служит в качестве быстрого и простого справочного руководства для сетевых администраторов и специалистов по безопасности для идентификации и устранения проблем с сетевым подключением.",
+    "$keywords": [
+      "порт",
+      "шпаргалка",
+      "лист",
+      "TCP",
+      "UDP",
+      "сеть"
+    ]
+  },
+  "pt": {
+    "$name": "Port Cheatsheet",
+    "$description": "O Port Cheatsheet é uma ferramenta de referência abrangente que fornece uma lista de portas de rede comumente usadas, seus protocolos associados (TCP ou UDP) e seus respectivos serviços. Ele serve como um guia de referência rápido e fácil para administradores de rede e profissionais de segurança identificarem e solucionarem problemas de conectividade de rede.",
+    "$keywords": [
+      "porta",
+      "trapaça",
+      "folha",
+      "tcp",
+      "udp",
+      "rede"
     ]
   },
   "en": {
-    "$name": "Ports Cheatsheet",
-    "$description": "Network ports references",
+    "$name": "Port Cheatsheet",
+    "$description": "The Port Cheatsheet is a comprehensive reference tool that provides a list of commonly used network ports, their associated protocols (TCP or UDP), and their respective services. It serves as a quick and easy reference guide for network administrators and security professionals to identify and troubleshoot network connectivity issues.",
     "$keywords": [
       "port",
       "cheat",
@@ -20,116 +127,6 @@
       "tcp",
       "udp",
       "network"
-    ]
-  },
-  "de": {
-    "$name": "Portliste",
-    "$description": "Referenz für Netzwerkportinformationen",
-    "$keywords": [
-      "Hafen",
-      "Netzwerk",
-      "beziehen auf",
-      "Anfragen",
-      "veranschaulichen"
-    ]
-  },
-  "es": {
-    "$name": "Lista de puertos",
-    "$description": "Referencia de información del puerto de red",
-    "$keywords": [
-      "puerto",
-      "red",
-      "Referirse a",
-      "Preguntar",
-      "ilustrar"
-    ]
-  },
-  "fr": {
-    "$name": "Liste de ports",
-    "$description": "Référence des informations du port réseau",
-    "$keywords": [
-      "port",
-      "réseau",
-      "faire référence à",
-      "Renseigner",
-      "illustrer"
-    ]
-  },
-  "it": {
-    "$name": "Elenco delle porte",
-    "$description": "Riferimento informazioni sulla porta di rete",
-    "$keywords": [
-      "porta",
-      "rete",
-      "fare riferimento a",
-      "Chiedere informazioni",
-      "illustrare"
-    ]
-  },
-  "ja": {
-    "$name": "ポートリスト",
-    "$description": "ネットワークポート情報リファレンス",
-    "$keywords": [
-      "ポート",
-      "通信網",
-      "参照する",
-      "お問い合わせください",
-      "説明します"
-    ]
-  },
-  "ko": {
-    "$name": "포트 목록",
-    "$description": "네트워크 포트 정보 참조",
-    "$keywords": [
-      "포트",
-      "회로망",
-      "인용하다",
-      "문의",
-      "설명"
-    ]
-  },
-  "pt": {
-    "$name": "Lista de portas",
-    "$description": "Referência de informações da porta de rede",
-    "$keywords": [
-      "porta",
-      "rede",
-      "referir-se",
-      "Investigar",
-      "ilustrar"
-    ]
-  },
-  "ru": {
-    "$name": "Список портов",
-    "$description": "Справочная информация о сетевом порте",
-    "$keywords": [
-      "порт",
-      "сеть",
-      "Ссылаться на",
-      "Запросить",
-      "иллюстрировать"
-    ]
-  },
-  "zh-tw": {
-    "$name": "端口清單",
-    "$description": "網絡端口信息參考",
-    "$keywords": [
-      "端口",
-      "網絡",
-      "參考",
-      "查詢",
-      "說明"
-    ]
-  },
-  "zh-cn": {
-    "$name": "端口清单",
-    "$description": "网络端口信息参考",
-    "$keywords": [
-      "端口",
-      "网络",
-      "参考",
-      "查询",
-      "说明"
     ]
   }
 }

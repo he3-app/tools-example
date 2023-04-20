@@ -1,111 +1,112 @@
 {
-    "zh": {
-        "$name": "正则编辑器",
-        "$description": "编辑并测试正则表达式,支持Javascript",
-        "$keywords": [
-            "正则",
-            "表达式",
-            "测试"
-        ]
-    },
-    "en": {
-        "$name": "Regex Tester",
-        "$description": "Edit and test regex,support Javascript",
-        "$keywords": [
-            "regex",
-            "test",
-            "js",
-            "javascript"
-        ]
-    },
-    "de": {
-        "$name": "Regulärer Herausgeber",
-        "$description": "Bearbeiten und testen Sie den regulären Ausdruck, unterstützen Sie JavaScript",
-        "$keywords": [
-            "Regulär",
-            "Ausdruck",
-            "prüfen"
-        ]
-    },
-    "es": {
-        "$name": "Editor regular",
-        "$description": "Editar y probar la expresión regular, admitir JavaScript",
-        "$keywords": [
-            "Regular",
-            "expresión",
-            "prueba"
-        ]
-    },
-    "fr": {
-        "$name": "Rédacteur en chef régulier",
-        "$description": "Modifier et tester l'expression régulière, soutenir JavaScript",
-        "$keywords": [
-            "Régulier",
-            "expression",
-            "test"
-        ]
-    },
-    "it": {
-        "$name": "Editore regolare",
-        "$description": "Modificare e testare l'espressione regolare, supportare JavaScript",
-        "$keywords": [
-            "Regolare",
-            "espressione",
-            "test"
-        ]
-    },
-    "ja": {
-        "$name": "通常の編集者",
-        "$description": "正規表現を編集およびテストし、JavaScriptをサポートします",
-        "$keywords": [
-            "通常",
-            "表現",
-            "テスト"
-        ]
-    },
-    "ko": {
-        "$name": "일반 편집자",
-        "$description": "정규 표현식 편집 및 테스트, JavaScript를 지원하십시오",
-        "$keywords": [
-            "정기적인",
-            "표현",
-            "시험"
-        ]
-    },
-    "pt": {
-        "$name": "Editor regular",
-        "$description": "Editar e testar a expressão regular, suporta JavaScript",
-        "$keywords": [
-            "Regular",
-            "expressão",
-            "teste"
-        ]
-    },
-    "ru": {
-        "$name": "Обычный редактор",
-        "$description": "Редактировать и проверить регулярное выражение, поддержка JavaScript",
-        "$keywords": [
-            "Обычный",
-            "выражение",
-            "тест"
-        ]
-    },
-    "zh-tw": {
-        "$name": "正則編輯器",
-        "$description": "編輯並測試正則表達式,支持Javascript",
-        "$keywords": [
-            "正則",
-            "表達式",
-            "測試"
-        ]
-    },
-    "zh-cn": {
-        "$name": "正则编辑器",
-        "$description": "编辑并测试正则表达式,支持Javascript",
-        "$keywords": [
-            "正则",
-            "表达式",
-            "测试"
-        ]
-    }
+  "zh-cn": {
+    "$name": "正则表达式测试器",
+    "$description": "正则表达式测试器是一款强大的工具，允许用户使用Javascript支持编辑和测试正则表达式。它提供了一个用户友好的界面来测试和调试正则表达式模式，使其成为使用正则表达式和Javascript的开发人员必备的工具。",
+    "$keywords": [
+      "正则表达式",
+      "测试",
+      "js",
+      "javascript"
+    ]
+  },
+  "zh-tw": {
+    "$name": "正規表示式測試器",
+    "$description": "正規表示式測試器是一個強大的工具，允許用戶使用Javascript編輯和測試正規表示式。它提供了一個用戶友好的界面，用於測試和調試正規表示式模式，使其成為使用正規表示式和Javascript的開發人員必備的工具。",
+    "$keywords": [
+      "正規表示式",
+      "測試",
+      "js",
+      "javascript"
+    ]
+  },
+  "es": {
+    "$name": "Probador de expresiones regulares",
+    "$description": "El Probador de expresiones regulares es una herramienta poderosa que permite a los usuarios editar y probar expresiones regulares con soporte para Javascript. Proporciona una interfaz fácil de usar para probar y depurar patrones regex, lo que lo convierte en una herramienta esencial para los desarrolladores que trabajan con regex y Javascript.",
+    "$keywords": [
+      "regex",
+      "prueba",
+      "js",
+      "javascript"
+    ]
+  },
+  "ja": {
+    "$name": "正規表現テスター",
+    "$description": "正規表現テスターは、Javascriptをサポートする強力なツールで、ユーザーが正規表現を編集してテストできるようにします。正規表現パターンのテストとデバッグのためのユーザーフレンドリーなインターフェースを提供し、正規表現とJavascriptを使用する開発者にとって必須のツールです。",
+    "$keywords": [
+      "正規表現",
+      "テスト",
+      "js",
+      "javascript"
+    ]
+  },
+  "ko": {
+    "$name": "정규식 테스터",
+    "$description": "정규식 테스터는 Javascript를 지원하는 정규식을 편집하고 테스트할 수 있는 강력한 도구입니다. 정규식 패턴을 테스트하고 디버깅하기 위한 사용자 친화적 인터페이스를 제공하여, 정규식과 Javascript를 사용하는 개발자에게 필수적인 도구입니다.",
+    "$keywords": [
+      "정규식",
+      "테스트",
+      "js",
+      "javascript"
+    ]
+  },
+  "de": {
+    "$name": "Regex Tester",
+    "$description": "Regex Tester ist ein leistungsstarkes Tool, das Benutzern ermöglicht, reguläre Ausdrücke mit Unterstützung für Javascript zu bearbeiten und zu testen. Es bietet eine benutzerfreundliche Oberfläche zum Testen und Debuggen von Regex-Mustern und ist damit ein unverzichtbares Werkzeug für Entwickler, die mit Regex und Javascript arbeiten.",
+    "$keywords": [
+      "regex",
+      "test",
+      "js",
+      "javascript"
+    ]
+  },
+  "fr": {
+    "$name": "Testeur Regex",
+    "$description": "Testeur Regex est un outil puissant qui permet aux utilisateurs d'éditer et de tester des expressions régulières avec prise en charge de Javascript. Il fournit une interface conviviale pour tester et déboguer les modèles regex, ce qui en fait un outil essentiel pour les développeurs travaillant avec regex et Javascript.",
+    "$keywords": [
+      "regex",
+      "test",
+      "js",
+      "javascript"
+    ]
+  },
+  "it": {
+    "$name": "Regex Tester",
+    "$description": "Regex Tester è un potente strumento che consente agli utenti di modificare e testare le espressioni regolari con supporto per Javascript. Fornisce un'interfaccia utente amichevole per testare e debuggare i pattern regex, rendendolo uno strumento essenziale per gli sviluppatori che lavorano con regex e Javascript.",
+    "$keywords": [
+      "regex",
+      "test",
+      "js",
+      "javascript"
+    ]
+  },
+  "ru": {
+    "$name": "Тестер регулярных выражений",
+    "$description": "Тестер регулярных выражений - это мощный инструмент, который позволяет пользователям редактировать и тестировать регулярные выражения с поддержкой Javascript. Он предоставляет пользовательский интерфейс для тестирования и отладки шаблонов регулярных выражений, что делает его необходимым инструментом для разработчиков, работающих с регулярными выражениями и Javascript.",
+    "$keywords": [
+      "регулярные выражения",
+      "тест",
+      "js",
+      "javascript"
+    ]
+  },
+  "pt": {
+    "$name": "Testador de Regex",
+    "$description": "O Testador de Regex é uma ferramenta poderosa que permite aos usuários editar e testar expressões regulares com suporte para Javascript. Ele fornece uma interface amigável para testar e depurar padrões regex, tornando-se uma ferramenta essencial para desenvolvedores que trabalham com regex e Javascript.",
+    "$keywords": [
+      "regex",
+      "teste",
+      "js",
+      "javascript"
+    ]
+  },
+  "en": {
+    "$name": "Regex Tester",
+    "$description": "Regex Tester is a powerful tool that allows users to edit and test regular expressions with support for Javascript. It provides a user-friendly interface for testing and debugging regex patterns, making it an essential tool for developers working with regex and Javascript.",
+    "$keywords": [
+      "regex",
+      "test",
+      "js",
+      "javascript"
+    ]
+  }
 }

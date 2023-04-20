@@ -1,89 +1,112 @@
 {
-    "zh": {
-        "$name": "UUID 解析器",
-        "$description": "解析 UUID",
-        "$keywords": [
-            "解析"
-        ]
-    },
-    "en": {
-        "$name": "UUID Parser",
-        "$description": "Parse UUID",
-        "$keywords": [
-            "UUID",
-            "ID",
-            "parse",
-            "inspect"
-        ]
-    },
-    "de": {
-        "$name": "Uuid Parser",
-        "$description": "Analysieren Sie UUID",
-        "$keywords": [
-            "Analysieren"
-        ]
-    },
-    "es": {
-        "$name": "Uuid Parser",
-        "$description": "Analizar uuid",
-        "$keywords": [
-            "Analizar"
-        ]
-    },
-    "fr": {
-        "$name": "Analyseur UUID",
-        "$description": "Analyser UUID",
-        "$keywords": [
-            "Analyser"
-        ]
-    },
-    "it": {
-        "$name": "Parser uuid",
-        "$description": "Analizzare uuid",
-        "$keywords": [
-            "Analizzare"
-        ]
-    },
-    "ja": {
-        "$name": "UUIDパーサー",
-        "$description": "UUIDを分析します",
-        "$keywords": [
-            "分析します"
-        ]
-    },
-    "ko": {
-        "$name": "Uuid Parser",
-        "$description": "UUID를 분석하십시오",
-        "$keywords": [
-            "분석"
-        ]
-    },
-    "pt": {
-        "$name": "Analisador uuid",
-        "$description": "Analise uuid",
-        "$keywords": [
-            "Analisar"
-        ]
-    },
-    "ru": {
-        "$name": "UUID PARSER",
-        "$description": "Проанализировать uuid",
-        "$keywords": [
-            "Анализировать"
-        ]
-    },
-    "zh-tw": {
-        "$name": "UUID 解析器",
-        "$description": "解析 UUID",
-        "$keywords": [
-            "解析"
-        ]
-    },
-    "zh-cn": {
-        "$name": "UUID 解析器",
-        "$description": "解析 UUID",
-        "$keywords": [
-            "解析"
-        ]
-    }
+  "zh-cn": {
+    "$name": "UUID解析器",
+    "$description": "UUID解析器是一款允许用户解析和检查UUID和ID的工具，提供了详细的组件分解，构成唯一标识符。它是开发人员和系统管理员在应用程序或系统中需要使用UUID和ID的有用工具。",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "解析",
+      "检查"
+    ]
+  },
+  "zh-tw": {
+    "$name": "UUID 解析器",
+    "$description": "UUID 解析器是一個工具，允許用戶解析和檢查 UUID 和 ID，提供構成唯一標識符的組件的詳細分解。它是開發人員和系統管理員在其應用程序或系統中需要使用 UUID 和 ID 的有用工具。",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "解析",
+      "檢查"
+    ]
+  },
+  "es": {
+    "$name": "Analizador de UUID",
+    "$description": "El Analizador de UUID es una herramienta que permite a los usuarios analizar e inspeccionar UUID e IDs, proporcionando un desglose detallado de los componentes que conforman el identificador único. Es una herramienta útil para desarrolladores y administradores de sistemas que necesitan trabajar con UUID e IDs en sus aplicaciones o sistemas.",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "analizar",
+      "inspeccionar"
+    ]
+  },
+  "ja": {
+    "$name": "UUIDパーサー",
+    "$description": "UUIDパーサーは、ユーザーがUUIDとIDを解析して検査し、ユニークな識別子を構成するコンポーネントの詳細な分解を提供するツールです。開発者やシステム管理者が、アプリケーションやシステムでUUIDとIDを扱う必要がある場合に役立つツールです。",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "解析",
+      "検査"
+    ]
+  },
+  "ko": {
+    "$name": "UUID 파서",
+    "$description": "UUID 파서는 사용자가 UUID 및 ID를 구문 분석하고 검사하여 고유 식별자를 구성하는 구성 요소를 자세히 분해할 수있는 도구입니다. 응용 프로그램 또는 시스템에서 UUID 및 ID를 사용해야하는 개발자 및 시스템 관리자에게 유용한 도구입니다.",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "구문 분석",
+      "검사"
+    ]
+  },
+  "de": {
+    "$name": "UUID-Parser",
+    "$description": "UUID-Parser ist ein Tool, das es Benutzern ermöglicht, UUIDs und IDs zu analysieren und zu inspizieren, indem es eine detaillierte Aufschlüsselung der Komponenten bereitstellt, die den eindeutigen Identifikator ausmachen. Es ist ein nützliches Werkzeug für Entwickler und Systemadministratoren, die mit UUIDs und IDs in ihren Anwendungen oder Systemen arbeiten müssen.",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "analysieren",
+      "inspizieren"
+    ]
+  },
+  "fr": {
+    "$name": "Analyseur UUID",
+    "$description": "L'analyseur UUID est un outil qui permet aux utilisateurs d'analyser et d'inspecter des UUID et des ID, en fournissant une ventilation détaillée des composants qui constituent l'identificateur unique. C'est un outil utile pour les développeurs et les administrateurs système qui ont besoin de travailler avec des UUID et des ID dans leurs applications ou systèmes.",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "analyse",
+      "inspection"
+    ]
+  },
+  "it": {
+    "$name": "Analizzatore UUID",
+    "$description": "L'Analizzatore UUID è uno strumento che consente agli utenti di analizzare e ispezionare UUID e ID, fornendo una dettagliata scomposizione dei componenti che compongono l'identificatore univoco. È uno strumento utile per sviluppatori e amministratori di sistema che devono lavorare con UUID e ID nelle loro applicazioni o sistemi.",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "analisi",
+      "ispezione"
+    ]
+  },
+  "ru": {
+    "$name": "Парсер UUID",
+    "$description": "Парсер UUID - это инструмент, который позволяет пользователям разбирать и проверять UUID и ID, предоставляя подробный разбор компонентов, составляющих уникальный идентификатор. Это полезный инструмент для разработчиков и системных администраторов, которые работают с UUID и ID в своих приложениях или системах.",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "парсинг",
+      "проверка"
+    ]
+  },
+  "pt": {
+    "$name": "Analisador de UUID",
+    "$description": "O Analisador de UUID é uma ferramenta que permite aos usuários analisar e inspecionar UUIDs e IDs, fornecendo uma análise detalhada dos componentes que compõem o identificador exclusivo. É uma ferramenta útil para desenvolvedores e administradores de sistemas que precisam trabalhar com UUIDs e IDs em suas aplicações ou sistemas.",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "analisar",
+      "inspecionar"
+    ]
+  },
+  "en": {
+    "$name": "UUID Parser",
+    "$description": "UUID Parser is a tool that allows users to parse and inspect UUIDs and IDs, providing a detailed breakdown of the components that make up the unique identifier. It is a useful tool for developers and system administrators who need to work with UUIDs and IDs in their applications or systems.",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "parse",
+      "inspect"
+    ]
+  }
 }

@@ -1,632 +1,978 @@
 [
   {
-    "id": "utf7-decode",
-    "zh": {
+    "zh-cn": {
       "$name": "UTF7 解码",
-      "$description": "UTF7 解码",
-      "$keywords": ["解码"]
-    },
-    "en": {
-      "$name": "UTF7 Decode",
-      "$description": "UTF7 Decode",
-      "$keywords": ["UTF7", "UTF-7", "Decode"]
-    },
-    "de": {
-      "$name": "UTF7 -Dekodierung",
-      "$description": "UTF7 -Dekodierung",
-      "$keywords": ["Dekodierung"]
-    },
-    "es": {
-      "$name": "Decodificación UTF7",
-      "$description": "Decodificación UTF7",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage UTF7",
-      "$description": "Décodage UTF7",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica UTF7",
-      "$description": "Decodifica UTF7",
-      "$keywords": ["decodifica"]
-    },
-    "ja": {
-      "$name": "UTF7デコード",
-      "$description": "UTF7デコード",
-      "$keywords": ["デコード"]
-    },
-    "ko": {
-      "$name": "UTF7 디코딩",
-      "$description": "UTF7 디코딩",
-      "$keywords": ["디코딩"]
-    },
-    "pt": {
-      "$name": "Decodificação UTF7",
-      "$description": "Decodificação UTF7",
-      "$keywords": ["decodificação"]
-    },
-    "ru": {
-      "$name": "UTF7 Декодирование",
-      "$description": "UTF7 Декодирование",
-      "$keywords": ["декодирование"]
+      "$description": "UTF7 解码是一款工具，允许用户解码使用 UTF-7 字符编码方案编码的文本。该工具特别适用于解码以 UTF-7 格式编码的电子邮件消息。",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "解码"
+      ]
     },
     "zh-tw": {
       "$name": "UTF7 解碼",
-      "$description": "UTF7 解碼",
-      "$keywords": ["解碼"]
-    },
-    "zh-cn": {
-      "$name": "UTF7 解码",
-      "$description": "UTF7 解码",
-      "$keywords": ["解码"]
-    }
-  },
-  {
-    "id": "utf7-encode",
-    "zh": {
-      "$name": "UTF7 编码",
-      "$description": "UTF7 编码",
-      "$keywords": ["编码"]
-    },
-    "en": {
-      "$name": "UTF7 Encode",
-      "$description": "UTF7 Encode",
-      "$keywords": ["UTF7", "UTF-7", "Encode"]
-    },
-    "de": {
-      "$name": "UTF7 -Kodierung",
-      "$description": "UTF7 -Kodierung",
-      "$keywords": ["Codierung"]
+      "$description": "UTF7 解碼是一個工具，允許用戶解碼使用UTF-7字符編碼方案編碼的文本。此工具尤其適用於解碼以UTF-7格式編碼的電子郵件消息。",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "解碼"
+      ]
     },
     "es": {
-      "$name": "Codificación UTF7",
-      "$description": "Codificación UTF7",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage UTF7",
-      "$description": "Encodage UTF7",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica UTF7",
-      "$description": "Codifica UTF7",
-      "$keywords": ["Coding"]
+      "$name": "Decodificación UTF7",
+      "$description": "La Decodificación UTF7 es una herramienta que permite a los usuarios decodificar texto que ha sido codificado utilizando el esquema de codificación de caracteres UTF-7. Esta herramienta es particularmente útil para decodificar mensajes de correo electrónico que han sido codificados en formato UTF-7.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decodificar"
+      ]
     },
     "ja": {
-      "$name": "UTF7エンコーディング",
-      "$description": "UTF7エンコーディング",
-      "$keywords": ["コーディング"]
+      "$name": "UTF7 デコード",
+      "$description": "UTF7 デコードは、UTF-7 文字エンコーディング方式でエンコードされたテキストをデコードすることができるツールです。このツールは、特にUTF-7形式でエンコードされた電子メールメッセージをデコードするために役立ちます。",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "デコード"
+      ]
     },
     "ko": {
-      "$name": "UTF7 인코딩",
-      "$description": "UTF7 인코딩",
-      "$keywords": ["코딩"]
+      "$name": "UTF7 디코딩",
+      "$description": "UTF7 디코딩은 UTF-7 문자 인코딩 체계를 사용하여 인코딩 된 텍스트를 디코딩 할 수있는 도구입니다. 이 도구는 특히 UTF-7 형식으로 인코딩 된 이메일 메시지를 디코딩하는 데 유용합니다.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "디코딩"
+      ]
     },
-    "pt": {
-      "$name": "Codificação UTF7",
-      "$description": "Codificação UTF7",
-      "$keywords": ["codificação"]
+    "de": {
+      "$name": "UTF7 Decodierung",
+      "$description": "UTF7 Decodierung ist ein Tool, das Benutzern ermöglicht, Text zu decodieren, der mit dem UTF-7-Zeichenkodierungsschema codiert wurde. Dieses Tool ist besonders nützlich für das Decodieren von E-Mail-Nachrichten, die im UTF-7-Format codiert wurden.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Décodage UTF7",
+      "$description": "Le décodage UTF7 est un outil qui permet aux utilisateurs de décoder du texte qui a été encodé en utilisant le schéma de codage de caractères UTF-7. Cet outil est particulièrement utile pour décoder des messages électroniques qui ont été encodés au format UTF-7.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Décode"
+      ]
+    },
+    "it": {
+      "$name": "Decodifica UTF7",
+      "$description": "La decodifica UTF7 è uno strumento che consente agli utenti di decodificare il testo che è stato codificato utilizzando lo schema di codifica dei caratteri UTF-7. Questo strumento è particolarmente utile per decodificare i messaggi di posta elettronica che sono stati codificati in formato UTF-7.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decodifica"
+      ]
     },
     "ru": {
-      "$name": "UTF7 Кодирование",
-      "$description": "UTF7 Кодирование",
-      "$keywords": ["кодирование"]
+      "$name": "Декодирование UTF7",
+      "$description": "Декодирование UTF7 - это инструмент, который позволяет пользователям декодировать текст, закодированный с использованием схемы кодирования символов UTF-7. Этот инструмент особенно полезен для декодирования электронных сообщений, закодированных в формате UTF-7.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Декодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Decodificação UTF7",
+      "$description": "A Decodificação UTF7 é uma ferramenta que permite aos usuários decodificar texto que foi codificado usando o esquema de codificação de caracteres UTF-7. Esta ferramenta é particularmente útil para decodificar mensagens de e-mail que foram codificadas no formato UTF-7.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decodificar"
+      ]
+    },
+    "en": {
+      "$name": "UTF7 Decoding",
+      "$description": "UTF7 Decoding is a tool that allows users to decode text that has been encoded using the UTF-7 character encoding scheme. This tool is particularly useful for decoding email messages that have been encoded in UTF-7 format.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decode"
+      ]
+    },
+    "id": "utf7-decode"
+  },
+  {
+    "zh-cn": {
+      "$name": "UTF7编码",
+      "$description": "UTF7编码是一种字符编码方案，它允许使用仅有7位ASCII字符来表示Unicode字符。它通常用于电子邮件系统和其他无法进行8位数据传输的应用程序。",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "编码"
+      ]
     },
     "zh-tw": {
       "$name": "UTF7 編碼",
-      "$description": "UTF7 編碼",
-      "$keywords": ["編碼"]
-    },
-    "zh-cn": {
-      "$name": "UTF7 编码",
-      "$description": "UTF7 编码",
-      "$keywords": ["编码"]
-    }
-  },
-  {
-    "id": "utf8-encode",
-    "zh": {
-      "$name": "UTF8 编码",
-      "$description": "UTF8 编码",
-      "$keywords": ["编码"]
-    },
-    "en": {
-      "$name": "UTF8 Encode",
-      "$description": "UTF8 Encode",
-      "$keywords": ["UTF", "UTF8", "UTF-8", "Encode"]
-    },
-    "de": {
-      "$name": "UTF8 Codierung",
-      "$description": "UTF8 Codierung",
-      "$keywords": ["Codierung"]
+      "$description": "UTF7 編碼是一種字符編碼方案，它允許使用僅 7 位 ASCII 字符表示 Unicode 字符。它通常用於電子郵件系統和其他無法進行 8 位數據傳輸的應用程序。",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "編碼"
+      ]
     },
     "es": {
-      "$name": "Codificación UTF8",
-      "$description": "Codificación UTF8",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage UTF8",
-      "$description": "Encodage UTF8",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica UTF8",
-      "$description": "Codifica UTF8",
-      "$keywords": ["Coding"]
+      "$name": "Codificación UTF7",
+      "$description": "La codificación UTF7 es un esquema de codificación de caracteres que permite la representación de caracteres Unicode utilizando solo caracteres ASCII de 7 bits. Se utiliza comúnmente en sistemas de correo electrónico y otras aplicaciones donde no es posible la transmisión de datos de 8 bits.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Codificar"
+      ]
     },
     "ja": {
-      "$name": "UTF8エンコーディング",
-      "$description": "UTF8エンコーディング",
-      "$keywords": ["コーディング"]
+      "$name": "UTF7エンコーディング",
+      "$description": "UTF7エンコーディングは、Unicode文字を7ビットのASCII文字だけを使って表現する文字エンコーディング方式です。8ビットのデータ転送ができない電子メールシステムやその他のアプリケーションで一般的に使用されています。",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "エンコード"
+      ]
     },
     "ko": {
-      "$name": "UTF8 인코딩",
-      "$description": "UTF8 인코딩",
-      "$keywords": ["코딩"]
+      "$name": "UTF7 인코딩",
+      "$description": "UTF7 인코딩은 유니코드 문자를 7비트 ASCII 문자만을 이용하여 표현할 수 있는 문자 인코딩 방식입니다. 이는 8비트 데이터 전송이 불가능한 이메일 시스템 및 다른 응용 프로그램에서 일반적으로 사용됩니다.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "인코딩"
+      ]
     },
-    "pt": {
-      "$name": "Codificação UTF8",
-      "$description": "Codificação UTF8",
-      "$keywords": ["codificação"]
+    "de": {
+      "$name": "UTF7-Kodierung",
+      "$description": "Die UTF7-Kodierung ist ein Zeichenkodierungsschema, das die Darstellung von Unicode-Zeichen nur mit 7-Bit-ASCII-Zeichen ermöglicht. Es wird häufig in E-Mail-Systemen und anderen Anwendungen verwendet, in denen keine 8-Bit-Datenübertragung möglich ist.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Kodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Encodage UTF7",
+      "$description": "L'encodage UTF7 est un schéma d'encodage de caractères qui permet la représentation de caractères Unicode en utilisant uniquement des caractères ASCII sur 7 bits. Il est couramment utilisé dans les systèmes de messagerie électronique et autres applications où la transmission de données sur 8 bits n'est pas possible.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Encode"
+      ]
+    },
+    "it": {
+      "$name": "Codifica UTF7",
+      "$description": "La codifica UTF7 è uno schema di codifica dei caratteri che consente la rappresentazione dei caratteri Unicode utilizzando solo caratteri ASCII a 7 bit. È comunemente utilizzata nei sistemi di posta elettronica e in altre applicazioni in cui non è possibile la trasmissione di dati a 8 bit.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Codifica"
+      ]
     },
     "ru": {
-      "$name": "UTF8 Кодирование",
-      "$description": "UTF8 Кодирование",
-      "$keywords": ["кодирование"]
+      "$name": "UTF7 Кодирование",
+      "$description": "UTF7 Кодирование - это схема кодирования символов, которая позволяет представлять символы Unicode, используя только 7-битные символы ASCII. Она часто используется в системах электронной почты и других приложениях, где невозможна передача 8-битных данных.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Кодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Codificação UTF7",
+      "$description": "A codificação UTF7 é um esquema de codificação de caracteres que permite a representação de caracteres Unicode usando apenas caracteres ASCII de 7 bits. É comumente usado em sistemas de e-mail e outras aplicações onde a transmissão de dados de 8 bits não é possível.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Codificar"
+      ]
+    },
+    "en": {
+      "$name": "UTF7 Encoding",
+      "$description": "UTF7 Encoding is a character encoding scheme that allows for the representation of Unicode characters using only 7-bit ASCII characters. It is commonly used in email systems and other applications where 8-bit data transmission is not possible.",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Encode"
+      ]
+    },
+    "id": "utf7-encode"
+  },
+  {
+    "zh-cn": {
+      "$name": "UTF8编码",
+      "$description": "UTF8编码是一种将字符和符号转换为标准格式的工具，可以被不同的计算机系统读取和理解。它使用UTF-8编码方案，这是一种可变长度的字符编码，可以表示Unicode标准中的任何字符。",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "编码"
+      ]
     },
     "zh-tw": {
       "$name": "UTF8 編碼",
-      "$description": "UTF8 編碼",
-      "$keywords": ["編碼"]
-    },
-    "zh-cn": {
-      "$name": "UTF8 编码",
-      "$description": "UTF8 编码",
-      "$keywords": ["编码"]
-    }
-  },
-  {
-    "id": "utf8-decode",
-    "zh": {
-      "$name": "UTF8 解码",
-      "$description": "UTF8 解码",
-      "$keywords": ["解码"]
-    },
-    "en": {
-      "$name": "UTF8 Decode",
-      "$description": "UTF8 Decode",
-      "$keywords": ["UTF", "UTF8", "UTF-8", "Decode"]
-    },
-    "de": {
-      "$name": "UTF8 Decodierung",
-      "$description": "UTF8 Decodierung",
-      "$keywords": ["Dekodierung"]
+      "$description": "UTF8 編碼是一個將字符和符號轉換為標準格式的工具，可以被不同的電腦系統讀取和理解。它使用 UTF-8 編碼方案，這是一種可變長度字符編碼，可以表示 Unicode 標準中的任何字符。",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "編碼"
+      ]
     },
     "es": {
-      "$name": "Decodificación UTF8",
-      "$description": "Decodificación UTF8",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage UTF8",
-      "$description": "Décodage UTF8",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica UTF8",
-      "$description": "Decodifica UTF8",
-      "$keywords": ["decodifica"]
+      "$name": "Codificación UTF8",
+      "$description": "La Codificación UTF8 es una herramienta que convierte caracteres y símbolos a un formato estandarizado que puede ser leído y entendido por diferentes sistemas informáticos. Utiliza el esquema de codificación UTF-8, que es una codificación de caracteres de longitud variable que puede representar cualquier carácter en el estándar Unicode.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Codificar"
+      ]
     },
     "ja": {
-      "$name": "UTF8デコード",
-      "$description": "UTF8デコード",
-      "$keywords": ["デコード"]
+      "$name": "UTF8エンコーディング",
+      "$description": "UTF8エンコーディングは、文字や記号を異なるコンピュータシステムで読み取り、理解できるように標準化された形式に変換するツールです。UTF-8エンコーディング方式を使用しており、Unicode標準の任意の文字を表すことができる可変長文字エンコーディング方式です。",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "エンコード"
+      ]
     },
     "ko": {
-      "$name": "UTF8 디코딩",
-      "$description": "UTF8 디코딩",
-      "$keywords": ["디코딩"]
+      "$name": "UTF8 인코딩",
+      "$description": "UTF8 인코딩은 문자와 기호를 서로 다른 컴퓨터 시스템에서 읽고 이해할 수 있는 표준화된 형식으로 변환하는 도구입니다. 이 도구는 유니코드 표준에서 모든 문자를 나타낼 수 있는 가변 길이 문자 인코딩인 UTF-8 인코딩 체계를 사용합니다.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "인코딩"
+      ]
     },
-    "pt": {
-      "$name": "Decodificação UTF8",
-      "$description": "Decodificação UTF8",
-      "$keywords": ["decodificação"]
+    "de": {
+      "$name": "UTF8-Kodierung",
+      "$description": "Die UTF8-Kodierung ist ein Tool, das Zeichen und Symbole in ein standardisiertes Format umwandelt, das von verschiedenen Computersystemen gelesen und verstanden werden kann. Es verwendet das UTF-8-Kodierungsschema, das eine variable Zeichenkodierung ist und jedes Zeichen im Unicode-Standard darstellen kann.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Kodierung"
+      ]
+    },
+    "fr": {
+      "$name": "Encodage UTF8",
+      "$description": "L'encodage UTF8 est un outil qui convertit les caractères et les symboles en un format standardisé qui peut être lu et compris par différents systèmes informatiques. Il utilise le schéma d'encodage UTF-8, qui est un encodage de caractères à longueur variable qui peut représenter n'importe quel caractère dans la norme Unicode.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Encodage"
+      ]
+    },
+    "it": {
+      "$name": "Codifica UTF8",
+      "$description": "La codifica UTF8 è uno strumento che converte caratteri e simboli in un formato standardizzato che può essere letto e compreso da diversi sistemi informatici. Utilizza lo schema di codifica UTF-8, che è una codifica a lunghezza variabile che può rappresentare qualsiasi carattere nello standard Unicode.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Codifica"
+      ]
     },
     "ru": {
-      "$name": "UTF8 Декодирование",
-      "$description": "UTF8 Декодирование",
-      "$keywords": ["декодирование"]
+      "$name": "UTF8 Кодирование",
+      "$description": "UTF8 Кодирование - это инструмент, который преобразует символы и символы в стандартизированный формат, который может быть прочитан и понят другими компьютерными системами. Он использует схему кодирования UTF-8, которая является переменной длиной кодирования символов, которая может представлять любой символ в стандарте Unicode.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Кодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Codificação UTF8",
+      "$description": "A Codificação UTF8 é uma ferramenta que converte caracteres e símbolos em um formato padronizado que pode ser lido e entendido por diferentes sistemas de computador. Ele usa o esquema de codificação UTF-8, que é uma codificação de caracteres de comprimento variável que pode representar qualquer caractere no padrão Unicode.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Codificar"
+      ]
+    },
+    "en": {
+      "$name": "UTF8 Encoding",
+      "$description": "UTF8 Encoding is a tool that converts characters and symbols into a standardized format that can be read and understood by different computer systems. It uses the UTF-8 encoding scheme, which is a variable-length character encoding that can represent any character in the Unicode standard.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Encode"
+      ]
+    },
+    "id": "utf8-encode"
+  },
+  {
+    "zh-cn": {
+      "$name": "UTF8解码",
+      "$description": "UTF8解码是一款工具，允许用户将UTF8编码的文本转换为可读字符。它支持各种UTF8格式，如UTF、UTF8和UTF-8，使其成为解码文本的多功能工具。",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "解码"
+      ]
     },
     "zh-tw": {
       "$name": "UTF8 解碼",
-      "$description": "UTF8 解碼",
-      "$keywords": ["解碼"]
-    },
-    "zh-cn": {
-      "$name": "UTF8 解码",
-      "$description": "UTF8 解码",
-      "$keywords": ["解码"]
-    }
-  },
-  {
-    "id": "utf16-encode",
-    "zh": {
-      "$name": "UTF16 编码",
-      "$description": "UTF16 编码",
-      "$keywords": ["编码"]
-    },
-    "en": {
-      "$name": "UTF16 Encode",
-      "$description": "UTF16 Encode",
-      "$keywords": ["utf16", "encode"]
-    },
-    "de": {
-      "$name": "UTF16 Codierung",
-      "$description": "UTF16 Codierung",
-      "$keywords": ["Codierung"]
+      "$description": "UTF8 解碼是一個工具，允許用戶將UTF8編碼的文本轉換為可讀字符。它支持各種UTF8格式，如UTF、UTF8和UTF-8，使其成為解碼文本的多功能工具。",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "解碼"
+      ]
     },
     "es": {
-      "$name": "Codificación UTF16",
-      "$description": "Codificación UTF16",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage UTF16",
-      "$description": "Encodage UTF16",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica UTF16",
-      "$description": "Codifica UTF16",
-      "$keywords": ["Coding"]
+      "$name": "Decodificación UTF8",
+      "$description": "La Decodificación UTF8 es una herramienta que permite a los usuarios convertir texto codificado en UTF8 en caracteres legibles. Admite varios formatos UTF8 como UTF, UTF8 y UTF-8, lo que la convierte en una herramienta versátil para decodificar texto.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decodificar"
+      ]
     },
     "ja": {
-      "$name": "UTF16エンコーディング",
-      "$description": "UTF16エンコーディング",
-      "$keywords": ["コーディング"]
+      "$name": "UTF8デコード",
+      "$description": "UTF8デコードは、UTF8エンコードされたテキストを読みやすい文字に変換するツールです。UTF、UTF8、UTF-8など、さまざまなUTF8形式に対応しているため、テキストのデコードに汎用的に使用できます。",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "デコード"
+      ]
     },
     "ko": {
-      "$name": "UTF16 인코딩",
-      "$description": "UTF16 인코딩",
-      "$keywords": ["코딩"]
+      "$name": "UTF8 디코딩",
+      "$description": "UTF8 디코딩은 UTF8 인코딩된 텍스트를 읽을 수 있는 문자로 변환하는 도구입니다. UTF, UTF8, UTF-8 등 다양한 UTF8 형식을 지원하여 텍스트 디코딩에 유용한 다재다능한 도구입니다.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "디코딩"
+      ]
     },
-    "pt": {
-      "$name": "Codificação UTF16",
-      "$description": "Codificação UTF16",
-      "$keywords": ["codificação"]
+    "de": {
+      "$name": "UTF8 Decodierung",
+      "$description": "UTF8 Decodierung ist ein Tool, das Benutzern ermöglicht, UTF8-kodierte Texte in lesbare Zeichen umzuwandeln. Es unterstützt verschiedene UTF8-Formate wie UTF, UTF8 und UTF-8 und ist somit ein vielseitiges Tool zum Decodieren von Texten.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Décodage UTF8",
+      "$description": "Le Décodage UTF8 est un outil qui permet aux utilisateurs de convertir du texte encodé en UTF8 en caractères lisibles. Il prend en charge différents formats UTF8 tels que UTF, UTF8 et UTF-8, ce qui en fait un outil polyvalent pour le décodage de texte.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Décodage"
+      ]
+    },
+    "it": {
+      "$name": "Decodifica UTF8",
+      "$description": "La Decodifica UTF8 è uno strumento che consente agli utenti di convertire il testo codificato in UTF8 in caratteri leggibili. Supporta vari formati UTF8 come UTF, UTF8 e UTF-8, rendendolo uno strumento versatile per la decodifica del testo.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decodifica"
+      ]
     },
     "ru": {
-      "$name": "UTF16 Кодирование",
-      "$description": "UTF16 Кодирование",
-      "$keywords": ["кодирование"]
+      "$name": "Декодирование UTF8",
+      "$description": "Декодирование UTF8 - это инструмент, который позволяет пользователям преобразовывать текст, закодированный в формате UTF8, в читаемые символы. Он поддерживает различные форматы UTF8, такие как UTF, UTF8 и UTF-8, что делает его универсальным инструментом для декодирования текста.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Декодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Decodificação UTF8",
+      "$description": "A Decodificação UTF8 é uma ferramenta que permite aos usuários converter texto codificado em UTF8 em caracteres legíveis. Ela suporta vários formatos UTF8, como UTF, UTF8 e UTF-8, tornando-se uma ferramenta versátil para decodificar texto.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decodificar"
+      ]
+    },
+    "en": {
+      "$name": "UTF8 Decoding",
+      "$description": "UTF8 Decoding is a tool that allows users to convert UTF8 encoded text into readable characters. It supports various UTF8 formats such as UTF, UTF8, and UTF-8, making it a versatile tool for decoding text.",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decode"
+      ]
+    },
+    "id": "utf8-decode"
+  },
+  {
+    "zh-cn": {
+      "$name": "UTF16编码",
+      "$description": "UTF16编码是一种将字符和符号转换为计算机可读和处理的二进制格式的工具。它使用UTF16标准来编码文本，允许表示来自不同语言和脚本的广泛字符。",
+      "$keywords": [
+        "utf16",
+        "编码"
+      ]
     },
     "zh-tw": {
       "$name": "UTF16 編碼",
-      "$description": "UTF16 編碼",
-      "$keywords": ["編碼"]
-    },
-    "zh-cn": {
-      "$name": "UTF16 编码",
-      "$description": "UTF16 编码",
-      "$keywords": ["编码"]
-    }
-  },
-  {
-    "id": "utf16-decode",
-    "zh": {
-      "$name": "UTF16 解码",
-      "$description": "UTF16 解码",
-      "$keywords": ["解码"]
-    },
-    "en": {
-      "$name": "UTF16 Decode",
-      "$description": "UTF16 Decode",
-      "$keywords": ["utf16", "decode"]
-    },
-    "de": {
-      "$name": "UTF16 Decodierung",
-      "$description": "UTF16 Decodierung",
-      "$keywords": ["Dekodierung"]
+      "$description": "UTF16 編碼是一個將字符和符號轉換為二進制格式，以便計算機讀取和處理的工具。它使用 UTF16 標準來編碼文本，這允許表示來自不同語言和腳本的廣泛字符。",
+      "$keywords": [
+        "utf16",
+        "編碼"
+      ]
     },
     "es": {
-      "$name": "UTF16 Decodificación",
-      "$description": "UTF16 Decodificación",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage UTF16",
-      "$description": "Décodage UTF16",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica UTF16",
-      "$description": "Decodifica UTF16",
-      "$keywords": ["decodifica"]
+      "$name": "Codificación UTF16",
+      "$description": "La Codificación UTF16 es una herramienta que convierte caracteres y símbolos en un formato binario que puede ser leído y procesado por computadoras. Utiliza el estándar UTF16 para codificar texto, lo que permite la representación de una amplia gama de caracteres de diferentes idiomas y escrituras.",
+      "$keywords": [
+        "utf16",
+        "codificar"
+      ]
     },
     "ja": {
-      "$name": "UTF16デコード",
-      "$description": "UTF16デコード",
-      "$keywords": ["デコード"]
+      "$name": "UTF16エンコーディング",
+      "$description": "UTF16エンコーディングは、文字や記号をコンピュータが読み込み処理できるバイナリ形式に変換するツールです。UTF16規格を使用してテキストをエンコードするため、異なる言語やスクリプトから広範囲の文字を表現することができます。",
+      "$keywords": [
+        "utf16",
+        "エンコード"
+      ]
     },
     "ko": {
-      "$name": "UTF16 디코딩",
-      "$description": "UTF16 디코딩",
-      "$keywords": ["디코딩"]
+      "$name": "UTF16 인코딩",
+      "$description": "UTF16 인코딩은 문자와 기호를 컴퓨터에서 읽고 처리할 수 있는 이진 형식으로 변환하는 도구입니다. 이는 UTF16 표준을 사용하여 텍스트를 인코딩하며, 다양한 언어와 문자 체계에서 다양한 문자를 표현할 수 있습니다.",
+      "$keywords": [
+        "utf16",
+        "인코딩"
+      ]
     },
-    "pt": {
-      "$name": "Decodificação UTF16",
-      "$description": "Decodificação UTF16",
-      "$keywords": ["decodificação"]
+    "de": {
+      "$name": "UTF16-Kodierung",
+      "$description": "UTF16-Kodierung ist ein Tool, das Zeichen und Symbole in ein binäres Format konvertiert, das von Computern gelesen und verarbeitet werden kann. Es verwendet den UTF16-Standard zur Kodierung von Text, der die Darstellung einer breiten Palette von Zeichen aus verschiedenen Sprachen und Skripten ermöglicht.",
+      "$keywords": [
+        "utf16",
+        "kodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Encodage UTF16",
+      "$description": "L'encodage UTF16 est un outil qui convertit les caractères et les symboles en un format binaire pouvant être lu et traité par les ordinateurs. Il utilise la norme UTF16 pour encoder le texte, ce qui permet la représentation d'un large éventail de caractères de différentes langues et écritures.",
+      "$keywords": [
+        "utf16",
+        "encoder"
+      ]
+    },
+    "it": {
+      "$name": "Codifica UTF16",
+      "$description": "La Codifica UTF16 è uno strumento che converte caratteri e simboli in un formato binario che può essere letto e elaborato dai computer. Utilizza lo standard UTF16 per codificare il testo, il che consente la rappresentazione di una vasta gamma di caratteri di diverse lingue e scritture.",
+      "$keywords": [
+        "utf16",
+        "codifica"
+      ]
     },
     "ru": {
-      "$name": "UTF16 Декодирование",
-      "$description": "UTF16 Декодирование",
-      "$keywords": ["декодирование"]
+      "$name": "Кодирование UTF16",
+      "$description": "Кодирование UTF16 - это инструмент, который преобразует символы и символы в двоичный формат, который может быть прочитан и обработан компьютерами. Он использует стандарт UTF16 для кодирования текста, что позволяет представлять широкий диапазон символов из разных языков и скриптов.",
+      "$keywords": [
+        "utf16",
+        "кодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Codificação UTF16",
+      "$description": "A Codificação UTF16 é uma ferramenta que converte caracteres e símbolos em um formato binário que pode ser lido e processado por computadores. Ela usa o padrão UTF16 para codificar texto, o que permite a representação de uma ampla gama de caracteres de diferentes idiomas e scripts.",
+      "$keywords": [
+        "utf16",
+        "codificar"
+      ]
+    },
+    "en": {
+      "$name": "UTF16 Encoding",
+      "$description": "UTF16 Encoding is a tool that converts characters and symbols into a binary format that can be read and processed by computers. It uses the UTF16 standard to encode text, which allows for the representation of a wide range of characters from different languages and scripts.",
+      "$keywords": [
+        "utf16",
+        "encode"
+      ]
+    },
+    "id": "utf16-encode"
+  },
+  {
+    "zh-cn": {
+      "$name": "UTF16 解码",
+      "$description": "UTF16 解码是一款工具，允许用户将UTF16编码的文本转换为可读字符。它特别适用于解码以UTF16格式编码的文本，这种格式通常用于计算机系统和编程语言。",
+      "$keywords": [
+        "utf16",
+        "解码"
+      ]
     },
     "zh-tw": {
       "$name": "UTF16 解碼",
-      "$description": "UTF16 解碼",
-      "$keywords": ["解碼"]
-    },
-    "zh-cn": {
-      "$name": "UTF16 解码",
-      "$description": "UTF16 解码",
-      "$keywords": ["解码"]
-    }
-  },
-  {
-    "id": "utf32-encode",
-    "zh": {
-      "$name": "UTF32 编码",
-      "$description": "UTF32 编码",
-      "$keywords": ["编码"]
-    },
-    "en": {
-      "$name": "UTF32 Encode",
-      "$description": "UTF32 Encode",
-      "$keywords": ["utf32", "encode"]
-    },
-    "de": {
-      "$name": "UTF32 Codierung",
-      "$description": "UTF32 Codierung",
-      "$keywords": ["Codierung"]
+      "$description": "UTF16 解碼是一個工具，允許用戶將UTF16編碼的文本轉換為可讀字符。它特別適用於解碼以UTF16格式編碼的文本，該格式通常用於計算機系統和編程語言。",
+      "$keywords": [
+        "utf16",
+        "解碼"
+      ]
     },
     "es": {
-      "$name": "Codificación UTF32",
-      "$description": "Codificación UTF32",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage UTF32",
-      "$description": "Encodage UTF32",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica UTF32",
-      "$description": "Codifica UTF32",
-      "$keywords": ["Coding"]
+      "$name": "Decodificación UTF16",
+      "$description": "La Decodificación UTF16 es una herramienta que permite a los usuarios convertir texto codificado en UTF16 en caracteres legibles. Es particularmente útil para decodificar texto que ha sido codificado en formato UTF16, que es comúnmente utilizado en sistemas informáticos y lenguajes de programación.",
+      "$keywords": [
+        "utf16",
+        "decodificar"
+      ]
     },
     "ja": {
-      "$name": "UTF32エンコーディング",
-      "$description": "UTF32エンコーディング",
-      "$keywords": ["コーディング"]
+      "$name": "UTF16デコード",
+      "$description": "UTF16デコードは、UTF16エンコードされたテキストを読み取り可能な文字に変換するツールです。コンピューターシステムやプログラミング言語で一般的に使用されるUTF16形式でエンコードされたテキストをデコードするために特に役立ちます。",
+      "$keywords": [
+        "utf16",
+        "デコード"
+      ]
     },
     "ko": {
-      "$name": "UTF32 인코딩",
-      "$description": "UTF32 인코딩",
-      "$keywords": ["코딩"]
+      "$name": "UTF16 디코딩",
+      "$description": "UTF16 디코딩은 UTF16 인코딩된 텍스트를 읽을 수 있는 문자로 변환하는 도구입니다. 컴퓨터 시스템과 프로그래밍 언어에서 일반적으로 사용되는 UTF16 형식으로 인코딩된 텍스트를 디코딩하는 데 특히 유용합니다.",
+      "$keywords": [
+        "utf16",
+        "디코딩"
+      ]
     },
-    "pt": {
-      "$name": "Codificação UTF32",
-      "$description": "Codificação UTF32",
-      "$keywords": ["codificação"]
+    "de": {
+      "$name": "UTF16 Decodierung",
+      "$description": "UTF16 Decodierung ist ein Tool, das Benutzern ermöglicht, UTF16-kodierte Texte in lesbare Zeichen umzuwandeln. Es ist besonders nützlich für die Decodierung von Texten, die im UTF16-Format codiert wurden, das in Computersystemen und Programmiersprachen häufig verwendet wird.",
+      "$keywords": [
+        "utf16",
+        "decodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Décodage UTF16",
+      "$description": "Le Décodage UTF16 est un outil qui permet aux utilisateurs de convertir du texte encodé en UTF16 en caractères lisibles. Il est particulièrement utile pour décoder du texte qui a été encodé au format UTF16, qui est couramment utilisé dans les systèmes informatiques et les langages de programmation.",
+      "$keywords": [
+        "utf16",
+        "décodage"
+      ]
+    },
+    "it": {
+      "$name": "Decodifica UTF16",
+      "$description": "La decodifica UTF16 è uno strumento che consente agli utenti di convertire il testo codificato in UTF16 in caratteri leggibili. È particolarmente utile per decodificare il testo che è stato codificato nel formato UTF16, che è comunemente utilizzato nei sistemi informatici e nei linguaggi di programmazione.",
+      "$keywords": [
+        "utf16",
+        "decodifica"
+      ]
     },
     "ru": {
-      "$name": "UTF32 Кодирование",
-      "$description": "UTF32 Кодирование",
-      "$keywords": ["кодирование"]
+      "$name": "Декодирование UTF16",
+      "$description": "Декодирование UTF16 - это инструмент, который позволяет пользователям преобразовывать текст, закодированный в формате UTF16, в читаемые символы. Он особенно полезен для декодирования текста, закодированного в формате UTF16, который широко используется в компьютерных системах и языках программирования.",
+      "$keywords": [
+        "utf16",
+        "декодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Decodificação UTF16",
+      "$description": "A Decodificação UTF16 é uma ferramenta que permite aos usuários converter texto codificado em UTF16 em caracteres legíveis. É particularmente útil para decodificar texto que foi codificado no formato UTF16, que é comumente usado em sistemas de computador e linguagens de programação.",
+      "$keywords": [
+        "utf16",
+        "decodificar"
+      ]
+    },
+    "en": {
+      "$name": "UTF16 Decoding",
+      "$description": "UTF16 Decoding is a tool that allows users to convert UTF16 encoded text into readable characters. It is particularly useful for decoding text that has been encoded in UTF16 format, which is commonly used in computer systems and programming languages.",
+      "$keywords": [
+        "utf16",
+        "decode"
+      ]
+    },
+    "id": "utf16-decode"
+  },
+  {
+    "zh-cn": {
+      "$name": "UTF32编码",
+      "$description": "UTF32编码是一种将Unicode字符转换为其对应的32位代码点的工具。它通常用于需要Unicode字符的固定长度编码的编程和数据存储应用程序。",
+      "$keywords": [
+        "utf32",
+        "编码"
+      ]
     },
     "zh-tw": {
       "$name": "UTF32 編碼",
-      "$description": "UTF32 編碼",
-      "$keywords": ["編碼"]
-    },
-    "zh-cn": {
-      "$name": "UTF32 编码",
-      "$description": "UTF32 编码",
-      "$keywords": ["编码"]
-    }
-  },
-  {
-    "id": "utf32-decode",
-    "zh": {
-      "$name": "UTF32 解码",
-      "$description": "UTF32 解码",
-      "$keywords": ["解码"]
-    },
-    "en": {
-      "$name": "UTF32 Decode",
-      "$description": "UTF32 Decode",
-      "$keywords": ["utf32", "decode"]
-    },
-    "de": {
-      "$name": "UTF32 Decodierung",
-      "$description": "UTF32 Decodierung",
-      "$keywords": ["Dekodierung"]
+      "$description": "UTF32 編碼是一個將 Unicode 字元轉換為其對應的 32 位元碼點的工具。它通常用於需要固定長度編碼 Unicode 字元的程式設計和資料儲存應用程式。",
+      "$keywords": [
+        "utf32",
+        "編碼"
+      ]
     },
     "es": {
-      "$name": "Decodificación UTF32",
-      "$description": "Decodificación UTF32",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage UTF32",
-      "$description": "Décodage UTF32",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica UTF32",
-      "$description": "Decodifica UTF32",
-      "$keywords": ["decodifica"]
+      "$name": "Codificación UTF32",
+      "$description": "La Codificación UTF32 es una herramienta que convierte caracteres Unicode en sus correspondientes puntos de código de 32 bits. Es comúnmente utilizada en programación y aplicaciones de almacenamiento de datos que requieren una codificación de longitud fija para caracteres Unicode.",
+      "$keywords": [
+        "utf32",
+        "codificar"
+      ]
     },
     "ja": {
-      "$name": "UTF32デコード",
-      "$description": "UTF32デコード",
-      "$keywords": ["デコード"]
+      "$name": "UTF32エンコーディング",
+      "$description": "UTF32エンコーディングは、Unicode文字をそれに対応する32ビットのコードポイントに変換するツールです。Unicode文字の固定長エンコーディングが必要なプログラミングやデータストレージアプリケーションで一般的に使用されています。",
+      "$keywords": [
+        "utf32",
+        "エンコード"
+      ]
     },
     "ko": {
-      "$name": "UTF32 디코딩",
-      "$description": "UTF32 디코딩",
-      "$keywords": ["디코딩"]
+      "$name": "UTF32 인코딩",
+      "$description": "UTF32 인코딩은 유니코드 문자를 해당하는 32비트 코드 포인트로 변환하는 도구입니다. 일정한 길이의 인코딩이 필요한 프로그래밍 및 데이터 저장 응용 프로그램에서 일반적으로 사용됩니다.",
+      "$keywords": [
+        "utf32",
+        "인코딩"
+      ]
     },
-    "pt": {
-      "$name": "Decodificação UTF32",
-      "$description": "Decodificação UTF32",
-      "$keywords": ["decodificação"]
+    "de": {
+      "$name": "UTF32-Kodierung",
+      "$description": "UTF32-Kodierung ist ein Tool, das Unicode-Zeichen in ihre entsprechenden 32-Bit-Codepunkte umwandelt. Es wird häufig in Programmier- und Datenspeicheranwendungen verwendet, die eine feste Längenkodierung für Unicode-Zeichen erfordern.",
+      "$keywords": [
+        "utf32",
+        "kodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Encodage UTF32",
+      "$description": "L'encodage UTF32 est un outil qui convertit les caractères Unicode en leurs points de code de 32 bits correspondants. Il est couramment utilisé dans les applications de programmation et de stockage de données qui nécessitent un encodage à longueur fixe pour les caractères Unicode.",
+      "$keywords": [
+        "utf32",
+        "encoder"
+      ]
+    },
+    "it": {
+      "$name": "Codifica UTF32",
+      "$description": "La Codifica UTF32 è uno strumento che converte i caratteri Unicode nei loro corrispondenti punti codice a 32 bit. È comunemente utilizzato in applicazioni di programmazione e di archiviazione dati che richiedono una codifica a lunghezza fissa per i caratteri Unicode.",
+      "$keywords": [
+        "utf32",
+        "codifica"
+      ]
     },
     "ru": {
-      "$name": "UTF32 Декодирование",
-      "$description": "UTF32 Декодирование",
-      "$keywords": ["декодирование"]
+      "$name": "Кодирование UTF32",
+      "$description": "Кодирование UTF32 - это инструмент, который преобразует символы Unicode в соответствующие им 32-битные кодовые точки. Он часто используется в программировании и приложениях для хранения данных, которые требуют фиксированной длины кодирования для символов Unicode.",
+      "$keywords": [
+        "utf32",
+        "кодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Codificação UTF32",
+      "$description": "A Codificação UTF32 é uma ferramenta que converte caracteres Unicode em seus pontos de código de 32 bits correspondentes. É comumente usada em programação e aplicações de armazenamento de dados que requerem uma codificação de comprimento fixo para caracteres Unicode.",
+      "$keywords": [
+        "utf32",
+        "codificar"
+      ]
+    },
+    "en": {
+      "$name": "UTF32 Encoding",
+      "$description": "UTF32 Encoding is a tool that converts Unicode characters into their corresponding 32-bit code points. It is commonly used in programming and data storage applications that require a fixed-length encoding for Unicode characters.",
+      "$keywords": [
+        "utf32",
+        "encode"
+      ]
+    },
+    "id": "utf32-encode"
+  },
+  {
+    "zh-cn": {
+      "$name": "UTF32解码",
+      "$description": "UTF32解码是一款工具，允许用户将UTF32编码的文本转换为可读字符。它特别适用于需要在代码中使用非ASCII字符的开发人员和程序员。",
+      "$keywords": [
+        "utf32",
+        "解码"
+      ]
     },
     "zh-tw": {
       "$name": "UTF32 解碼",
-      "$description": "UTF32 解碼",
-      "$keywords": ["解碼"]
-    },
-    "zh-cn": {
-      "$name": "UTF32 解码",
-      "$description": "UTF32 解码",
-      "$keywords": ["解码"]
-    }
-  },
-  {
-    "id": "unicode-encode",
-    "zh": {
-      "$name": "Unicode 编码",
-      "$description": "将文本编码为 Unicode",
-      "$keywords": ["编码"]
-    },
-    "en": {
-      "$name": "Unicode Encode",
-      "$description": "Encodes text into unicode",
-      "$keywords": ["unicode", "encode"]
-    },
-    "de": {
-      "$name": "Unicode -Codierung",
-      "$description": "Codetext in Unicode",
-      "$keywords": ["Codierung"]
+      "$description": "UTF32 解碼是一個工具，允許使用者將 UTF32 編碼的文字轉換為可讀取的字元。它對需要在程式碼中使用非 ASCII 字元的開發人員和程式設計師特別有用。",
+      "$keywords": [
+        "utf32",
+        "解碼"
+      ]
     },
     "es": {
-      "$name": "Codificación unicode",
-      "$description": "Código de texto en unicode",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage Unicode",
-      "$description": "Code du texte dans Unicode",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica Unicode",
-      "$description": "Testo del codice in Unicode",
-      "$keywords": ["Coding"]
+      "$name": "Decodificación UTF32",
+      "$description": "La Decodificación UTF32 es una herramienta que permite a los usuarios convertir texto codificado en UTF32 en caracteres legibles. Es especialmente útil para desarrolladores y programadores que necesitan trabajar con caracteres no ASCII en su código.",
+      "$keywords": [
+        "utf32",
+        "decodificar"
+      ]
     },
     "ja": {
-      "$name": "ユニコードエンコーディング",
-      "$description": "Unicodeにテキストをコードします",
-      "$keywords": ["コーディング"]
+      "$name": "UTF32 デコード",
+      "$description": "UTF32 デコードは、UTF32 エンコードされたテキストを読みやすい文字に変換するツールです。特に、コード内で非ASCII文字を扱う必要がある開発者やプログラマーにとって役立ちます。",
+      "$keywords": [
+        "utf32",
+        "デコード"
+      ]
     },
     "ko": {
-      "$name": "유니 코드 인코딩",
-      "$description": "코드 텍스트로 유니 코드",
-      "$keywords": ["코딩"]
+      "$name": "UTF32 디코딩",
+      "$description": "UTF32 디코딩은 UTF32로 인코딩된 텍스트를 읽기 쉬운 문자로 변환할 수 있는 도구입니다. 특히 코드에서 비 ASCII 문자를 다루어야 하는 개발자와 프로그래머에게 유용합니다.",
+      "$keywords": [
+        "utf32",
+        "디코딩"
+      ]
     },
-    "pt": {
-      "$name": "Codificação unicode",
-      "$description": "Texto de código no unicode",
-      "$keywords": ["codificação"]
+    "de": {
+      "$name": "UTF32 Decodierung",
+      "$description": "UTF32 Decodierung ist ein Tool, das Benutzern ermöglicht, UTF32-kodierte Texte in lesbare Zeichen umzuwandeln. Es ist besonders nützlich für Entwickler und Programmierer, die mit nicht-ASCII-Zeichen in ihrem Code arbeiten müssen.",
+      "$keywords": [
+        "utf32",
+        "decodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Décodage UTF32",
+      "$description": "Le Décodage UTF32 est un outil qui permet aux utilisateurs de convertir du texte encodé en UTF32 en caractères lisibles. Il est particulièrement utile pour les développeurs et les programmeurs qui ont besoin de travailler avec des caractères non-ASCII dans leur code.",
+      "$keywords": [
+        "utf32",
+        "décodage"
+      ]
+    },
+    "it": {
+      "$name": "Decodifica UTF32",
+      "$description": "La Decodifica UTF32 è uno strumento che consente agli utenti di convertire il testo codificato in UTF32 in caratteri leggibili. È particolarmente utile per sviluppatori e programmatori che devono lavorare con caratteri non ASCII nel loro codice.",
+      "$keywords": [
+        "utf32",
+        "decodifica"
+      ]
     },
     "ru": {
-      "$name": "Кодирование Unicode",
-      "$description": "Код текст в Unicode",
-      "$keywords": ["кодирование"]
+      "$name": "Декодирование UTF32",
+      "$description": "Декодирование UTF32 - это инструмент, который позволяет пользователям преобразовывать текст, закодированный в UTF32, в читаемые символы. Он особенно полезен для разработчиков и программистов, которые работают с не-ASCII символами в своем коде.",
+      "$keywords": [
+        "utf32",
+        "декодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Decodificação UTF32",
+      "$description": "A Decodificação UTF32 é uma ferramenta que permite aos usuários converter texto codificado em UTF32 em caracteres legíveis. É particularmente útil para desenvolvedores e programadores que precisam trabalhar com caracteres não ASCII em seu código.",
+      "$keywords": [
+        "utf32",
+        "decodificar"
+      ]
+    },
+    "en": {
+      "$name": "UTF32 Decoding",
+      "$description": "UTF32 Decoding is a tool that allows users to convert UTF32 encoded text into readable characters. It is particularly useful for developers and programmers who need to work with non-ASCII characters in their code.",
+      "$keywords": [
+        "utf32",
+        "decode"
+      ]
+    },
+    "id": "utf32-decode"
+  },
+  {
+    "zh-cn": {
+      "$name": "Unicode编码",
+      "$description": "Unicode编码是一种将文本转换为标准格式的工具，可以被不同的计算机系统和软件应用程序识别和显示。这种编码过程为文本中的每个字符、符号和字形分配一个唯一的代码点，使其能够在不同的平台和语言之间准确地表示和传输。",
+      "$keywords": [
+        "unicode",
+        "编码"
+      ]
     },
     "zh-tw": {
       "$name": "Unicode 編碼",
-      "$description": "將文本編碼為 Unicode",
-      "$keywords": ["編碼"]
-    },
-    "zh-cn": {
-      "$name": "Unicode 编码",
-      "$description": "将文本编码为 Unicode",
-      "$keywords": ["编码"]
-    }
-  },
-  {
-    "id": "unicode-decode",
-    "zh": {
-      "$name": "Unicode 解码",
-      "$description": "将 Unicode 解码为文本",
-      "$keywords": ["解码"]
-    },
-    "en": {
-      "$name": "Unicode Decode",
-      "$description": "Decodes unicode into text",
-      "$keywords": ["unicode", "decode"]
-    },
-    "de": {
-      "$name": "Unicode -Dekodierung",
-      "$description": "Dekodieren von Unicode als Text",
-      "$keywords": ["Dekodierung"]
+      "$description": "Unicode 編碼是一個將文字轉換為標準格式的工具，可以被不同的電腦系統和軟體應用程式識別和顯示。這個編碼過程為文本中的每個字符、符號和字形分配一個獨特的代碼點，使其能夠在不同的平台和語言之間準確地表示和傳輸。",
+      "$keywords": [
+        "unicode",
+        "編碼"
+      ]
     },
     "es": {
-      "$name": "Decodificación unicode",
-      "$description": "Decodificar unicode como texto",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage Unicode",
-      "$description": "Décodage Unicode comme texte",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica Unicode",
-      "$description": "Decodifica Unicode come testo",
-      "$keywords": ["decodifica"]
+      "$name": "Codificación Unicode",
+      "$description": "La Codificación Unicode es una herramienta que convierte el texto en un formato estandarizado que puede ser reconocido y mostrado por diferentes sistemas informáticos y aplicaciones de software. Este proceso de codificación asigna un punto de código único a cada carácter, símbolo y glifo en el texto, permitiendo que sea representado y transmitido con precisión en diferentes plataformas y lenguajes.",
+      "$keywords": [
+        "unicode",
+        "codificar"
+      ]
     },
     "ja": {
-      "$name": "ユニコードデコード",
-      "$description": "Unicodeをテキストとして解読します",
-      "$keywords": ["デコード"]
+      "$name": "Unicodeエンコーディング",
+      "$description": "Unicodeエンコーディングは、テキストを標準化された形式に変換し、異なるコンピュータシステムやソフトウェアアプリケーションで認識および表示できるようにするツールです。このエンコーディングプロセスは、テキスト内の各文字、記号、およびグリフに一意のコードポイントを割り当て、異なるプラットフォームや言語間で正確に表現および伝送できるようにします。",
+      "$keywords": [
+        "unicode",
+        "encode"
+      ]
     },
     "ko": {
-      "$name": "유니 코드 디코딩",
-      "$description": "텍스트로 유니 코드를 디코딩합니다",
-      "$keywords": ["디코딩"]
+      "$name": "유니코드 인코딩",
+      "$description": "유니코드 인코딩은 텍스트를 표준화된 형식으로 변환하여 다른 컴퓨터 시스템 및 소프트웨어 애플리케이션에서 인식하고 표시할 수 있는 도구입니다. 이 인코딩 프로세스는 텍스트의 각 문자, 기호 및 글리프에 고유한 코드 포인트를 할당하여 다른 플랫폼 및 언어에서 정확하게 표시 및 전송할 수 있도록 합니다.",
+      "$keywords": [
+        "유니코드",
+        "인코딩"
+      ]
     },
-    "pt": {
-      "$name": "Unicode decodificação",
-      "$description": "Decodificar unicode como texto",
-      "$keywords": ["decodificação"]
+    "de": {
+      "$name": "Unicode-Kodierung",
+      "$description": "Die Unicode-Kodierung ist ein Tool, das Text in ein standardisiertes Format umwandelt, das von verschiedenen Computersystemen und Softwareanwendungen erkannt und angezeigt werden kann. Dieser Kodierungsprozess weist jedem Zeichen, Symbol und Glyphen im Text einen eindeutigen Codepunkt zu, so dass er genau über verschiedene Plattformen und Sprachen hinweg dargestellt und übertragen werden kann.",
+      "$keywords": [
+        "unicode",
+        "kodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Encodage Unicode",
+      "$description": "L'encodage Unicode est un outil qui convertit le texte en un format standardisé qui peut être reconnu et affiché par différents systèmes informatiques et applications logicielles. Ce processus d'encodage attribue un point de code unique à chaque caractère, symbole et glyphe dans le texte, ce qui permet de le représenter et de le transmettre avec précision sur différentes plateformes et langues.",
+      "$keywords": [
+        "unicode",
+        "encodage"
+      ]
+    },
+    "it": {
+      "$name": "Codifica Unicode",
+      "$description": "La Codifica Unicode è uno strumento che converte il testo in un formato standardizzato che può essere riconosciuto e visualizzato da diversi sistemi informatici e applicazioni software. Questo processo di codifica assegna un punto di codice univoco a ogni carattere, simbolo e glifo nel testo, consentendone la rappresentazione e la trasmissione accurata su diverse piattaforme e lingue.",
+      "$keywords": [
+        "unicode",
+        "codifica"
+      ]
     },
     "ru": {
-      "$name": "Декодирование Unicode",
-      "$description": "Декодирование Unicode как текст",
-      "$keywords": ["декодирование"]
+      "$name": "Кодирование Unicode",
+      "$description": "Кодирование Unicode - это инструмент, который преобразует текст в стандартизированный формат, который может быть распознан и отображен различными компьютерными системами и программными приложениями. Этот процесс кодирования назначает уникальную точку кода каждому символу, символу и глифу в тексте, позволяя ему точно представляться и передаваться на разных платформах и языках.",
+      "$keywords": [
+        "unicode",
+        "кодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Codificação Unicode",
+      "$description": "A Codificação Unicode é uma ferramenta que converte texto em um formato padronizado que pode ser reconhecido e exibido por diferentes sistemas de computador e aplicativos de software. Esse processo de codificação atribui um ponto de código exclusivo a cada caractere, símbolo e glifo no texto, permitindo que ele seja representado e transmitido com precisão em diferentes plataformas e idiomas.",
+      "$keywords": [
+        "unicode",
+        "codificar"
+      ]
+    },
+    "en": {
+      "$name": "Unicode Encoding",
+      "$description": "Unicode Encoding is a tool that converts text into a standardized format that can be recognized and displayed by different computer systems and software applications. This encoding process assigns a unique code point to each character, symbol, and glyph in the text, allowing it to be represented and transmitted accurately across different platforms and languages.",
+      "$keywords": [
+        "unicode",
+        "encode"
+      ]
+    },
+    "id": "unicode-encode"
+  },
+  {
+    "zh-cn": {
+      "$name": "Unicode解码",
+      "$description": "Unicode解码是一种将Unicode字符转换为可读文本的工具，使用户能够轻松解码并理解编码字符背后的含义。此工具特别适用于需要为其应用程序解码Unicode字符的国际语言开发人员和程序员。",
+      "$keywords": [
+        "unicode",
+        "解码"
+      ]
     },
     "zh-tw": {
       "$name": "Unicode 解碼",
-      "$description": "將 Unicode 解碼為文本",
-      "$keywords": ["解碼"]
+      "$description": "Unicode 解碼是一個將 Unicode 字元轉換為可讀文字的工具，讓使用者能夠輕鬆解碼並理解編碼字元背後的含義。此工具對於需要處理國際語言並需要解碼 Unicode 字元的開發人員和程式設計師特別有用。",
+      "$keywords": [
+        "unicode",
+        "解碼"
+      ]
     },
-    "zh-cn": {
-      "$name": "Unicode 解码",
-      "$description": "将 Unicode 解码为文本",
-      "$keywords": ["解码"]
-    }
+    "es": {
+      "$name": "Decodificación Unicode",
+      "$description": "La Decodificación Unicode es una herramienta que convierte caracteres Unicode en texto legible, permitiendo a los usuarios decodificar y entender fácilmente el significado detrás de los caracteres codificados. Esta herramienta es particularmente útil para desarrolladores y programadores que trabajan con lenguajes internacionales y necesitan decodificar caracteres Unicode para sus aplicaciones.",
+      "$keywords": [
+        "unicode",
+        "decodificar"
+      ]
+    },
+    "ja": {
+      "$name": "Unicodeデコード",
+      "$description": "Unicodeデコードは、Unicode文字を読みやすいテキストに変換するツールであり、エンコードされた文字の意味を簡単にデコードして理解することができます。このツールは、国際言語を扱い、アプリケーションのためにUnicode文字をデコードする必要がある開発者やプログラマーに特に役立ちます。",
+      "$keywords": [
+        "unicode",
+        "decode"
+      ]
+    },
+    "ko": {
+      "$name": "유니코드 디코딩",
+      "$description": "유니코드 디코딩은 유니코드 문자를 읽기 쉬운 텍스트로 변환하여 인코딩된 문자의 의미를 쉽게 해석할 수 있도록 도와주는 도구입니다. 이 도구는 국제 언어를 다루는 개발자와 프로그래머들이 애플리케이션에 유니코드 문자를 디코딩해야 할 때 특히 유용합니다.",
+      "$keywords": [
+        "유니코드",
+        "디코딩"
+      ]
+    },
+    "de": {
+      "$name": "Unicode-Decodierung",
+      "$description": "Die Unicode-Decodierung ist ein Tool, das Unicode-Zeichen in lesbaren Text umwandelt und Benutzern ermöglicht, die Bedeutung hinter den codierten Zeichen leicht zu entschlüsseln und zu verstehen. Dieses Tool ist besonders nützlich für Entwickler und Programmierer, die mit internationalen Sprachen arbeiten und Unicode-Zeichen für ihre Anwendungen entschlüsseln müssen.",
+      "$keywords": [
+        "unicode",
+        "decodieren"
+      ]
+    },
+    "fr": {
+      "$name": "Décodage Unicode",
+      "$description": "Le Décodage Unicode est un outil qui convertit les caractères Unicode en texte lisible, permettant aux utilisateurs de décoder facilement et de comprendre la signification derrière les caractères encodés. Cet outil est particulièrement utile pour les développeurs et les programmeurs qui travaillent avec des langues internationales et ont besoin de décoder les caractères Unicode pour leurs applications.",
+      "$keywords": [
+        "unicode",
+        "décodage"
+      ]
+    },
+    "it": {
+      "$name": "Decodifica Unicode",
+      "$description": "La Decodifica Unicode è uno strumento che converte i caratteri Unicode in testo leggibile, consentendo agli utenti di decodificare facilmente e comprendere il significato dei caratteri codificati. Questo strumento è particolarmente utile per sviluppatori e programmatori che lavorano con lingue internazionali e devono decodificare i caratteri Unicode per le loro applicazioni.",
+      "$keywords": [
+        "unicode",
+        "decodifica"
+      ]
+    },
+    "ru": {
+      "$name": "Декодирование Unicode",
+      "$description": "Декодирование Unicode - это инструмент, который преобразует символы Unicode в читаемый текст, позволяя пользователям легко декодировать и понимать значение закодированных символов. Этот инструмент особенно полезен для разработчиков и программистов, которые работают с международными языками и нуждаются в декодировании символов Unicode для своих приложений.",
+      "$keywords": [
+        "unicode",
+        "декодирование"
+      ]
+    },
+    "pt": {
+      "$name": "Decodificação Unicode",
+      "$description": "A Decodificação Unicode é uma ferramenta que converte caracteres Unicode em texto legível, permitindo que os usuários decodifiquem e entendam facilmente o significado por trás dos caracteres codificados. Esta ferramenta é particularmente útil para desenvolvedores e programadores que trabalham com idiomas internacionais e precisam decodificar caracteres Unicode para suas aplicações.",
+      "$keywords": [
+        "unicode",
+        "decodificar"
+      ]
+    },
+    "en": {
+      "$name": "Unicode Decoding",
+      "$description": "Unicode Decoding is a tool that converts Unicode characters into readable text, allowing users to easily decode and understand the meaning behind the encoded characters. This tool is particularly useful for developers and programmers who work with international languages and need to decode Unicode characters for their applications.",
+      "$keywords": [
+        "unicode",
+        "decode"
+      ]
+    },
+    "id": "unicode-decode"
   }
 ]

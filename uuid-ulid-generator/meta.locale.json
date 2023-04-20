@@ -1,102 +1,134 @@
 {
-    "zh": {
-      "$name": "UUID/ULID/NANOID 生成器",
-      "$description": "生成 UUID 或 ULID 或 NANOID",
-      "$keywords": [
-        "生成",
-        "唯一"
-      ]
-    },
-    "en": {
-      "$name": "UUID/ULID/NANOID Generator",
-      "$description": "Generate UUID or ULID or NANOID",
-      "$keywords": [
-        "UUID",
-        "ULID",
-        "NANOID",
-        "ID",
-        "Generate",
-        "unique"
-      ]
-    },
-    "de": {
-      "$name": "UUID/ULID/NANOID -Generator",
-      "$description": "Uuid oder ulid erzeugen",
-      "$keywords": [
-        "generieren",
-        "nur"
-      ]
-    },
-    "es": {
-      "$name": "Uuid/Ulid/Nanoid Generator",
-      "$description": "Generare uuid o ulid o nanoid",
-      "$keywords": [
-        "generar",
-        "solo"
-      ]
-    },
-    "fr": {
-      "$name": "Générateur UUID / ULID  / NANOID",
-      "$description": "Générer UUID ou ULID or NANOID",
-      "$keywords": [
-        "générer",
-        "seul"
-      ]
-    },
-    "it": {
-      "$name": "Generatore UUID/Ulid/Nanoid",
-      "$description": "Generare uuid o ulid o nanoid",
-      "$keywords": [
-        "creare",
-        "soltanto"
-      ]
-    },
-    "ja": {
-      "$name": "uuid/ulid/nanoidジェネレーター",
-      "$description": "UUID または ULID または NANOID を生成します,",
-      "$keywords": [
-        "生成",
-        "それだけ"
-      ]
-    },
-    "ko": {
-      "$name": "uuid/ulid/nanoid 생성기",
-      "$description": "UUID 또는 ULID 또는 NANOID를 생성합니다.",
-      "$keywords": [
-        "생성하다",
-        "오직"
-      ]
-    },
-    "pt": {
-      "$name": "Gerador Uuid/Ulid/Nanoid",
-      "$description": "Gera UUID ou ULID ou NANOID",
-      "$keywords": [
-        "gerar",
-        "apenas"
-      ]
-    },
-    "ru": {
-      "$name": "Uuid/ulid/nanoid Generator",
-      "$description":  "Генерирует UUID или ULID или NANOID",
-      "$keywords": [
-        "генерировать",
-        "только"
-      ]
-    },
-    "zh-tw": {
-      "$name": "UUID/ULID/NANOID 生成器",
-      "$description": "生成 UUID、ULID 或 NANOID",
-      "$keywords": [
-        "生成",
-        "唯一"
-      ]
-    },
-    "zh-cn": {
-      "$name": "UUID/ULID/NANOID 生成器",
-      "$description": "生成 UUID、ULID 或 NANOID",
-      "$keywords": [
-        "生成",
-        "唯一"
-      ]
-    }
+  "zh-cn": {
+    "$name": "UUID/ULID/NANOID生成器",
+    "$description": "UUID/ULID/NANOID生成器是一款强大的工具，允许用户生成唯一标识符，如UUID、ULID和NANOID。使用此工具，用户可以轻松创建保证唯一性的ID，非常适用于需要唯一标识的各种应用。",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "生成",
+      "唯一"
+    ]
+  },
+  "zh-tw": {
+    "$name": "UUID/ULID/NANOID 產生器",
+    "$description": "UUID/ULID/NANOID 產生器是一個強大的工具，允許使用者生成唯一的識別符，如 UUID、ULID 和 NANOID。使用此工具，使用者可以輕鬆創建保證唯一的 ID，非常適合需要唯一識別的各種應用。",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "生成",
+      "唯一"
+    ]
+  },
+  "es": {
+    "$name": "Generador de UUID/ULID/NANOID",
+    "$description": "El Generador de UUID/ULID/NANOID es una herramienta poderosa que permite a los usuarios generar identificadores únicos como UUID, ULID y NANOID. Con esta herramienta, los usuarios pueden crear fácilmente IDs que están garantizados para ser únicos, lo que lo hace ideal para varias aplicaciones que requieren identificación única.",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Generar",
+      "único"
+    ]
+  },
+  "ja": {
+    "$name": "UUID/ULID/NANOIDジェネレーター",
+    "$description": "UUID/ULID/NANOIDジェネレーターは、UUID、ULID、NANOIDなどの一意の識別子を生成する強力なツールです。このツールを使用すると、ユーザーは一意であることが保証されたIDを簡単に作成できるため、一意の識別が必要なさまざまなアプリケーションに最適です。",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "生成",
+      "一意"
+    ]
+  },
+  "ko": {
+    "$name": "UUID/ULID/NANOID 생성기",
+    "$description": "UUID/ULID/NANOID 생성기는 UUID, ULID 및 NANOID와 같은 고유 식별자를 생성할 수 있는 강력한 도구입니다. 이 도구를 사용하면 사용자는 고유성이 보장된 ID를 쉽게 생성할 수 있으므로 고유 식별이 필요한 다양한 응용 프로그램에 이상적입니다.",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "생성",
+      "고유"
+    ]
+  },
+  "de": {
+    "$name": "UUID/ULID/NANOID Generator",
+    "$description": "Der UUID/ULID/NANOID Generator ist ein leistungsstarkes Tool, mit dem Benutzer eindeutige Bezeichner wie UUID, ULID und NANOID generieren können. Mit diesem Tool können Benutzer problemlos IDs erstellen, die garantiert einzigartig sind, was es ideal für verschiedene Anwendungen macht, die eine eindeutige Identifizierung erfordern.",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Generieren",
+      "einzigartig"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur UUID/ULID/NANOID",
+    "$description": "Le Générateur UUID/ULID/NANOID est un outil puissant qui permet aux utilisateurs de générer des identifiants uniques tels que UUID, ULID et NANOID. Avec cet outil, les utilisateurs peuvent facilement créer des identifiants qui sont garantis d'être uniques, ce qui en fait l'outil idéal pour diverses applications qui nécessitent une identification unique.",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Générer",
+      "unique"
+    ]
+  },
+  "it": {
+    "$name": "Generatore UUID/ULID/NANOID",
+    "$description": "Il Generatore UUID/ULID/NANOID è uno strumento potente che consente agli utenti di generare identificatori unici come UUID, ULID e NANOID. Con questo strumento, gli utenti possono facilmente creare ID garantiti come unici, rendendolo ideale per varie applicazioni che richiedono un'identificazione unica.",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Generare",
+      "Unico"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор UUID/ULID/NANOID",
+    "$description": "Генератор UUID/ULID/NANOID - это мощный инструмент, который позволяет пользователям генерировать уникальные идентификаторы, такие как UUID, ULID и NANOID. С помощью этого инструмента пользователи могут легко создавать идентификаторы, которые гарантированно будут уникальными, что делает его идеальным для различных приложений, которые требуют уникальной идентификации.",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Генерировать",
+      "Уникальный"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de UUID/ULID/NANOID",
+    "$description": "O Gerador de UUID/ULID/NANOID é uma ferramenta poderosa que permite aos usuários gerar identificadores únicos como UUID, ULID e NANOID. Com esta ferramenta, os usuários podem facilmente criar IDs que são garantidos para serem únicos, tornando-a ideal para várias aplicações que requerem identificação única.",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Gerar",
+      "único"
+    ]
+  },
+  "en": {
+    "$name": "UUID/ULID/NANOID Generator",
+    "$description": "The UUID/ULID/NANOID Generator is a powerful tool that allows users to generate unique identifiers such as UUID, ULID, and NANOID. With this tool, users can easily create IDs that are guaranteed to be unique, making it ideal for various applications that require unique identification.",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Generate",
+      "unique"
+    ]
   }
+}

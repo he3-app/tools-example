@@ -17,7 +17,7 @@
       "category": [
         "encode"
       ],
-      "description": "UTF7 Decode",
+      "description": "UTF7 Decoding is a tool that allows users to decode text that has been encoded using the UTF-7 character encoding scheme. This tool is particularly useful for decoding email messages that have been encoded in UTF-7 format.",
       "keywords": [
         "UTF7",
         "UTF-7",
@@ -37,7 +37,7 @@
       "category": [
         "encode"
       ],
-      "description": "UTF7 Encode",
+      "description": "UTF7 Encoding is a character encoding scheme that allows for the representation of Unicode characters using only 7-bit ASCII characters. It is commonly used in email systems and other applications where 8-bit data transmission is not possible.",
       "keywords": [
         "UTF7",
         "UTF-7",
@@ -57,7 +57,7 @@
       "category": [
         "encode"
       ],
-      "description": "UTF8 Encode",
+      "description": "UTF8 Encoding is a tool that converts characters and symbols into a standardized format that can be read and understood by different computer systems. It uses the UTF-8 encoding scheme, which is a variable-length character encoding that can represent any character in the Unicode standard.",
       "keywords": [
         "UTF",
         "UTF8",
@@ -78,7 +78,7 @@
       "category": [
         "encode"
       ],
-      "description": "UTF8 Decode",
+      "description": "UTF8 Decoding is a tool that allows users to convert UTF8 encoded text into readable characters. It supports various UTF8 formats such as UTF, UTF8, and UTF-8, making it a versatile tool for decoding text.",
       "keywords": [
         "UTF",
         "UTF8",
@@ -99,7 +99,7 @@
       "category": [
         "encode"
       ],
-      "description": "UTF16 Encode",
+      "description": "UTF16 Encoding is a tool that converts characters and symbols into a binary format that can be read and processed by computers. It uses the UTF16 standard to encode text, which allows for the representation of a wide range of characters from different languages and scripts.",
       "keywords": [
         "utf16",
         "encode"
@@ -118,7 +118,7 @@
       "category": [
         "encode"
       ],
-      "description": "UTF16 Decode",
+      "description": "UTF16 Decoding is a tool that allows users to convert UTF16 encoded text into readable characters. It is particularly useful for decoding text that has been encoded in UTF16 format, which is commonly used in computer systems and programming languages.",
       "keywords": [
         "utf16",
         "decode"
@@ -137,7 +137,7 @@
       "category": [
         "encode"
       ],
-      "description": "UTF32 Encode",
+      "description": "UTF32 Encoding is a tool that converts Unicode characters into their corresponding 32-bit code points. It is commonly used in programming and data storage applications that require a fixed-length encoding for Unicode characters.",
       "keywords": [
         "utf32",
         "encode"
@@ -156,7 +156,7 @@
       "category": [
         "encode"
       ],
-      "description": "UTF32 Decode",
+      "description": "UTF32 Decoding is a tool that allows users to convert UTF32 encoded text into readable characters. It is particularly useful for developers and programmers who need to work with non-ASCII characters in their code.",
       "keywords": [
         "utf32",
         "decode"
@@ -175,7 +175,7 @@
       "category": [
         "encode"
       ],
-      "description": "Encodes text into unicode",
+      "description": "Unicode Encoding is a tool that converts text into a standardized format that can be recognized and displayed by different computer systems and software applications. This encoding process assigns a unique code point to each character, symbol, and glyph in the text, allowing it to be represented and transmitted accurately across different platforms and languages.",
       "keywords": [
         "unicode",
         "encode"
@@ -194,7 +194,7 @@
       "category": [
         "encode"
       ],
-      "description": "Decodes unicode into text",
+      "description": "Unicode Decoding is a tool that converts Unicode characters into readable text, allowing users to easily decode and understand the meaning behind the encoded characters. This tool is particularly useful for developers and programmers who work with international languages and need to decode Unicode characters for their applications.",
       "keywords": [
         "unicode",
         "decode"

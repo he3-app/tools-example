@@ -1,99 +1,101 @@
 {
-  "en": {
-    "$name": "URL Encode",
-    "$description": "URL Encode",
-    "$keywords": [
-      "url",
-      "uri",
-      "Encode"
-    ]
-  },
-  "es": {
-    "$name": "Codificación de URL",
-    "$description": "Codificación de URL",
+  "zh-cn": {
+    "$name": "URL编码",
+    "$description": "URL编码是将字符转换为可在互联网上传输的格式的过程。它用于对URL、URI或任何其他Web地址中的特殊字符进行编码，以确保Web浏览器和服务器正确解释地址。",
     "$keywords": [
       "URL",
-      "uri",
-      "Codificar"
-    ]
-  },
-  "de": {
-    "$name": "URL-Codierung",
-    "$description": "URL-Codierung",
-    "$keywords": [
-      "URL",
-      "uri",
-      "Kodieren"
-    ]
-  },
-  "pt": {
-    "$name": "Codificação de URL",
-    "$description": "Codificação de URL",
-    "$keywords": [
-      "url",
-      "uri",
-      "Codificar"
-    ]
-  },
-  "ko": {
-    "$name": "URL 인코딩",
-    "$description": "URL 인코딩",
-    "$keywords": [
-      "URL",
-      "우리",
-      "인코딩"
+      "URI",
+      "编码"
     ]
   },
   "zh-tw": {
     "$name": "URL 編碼",
-    "$description": "URL 編碼",
+    "$description": "URL 編碼是將字符轉換為可在互聯網上傳輸的格式的過程。它用於編碼 URL、URI 或任何其他網址中的特殊字符，以確保網頁瀏覽器和服務器正確解釋地址。",
     "$keywords": [
-      "網址",
+      "URL",
+      "URI",
       "編碼"
     ]
   },
-  "zh-cn": {
-    "$name": "URL 编码",
-    "$description": "URL 编码",
-    "$keywords": [
-      "网址",
-      "编码"
-    ]
-  },
-  "ru": {
-    "$name": "URL кодировать",
-    "$description": "URL кодировать",
+  "es": {
+    "$name": "Codificación de URL",
+    "$description": "La codificación de URL es un proceso de conversión de caracteres a un formato que se puede transmitir por Internet. Se utiliza para codificar caracteres especiales en una URL, URI o cualquier otra dirección web para garantizar que la dirección sea interpretada correctamente por los navegadores y servidores web.",
     "$keywords": [
       "URL",
-      "ури",
-      "Кодировать"
+      "URI",
+      "Codificar"
+    ]
+  },
+  "ja": {
+    "$name": "URLエンコーディング",
+    "$description": "URLエンコーディングは、文字をインターネットで送信できる形式に変換するプロセスです。URL、URI、または他のWebアドレスで特殊文字をエンコードして、Webブラウザやサーバーがアドレスを正しく解釈できるようにします。",
+    "$keywords": [
+      "URL",
+      "URI",
+      "エンコード"
+    ]
+  },
+  "ko": {
+    "$name": "URL 인코딩",
+    "$description": "URL 인코딩은 인터넷을 통해 전송할 수 있는 형식으로 문자를 변환하는 과정입니다. URL, URI 또는 다른 웹 주소에서 특수 문자를 인코딩하여 웹 브라우저 및 서버에서 주소를 올바르게 해석할 수 있도록 합니다.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "인코딩"
+    ]
+  },
+  "de": {
+    "$name": "URL-Codierung",
+    "$description": "URL-Codierung ist ein Prozess zur Umwandlung von Zeichen in ein Format, das über das Internet übertragen werden kann. Es wird verwendet, um Sonderzeichen in einer URL, URI oder jeder anderen Webadresse zu codieren, um sicherzustellen, dass die Adresse von Webbrowsern und Servern korrekt interpretiert wird.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Codieren"
     ]
   },
   "fr": {
     "$name": "Encodage d'URL",
-    "$description": "Encodage d'URL",
+    "$description": "L'encodage d'URL est un processus de conversion de caractères dans un format pouvant être transmis sur Internet. Il est utilisé pour encoder des caractères spéciaux dans une URL, une URI ou toute autre adresse Web afin de garantir que l'adresse soit correctement interprétée par les navigateurs Web et les serveurs.",
     "$keywords": [
       "URL",
-      "uri",
+      "URI",
       "Encoder"
-    ]
-  },
-  "ja": {
-    "$name": "URL エンコード",
-    "$description": "URL エンコード",
-    "$keywords": [
-      "URL",
-      "うり",
-      "エンコード"
     ]
   },
   "it": {
     "$name": "Codifica URL",
-    "$description": "Codifica URL",
+    "$description": "La codifica URL è un processo di conversione dei caratteri in un formato che può essere trasmesso su Internet. Viene utilizzata per codificare i caratteri speciali in un URL, URI o qualsiasi altro indirizzo web per garantire che l'indirizzo sia interpretato correttamente dai browser e dai server web.",
     "$keywords": [
       "URL",
-      "uri",
-      "Codificare"
+      "URI",
+      "Codifica"
+    ]
+  },
+  "ru": {
+    "$name": "Кодирование URL",
+    "$description": "Кодирование URL - это процесс преобразования символов в формат, который может быть передан через интернет. Оно используется для кодирования специальных символов в URL, URI или любом другом веб-адресе, чтобы гарантировать правильную интерпретацию адреса веб-браузерами и серверами.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Кодирование"
+    ]
+  },
+  "pt": {
+    "$name": "Codificação de URL",
+    "$description": "A codificação de URL é um processo de conversão de caracteres em um formato que pode ser transmitido pela internet. É usado para codificar caracteres especiais em um URL, URI ou qualquer outro endereço da web para garantir que o endereço seja interpretado corretamente pelos navegadores e servidores da web.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Codificar"
+    ]
+  },
+  "en": {
+    "$name": "URL Encoding",
+    "$description": "URL Encoding is a process of converting characters into a format that can be transmitted over the internet. It is used to encode special characters in a URL, URI or any other web address to ensure that the address is correctly interpreted by web browsers and servers.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Encode"
     ]
   }
 }

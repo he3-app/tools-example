@@ -16,7 +16,7 @@
     "category": [
       "programming"
     ],
-    "description": "Generate a JWT token",
+    "description": "The JWT Generator is a web-based tool that allows users to easily generate JSON Web Tokens (JWT) using various algorithms such as HS256, HS384, and HS512. This tool is particularly useful for developers working with web applications and JavaScript, as it simplifies the process of generating secure tokens for authentication and authorization purposes.",
     "keywords": [
       "generate",
       "generator",

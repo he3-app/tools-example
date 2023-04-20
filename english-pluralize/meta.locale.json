@@ -1,105 +1,119 @@
 {
+  "zh-cn": {
+    "$name": "英语单数转复数",
+    "$description": "英语单数转复数工具是一种语言工具，可以自动将英语单数词转换为相应的复数形式。它对于需要确保写作语法准确性的作家、编辑和语言学习者非常有用。",
+    "$keywords": [
+      "复数",
+      "复数化",
+      "单数",
+      "单数形式",
+      "英语"
+    ]
+  },
+  "zh-tw": {
+    "$name": "英文單數轉複數",
+    "$description": "英文單數轉複數工具是一種語言工具，可以自動將英文單數詞轉換為相應的複數形式。它對於需要確保寫作文法準確性的作家、編輯和語言學習者非常有用。",
+    "$keywords": [
+      "複數",
+      "複數化",
+      "單數",
+      "單數形式",
+      "英文"
+    ]
+  },
+  "es": {
+    "$name": "Singular a Plural en Inglés",
+    "$description": "La herramienta Singular a Plural en Inglés es una herramienta de lenguaje que convierte automáticamente palabras en inglés singulares a sus formas plurales correspondientes. Es útil para escritores, editores y estudiantes de idiomas que necesitan asegurar la precisión gramatical en su escritura.",
+    "$keywords": [
+      "plural",
+      "pluralizar",
+      "singular",
+      "inglés"
+    ]
+  },
+  "ja": {
+    "$name": "英語単数形から複数形への変換ツール",
+    "$description": "英語単数形から複数形へ自動的に変換する言語ツールです。文章の文法的正確性を確保する必要があるライターや編集者、言語学習者に役立ちます。",
+    "$keywords": [
+      "複数形",
+      "単数形",
+      "英語"
+    ]
+  },
+  "ko": {
+    "$name": "영어 단수형을 복수형으로 변환하는 도구",
+    "$description": "영어 단수형을 자동으로 해당하는 복수형으로 변환해주는 언어 도구입니다. 작가, 편집자 및 언어 학습자들이 글쓰기에서 문법적 정확성을 보장해야 할 때 유용합니다.",
+    "$keywords": [
+      "복수형",
+      "복수화",
+      "단수형",
+      "영어"
+    ]
+  },
+  "de": {
+    "$name": "Englisch Singular zu Plural",
+    "$description": "Das Englisch Singular zu Plural Tool ist ein Sprachwerkzeug, das automatisch englische Singularwörter in ihre entsprechenden Pluralformen umwandelt. Es ist nützlich für Schriftsteller, Redakteure und Sprachlernende, die grammatische Genauigkeit in ihrem Schreiben sicherstellen müssen.",
+    "$keywords": [
+      "Plural",
+      "Pluralisieren",
+      "Einzahl",
+      "Singular",
+      "Englisch"
+    ]
+  },
+  "fr": {
+    "$name": "Singulier en pluriel",
+    "$description": "L'outil Singulier en pluriel est un outil linguistique qui convertit automatiquement les mots anglais singuliers en leurs formes plurielles correspondantes. Il est utile pour les écrivains, les éditeurs et les apprenants en langue qui ont besoin de garantir l'exactitude grammaticale dans leur écriture.",
+    "$keywords": [
+      "pluriel",
+      "plurieliser",
+      "unique",
+      "singulier",
+      "anglais"
+    ]
+  },
+  "it": {
+    "$name": "Singolare inglese al plurale",
+    "$description": "Lo strumento Singolare inglese al plurale è uno strumento linguistico che converte automaticamente le parole inglesi singolari nelle loro forme plurali corrispondenti. È utile per scrittori, editori e studenti di lingue che devono garantire l'accuratezza grammaticale nella loro scrittura.",
+    "$keywords": [
+      "plurale",
+      "plurale",
+      "singolo",
+      "singolare",
+      "inglese"
+    ]
+  },
+  "ru": {
+    "$name": "Английский единственное число во множественное",
+    "$description": "Инструмент для английского единственного числа во множественное - это языковой инструмент, который автоматически преобразует единственные английские слова в соответствующие им формы множественного числа. Он полезен для писателей, редакторов и изучающих язык, которые нуждаются в обеспечении грамматической точности в своей письменной речи.",
+    "$keywords": [
+      "множественное число",
+      "множественное число",
+      "единственное число",
+      "единственное число",
+      "английский"
+    ]
+  },
+  "pt": {
+    "$name": "Singular para Plural em Inglês",
+    "$description": "A ferramenta Singular para Plural em Inglês é uma ferramenta de linguagem que converte automaticamente palavras em inglês no singular para suas formas plurais correspondentes. É útil para escritores, editores e aprendizes de línguas que precisam garantir a precisão gramatical em sua escrita.",
+    "$keywords": [
+      "plural",
+      "pluralizar",
+      "único",
+      "singular",
+      "inglês"
+    ]
+  },
   "en": {
     "$name": "English singular to plural",
-    "$description": "English singular to plural",
+    "$description": "The English singular to plural tool is a language tool that automatically converts singular English words to their corresponding plural forms. It is useful for writers, editors, and language learners who need to ensure grammatical accuracy in their writing.",
     "$keywords": [
       "plural",
       "pluralize",
       "single",
       "singular",
       "english"
-    ]
-  },
-  "zh-cn": {
-    "$name": "英语单数变复数",
-    "$description": "英语单数变复数",
-    "$keywords": [
-      "复数",
-      "复数化",
-      "单数",
-      "英语"
-    ]
-  },
-  "zh-tw": {
-    "$name": "英語單數變複數",
-    "$description": "英語單數變複數",
-    "$keywords": [
-      "複數",
-      "複數化",
-      "單數",
-      "英語"
-    ]
-  },
-  "ja": {
-    "$name": "英語の単数形から複数形",
-    "$description": "英語の単数形から複数形",
-    "$keywords": [
-      "複数",
-      "複数形にする",
-      "英語"
-    ]
-  },
-  "ko": {
-    "$name": "영어 단수에서 복수로",
-    "$description": "영어 단수에서 복수로",
-    "$keywords": [
-      "복수형",
-      "복수화하다",
-      "영어"
-    ]
-  },
-  "fr": {
-    "$name": "Anglais du singulier au pluriel",
-    "$description": "Anglais du singulier au pluriel",
-    "$keywords": [
-      "pluriel",
-      "pluraliser",
-      "Anglais"
-    ]
-  },
-  "it": {
-    "$name": "Inglese dal singolare al plurale",
-    "$description": "Inglese dal singolare al plurale",
-    "$keywords": [
-      "plurale",
-      "pluralizzare",
-      "inglese"
-    ]
-  },
-  "de": {
-    "$name": "Englisch Singular zum Plural",
-    "$description": "Englisch Singular zum Plural",
-    "$keywords": [
-      "Plural",
-      "pluralisieren",
-      "Englisch"
-    ]
-  },
-  "ru": {
-    "$name": "Английский от единственного до множественного числа",
-    "$description": "Английский от единственного до множественного числа",
-    "$keywords": [
-      "множественное число",
-      "множественное число",
-      "английский"
-    ]
-  },
-  "pt": {
-    "$name": "Inglês singular para plural",
-    "$description": "Inglês singular para plural",
-    "$keywords": [
-      "plural",
-      "pluralizar",
-      "inglês"
-    ]
-  },
-  "es": {
-    "$name": "Inglés singular a plural",
-    "$description": "Inglés singular a plural",
-    "$keywords": [
-      "plural",
-      "pluralizar",
-      "inglés"
     ]
   }
 }

@@ -17,7 +17,7 @@
     "category": [
       "encode"
     ],
-    "description": "URL Encode",
+    "description": "URL Encoding is a process of converting characters into a format that can be transmitted over the internet. It is used to encode special characters in a URL, URI or any other web address to ensure that the address is correctly interpreted by web browsers and servers.",
     "keywords": [
       "URL",
       "URI",

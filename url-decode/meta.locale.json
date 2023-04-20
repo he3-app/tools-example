@@ -1,99 +1,101 @@
 {
-  "en": {
-    "$name": "URL Decode",
-    "$description": "URL Decode",
-    "$keywords": [
-      "url",
-      "uri",
-      "Decode"
-    ]
-  },
-  "pt": {
-    "$name": "Decodificação de URL",
-    "$description": "Decodificação de URL",
-    "$keywords": [
-      "url",
-      "uri",
-      "Decodificar"
-    ]
-  },
-  "ru": {
-    "$name": "URL-декодирование",
-    "$description": "URL-декодирование",
+  "zh-cn": {
+    "$name": "URL解码",
+    "$description": "URL解码是一种工具，允许用户将编码的URL、URI和其他Web地址转换为它们的原始形式。这个工具特别适用于需要解决与URL编码和解码相关问题的开发人员和网站管理员。",
     "$keywords": [
       "URL",
-      "ури",
-      "Расшифровать"
+      "URI",
+      "解码"
     ]
   },
   "zh-tw": {
     "$name": "URL 解碼",
-    "$description": "URL 解碼",
+    "$description": "URL 解碼是一個工具，允許用戶將編碼的 URL、URI 和其他網址轉換為它們的原始形式。這個工具對於需要解決與 URL 編碼和解碼相關問題的開發人員和網站管理員特別有用。",
     "$keywords": [
-      "網址",
+      "URL",
+      "URI",
       "解碼"
-    ]
-  },
-  "zh-cn": {
-    "$name": "URL 解码",
-    "$description": "URL 解码",
-    "$keywords": [
-      "网址",
-      "解码"
-    ]
-  },
-  "ko": {
-    "$name": "URL 디코드",
-    "$description": "URL 디코드",
-    "$keywords": [
-      "URL",
-      "우리",
-      "풀다"
-    ]
-  },
-  "ja": {
-    "$name": "URL デコード",
-    "$description": "URL デコード",
-    "$keywords": [
-      "URL",
-      "うり",
-      "デコード"
     ]
   },
   "es": {
     "$name": "Decodificación de URL",
-    "$description": "Decodificación de URL",
+    "$description": "La decodificación de URL es una herramienta que permite a los usuarios convertir direcciones web codificadas en URL, URI y otras formas en su forma original. Esta herramienta es particularmente útil para desarrolladores y webmasters que necesitan solucionar problemas relacionados con la codificación y decodificación de URL.",
     "$keywords": [
       "URL",
-      "uri",
-      "Descodificar"
+      "URI",
+      "Decodificar"
+    ]
+  },
+  "ja": {
+    "$name": "URLデコード",
+    "$description": "URLデコードは、エンコードされたURL、URI、およびその他のWebアドレスを元の形式に変換することができるツールです。このツールは、URLエンコードおよびデコードに関連する問題をトラブルシューティングする必要がある開発者やウェブマスターに特に役立ちます。",
+    "$keywords": [
+      "URL",
+      "URI",
+      "デコード"
+    ]
+  },
+  "ko": {
+    "$name": "URL 디코딩",
+    "$description": "URL 디코딩은 인코딩된 URL, URI 및 기타 웹 주소를 원래 형태로 변환할 수 있는 도구입니다. 이 도구는 특히 URL 인코딩 및 디코딩과 관련된 문제를 해결해야 하는 개발자 및 웹 마스터에게 유용합니다.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "디코딩"
     ]
   },
   "de": {
     "$name": "URL-Decodierung",
-    "$description": "URL-Decodierung",
+    "$description": "URL-Decodierung ist ein Tool, das es Benutzern ermöglicht, codierte URLs, URIs und andere Webadressen in ihre ursprüngliche Form zu konvertieren. Dieses Tool ist besonders nützlich für Entwickler und Webmaster, die Probleme im Zusammenhang mit der URL-Codierung und -Decodierung beheben müssen.",
     "$keywords": [
       "URL",
-      "uri",
-      "Dekodieren"
+      "URI",
+      "Decodierung"
     ]
   },
   "fr": {
     "$name": "Décodage d'URL",
-    "$description": "Décodage d'URL",
+    "$description": "Le décodage d'URL est un outil qui permet aux utilisateurs de convertir des URL, des URI et d'autres adresses web encodées en leur forme originale. Cet outil est particulièrement utile pour les développeurs et les webmasters qui ont besoin de résoudre des problèmes liés au codage et au décodage d'URL.",
     "$keywords": [
       "URL",
-      "uri",
-      "Décoder"
+      "URI",
+      "Décodage"
     ]
   },
   "it": {
-    "$name": "Decodifica dell'URL",
-    "$description": "Decodifica dell'URL",
+    "$name": "Decodifica URL",
+    "$description": "La decodifica URL è uno strumento che consente agli utenti di convertire gli URL, gli URI e altri indirizzi web codificati nella loro forma originale. Questo strumento è particolarmente utile per sviluppatori e webmaster che devono risolvere problemi legati alla codifica e decodifica degli URL.",
     "$keywords": [
       "URL",
-      "uri",
-      "Decodificare"
+      "URI",
+      "Decodifica"
+    ]
+  },
+  "ru": {
+    "$name": "Декодирование URL",
+    "$description": "Декодирование URL - это инструмент, который позволяет пользователям преобразовывать закодированные URL-адреса, URI и другие веб-адреса в их исходную форму. Этот инструмент особенно полезен для разработчиков и веб-мастеров, которым необходимо устранять проблемы, связанные с кодированием и декодированием URL.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Декодирование"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação de URL",
+    "$description": "A Decodificação de URL é uma ferramenta que permite aos usuários converter URLs, URIs e outros endereços da web codificados em sua forma original. Esta ferramenta é particularmente útil para desenvolvedores e webmasters que precisam solucionar problemas relacionados à codificação e decodificação de URL.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Decodificar"
+    ]
+  },
+  "en": {
+    "$name": "URL Decoding",
+    "$description": "URL Decoding is a tool that allows users to convert encoded URLs, URIs, and other web addresses into their original form. This tool is particularly useful for developers and webmasters who need to troubleshoot issues related to URL encoding and decoding.",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Decode"
     ]
   }
 }
