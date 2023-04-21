@@ -10,16 +10,27 @@ const htmlRegExp = /&#(\d*);/;
 const htmlIntoHex = (str: string) => {
   return str.replace(/&#(\d+);/g, (match, dec) => `\\x${Number.parseInt(dec).toString(16)}`);
 };
-
 const decode = (raw: string): string => {
   if (htmlRegExp.test(raw)) {
     raw = htmlIntoHex(raw);
   }
   return utf8.decode(eval(`'${raw}'`));
 };
-
+function formatSingle(ch: string): string {
+    let t = ch.charCodeAt(0).toString(16);
+    return t.length === 1 && (t = `0${t}`), `\\x${t}`
+}
+const encode = (str: string):string => {
+  const result = utf8.encode(str);
+  let ret = '';
+  for (const element of result) {
+    ret += formatSingle(element);
+  }
+ return ret
+};
 export default textTransformTool({
   inputHandler: decode,
+  resultHandler: encode,
   sampleData: EXAMPLE_ENCODED,
   autoFillInputCondition: isUtf8Encoded,
 });
