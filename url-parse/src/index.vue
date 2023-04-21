@@ -46,7 +46,8 @@ const inputValue = ref("https://user:pass@he3.app/index.html#download");
 const outputValue = ref({});
 
 function parseUrl() {
-  outputValue.value = parse(inputValue.value, true);
+  outputValue.value = new parse(inputValue.value, true);
+  console.log(outputValue)
 }
 
 onMounted(() => {
