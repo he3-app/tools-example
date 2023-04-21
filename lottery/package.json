@@ -10,11 +10,11 @@
     "id": "lottery",
     "name": "Lottery",
     "icon": "font-size-outlined",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "isPublic": true,
     "repository": "",
     "category": [
-      "text"
+      "misc"
     ],
     "description": "is a game of chance where players purchase tickets with the hopes of winning a prize. The winning numbers are typically drawn at random, and the odds of winning vary depending on the specific lottery game.",
     "keywords": [

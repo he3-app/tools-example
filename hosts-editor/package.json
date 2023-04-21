@@ -10,11 +10,12 @@
     "id": "hosts-editor",
     "name": "Hosts Editor",
     "icon": "wifi-outlined",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/hosts-editor",
     "category": [
-      "network"
+      "network",
+      "misc"
     ],
     "description": "Hosts Editor is a powerful tool that allows users to edit the /etc/hosts file on their computer, which is responsible for mapping domain names to IP addresses. With this tool, users can easily add, remove, or modify DNS records for their local machine, including the popular localhost, 127.x.x.x, 192.x.x.x, and 168.x.x.x IP addresses.",
     "keywords": [

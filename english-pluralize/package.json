@@ -11,11 +11,12 @@
     "name": "English singular to plural",
     "id": "en-singular-plural",
     "icon": "block-outlined",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "The English singular to plural tool is a language tool that automatically converts singular English words to their corresponding plural forms. It is useful for writers, editors, and language learners who need to ensure grammatical accuracy in their writing.",
     "isPublic": true,
     "category": [
-      "encode"
+      "text",
+      "misc"
     ],
     "keywords": [
       "plural",

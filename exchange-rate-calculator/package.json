@@ -10,12 +10,13 @@
     "name": "Exchange Rate Calculator",
     "id": "exchange-rate-calculator",
     "icon": "block-outlined",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Exchange Rate Calculator",
     "relatedToolId": [],
     "isPublic": true,
     "category": [
-      "calculator"
+      "misc",
+      "math"
     ],
     "keywords": [
       "calculator",

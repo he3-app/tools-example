@@ -11,11 +11,12 @@
     "name": "Arabic number to Roman",
     "id": "arabic-to-roman",
     "icon": "block-outlined",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "The Arabic number to Roman tool is a conversion tool that allows users to easily convert Arabic numerals to Roman numerals. This tool is useful for those who need to convert numbers for historical or academic purposes, or for those who simply prefer the Roman numeral system.",
     "isPublic": true,
     "category": [
-      "math"
+      "math",
+      "misc"
     ],
     "keywords": [
       "roman numerals",

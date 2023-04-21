@@ -9,11 +9,12 @@
   "he3": {
     "name": "Cron Expression",
     "id": "crontab",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Cron Expression is a tool used to schedule and automate tasks on Unix-based systems. It uses a syntax called \"cron\" or \"crontab\" to specify when and how often a task should be executed, allowing for regular and precise scheduling of tasks.",
     "isPublic": true,
     "category": [
-      "datetime"
+      "datetime",
+      "misc"
     ],
     "keywords": [
       "cron",
