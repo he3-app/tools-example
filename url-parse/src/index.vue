@@ -51,7 +51,7 @@ function parseUrl() {
 }
 
 onMounted(() => {
-  $he3
+  /* $he3
     .getPreviewerValue()
     .then((res) => {
       if (isUrl(res)) {
@@ -72,8 +72,14 @@ onMounted(() => {
             $he3.onUseClipboardValue();
           }
         });
-    });
-
+    }); */
+    $he3.getLastClipboard().then((res) => {
+          if (isUrl(res)) {
+            inputValue.value = res;
+            parseUrl();
+            $he3.onUseClipboardValue();
+          }
+        });
   parseUrl();
 });
 </script>
