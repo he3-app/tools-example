@@ -3001,117 +3001,139 @@
     "id": "json-to-scala"
   },
   {
+    "id": "json-to-sarcastic",
     "zh-cn": {
-      "$name": "JSON转讽刺",
-      "$description": "JSON转讽刺是一款工具，允许用户轻松将JSON数据转换为讽刺语气。这种转换可以为平淡无奇的数据增添幽默感，使读者更加参与和娱乐。",
+      "$name": "JSON 转 Sarcastic",
+      "$description": "Json 转 Sarcastic 工具是为需要处理复杂数据结构和严格类型要求的开发人员提供的强大解决方案。通过使用Sarcastic库中的is.shape()方法，该工具可以将JSON数据转换为类型检查器并将其合并到对象中，使用户能够验证和格式化输入数据，以确保其符合预期的数据结构和类型规范。该工具专注于Sarcastic、JSON、类型检查、数据结构、输入验证和格式化，是任何希望简化工作流程并提高代码质量的开发人员的必备资源。",
       "$keywords": [
-        "转换",
+        "Sarcastic",
         "JSON",
-        "讽刺",
-        "转化"
+        "类型检查",
+        "数据结构",
+        "输入验证",
+        "格式化"
       ]
     },
     "zh-tw": {
-      "$name": "JSON 轉換成諷刺語氣",
-      "$description": "JSON 轉換成諷刺語氣是一個工具，讓使用者可以輕鬆地將 JSON 資料轉換成諷刺語氣。這種轉換可以為原本乏味的資料增添幽默感，讓讀者更加投入和娛樂。",
+      "$name": "JSON 轉 Sarcastic",
+      "$description": "Json 轉 Sarcastic 工具是針對需要處理複雜資料結構和嚴格型別要求的開發人員提供的強大解決方案。通過使用 Sarcastic 函式庫中的 is.shape() 方法，此工具可以將 JSON 資料轉換為類型檢查器並結合為一個物件，讓使用者驗證和格式化輸入資料，以確保其符合預期的資料結構和型別規格。這個工具專注於 Sarcastic、JSON、型別檢查、資料結構、輸入驗證和格式化，是任何開發人員想要簡化工作流程並提高程式碼品質的必備資源。",
       "$keywords": [
-        "轉換",
+        "Sarcastic",
         "JSON",
-        "諷刺",
-        "轉換"
+        "型別檢查",
+        "資料結構",
+        "輸入驗證",
+        "格式化"
       ]
     },
     "es": {
       "$name": "JSON a Sarcastic",
-      "$description": "JSON a Sarcastic es una herramienta que permite a los usuarios convertir fácilmente datos JSON en un tono sarcástico. Esta transformación puede agregar un toque humorístico a los datos mundanos, haciéndolos más atractivos y entretenidos para los lectores.",
+      "$description": "La herramienta Json a sarcástico es una solución poderosa para desarrolladores que necesitan trabajar con estructuras de datos complejas y requisitos estrictos de tipo. Al utilizar el método is.shape() de la biblioteca Sarcastic, esta herramienta puede convertir datos JSON en un verificador de tipos y combinarlo en un objeto, lo que permite a los usuarios validar y formatear los datos de entrada para asegurarse de que se adhieran a las especificaciones esperadas de estructura de datos y tipo. Con su enfoque en Sarcastic, JSON, verificación de tipos, estructura de datos, validación de entrada y formateo, esta herramienta es un recurso esencial para cualquier desarrollador que busque optimizar su flujo de trabajo y mejorar la calidad de su código.",
       "$keywords": [
-        "convertir",
-        "JSON",
         "Sarcastic",
-        "transformar"
+        "JSON",
+        "verificación de tipos",
+        "estructura de datos",
+        "validación de entrada",
+        "formateo"
       ]
     },
     "ja": {
-      "$name": "JSON to Sarcastic",
-      "$description": "JSON to Sarcasticは、ユーザーがJSONデータを皮肉なトーンに簡単に変換できるツールです。この変換により、ありふれたデータにユーモアの要素を加え、読者にとってより魅力的で楽しいものにすることができます。",
+      "$name": "JSON から Sarcastic",
+      "$description": "Json から Sarcastic ツールは、複雑なデータ構造と厳密な型要件で作業する必要がある開発者にとって強力なソリューションです。Sarcasticライブラリからis.shape()メソッドを利用することで、このツールはJSONデータを型チェッカーに変換し、オブジェクトに結合することができます。これにより、ユーザーは入力データを検証してフォーマットし、期待されるデータ構造と型仕様に準拠することを保証することができます。Sarcastic、JSON、型チェック、データ構造、入力検証、フォーマットに焦点を当てたこのツールは、ワークフローを効率化し、コードの品質を向上させたいすべての開発者にとって必須のリソースです。",
       "$keywords": [
-        "変換",
+        "Sarcastic",
         "JSON",
-        "皮肉",
-        "トランスフォーム"
+        "型チェック",
+        "データ構造",
+        "入力検証",
+        "フォーマット"
       ]
     },
     "ko": {
-      "$name": "JSON을 Sarcastic으로 변환하는 도구",
-      "$description": "JSON to Sarcastic은 사용자가 JSON 데이터를 쉽게 Sarcastic 톤으로 변환할 수 있는 도구입니다. 이 변환은 일반적으로 따분한 데이터에 유머적인 요소를 추가하여 독자들에게 더욱 매력적이고 재미있는 내용으로 제공할 수 있습니다.",
+      "$name": "JSON 에서 Sarcastic로",
+      "$description": "JSON 에서 Sarcastic로 도구는 복잡한 데이터 구조와 엄격한 유형 요구 사항을 처리해야하는 개발자들에게 강력한 솔루션입니다. Sarcastic 라이브러리의 is.shape() 메소드를 활용하여이 도구는 JSON 데이터를 유형 검사기로 변환하고 객체로 결합하여 사용자가 입력 데이터를 유효성 검사하고 형식을 지정하여 예상되는 데이터 구조와 유형 사양을 준수하는지 확인할 수 있습니다. Sarcastic, JSON, 유형 검사, 데이터 구조, 입력 유효성 검사 및 형식 지정에 중점을 둔이 도구는 작업 흐름을 간소화하고 코드의 품질을 향상시키기 위한 필수 자원입니다.",
       "$keywords": [
-        "변환",
-        "JSON",
         "Sarcastic",
-        "변형"
+        "JSON",
+        "유형 검사",
+        "데이터 구조",
+        "입력 유효성 검사",
+        "형식 지정"
       ]
     },
     "de": {
-      "$name": "JSON zu Sarkasmus",
-      "$description": "JSON zu Sarkasmus ist ein Tool, das es Benutzern ermöglicht, JSON-Daten einfach in einen sarkastischen Ton umzuwandeln. Diese Transformation kann eine humorvolle Wendung zu ansonsten banalen Daten hinzufügen und sie für Leser unterhaltsamer machen.",
+      "$name": "JSON zu Sarcastic",
+      "$description": "Das JSON zu Sarcastic ist eine leistungsstarke Lösung für Entwickler, die mit komplexen Datenstrukturen und strengen Typanforderungen arbeiten müssen. Durch die Verwendung der is.shape()-Methode aus der Sarcastic-Bibliothek kann dieses Tool JSON-Daten in einen Typ-Checker konvertieren und in ein Objekt kombinieren, sodass Benutzer Eingabedaten validieren und formatieren können, um sicherzustellen, dass sie den erwarteten Datenstrukturen und Typspezifikationen entsprechen. Mit seinem Fokus auf Sarcastic, JSON, Typüberprüfung, Datenstruktur, Eingabevalidierung und Formatierung ist dieses Tool eine unverzichtbare Ressource für jeden Entwickler, der seinen Workflow optimieren und die Qualität seines Codes verbessern möchte.",
       "$keywords": [
-        "umwandeln",
+        "Sarcastic",
         "JSON",
-        "Sarkasmus",
-        "transformieren"
+        "Typüberprüfung",
+        "Datenstruktur",
+        "Eingabevalidierung",
+        "Formatierung"
       ]
     },
     "fr": {
-      "$name": "JSON en Sarcastique",
-      "$description": "JSON en Sarcastique est un outil qui permet aux utilisateurs de convertir facilement des données JSON en un ton sarcastique. Cette transformation peut ajouter une touche humoristique à des données autrement ennuyeuses, les rendant plus engageantes et divertissantes pour les lecteurs.",
+      "$name": "JSON vers Sarcastic",
+      "$description": "L'outil JSON vers Sarcastic est une solution puissante pour les développeurs qui ont besoin de travailler avec des structures de données complexes et des exigences strictes en matière de type. En utilisant la méthode is.shape() de la bibliothèque Sarcastic, cet outil peut convertir des données JSON en un vérificateur de type et le combiner dans un objet, permettant aux utilisateurs de valider et de formater les données d'entrée pour s'assurer qu'elles respectent les spécifications de structure de données et de type attendues. Avec son accent sur Sarcastic, JSON, la vérification de type, la structure de données, la validation d'entrée et le formatage, cet outil est une ressource essentielle pour tout développeur cherchant à rationaliser son flux de travail et à améliorer la qualité de son code.",
       "$keywords": [
-        "convertir",
+        "Sarcastic",
         "JSON",
-        "Sarcastique",
-        "transformer"
+        "vérification de type",
+        "structure de données",
+        "validation d'entrée",
+        "formatage"
       ]
     },
     "it": {
-      "$name": "JSON in Sarcastico",
-      "$description": "JSON in Sarcastico è uno strumento che consente agli utenti di convertire facilmente i dati JSON in un tono sarcastico. Questa trasformazione può aggiungere un tocco umoristico a dati altrimenti banali, rendendoli più coinvolgenti e divertenti per i lettori.",
+      "$name": "JSON in Sarcastic",
+      "$description": "Lo strumento JSON in Sarcastic è una soluzione potente per gli sviluppatori che devono lavorare con strutture dati complesse e requisiti di tipo rigorosi. Utilizzando il metodo is.shape() della libreria Sarcastic, questo strumento può convertire i dati JSON in un verificatore di tipo e combinarlo in un oggetto, consentendo agli utenti di convalidare e formattare i dati di input per garantire che aderiscano alle specifiche di struttura dati e tipo attese. Con il suo focus su Sarcastic, JSON, verifica del tipo, struttura dati, convalida dell'input e formattazione, questo strumento è una risorsa essenziale per qualsiasi sviluppatore che cerca di razionalizzare il proprio flusso di lavoro e migliorare la qualità del proprio codice.",
       "$keywords": [
-        "convertire",
+        "Sarcastic",
         "JSON",
-        "Sarcastico",
-        "trasformare"
+        "verifica del tipo",
+        "struttura dati",
+        "convalida dell'input",
+        "formattazione"
       ]
     },
     "ru": {
-      "$name": "JSON в саркастический",
-      "$description": "JSON в саркастический - это инструмент, который позволяет пользователям легко преобразовывать данные JSON в саркастический тон. Это преобразование может добавить юмористический оттенок к иначе скучным данным, делая их более привлекательными и интересными для читателей.",
+      "$name": "JSON в Sarcastic",
+      "$description": "Инструмент JSON в Sarcastic - это мощное решение для разработчиков, которые работают с комплексными структурами данных и строгими требованиями к типам. Используя метод is.shape() из библиотеки Sarcastic, этот инструмент может преобразовывать данные JSON в проверку типов и объединять их в объект, позволяя пользователям проверять и форматировать входные данные, чтобы убедиться, что они соответствуют ожидаемой структуре данных и спецификациям типов. С фокусом на Sarcastic, JSON, проверке типов, структуре данных, проверке ввода и форматировании, этот инструмент является необходимым ресурсом для любого разработчика, который хочет оптимизировать свой рабочий процесс и улучшить качество своего кода.",
       "$keywords": [
-        "преобразовать",
+        "Sarcastic",
         "JSON",
-        "саркастический",
-        "трансформировать"
+        "проверка типов",
+        "структура данных",
+        "проверка ввода",
+        "форматирование"
       ]
     },
     "pt": {
       "$name": "JSON para Sarcastic",
-      "$description": "JSON para Sarcastic é uma ferramenta que permite aos usuários converter facilmente dados JSON em um tom sarcástico. Essa transformação pode adicionar um toque humorístico a dados mundanos, tornando-os mais envolventes e divertidos para os leitores.",
+      "$description": "A ferramenta JSON para Sarcastic é uma solução poderosa para desenvolvedores que precisam trabalhar com estruturas de dados complexas e requisitos estritos de tipo. Ao utilizar o método is.shape() da biblioteca Sarcastic, esta ferramenta pode converter dados JSON em um verificador de tipo e combiná-lo em um objeto, permitindo que os usuários validem e formatem dados de entrada para garantir que eles aderem às especificações esperadas de estrutura de dados e tipo. Com seu foco em Sarcastic, JSON, verificação de tipo, estrutura de dados, validação de entrada e formatação, esta ferramenta é um recurso essencial para qualquer desenvolvedor que busca otimizar seu fluxo de trabalho e melhorar a qualidade de seu código.",
       "$keywords": [
-        "converter",
-        "JSON",
         "Sarcastic",
-        "transformar"
+        "JSON",
+        "verificação de tipo",
+        "estrutura de dados",
+        "validação de entrada",
+        "formatação"
       ]
     },
     "en": {
       "$name": "JSON to Sarcastic",
-      "$description": "JSON to Sarcastic is a tool that allows users to easily convert JSON data into a sarcastic tone. This transformation can add a humorous twist to otherwise mundane data, making it more engaging and entertaining for readers.",
+      "$description": "The JSON to Sarcastic tool is a powerful solution for developers who need to work with complex data structures and strict type requirements. By utilizing the is.shape() method from the Sarcastic library, this tool can convert JSON data into a type checker and combine it into an object, allowing users to validate and format input data to ensure it adheres to the expected data structure and type specifications. With its focus on Sarcastic, JSON, type checking, data structure, input validation, and formatting, this tool is an essential resource for any developer looking to streamline their workflow and improve the quality of their code.",
       "$keywords": [
-        "convert",
-        "JSON",
         "Sarcastic",
-        "transform"
+        "JSON",
+        "type checking",
+        "data structure",
+        "input validation",
+        "formatting"
       ]
-    },
-    "id": "json-to-sarcastic"
+    }
   },
   {
     "zh-cn": {
