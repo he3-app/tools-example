@@ -16,9 +16,14 @@
     "category": [
       "misc"
     ],
-    "description": "is a game of chance where players purchase tickets with the hopes of winning a prize. The winning numbers are typically drawn at random, and the odds of winning vary depending on the specific lottery game.",
+    "description": "The Lottery tool is a random selection tool that allows users to input the number of samples and the number of lotteries they want to conduct. It can be used for various purposes such as selecting winners for a raffle or determining a random sample for research.",
     "keywords": [
-      "lottery"
+      "Lottery",
+      "random selection",
+      "number of lottery",
+      "chance",
+      "winning",
+      "raffle"
     ],
     "relatedToolId": []
   },

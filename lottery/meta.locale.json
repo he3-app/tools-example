@@ -1,79 +1,134 @@
 {
   "zh-cn": {
-    "$name": "彩票",
-    "$description": "是一种游戏，玩家购买彩票，希望赢得奖品。中奖号码通常是随机抽取的，中奖的几率取决于具体的彩票游戏。",
+    "$name": "抽奖工具",
+    "$description": "抽奖工具是一种随机选择工具，允许用户输入样本数量和他们想要进行的抽奖数量。它可用于各种目的，例如为抽奖活动选择获胜者或确定研究的随机样本。",
     "$keywords": [
-      "彩票"
+      "抽奖",
+      "随机选择",
+      "抽奖数量",
+      "机会",
+      "获胜",
+      "抽奖活动"
     ]
   },
   "zh-tw": {
-    "$name": "彩票",
-    "$description": "是一種運氣遊戲，玩家購買彩票，希望贏得獎品。中獎號碼通常是隨機抽取的，中獎的機會取決於具體的彩票遊戲。",
+    "$name": "抽獎工具",
+    "$description": "抽獎工具是一個隨機選擇工具，允許用戶輸入樣本數量和他們想要進行的抽獎數量。它可以用於各種目的，例如為抽獎活動選擇獲獎者或為研究確定隨機樣本。",
     "$keywords": [
-      "彩票"
+      "抽獎",
+      "隨機選擇",
+      "抽獎數量",
+      "機會",
+      "中獎",
+      "抽獎活動"
     ]
   },
   "es": {
     "$name": "Lotería",
-    "$description": "es un juego de azar en el que los jugadores compran boletos con la esperanza de ganar un premio. Los números ganadores suelen ser elegidos al azar, y las probabilidades de ganar varían según el juego de lotería específico.",
+    "$description": "La herramienta de Lotería es una herramienta de selección aleatoria que permite a los usuarios ingresar el número de muestras y el número de loterías que desean realizar. Puede ser utilizada para diversos propósitos, como seleccionar ganadores para una rifa o determinar una muestra aleatoria para investigación.",
     "$keywords": [
-      "lotería"
+      "Lotería",
+      "selección aleatoria",
+      "número de lotería",
+      "oportunidad",
+      "ganar",
+      "rifas"
     ]
   },
   "ja": {
-    "$name": "宝くじ",
-    "$description": "は、プレイヤーが賞品を獲得することを望んでチケットを購入する運のゲームです。当選番号は通常ランダムに抽選され、当選の確率は特定の宝くじゲームによって異なります。",
+    "$name": "抽選",
+    "$description": "抽選ツールは、ユーザーがサンプル数と実施したい抽選数を入力できるランダム選択ツールです。ラッフルの勝者を選ぶためや、研究のランダムサンプルを決定するためなど、さまざまな目的に使用できます。",
     "$keywords": [
-      "宝くじ"
+      "抽選",
+      "ランダム選択",
+      "抽選数",
+      "チャンス",
+      "当選",
+      "ラッフル"
     ]
   },
   "ko": {
     "$name": "복권",
-    "$description": "은 상금을 희망하며 티켓을 구매하는 운빨 게임입니다. 당첨 번호는 일반적으로 무작위로 추첨되며, 당첨 확률은 특정 복권 게임에 따라 다릅니다.",
+    "$description": "복권 도구는 사용자가 샘플 수와 추첨 수를 입력할 수 있는 무작위 선택 도구입니다. 추첨 대상자를 선택하거나 연구용 무작위 샘플을 결정하는 등 다양한 용도로 사용할 수 있습니다.",
     "$keywords": [
-      "복권"
+      "복권",
+      "무작위 선택",
+      "추첨 수",
+      "확률",
+      "당첨",
+      "추첨"
     ]
   },
   "de": {
     "$name": "Lotterie",
-    "$description": "ist ein Glücksspiel, bei dem Spieler Tickets kaufen, in der Hoffnung, einen Preis zu gewinnen. Die Gewinnzahlen werden in der Regel zufällig gezogen, und die Gewinnchancen variieren je nach spezifischem Lotteriespiel.",
+    "$description": "Das Lotterie-Tool ist ein zufälliges Auswahlwerkzeug, mit dem Benutzer die Anzahl der Stichproben und die Anzahl der Lotterien eingeben können, die sie durchführen möchten. Es kann für verschiedene Zwecke wie die Auswahl von Gewinnern für eine Tombola oder die Bestimmung einer zufälligen Stichprobe für Forschungszwecke verwendet werden.",
     "$keywords": [
-      "Lotterie"
+      "Lotterie",
+      "zufällige Auswahl",
+      "Anzahl der Lotterien",
+      "Chance",
+      "Gewinnen",
+      "Tombola"
     ]
   },
   "fr": {
     "$name": "Loterie",
-    "$description": "est un jeu de hasard où les joueurs achètent des billets dans l'espoir de remporter un prix. Les numéros gagnants sont généralement tirés au sort et les chances de gagner varient en fonction du jeu de loterie spécifique.",
+    "$description": "L'outil de loterie est un outil de sélection aléatoire qui permet aux utilisateurs de saisir le nombre d'échantillons et le nombre de loteries qu'ils souhaitent réaliser. Il peut être utilisé à diverses fins telles que la sélection de gagnants pour une tombola ou la détermination d'un échantillon aléatoire pour la recherche.",
     "$keywords": [
-      "loterie"
+      "Loterie",
+      "sélection aléatoire",
+      "nombre de loterie",
+      "chance",
+      "gagner",
+      "tombola"
     ]
   },
   "it": {
     "$name": "Lotteria",
-    "$description": "è un gioco d'azzardo in cui i giocatori acquistano biglietti con la speranza di vincere un premio. I numeri vincenti vengono solitamente estratti a caso e le probabilità di vincita variano a seconda del gioco della lotteria specifico.",
+    "$description": "Lo strumento Lotteria è uno strumento di selezione casuale che consente agli utenti di inserire il numero di campioni e il numero di lotterie che desiderano condurre. Può essere utilizzato per vari scopi come selezionare i vincitori di una lotteria o determinare un campione casuale per la ricerca.",
     "$keywords": [
+      "Lotteria",
+      "selezione casuale",
+      "numero di lotteria",
+      "possibilità",
+      "vincita",
       "lotteria"
     ]
   },
   "ru": {
     "$name": "Лотерея",
-    "$description": "это игра случая, в которой игроки покупают билеты в надежде выиграть приз. Выигрышные номера обычно выбираются случайным образом, и шансы на победу варьируются в зависимости от конкретной лотерейной игры.",
+    "$description": "Инструмент Лотерея - это инструмент случайного выбора, который позволяет пользователям вводить количество образцов и количество лотерей, которые они хотят провести. Он может использоваться для различных целей, таких как выбор победителей в лотерее или определение случайной выборки для исследования.",
     "$keywords": [
+      "Лотерея",
+      "случайный выбор",
+      "количество лотерей",
+      "шанс",
+      "выигрыш",
       "лотерея"
     ]
   },
   "pt": {
     "$name": "Loteria",
-    "$description": "é um jogo de azar em que os jogadores compram bilhetes na esperança de ganhar um prêmio. Os números vencedores são geralmente sorteados aleatoriamente, e as chances de ganhar variam dependendo do jogo de loteria específico.",
+    "$description": "A ferramenta de Loteria é uma ferramenta de seleção aleatória que permite aos usuários inserir o número de amostras e o número de loterias que desejam realizar. Pode ser usada para diversos fins, como selecionar vencedores para um sorteio ou determinar uma amostra aleatória para pesquisa.",
     "$keywords": [
-      "loteria"
+      "Loteria",
+      "seleção aleatória",
+      "número de loteria",
+      "chance",
+      "ganhar",
+      "sorteio"
     ]
   },
   "en": {
     "$name": "Lottery",
-    "$description": "is a game of chance where players purchase tickets with the hopes of winning a prize. The winning numbers are typically drawn at random, and the odds of winning vary depending on the specific lottery game.",
+    "$description": "The Lottery tool is a random selection tool that allows users to input the number of samples and the number of lotteries they want to conduct. It can be used for various purposes such as selecting winners for a raffle or determining a random sample for research.",
     "$keywords": [
-      "lottery"
+      "Lottery",
+      "random selection",
+      "number of lottery",
+      "chance",
+      "winning",
+      "raffle"
     ]
   }
 }
