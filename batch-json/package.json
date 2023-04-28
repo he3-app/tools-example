@@ -54,7 +54,7 @@
     {
       "name": "JSON to Go Struct",
       "id": "json-to-go-struct",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "JSON to Go Struct is a tool that allows users to easily convert JSON data into Go Struct format. This transformation enables developers to work with JSON data in a more structured and organized manner, making it easier to manipulate and analyze.",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
