@@ -11,7 +11,7 @@
       "id": "utf7-decode",
       "name": "UTF7 Decoding",
       "icon": "block-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -31,7 +31,7 @@
       "id": "utf7-encode",
       "name": "UTF7 Encoding",
       "icon": "block-outlined",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -51,7 +51,7 @@
       "id": "utf8-encode",
       "name": "UTF8 Encoding",
       "icon": "block-outlined",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -72,7 +72,7 @@
       "id": "utf8-decode",
       "name": "UTF8 Decoding",
       "icon": "block-outlined",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -93,7 +93,7 @@
       "id": "utf16-encode",
       "name": "UTF16 Encoding",
       "icon": "block-outlined",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -112,7 +112,7 @@
       "id": "utf16-decode",
       "name": "UTF16 Decoding",
       "icon": "block-outlined",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -131,7 +131,7 @@
       "id": "utf32-encode",
       "name": "UTF32 Encoding",
       "icon": "block-outlined",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -150,7 +150,7 @@
       "id": "utf32-decode",
       "name": "UTF32 Decoding",
       "icon": "block-outlined",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -169,7 +169,7 @@
       "id": "unicode-encode",
       "name": "Unicode Encoding",
       "icon": "block-outlined",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -188,7 +188,7 @@
       "id": "unicode-decode",
       "name": "Unicode Decoding",
       "icon": "block-outlined",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isPublic": true,
       "repository": "",
       "category": [
