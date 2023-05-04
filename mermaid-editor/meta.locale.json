@@ -1,20 +1,20 @@
 {
-  "zh-cn": {
-    "$name": "美人鱼编辑器",
-    "$description": "美人鱼编辑器是一款强大的工具，允许用户轻松创建、编辑和预览美人鱼图表。凭借其直观的界面和强大的功能，用户可以快速高效地创建视觉上令人惊叹的图表和流程图，适用于各种用途。",
+  "en": {
+    "$name": "Mermaid Editor",
+    "$description": "Mermaid Editor is a powerful tool that allows users to easily create, edit, and preview charts. With its intuitive interface and powerful features, users can quickly and efficiently create visually stunning charts and flowcharts for various purposes.",
     "$keywords": [
-      "美人鱼",
-      "图表",
-      "编辑",
-      "预览",
-      "编辑器"
+      "Mermaid",
+      "charts",
+      "edit",
+      "preview",
+      "editor"
     ]
   },
   "zh-tw": {
-    "$name": "美人魚編輯器",
-    "$description": "美人魚編輯器是一個強大的工具，讓使用者輕鬆創建、編輯和預覽美人魚圖表。憑藉其直觀的界面和強大的功能，使用者可以快速高效地創建視覺效果令人驚嘆的圖表和流程圖，適用於各種用途。",
+    "$name": "Mermaid編輯器",
+    "$description": "Mermaid編輯器是一款強大的工具，允許用戶輕鬆創建、編輯和預覽圖表。憑藉其直觀的界面和強大的功能，用戶可以快速高效地創建視覺上令人驚嘆的圖表和流程圖，適用於各種用途。",
     "$keywords": [
-      "美人魚",
+      "Mermaid",
       "圖表",
       "編輯",
       "預覽",
@@ -23,101 +23,101 @@
   },
   "es": {
     "$name": "Editor de Mermaid",
-    "$description": "El Editor de Mermaid es una herramienta poderosa que permite a los usuarios crear, editar y previsualizar gráficos de Mermaid con facilidad. Con su interfaz intuitiva y sus características robustas, los usuarios pueden crear diagramas y flujogramas visualmente impresionantes de manera rápida y eficiente para una variedad de propósitos.",
+    "$description": "El editor de Mermaid es una herramienta poderosa que permite a los usuarios crear, editar y previsualizar fácilmente gráficos. Con su interfaz intuitiva y sus funciones avanzadas, los usuarios pueden crear gráficos y diagramas impresionantes de manera rápida y eficiente, adecuados para una variedad de propósitos.",
     "$keywords": [
-      "mermaid",
-      "gráfico",
-      "editar",
-      "previsualizar",
+      "Mermaid",
+      "gráficos",
+      "edición",
+      "previsualización",
       "editor"
     ]
   },
   "ja": {
-    "$name": "マーメイドエディター",
-    "$description": "マーメイドエディターは、使いやすく、直感的なインターフェースと堅牢な機能を備えた強力なツールで、ユーザーは簡単にマーメイドチャートを作成、編集、プレビューすることができます。さまざまな目的のために視覚的に魅力的な図表やフローチャートを迅速かつ効率的に作成できます。",
+    "$name": "Mermaidエディター",
+    "$description": "Mermaidエディターは、ユーザーが簡単にグラフを作成、編集、プレビューできる強力なツールです。直感的なインターフェースと強力な機能により、ユーザーは視覚的に驚くべきグラフやフローチャートを素早く効率的に作成できます。あらゆる目的に適しています。",
     "$keywords": [
-      "マーメイド",
-      "チャート",
+      "Mermaid",
+      "グラフ",
       "編集",
       "プレビュー",
       "エディター"
     ]
   },
   "ko": {
-    "$name": "매미드 에디터",
-    "$description": "매미드 에디터는 사용자가 쉽게 매미드 차트를 생성, 편집 및 미리보기할 수 있는 강력한 도구입니다. 직관적인 인터페이스와 강력한 기능으로 사용자는 다양한 목적을 위한 시각적으로 멋진 다이어그램과 플로우차트를 빠르고 효율적으로 만들 수 있습니다.",
+    "$name": "Mermaid 편집기",
+    "$description": "Mermaid 편집기는 사용자가 쉽게 차트를 생성, 편집 및 미리보기할 수 있는 강력한 도구입니다. 직관적인 인터페이스와 강력한 기능으로 사용자는 시각적으로 놀라운 차트 및 프로세스 다이어그램을 빠르고 효율적으로 생성할 수 있으며, 다양한 용도에 적합합니다.",
     "$keywords": [
-      "매미드",
+      "Mermaid",
       "차트",
       "편집",
       "미리보기",
-      "에디터"
+      "편집기"
     ]
   },
   "de": {
     "$name": "Mermaid Editor",
-    "$description": "Mermaid Editor ist ein leistungsstarkes Tool, mit dem Benutzer mühelos Mermaid-Diagramme erstellen, bearbeiten und vorab anzeigen können. Mit seiner intuitiven Benutzeroberfläche und robusten Funktionen können Benutzer schnell und effizient visuell ansprechende Diagramme und Flussdiagramme für eine Vielzahl von Zwecken erstellen.",
+    "$description": "Mermaid Editor ist ein leistungsstarkes Tool, das es Benutzern ermöglicht, Diagramme einfach zu erstellen, zu bearbeiten und zu previewen. Mit seiner intuitiven Benutzeroberfläche und seinen leistungsstarken Funktionen können Benutzer schnell und effizient beeindruckende visuelle Diagramme und Flussdiagramme für verschiedene Zwecke erstellen.",
     "$keywords": [
-      "mermaid",
-      "chart",
-      "edit",
-      "preview",
-      "editor"
+      "Mermaid",
+      "Diagramme",
+      "Bearbeiten",
+      "Preview",
+      "Editor"
     ]
   },
   "fr": {
     "$name": "Éditeur Mermaid",
-    "$description": "L'éditeur Mermaid est un outil puissant qui permet aux utilisateurs de créer, éditer et prévisualiser des graphiques Mermaid avec facilité. Avec son interface intuitive et ses fonctionnalités robustes, les utilisateurs peuvent rapidement et efficacement créer des diagrammes et des organigrammes visuellement époustouflants pour une variété de fins.",
+    "$description": "L'éditeur Mermaid est un outil puissant qui permet aux utilisateurs de créer, éditer et prévisualiser facilement des graphiques. Avec son interface intuitive et ses fonctionnalités avancées, les utilisateurs peuvent créer rapidement et efficacement des graphiques et des diagrammes visuellement époustouflants pour une variété d'utilisations.",
     "$keywords": [
-      "mermaid",
-      "graphique",
+      "Mermaid",
+      "graphiques",
       "éditer",
       "prévisualiser",
       "éditeur"
     ]
   },
   "it": {
-    "$name": "Editor di Mermaid",
-    "$description": "Mermaid Editor è un potente strumento che consente agli utenti di creare, modificare e visualizzare anteprime di grafici Mermaid con facilità. Con la sua interfaccia intuitiva e le sue robuste funzionalità, gli utenti possono creare in modo rapido ed efficiente diagrammi e organigrammi visivamente sorprendenti per una varietà di scopi.",
+    "$name": "Editor Mermaid",
+    "$description": "Editor Mermaid è un potente strumento che consente agli utenti di creare, modificare e visualizzare facilmente grafici. Grazie alla sua interfaccia intuitiva e alle sue potenti funzionalità, gli utenti possono creare grafici e diagrammi sorprendenti dal punto di vista visivo in modo rapido ed efficiente, adatti a vari scopi.",
     "$keywords": [
-      "mermaid",
-      "grafico",
+      "Mermaid",
+      "grafici",
       "modifica",
-      "anteprima",
+      "visualizzazione",
       "editor"
     ]
   },
   "ru": {
     "$name": "Редактор Mermaid",
-    "$description": "Редактор Mermaid - мощный инструмент, который позволяет пользователям легко создавать, редактировать и предварительно просматривать диаграммы и схемы Mermaid. Благодаря интуитивно понятному интерфейсу и мощным функциям пользователи могут быстро и эффективно создавать визуально привлекательные диаграммы и схемы для различных целей.",
+    "$description": "Редактор Mermaid - это мощный инструмент, который позволяет пользователям легко создавать, редактировать и предварительно просматривать диаграммы. Благодаря интуитивно понятному интерфейсу и мощным функциям пользователи могут быстро и эффективно создавать визуально впечатляющие диаграммы и блок-схемы для различных целей.",
     "$keywords": [
-      "mermaid",
-      "chart",
-      "edit",
-      "preview",
-      "editor"
+      "Mermaid",
+      "диаграммы",
+      "редактирование",
+      "предварительный просмотр",
+      "редактор"
     ]
   },
   "pt": {
-    "$name": "Editor de Mermaid",
-    "$description": "O Editor de Mermaid é uma ferramenta poderosa que permite aos usuários criar, editar e visualizar gráficos de sereia com facilidade. Com sua interface intuitiva e recursos robustos, os usuários podem criar diagramas e fluxogramas visualmente impressionantes de forma rápida e eficiente para uma variedade de propósitos.",
+    "$name": "Editor Mermaid",
+    "$description": "O Editor Mermaid é uma ferramenta poderosa que permite aos usuários criar, editar e visualizar facilmente gráficos. Com sua interface intuitiva e recursos avançados, os usuários podem criar gráficos e fluxogramas visualmente impressionantes de forma rápida e eficiente, adequados para uma variedade de fins.",
     "$keywords": [
-      "sereia",
-      "gráfico",
+      "Mermaid",
+      "gráficos",
       "editar",
       "visualizar",
       "editor"
     ]
   },
-  "en": {
-    "$name": "Mermaid Editor",
-    "$description": "Mermaid Editor is a powerful tool that allows users to create, edit, and preview mermaid charts with ease. With its intuitive interface and robust features, users can quickly and efficiently create visually stunning diagrams and flowcharts for a variety of purposes.",
+  "zh-cn": {
+    "$name": "Mermaid 编辑器",
+    "$description": "Mermaid编辑器是一款强大的工具，允许用户轻松创建、编辑和预览图表。凭借其直观的界面和强大的功能，用户可以快速高效地创建视觉上令人惊叹的图表和流程图，适用于各种用途。",
     "$keywords": [
-      "mermaid",
-      "chart",
-      "edit",
-      "preview",
-      "editor"
+      "Mermaid",
+      "图表",
+      "编辑",
+      "预览",
+      "编辑器"
     ]
   }
 }
