@@ -110,7 +110,7 @@
     ]
   },
   "zh-cn": {
-    "$name": "Mermaid Editor",
+    "$name": "Mermaid 编辑器",
     "$description": "Mermaid编辑器是一款强大的工具，允许用户轻松创建、编辑和预览图表。凭借其直观的界面和强大的功能，用户可以快速高效地创建视觉上令人惊叹的图表和流程图，适用于各种用途。",
     "$keywords": [
       "Mermaid",
