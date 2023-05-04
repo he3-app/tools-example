@@ -10,7 +10,7 @@
     "id": "code-to-image",
     "name": "Code to Image",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/code-to-image",
     "category": [
