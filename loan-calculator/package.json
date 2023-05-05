@@ -10,7 +10,7 @@
     "name": "He3 Loan Calculator",
     "id": "he3-loan-calculator",
     "icon": "block-outlined",
-    "version": "0.0.16",
+    "version": "0.0.17",
     "description": "He3 Loan Calculator",
     "relatedToolId": [],
     "isPublic": true,

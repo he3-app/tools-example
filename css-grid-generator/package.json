@@ -10,7 +10,7 @@
     "id": "css-grid-generator",
     "name": "CSS Grid Generator",
     "icon": "global-outlined",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/css-grid-generator",
     "category": [
