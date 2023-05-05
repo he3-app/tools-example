@@ -10,7 +10,7 @@
     "id": "uuid-ulid-generator",
     "name": "UUID/ULID/NANOID Generator",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "isPublic": true,
     "repository": "",
     "category": [

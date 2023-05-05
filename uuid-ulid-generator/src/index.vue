@@ -241,7 +241,7 @@ onMounted(() => {
 <style scoped lang="less">
 .wrapper {
   padding: 2vh 0.5vw;
-
+  overflow-x: hidden;
   .number-limit {
     width: 150px;
   }
