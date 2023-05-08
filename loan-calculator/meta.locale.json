@@ -1,90 +1,266 @@
 {
-  "zh-cn": {
-    "$name": "贷款计算器",
-    "$description": "贷款计算器",
+  "en": {
+    "$name": "Loan Calculator",
+    "$description": "The Loan Calculator tool is used to calculate loan interest rates and repayment plans. It provides the following features:\n\n1. Input loan principal, latest loan benchmark interest rate, and interest rate markup value.\n\n2. Calculate the annual interest rate of the loan based on the input data.\n\n3. Input the loan term and repayment method (equal principal and interest or equal principal).\n\n4. Calculate the monthly repayment amount, total interest, and total repayment amount based on the input data.\n\n5. Display monthly repayment details, including period, monthly repayment amount, monthly repayment interest, monthly repayment principal, and remaining loan principal.\n\n6. Support exporting monthly repayment details as a CSV file.\n\nUse cases:\n\n1. Loan calculation: Use this tool to calculate loan interest rates and repayment plans before applying for a loan to better understand the cost and repayment method of the loan.\n\n2. Investment decision-making: Use this tool to calculate loan interest rates and repayment plans in investment decision-making to better understand investment returns and risks.\n\n3. Financial education: Use this tool to demonstrate the calculation method of loan interest rates and repayment plans in financial education to better understand the basic knowledge of loans.\n\nNotes:\n\n1. This tool is for reference only, and actual loan interest rates and repayment plans may vary due to various factors.\n\n2. Before using this tool, please ensure that the input data is accurate.\n\n3. When exporting monthly repayment details, please ensure that the details are fully displayed on the page.",
     "$keywords": [
-      "计算器",
-      "贷款"
+      "loan interest rates",
+      "repayment plans",
+      "loan principal",
+      "interest rate markup value",
+      "annual interest rate",
+      "loan term",
+      "monthly repayment amount",
+      "total interest",
+      "total repayment amount",
+      "monthly repayment details",
+      "period",
+      "monthly repayment interest",
+      "monthly repayment principal",
+      "remaining loan principal",
+      "loan calculation",
+      "investment decision-making",
+      "financial education",
+      "actual loan interest rates"
     ]
   },
   "zh-tw": {
     "$name": "貸款計算器",
-    "$description": "貸款計算器",
+    "$description": "貸款計算器工具是一個用於計算貸款利率和還款計劃的工具。它提供了以下功能：\n\n1. 輸入貸款本金、最新貸款基準利率和利率上浮值。\n\n2. 根據輸入的數據，計算出貸款的年利率。\n\n3. 輸入貸款期限和還款方式（等額本息或等額本金）。\n\n4. 根據輸入的數據，計算出每月還款額、總利息和總還款額。\n\n5. 顯示每月還款詳情，包括期數、每月還款額、每月還款利息、每月還款本金和剩餘貸款本金。\n\n6. 支持將每月還款詳情導出為 CSV 文件。\n\n使用場景：\n\n1. 貸款計算：在申請貸款前，使用此工具計算貸款利率和還款計劃，以便更好地了解貸款的費用和還款方式。\n\n2. 投資決策：在投資決策中，使用此工具計算貸款利率和還款計劃，以便更好地了解投資回報和風險。\n\n3. 金融教育：在金融教育中，使用此工具演示貸款利率和還款計劃的計算方法，以便更好地理解貸款的基本知識。\n\n注意事項：\n\n1. 此工具僅供參考，實際貸款利率和還款計劃可能會因多種因素而有所不同。\n\n2. 在使用此工具前，請確保輸入的數據準確無誤。\n\n3. 在導出每月還款詳情時，請確保已將詳情完整顯示在頁面中。",
     "$keywords": [
-      "計算器",
-      "貸款"
-    ]
-  },
-  "en": {
-    "$name": "Loan Calculator",
-    "$description": "Loan Calculator",
-    "$keywords": [
-      "calculator",
-      "loan"
+      "貸款利率",
+      "還款計劃",
+      "貸款本金",
+      "利率上浮值",
+      "年利率",
+      "貸款期限",
+      "每月還款額",
+      "總利息",
+      "總還款額",
+      "每月還款詳情",
+      "期數",
+      "每月還款利息",
+      "每月還款本金",
+      "剩餘貸款本金",
+      "貸款計算",
+      "投資決策",
+      "金融教育",
+      "實際貸款利率"
     ]
   },
   "es": {
     "$name": "Calculadora de préstamos",
-    "$description": "Calculadora de préstamos",
+    "$description": "La herramienta Calculadora de préstamos es una herramienta para calcular la tasa de interés del préstamo y el plan de pago. Ofrece las siguientes funciones:\n\n1. Ingrese el capital del préstamo, la tasa de interés de referencia más reciente y el valor de aumento de la tasa de interés.\n\n2. Según los datos ingresados, calcule la tasa de interés anual del préstamo.\n\n3. Ingrese el plazo del préstamo y el método de pago (cuota fija o cuota decreciente).\n\n4. Según los datos ingresados, calcule el monto del pago mensual, el interés total y el monto total del préstamo.\n\n5. Muestra los detalles del pago mensual, incluido el número de períodos, el monto del pago mensual, el interés del pago mensual, el capital del pago mensual y el capital restante del préstamo.\n\n6. Admite la exportación de detalles de pago mensual como archivo CSV.\n\nEscenarios de uso:\n\n1. Cálculo de préstamos: antes de solicitar un préstamo, use esta herramienta para calcular la tasa de interés del préstamo y el plan de pago para comprender mejor los costos y el método de pago del préstamo.\n\n2. Toma de decisiones de inversión: en la toma de decisiones de inversión, use esta herramienta para calcular la tasa de interés del préstamo y el plan de pago para comprender mejor el retorno de la inversión y el riesgo.\n\n3. Educación financiera: en la educación financiera, use esta herramienta para demostrar el método de cálculo de la tasa de interés del préstamo y el plan de pago para comprender mejor los conceptos básicos del préstamo.\n\nNotas:\n\n1. Esta herramienta es solo para referencia, la tasa de interés del préstamo y el plan de pago real pueden variar debido a varios factores.\n\n2. Antes de usar esta herramienta, asegúrese de que los datos ingresados sean precisos.\n\n3. Al exportar los detalles del pago mensual, asegúrese de que se muestren completamente en la página.",
     "$keywords": [
-      "calculadora",
-      "préstamo"
+      "tasa de interés del préstamo",
+      "plan de pago",
+      "capital del préstamo",
+      "valor de aumento de la tasa de interés",
+      "tasa de interés anual",
+      "plazo del préstamo",
+      "monto del pago mensual",
+      "interés total",
+      "monto total del préstamo",
+      "detalles del pago mensual",
+      "número de períodos",
+      "interés del pago mensual",
+      "capital del pago mensual",
+      "capital restante del préstamo",
+      "cálculo de préstamos",
+      "toma de decisiones de inversión",
+      "educación financiera",
+      "tasa de interés del préstamo real"
     ]
   },
   "ja": {
     "$name": "ローン計算機",
-    "$description": "ローン計算機",
+    "$description": "ローン計算機は、ローン金利と返済計画を計算するためのツールです。以下の機能を提供します：\n\n1. ローンの元本、最新のローン基準金利、金利の上乗せ値を入力します。\n\n2. 入力されたデータに基づいて、ローンの年利率を計算します。\n\n3. ローンの期間と返済方法（均等分割返済または元利均等返済）を入力します。\n\n4. 入力されたデータに基づいて、月々の返済額、総利息、総返済額を計算します。\n\n5. 月々の返済詳細を表示し、期数、月々の返済額、月々の返済利息、月々の返済元本、残りのローン元本を含みます。\n\n6. 月々の返済詳細をCSVファイルとしてエクスポートすることができます。\n\n使用シーン：\n\n1. ローン計算：ローンを申請する前に、このツールを使用してローン金利と返済計画を計算し、ローンの費用と返済方法をよりよく理解するために使用します。\n\n2. 投資判断：投資判断において、このツールを使用してローン金利と返済計画を計算し、投資リターンとリスクをよりよく理解するために使用します。\n\n3. 金融教育：金融教育において、このツールを使用してローン金利と返済計画の計算方法をデモンストレーションし、ローンの基本的な知識をよりよく理解するために使用します。\n\n注意事項：\n\n1. このツールは参考用にのみ提供されており、実際のローン金利と返済計画は多くの要因によって異なる場合があります。\n\n2. このツールを使用する前に、入力されたデータが正確であることを確認してください。\n\n3. 月々の返済詳細をエクスポートする際には、詳細がページに完全に表示されていることを確認してください。",
     "$keywords": [
-      "計算機",
-      "ローン"
+      "ローン金利",
+      "返済計画",
+      "ローンの元本",
+      "金利の上乗せ値",
+      "年利率",
+      "ローンの期間",
+      "月々の返済額",
+      "総利息",
+      "総返済額",
+      "月々の返済詳細",
+      "期数",
+      "月々の返済利息",
+      "月々の返済元本",
+      "残りのローン元本",
+      "ローン計算",
+      "投資判断",
+      "金融教育",
+      "実際のローン金利"
     ]
   },
   "ko": {
     "$name": "대출 계산기",
-    "$description": "대출 계산기",
+    "$description": "대출 계산기는 대출 이자율과 상환 계획을 계산하는 도구입니다. 다음과 같은 기능을 제공합니다:\n\n1. 대출 원금, 최신 대출 기준 이자율 및 이자 상승 값 입력\n\n2. 입력한 데이터에 따라 대출 연 이자율 계산\n\n3. 대출 기간 및 상환 방식 (균등 원금 상환 또는 균등 상환) 입력\n\n4. 입력한 데이터에 따라 매월 상환 금액, 총 이자 및 총 상환 금액 계산\n\n5. 매월 상환 세부 정보 표시, 기간, 매월 상환 금액, 매월 이자, 매월 원금 및 잔액 대출 원금 포함\n\n6. 매월 상환 세부 정보를 CSV 파일로 내보내기 지원\n\n사용 시나리오:\n\n1. 대출 계산: 대출 이자율과 상환 계획을 계산하기 위해이 도구를 사용하여 대출 신청 전 대출 계산을 수행하여 대출 비용 및 상환 방식을 더 잘 이해할 수 있습니다.\n\n2. 투자 결정: 투자 결정에서 대출 이자율과 상환 계획을 계산하기 위해이 도구를 사용하여 투자 수익과 위험을 더 잘 이해할 수 있습니다.\n\n3. 금융 교육: 금융 교육에서 대출 이자율과 상환 계획 계산 방법을 설명하기 위해이 도구를 사용하여 대출의 기본 지식을 더 잘 이해할 수 있습니다.\n\n주의 사항:\n\n1.이 도구는 참고용으로만 제공되며 실제 대출 이자율 및 상환 계획은 다양한 요인에 따라 다를 수 있습니다.\n\n2.이 도구를 사용하기 전에 입력한 데이터가 정확한지 확인하십시오.\n\n3. 매월 상환 세부 정보를 내보낼 때 페이지에 세부 정보가 완전히 표시되었는지 확인하십시오.",
     "$keywords": [
-      "계산기",
-      "대출"
+      "대출 이자율",
+      "상환 계획",
+      "대출 원금",
+      "이자 상승 값",
+      "연 이자율",
+      "대출 기간",
+      "매월 상환 금액",
+      "총 이자",
+      "총 상환 금액",
+      "매월 상환 세부 정보",
+      "기간",
+      "매월 이자",
+      "매월 원금",
+      "잔액 대출 원금",
+      "대출 계산",
+      "투자 결정",
+      "금융 교육",
+      "실제 대출 이자율"
     ]
   },
   "de": {
-    "$name": "Darlehensrechner",
-    "$description": "Darlehensrechner",
+    "$name": "Kreditrechner",
+    "$description": "Der Kreditrechner ist ein Tool zur Berechnung von Kreditzinsen und Rückzahlungsplänen. Es bietet folgende Funktionen:\n\n1. Eingabe des Kreditbetrags, des aktuellen Kreditbasiszinssatzes und des Zinsaufschlags.\n\n2. Berechnung des Jahreszinssatzes auf Basis der eingegebenen Daten.\n\n3. Eingabe der Kreditlaufzeit und der Rückzahlungsart (annuitätische oder lineare Tilgung).\n\n4. Berechnung der monatlichen Rückzahlungsbeträge, Gesamtzinsen und Gesamtrückzahlungsbeträge auf Basis der eingegebenen Daten.\n\n5. Anzeige der monatlichen Rückzahlungsdetails, einschließlich Laufzeit, monatlicher Rückzahlungsbetrag, monatlicher Zinsen, monatlicher Tilgung und Restkreditbetrag.\n\n6. Unterstützung des Exports der monatlichen Rückzahlungsdetails als CSV-Datei.\n\nAnwendungsbereiche:\n\n1. Kreditberechnung: Verwenden Sie dieses Tool vor der Beantragung eines Kredits, um Kreditzinsen und Rückzahlungspläne zu berechnen und die Kosten und Rückzahlungsmodalitäten des Kredits besser zu verstehen.\n\n2. Investitionsentscheidungen: Verwenden Sie dieses Tool bei Investitionsentscheidungen, um Kreditzinsen und Rückzahlungspläne zu berechnen und das Investitionsrisiko und die Rendite besser zu verstehen.\n\n3. Finanzbildung: Verwenden Sie dieses Tool in der Finanzbildung, um die Berechnung von Kreditzinsen und Rückzahlungsplänen zu demonstrieren und ein besseres Verständnis der Grundlagen von Krediten zu erlangen.\n\nHinweise:\n\n1. Dieses Tool dient nur zur Orientierung, tatsächliche Kreditzinsen und Rückzahlungspläne können aufgrund verschiedener Faktoren abweichen.\n\n2. Stellen Sie sicher, dass die eingegebenen Daten korrekt sind, bevor Sie dieses Tool verwenden.\n\n3. Stellen Sie sicher, dass die monatlichen Rückzahlungsdetails vollständig auf der Seite angezeigt werden, bevor Sie sie exportieren.",
     "$keywords": [
-      "Rechner",
-      "Darlehen"
+      "Kreditzinsen",
+      "Rückzahlungspläne",
+      "Kreditbetrags",
+      "Zinsaufschlags",
+      "Jahreszinssatz",
+      "Kreditlaufzeit",
+      "monatliche Rückzahlungsbeträge",
+      "Gesamtzinsen",
+      "Gesamtrückzahlungsbeträge",
+      "monatliche Rückzahlungsdetails",
+      "Laufzeit",
+      "monatliche Zinsen",
+      "monatliche Tilgung",
+      "Restkreditbetrag",
+      "Kreditberechnung",
+      "Investitionsentscheidungen",
+      "Finanzbildung",
+      "tatsächliche Kreditzinsen"
     ]
   },
   "fr": {
-    "$name": "Calculatrice de prêt",
-    "$description": "Calculatrice de prêt",
+    "$name": "Calculateur de prêt",
+    "$description": "Le calculateur de prêt est un outil utilisé pour calculer les taux d'intérêt et les plans de remboursement de prêt. Il offre les fonctionnalités suivantes :\n\n1. Entrer le capital emprunté, le taux d'intérêt de référence le plus récent et la valeur de la majoration des taux d'intérêt.\n\n2. Calculer le taux d'intérêt annuel du prêt en fonction des données saisies.\n\n3. Entrer la durée du prêt et le mode de remboursement (amortissement constant ou amortissement dégressif).\n\n4. Calculer le montant des remboursements mensuels, le montant total des intérêts et le montant total du remboursement en fonction des données saisies.\n\n5. Afficher les détails des remboursements mensuels, y compris le numéro de période, le montant des remboursements mensuels, le montant des intérêts mensuels, le montant du capital remboursé mensuellement et le capital restant dû.\n\n6. Exporter les détails des remboursements mensuels sous forme de fichier CSV.\n\nScénarios d'utilisation :\n\n1. Calcul de prêt : avant de demander un prêt, utilisez cet outil pour calculer les taux d'intérêt et les plans de remboursement afin de mieux comprendre les coûts et les modes de remboursement du prêt.\n\n2. Décision d'investissement : dans la prise de décision d'investissement, utilisez cet outil pour calculer les taux d'intérêt et les plans de remboursement de prêt afin de mieux comprendre le retour sur investissement et les risques.\n\n3. Éducation financière : dans l'éducation financière, utilisez cet outil pour démontrer les méthodes de calcul des taux d'intérêt et des plans de remboursement de prêt afin de mieux comprendre les connaissances de base sur les prêts.\n\nRemarques :\n\n1. Cet outil est fourni à titre indicatif uniquement et les taux d'intérêt et les plans de remboursement réels peuvent varier en fonction de divers facteurs.\n\n2. Avant d'utiliser cet outil, assurez-vous que les données saisies sont exactes.\n\n3. Lors de l'exportation des détails des remboursements mensuels, assurez-vous que les détails sont entièrement affichés sur la page.",
     "$keywords": [
-      "calculatrice",
-      "prêt"
+      "taux d'intérêt de prêt",
+      "plan de remboursement",
+      "capital emprunté",
+      "valeur de la majoration des taux d'intérêt",
+      "taux d'intérêt annuel",
+      "durée du prêt",
+      "montant des remboursements mensuels",
+      "montant total des intérêts",
+      "montant total du remboursement",
+      "détails des remboursements mensuels",
+      "numéro de période",
+      "montant des intérêts mensuels",
+      "montant du capital remboursé mensuellement",
+      "capital restant dû",
+      "calcul de prêt",
+      "décision d'investissement",
+      "éducation financière",
+      "taux d'intérêt de prêt réel"
     ]
   },
   "it": {
-    "$name": "Calcolatrice del prestito",
-    "$description": "Calcolatrice del prestito",
+    "$name": "Calcolatore di prestiti",
+    "$description": "Il Calcolatore di prestiti è uno strumento per calcolare il tasso di interesse del prestito e il piano di rimborso. Offre le seguenti funzioni:\n\n1. Inserisci il capitale del prestito, il tasso di interesse di riferimento più recente e il valore di aumento del tasso di interesse.\n\n2. Calcola il tasso di interesse annuale del prestito in base ai dati inseriti.\n\n3. Inserisci il termine del prestito e il metodo di rimborso (rata costante o capitale costante).\n\n4. Calcola l'importo del rimborso mensile, gli interessi totali e l'importo totale del rimborso in base ai dati inseriti.\n\n5. Mostra i dettagli del rimborso mensile, inclusi il numero di periodi, l'importo del rimborso mensile, gli interessi del rimborso mensile, il capitale del rimborso mensile e il capitale residuo del prestito.\n\n6. Supporta l'esportazione dei dettagli del rimborso mensile in un file CSV.\n\nScenari di utilizzo:\n\n1. Calcolo del prestito: utilizzare questo strumento per calcolare il tasso di interesse del prestito e il piano di rimborso prima di richiedere un prestito, al fine di comprendere meglio i costi del prestito e il metodo di rimborso.\n\n2. Decisioni di investimento: utilizzare questo strumento per calcolare il tasso di interesse del prestito e il piano di rimborso durante le decisioni di investimento, al fine di comprendere meglio il rendimento dell'investimento e il rischio.\n\n3. Educazione finanziaria: utilizzare questo strumento per dimostrare il metodo di calcolo del tasso di interesse del prestito e il piano di rimborso durante l'educazione finanziaria, al fine di comprendere meglio le conoscenze di base del prestito.\n\nNote:\n\n1. Questo strumento è solo a scopo informativo, il tasso di interesse effettivo del prestito e il piano di rimborso possono variare a seconda di vari fattori.\n\n2. Prima di utilizzare questo strumento, assicurati che i dati inseriti siano accurati.\n\n3. Quando si esportano i dettagli del rimborso mensile, assicurarsi che i dettagli siano completamente visualizzati sulla pagina.",
     "$keywords": [
-      "calcolatrice",
-      "prestito"
+      "tasso di interesse del prestito",
+      "piano di rimborso",
+      "capitale del prestito",
+      "valore di aumento del tasso di interesse",
+      "tasso di interesse annuale",
+      "termine del prestito",
+      "importo del rimborso mensile",
+      "interessi totali",
+      "importo totale del rimborso",
+      "dettagli del rimborso mensile",
+      "numero di periodi",
+      "interessi del rimborso mensile",
+      "capitale del rimborso mensile",
+      "capitale residuo del prestito",
+      "calcolo del prestito",
+      "decisioni di investimento",
+      "educazione finanziaria",
+      "tasso di interesse effettivo del prestito"
     ]
   },
   "ru": {
     "$name": "Калькулятор кредита",
-    "$description": "Калькулятор кредита",
+    "$description": "Калькулятор кредита - это инструмент для расчета процентной ставки по кредиту и плана погашения. Он предоставляет следующие функции:\n\n1. Ввод основной суммы кредита, последней базовой процентной ставки по кредиту и значения наценки на процентную ставку.\n\n2. На основе введенных данных рассчитывается годовая процентная ставка по кредиту.\n\n3. Ввод срока кредита и способа погашения (аннуитетный или дифференцированный).\n\n4. На основе введенных данных рассчитывается ежемесячный платеж, общий процент и общая сумма погашения.\n\n5. Отображение деталей ежемесячного платежа, включая номер периода, ежемесячный платеж, проценты по кредиту, основную сумму платежа и оставшуюся сумму кредита.\n\n6. Поддержка экспорта деталей ежемесячного платежа в формате CSV.\n\nСферы применения:\n\n1. Расчет кредита: перед подачей заявки на кредит используйте этот инструмент для расчета процентной ставки по кредиту и плана погашения, чтобы лучше понимать затраты на кредит и способ погашения.\n\n2. Инвестиционное решение: при принятии инвестиционного решения используйте этот инструмент для расчета процентной ставки по кредиту и плана погашения, чтобы лучше понимать возврат инвестиций и риски.\n\n3. Финансовое образование: используйте этот инструмент для демонстрации методов расчета процентной ставки по кредиту и плана погашения в финансовом образовании, чтобы лучше понимать основы кредитования.\n\nПримечания:\n\n1. Этот инструмент предназначен только для ознакомления, фактическая процентная ставка по кредиту и план погашения могут отличаться из-за многих факторов.\n\n2. Перед использованием этого инструмента убедитесь, что введенные данные точны и без ошибок.\n\n3. При экспорте деталей ежемесячного платежа убедитесь, что все детали полностью отображены на странице.",
     "$keywords": [
-      "калькулятор",
-      "кредит"
+      "процентная ставка по кредиту",
+      "план погашения",
+      "основная сумма кредита",
+      "наценка на процентную ставку",
+      "годовая процентная ставка",
+      "срок кредита",
+      "ежемесячный платеж",
+      "общий процент",
+      "общая сумма погашения",
+      "детали ежемесячного платежа",
+      "номер периода",
+      "проценты по кредиту",
+      "основная сумма платежа",
+      "оставшаяся сумма кредита",
+      "расчет кредита",
+      "инвестиционное решение",
+      "финансовое образование",
+      "фактическая процентная ставка по кредиту"
     ]
   },
   "pt": {
-    "$name": "Calculadora de empréstimos",
-    "$description": "Calculadora de empréstimos",
+    "$name": "Calculadora de Empréstimo",
+    "$description": "A Calculadora de Empréstimo é uma ferramenta para calcular taxas de juros e planos de pagamento de empréstimos. Ele oferece as seguintes funcionalidades:\n\n1. Insira o principal do empréstimo, a taxa de juros de referência mais recente e o valor do aumento da taxa de juros.\n\n2. Com base nos dados inseridos, calcule a taxa de juros anual do empréstimo.\n\n3. Insira o prazo do empréstimo e o método de pagamento (pagamento igual de juros e principal ou pagamento igual de principal).\n\n4. Com base nos dados inseridos, calcule o valor do pagamento mensal, o total de juros e o total do pagamento.\n\n5. Exiba os detalhes do pagamento mensal, incluindo o número de períodos, o valor do pagamento mensal, o valor do juros do pagamento mensal, o valor do principal do pagamento mensal e o saldo do principal do empréstimo.\n\n6. Suporta a exportação dos detalhes do pagamento mensal como um arquivo CSV.\n\nCenários de uso:\n\n1. Cálculo de empréstimo: antes de solicitar um empréstimo, use esta ferramenta para calcular as taxas de juros e os planos de pagamento para entender melhor os custos e o método de pagamento do empréstimo.\n\n2. Decisão de investimento: ao tomar decisões de investimento, use esta ferramenta para calcular as taxas de juros e os planos de pagamento do empréstimo para entender melhor o retorno do investimento e o risco.\n\n3. Educação financeira: na educação financeira, use esta ferramenta para demonstrar o método de cálculo de taxas de juros e planos de pagamento de empréstimos para entender melhor os conceitos básicos de empréstimos.\n\nObservações:\n\n1. Esta ferramenta é apenas para referência, as taxas de juros e os planos de pagamento reais do empréstimo podem variar devido a vários fatores.\n\n2. Antes de usar esta ferramenta, verifique se os dados inseridos estão corretos.\n\n3. Ao exportar os detalhes do pagamento mensal, verifique se os detalhes estão completamente exibidos na página.",
     "$keywords": [
-      "calculadora",
-      "empréstimo"
+      "taxas de juros",
+      "planos de pagamento",
+      "principal do empréstimo",
+      "valor do aumento da taxa de juros",
+      "taxa de juros anual",
+      "prazo do empréstimo",
+      "valor do pagamento mensal",
+      "total de juros",
+      "total do pagamento",
+      "detalhes do pagamento mensal",
+      "número de períodos",
+      "valor do juros do pagamento mensal",
+      "valor do principal do pagamento mensal",
+      "saldo do principal do empréstimo",
+      "cálculo de empréstimo",
+      "decisão de investimento",
+      "educação financeira",
+      "taxas de juros reais do empréstimo"
+    ]
+  },
+  "zh-cn": {
+    "$name": "贷款计算器",
+    "$description": "贷款计算器 工具是一个用于计算贷款利率和还款计划的工具。它提供了以下功能：\n\n1. 输入贷款本金、最新贷款基准利率和利率上浮值。\n\n2. 根据输入的数据，计算出贷款的年利率。\n\n3. 输入贷款期限和还款方式（等额本息或等额本金）。\n\n4. 根据输入的数据，计算出每月还款额、总利息和总还款额。\n\n5. 显示每月还款详情，包括期数、每月还款额、每月还款利息、每月还款本金和剩余贷款本金。\n\n6. 支持将每月还款详情导出为 CSV 文件。\n\n使用场景：\n\n1. 贷款计算：在申请贷款前，使用此工具计算贷款利率和还款计划，以便更好地了解贷款的费用和还款方式。\n\n2. 投资决策：在投资决策中，使用此工具计算贷款利率和还款计划，以便更好地了解投资回报和风险。\n\n3. 金融教育：在金融教育中，使用此工具演示贷款利率和还款计划的计算方法，以便更好地理解贷款的基本知识。\n\n注意事项：\n\n1. 此工具仅供参考，实际贷款利率和还款计划可能会因多种因素而有所不同。\n\n2. 在使用此工具前，请确保输入的数据准确无误。\n\n3. 在导出每月还款详情时，请确保已将详情完整显示在页面中。",
+    "$keywords": [
+      "贷款利率",
+      "还款计划",
+      "贷款本金",
+      "利率上浮值",
+      "年利率",
+      "贷款期限",
+      "每月还款额",
+      "总利息",
+      "总还款额",
+      "每月还款详情",
+      "期数",
+      "每月还款利息",
+      "每月还款本金",
+      "剩余贷款本金",
+      "贷款计算",
+      "投资决策",
+      "金融教育",
+      "实际贷款利率"
     ]
   }
 }
