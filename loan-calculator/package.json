@@ -7,11 +7,11 @@
   },
   "mode": "production",
   "he3": {
-    "name": "He3 Loan Calculator",
+    "name": "Loan Calculator",
     "id": "he3-loan-calculator",
     "icon": "block-outlined",
-    "version": "1.0.3",
-    "description": "He3 Loan Calculator",
+    "version": "1.0.4",
+    "description": "The Loan Calculator tool is used to calculate loan interest rates and repayment plans. It provides the following features:\n\n1. Input loan principal, latest loan benchmark interest rate, and interest rate markup value.\n\n2. Calculate the annual interest rate of the loan based on the input data.\n\n3. Input the loan term and repayment method (equal principal and interest or equal principal).\n\n4. Calculate the monthly repayment amount, total interest, and total repayment amount based on the input data.\n\n5. Display monthly repayment details, including period, monthly repayment amount, monthly repayment interest, monthly repayment principal, and remaining loan principal.\n\n6. Support exporting monthly repayment details as a CSV file.\n\nUse cases:\n\n1. Loan calculation: Use this tool to calculate loan interest rates and repayment plans before applying for a loan to better understand the cost and repayment method of the loan.\n\n2. Investment decision-making: Use this tool to calculate loan interest rates and repayment plans in investment decision-making to better understand investment returns and risks.\n\n3. Financial education: Use this tool to demonstrate the calculation method of loan interest rates and repayment plans in financial education to better understand the basic knowledge of loans.\n\nNotes:\n\n1. This tool is for reference only, and actual loan interest rates and repayment plans may vary due to various factors.\n\n2. Before using this tool, please ensure that the input data is accurate.\n\n3. When exporting monthly repayment details, please ensure that the details are fully displayed on the page.",
     "relatedToolId": [],
     "isPublic": true,
     "category": [
@@ -19,8 +19,24 @@
       "misc"
     ],
     "keywords": [
-      "loan",
-      "calculator"
+      "loan interest rates",
+      "repayment plans",
+      "loan principal",
+      "interest rate markup value",
+      "annual interest rate",
+      "loan term",
+      "monthly repayment amount",
+      "total interest",
+      "total repayment amount",
+      "monthly repayment details",
+      "period",
+      "monthly repayment interest",
+      "monthly repayment principal",
+      "remaining loan principal",
+      "loan calculation",
+      "investment decision-making",
+      "financial education",
+      "actual loan interest rates"
     ]
   },
   "dependencies": {
