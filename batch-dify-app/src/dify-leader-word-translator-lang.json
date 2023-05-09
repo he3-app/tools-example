@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "welcome": "输入领导的“黑话”",
+    "input": "输入",
+    "pleaseInput": "请输入领导的“黑话”...",
+    "output": "AI 的智能解释",
+    "outputTitle": "AI 的回答",
+    "run": "转换"
+  },
+  "en": {
+    "welcome": "Input Leadership Jargon",
+    "input": "Input",
+    "pleaseInput": "Please input Leadership Jargon...",
+    "output": "Intelligent Interpretation by AI",
+    "outputTitle": "AI's response",
+    "run": "Convert"
+  },
+  "fr": {
+    "welcome": "Saisissez le jargon de leadership",
+    "input": "Entrée",
+    "pleaseInput": "Veuillez saisir le jargon de leadership...",
+    "output": "Interprétation intelligente par l'IA",
+    "outputTitle": "Réponse de l'IA",
+    "run": "Convertir"
+  },
+  "de": {
+    "welcome": "Führungsjargon eingeben",
+    "input": "Eingabe",
+    "pleaseInput": "Bitte geben Sie den Führungsjargon ein...",
+    "output": "Intelligente Interpretation durch KI",
+    "outputTitle": "Antwort der KI",
+    "run": "Konvertieren"
+  },
+  "pt": {
+    "welcome": "Insira o Jargão de Liderança",
+    "input": "Entrada",
+    "pleaseInput": "Por favor, insira o jargão de liderança...",
+    "output": "Interpretação inteligente por AI",
+    "outputTitle": "Resposta da AI",
+    "run": "Converter"
+  },
+  "ru": {
+    "welcome": "Введите жаргон лидерства",
+    "input": "Вход",
+    "pleaseInput": "Введите жаргон лидерства...",
+    "output": "Интеллектуальная интерпретация от AI",
+    "outputTitle": "Ответ AI",
+    "run": "Конвертировать"
+  },
+  "ko": {
+    "welcome": "리더십 조언 입력",
+    "input": "입력",
+    "pleaseInput": "리더십 조언을 입력하세요...",
+    "output": "AI의 지능적인 해석",
+    "outputTitle": "AI의 응답",
+    "run": "변환"
+  },
+  "ja": {
+    "welcome": "リーダーシップ用語を入力",
+    "input": "入力",
+    "pleaseInput": "リーダーシップ用語を入力してください...",
+    "output": "AIによる知的解釈",
+    "outputTitle": "AIの回答",
+    "run": "変換"
+  },
+  "zh-tw": {
+    "welcome": "輸入領導的黑話",
+    "input": "輸入",
+    "pleaseInput": "請輸入領導的黑話...",
+    "output": "AI的智能解釋",
+    "outputTitle": "AI的回答",
+    "run": "轉換"
+  },
+  "es": {
+    "welcome": "Ingrese la jerga de liderazgo",
+    "input": "Entrada",
+    "pleaseInput": "Por favor ingrese la jerga de liderazgo...",
+    "output": "Interpretación inteligente por AI",
+    "outputTitle": "Respuesta de la AI",
+    "run": "Convertir"
+  },
+  "it": {
+    "welcome": "Inserisci il gergo di leadership",
+    "input": "Inserimento",
+    "pleaseInput": "Inserisci il gergo di leadership...",
+    "output": "Interpretazione intelligente di AI",
+    "outputTitle": "Risposta di AI",
+    "run": "Convertire"
+  }
+}

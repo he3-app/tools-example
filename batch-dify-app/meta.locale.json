@@ -1,0 +1,846 @@
+[
+  {
+      "id": "dify-answer-to-girlfriend",
+      "zh-cn": {
+          "$name": "巧妙化解女朋友的送命题",
+          "$description": "如何巧妙化解女朋友的送命题",
+          "$keywords": [
+              "对话",
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "Cleverly Resolve Your Girlfriend's Life-or-Death Questions",
+          "$description": "How to cleverly resolve your girlfriend's life-or-death questions",
+          "$keywords": [
+              "conversation",
+              "artificial intelligence"
+          ]
+      },
+      "de": {
+          "$name": "Clever lösen Sie die Lebens- oder Todesfragen Ihrer Freundin",
+          "$description": "Wie Sie die Lebens- oder Todesfragen Ihrer Freundin clever lösen können",
+          "$keywords": [
+              "Unterhaltung",
+              "Künstliche Intelligenz"
+          ]
+      },
+      "es": {
+          "$name": "Resuelve de manera inteligente las preguntas de vida o muerte de tu novia",
+          "$description": "Cómo resolver de manera inteligente las preguntas de vida o muerte de tu novia",
+          "$keywords": [
+              "conversación",
+              "inteligencia artificial"
+          ]
+      },
+      "fr": {
+          "$name": "Résoudre astucieusement les questions de vie ou de mort de votre petite amie",
+          "$description": "Comment résoudre astucieusement les questions de vie ou de mort de votre petite amie",
+          "$keywords": [
+              "conversation",
+              "intelligence artificielle"
+          ]
+      },
+      "it": {
+          "$name": "Risolvete in modo astuto le domande di vita o di morte della vostra ragazza",
+          "$description": "Come risolvere in modo astuto le domande di vita o di morte della vostra ragazza",
+          "$keywords": [
+              "conversazione",
+              "intelligenza artificiale"
+          ]
+      },
+      "ja": {
+          "$name": "彼女の命がけの質問を巧妙に解決する方法",
+          "$description": "彼女の命がけの質問を巧妙に解決する方法",
+          "$keywords": [
+              "会話",
+              "人工知能"
+          ]
+      },
+      "ko": {
+          "$name": "여자친구의 목숨 걸고 묻는 질문을 똑똑하게 해결하는 방법",
+          "$description": "여자친구의 목숨 걸고 묻는 질문을 똑똑하게 해결하는 방법",
+          "$keywords": [
+              "대화",
+              "인공 지능"
+          ]
+      },
+      "pt": {
+          "$name": "Resolva de maneira inteligente as perguntas de vida ou morte da sua namorada",
+          "$description": "Como resolver de maneira inteligente as perguntas de vida ou morte da sua namorada",
+          "$keywords": [
+              "conversa",
+              "inteligência artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Умно решайте вопросы жизни или смерти вашей подруги",
+          "$description": "Как умно решить вопросы жизни или смерти вашей подруги",
+          "$keywords": [
+              "беседа",
+              "искусственный интеллект"
+          ]
+      },
+      "zh-tw": {
+          "$name": "巧妙化解女朋友的送命題",
+          "$description": "如何巧妙化解女朋友的送命題",
+          "$keywords": [
+              "對話",
+              "人工智能"
+          ]
+      }
+  },
+  {
+      "id": "dify-anti-pua",
+      "zh-cn": {
+          "$name": "反领导 PUA 工具",
+          "$description": "反 PUA",
+          "$keywords": [
+              "对话",
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "Reverse Leadership PUA Tool",
+          "$description": "Reverse PUA",
+          "$keywords": [
+              "conversation",
+              "artificial intelligence"
+          ]
+      },
+      "de": {
+          "$name": "Umkehrwerkzeug für Führungskräfte PUA",
+          "$description": "Umgekehrtes PUA",
+          "$keywords": [
+              "Unterhaltung",
+              "Künstliche Intelligenz"
+          ]
+      },
+      "es": {
+          "$name": "Herramienta de PUA de liderazgo inverso",
+          "$description": "PUA inverso",
+          "$keywords": [
+              "conversación",
+              "inteligencia artificial"
+          ]
+      },
+      "fr": {
+          "$name": "Outil de PUA de leadership inversé",
+          "$description": "PUA inversé",
+          "$keywords": [
+              "conversation",
+              "intelligence artificielle"
+          ]
+      },
+      "it": {
+          "$name": "Strumento PUA inverso di leadership",
+          "$description": "PUA inverso",
+          "$keywords": [
+              "conversazione",
+              "intelligenza artificiale"
+          ]
+      },
+      "ja": {
+          "$name": "リーダーシップPUAツールを逆にする",
+          "$description": "逆PUA",
+          "$keywords": [
+              "会話",
+              "人工知能"
+          ]
+      },
+      "ko": {
+          "$name": "리더십 PUA 도구 역전",
+          "$description": "역 PUA",
+          "$keywords": [
+              "대화",
+              "인공 지능"
+          ]
+      },
+      "pt": {
+          "$name": "Ferramenta de PUA de liderança reversa",
+          "$description": "PUA reverso",
+          "$keywords": [
+              "conversa",
+              "inteligência artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Инструмент обратного лидерства PUA",
+          "$description": "Обратный PUA",
+          "$keywords": [
+              "диалог",
+              "искусственный интеллект"
+          ]
+      },
+      "zh-tw": {
+          "$name": "反領導PUA工具",
+          "$description": "逆向PUA",
+          "$keywords": [
+              "對話",
+              "人工智慧"
+          ]
+      }
+  },
+  {
+      "id": "dify-astrologer",
+      "zh-cn": {
+          "$name": "占星师✨",
+          "$description": "占星师✨",
+          "$keywords": [
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "Astrologer✨",
+          "$description": "Astrologer✨",
+          "$keywords": [
+              "Artificial Intelligence"
+          ]
+      },
+      "fr": {
+          "$name": "Astrologue✨",
+          "$description": "Astrologue✨",
+          "$keywords": [
+              "Intelligence Artificielle"
+          ]
+      },
+      "de": {
+          "$name": "Astrologe✨",
+          "$description": "Astrologe✨",
+          "$keywords": [
+              "Künstliche Intelligenz"
+          ]
+      },
+      "pt": {
+          "$name": "Astrólogo✨",
+          "$description": "Astrólogo✨",
+          "$keywords": [
+              "Inteligência Artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Астролог✨",
+          "$description": "Астролог✨",
+          "$keywords": [
+              "Искусственный Интеллект"
+          ]
+      },
+      "ko": {
+          "$name": "점성술사✨",
+          "$description": "점성술사✨",
+          "$keywords": [
+              "인공지능"
+          ]
+      },
+      "ja": {
+          "$name": "占星家✨",
+          "$description": "占星家✨",
+          "$keywords": [
+              "人工知能"
+          ]
+      },
+      "zh-tw": {
+          "$name": "占星師✨",
+          "$description": "占星師✨",
+          "$keywords": [
+              "人工智慧"
+          ]
+      },
+      "es": {
+          "$name": "Astrólogo✨",
+          "$description": "Astrólogo✨",
+          "$keywords": [
+              "Inteligencia Artificial"
+          ]
+      },
+      "it": {
+          "$name": "Astrologo✨",
+          "$description": "Astrologo✨",
+          "$keywords": [
+              "Intelligenza Artificiale"
+          ]
+      }
+  },
+  {
+      "id": "dify-dream",
+      "zh-cn": {
+          "$name": "梦的解析",
+          "$description": "梦的解析",
+          "$keywords": [
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "Dream Analysis",
+          "$description": "Dream Analysis",
+          "$keywords": [
+              "Artificial Intelligence"
+          ]
+      },
+      "fr": {
+          "$name": "Analyse des rêves",
+          "$description": "Analyse des rêves",
+          "$keywords": [
+              "Intelligence Artificielle"
+          ]
+      },
+      "de": {
+          "$name": "Traumdeutung",
+          "$description": "Traumdeutung",
+          "$keywords": [
+              "Künstliche Intelligenz"
+          ]
+      },
+      "pt": {
+          "$name": "Análise de sonhos",
+          "$description": "Análise de sonhos",
+          "$keywords": [
+              "Inteligência Artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Анализ снов",
+          "$description": "Анализ снов",
+          "$keywords": [
+              "Искусственный Интеллект"
+          ]
+      },
+      "ko": {
+          "$name": "꿈 해석",
+          "$description": "꿈 해석",
+          "$keywords": [
+              "인공지능"
+          ]
+      },
+      "ja": {
+          "$name": "夢の解析",
+          "$description": "夢の解析",
+          "$keywords": [
+              "人工知能"
+          ]
+      },
+      "zh-tw": {
+          "$name": "夢的解析",
+          "$description": "夢的解析",
+          "$keywords": [
+              "人工智慧"
+          ]
+      },
+      "es": {
+          "$name": "Análisis de sueños",
+          "$description": "Análisis de sueños",
+          "$keywords": [
+              "Inteligencia Artificial"
+          ]
+      },
+      "it": {
+          "$name": "Analisi dei sogni",
+          "$description": "Analisi dei sogni",
+          "$keywords": [
+              "Intelligenza Artificiale"
+          ]
+      }
+  },
+  {
+      "id": "dify-friend",
+      "zh-cn": {
+          "$name": "一位你的挚友",
+          "$description": "一位你的挚友",
+          "$keywords": [
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "A Trusted Friend",
+          "$description": "A Trusted Friend",
+          "$keywords": [
+              "Artificial Intelligence"
+          ]
+      },
+      "fr": {
+          "$name": "Un ami de confiance",
+          "$description": "Un ami de confiance",
+          "$keywords": [
+              "Intelligence Artificielle"
+          ]
+      },
+      "de": {
+          "$name": "Ein vertrauter Freund",
+          "$description": "Ein vertrauter Freund",
+          "$keywords": [
+              "Künstliche Intelligenz"
+          ]
+      },
+      "pt": {
+          "$name": "Um amigo confiável",
+          "$description": "Um amigo confiável",
+          "$keywords": [
+              "Inteligência Artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Надежный друг",
+          "$description": "Надежный друг",
+          "$keywords": [
+              "Искусственный Интеллект"
+          ]
+      },
+      "ko": {
+          "$name": "신뢰할 수 있는 친구",
+          "$description": "신뢰할 수 있는 친구",
+          "$keywords": [
+              "인공지능"
+          ]
+      },
+      "ja": {
+          "$name": "信頼できる友人",
+          "$description": "信頼できる友人",
+          "$keywords": [
+              "人工知能"
+          ]
+      },
+      "zh-tw": {
+          "$name": "一位你的摯友",
+          "$description": "一位你的摯友",
+          "$keywords": [
+              "人工智慧"
+          ]
+      },
+      "es": {
+          "$name": "Un amigo de confianza",
+          "$description": "Un amigo de confianza",
+          "$keywords": [
+              "Inteligencia Artificial"
+          ]
+      },
+      "it": {
+          "$name": "Un amico di fiducia",
+          "$description": "Un amico di fiducia",
+          "$keywords": [
+              "Intelligenza Artificiale"
+          ]
+      }
+  },
+  {
+      "id": "dify-interviewer",
+      "zh-cn": {
+          "$name": "AI 模拟面试官",
+          "$description": "AI 模拟面试官",
+          "$keywords": [
+              "对话",
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "AI Simulated Interviewer",
+          "$description": "AI Simulated Interviewer",
+          "$keywords": [
+              "conversation",
+              "artificial intelligence"
+          ]
+      },
+      "es": {
+          "$name": "Entrevistador Simulado de IA",
+          "$description": "Entrevistador Simulado de IA",
+          "$keywords": [
+              "conversación",
+              "inteligencia artificial"
+          ]
+      },
+      "fr": {
+          "$name": "Intervieweur Simulé IA",
+          "$description": "Intervieweur Simulé IA",
+          "$keywords": [
+              "conversation",
+              "intelligence artificielle"
+          ]
+      },
+      "de": {
+          "$name": "KI-Simulierter Interviewer",
+          "$description": "KI-Simulierter Interviewer",
+          "$keywords": [
+              "Unterhaltung",
+              "Künstliche Intelligenz"
+          ]
+      },
+      "jp": {
+          "$name": "AIシミュレート面接官",
+          "$description": "AIシミュレート面接官",
+          "$keywords": [
+              "会話",
+              "人工知能"
+          ]
+      },
+      "kr": {
+          "$name": "AI 모의 면접관",
+          "$description": "AI 모의 면접관",
+          "$keywords": [
+              "대화",
+              "인공지능"
+          ]
+      },
+      "ru": {
+          "$name": "AI Симулированный интервьюер",
+          "$description": "AI Симулированный интервьюер",
+          "$keywords": [
+              "разговор",
+              "искусственный интеллект"
+          ]
+      },
+      "zh-tw": {
+          "$name": "AI 模擬面試官",
+          "$description": "AI 模擬面試官",
+          "$keywords": [
+              "對話",
+              "人工智慧"
+          ]
+      },
+      "it": {
+          "$name": "Intervistatore Simulato di IA",
+          "$description": "Intervistatore Simulato di IA",
+          "$keywords": [
+              "conversazione",
+              "intelligenza artificiale"
+          ]
+      },
+      "pt": {
+          "$name": "Entrevistador Simulado de IA",
+          "$description": "Entrevistador Simulado de IA",
+          "$keywords": [
+              "conversa",
+              "inteligência artificial"
+          ]
+      }
+  },
+  {
+      "id": "dify-leader-word-translator",
+      "zh-cn": {
+          "$name": "领导黑话解释器",
+          "$description": "用于解释领导黑话",
+          "$keywords": [
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "Leadership Jargon Interpreter",
+          "$description": "Used for interpreting leadership jargon",
+          "$keywords": [
+              "Artificial Intelligence"
+          ]
+      },
+      "fr": {
+          "$name": "Interprète de jargon de leadership",
+          "$description": "Utilisé pour interpréter le jargon de leadership",
+          "$keywords": [
+              "Intelligence Artificielle"
+          ]
+      },
+      "de": {
+          "$name": "Führungsjargon-Interpreter",
+          "$description": "Wird verwendet, um Führungsjargon zu interpretieren",
+          "$keywords": [
+              "Künstliche Intelligenz"
+          ]
+      },
+      "pt": {
+          "$name": "Intérprete de Jargão de Liderança",
+          "$description": "Usado para interpretar jargão de liderança",
+          "$keywords": [
+              "Inteligência Artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Интерпретатор лидерского жаргона",
+          "$description": "Используется для интерпретации лидерского жаргона",
+          "$keywords": [
+              "Искусственный интеллект"
+          ]
+      },
+      "ko": {
+          "$name": "리더십 조언 해석기",
+          "$description": "리더십 조언 해석에 사용됩니다",
+          "$keywords": [
+              "인공지능"
+          ]
+      },
+      "ja": {
+          "$name": "リーダーシップ用語の解釈者",
+          "$description": "リーダーシップ用語の解釈に使用されます",
+          "$keywords": [
+              "人工知能"
+          ]
+      },
+      "zh-tw": {
+          "$name": "領導黑話解釋器",
+          "$description": "用於解釋領導黑話",
+          "$keywords": [
+              "人工智慧"
+          ]
+      },
+      "es": {
+          "$name": "Intérprete de jerga de liderazgo",
+          "$description": "Se utiliza para interpretar la jerga de liderazgo",
+          "$keywords": [
+              "Inteligencia Artificial"
+          ]
+      },
+      "it": {
+          "$name": "Interprete di gergo di leadership",
+          "$description": "Utilizzato per interpretare il gergo di leadership",
+          "$keywords": [
+              "Intelligenza Artificiale"
+          ]
+      }
+  },
+  {
+      "id": "dify-lyrics-generator",
+      "zh-cn": {
+          "$name": "AI 歌词生成器",
+          "$description": "AI 歌词生成器",
+          "$keywords": [
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "AI Lyrics Generator",
+          "$description": "AI Lyrics Generator",
+          "$keywords": [
+              "artificial intelligence"
+          ]
+      },
+      "fr": {
+          "$name": "Générateur de paroles AI",
+          "$description": "Générateur de paroles AI",
+          "$keywords": [
+              "intelligence artificielle"
+          ]
+      },
+      "de": {
+          "$name": "AI Liedtext Generator",
+          "$description": "AI Liedtext Generator",
+          "$keywords": [
+              "künstliche Intelligenz"
+          ]
+      },
+      "pt": {
+          "$name": "Gerador de Letras AI",
+          "$description": "Gerador de Letras AI",
+          "$keywords": [
+              "inteligência artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Генератор текстов песен AI",
+          "$description": "Генератор текстов песен AI",
+          "$keywords": [
+              "искусственный интеллект"
+          ]
+      },
+      "ko": {
+          "$name": "AI 가사 생성기",
+          "$description": "AI 가사 생성기",
+          "$keywords": [
+              "인공지능"
+          ]
+      },
+      "ja": {
+          "$name": "AI 歌詞生成器",
+          "$description": "AI 歌詞生成器",
+          "$keywords": [
+              "人工知能"
+          ]
+      },
+      "zh-tw": {
+          "$name": "AI 歌詞生成器",
+          "$description": "AI 歌詞生成器",
+          "$keywords": [
+              "人工智慧"
+          ]
+      },
+      "es": {
+          "$name": "Generador de letras de canciones AI",
+          "$description": "Generador de letras de canciones AI",
+          "$keywords": [
+              "inteligencia artificial"
+          ]
+      },
+      "it": {
+          "$name": "Generatore di testi delle canzoni AI",
+          "$description": "Generatore di testi delle canzoni AI",
+          "$keywords": [
+              "intelligenza artificiale"
+          ]
+      }
+  },
+  {
+      "id": "dify-red-style-generator",
+      "zh-cn": {
+          "$name": "小红🍠文风生成器",
+          "$description": "小红🍠文风生成器",
+          "$keywords": [
+              "对话",
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "Little Red Sweet Potato Style Generator",
+          "$description": "Little Red Sweet Potato Style Generator",
+          "$keywords": [
+              "Dialogue",
+              "Artificial Intelligence"
+          ]
+      },
+      "fr": {
+          "$name": "Générateur de style de patate douce rouge",
+          "$description": "Générateur de style de patate douce rouge",
+          "$keywords": [
+              "Dialogue",
+              "Intelligence Artificielle"
+          ]
+      },
+      "de": {
+          "$name": "Generator für den Sweet-Potato-Stil von Little Red",
+          "$description": "Generator für den Sweet-Potato-Stil von Little Red",
+          "$keywords": [
+              "Dialog",
+              "Künstliche Intelligenz"
+          ]
+      },
+      "pt": {
+          "$name": "Gerador de estilo de batata-doce vermelha",
+          "$description": "Gerador de estilo de batata-doce vermelha",
+          "$keywords": [
+              "Diálogo",
+              "Inteligência Artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Генератор стиля маленькой красной сладкой картошки",
+          "$description": "Генератор стиля маленькой красной сладкой картошки",
+          "$keywords": [
+              "Диалог",
+              "Искусственный интеллект"
+          ]
+      },
+      "ko": {
+          "$name": "작은 빨간 고구마 스타일 생성기",
+          "$description": "작은 빨간 고구마 스타일 생성기",
+          "$keywords": [
+              "대화",
+              "인공 지능"
+          ]
+      },
+      "ja": {
+          "$name": "リトルレッドスイートポテトスタイルジェネレーター",
+          "$description": "リトルレッドスイートポテトスタイルジェネレーター",
+          "$keywords": [
+              "対話",
+              "人工知能"
+          ]
+      },
+      "zh-tw": {
+          "$name": "小紅🍠文風生成器",
+          "$description": "小紅🍠文風生成器",
+          "$keywords": [
+              "對話",
+              "人工智能"
+          ]
+      },
+      "es": {
+          "$name": "Generador de estilo de escritura de Sweet Potato de Little Red",
+          "$description": "Generador de estilo de escritura de Sweet Potato de Little Red",
+          "$keywords": [
+              "Diálogo",
+              "Inteligencia Artificial"
+          ]
+      },
+      "it": {
+          "$name": "Generatore di stile di scrittura di patate dolci rosse",
+          "$description": "Generatore di stile di scrittura di patate dolci rosse",
+          "$keywords": [
+              "Dialogo",
+              "Intelligenza Artificiale"
+          ]
+      }
+  },
+  {
+      "id": "dify-weekly-report-generator",
+      "zh-cn": {
+          "$name": "周报生成器📓",
+          "$description": "周报生成器📓",
+          "$keywords": [
+              "人工智能"
+          ]
+      },
+      "en": {
+          "$name": "Weekly Report Generator📓",
+          "$description": "Weekly Report Generator📓",
+          "$keywords": [
+              "Artificial Intelligence"
+          ]
+      },
+      "fr": {
+          "$name": "Générateur de rapports hebdomadaires📓",
+          "$description": "Générateur de rapports hebdomadaires📓",
+          "$keywords": [
+              "Intelligence Artificielle"
+          ]
+      },
+      "de": {
+          "$name": "Wochenbericht-Generator📓",
+          "$description": "Wochenbericht-Generator📓",
+          "$keywords": [
+              "Künstliche Intelligenz"
+          ]
+      },
+      "pt": {
+          "$name": "Gerador de relatórios semanais📓",
+          "$description": "Gerador de relatórios semanais📓",
+          "$keywords": [
+              "Inteligência Artificial"
+          ]
+      },
+      "ru": {
+          "$name": "Генератор еженедельных отчетов📓",
+          "$description": "Генератор еженедельных отчетов📓",
+          "$keywords": [
+              "Искусственный Интеллект"
+          ]
+      },
+      "ko": {
+          "$name": "주간 보고서 생성기📓",
+          "$description": "주간 보고서 생성기📓",
+          "$keywords": [
+              "인공지능"
+          ]
+      },
+      "ja": {
+          "$name": "週報ジェネレーター📓",
+          "$description": "週報ジェネレーター📓",
+          "$keywords": [
+              "人工知能"
+          ]
+      },
+      "zh-tw": {
+          "$name": "週報生成器📓",
+          "$description": "週報生成器📓",
+          "$keywords": [
+              "人工智慧"
+          ]
+      },
+      "es": {
+          "$name": "Generador de informes semanales📓",
+          "$description": "Generador de informes semanales📓",
+          "$keywords": [
+              "Inteligencia Artificial"
+          ]
+      },
+      "it": {
+          "$name": "Generatore di report settimanali📓",
+          "$description": "Generatore di report settimanali📓",
+          "$keywords": [
+              "Intelligenza Artificiale"
+          ]
+      }
+  }
+]

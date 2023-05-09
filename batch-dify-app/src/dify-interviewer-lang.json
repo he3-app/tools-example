@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "welcome": "输入你的回答",
+    "input": "输入",
+    "pleaseInput": "请输入你的回答...",
+    "output": "AI 面试官的提问",
+    "outputTitle": "AI 的问题是",
+    "run": "生成问题"
+  },
+  "en": {
+    "welcome": "Enter your answer",
+    "input": "Input",
+    "pleaseInput": "Please enter your answer...",
+    "output": "AI interviewer's question",
+    "outputTitle": "AI's question is",
+    "run": "Generate question"
+  },
+  "es": {
+    "welcome": "Ingrese su respuesta",
+    "input": "Entrada",
+    "pleaseInput": "Por favor, ingrese su respuesta...",
+    "output": "Pregunta del entrevistador de IA",
+    "outputTitle": "La pregunta de IA es",
+    "run": "Generar pregunta"
+  },
+  "fr": {
+    "welcome": "Entrez votre réponse",
+    "input": "Entrée",
+    "pleaseInput": "Veuillez entrer votre réponse...",
+    "output": "Question de l'intervieweur IA",
+    "outputTitle": "La question de l'IA est",
+    "run": "Générer une question"
+  },
+  "de": {
+    "welcome": "Gib deine Antwort ein",
+    "input": "Eingang",
+    "pleaseInput": "Bitte gib deine Antwort ein...",
+    "output": "Künstlicher-Intelligenz-Interviewer Frage",
+    "outputTitle": "KI-Frage lautet",
+    "run": "Frage generieren"
+  },
+  "jp": {
+    "welcome": "回答を入力してください",
+    "input": "入力",
+    "pleaseInput": "回答を入力してください...",
+    "output": "AI面接官の質問",
+    "outputTitle": "AIの質問は",
+    "run": "質問を生成する"
+  },
+  "kr": {
+    "welcome": "답변을 입력하세요",
+    "input": "입력",
+    "pleaseInput": "답변을 입력하세요...",
+    "output": "AI 면접관의 질문",
+    "outputTitle": "AI의 질문은",
+    "run": "질문 생성"
+  },
+  "ru": {
+    "welcome": "Введите ваш ответ",
+    "input": "Вход",
+    "pleaseInput": "Пожалуйста, введите ваш ответ...",
+    "output": "Вопрос искусственного интеллекта-интервьюера",
+    "outputTitle": "Вопрос ИИ",
+    "run": "Сгенерировать вопрос"
+  },
+  "zh-tw": {
+    "welcome": "輸入你的回答",
+    "input": "輸入",
+    "pleaseInput": "請輸入你的回答...",
+    "output": "AI 面試官的提問",
+    "outputTitle": "AI 的問題是",
+    "run": "生成問題"
+  },
+  "it": {
+    "welcome": "Inserisci la tua risposta",
+    "input": "Inserimento",
+    "pleaseInput": "Inserisci la tua risposta...",
+    "output": "Domanda dell'intervistatore IA",
+    "outputTitle": "La domanda dell'IA è",
+    "run": "Generare la domanda"
+  },
+  "pt": {
+    "welcome": "Digite sua resposta",
+    "input": "Entrada",
+    "pleaseInput": "Por favor, digite sua resposta...",
+    "output": "Pergunta do entrevistador de IA",
+    "outputTitle": "A pergunta da IA é",
+    "run": "Gerar pergunta"
+  }
+}
