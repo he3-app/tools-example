@@ -1,4 +1,317 @@
-[
+[{
+  "zh-cn": {
+    "$name": "JSON 反转义",
+    "$description": "Json反转义是一款基于Web的工具，允许用户取消转义JSON编码的字符串，将特殊字符转换回其原始形式。该工具特别适用于使用JSON数据的开发人员，需要解码转义字符以便更容易地阅读和操作。",
+    "$keywords": [
+      "json",
+      "反转义",
+      "转义",
+      "特殊字符",
+      "反斜杠",
+      "双引号",
+      "单引号",
+      "正斜杠",
+      "Unicode"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Json 反斜線字元還原",
+    "$description": "Json 反斜線字元還原是一個基於網頁的工具，允許使用者將 JSON 編碼的字串還原，將特殊字元轉換回其原始形式。此工具對於使用 JSON 資料的開發人員特別有用，因為他們需要解碼逸出字元以便更容易閱讀和操作。",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "特殊字元",
+      "反斜線",
+      "雙引號",
+      "單引號",
+      "斜線",
+      "unicode"
+    ]
+  },
+  "es": {
+    "$name": "Json Unescape",
+    "$description": "Json Unescape es una herramienta basada en la web que permite a los usuarios desescapar cadenas codificadas en JSON, convirtiendo los caracteres especiales a su forma original. Esta herramienta es particularmente útil para desarrolladores que trabajan con datos JSON y necesitan decodificar caracteres escapados para una lectura y manipulación más fácil.",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "caracteres especiales",
+      "barra invertida",
+      "comillas dobles",
+      "comillas simples",
+      "barra diagonal",
+      "unicode"
+    ]
+  },
+  "ja": {
+    "$name": "Json Unescape",
+    "$description": "Json Unescapeは、Webベースのツールで、ユーザーがJSONエンコードされた文字列をアンエスケープして、特殊文字を元の形式に変換することができます。このツールは、JSONデータで作業する開発者がエスケープされた文字をデコードして読みやすく操作しやすくするために特に役立ちます。",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "special characters",
+      "backslash",
+      "double quotes",
+      "single quotes",
+      "forward slash",
+      "unicode"
+    ]
+  },
+  "ko": {
+    "$name": "Json Unescape",
+    "$description": "Json Unescape은 웹 기반 도구로, 특수 문자를 원래 형태로 변환하여 JSON 인코딩 된 문자열을 언스케이프 할 수 있습니다. 이 도구는 JSON 데이터를 다루는 개발자들이 이스케이프된 문자를 해독하여 더 쉽게 읽고 조작할 수 있도록 도와줍니다.",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "special characters",
+      "backslash",
+      "double quotes",
+      "single quotes",
+      "forward slash",
+      "unicode"
+    ]
+  },
+  "de": {
+    "$name": "Json Unescape",
+    "$description": "Json Unescape ist ein webbasiertes Tool, das Benutzern ermöglicht, JSON-codierte Zeichenfolgen zu entschlüsseln und Sonderzeichen in ihre ursprüngliche Form zurückzuwandeln. Dieses Tool ist besonders nützlich für Entwickler, die mit JSON-Daten arbeiten und escape-Zeichen für eine einfachere Lesbarkeit und Manipulation entschlüsseln müssen.",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "Sonderzeichen",
+      "Backslash",
+      "doppelte Anführungszeichen",
+      "einfache Anführungszeichen",
+      "Schrägstrich",
+      "Unicode"
+    ]
+  },
+  "fr": {
+    "$name": "Json Unescape",
+    "$description": "Json Unescape est un outil basé sur le web qui permet aux utilisateurs de déséchapper les chaînes encodées en JSON, convertissant les caractères spéciaux en leur forme originale. Cet outil est particulièrement utile pour les développeurs travaillant avec des données JSON qui ont besoin de décoder les caractères échappés pour une lecture et une manipulation plus facile.",
+    "$keywords": [
+      "json",
+      "déséchapper",
+      "échapper",
+      "caractères spéciaux",
+      "barre oblique inverse",
+      "guillemets doubles",
+      "guillemets simples",
+      "barre oblique",
+      "unicode"
+    ]
+  },
+  "it": {
+    "$name": "Json Unescape",
+    "$description": "Json Unescape è uno strumento basato sul web che consente agli utenti di de-escape delle stringhe codificate in JSON, convertendo i caratteri speciali nella loro forma originale. Questo strumento è particolarmente utile per gli sviluppatori che lavorano con dati JSON e che hanno bisogno di decodificare i caratteri escape per una maggiore leggibilità e manipolazione.",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "caratteri speciali",
+      "backslash",
+      "doppie virgolette",
+      "virgolette singole",
+      "slash",
+      "unicode"
+    ]
+  },
+  "ru": {
+    "$name": "Json Unescape",
+    "$description": "Json Unescape - это веб-инструмент, который позволяет пользователям отменять экранирование строк, закодированных в формате JSON, преобразуя специальные символы обратно в их исходную форму. Этот инструмент особенно полезен для разработчиков, работающих с данными JSON, которым нужно декодировать экранированные символы для удобства чтения и манипулирования.",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "специальные символы",
+      "обратный слеш",
+      "двойные кавычки",
+      "одинарные кавычки",
+      "прямой слеш",
+      "unicode"
+    ]
+  },
+  "pt": {
+    "$name": "Json Unescape",
+    "$description": "Json Unescape é uma ferramenta baseada na web que permite aos usuários desescapar strings codificadas em JSON, convertendo caracteres especiais de volta para sua forma original. Esta ferramenta é particularmente útil para desenvolvedores que trabalham com dados JSON e precisam decodificar caracteres escapados para facilitar a legibilidade e manipulação.",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "caracteres especiais",
+      "barra invertida",
+      "aspas duplas",
+      "aspas simples",
+      "barra para frente",
+      "unicode"
+    ]
+  },
+  "en": {
+    "$name": "JSON Unescape",
+    "$description": "Json Unescape is a web-based tool that allows users to unescape JSON-encoded strings, converting special characters back to their original form. This tool is particularly useful for developers working with JSON data who need to decode escaped characters for easier readability and manipulation.",
+    "$keywords": [
+      "json",
+      "unescape",
+      "escape",
+      "special characters",
+      "backslash",
+      "double quotes",
+      "single quotes",
+      "forward slash",
+      "unicode"
+    ]
+  },
+  "id": "json-unescape"
+},
+  {
+    "zh-cn": {
+      "$name": "JSON 转义",
+      "$description": "Json转义是一款基于Web的工具，允许用户转义JSON字符串中的特殊字符，使其在URL或其他可能导致问题的上下文中安全使用。它支持多种转义格式，包括Unicode、HTML和JavaScript。",
+      "$keywords": [
+        "json转义",
+        "转义json",
+        "json特殊字符",
+        "json编码",
+        "json解码",
+        "json格式化",
+        "json验证器"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉義",
+      "$description": "JSON 轉義是一個基於網頁的工具，允許用戶轉義 JSON 字符串中的特殊字符，使它們在 URL 或其他上下文中使用時不會出現問題。它支持多種轉義格式，包括 Unicode、HTML 和 JavaScript。",
+      "$keywords": [
+        "json 轉義",
+        "轉義 json",
+        "json 特殊字符",
+        "json 編碼",
+        "json 解碼",
+        "json 格式化",
+        "json 驗證器"
+      ]
+    },
+    "es": {
+      "$name": "Json Escape",
+      "$description": "Json Escape es una herramienta basada en la web que permite a los usuarios escapar caracteres especiales en cadenas JSON, haciéndolas seguras para su uso en URL u otros contextos donde los caracteres especiales pueden causar problemas. Admite una variedad de formatos de escape, incluidos Unicode, HTML y JavaScript.",
+      "$keywords": [
+        "json escape",
+        "escape json",
+        "caracteres especiales json",
+        "codificación json",
+        "decodificación json",
+        "formateador json",
+        "validador json"
+      ]
+    },
+    "ja": {
+      "$name": "Jsonエスケープ",
+      "$description": "Jsonエスケープは、JSON文字列内の特殊文字をエスケープして、URLや特殊文字が問題を引き起こす可能性がある他のコンテキストで安全に使用できるようにするWebベースのツールです。Unicode、HTML、JavaScriptなど、さまざまなエスケープ形式をサポートしています。",
+      "$keywords": [
+        "jsonエスケープ",
+        "エスケープjson",
+        "json特殊文字",
+        "jsonエンコーディング",
+        "jsonデコーディング",
+        "jsonフォーマッター",
+        "jsonバリデーター"
+      ]
+    },
+    "ko": {
+      "$name": "Json Escape",
+      "$description": "Json Escape는 JSON 문자열에서 특수 문자를 이스케이프하여 URL 또는 특수 문자가 문제를 일으킬 수 있는 다른 상황에서 사용할 수 있도록 하는 웹 기반 도구입니다. 유니코드, HTML 및 JavaScript를 포함한 다양한 이스케이프 형식을 지원합니다.",
+      "$keywords": [
+        "json escape",
+        "escape json",
+        "json 특수 문자",
+        "json 인코딩",
+        "json 디코딩",
+        "json 포매터",
+        "json 유효성 검사기"
+      ]
+    },
+    "de": {
+      "$name": "Json Escape",
+      "$description": "Json Escape ist ein webbasiertes Tool, mit dem Benutzer Sonderzeichen in JSON-Strings escapen können, um sie sicher für die Verwendung in URLs oder anderen Kontexten zu machen, in denen Sonderzeichen Probleme verursachen können. Es unterstützt eine Vielzahl von Escape-Formaten, einschließlich Unicode, HTML und JavaScript.",
+      "$keywords": [
+        "json escape",
+        "escape json",
+        "json special characters",
+        "json encoding",
+        "json decoding",
+        "json formatter",
+        "json validator"
+      ]
+    },
+    "fr": {
+      "$name": "Json Escape",
+      "$description": "Json Escape est un outil basé sur le web qui permet aux utilisateurs d'échapper les caractères spéciaux dans les chaînes JSON, les rendant ainsi sûres pour une utilisation dans les URL ou d'autres contextes où les caractères spéciaux peuvent poser des problèmes. Il prend en charge une variété de formats d'échappement, notamment Unicode, HTML et JavaScript.",
+      "$keywords": [
+        "json escape",
+        "escape json",
+        "json caractères spéciaux",
+        "encodage json",
+        "décodage json",
+        "formateur json",
+        "validateur json"
+      ]
+    },
+    "it": {
+      "$name": "Json Escape",
+      "$description": "Json Escape è uno strumento basato sul web che consente agli utenti di eseguire l'escape dei caratteri speciali nelle stringhe JSON, rendendoli sicuri per l'uso in URL o in altri contesti in cui i caratteri speciali possono causare problemi. Supporta una varietà di formati di escape, tra cui Unicode, HTML e JavaScript.",
+      "$keywords": [
+        "json escape",
+        "escape json",
+        "caratteri speciali json",
+        "codifica json",
+        "decodifica json",
+        "formattatore json",
+        "validatore json"
+      ]
+    },
+    "ru": {
+      "$name": "Json Escape",
+      "$description": "Json Escape - это веб-инструмент, который позволяет пользователям экранировать специальные символы в строках JSON, делая их безопасными для использования в URL-адресах или других контекстах, где специальные символы могут вызвать проблемы. Он поддерживает различные форматы экранирования, включая Unicode, HTML и JavaScript.",
+      "$keywords": [
+        "json escape",
+        "escape json",
+        "json специальные символы",
+        "json кодирование",
+        "json декодирование",
+        "json форматирование",
+        "json валидатор"
+      ]
+    },
+    "pt": {
+      "$name": "Json Escape",
+      "$description": "Json Escape é uma ferramenta baseada na web que permite aos usuários escapar de caracteres especiais em strings JSON, tornando-as seguras para uso em URLs ou outros contextos onde caracteres especiais possam causar problemas. Ele suporta uma variedade de formatos de escape, incluindo Unicode, HTML e JavaScript.",
+      "$keywords": [
+        "json escape",
+        "escape json",
+        "caracteres especiais json",
+        "codificação json",
+        "decodificação json",
+        "formatador json",
+        "validador json"
+      ]
+    },
+    "en": {
+      "$name": "JSON Escape",
+      "$description": "Json Escape is a web-based tool that allows users to escape special characters in JSON strings, making them safe for use in URLs or other contexts where special characters may cause issues. It supports a variety of escape formats, including Unicode, HTML, and JavaScript.",
+      "$keywords": [
+        "json escape",
+        "escape json",
+        "json special characters",
+        "json encoding",
+        "json decoding",
+        "json formatter",
+        "json validator"
+      ]
+    },
+    "id": "json-escape"
+  },
   {
     "zh-cn": {
       "$name": "属性转JSON",
