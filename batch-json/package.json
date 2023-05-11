@@ -8,6 +8,57 @@
   },
   "he3": [
     {
+      "id": "json-unescape",
+      "name": "Json Unescape",
+      "icon": "coffee-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "description": "Json Unescape is a web-based tool that allows users to unescape JSON-encoded strings, converting special characters back to their original form. This tool is particularly useful for developers working with JSON data who need to decode escaped characters for easier readability and manipulation.",
+      "keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "special characters",
+        "decode",
+        "encode",
+        "backslash",
+        "double quotes",
+        "single quotes",
+        "slash",
+        "newline",
+        "tab"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "json-escape",
+      "name": "Json Escape",
+      "icon": "coffee-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "description": "Json Escape is a web-based tool that allows users to escape special characters in JSON strings, making them safe for use in URLs or other contexts where special characters may cause issues. It supports a variety of escape formats, including Unicode, HTML, and JavaScript.",
+      "keywords": [
+        
+          "json escape",
+          "escape json",
+          "json special characters",
+          "json encoding",
+          "json decoding",
+          "json formatter",
+          "json validator"
+        
+      ],
+      "relatedToolId": []
+    },
+    {
       "id": "properties-to-json",
       "name": "Properties to JSON",
       "icon": "coffee-outlined",
