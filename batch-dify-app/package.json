@@ -1,9 +1,10 @@
 {
-  "type": "module",
   "scripts": {
     "dev": "he3 dev",
     "i18n": "he3 i18n",
-    "publish": "he3 publish"
+    "publish": "he3 publish",
+    "generate": "he3 generate",
+    "version": "he3 version"
   },
   "mode": "production",
   "he3": [
