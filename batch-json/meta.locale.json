@@ -1,4 +1,496 @@
-[{
+[
+  {
+    "id": "base64-to-json",
+  "zh-cn": {
+    "$name": "Base64 转 JSON",
+    "$description": "Base64转JSON工具是一款基于Web的实用工具，可将Base64编码的数据转换为JSON格式。它对于需要解码和解析Base64编码数据以在应用程序中使用的开发人员非常有用。关键词：Base64，JSON，转换，解码，解析，基于Web。",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "编码",
+      "解码",
+      "数据转换",
+      "数据格式",
+      "数据交换",
+      "Web开发",
+      "编程"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Base64 轉 JSON",
+    "$description": "Base64 轉 JSON 工具是一個基於網頁的實用程式，可將 Base64 編碼的資料轉換為 JSON 格式。它對於需要解碼和解析 Base64 編碼的資料以供應用程式使用的開發人員非常有用。關鍵字：Base64、JSON、轉換、解碼、解析、基於網頁。",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "編碼",
+      "解碼",
+      "資料轉換",
+      "資料格式",
+      "資料交換",
+      "網頁開發",
+      "程式設計"
+    ]
+  },
+  "es": {
+    "$name": "Base64 a JSON",
+    "$description": "La herramienta Base64 a JSON es una utilidad basada en la web que convierte datos codificados en Base64 en formato JSON. Es útil para desarrolladores que necesitan decodificar y analizar datos codificados en Base64 para su uso en sus aplicaciones. Palabras clave: Base64, JSON, conversión, decodificación, análisis, basado en la web.",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "codificación",
+      "decodificación",
+      "conversión de datos",
+      "formato de datos",
+      "intercambio de datos",
+      "desarrollo web",
+      "programación"
+    ]
+  },
+  "ja": {
+    "$name": "Base64からJSONへ",
+    "$description": "Base64からJSONへの変換ツールは、Base64でエンコードされたデータをJSON形式に変換するWebベースのユーティリティです。アプリケーションで使用するためにBase64でエンコードされたデータをデコードして解析する必要がある開発者にとって役立ちます。キーワード：Base64、JSON、変換、デコード、解析、Webベース。",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "エンコード",
+      "デコード",
+      "データ変換",
+      "データ形式",
+      "データ交換",
+      "Web開発",
+      "プログラミング"
+    ]
+  },
+  "ko": {
+    "$name": "Base64를 JSON으로 변환",
+    "$description": "Base64를 JSON으로 변환하는 웹 기반 유틸리티입니다. 응용 프로그램에서 사용하기 위해 Base64로 인코딩된 데이터를 디코딩하고 구문 분석해야하는 개발자에게 유용합니다. 키워드: Base64, JSON, 변환, 디코딩, 구문 분석, 웹 기반.",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "인코딩",
+      "디코딩",
+      "데이터 변환",
+      "데이터 형식",
+      "데이터 교환",
+      "웹 개발",
+      "프로그래밍"
+    ]
+  },
+  "de": {
+    "$name": "Base64 zu JSON",
+    "$description": "Das Base64 zu JSON-Tool ist ein webbasiertes Dienstprogramm, das Base64-codierte Daten in JSON-Format konvertiert. Es ist nützlich für Entwickler, die Base64-codierte Daten entschlüsseln und analysieren müssen, um sie in ihren Anwendungen zu verwenden. Stichworte: Base64, JSON, Konvertierung, Entschlüsselung, Analyse, webbasiert.",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "Codierung",
+      "Entschlüsselung",
+      "Datenkonvertierung",
+      "Datenformat",
+      "Dateninterchange",
+      "Webentwicklung",
+      "Programmierung"
+    ]
+  },
+  "fr": {
+    "$name": "Base64 vers JSON",
+    "$description": "L'outil Base64 vers JSON est un utilitaire basé sur le web qui convertit les données encodées en Base64 en format JSON. Il est utile pour les développeurs qui ont besoin de décoder et d'analyser des données encodées en Base64 pour les utiliser dans leurs applications. Mots-clés: Base64, JSON, conversion, décodage, analyse, basé sur le web.",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "encodage",
+      "décodage",
+      "conversion de données",
+      "format de données",
+      "échange de données",
+      "développement web",
+      "programmation"
+    ]
+  },
+  "it": {
+    "$name": "Base64 a JSON",
+    "$description": "Lo strumento Base64 a JSON è un'utilità basata sul web che converte i dati codificati in Base64 nel formato JSON. È utile per gli sviluppatori che devono decodificare e analizzare i dati codificati in Base64 per l'uso nelle loro applicazioni. Parole chiave: Base64, JSON, conversione, decodifica, analisi, basata sul web.",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "codifica",
+      "decodifica",
+      "conversione dati",
+      "formato dati",
+      "interscambio dati",
+      "sviluppo web",
+      "programmazione"
+    ]
+  },
+  "ru": {
+    "$name": "Base64 в JSON",
+    "$description": "Инструмент Base64 в JSON - это веб-утилита, которая преобразует данные, закодированные в формате Base64, в формат JSON. Он полезен для разработчиков, которым нужно декодировать и разбирать данные, закодированные в формате Base64, для использования в своих приложениях. Ключевые слова: Base64, JSON, преобразование, декодирование, разбор, веб-основанный.",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "кодирование",
+      "декодирование",
+      "конвертация данных",
+      "формат данных",
+      "обмен данными",
+      "веб-разработка",
+      "программирование"
+    ]
+  },
+  "pt": {
+    "$name": "Base64 para JSON",
+    "$description": "A ferramenta Base64 para JSON é uma utilidade baseada na web que converte dados codificados em Base64 para o formato JSON. É útil para desenvolvedores que precisam decodificar e analisar dados codificados em Base64 para uso em suas aplicações. Palavras-chave: Base64, JSON, conversão, decodificação, análise, baseada na web.",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "codificação",
+      "decodificação",
+      "conversão de dados",
+      "formato de dados",
+      "intercâmbio de dados",
+      "desenvolvimento web",
+      "programação"
+    ]
+  },
+  "en": {
+    "$name": "Base64 to JSON",
+    "$description": "The Base64 to JSON tool is a web-based utility that converts Base64-encoded data into JSON format. It is useful for developers who need to decode and parse Base64-encoded data for use in their applications. Keywords: Base64, JSON, conversion, decoding, parsing, web-based.",
+    "$keywords": [
+      "Base64",
+      "JSON",
+      "encoding",
+      "decoding",
+      "data conversion",
+      "data format",
+      "data interchange",
+      "web development",
+      "programming"
+    ]
+  }
+},
+  {
+    "id": "json-to-base64",
+    "zh-cn": {
+      "$name": "JSON 转 Base64",
+      "$description": "JSON转Base64是一款将JSON数据转换为Base64编码字符串的工具，可用于在网络上传输数据或以紧凑格式存储数据。该工具对于开发Web应用程序或API的开发人员特别有帮助。",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "编码",
+        "解码",
+        "数据转换",
+        "Web开发",
+        "API",
+        "数据传输"
+      ]
+    },
+    "zh-tw": {
+      "$name": "JSON 轉 Base64",
+      "$description": "JSON 轉 Base64 是一個將 JSON 資料轉換成 Base64 編碼字串的工具，可用於在網路傳輸資料或以緊湊格式儲存資料。此工具對於開發網頁應用程式或 API 的開發人員特別有幫助。",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "編碼",
+        "解碼",
+        "資料轉換",
+        "網頁開發",
+        "API",
+        "資料傳輸"
+      ]
+    },
+    "es": {
+      "$name": "JSON a Base64",
+      "$description": "JSON a Base64 es una herramienta que convierte datos JSON en una cadena codificada en Base64, lo que puede ser útil para transmitir datos a través de redes o almacenar datos en un formato compacto. Esta herramienta puede ser particularmente útil para desarrolladores que trabajan con aplicaciones web o APIs.",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "codificación",
+        "decodificación",
+        "conversión de datos",
+        "desarrollo web",
+        "API",
+        "transferencia de datos"
+      ]
+    },
+    "ja": {
+      "$name": "JSONからBase64へ",
+      "$description": "JSONからBase64は、JSONデータをBase64エンコードされた文字列に変換するツールであり、データをネットワーク上で転送する場合やコンパクトな形式でデータを保存する場合に役立ちます。このツールは、WebアプリケーションやAPIで作業する開発者に特に役立ちます。",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "エンコード",
+        "デコード",
+        "データ変換",
+        "Web開発",
+        "API",
+        "データ転送"
+      ]
+    },
+    "ko": {
+      "$name": "JSON을 Base64로 변환",
+      "$description": "JSON을 Base64로 변환하는 도구로, 데이터를 네트워크를 통해 전송하거나 데이터를 압축된 형식으로 저장하는 데 유용합니다. 이 도구는 웹 애플리케이션 또는 API를 개발하는 개발자에게 특히 도움이 될 수 있습니다.",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "인코딩",
+        "디코딩",
+        "데이터 변환",
+        "웹 개발",
+        "API",
+        "데이터 전송"
+      ]
+    },
+    "de": {
+      "$name": "JSON zu Base64",
+      "$description": "JSON zu Base64 ist ein Tool, das JSON-Daten in eine Base64-kodierte Zeichenfolge umwandelt, die nützlich sein kann, um Daten über Netzwerke zu übertragen oder Daten in einem kompakten Format zu speichern. Dieses Tool kann besonders hilfreich für Entwickler sein, die mit Webanwendungen oder APIs arbeiten.",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "Kodierung",
+        "Dekodierung",
+        "Datenkonvertierung",
+        "Webentwicklung",
+        "API",
+        "Datenübertragung"
+      ]
+    },
+    "fr": {
+      "$name": "JSON vers Base64",
+      "$description": "JSON vers Base64 est un outil qui convertit les données JSON en une chaîne encodée en Base64, ce qui peut être utile pour transmettre des données sur des réseaux ou stocker des données dans un format compact. Cet outil peut être particulièrement utile pour les développeurs travaillant avec des applications web ou des API.",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "encodage",
+        "décodage",
+        "conversion de données",
+        "développement web",
+        "API",
+        "transfert de données"
+      ]
+    },
+    "it": {
+      "$name": "JSON to Base64",
+      "$description": "JSON to Base64 è uno strumento che converte i dati JSON in una stringa codificata in Base64, che può essere utile per la trasmissione di dati su reti o per la memorizzazione di dati in un formato compatto. Questo strumento può essere particolarmente utile per gli sviluppatori che lavorano con applicazioni web o API.",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "codifica",
+        "decodifica",
+        "conversione dati",
+        "sviluppo web",
+        "API",
+        "trasferimento dati"
+      ]
+    },
+    "ru": {
+      "$name": "JSON в Base64",
+      "$description": "JSON в Base64 - это инструмент, который преобразует данные JSON в строку, закодированную в Base64, что может быть полезно для передачи данных по сети или хранения данных в компактном формате. Этот инструмент может быть особенно полезен для разработчиков, работающих с веб-приложениями или API.",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "кодирование",
+        "декодирование",
+        "конвертация данных",
+        "веб-разработка",
+        "API",
+        "передача данных"
+      ]
+    },
+    "pt": {
+      "$name": "JSON para Base64",
+      "$description": "JSON para Base64 é uma ferramenta que converte dados JSON em uma string codificada em Base64, o que pode ser útil para transmitir dados em redes ou armazenar dados em um formato compacto. Esta ferramenta pode ser particularmente útil para desenvolvedores que trabalham com aplicativos web ou APIs.",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "codificação",
+        "decodificação",
+        "conversão de dados",
+        "desenvolvimento web",
+        "API",
+        "transferência de dados"
+      ]
+    },
+    "en": {
+      "$name": "JSON to Base64",
+      "$description": "JSON to Base64 is a tool that converts JSON data into a Base64 encoded string, which can be useful for transmitting data over networks or storing data in a compact format. This tool can be particularly helpful for developers working with web applications or APIs.",
+      "$keywords": [
+        "JSON",
+        "Base64",
+        "encoding",
+        "decoding",
+        "data conversion",
+        "web development",
+        "API",
+        "data transfer"
+      ]
+    }
+  },
+  {
+    "id": "extract-json-values",
+    "zh-cn": {
+      "$name": "提取 JSON 值",
+      "$description": "提取JSON值工具是一款强大的数据提取工具，允许用户从JSON数据结构中提取特定的值。通过直观的界面和高级过滤选项，用户可以轻松提取所需的数据并以各种格式保存以进行进一步分析。",
+      "$keywords": [
+        "JSON",
+        "值",
+        "提取",
+        "解析",
+        "数据",
+        "操作",
+        "API",
+        "响应",
+        "格式"
+      ]
+    },
+    "zh-tw": {
+      "$name": "提取 JSON 值",
+      "$description": "提取 JSON 值工具是一個強大的數據提取工具，允許用戶從 JSON 數據結構中提取特定的值。通過其直觀的界面和高級的過濾選項，用戶可以輕鬆提取所需的數據並以各種格式保存以進行進一步分析。",
+      "$keywords": [
+        "JSON",
+        "值",
+        "提取",
+        "解析",
+        "數據",
+        "操作",
+        "API",
+        "響應",
+        "格式"
+      ]
+    },
+    "es": {
+      "$name": "Extracción de valores JSON",
+      "$description": "La herramienta de Extracción de valores JSON es una poderosa herramienta de extracción de datos que permite a los usuarios extraer valores específicos de estructuras de datos JSON. Con su interfaz intuitiva y opciones avanzadas de filtrado, los usuarios pueden extraer fácilmente los datos que necesitan y guardarlos en una variedad de formatos para su posterior análisis.",
+      "$keywords": [
+        "JSON",
+        "valores",
+        "extracción",
+        "análisis",
+        "datos",
+        "manipulación",
+        "API",
+        "respuesta",
+        "formato"
+      ]
+    },
+    "ja": {
+      "$name": "JSON値の抽出",
+      "$description": "JSON値の抽出ツールは、JSONデータ構造から特定の値を抽出することができる強力なデータ抽出ツールです。直感的なインターフェースと高度なフィルタリングオプションにより、ユーザーは必要なデータを簡単に抽出して、さまざまな形式で保存してさらなる分析に利用できます。",
+      "$keywords": [
+        "JSON",
+        "値",
+        "抽出",
+        "解析",
+        "データ",
+        "操作",
+        "API",
+        "レスポンス",
+        "形式"
+      ]
+    },
+    "ko": {
+      "$name": "JSON 값 추출",
+      "$description": "JSON 값 추출 도구는 사용자가 JSON 데이터 구조에서 특정 값을 추출할 수 있는 강력한 데이터 추출 도구입니다. 직관적인 인터페이스와 고급 필터링 옵션으로 사용자는 필요한 데이터를 쉽게 추출하고 추가 분석을 위해 다양한 형식으로 저장할 수 있습니다.",
+      "$keywords": [
+        "JSON",
+        "값",
+        "추출",
+        "파싱",
+        "데이터",
+        "조작",
+        "API",
+        "응답",
+        "형식"
+      ]
+    },
+    "de": {
+      "$name": "JSON-Werte extrahieren",
+      "$description": "Das Extract JSON Values-Tool ist ein leistungsstarkes Datenextraktions-Tool, mit dem Benutzer spezifische Werte aus JSON-Datenstrukturen extrahieren können. Mit seiner intuitiven Benutzeroberfläche und fortschrittlichen Filteroptionen können Benutzer die benötigten Daten einfach extrahieren und in verschiedenen Formaten für weitere Analysen speichern.",
+      "$keywords": [
+        "JSON",
+        "Werte",
+        "Extrahieren",
+        "Parsing",
+        "Daten",
+        "Manipulation",
+        "API",
+        "Antwort",
+        "Format"
+      ]
+    },
+    "fr": {
+      "$name": "Extraction de valeurs JSON",
+      "$description": "L'outil d'extraction de valeurs JSON est un puissant outil d'extraction de données qui permet aux utilisateurs d'extraire des valeurs spécifiques à partir de structures de données JSON. Avec son interface intuitive et ses options de filtrage avancées, les utilisateurs peuvent facilement extraire les données dont ils ont besoin et les enregistrer dans une variété de formats pour une analyse ultérieure.",
+      "$keywords": [
+        "JSON",
+        "valeurs",
+        "extraction",
+        "analyse",
+        "manipulation",
+        "API",
+        "réponse",
+        "format"
+      ]
+    },
+    "it": {
+      "$name": "Estrai Valori JSON",
+      "$description": "Lo strumento Estrai Valori JSON è un potente strumento di estrazione dati che consente agli utenti di estrarre valori specifici dalle strutture dati JSON. Con la sua interfaccia intuitiva e le opzioni di filtraggio avanzate, gli utenti possono facilmente estrarre i dati di cui hanno bisogno e salvarli in una varietà di formati per ulteriori analisi.",
+      "$keywords": [
+        "JSON",
+        "valori",
+        "estrazione",
+        "parsing",
+        "dati",
+        "manipolazione",
+        "API",
+        "risposta",
+        "formato"
+      ]
+    },
+    "ru": {
+      "$name": "Извлечение значений JSON",
+      "$description": "Инструмент Extract JSON Values - это мощный инструмент для извлечения данных, который позволяет пользователям извлекать конкретные значения из структур данных JSON. Благодаря интуитивно понятному интерфейсу и продвинутым опциям фильтрации, пользователи могут легко извлекать необходимые данные и сохранять их в различных форматах для дальнейшего анализа.",
+      "$keywords": [
+        "JSON",
+        "значения",
+        "извлечение",
+        "парсинг",
+        "данные",
+        "манипуляция",
+        "API",
+        "ответ",
+        "формат"
+      ]
+    },
+    "pt": {
+      "$name": "Extrair Valores JSON",
+      "$description": "A ferramenta Extrair Valores JSON é uma poderosa ferramenta de extração de dados que permite aos usuários extrair valores específicos de estruturas de dados JSON. Com sua interface intuitiva e opções avançadas de filtragem, os usuários podem facilmente extrair os dados de que precisam e salvá-los em uma variedade de formatos para análise posterior.",
+      "$keywords": [
+        "JSON",
+        "valores",
+        "extração",
+        "parsing",
+        "dados",
+        "manipulação",
+        "API",
+        "resposta",
+        "formato"
+      ]
+    },
+    "en": {
+      "$name": "Extract JSON Values",
+      "$description": "The Extract JSON Values tool is a powerful data extraction tool that allows users to extract specific values from JSON data structures. With its intuitive interface and advanced filtering options, users can easily extract the data they need and save it in a variety of formats for further analysis.",
+      "$keywords": [
+        "JSON",
+        "values",
+        "extract",
+        "parsing",
+        "data",
+        "manipulation",
+        "API",
+        "response",
+        "format"
+      ]
+    }
+  },{
   "zh-cn": {
     "$name": "JSON 反转义",
     "$description": "Json反转义是一款基于Web的工具，允许用户取消转义JSON编码的字符串，将特殊字符转换回其原始形式。该工具特别适用于使用JSON数据的开发人员，需要解码转义字符以便更容易地阅读和操作。",

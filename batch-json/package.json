@@ -8,10 +8,84 @@
   },
   "he3": [
     {
+      "id": "base64-to-json",
+      "name": "Base64 to JSON",
+      "icon": "coffee-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "keywords": [
+        "Base64",
+        "JSON",
+        "encoding",
+        "decoding",
+        "data conversion",
+        "data format",
+        "data interchange",
+        "web development",
+        "programming"
+      ],
+      "description": "The Base64 to JSON tool is a web-based utility that converts Base64-encoded data into JSON format. It is useful for developers who need to decode and parse Base64-encoded data for use in their applications.",
+      "relatedToolId": [
+        "json-to-base64"
+      ]
+    },
+    {
+      "id": "json-to-base64",
+      "name": "JSON to Base64",
+      "icon": "coffee-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "keywords": [
+        "JSON",
+        "Base64",
+        "encoding",
+        "decoding",
+        "data conversion",
+        "web development",
+        "API",
+        "data transfer"
+      ],
+      "description": "JSON to Base64 is a tool that converts JSON data into a Base64 encoded string, which can be useful for transmitting data over networks or storing data in a compact format. This tool can be particularly helpful for developers working with web applications or APIs.",
+      "relatedToolId": [
+        "base64-to-json"
+      ]
+    },
+    {
+      "id": "extract-json-values",
+      "name": "Extract JSON Values",
+      "icon": "coffee-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "keywords": [
+        "JSON",
+        "Base64",
+        "conversion",
+        "encoding",
+        "decoding",
+        "data",
+        "serialization",
+        "serialization format"
+      ],
+      "description": "The Extract JSON Values tool is a powerful data extraction tool that allows users to extract specific values from JSON data structures. With its intuitive interface and advanced filtering options, users can easily extract the data ",
+      "relatedToolId": []
+    },
+    {
       "id": "json-unescape",
       "name": "Json Unescape",
       "icon": "coffee-outlined",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -38,7 +112,7 @@
       "id": "json-escape",
       "name": "Json Escape",
       "icon": "coffee-outlined",
-      "version": "1.0.4",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -46,15 +120,13 @@
       ],
       "description": "Json Escape is a web-based tool that allows users to escape special characters in JSON strings, making them safe for use in URLs or other contexts where special characters may cause issues. It supports a variety of escape formats, including Unicode, HTML, and JavaScript.",
       "keywords": [
-        
-          "json escape",
-          "escape json",
-          "json special characters",
-          "json encoding",
-          "json decoding",
-          "json formatter",
-          "json validator"
-        
+        "json escape",
+        "escape json",
+        "json special characters",
+        "json encoding",
+        "json decoding",
+        "json formatter",
+        "json validator"
       ],
       "relatedToolId": []
     },
@@ -62,7 +134,7 @@
       "id": "properties-to-json",
       "name": "Properties to JSON",
       "icon": "coffee-outlined",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -84,7 +156,7 @@
       "id": "json-to-properties",
       "name": "JSON to Properties",
       "icon": "coffee-outlined",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -105,7 +177,7 @@
     {
       "name": "JSON to Go Struct",
       "id": "json-to-go-struct",
-      "version": "1.0.4",
+      "version": "1.0.7",
       "description": "JSON to Go Struct is a tool that allows users to easily convert JSON data into Go Struct format. This transformation enables developers to work with JSON data in a more structured and organized manner, making it easier to manipulate and analyze.",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
@@ -125,7 +197,7 @@
     {
       "name": "JSON to Java Bean",
       "id": "json-to-java-bean",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "description": "JSON to Java Bean is a tool that allows users to easily convert JSON data into Java objects, making it easier to work with and manipulate data in Java-based applications. This tool simplifies the process of transforming JSON data into Java Beans, saving developers time and effort.",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
@@ -144,7 +216,7 @@
     },
     {
       "id": "json-to-python-class",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -164,7 +236,7 @@
     },
     {
       "id": "json-to-zod-schema",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -184,7 +256,7 @@
     },
     {
       "id": "json-to-ruby-module",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -204,7 +276,7 @@
     },
     {
       "id": "json-to-rust-struct",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -224,7 +296,7 @@
     },
     {
       "id": "json-to-dart-class",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -244,7 +316,7 @@
     },
     {
       "id": "json-to-c0-class",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -264,7 +336,7 @@
     },
     {
       "id": "json-to-c00-struct",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -284,7 +356,7 @@
     },
     {
       "id": "json-to-swift-struct",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -304,7 +376,7 @@
     },
     {
       "id": "json-to-objective-c-interface",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -324,7 +396,7 @@
     },
     {
       "id": "json-to-haskell-module",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -344,7 +416,7 @@
     },
     {
       "id": "json-to-pike-class",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -364,7 +436,7 @@
     },
     {
       "id": "json-to-elm-module",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -384,7 +456,7 @@
     },
     {
       "id": "json-to-crystal-class",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -404,7 +476,7 @@
     },
     {
       "id": "json-to-json-schema",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -424,7 +496,7 @@
     },
     {
       "id": "json-to-kotlin-class",
-      "version": "1.0.5",
+      "version": "1.0.8",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -444,7 +516,7 @@
     },
     {
       "id": "json-to-toml",
-      "version": "1.0.8",
+      "version": "1.0.11",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -464,7 +536,7 @@
     },
     {
       "id": "json-to-xml",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -484,7 +556,7 @@
     },
     {
       "id": "json-to-pretty",
-      "version": "1.0.6",
+      "version": "1.0.9",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -509,7 +581,7 @@
     },
     {
       "id": "json-to-typescript-interface",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -530,7 +602,7 @@
     },
     {
       "id": "json-to-big-query-schema",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -550,7 +622,7 @@
     },
     {
       "id": "json-to-io-ts",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -570,7 +642,7 @@
     },
     {
       "id": "json-to-scala",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -590,7 +662,7 @@
     },
     {
       "id": "json-to-sarcastic",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -610,7 +682,7 @@
     },
     {
       "id": "json-to-generator",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -629,7 +701,7 @@
     },
     {
       "id": "json-to-yaml",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -650,7 +722,7 @@
     },
     {
       "id": "json-to-csv",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -670,7 +742,7 @@
     },
     {
       "id": "json-to-minify",
-      "version": "1.0.5",
+      "version": "1.0.8",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -690,7 +762,7 @@
     },
     {
       "id": "json-to-php",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -712,7 +784,7 @@
       "id": "json-to-sql-schema",
       "name": "JSON to SQL Schema",
       "icon": "coffee-outlined",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -734,6 +806,7 @@
     "@he3-kit/utils": "latest",
     "@ltd/j-toml": "^1.38.0",
     "@types/json2csv": "^5.0.3",
+    "base-64": "^1.0.0",
     "dayjs": "^1.11.7",
     "decimal.js": "^10.4.3",
     "generate-schema": "^2.6.0",

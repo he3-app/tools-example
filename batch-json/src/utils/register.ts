@@ -1,7 +1,6 @@
 import { transformTool } from '@he3-kit/utils';
-import { JsonExample } from '../example';
+import { JsonExample, isJson } from '@he3-kit/utils';
 import { i18n } from '../locale';
-import { isJson } from './isJson';
 
 export default function register({
   lang,

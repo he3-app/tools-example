@@ -1,30 +1,3 @@
-export const JsonExample = `{
-  "id": 1,
-  "uuid": "3d877494-e7d4-48e3-aa7a-164373a7920d",
-  "name": "He3",
-  "age": 26,
-  "isActive": true,
-  "registered": "2020-02-03T06:00:03 -08:00",
-  "tags": [
-    "tools",
-    "development"
-  ],
-  "language": [
-    {
-      "id": 0,
-      "name": "English"
-    },
-    {
-      "id": 1,
-      "name": "Español"
-    },
-    {
-      "id": 2,
-      "name": "Chinese"
-    }
-  ]
-}`;
-
 export const uglyJsonExample = `{"id":1,"uuid":"3d877494-e7d4-48e3-aa7a-164373a7920d","name":"He3","age":26,"isActive":true,"registered":"2020-02-03T06:00:03 -08:00","tags":["tools","development"],"language":[{"id":0,"name":"English"},{"id":1,"name":"Español"},{"id":2,"name":"Chinese"}]}`;
 
 export const jsonToSQLExample = {
