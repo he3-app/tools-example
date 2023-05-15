@@ -1,5 +1,5 @@
 import register from './utils/register';
-import {JsonExample} from './example'
+import {JsonExample} from '@he3-kit/utils'
 export default register({
     lang: 'JSON',
     example: JsonExample,

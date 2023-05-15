@@ -1,8 +1,8 @@
 import yaml, { JSON_SCHEMA } from 'js-yaml';
 import prettyJson from 'json-stringify-pretty-compact';
-import { ErrorLine, jsonToYaml } from './utils/json2Yaml';
+import { ErrorLine } from './utils/json2Yaml';
 import register from './utils/register';
-
+import { jsonToYaml } from '@he3-kit/utils'
 export default register({
   inputHandler: jsonToYaml,
   resultHandler: (str: string) => {

@@ -1,16 +1,3 @@
-import YAML from 'yaml';
-
-export function jsonToYaml(str: string) {
-  try {
-    const json = JSON.parse(str);
-    const doc = new YAML.Document();
-    doc.contents = json;
-    return doc.toString();
-  } catch (e: any) {
-    parseErrorLine(e.message, str);
-  }
-}
-
 export function parseErrorLine(message: string, str: string) {
   const num = (message as string).split('at position ')[1];
   if (num) {
