@@ -1,2 +1,2 @@
-import dify_weekly_report_generator from "./dify-weekly-report-generator.vue";
-export default dify_weekly_report_generator;
+import Index from "./dify-weekly-report-generator.vue";
+export default Index;

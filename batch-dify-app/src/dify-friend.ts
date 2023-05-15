@@ -1,2 +1,2 @@
-import dify_friend from "./dify-friend.vue";
-export default dify_friend;
+import Index from "./dify-friend.vue";
+export default Index;
