@@ -1,0 +1,164 @@
+{
+  "zh-cn": {
+    "$name": "简体中文转繁体中文",
+    "$keywords": [
+      "中文",
+      "简体",
+      "繁体",
+      "简繁转换",
+      "繁简转换",
+      "简繁转换器",
+      "中文翻译",
+      "中文阅读",
+      "中文输入"
+    ],
+    "$description": "简体繁体转换工具是一种用于将汉字从简体转换为繁体或从繁体转换为简体的工具。\n\n特点：\n\n1. 用户可以将需要转换的汉字输入到工具中。\n\n2. 工具会自动将输入的汉字从简体转换为繁体或从繁体转换为简体。\n\n3. 转换后的汉字将显示在工具的输出区域中。\n\n4. 用户可以选择将转换后的汉字复制到剪贴板中，以便在其他应用程序中使用。\n\n用途：\n\n1. 汉语翻译：在翻译汉语时，有时需要将汉字从简体转换为繁体或从繁体转换为简体。使用简体繁体转换工具可以快速完成此任务。\n\n2. 汉语阅读：有些人喜欢阅读汉字繁体，而有些人喜欢阅读汉字简体。使用简体繁体转换工具可以将汉字转换为用户需要的格式，以便更好地阅读。\n\n3. 汉语输入：在输入汉字时，有些人喜欢使用汉字繁体输入法，而有些人喜欢使用汉字简体输入法。使用简体繁体转换工具可以将输入的汉字转换为用户需要的格式，以便更方便地输入。"
+  },
+  "zh-tw": {
+    "$name": "簡體中文轉繁體中文",
+    "$keywords": [
+      "中文",
+      "簡體中文",
+      "繁體中文",
+      "簡體中文轉繁體中文",
+      "繁體中文轉簡體中文",
+      "簡體中文轉繁體中文轉換",
+      "中文翻譯",
+      "中文閱讀",
+      "中文輸入"
+    ],
+    "$description": "簡繁轉換工具是一種用於將中文字符從簡體轉換為繁體或從繁體轉換為簡體的工具。\n\n特點：\n\n1. 用戶可以將需要轉換的中文文本輸入到工具中。\n\n2. 工具將自動將輸入的中文文本從簡體轉換為繁體或從繁體轉換為簡體。\n\n3. 轉換後的中文文本將顯示在工具的輸出區域中。\n\n4. 用戶可以選擇將轉換後的中文文本複製到剪貼板中，以便在其他應用程序中使用。\n\n用途：\n\n1. 中文翻譯：在翻譯中文時，有時需要將中文字符從簡體轉換為繁體或從繁體轉換為簡體。使用簡繁轉換工具可以快速完成此任務。\n\n2. 中文閱讀：有些人喜歡閱讀中文繁體字符，而有些人喜歡閱讀中文簡化字符。使用簡繁轉換工具可以將中文文本轉換為用戶需要的格式，以便更好地閱讀。\n\n3. 中文輸入：在輸入中文時，有些人喜歡使用中文繁體輸入法，而有些人喜歡使用中文簡化輸入法。使用簡繁轉換工具可以將輸入的中文文本轉換為用戶需要的格式，以便更方便地輸入。"
+  },
+  "es": {
+    "$name": "Chino Simplificado a Tradicional",
+    "$keywords": [
+      "chino",
+      "simplificado",
+      "tradicional",
+      "chino simplificado a tradicional",
+      "chino tradicional a simplificado",
+      "conversión de chino simplificado a tradicional",
+      "traducción de chino",
+      "lectura de chino",
+      "entrada de chino"
+    ],
+    "$description": "La herramienta de conversión chino simplificado-tradicional es una herramienta utilizada para convertir caracteres chinos de simplificado a tradicional o de tradicional a simplificado.\n\nCaracterísticas:\n\n1. Los usuarios pueden ingresar el texto chino que necesita ser convertido en la herramienta.\n\n2. La herramienta convertirá automáticamente el texto chino de entrada de simplificado a tradicional o de tradicional a simplificado.\n\n3. El texto chino convertido se mostrará en el área de salida de la herramienta.\n\n4. Los usuarios pueden elegir copiar el texto chino convertido al portapapeles para usarlo en otras aplicaciones.\n\nCasos de uso:\n\n1. Traducción al chino: al traducir al chino, a veces es necesario convertir caracteres chinos de simplificado a tradicional o de tradicional a simplificado. Usando la herramienta de conversión chino simplificado-tradicional se puede completar rápidamente esta tarea.\n\n2. Lectura en chino: algunas personas prefieren leer caracteres chinos tradicionales, mientras que otras prefieren leer caracteres chinos simplificados. Usando la herramienta de conversión chino simplificado-tradicional se puede convertir el texto chino al formato que el usuario necesita para una mejor lectura.\n\n3. Entrada en chino: al ingresar texto en chino, algunas personas prefieren usar métodos de entrada chinos tradicionales, mientras que otras prefieren usar métodos de entrada chinos simplificados. Usando la herramienta de conversión chino simplificado-tradicional se puede convertir el texto chino de entrada al formato que el usuario necesita para una entrada más conveniente."
+  },
+  "ja": {
+    "$name": "簡体字から繁体字への変換ツール",
+    "$keywords": [
+      "中国語",
+      "簡体字",
+      "繁体字",
+      "簡体字から繁体字へ",
+      "繁体字から簡体字へ",
+      "簡体字から繁体字への変換",
+      "中国語翻訳",
+      "中国語読み取り",
+      "中国語入力"
+    ],
+    "$description": "中国語簡体字-繁体字変換ツールは、簡体字から繁体字に、または繁体字から簡体字に変換するためのツールです。\n\n特徴：\n\n1. ユーザーは、変換する必要のある中国語テキストをツールに入力できます。\n\n2. ツールは、自動的に入力された中国語テキストを簡体字から繁体字に、または繁体字から簡体字に変換します。\n\n3. 変換された中国語テキストは、ツールの出力エリアに表示されます。\n\n4. ユーザーは、他のアプリケーションで使用するために、変換された中国語テキストをクリップボードにコピーすることができます。\n\n使用例：\n\n1. 中国語翻訳：中国語を翻訳する際には、簡体字から繁体字に、または繁体字から簡体字に変換する必要がある場合があります。中国語簡体字-繁体字変換ツールを使用することで、このタスクを迅速に完了することができます。\n\n2. 中国語読書：一部の人々は中国語の繁体字を読むことを好み、他の人々は中国語の簡体字を読むことを好みます。中国語簡体字-繁体字変換ツールを使用することで、ユーザーが必要とする形式に中国語テキストを変換して、より良い読書体験を得ることができます。\n\n3. 中国語入力：中国語を入力する際、一部の人々は中国語の繁体字入力方法を使用することを好み、他の人々は中国語の簡体字入力方法を使用することを好みます。中国語簡体字-繁体字変換ツールを使用することで、ユーザーが必要とする形式に入力された中国語テキストを変換して、より便利な入力を行うことができます。"
+  },
+  "ko": {
+    "$name": "중국어 간체자-번체자 변환기",
+    "$keywords": [
+      "중국어",
+      "간체",
+      "번체",
+      "간체-번체 변환",
+      "번체-간체 변환",
+      "간체-번체 변환기",
+      "중국어 번역",
+      "중국어 독해",
+      "중국어 입력"
+    ],
+    "$description": "중국어 간체-번체 변환 도구는 중국어 문자를 간체에서 번체로 또는 번체에서 간체로 변환하는 데 사용되는 도구입니다.\n\n기능:\n\n1. 사용자는 변환해야 할 중국어 텍스트를 도구에 입력할 수 있습니다.\n\n2. 도구는 입력된 중국어 텍스트를 자동으로 간체에서 번체로 또는 번체에서 간체로 변환합니다.\n\n3. 변환된 중국어 텍스트는 도구의 출력 영역에 표시됩니다.\n\n4. 사용자는 변환된 중국어 텍스트를 클립보드에 복사하여 다른 애플리케이션에서 사용할 수 있습니다.\n\n사용 사례:\n\n1. 중국어 번역: 중국어를 번역할 때, 때로는 중국어 문자를 간체에서 번체로 또는 번체에서 간체로 변환해야 할 필요가 있습니다. 중국어 간체-번체 변환 도구를 사용하면 이 작업을 빠르게 완료할 수 있습니다.\n\n2. 중국어 읽기: 일부 사람들은 중국어 번체 문자를 읽는 것을 선호하고, 다른 사람들은 중국어 간체 문자를 읽는 것을 선호합니다. 중국어 간체-번체 변환 도구를 사용하면 사용자가 필요로 하는 형식으로 중국어 텍스트를 변환하여 더 나은 읽기 경험을 제공할 수 있습니다.\n\n3. 중국어 입력: 중국어를 입력할 때, 일부 사람들은 중국어 번체 입력 방법을 사용하고, 다른 사람들은 중국어 간체 입력 방법을 사용합니다. 중국어 간체-번체 변환 도구를 사용하면 사용자가 더 편리하게 입력할 수 있는 형식으로 입력 중국어 텍스트를 변환할 수 있습니다."
+  },
+  "de": {
+    "$name": "Vereinfachtes Chinesisch zu Traditionellem Chinesisch",
+    "$keywords": [
+      "Chinesisch",
+      "Vereinfacht",
+      "Traditionell",
+      "Chinesisch Vereinfacht zu Traditionell",
+      "Chinesisch Traditionell zu Vereinfacht",
+      "Chinesisch Vereinfacht zu Traditionell Konvertierung",
+      "Chinesische Übersetzung",
+      "Chinesisches Lesen",
+      "Chinesische Eingabe"
+    ],
+    "$description": "Das Chinesisch Vereinfacht-Traditionell Konvertierungstool ist ein Werkzeug, das verwendet wird, um chinesische Schriftzeichen von vereinfacht auf traditionell oder von traditionell auf vereinfacht umzuwandeln.\n\nFunktionen:\n\n1. Benutzer können den chinesischen Text, der konvertiert werden soll, in das Tool eingeben.\n\n2. Das Tool wandelt den eingegebenen chinesischen Text automatisch von vereinfacht auf traditionell oder von traditionell auf vereinfacht um.\n\n3. Der konvertierte chinesische Text wird im Ausgabe-Bereich des Tools angezeigt.\n\n4. Benutzer können den konvertierten chinesischen Text zum Einfügen in andere Anwendungen in die Zwischenablage kopieren.\n\nAnwendungsfälle:\n\n1. Chinesische Übersetzung: Bei der Übersetzung von Chinesisch ist es manchmal notwendig, chinesische Schriftzeichen von vereinfacht auf traditionell oder von traditionell auf vereinfacht umzuwandeln. Mit dem Chinesisch Vereinfacht-Traditionell Konvertierungstool kann diese Aufgabe schnell erledigt werden.\n\n2. Chinesisches Lesen: Einige Menschen bevorzugen es, chinesische traditionelle Schriftzeichen zu lesen, während andere chinesische vereinfachte Schriftzeichen bevorzugen. Mit dem Chinesisch Vereinfacht-Traditionell Konvertierungstool kann der chinesische Text in das Format umgewandelt werden, das der Benutzer zum besseren Lesen benötigt.\n\n3. Chinesisches Eingeben: Beim Eingeben von Chinesisch bevorzugen einige Menschen chinesische traditionelle Eingabemethoden, während andere chinesische vereinfachte Eingabemethoden bevorzugen. Mit dem Chinesisch Vereinfacht-Traditionell Konvertierungstool kann der eingegebene chinesische Text in das Format umgewandelt werden, das der Benutzer für eine bequemere Eingabe benötigt."
+  },
+  "fr": {
+    "$name": "Chinois simplifié vers traditionnel",
+    "$keywords": [
+      "chinois",
+      "simplifié",
+      "traditionnel",
+      "Conversion du chinois simplifié en chinois traditionnel",
+      "Conversion du chinois traditionnel en chinois simplifié",
+      "Conversion du chinois simplifié en chinois traditionnel",
+      "Traduction chinoise",
+      "Lecture chinoise",
+      "Saisie chinoise"
+    ],
+    "$description": "L'outil de conversion chinois simplifié-traditionnel est un outil utilisé pour convertir des caractères chinois du simplifié au traditionnel ou du traditionnel au simplifié.\n\nFonctionnalités :\n\n1. Les utilisateurs peuvent entrer le texte chinois à convertir dans l'outil.\n\n2. L'outil convertira automatiquement le texte chinois d'entrée du simplifié au traditionnel ou du traditionnel au simplifié.\n\n3. Le texte chinois converti sera affiché dans la zone de sortie de l'outil.\n\n4. Les utilisateurs peuvent choisir de copier le texte chinois converti dans le presse-papiers pour une utilisation dans d'autres applications.\n\nCas d'utilisation :\n\n1. Traduction chinoise : lors de la traduction chinoise, il est parfois nécessaire de convertir des caractères chinois du simplifié au traditionnel ou du traditionnel au simplifié. L'utilisation de l'outil de conversion chinois simplifié-traditionnel peut permettre de réaliser rapidement cette tâche.\n\n2. Lecture chinoise : certaines personnes préfèrent lire des caractères chinois traditionnels, tandis que d'autres préfèrent lire des caractères chinois simplifiés. L'utilisation de l'outil de conversion chinois simplifié-traditionnel peut convertir le texte chinois dans le format que l'utilisateur préfère pour une meilleure lecture.\n\n3. Saisie chinoise : lors de la saisie chinoise, certaines personnes préfèrent utiliser des méthodes de saisie chinoises traditionnelles, tandis que d'autres préfèrent utiliser des méthodes de saisie chinoises simplifiées. L'utilisation de l'outil de conversion chinois simplifié-traditionnel peut convertir le texte chinois d'entrée dans le format que l'utilisateur préfère pour une saisie plus pratique."
+  },
+  "it": {
+    "$name": "Cinese semplificato a tradizionale",
+    "$keywords": [
+      "Cinese",
+      "Semplificato",
+      "Tradizionale",
+      "Conversione da Cinese Semplificato a Tradizionale",
+      "Conversione da Cinese Tradizionale a Semplificato",
+      "Conversione da Cinese Semplificato a Tradizionale",
+      "Traduzione Cinese",
+      "Lettura Cinese",
+      "Input Cinese"
+    ],
+    "$description": "Lo strumento di conversione cinese semplificato-tradizionale è uno strumento utilizzato per convertire i caratteri cinesi dal semplificato al tradizionale o dal tradizionale al semplificato.\n\nCaratteristiche:\n\n1. Gli utenti possono inserire il testo cinese che deve essere convertito nello strumento.\n\n2. Lo strumento convertirà automaticamente il testo cinese di input dal semplificato al tradizionale o dal tradizionale al semplificato.\n\n3. Il testo cinese convertito verrà visualizzato nell'area di output dello strumento.\n\n4. Gli utenti possono scegliere di copiare il testo cinese convertito negli appunti per l'uso in altre applicazioni.\n\nCasi d'uso:\n\n1. Traduzione cinese: quando si traduce il cinese, a volte è necessario convertire i caratteri cinesi dal semplificato al tradizionale o dal tradizionale al semplificato. Utilizzando lo strumento di conversione cinese semplificato-tradizionale, è possibile completare rapidamente questa operazione.\n\n2. Lettura cinese: alcune persone preferiscono leggere i caratteri cinesi tradizionali, mentre altre preferiscono leggere i caratteri cinesi semplificati. Utilizzando lo strumento di conversione cinese semplificato-tradizionale, è possibile convertire il testo cinese nel formato che l'utente necessita per una migliore lettura.\n\n3. Inserimento cinese: quando si inserisce il cinese, alcune persone preferiscono utilizzare metodi di input cinesi tradizionali, mentre altre preferiscono utilizzare metodi di input cinesi semplificati. Utilizzando lo strumento di conversione cinese semplificato-tradizionale, è possibile convertire il testo cinese di input nel formato che l'utente necessita per un inserimento più comodo."
+  },
+  "ru": {
+    "$name": "Упрощенный китайский в традиционный",
+    "$keywords": [
+      "Китайский упрощенный",
+      "Китайский традиционный",
+      "Конвертация китайского упрощенного в традиционный",
+      "Перевод китайского",
+      "Чтение китайского",
+      "Ввод китайского"
+    ],
+    "$description": "Инструмент для конвертации китайских символов из упрощенной в традиционную или из традиционной в упрощенную - это инструмент, используемый для конвертации китайских символов.\n\nОсобенности:\n\n1. Пользователи могут ввести китайский текст, который нужно конвертировать в инструмент.\n\n2. Инструмент автоматически конвертирует введенный китайский текст из упрощенной в традиционную или из традиционной в упрощенную.\n\n3. Конвертированный китайский текст будет отображаться в области вывода инструмента.\n\n4. Пользователи могут выбрать скопировать конвертированный китайский текст в буфер обмена для использования в других приложениях.\n\nПрименение:\n\n1. Перевод на китайский: При переводе на китайский иногда необходимо конвертировать китайские символы из упрощенной в традиционную или из традиционной в упрощенную. Использование инструмента для конвертации китайских символов позволяет быстро выполнить эту задачу.\n\n2. Чтение на китайском: Некоторые люди предпочитают читать китайские традиционные символы, а другие - китайские упрощенные символы. Использование инструмента для конвертации китайских символов позволяет конвертировать китайский текст в формат, который пользователь нуждается для лучшего чтения.\n\n3. Ввод на китайском: При вводе на китайском некоторые люди предпочитают использовать традиционные методы ввода на китайском, а другие - упрощенные методы ввода на китайском. Использование инструмента для конвертации китайских символов позволяет конвертировать введенный китайский текст в формат, который пользователь нуждается для более удобного ввода."
+  },
+  "pt": {
+    "$name": "Simplificado Chinês para Tradicional",
+    "$keywords": [
+      "chinês",
+      "simplificado",
+      "tradicional",
+      "Simplificado Chinês para Tradicional",
+      "Tradicional Chinês para Simplificado",
+      "Conversão de Chinês Simplificado para Tradicional",
+      "Tradução de Chinês",
+      "Leitura de Chinês",
+      "Entrada de Chinês"
+    ],
+    "$description": "A Ferramenta de Conversão Chinês Simplificado-Tradicional é uma ferramenta usada para converter caracteres chineses de simplificados para tradicionais ou de tradicionais para simplificados.\n\nRecursos:\n\n1. Os usuários podem inserir o texto chinês que precisa ser convertido na ferramenta.\n\n2. A ferramenta converterá automaticamente o texto chinês inserido de simplificado para tradicional ou de tradicional para simplificado.\n\n3. O texto chinês convertido será exibido na área de saída da ferramenta.\n\n4. Os usuários podem optar por copiar o texto chinês convertido para a área de transferência para uso em outras aplicações.\n\nCasos de uso:\n\n1. Tradução chinesa: ao traduzir chinês, às vezes é necessário converter caracteres chineses de simplificados para tradicionais ou de tradicionais para simplificados. Usando a Ferramenta de Conversão Chinês Simplificado-Tradicional, é possível concluir rapidamente essa tarefa.\n\n2. Leitura chinesa: algumas pessoas preferem ler caracteres chineses tradicionais, enquanto outras preferem ler caracteres chineses simplificados. Usando a Ferramenta de Conversão Chinês Simplificado-Tradicional, é possível converter o texto chinês para o formato que o usuário precisa para uma leitura melhor.\n\n3. Entrada chinesa: ao inserir chinês, algumas pessoas preferem usar métodos de entrada chineses tradicionais, enquanto outras preferem usar métodos de entrada chineses simplificados. Usando a Ferramenta de Conversão Chinês Simplificado-Tradicional, é possível converter o texto chinês inserido para o formato que o usuário precisa para uma entrada mais conveniente."
+  },
+  "en": {
+    "$name": "Chinese Simplified to Traditional",
+    "$keywords": [
+      "chinese",
+      "simplified",
+      "traditional",
+      "Chinese Simplified to Traditional",
+      "Chinese Traditional to Simplified",
+      "Chinese Simplified to Traditional Conversion",
+      "Chinese Translation",
+      "Chinese Reading",
+      "Chinese Input"
+    ],
+    "$description": "The Chinese Simplified-Traditional Conversion Tool is a tool used to convert Chinese characters from simplified to traditional or from traditional to simplified.\n\nFeatures:\n\n1. Users can input the Chinese text that needs to be converted into the tool.\n\n2. The tool will automatically convert the input Chinese text from simplified to traditional or from traditional to simplified.\n\n3. The converted Chinese text will be displayed in the output area of the tool.\n\n4. Users can choose to copy the converted Chinese text to the clipboard for use in other applications.\n\nUse cases:\n\n1. Chinese translation: When translating Chinese, sometimes it is necessary to convert Chinese characters from simplified to traditional or from traditional to simplified. Using the Chinese Simplified-Traditional Conversion Tool can quickly complete this task.\n\n2. Chinese reading: Some people prefer to read Chinese traditional characters, while others prefer to read Chinese simplified characters. Using the Chinese Simplified-Traditional Conversion Tool can convert Chinese text to the format that the user needs for better reading.\n\n3. Chinese input: When inputting Chinese, some people prefer to use Chinese traditional input methods, while others prefer to use Chinese simplified input methods. Using the Chinese Simplified-Traditional Conversion Tool can convert the input Chinese text to the format that the user needs for more convenient input."
+  }
+}

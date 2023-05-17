@@ -1,7 +1,7 @@
 <template>
-  <h-horizontal-layout mode="left" :width="300">
+  <h-horizontal-layout mode="left" :width="300" >
     <template #left>
-      <div class="wrapper">
+      <div class="wrapper" >
         <!-- UUID -->
         <a-form :label-col="{ span: 9 }" :wrapper-col="{ span: 16 }" size="small">
           <a-form-item label="Type: ">
@@ -241,7 +241,7 @@ onMounted(() => {
 <style scoped lang="less">
 .wrapper {
   padding: 2vh 0.5vw;
-
+  overflow-x: hidden;
   .number-limit {
     width: 150px;
   }

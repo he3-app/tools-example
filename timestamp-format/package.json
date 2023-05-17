@@ -10,19 +10,22 @@
     "id": "timestamp-format",
     "name": "Timestamp Convertor",
     "icon": "field-time-outlined",
-    "version": "1.0.7",
+    "version": "1.1.3",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/timestamp-format",
     "category": [
       "datetime"
     ],
-    "description": "Timestamp Convertor",
+    "description": "Timestamp Convertor is a tool that converts timestamps to different formats of date and time. It supports converting timestamps to seconds, milliseconds, microseconds, and nanoseconds, and can perform conversions based on input and output time zones.\n\nFeatures:\n\n1. Enter the timestamp in the tool.\n\n2. The tool will automatically convert the timestamp to different formats of date and time, and display it in the output area of the tool.\n\n3. You can select input and output time zones, and choose the format of the timestamp.\n\n4. You can choose whether to enable UTC time.\n\nUse cases:\n\n1. Development and testing: During the development or testing process, developers often need to convert timestamps to date and time. Using the Timestamp Convertor tool can quickly and conveniently perform conversions.\n\n2. Data analysis: Data analysts need to process and analyze various timestamp data. Using this tool, they can easily convert timestamps to date and time, thereby better understanding the data structure and content.\n\n3. Time conversion: In cross-time zone scenarios, it is necessary to convert time to different time zones. Using the Timestamp Convertor tool can conveniently perform time conversion, and you can select input and output time zones.\n\n4. Timestamp formatting: During code review, reviewers can use the Timestamp Convertor tool to convert timestamps to readable date and time formats, making it easier to view and understand data structures.",
     "keywords": [
       "timestamp",
       "milisecond",
       "convert",
       "datetime",
-      "time"
+      "time",
+      "Milliseconds",
+      "Conversion",
+      "Timezone"
     ],
     "relatedToolId": [
       "utc-to-timestamp",

@@ -1,110 +1,167 @@
 {
-  "zh": {
-    "$name": "颜色提取",
-    "$description": "从图片中提取颜色",
+  "zh-cn": {
+    "$name": "颜色提取器",
     "$keywords": [
       "颜色",
       "提取",
-      "图片"
-    ]
-  },
-  "en": {
-    "$name": "Color Extraction",
-    "$description": "Extract color",
-    "$keywords": [
-      "color",
-      "extraction",
-      "image"
-    ]
-  },
-  "de": {
-    "$name": "Farbgewinnung",
-    "$description": "Farbe aus dem Bild extrahieren",
-    "$keywords": [
-      "Farbe",
-      "Extrakt",
-      "Bild"
-    ]
-  },
-  "es": {
-    "$name": "Extracción de color",
-    "$description": "Extraer color de la imagen",
-    "$keywords": [
-      "color",
-      "extracto",
-      "imagen"
-    ]
-  },
-  "fr": {
-    "$name": "Extraction des couleurs",
-    "$description": "Extraire la couleur de l'image",
-    "$keywords": [
-      "couleur",
-      "extrait",
-      "image"
-    ]
-  },
-  "it": {
-    "$name": "Estrazione del colore",
-    "$description": "Estrarre il colore dall'immagine",
-    "$keywords": [
-      "colore",
-      "estratto",
-      "immagine"
-    ]
-  },
-  "ja": {
-    "$name": "色の抽出",
-    "$description": "写真から色を抽出します",
-    "$keywords": [
-      "色",
-      "エキス",
-      "写真"
-    ]
-  },
-  "ko": {
-    "$name": "색상 추출",
-    "$description": "그림에서 색상을 추출하십시오",
-    "$keywords": [
-      "색상",
-      "발췌",
-      "그림"
-    ]
-  },
-  "pt": {
-    "$name": "Extração de cores",
-    "$description": "Extraia cor da imagem",
-    "$keywords": [
-      "cor",
-      "extrair",
-      "foto"
-    ]
-  },
-  "ru": {
-    "$name": "Извлечение цвета",
-    "$description": "Извлеките цвет из картинки",
-    "$keywords": [
-      "цвет",
-      "извлекать",
-      "картина"
-    ]
+      "图像",
+      "色彩提取器",
+      "图像颜色",
+      "RGB 格式",
+      "设计配色方案",
+      "UI 界面设计",
+      "数据分析"
+    ],
+    "$description": "颜色提取器是一种工具，用于从图像中提取颜色。它可以从上传的图像中提取主要颜色和颜色调色板，并以RGB格式显示它们。\n\n特点：\n\n1. 图像上传：用户可以将图像上传到工具中。\n\n2. 颜色提取：该工具将自动从上传的图像中提取主要颜色和颜色调色板，并以RGB格式显示它们。\n\n3. 颜色显示：该工具将以卡片格式在输出区域显示提取的颜色。\n\n用例：\n\n1. 设计师：设计师可以使用颜色提取器从图像中提取颜色，以更好地设计配色方案。\n\n2. 开发人员：开发人员可以使用颜色提取器从图像中提取颜色，以更好地设计UI界面。\n\n3. 数据分析师：数据分析师可以使用颜色提取器从图像中提取颜色，以更好地分析数据结构和内容。"
   },
   "zh-tw": {
-    "$name": "顏色提取",
-    "$description": "從圖片中提取顏色",
+    "$name": "色彩提取器",
     "$keywords": [
       "顏色",
       "提取",
-      "圖片"
-    ]
+      "圖像",
+      "色彩提取器",
+      "圖像顏色",
+      "RGB 格式",
+      "設計色彩方案",
+      "UI 介面設計",
+      "數據分析"
+    ],
+    "$description": "顏色提取器是一個用於從圖像中提取顏色的工具。它可以從上傳的圖像中提取主要顏色和調色板，並以RGB格式顯示它們。\n\n功能：\n\n1. 圖像上傳：用戶可以將圖像上傳到工具中。\n\n2. 顏色提取：工具將自動從上傳的圖像中提取主要顏色和調色板，並以RGB格式顯示它們。\n\n3. 顏色顯示：工具將以卡片格式在輸出區域中顯示提取的顏色。\n\n使用案例：\n\n1. 設計師：設計師可以使用顏色提取器從圖像中提取顏色，以更好地設計配色方案。\n\n2. 開發人員：開發人員可以使用顏色提取器從圖像中提取顏色，以更好地設計UI界面。\n\n3. 數據分析師：數據分析師可以使用顏色提取器從圖像中提取顏色，以更好地分析數據結構和內容。"
   },
-  "zh-cn": {
-    "$name": "颜色提取",
-    "$description": "从图片中提取颜色",
+  "es": {
+    "$name": "Extractor de Color",
     "$keywords": [
-      "颜色",
-      "提取",
-      "图片"
-    ]
+      "color",
+      "extracción",
+      "imagen",
+      "Color Extractor",
+      "Color de imagen",
+      "Formato RGB",
+      "Esquema de color de diseño",
+      "Diseño de interfaz de usuario",
+      "Análisis de datos"
+    ],
+    "$description": "El Extractor de Color es una herramienta utilizada para extraer colores de imágenes. Puede extraer los colores principales y la paleta de colores de las imágenes cargadas y mostrarlos en formato RGB.\n\nCaracterísticas:\n\n1. Carga de imágenes: Los usuarios pueden cargar imágenes en la herramienta.\n\n2. Extracción de colores: La herramienta extraerá automáticamente los colores principales y la paleta de colores de la imagen cargada y los mostrará en formato RGB.\n\n3. Visualización de colores: La herramienta mostrará los colores extraídos en un formato de tarjeta en el área de salida.\n\nCasos de uso:\n\n1. Diseñadores: Los diseñadores pueden utilizar el Extractor de Color para extraer colores de imágenes y diseñar mejores esquemas de color.\n\n2. Desarrolladores: Los desarrolladores pueden utilizar el Extractor de Color para extraer colores de imágenes y diseñar mejores interfaces de usuario.\n\n3. Analistas de datos: Los analistas de datos pueden utilizar el Extractor de Color para extraer colores de imágenes y analizar mejor las estructuras y el contenido de los datos."
+  },
+  "ja": {
+    "$name": "カラーエキストラクター",
+    "$keywords": [
+      "カラー",
+      "抽出",
+      "画像",
+      "カラーエキストラクター",
+      "画像カラー",
+      "RGBフォーマット",
+      "デザインカラースキーム",
+      "UIインターフェイスデザイン",
+      "データ分析"
+    ],
+    "$description": "カラーエクストラクターは、画像から色を抽出するためのツールです。アップロードされた画像から主要な色とカラーパレットを抽出し、RGB形式で表示することができます。\n\n機能：\n\n1. 画像のアップロード：ユーザーはツールに画像をアップロードすることができます。\n\n2. 色の抽出：ツールは自動的にアップロードされた画像から主要な色とカラーパレットを抽出し、RGB形式で表示します。\n\n3. 色の表示：ツールは抽出された色を出力エリアのカード形式で表示します。\n\n使用例：\n\n1. デザイナー：デザイナーは、カラーエクストラクターを使用して画像から色を抽出し、より良いカラースキームを設計することができます。\n\n2. 開発者：開発者は、カラーエクストラクターを使用して画像から色を抽出し、より良いUIインターフェースを設計することができます。\n\n3. データアナリスト：データアナリストは、カラーエクストラクターを使用して画像から色を抽出し、より良いデータ構造とコンテンツを分析することができます。"
+  },
+  "ko": {
+    "$name": "컬러 추출기",
+    "$keywords": [
+      "색상",
+      "추출",
+      "이미지",
+      "컬러 추출기",
+      "이미지 컬러",
+      "RGB 형식",
+      "디자인 컬러 스키마",
+      "UI 인터페이스 디자인",
+      "데이터 분석"
+    ],
+    "$description": "컬러 추출기는 이미지에서 색상을 추출하는 데 사용되는 도구입니다. 업로드된 이미지에서 주요 색상과 색상 팔레트를 추출하여 RGB 형식으로 표시할 수 있습니다.\n\n기능:\n\n1. 이미지 업로드: 사용자는 도구에 이미지를 업로드할 수 있습니다.\n\n2. 색상 추출: 도구는 업로드된 이미지에서 자동으로 주요 색상과 색상 팔레트를 추출하고 RGB 형식으로 표시합니다.\n\n3. 색상 표시: 도구는 추출된 색상을 출력 영역에서 카드 형식으로 표시합니다.\n\n사용 사례:\n\n1. 디자이너: 디자이너는 컬러 추출기를 사용하여 이미지에서 색상을 추출하여 더 나은 색상 구성을 디자인할 수 있습니다.\n\n2. 개발자: 개발자는 컬러 추출기를 사용하여 이미지에서 색상을 추출하여 더 나은 UI 인터페이스를 디자인할 수 있습니다.\n\n3. 데이터 분석가: 데이터 분석가는 컬러 추출기를 사용하여 이미지에서 색상을 추출하여 더 나은 데이터 구조 및 콘텐츠를 분석할 수 있습니다."
+  },
+  "de": {
+    "$name": "Farbextraktor",
+    "$keywords": [
+      "Farbe",
+      "Extraktion",
+      "Bild",
+      "Color Extractor",
+      "Bildfarbe",
+      "RGB-Format",
+      "Design-Farbschema",
+      "UI-Interface-Design",
+      "Datenanalyse"
+    ],
+    "$description": "Farbextraktor ist ein Werkzeug, das verwendet wird, um Farben aus Bildern zu extrahieren. Es kann die Hauptfarben und Farbpalette aus hochgeladenen Bildern extrahieren und sie im RGB-Format anzeigen.\n\nFunktionen:\n\n1. Bild-Upload: Benutzer können Bilder in das Werkzeug hochladen.\n\n2. Farbextraktion: Das Werkzeug extrahiert automatisch die Hauptfarben und Farbpalette aus dem hochgeladenen Bild und zeigt sie im RGB-Format an.\n\n3. Farbanzeige: Das Werkzeug zeigt die extrahierten Farben in einem Kartenformat im Ausgabe-Bereich an.\n\nAnwendungsfälle:\n\n1. Designer: Designer können Farbextraktor verwenden, um Farben aus Bildern zu extrahieren, um bessere Farbschemata zu entwerfen.\n\n2. Entwickler: Entwickler können Farbextraktor verwenden, um Farben aus Bildern zu extrahieren, um bessere UI-Schnittstellen zu entwerfen.\n\n3. Datenanalysten: Datenanalysten können Farbextraktor verwenden, um Farben aus Bildern zu extrahieren, um Datenstrukturen und Inhalte besser zu analysieren."
+  },
+  "fr": {
+    "$name": "Extracteur de couleur",
+    "$keywords": [
+      "couleur",
+      "extraction",
+      "image",
+      "Color Extractor",
+      "Couleur d'image",
+      "Format RGB",
+      "Schéma de couleurs de conception",
+      "Conception d'interface utilisateur",
+      "Analyse de données"
+    ],
+    "$description": "Extracteur de couleurs est un outil utilisé pour extraire les couleurs des images. Il peut extraire les couleurs principales et la palette de couleurs des images téléchargées et les afficher en format RGB.\n\nFonctionnalités:\n\n1. Téléchargement d'image: Les utilisateurs peuvent télécharger des images dans l'outil.\n\n2. Extraction de couleurs: L'outil extraira automatiquement les couleurs principales et la palette de couleurs de l'image téléchargée et les affichera en format RGB.\n\n3. Affichage de couleurs: L'outil affichera les couleurs extraites sous forme de cartes dans la zone de sortie.\n\nCas d'utilisation:\n\n1. Designers: Les designers peuvent utiliser Extracteur de couleurs pour extraire les couleurs des images afin de mieux concevoir des schémas de couleurs.\n\n2. Développeurs: Les développeurs peuvent utiliser Extracteur de couleurs pour extraire les couleurs des images afin de mieux concevoir des interfaces utilisateur.\n\n3. Analystes de données: Les analystes de données peuvent utiliser Extracteur de couleurs pour extraire les couleurs des images afin d'analyser plus efficacement les structures et le contenu des données."
+  },
+  "it": {
+    "$name": "Estrattore di colore",
+    "$keywords": [
+      "colore",
+      "estrazione",
+      "immagine",
+      "Color Extractor",
+      "Colore Immagine",
+      "Formato RGB",
+      "Schema di Colore di Design",
+      "Design di Interfaccia Utente",
+      "Analisi dei Dati"
+    ],
+    "$description": "Il Color Extractor è uno strumento utilizzato per estrarre i colori dalle immagini. Può estrarre i colori principali e la palette di colori dalle immagini caricate e mostrarli in formato RGB.\n\nCaratteristiche:\n\n1. Caricamento immagine: gli utenti possono caricare le immagini nello strumento.\n\n2. Estrazione colore: lo strumento estrarrà automaticamente i colori principali e la palette di colori dall'immagine caricata e li mostrerà in formato RGB.\n\n3. Visualizzazione colore: lo strumento mostrerà i colori estratti in un formato a scheda nell'area di output.\n\nCasi d'uso:\n\n1. Designer: i designer possono utilizzare il Color Extractor per estrarre i colori dalle immagini per progettare meglio le combinazioni di colori.\n\n2. Sviluppatori: gli sviluppatori possono utilizzare il Color Extractor per estrarre i colori dalle immagini per progettare meglio le interfacce utente.\n\n3. Analisti di dati: gli analisti di dati possono utilizzare il Color Extractor per estrarre i colori dalle immagini per analizzare meglio le strutture e i contenuti dei dati."
+  },
+  "ru": {
+    "$name": "Извлекатель цвета",
+    "$keywords": [
+      "цвет",
+      "извлечение",
+      "изображение",
+      "Color Extractor",
+      "Image Color",
+      "RGB формат",
+      "цветовая схема дизайна",
+      "дизайн пользовательского интерфейса",
+      "анализ данных"
+    ],
+    "$description": "Цветовой экстрактор - это инструмент, используемый для извлечения цветов изображений. Он может извлекать основные цвета и цветовую палитру из загруженных изображений и отображать их в формате RGB.\n\nОсобенности:\n\n1. Загрузка изображений: Пользователи могут загружать изображения в инструмент.\n\n2. Извлечение цвета: Инструмент автоматически извлекает основные цвета и цветовую палитру из загруженного изображения и отображает их в формате RGB.\n\n3. Отображение цвета: Инструмент отображает извлеченные цвета в формате карточки в области вывода.\n\nВарианты использования:\n\n1. Дизайнеры: Дизайнеры могут использовать Цветовой экстрактор для извлечения цветов изображений, чтобы лучше проектировать цветовые схемы.\n\n2. Разработчики: Разработчики могут использовать Цветовой экстрактор для извлечения цветов изображений, чтобы лучше проектировать пользовательские интерфейсы.\n\n3. Аналитики данных: Аналитики данных могут использовать Цветовой экстрактор для извлечения цветов изображений, чтобы лучше анализировать структуры данных и содержание."
+  },
+  "pt": {
+    "$name": "Extrator de Cor",
+    "$keywords": [
+      "cor",
+      "extração",
+      "imagem",
+      "Color Extractor",
+      "Cor da Imagem",
+      "Formato RGB",
+      "Esquema de Cores de Design",
+      "Design de Interface de Usuário",
+      "Análise de Dados"
+    ],
+    "$description": "O Extrator de Cores é uma ferramenta usada para extrair cores de imagens. Ele pode extrair as cores principais e a paleta de cores das imagens enviadas e exibi-las no formato RGB.\n\nRecursos:\n\n1. Envio de imagem: Os usuários podem enviar imagens para a ferramenta.\n\n2. Extração de cores: A ferramenta extrairá automaticamente as cores principais e a paleta de cores da imagem enviada e exibirá no formato RGB.\n\n3. Exibição de cores: A ferramenta exibirá as cores extraídas em um formato de cartão na área de saída.\n\nCasos de uso:\n\n1. Designers: Os designers podem usar o Extrator de Cores para extrair cores de imagens e melhorar o design de esquemas de cores.\n\n2. Desenvolvedores: Os desenvolvedores podem usar o Extrator de Cores para extrair cores de imagens e melhorar o design de interfaces de usuário.\n\n3. Analistas de dados: Os analistas de dados podem usar o Extrator de Cores para extrair cores de imagens e melhorar a análise de estruturas e conteúdo de dados."
+  },
+  "en": {
+    "$name": "Color Extractor",
+    "$keywords": [
+      "color",
+      "extraction",
+      "image",
+      "Color Extractor",
+      "Image Color",
+      "RGB Format",
+      "Design Color Scheme",
+      "UI Interface Design",
+      "Data Analysis"
+    ],
+    "$description": "Color Extractor is a tool used to extract colors from images. It can extract the main colors and color palette from uploaded images and display them in RGB format.\n\nFeatures:\n\n1. Image upload: Users can upload images to the tool.\n\n2. Color extraction: The tool will automatically extract the main colors and color palette from the uploaded image and display them in RGB format.\n\n3. Color display: The tool will display the extracted colors in a card format in the output area.\n\nUse cases:\n\n1. Designers: Designers can use Color Extractor to extract colors from images to better design color schemes.\n\n2. Developers: Developers can use Color Extractor to extract colors from images to better design UI interfaces.\n\n3. Data analysts: Data analysts can use Color Extractor to extract colors from images to better analyze data structures and content."
   }
 }

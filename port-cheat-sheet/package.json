@@ -8,22 +8,27 @@
   },
   "he3": {
     "id": "port-cheat-sheet",
-    "name": "Ports Cheatsheet",
+    "name": "Port Cheatsheet",
     "icon": "wifi-outlined",
-    "version": "1.0.1",
+    "version": "1.0.6",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/port-cheat-sheet",
     "category": [
       "network"
     ],
-    "description": "Network ports references",
+    "description": "Port Cheatsheet is a tool used to view port numbers and their corresponding services. Users can enter a port number or service name in the search box, and the tool will automatically match and display the corresponding port number and service name. Additionally, the tool provides a legend to explain the meaning of different colored port numbers.\n\nFeatures:\n\n1. Enter a port number or service name in the search box, and the tool will automatically match and display the corresponding port number and service name.\n\n2. The tool provides a legend to explain the meaning of different colored port numbers.\n\n3. Users can click on a port number, and the tool will automatically scroll the page to the corresponding port number position and set the background color of the port number to coral. After 3 seconds, the color will return to its original state.\n\nUse cases:\n\n1. Network administrators: Network administrators can use Port Cheatsheet to view port numbers and their corresponding services to better manage the network.\n\n2. Developers: Developers can use Port Cheatsheet to view port numbers and their corresponding services to better develop and test network applications.\n\n3. Security researchers: Security researchers can use Port Cheatsheet to view port numbers and their corresponding services to better analyze network security issues.",
     "keywords": [
       "port",
       "cheat",
       "sheet",
       "tcp",
       "udp",
-      "network"
+      "network",
+      "Port number",
+      "Service name",
+      "Network management",
+      "Development testing",
+      "Security analysis"
     ],
     "relatedToolId": []
   },

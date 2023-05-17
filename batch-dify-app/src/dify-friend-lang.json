@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "welcome": "你的挚友🧑‍🤝‍🧑",
+    "input": "输入",
+    "pleaseInput": "你遇到什么困难了吗...",
+    "output": "你挚友的回答",
+    "outputTitle": "回答内容",
+    "run": "生成回答"
+  },
+  "en": {
+    "welcome": "Your Trusted Friend🧑‍🤝‍🧑",
+    "input": "Input",
+    "pleaseInput": "Are you facing any difficulties...",
+    "output": "Your Friend's Response",
+    "outputTitle": "Response Content",
+    "run": "Generate Response"
+  },
+  "fr": {
+    "welcome": "Ton ami de confiance🧑‍🤝‍🧑",
+    "input": "Entrée",
+    "pleaseInput": "Rencontrez-vous des difficultés...",
+    "output": "Réponse de ton ami",
+    "outputTitle": "Contenu de la réponse",
+    "run": "Générer la réponse"
+  },
+  "de": {
+    "welcome": "Dein vertrauter Freund🧑‍🤝‍🧑",
+    "input": "Eingang",
+    "pleaseInput": "Hast du Schwierigkeiten...",
+    "output": "Die Antwort deines Freundes",
+    "outputTitle": "Antwortinhalt",
+    "run": "Antwort generieren"
+  },
+  "pt": {
+    "welcome": "Seu amigo de confiança🧑‍🤝‍🧑",
+    "input": "Entrada",
+    "pleaseInput": "Você está enfrentando dificuldades...",
+    "output": "A resposta do seu amigo",
+    "outputTitle": "Conteúdo da resposta",
+    "run": "Gerar resposta"
+  },
+  "ru": {
+    "welcome": "Ваш надежный друг🧑‍🤝‍🧑",
+    "input": "Вход",
+    "pleaseInput": "Вы столкнулись с какими-либо трудностями...",
+    "output": "Ответ вашего друга",
+    "outputTitle": "Содержание ответа",
+    "run": "Сгенерировать ответ"
+  },
+  "ko": {
+    "welcome": "신뢰할 수 있는 친구🧑‍🤝‍🧑",
+    "input": "입력",
+    "pleaseInput": "어떤 어려움을 겪고 있나요...",
+    "output": "당신의 친구의 답변",
+    "outputTitle": "답변 내용",
+    "run": "답변 생성"
+  },
+  "ja": {
+    "welcome": "あなたの信頼できる友人🧑‍🤝‍🧑",
+    "input": "入力",
+    "pleaseInput": "何か困難に直面していますか...",
+    "output": "友人の回答",
+    "outputTitle": "回答内容",
+    "run": "回答を生成する"
+  },
+  "zh-tw": {
+    "welcome": "你的摯友🧑‍🤝‍🧑",
+    "input": "輸入",
+    "pleaseInput": "你遇到什麼困難了嗎...",
+    "output": "你摯友的回答",
+    "outputTitle": "回答內容",
+    "run": "生成回答"
+  },
+  "es": {
+    "welcome": "Tu amigo de confianza🧑‍🤝‍🧑",
+    "input": "Entrada",
+    "pleaseInput": "¿Estás enfrentando dificultades...",
+    "output": "La respuesta de tu amigo",
+    "outputTitle": "Contenido de la respuesta",
+    "run": "Generar respuesta"
+  },
+  "it": {
+    "welcome": "Il tuo amico di fiducia🧑‍🤝‍🧑",
+    "input": "Input",
+    "pleaseInput": "Stai affrontando delle difficoltà...",
+    "output": "La risposta del tuo amico",
+    "outputTitle": "Contenuto della risposta",
+    "run": "Generare una risposta"
+  }
+}

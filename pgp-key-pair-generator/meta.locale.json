@@ -1,16 +1,236 @@
 {
-  "zh": {
-    "$name": "PGP 密钥对生成器",
-    "$description": "生成 PGP 密钥对",
+  "zh-cn": {
+    "$name": "PGP密钥对生成器",
     "$keywords": [
+      "GPG",
+      "PGP",
       "密钥",
       "生成",
-      "生成器"
-    ]
+      "生成器",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192",
+      "密钥对",
+      "加密",
+      "签名",
+      "安全通信",
+      "数字证书",
+      "口令",
+      "过期时间"
+    ],
+    "$description": "工具名称：PGP密钥对生成器\n\n工具描述：\nPGP密钥对生成器是一种用于生成PGP密钥对的工具。用户可以输入用户名、电子邮件、注释、算法、密钥大小、过期时间和密码等信息来生成公钥和私钥。该工具支持RSA和ECC算法，并允许用户选择不同的密钥大小和过期时间。生成的密钥对可用于加密和签名操作。\n\n使用场景：\n1. 加密和签名：PGP密钥对可用于加密和签名电子邮件、文件和消息，以保护用户的隐私和安全。\n2. 安全通信：PGP密钥对可用于安全通信，确保通信内容不被窃听或篡改。\n3. 数字证书：PGP密钥对可用于生成数字证书，以验证用户的身份和授权。\n\n使用说明：\n1. 输入用户名、电子邮件、注释、算法、密钥大小、过期时间和密码等信息。\n2. 点击“生成”按钮生成公钥和私钥。\n3. 将生成的公钥和私钥保存到本地或导出到其他应用程序。\n4. 使用生成的密钥对进行加密、签名、验证和解密操作。\n\n注意事项：\n1. 密钥对的安全性取决于密码短语的强度和保密性。建议使用强密码并保持密码短语的安全。\n2. 密钥对的过期时间应根据实际需要设置，以确保密钥的有效性和安全性。\n3. 密钥对的生成可能需要一些时间，具体取决于算法、密钥大小和计算机性能等因素。请耐心等待生成结果。"
+  },
+  "zh-tw": {
+    "$name": "PGP金鑰對產生器",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "金鑰",
+      "生成",
+      "產生器",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192",
+      "金鑰對",
+      "加密",
+      "簽名",
+      "安全通訊",
+      "數字證書",
+      "密碼",
+      "到期時間"
+    ],
+    "$description": "工具名稱：PGP金鑰對生成器\n\n工具描述：\nPGP金鑰對生成器是一個用於生成PGP金鑰對的工具。用戶可以輸入信息，如用戶名、電子郵件、注釋、算法、金鑰大小、到期時間和密碼，以生成公鑰和私鑰。該工具支持RSA和ECC算法，並允許用戶選擇不同的金鑰大小和到期時間。生成的金鑰對可用於加密和簽名操作。\n\n使用案例：\n1. 加密和簽名：PGP金鑰對可用於加密和簽名電子郵件、文件和消息，以保護用戶的隱私和安全。\n2. 安全通信：PGP金鑰對可用於安全通信，以確保通信內容不被竊聽或篡改。\n3. 數字證書：PGP金鑰對可用於生成數字證書，以驗證用戶的身份和授權。\n\n說明：\n1. 輸入信息，如用戶名、電子郵件、注釋、算法、金鑰大小、到期時間和密碼。\n2. 點擊“生成”按鈕以生成公鑰和私鑰。\n3. 將生成的公鑰和私鑰保存到本地或導出到其他應用程序。\n4. 使用生成的金鑰對進行加密、簽名、驗證和解密操作。\n\n注意事項：\n1. 金鑰對的安全性取決於密碼的強度和保密性。建議使用強密碼並保持密碼的安全。\n2. 金鑰對的到期時間應根據實際需要設置，以確保金鑰的有效性和安全性。\n3. 金鑰對的生成可能需要一些時間，具體取決於算法、金鑰大小和計算機性能等因素。請耐心等待生成結果。"
+  },
+  "es": {
+    "$name": "Generador de pares de claves PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "clave",
+      "generar",
+      "generador",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192",
+      "par de claves",
+      "encriptación",
+      "firma",
+      "comunicación segura",
+      "certificado digital",
+      "frase de contraseña",
+      "tiempo de expiración"
+    ],
+    "$description": "Nombre de la herramienta: Generador de pares de claves PGP\n\nDescripción de la herramienta:\nGenerador de pares de claves PGP es una herramienta utilizada para generar pares de claves PGP. Los usuarios pueden ingresar información como nombre de usuario, correo electrónico, comentario, algoritmo, tamaño de clave, tiempo de expiración y frase de contraseña para generar una clave pública y una clave privada. La herramienta admite algoritmos RSA y ECC y permite a los usuarios elegir diferentes tamaños de clave y tiempos de expiración. El par de claves generado se puede utilizar para operaciones de cifrado y firma.\n\nCasos de uso:\n1. Cifrado y firma: los pares de claves PGP se pueden utilizar para cifrar y firmar correos electrónicos, archivos y mensajes para proteger la privacidad y seguridad de los usuarios.\n2. Comunicación segura: los pares de claves PGP se pueden utilizar para comunicación segura para garantizar que el contenido de la comunicación no sea interceptado o manipulado.\n3. Certificados digitales: los pares de claves PGP se pueden utilizar para generar certificados digitales para verificar la identidad y autorización de los usuarios.\n\nInstrucciones:\n1. Ingrese información como nombre de usuario, correo electrónico, comentario, algoritmo, tamaño de clave, tiempo de expiración y frase de contraseña.\n2. Haga clic en el botón \"Generar\" para generar una clave pública y una clave privada.\n3. Guarde la clave pública y privada generada localmente o expórtelas a otras aplicaciones.\n4. Utilice el par de claves generado para operaciones de cifrado, firma, verificación y descifrado.\n\nNotas:\n1. La seguridad del par de claves depende de la fortaleza y confidencialidad de la frase de contraseña. Se recomienda utilizar una contraseña fuerte y mantener la frase de contraseña segura.\n2. El tiempo de expiración del par de claves debe establecerse de acuerdo con las necesidades reales para garantizar la validez y seguridad de la clave.\n3. La generación del par de claves puede llevar algún tiempo, dependiendo de factores como el algoritmo, el tamaño de la clave y el rendimiento de la computadora. Por favor, tenga paciencia y espere el resultado de la generación."
+  },
+  "ja": {
+    "$name": "PGPキーペアジェネレーター",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "鍵",
+      "生成",
+      "ジェネレーター",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192",
+      "鍵ペア",
+      "暗号化",
+      "署名",
+      "安全な通信",
+      "デジタル証明書",
+      "パスフレーズ",
+      "有効期限"
+    ],
+    "$description": "ツール名：PGP鍵ペアジェネレーター\n\nツールの説明：\nPGP鍵ペアジェネレーターは、PGP鍵ペアを生成するためのツールです。ユーザーは、ユーザー名、メールアドレス、コメント、アルゴリズム、鍵のサイズ、有効期限、およびパスフレーズなどの情報を入力して、公開鍵と秘密鍵を生成することができます。このツールはRSAおよびECCアルゴリズムをサポートしており、ユーザーは異なる鍵のサイズと有効期限を選択することができます。生成された鍵ペアは、暗号化および署名操作に使用することができます。\n\n使用例：\n1. 暗号化および署名：PGP鍵ペアを使用して、電子メール、ファイル、およびメッセージを暗号化および署名して、ユーザーのプライバシーとセキュリティを保護することができます。\n2. 安全な通信：PGP鍵ペアを使用して、通信内容が盗聴または改ざんされないようにすることで、安全な通信を行うことができます。\n3. デジタル証明書：PGP鍵ペアを使用して、ユーザーの身元と権限を確認するデジタル証明書を生成することができます。\n\n手順：\n1. ユーザー名、メールアドレス、コメント、アルゴリズム、鍵のサイズ、有効期限、およびパスフレーズなどの情報を入力します。\n2. 「生成」ボタンをクリックして、公開鍵と秘密鍵を生成します。\n3. 生成された公開鍵と秘密鍵をローカルに保存するか、他のアプリケーションにエクスポートします。\n4. 生成された鍵ペアを暗号化、署名、検証、および復号化操作に使用します。\n\n注意事項：\n1. 鍵ペアのセキュリティは、パスフレーズの強度と機密性に依存します。強力なパスワードを使用し、パスフレーズを安全に保管することをお勧めします。\n2. 鍵ペアの有効期限は、実際のニーズに応じて設定する必要があります。鍵の有効性とセキュリティを確保するためです。\n3. 鍵ペアの生成には、アルゴリズム、鍵のサイズ、およびコンピュータの性能などの要因によって時間がかかる場合があります。生成結果を待つために、しばらくお待ちください。"
+  },
+  "ko": {
+    "$name": "PGP 키 쌍 생성기",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "키",
+      "생성",
+      "생성기",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192",
+      "키 페어",
+      "암호화",
+      "서명",
+      "보안 통신",
+      "디지털 인증서",
+      "암호",
+      "만료 시간"
+    ],
+    "$description": "도구 이름: PGP 키 쌍 생성기\n\n도구 설명:\nPGP 키 쌍 생성기는 PGP 키 쌍을 생성하는 데 사용되는 도구입니다. 사용자는 사용자 이름, 이메일, 코멘트, 알고리즘, 키 크기, 만료 시간 및 암호를 입력하여 공개 키와 개인 키를 생성할 수 있습니다. 이 도구는 RSA 및 ECC 알고리즘을 지원하며 사용자는 다양한 키 크기와 만료 시간을 선택할 수 있습니다. 생성된 키 쌍은 암호화 및 서명 작업에 사용할 수 있습니다.\n\n사용 사례:\n1. 암호화 및 서명: PGP 키 쌍은 이메일, 파일 및 메시지를 암호화하고 서명하여 사용자의 개인 정보와 보안을 보호하는 데 사용할 수 있습니다.\n2. 안전한 통신: PGP 키 쌍은 안전한 통신을 위해 사용될 수 있으며 통신 내용이 도청되거나 변경되지 않도록 보장합니다.\n3. 디지털 인증서: PGP 키 쌍은 디지털 인증서를 생성하여 사용자의 신원과 권한을 확인하는 데 사용될 수 있습니다.\n\n사용 방법:\n1. 사용자 이름, 이메일, 코멘트, 알고리즘, 키 크기, 만료 시간 및 암호와 같은 정보를 입력합니다.\n2. \"생성\" 버튼을 클릭하여 공개 키와 개인 키를 생성합니다.\n3. 생성된 공개 키와 개인 키를 로컬에 저장하거나 다른 애플리케이션으로 내보냅니다.\n4. 생성된 키 쌍을 암호화, 서명, 확인 및 복호화 작업에 사용합니다.\n\n참고 사항:\n1. 키 쌍의 보안은 암호의 강도와 기밀성에 따라 달라집니다. 강력한 비밀번호를 사용하고 암호를 안전하게 보관하는 것이 좋습니다.\n2. 키 쌍의 만료 시간은 실제 필요에 따라 설정되어야 하며 키의 유효성과 보안을 보장합니다.\n3. 키 쌍의 생성은 알고리즘, 키 크기 및 컴퓨터 성능과 같은 요소에 따라 시간이 걸릴 수 있습니다. 생성 결과를 기다려주시기 바랍니다."
+  },
+  "de": {
+    "$name": "PGP-Schlüsselpaar-Generator",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "Schlüssel",
+      "generieren",
+      "Generator",
+      "RSA",
+      "ECC",
+      "2048",
+      "4096",
+      "8192",
+      "Schlüsselpaar",
+      "Verschlüsselung",
+      "Signatur",
+      "sichere Kommunikation",
+      "digitales Zertifikat",
+      "Passphrase",
+      "Ablaufzeit"
+    ],
+    "$description": "Werkzeugname: PGP-Schlüsselpaar-Generator\n\nWerkzeugbeschreibung:\nPGP-Schlüsselpaar-Generator ist ein Werkzeug, das zur Generierung von PGP-Schlüsselpaaren verwendet wird. Benutzer können Informationen wie Benutzername, E-Mail, Kommentar, Algorithmus, Schlüsselgröße, Ablaufzeit und Passphrase eingeben, um einen öffentlichen Schlüssel und einen privaten Schlüssel zu generieren. Das Werkzeug unterstützt RSA- und ECC-Algorithmen und ermöglicht es Benutzern, verschiedene Schlüsselgrößen und Ablaufzeiten zu wählen. Das generierte Schlüsselpaar kann für Verschlüsselungs- und Signierungsoperationen verwendet werden.\n\nAnwendungsfälle:\n1. Verschlüsselung und Signierung: PGP-Schlüsselpaare können verwendet werden, um E-Mails, Dateien und Nachrichten zu verschlüsseln und zu signieren, um die Privatsphäre und Sicherheit der Benutzer zu schützen.\n2. Sichere Kommunikation: PGP-Schlüsselpaare können für sichere Kommunikation verwendet werden, um sicherzustellen, dass der Inhalt der Kommunikation nicht abgehört oder manipuliert wird.\n3. Digitale Zertifikate: PGP-Schlüsselpaare können verwendet werden, um digitale Zertifikate zu generieren, um die Identität und Autorisierung von Benutzern zu überprüfen.\n\nAnleitung:\n1. Geben Sie Informationen wie Benutzername, E-Mail, Kommentar, Algorithmus, Schlüsselgröße, Ablaufzeit und Passphrase ein.\n2. Klicken Sie auf die Schaltfläche \"Generieren\", um einen öffentlichen Schlüssel und einen privaten Schlüssel zu generieren.\n3. Speichern Sie den generierten öffentlichen Schlüssel und privaten Schlüssel lokal oder exportieren Sie sie in andere Anwendungen.\n4. Verwenden Sie das generierte Schlüsselpaar für Verschlüsselungs-, Signierungs-, Verifizierungs- und Entschlüsselungsoperationen.\n\nHinweise:\n1. Die Sicherheit des Schlüsselpaars hängt von der Stärke und Vertraulichkeit der Passphrase ab. Es wird empfohlen, ein starkes Passwort zu verwenden und die Passphrase sicher aufzubewahren.\n2. Die Ablaufzeit des Schlüsselpaars sollte entsprechend den tatsächlichen Bedürfnissen festgelegt werden, um die Gültigkeit und Sicherheit des Schlüssels zu gewährleisten.\n3. Die Generierung des Schlüsselpaars kann je nach Faktoren wie Algorithmus, Schlüsselgröße und Computerleistung einige Zeit in Anspruch nehmen. Bitte haben Sie Geduld und warten Sie auf das Generierungsergebnis."
+  },
+  "fr": {
+    "$name": "Générateur de paires de clés PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "clé",
+      "générer",
+      "générateur",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192",
+      "paire de clés",
+      "chiffrement",
+      "signature",
+      "communication sécurisée",
+      "certificat numérique",
+      "phrase secrète",
+      "temps d'expiration"
+    ],
+    "$description": "Nom de l'outil: Générateur de paires de clés PGP\n\nDescription de l'outil:\nLe générateur de paires de clés PGP est un outil utilisé pour générer des paires de clés PGP. Les utilisateurs peuvent saisir des informations telles que le nom d'utilisateur, l'e-mail, le commentaire, l'algorithme, la taille de la clé, le temps d'expiration et la phrase secrète pour générer une clé publique et une clé privée. L'outil prend en charge les algorithmes RSA et ECC et permet aux utilisateurs de choisir différentes tailles de clé et temps d'expiration. La paire de clés générée peut être utilisée pour des opérations de chiffrement et de signature.\n\nCas d'utilisation:\n1. Chiffrement et signature: Les paires de clés PGP peuvent être utilisées pour chiffrer et signer des e-mails, des fichiers et des messages afin de protéger la vie privée et la sécurité des utilisateurs.\n2. Communication sécurisée: Les paires de clés PGP peuvent être utilisées pour une communication sécurisée afin de garantir que le contenu de la communication n'est pas écouté ou altéré.\n3. Certificats numériques: Les paires de clés PGP peuvent être utilisées pour générer des certificats numériques afin de vérifier l'identité et les autorisations des utilisateurs.\n\nInstructions:\n1. Saisissez des informations telles que le nom d'utilisateur, l'e-mail, le commentaire, l'algorithme, la taille de la clé, le temps d'expiration et la phrase secrète.\n2. Cliquez sur le bouton \"Générer\" pour générer une clé publique et une clé privée.\n3. Enregistrez la clé publique et la clé privée générées localement ou exportez-les vers d'autres applications.\n4. Utilisez la paire de clés générée pour des opérations de chiffrement, de signature, de vérification et de déchiffrement.\n\nNotes:\n1. La sécurité de la paire de clés dépend de la force et de la confidentialité de la phrase secrète. Il est recommandé d'utiliser un mot de passe fort et de garder la phrase secrète en sécurité.\n2. Le temps d'expiration de la paire de clés doit être défini en fonction des besoins réels pour garantir la validité et la sécurité de la clé.\n3. La génération de la paire de clés peut prendre du temps, en fonction de facteurs tels que l'algorithme, la taille de la clé et les performances de l'ordinateur. Veuillez patienter et attendre le résultat de la génération."
+  },
+  "it": {
+    "$name": "Generatore di Coppie di Chiavi PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "chiave",
+      "generare",
+      "generatore",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192",
+      "coppia di chiavi",
+      "crittografia",
+      "firma",
+      "comunicazione sicura",
+      "certificato digitale",
+      "frase d'accesso",
+      "tempo di scadenza"
+    ],
+    "$description": "Nome dello strumento: Generatore di coppie di chiavi PGP\n\nDescrizione dello strumento:\nIl Generatore di coppie di chiavi PGP è uno strumento utilizzato per generare coppie di chiavi PGP. Gli utenti possono inserire informazioni come nome utente, email, commento, algoritmo, dimensione della chiave, tempo di scadenza e passphrase per generare una chiave pubblica e una chiave privata. Lo strumento supporta gli algoritmi RSA ed ECC e consente agli utenti di scegliere diverse dimensioni della chiave e tempi di scadenza. La coppia di chiavi generata può essere utilizzata per operazioni di crittografia e firma.\n\nCasi d'uso:\n1. Crittografia e firma: le coppie di chiavi PGP possono essere utilizzate per crittografare e firmare email, file e messaggi per proteggere la privacy e la sicurezza degli utenti.\n2. Comunicazione sicura: le coppie di chiavi PGP possono essere utilizzate per comunicazioni sicure per garantire che il contenuto della comunicazione non venga intercettato o manomesso.\n3. Certificati digitali: le coppie di chiavi PGP possono essere utilizzate per generare certificati digitali per verificare l'identità e le autorizzazioni degli utenti.\n\nIstruzioni:\n1. Inserire informazioni come nome utente, email, commento, algoritmo, dimensione della chiave, tempo di scadenza e passphrase.\n2. Fare clic sul pulsante \"Genera\" per generare una chiave pubblica e una chiave privata.\n3. Salvare la chiave pubblica e privata generata localmente o esportarle in altre applicazioni.\n4. Utilizzare la coppia di chiavi generata per operazioni di crittografia, firma, verifica e decrittografia.\n\nNote:\n1. La sicurezza della coppia di chiavi dipende dalla forza e dalla riservatezza della passphrase. Si consiglia di utilizzare una password forte e di tenere la passphrase al sicuro.\n2. Il tempo di scadenza della coppia di chiavi dovrebbe essere impostato in base alle esigenze effettive per garantire la validità e la sicurezza della chiave.\n3. La generazione della coppia di chiavi potrebbe richiedere del tempo, a seconda di fattori come l'algoritmo, la dimensione della chiave e le prestazioni del computer. Si prega di essere pazienti e di attendere il risultato della generazione."
+  },
+  "ru": {
+    "$name": "Генератор пар ключей PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "ключ",
+      "генерировать",
+      "генератор",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192",
+      "пара ключей",
+      "шифрование",
+      "подпись",
+      "безопасное общение",
+      "цифровой сертификат",
+      "пароль",
+      "время истечения"
+    ],
+    "$description": "Название инструмента: Генератор пар ключей PGP\n\nОписание инструмента:\nГенератор пар ключей PGP - это инструмент, используемый для генерации пар ключей PGP. Пользователи могут ввести информацию, такую как имя пользователя, электронную почту, комментарий, алгоритм, размер ключа, время истечения срока действия и пароль, чтобы сгенерировать открытый и закрытый ключи. Инструмент поддерживает алгоритмы RSA и ECC и позволяет пользователям выбирать различные размеры ключей и времена истечения срока действия. Сгенерированная пара ключей может использоваться для операций шифрования и подписи.\n\nВарианты использования:\n1. Шифрование и подпись: пары ключей PGP могут использоваться для шифрования и подписи электронных писем, файлов и сообщений для защиты конфиденциальности и безопасности пользователей.\n2. Безопасная связь: пары ключей PGP могут использоваться для безопасной связи, чтобы гарантировать, что содержимое коммуникации не будет прослушиваться или подвергаться вмешательству.\n3. Цифровые сертификаты: пары ключей PGP могут использоваться для генерации цифровых сертификатов для проверки подлинности и авторизации пользователей.\n\nИнструкции:\n1. Введите информацию, такую как имя пользователя, электронную почту, комментарий, алгоритм, размер ключа, время истечения срока действия и пароль.\n2. Нажмите кнопку \"Сгенерировать\", чтобы сгенерировать открытый и закрытый ключи.\n3. Сохраните сгенерированные открытый и закрытый ключи локально или экспортируйте их в другие приложения.\n4. Используйте сгенерированную пару ключей для операций шифрования, подписи, проверки и расшифровки.\n\nПримечания:\n1. Безопасность пары ключей зависит от силы и конфиденциальности пароля. Рекомендуется использовать надежный пароль и сохранять пароль в безопасности.\n2. Время истечения срока действия пары ключей должно быть установлено в соответствии с реальными потребностями, чтобы гарантировать действительность и безопасность ключа.\n3. Генерация пары ключей может занять некоторое время в зависимости от таких факторов, как алгоритм, размер ключа и производительность компьютера. Пожалуйста, будьте терпеливы и дождитесь результата генерации."
+  },
+  "pt": {
+    "$name": "Gerador de Par de Chaves PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "chave",
+      "gerar",
+      "gerador",
+      "rsa",
+      "ecc",
+      "2048",
+      "4096",
+      "8192",
+      "par de chaves",
+      "criptografia",
+      "assinatura",
+      "comunicação segura",
+      "certificado digital",
+      "frase secreta",
+      "tempo de expiração"
+    ],
+    "$description": "Nome da Ferramenta: Gerador de Par de Chaves PGP\n\nDescrição da Ferramenta:\nO Gerador de Par de Chaves PGP é uma ferramenta usada para gerar pares de chaves PGP. Os usuários podem inserir informações como nome de usuário, e-mail, comentário, algoritmo, tamanho da chave, tempo de expiração e frase secreta para gerar uma chave pública e uma chave privada. A ferramenta suporta os algoritmos RSA e ECC e permite que os usuários escolham diferentes tamanhos de chave e tempos de expiração. O par de chaves gerado pode ser usado para operações de criptografia e assinatura.\n\nCasos de Uso:\n1. Criptografia e Assinatura: Pares de chaves PGP podem ser usados para criptografar e assinar e-mails, arquivos e mensagens para proteger a privacidade e a segurança dos usuários.\n2. Comunicação Segura: Pares de chaves PGP podem ser usados para comunicação segura para garantir que o conteúdo da comunicação não seja interceptado ou adulterado.\n3. Certificados Digitais: Pares de chaves PGP podem ser usados para gerar certificados digitais para verificar a identidade e autorização dos usuários.\n\nInstruções:\n1. Insira informações como nome de usuário, e-mail, comentário, algoritmo, tamanho da chave, tempo de expiração e frase secreta.\n2. Clique no botão \"Gerar\" para gerar uma chave pública e uma chave privada.\n3. Salve a chave pública e privada gerada localmente ou exporte-as para outras aplicações.\n4. Use o par de chaves gerado para operações de criptografia, assinatura, verificação e descriptografia.\n\nObservações:\n1. A segurança do par de chaves depende da força e confidencialidade da frase secreta. É recomendável usar uma senha forte e manter a frase secreta segura.\n2. O tempo de expiração do par de chaves deve ser definido de acordo com as necessidades reais para garantir a validade e segurança da chave.\n3. A geração do par de chaves pode levar algum tempo, dependendo de fatores como algoritmo, tamanho da chave e desempenho do computador. Por favor, tenha paciência e aguarde o resultado da geração."
   },
   "en": {
     "$name": "PGP Key Pair Generator",
-    "$description": "Generate PGP Key Pairs",
     "$keywords": [
       "GPG",
       "PGP",
@@ -21,97 +241,15 @@
       "ecc",
       "2048",
       "4096",
-      "8192"
-    ]
-  },
-  "de": {
-    "$name": "PGP -Schlüsselpaargenerator",
-    "$description": "Generieren Sie ein PGP -Schlüsselpaar",
-    "$keywords": [
-      "Taste",
-      "generieren",
-      "Erbauer"
-    ]
-  },
-  "es": {
-    "$name": "Generador de pares de teclas PGP",
-    "$description": "Generar un par de claves PGP",
-    "$keywords": [
-      "Llave",
-      "generar",
-      "Constructor"
-    ]
-  },
-  "fr": {
-    "$name": "Générateur de paires de clés PGP",
-    "$description": "Générer une paire de clés PGP",
-    "$keywords": [
-      "Clé",
-      "générer",
-      "Constructeur"
-    ]
-  },
-  "it": {
-    "$name": "Generatore di coppie di tasti PGP",
-    "$description": "Generare coppia di chiavi PGP",
-    "$keywords": [
-      "Chiave",
-      "creare",
-      "Costruttore"
-    ]
-  },
-  "ja": {
-    "$name": "PGPキーペアジェネレーター",
-    "$description": "PGPキーペアを生成します",
-    "$keywords": [
-      "鍵",
-      "生成",
-      "ビルダー"
-    ]
-  },
-  "ko": {
-    "$name": "PGP 키 쌍 생성기",
-    "$description": "PGP 키 쌍을 생성하십시오",
-    "$keywords": [
-      "열쇠",
-      "생성하다",
-      "빌더"
-    ]
-  },
-  "pt": {
-    "$name": "Gerador de pares de chave PGP",
-    "$description": "Gerar par de chaves pgp",
-    "$keywords": [
-      "Chave",
-      "gerar",
-      "Construtor"
-    ]
-  },
-  "ru": {
-    "$name": "Генератор пары ключей PGP",
-    "$description": "Генерировать пару ключей PGP",
-    "$keywords": [
-      "Ключ",
-      "генерировать",
-      "Строитель"
-    ]
-  },
-  "zh-tw": {
-    "$name": "PGP 密鑰對生成器",
-    "$description": "生成 PGP 密鑰對",
-    "$keywords": [
-      "密鑰",
-      "生成",
-      "生成器"
-    ]
-  },
-  "zh-cn": {
-    "$name": "PGP 密钥对生成器",
-    "$description": "生成 PGP 密钥对",
-    "$keywords": [
-      "密钥",
-      "生成",
-      "生成器"
-    ]
+      "8192",
+      "key pair",
+      "encryption",
+      "signature",
+      "secure communication",
+      "digital certificate",
+      "passphrase",
+      "expiration time"
+    ],
+    "$description": "Tool Name: PGP Key Pair Generator\n\nTool Description:\nPGP Key Pair Generator is a tool used to generate PGP key pairs. Users can input information such as username, email, comment, algorithm, key size, expiration time, and passphrase to generate a public key and a private key. The tool supports RSA and ECC algorithms and allows users to choose different key sizes and expiration times. The generated key pair can be used for encryption and signing operations.\n\nUse Cases:\n1. Encryption and Signing: PGP key pairs can be used to encrypt and sign emails, files, and messages to protect users' privacy and security.\n2. Secure Communication: PGP key pairs can be used for secure communication to ensure that communication content is not eavesdropped or tampered with.\n3. Digital Certificates: PGP key pairs can be used to generate digital certificates to verify users' identities and authorizations.\n\nInstructions:\n1. Input information such as username, email, comment, algorithm, key size, expiration time, and passphrase.\n2. Click the \"Generate\" button to generate a public key and a private key.\n3. Save the generated public key and private key locally or export them to other applications.\n4. Use the generated key pair for encryption, signing, verification, and decryption operations.\n\nNotes:\n1. The security of the key pair depends on the strength and confidentiality of the passphrase. It is recommended to use a strong password and keep the passphrase safe.\n2. The expiration time of the key pair should be set according to actual needs to ensure the validity and security of the key.\n3. The generation of the key pair may take some time, depending on factors such as algorithm, key size, and computer performance. Please be patient and wait for the generation result."
   }
 }

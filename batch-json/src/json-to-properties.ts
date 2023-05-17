@@ -1,6 +1,6 @@
 import register from "./utils/register"
 import prettyJson from 'json-stringify-pretty-compact'
-import {JsonExample} from './example'
+import {JsonExample} from '@he3-kit/utils'
 import { parseErrorLine } from "./utils/json2Yaml"
 export default register({
   inputHandler: (str: string) => {

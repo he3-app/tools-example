@@ -1,102 +1,167 @@
 {
-    "zh": {
-      "$name": "UUID/ULID/NANOID 生成器",
-      "$description": "生成 UUID 或 ULID 或 NANOID",
-      "$keywords": [
-        "生成",
-        "唯一"
-      ]
-    },
-    "en": {
-      "$name": "UUID/ULID/NANOID Generator",
-      "$description": "Generate UUID or ULID or NANOID",
-      "$keywords": [
-        "UUID",
-        "ULID",
-        "NANOID",
-        "ID",
-        "Generate",
-        "unique"
-      ]
-    },
-    "de": {
-      "$name": "UUID/ULID/NANOID -Generator",
-      "$description": "Uuid oder ulid erzeugen",
-      "$keywords": [
-        "generieren",
-        "nur"
-      ]
-    },
-    "es": {
-      "$name": "Uuid/Ulid/Nanoid Generator",
-      "$description": "Generare uuid o ulid o nanoid",
-      "$keywords": [
-        "generar",
-        "solo"
-      ]
-    },
-    "fr": {
-      "$name": "Générateur UUID / ULID  / NANOID",
-      "$description": "Générer UUID ou ULID or NANOID",
-      "$keywords": [
-        "générer",
-        "seul"
-      ]
-    },
-    "it": {
-      "$name": "Generatore UUID/Ulid/Nanoid",
-      "$description": "Generare uuid o ulid o nanoid",
-      "$keywords": [
-        "creare",
-        "soltanto"
-      ]
-    },
-    "ja": {
-      "$name": "uuid/ulid/nanoidジェネレーター",
-      "$description": "UUID または ULID または NANOID を生成します,",
-      "$keywords": [
-        "生成",
-        "それだけ"
-      ]
-    },
-    "ko": {
-      "$name": "uuid/ulid/nanoid 생성기",
-      "$description": "UUID 또는 ULID 또는 NANOID를 생성합니다.",
-      "$keywords": [
-        "생성하다",
-        "오직"
-      ]
-    },
-    "pt": {
-      "$name": "Gerador Uuid/Ulid/Nanoid",
-      "$description": "Gera UUID ou ULID ou NANOID",
-      "$keywords": [
-        "gerar",
-        "apenas"
-      ]
-    },
-    "ru": {
-      "$name": "Uuid/ulid/nanoid Generator",
-      "$description":  "Генерирует UUID или ULID или NANOID",
-      "$keywords": [
-        "генерировать",
-        "только"
-      ]
-    },
-    "zh-tw": {
-      "$name": "UUID/ULID/NANOID 生成器",
-      "$description": "生成 UUID、ULID 或 NANOID",
-      "$keywords": [
-        "生成",
-        "唯一"
-      ]
-    },
-    "zh-cn": {
-      "$name": "UUID/ULID/NANOID 生成器",
-      "$description": "生成 UUID、ULID 或 NANOID",
-      "$keywords": [
-        "生成",
-        "唯一"
-      ]
-    }
+  "zh-cn": {
+    "$name": "UUID/ULID/NANOID生成器",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "生成",
+      "唯一",
+      "唯一标识符",
+      "生成器",
+      "随机值"
+    ],
+    "$description": "UUID/ULID/NANOID生成器工具文档\n\nUUID/ULID/NANOID生成器工具是一种用于生成UUID、ULID和NANOID的工具。它可以根据用户需求生成不同版本的UUID，以及指定数量的ULID和NANOID。\n\n特点：\n\n1. 支持生成UUID、ULID和NANOID。\n\n2. 支持生成不同版本的UUID，包括v1、v3、v4和v5。\n\n3. 支持指定要生成的ULID和NANOID的数量。\n\n4. 支持选择在生成UUID时是否包含分隔符。\n\n用途：\n\n1. API开发和测试：在开发或测试API时，开发人员经常需要生成UUID、ULID或NANOID作为唯一标识符。使用UUID/ULID/NANOID生成器工具可以快速轻松地生成这些标识符。\n\n2. 数据库设计：在设计数据库时，UUID、ULID或NANOID通常用作主键或外键。使用UUID/ULID/NANOID生成器工具可以快速轻松地生成这些标识符。\n\n3. 数据分析：数据分析师需要处理和分析各种数据，包括UUID、ULID和NANOID。使用此工具，他们可以轻松生成这些标识符，以更好地了解数据结构和内容。\n\n4. 代码开发：在代码开发过程中，通常需要随机字符串或数字。使用此工具，可以快速轻松地生成这些随机值。\n\n说明：\n\n1. 选择要生成的类型，包括UUID、ULID和NANOID。\n\n2. 根据需要选择要生成的UUID版本，包括v1、v3、v4和v5。\n\n3. 如果生成ULID或NANOID，请指定要生成的数量。\n\n4. 如果生成UUID，请选择是否包含分隔符。\n\n5. 单击“生成”按钮以生成相应的标识符或随机值。\n\n注意事项：\n\n1. 在生成UUID时，如果未选择分隔符，则生成的UUID将是一个连续的字符串，可能难以阅读。\n\n2. 在生成大量ULID或NANOID时，页面可能会变慢或崩溃。\n\n3. 在生成随机字符串或数字时，请务必指定长度和类型，以避免生成不符合要求的值。\n\n4. 此工具仅用于生成标识符和随机值，不涉及任何敏感信息。请放心使用。"
+  },
+  "zh-tw": {
+    "$name": "UUID/ULID/NANOID 產生器",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "產生",
+      "唯一",
+      "唯一識別碼",
+      "產生器",
+      "隨機值"
+    ],
+    "$description": "UUID/ULID/NANOID生成器工具文檔\n\nUUID/ULID/NANOID生成器工具是一個用於生成UUID、ULID和NANOID的工具。它可以根據用戶需求生成不同版本的UUID，以及指定數量的ULID和NANOID。\n\n特點：\n\n1. 支持生成UUID、ULID和NANOID。\n\n2. 支持生成不同版本的UUID，包括v1、v3、v4和v5。\n\n3. 支持指定要生成的ULID和NANOID的數量。\n\n4. 支持選擇在生成UUID時是否包含分隔符。\n\n用途：\n\n1. API開發和測試：在開發或測試API時，開發人員通常需要生成UUID、ULID或NANOID作為唯一標識符。使用UUID/ULID/NANOID生成器工具可以快速輕鬆地生成這些標識符。\n\n2. 數據庫設計：在設計數據庫時，通常使用UUID、ULID或NANOID作為主鍵或外鍵。使用UUID/ULID/NANOID生成器工具可以快速輕鬆地生成這些標識符。\n\n3. 數據分析：數據分析師需要處理和分析各種數據，包括UUID、ULID和NANOID。使用這個工具，他們可以輕鬆地生成這些標識符，以更好地理解數據結構和內容。\n\n4. 代碼開發：在代碼開發期間，通常需要隨機字符串或數字。使用這個工具，可以快速輕鬆地生成這些隨機值。\n\n使用說明：\n\n1. 選擇要生成的類型，包括UUID、ULID和NANOID。\n\n2. 根據需要選擇要生成的UUID版本，包括v1、v3、v4和v5。\n\n3. 如果要生成ULID或NANOID，請指定要生成的數量。\n\n4. 如果要生成UUID，請選擇是否包含分隔符。\n\n5. 點擊“生成”按鈕生成相應的標識符或隨機值。\n\n注意事項：\n\n1. 在生成UUID時，如果沒有選擇分隔符，生成的UUID將是一個連續的字符串，可能難以閱讀。\n\n2. 在生成大量的ULID或NANOID時，頁面可能變得緩慢或崩潰。\n\n3. 在生成隨機字符串或數字時，請務必指定長度和類型，以避免生成不符合要求的值。\n\n4. 這個工具僅用於生成標識符和隨機值，不涉及任何敏感信息。請放心使用。"
+  },
+  "es": {
+    "$name": "Generador de UUID/ULID/NANOID",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Generar",
+      "único",
+      "Identificador único",
+      "Generador",
+      "Valor aleatorio"
+    ],
+    "$description": "Traducción: Documentación de la herramienta generadora de UUID/ULID/NANOID\n\nLa herramienta generadora de UUID/ULID/NANOID es una herramienta utilizada para generar UUIDs, ULIDs y NANOIDs. Puede generar diferentes versiones de UUIDs según las necesidades del usuario, así como un número especificado de ULIDs y NANOIDs.\n\nCaracterísticas:\n\n1. Admite la generación de UUIDs, ULIDs y NANOIDs.\n\n2. Admite la generación de diferentes versiones de UUIDs, incluyendo v1, v3, v4 y v5.\n\n3. Admite la especificación del número de ULIDs y NANOIDs a generar.\n\n4. Admite la elección de si incluir separadores al generar UUIDs.\n\nCasos de uso:\n\n1. Desarrollo y prueba de API: al desarrollar o probar APIs, los desarrolladores a menudo necesitan generar UUIDs, ULIDs o NANOIDs como identificadores únicos. Usando la herramienta generadora de UUID/ULID/NANOID, se pueden generar estos identificadores de manera rápida y sencilla.\n\n2. Diseño de bases de datos: al diseñar bases de datos, a menudo se utilizan UUIDs, ULIDs o NANOIDs como claves primarias o foráneas. Usando la herramienta generadora de UUID/ULID/NANOID, se pueden generar estos identificadores de manera rápida y sencilla.\n\n3. Análisis de datos: los analistas de datos necesitan procesar y analizar varios datos, incluyendo UUIDs, ULIDs y NANOIDs. Usando esta herramienta, pueden generar fácilmente estos identificadores para comprender mejor la estructura y el contenido de los datos.\n\n4. Desarrollo de código: durante el desarrollo de código, a menudo se necesitan cadenas o números aleatorios. Usando esta herramienta, estos valores aleatorios se pueden generar de manera rápida y sencilla.\n\nInstrucciones:\n\n1. Seleccione el tipo a generar, incluyendo UUID, ULID y NANOID.\n\n2. Elija la versión de UUID a generar, incluyendo v1, v3, v4 y v5, según sea necesario.\n\n3. Si se genera ULID o NANOID, especifique el número a generar.\n\n4. Si se genera UUID, elija si incluir separadores.\n\n5. Haga clic en el botón \"Generar\" para generar el identificador correspondiente o el valor aleatorio.\n\nNotas:\n\n1. Al generar UUIDs, si no se seleccionan separadores, el UUID generado será una cadena continua que puede ser difícil de leer.\n\n2. Al generar un gran número de ULIDs o NANOIDs, la página puede volverse lenta o bloquearse.\n\n3. Al generar cadenas o números aleatorios, asegúrese de especificar la longitud y el tipo para evitar generar valores que no cumplan con los requisitos.\n\n4. Esta herramienta solo se utiliza para generar identificadores y valores aleatorios y no implica ninguna información confidencial. Úsela con confianza."
+  },
+  "ja": {
+    "$name": "UUID/ULID/NANOIDジェネレーター",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "生成",
+      "ユニーク",
+      "ユニーク識別子",
+      "ジェネレーター",
+      "ランダム値"
+    ],
+    "$description": "UUID/ULID/NANOIDジェネレーターツールのドキュメンテーション\n\nUUID/ULID/NANOIDジェネレーターツールは、UUID、ULID、およびNANOIDを生成するために使用されるツールです。ユーザーのニーズに応じて、異なるバージョンのUUIDを生成することができます。また、指定された数のULIDおよびNANOIDを生成することもできます。\n\n特徴：\n\n1. UUID、ULID、およびNANOIDの生成をサポートしています。\n\n2. v1、v3、v4、およびv5を含む、異なるバージョンのUUIDの生成をサポートしています。\n\n3. 生成するULIDおよびNANOIDの数を指定することができます。\n\n4. UUIDを生成する際に区切り記号を含めるかどうかを選択することができます。\n\n使用例：\n\n1. APIの開発とテスト：APIを開発またはテストする際に、開発者は一意の識別子としてUUID、ULID、またはNANOIDを生成する必要があります。UUID/ULID/NANOIDジェネレーターツールを使用することで、これらの識別子を簡単かつ迅速に生成することができます。\n\n2. データベース設計：データベースを設計する際には、主キーまたは外部キーとしてUUID、ULID、またはNANOIDがよく使用されます。UUID/ULID/NANOIDジェネレーターツールを使用することで、これらの識別子を簡単かつ迅速に生成することができます。\n\n3. データ分析：データアナリストは、UUID、ULID、およびNANOIDを含むさまざまなデータを処理および分析する必要があります。このツールを使用することで、これらの識別子を簡単かつ迅速に生成し、データの構造と内容をよりよく理解することができます。\n\n4. コード開発：コード開発中には、ランダムな文字列や数字が必要な場合がよくあります。このツールを使用することで、これらのランダムな値を簡単かつ迅速に生成することができます。\n\n手順：\n\n1. 生成するタイプを選択します。UUID、ULID、およびNANOIDがあります。\n\n2. 必要に応じて、v1、v3、v4、およびv5を含むUUIDのバージョンを選択します。\n\n3. ULIDまたはNANOIDを生成する場合は、生成する数を指定します。\n\n4. UUIDを生成する場合は、区切り記号を含めるかどうかを選択します。\n\n5. 対応する識別子またはランダムな値を生成するには、「生成」ボタンをクリックします。\n\n注意事項：\n\n1. UUIDを生成する場合、区切り記号が選択されていない場合、生成されたUUIDは読みにくい連続した文字列になる可能性があります。\n\n2. 大量のULIDまたはNANOIDを生成する場合、ページが遅くなったりクラッシュする可能性があります。\n\n3. ランダムな文字列や数字を生成する場合は、要件を満たさない値を生成しないように、長さとタイプを指定してください。\n\n4. このツールは識別子およびランダムな値を生成するためにのみ使用され、機密情報に関わるものではありません。安心して使用してください。"
+  },
+  "ko": {
+    "$name": "UUID/ULID/NANOID 생성기",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "생성",
+      "고유",
+      "고유 식별자",
+      "생성기",
+      "랜덤 값"
+    ],
+    "$description": "UUID/ULID/NANOID 생성기 도구 문서\n\nUUID/ULID/NANOID 생성기 도구는 UUID, ULID 및 NANOID를 생성하는 데 사용되는 도구입니다. 사용자의 요구에 따라 다른 버전의 UUID를 생성할 수 있으며, 지정된 수의 ULID 및 NANOID를 생성할 수도 있습니다.\n\n기능:\n\n1. UUID, ULID 및 NANOID 생성 지원\n\n2. v1, v3, v4 및 v5를 포함한 다양한 버전의 UUID 생성 지원\n\n3. 생성할 ULID 및 NANOID의 수 지정 지원\n\n4. UUID 생성 시 구분 기호 포함 여부 선택 지원\n\n사용 사례:\n\n1. API 개발 및 테스트: API를 개발하거나 테스트할 때 개발자는 고유 식별자로 UUID, ULID 또는 NANOID를 생성해야 합니다. UUID/ULID/NANOID 생성기 도구를 사용하면 이러한 식별자를 빠르고 쉽게 생성할 수 있습니다.\n\n2. 데이터베이스 설계: 데이터베이스를 설계할 때 주 키 또는 외래 키로 UUID, ULID 또는 NANOID가 자주 사용됩니다. UUID/ULID/NANOID 생성기 도구를 사용하면 이러한 식별자를 빠르고 쉽게 생성할 수 있습니다.\n\n3. 데이터 분석: 데이터 분석가는 UUID, ULID 및 NANOID를 포함한 다양한 데이터를 처리하고 분석해야 합니다. 이 도구를 사용하면 이러한 식별자를 쉽게 생성하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다.\n\n4. 코드 개발: 코드 개발 중에는 무작위 문자열 또는 숫자가 자주 필요합니다. 이 도구를 사용하면 이러한 무작위 값들을 빠르고 쉽게 생성할 수 있습니다.\n\n사용 방법:\n\n1. 생성할 유형을 선택하십시오. UUID, ULID 및 NANOID를 선택할 수 있습니다.\n\n2. 필요에 따라 v1, v3, v4 및 v5를 포함한 UUID 버전을 선택하십시오.\n\n3. ULID 또는 NANOID를 생성하는 경우 생성할 수를 지정하십시오.\n\n4. UUID를 생성하는 경우 구분 기호 포함 여부를 선택하십시오.\n\n5. \"생성\" 버튼을 클릭하여 해당 식별자 또는 무작위 값 생성.\n\n참고 사항:\n\n1. UUID를 생성할 때 구분 기호를 선택하지 않으면 생성된 UUID는 읽기 어려울 수 있는 연속적인 문자열이 됩니다.\n\n2. 대량의 ULID 또는 NANOID를 생성하는 경우 페이지가 느려지거나 충돌할 수 있습니다.\n\n3. 무작위 문자열 또는 숫자를 생성할 때 요구 사항을 충족하지 않는 값을 생성하지 않도록 길이와 유형을 지정하십시오.\n\n4. 이 도구는 식별자 및 무작위 값만 생성하며, 민감한 정보와 관련이 없습니다. 자신감을 가지고 사용하십시오."
+  },
+  "de": {
+    "$name": "UUID/ULID/NANOID Generator",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Generieren",
+      "Eindeutig",
+      "Eindeutige Kennung",
+      "Generator",
+      "Zufälliger Wert"
+    ],
+    "$description": "UUID/ULID/NANOID Generator Tool Dokumentation\n\nDas UUID/ULID/NANOID Generator Tool ist ein Tool, das verwendet wird, um UUIDs, ULIDs und NANOIDs zu generieren. Es kann verschiedene Versionen von UUIDs basierend auf den Bedürfnissen des Benutzers generieren sowie eine bestimmte Anzahl von ULIDs und NANOIDs.\n\nFunktionen:\n\n1. Unterstützt die Generierung von UUIDs, ULIDs und NANOIDs.\n\n2. Unterstützt die Generierung verschiedener Versionen von UUIDs, einschließlich v1, v3, v4 und v5.\n\n3. Unterstützt die Angabe der Anzahl von ULIDs und NANOIDs, die generiert werden sollen.\n\n4. Unterstützt die Auswahl, ob Trennzeichen bei der Generierung von UUIDs enthalten sein sollen.\n\nAnwendungsfälle:\n\n1. API-Entwicklung und -Test: Bei der Entwicklung oder dem Testen von APIs müssen Entwickler oft UUIDs, ULIDs oder NANOIDs als eindeutige Identifikatoren generieren. Mit dem UUID/ULID/NANOID Generator Tool können diese Identifikatoren schnell und einfach generiert werden.\n\n2. Datenbankdesign: Bei der Gestaltung von Datenbanken werden oft UUIDs, ULIDs oder NANOIDs als Primär- oder Fremdschlüssel verwendet. Mit dem UUID/ULID/NANOID Generator Tool können diese Identifikatoren schnell und einfach generiert werden.\n\n3. Datenanalyse: Datenanalysten müssen verschiedene Daten verarbeiten und analysieren, einschließlich UUIDs, ULIDs und NANOIDs. Mit diesem Tool können sie diese Identifikatoren einfach generieren, um die Datenstruktur und den Inhalt besser zu verstehen.\n\n4. Code-Entwicklung: Während der Code-Entwicklung werden oft zufällige Zeichenfolgen oder Zahlen benötigt. Mit diesem Tool können diese zufälligen Werte schnell und einfach generiert werden.\n\nAnweisungen:\n\n1. Wählen Sie den Typ aus, der generiert werden soll, einschließlich UUID, ULID und NANOID.\n\n2. Wählen Sie die Version von UUID aus, die bei Bedarf generiert werden soll, einschließlich v1, v3, v4 und v5.\n\n3. Wenn ULID oder NANOID generiert werden sollen, geben Sie die Anzahl an, die generiert werden soll.\n\n4. Wenn UUID generiert wird, wählen Sie aus, ob Trennzeichen enthalten sein sollen.\n\n5. Klicken Sie auf die Schaltfläche \"Generieren\", um den entsprechenden Identifikator oder zufälligen Wert zu generieren.\n\nHinweise:\n\n1. Wenn UUIDs generiert werden und keine Trennzeichen ausgewählt sind, wird die generierte UUID eine kontinuierliche Zeichenfolge sein, die möglicherweise schwer zu lesen ist.\n\n2. Wenn eine große Anzahl von ULIDs oder NANOIDs generiert wird, kann die Seite langsam werden oder abstürzen.\n\n3. Wenn zufällige Zeichenfolgen oder Zahlen generiert werden, stellen Sie sicher, dass Länge und Typ angegeben werden, um das Generieren von Werten zu vermeiden, die nicht den Anforderungen entsprechen.\n\n4. Dieses Tool dient nur zur Generierung von Identifikatoren und zufälligen Werten und enthält keine sensiblen Informationen. Bitte verwenden Sie es mit Vertrauen."
+  },
+  "fr": {
+    "$name": "Générateur UUID/ULID/NANOID",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Générer",
+      "unique",
+      "Identifiant unique",
+      "Générateur",
+      "Valeur aléatoire"
+    ],
+    "$description": "Documentation de l'outil de génération UUID/ULID/NANOID\n\nL'outil de génération UUID/ULID/NANOID est un outil utilisé pour générer des UUID, ULID et NANOID. Il peut générer différentes versions d'UUID en fonction des besoins de l'utilisateur, ainsi qu'un nombre spécifié d'ULID et de NANOID.\n\nFonctionnalités :\n\n1. Prise en charge de la génération d'UUID, d'ULID et de NANOID.\n\n2. Prise en charge de la génération de différentes versions d'UUID, y compris v1, v3, v4 et v5.\n\n3. Prise en charge de la spécification du nombre d'ULID et de NANOID à générer.\n\n4. Prise en charge du choix d'inclure ou non des séparateurs lors de la génération d'UUID.\n\nCas d'utilisation :\n\n1. Développement et test d'API : lors du développement ou du test d'API, les développeurs ont souvent besoin de générer des UUID, ULID ou NANOID en tant qu'identifiants uniques. L'utilisation de l'outil de génération UUID/ULID/NANOID peut générer rapidement et facilement ces identifiants.\n\n2. Conception de base de données : lors de la conception de bases de données, les UUID, ULID ou NANOID sont souvent utilisés en tant que clés primaires ou étrangères. L'utilisation de l'outil de génération UUID/ULID/NANOID peut générer rapidement et facilement ces identifiants.\n\n3. Analyse de données : les analystes de données doivent traiter et analyser diverses données, y compris des UUID, ULID et NANOID. En utilisant cet outil, ils peuvent facilement générer ces identifiants pour mieux comprendre la structure et le contenu des données.\n\n4. Développement de code : pendant le développement de code, des chaînes ou des nombres aléatoires sont souvent nécessaires. En utilisant cet outil, ces valeurs aléatoires peuvent être générées rapidement et facilement.\n\nInstructions :\n\n1. Sélectionnez le type à générer, y compris UUID, ULID et NANOID.\n\n2. Choisissez la version d'UUID à générer, y compris v1, v3, v4 et v5, selon les besoins.\n\n3. Si vous générez un ULID ou un NANOID, spécifiez le nombre à générer.\n\n4. Si vous générez un UUID, choisissez d'inclure ou non des séparateurs.\n\n5. Cliquez sur le bouton \"Générer\" pour générer l'identifiant ou la valeur aléatoire correspondant(e).\n\nNotes :\n\n1. Lors de la génération d'UUID, si aucun séparateur n'est sélectionné, l'UUID généré sera une chaîne continue qui peut être difficile à lire.\n\n2. Lors de la génération d'un grand nombre d'ULID ou de NANOID, la page peut devenir lente ou planter.\n\n3. Lors de la génération de chaînes ou de nombres aléatoires, assurez-vous de spécifier la longueur et le type pour éviter de générer des valeurs qui ne répondent pas aux exigences.\n\n4. Cet outil est uniquement utilisé pour générer des identifiants et des valeurs aléatoires et ne concerne aucune information sensible. Veuillez l'utiliser en toute confiance."
+  },
+  "it": {
+    "$name": "Generatore UUID/ULID/NANOID",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Generare",
+      "univoco",
+      "Identificatore univoco",
+      "Generatore",
+      "Valore casuale"
+    ],
+    "$description": "Documentazione dello Strumento Generatore di UUID/ULID/NANOID\n\nLo Strumento Generatore di UUID/ULID/NANOID è uno strumento utilizzato per generare UUID, ULID e NANOID. Può generare diverse versioni di UUID in base alle esigenze dell'utente, nonché un numero specificato di ULID e NANOID.\n\nCaratteristiche:\n\n1. Supporta la generazione di UUID, ULID e NANOID.\n\n2. Supporta la generazione di diverse versioni di UUID, tra cui v1, v3, v4 e v5.\n\n3. Supporta la specifica del numero di ULID e NANOID da generare.\n\n4. Supporta la scelta di includere o meno separatori durante la generazione di UUID.\n\nCasi d'uso:\n\n1. Sviluppo e test di API: durante lo sviluppo o il test di API, gli sviluppatori spesso hanno bisogno di generare UUID, ULID o NANOID come identificatori univoci. Utilizzando lo Strumento Generatore di UUID/ULID/NANOID, è possibile generare rapidamente e facilmente questi identificatori.\n\n2. Progettazione di database: durante la progettazione di database, UUID, ULID o NANOID vengono spesso utilizzati come chiavi primarie o esterne. Utilizzando lo Strumento Generatore di UUID/ULID/NANOID, è possibile generare rapidamente e facilmente questi identificatori.\n\n3. Analisi dei dati: gli analisti dei dati devono elaborare e analizzare vari dati, tra cui UUID, ULID e NANOID. Utilizzando questo strumento, possono generare facilmente questi identificatori per comprendere meglio la struttura e il contenuto dei dati.\n\n4. Sviluppo di codice: durante lo sviluppo di codice, spesso sono necessarie stringhe o numeri casuali. Utilizzando questo strumento, è possibile generare rapidamente e facilmente questi valori casuali.\n\nIstruzioni:\n\n1. Selezionare il tipo da generare, tra cui UUID, ULID e NANOID.\n\n2. Scegliere la versione di UUID da generare, tra cui v1, v3, v4 e v5, se necessario.\n\n3. Se si genera ULID o NANOID, specificare il numero da generare.\n\n4. Se si genera UUID, scegliere se includere o meno separatori.\n\n5. Fare clic sul pulsante \"Genera\" per generare l'identificatore o il valore casuale corrispondente.\n\nNote:\n\n1. Quando si generano UUID, se non vengono selezionati separatori, l'UUID generato sarà una stringa continua che potrebbe essere difficile da leggere.\n\n2. Quando si generano un gran numero di ULID o NANOID, la pagina potrebbe diventare lenta o bloccarsi.\n\n3. Quando si generano stringhe o numeri casuali, assicurarsi di specificare la lunghezza e il tipo per evitare di generare valori che non soddisfano i requisiti.\n\n4. Questo strumento viene utilizzato solo per generare identificatori e valori casuali e non implica alcuna informazione sensibile. Si prega di utilizzarlo con fiducia."
+  },
+  "ru": {
+    "$name": "Генератор UUID/ULID/NANOID",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Генерировать",
+      "Уникальный",
+      "Уникальный идентификатор",
+      "Генератор",
+      "Случайное значение"
+    ],
+    "$description": "Документация инструмента генерации UUID/ULID/NANOID\n\nИнструмент генерации UUID/ULID/NANOID используется для создания UUID, ULID и NANOID. Он может генерировать различные версии UUID в зависимости от потребностей пользователя, а также указанное количество ULID и NANOID.\n\nОсобенности:\n\n1. Поддержка генерации UUID, ULID и NANOID.\n\n2. Поддержка генерации различных версий UUID, включая v1, v3, v4 и v5.\n\n3. Поддержка указания количества генерируемых ULID и NANOID.\n\n4. Поддержка выбора включения разделителей при генерации UUID.\n\nПрименение:\n\n1. Разработка и тестирование API: При разработке или тестировании API разработчикам часто нужно генерировать UUID, ULID или NANOID в качестве уникальных идентификаторов. Использование инструмента генерации UUID/ULID/NANOID позволяет быстро и легко создавать эти идентификаторы.\n\n2. Проектирование баз данных: При проектировании баз данных UUID, ULID или NANOID часто используются в качестве первичных или внешних ключей. Использование инструмента генерации UUID/ULID/NANOID позволяет быстро и легко создавать эти идентификаторы.\n\n3. Анализ данных: Аналитики данных должны обрабатывать и анализировать различные данные, включая UUID, ULID и NANOID. Используя этот инструмент, они могут легко создавать эти идентификаторы, чтобы лучше понимать структуру и содержание данных.\n\n4. Разработка кода: Во время разработки кода часто требуются случайные строки или числа. Используя этот инструмент, эти случайные значения могут быть быстро и легко созданы.\n\nИнструкции:\n\n1. Выберите тип для генерации, включая UUID, ULID и NANOID.\n\n2. Выберите версию UUID для генерации, включая v1, v3, v4 и v5, при необходимости.\n\n3. Если генерируются ULID или NANOID, укажите количество для генерации.\n\n4. Если генерируется UUID, выберите, включать ли разделители.\n\n5. Нажмите кнопку \"Сгенерировать\", чтобы создать соответствующий идентификатор или случайное значение.\n\nПримечания:\n\n1. При генерации UUID, если не выбраны разделители, сгенерированный UUID будет непрерывной строкой, которую может быть трудно прочитать.\n\n2. При генерации большого количества ULID или NANOID страница может стать медленной или зависнуть.\n\n3. При генерации случайных строк или чисел обязательно укажите длину и тип, чтобы избежать создания значений, которые не соответствуют требованиям.\n\n4. Этот инструмент используется только для создания идентификаторов и случайных значений и не связан с какой-либо конфиденциальной информацией. Используйте его с уверенностью."
+  },
+  "pt": {
+    "$name": "Gerador de UUID/ULID/NANOID",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Gerar",
+      "único",
+      "Identificador Único",
+      "Gerador",
+      "Valor Aleatório"
+    ],
+    "$description": "Documentação da Ferramenta Geradora de UUID/ULID/NANOID\n\nA Ferramenta Geradora de UUID/ULID/NANOID é uma ferramenta usada para gerar UUIDs, ULIDs e NANOIDs. Ela pode gerar diferentes versões de UUIDs com base nas necessidades do usuário, bem como um número especificado de ULIDs e NANOIDs.\n\nRecursos:\n\n1. Suporta a geração de UUIDs, ULIDs e NANOIDs.\n\n2. Suporta a geração de diferentes versões de UUIDs, incluindo v1, v3, v4 e v5.\n\n3. Suporta a especificação do número de ULIDs e NANOIDs a serem gerados.\n\n4. Suporta a escolha de incluir ou não separadores ao gerar UUIDs.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de API: Ao desenvolver ou testar APIs, os desenvolvedores frequentemente precisam gerar UUIDs, ULIDs ou NANOIDs como identificadores únicos. Usando a Ferramenta Geradora de UUID/ULID/NANOID, é possível gerar esses identificadores de forma rápida e fácil.\n\n2. Design de banco de dados: Ao projetar bancos de dados, UUIDs, ULIDs ou NANOIDs são frequentemente usados como chaves primárias ou estrangeiras. Usando a Ferramenta Geradora de UUID/ULID/NANOID, é possível gerar esses identificadores de forma rápida e fácil.\n\n3. Análise de dados: Analistas de dados precisam processar e analisar vários dados, incluindo UUIDs, ULIDs e NANOIDs. Usando esta ferramenta, eles podem gerar facilmente esses identificadores para entender melhor a estrutura e o conteúdo dos dados.\n\n4. Desenvolvimento de código: Durante o desenvolvimento de código, são frequentemente necessárias strings ou números aleatórios. Usando esta ferramenta, esses valores aleatórios podem ser gerados rapidamente e facilmente.\n\nInstruções:\n\n1. Selecione o tipo a ser gerado, incluindo UUID, ULID e NANOID.\n\n2. Escolha a versão do UUID a ser gerado, incluindo v1, v3, v4 e v5, conforme necessário.\n\n3. Se estiver gerando ULID ou NANOID, especifique o número a ser gerado.\n\n4. Se estiver gerando UUID, escolha se deseja incluir separadores.\n\n5. Clique no botão \"Gerar\" para gerar o identificador correspondente ou valor aleatório.\n\nObservações:\n\n1. Ao gerar UUIDs, se nenhum separador for selecionado, o UUID gerado será uma string contínua que pode ser difícil de ler.\n\n2. Ao gerar um grande número de ULIDs ou NANOIDs, a página pode ficar lenta ou travar.\n\n3. Ao gerar strings ou números aleatórios, certifique-se de especificar o comprimento e o tipo para evitar gerar valores que não atendam aos requisitos.\n\n4. Esta ferramenta é usada apenas para gerar identificadores e valores aleatórios e não envolve nenhuma informação sensível. Use-a com confiança."
+  },
+  "en": {
+    "$name": "UUID/ULID/NANOID Generator",
+    "$keywords": [
+      "UUID",
+      "ULID",
+      "NANOID",
+      "ID",
+      "Generate",
+      "unique",
+      "Unique Identifier",
+      "Generator",
+      "Random Value"
+    ],
+    "$description": "UUID/ULID/NANOID Generator Tool Documentation\n\nThe UUID/ULID/NANOID Generator Tool is a tool used to generate UUIDs, ULIDs, and NANOIDs. It can generate different versions of UUIDs based on user needs, as well as a specified number of ULIDs and NANOIDs.\n\nFeatures:\n\n1. Supports generating UUIDs, ULIDs, and NANOIDs.\n\n2. Supports generating different versions of UUIDs, including v1, v3, v4, and v5.\n\n3. Supports specifying the number of ULIDs and NANOIDs to generate.\n\n4. Supports choosing whether to include separators when generating UUIDs.\n\nUse Cases:\n\n1. API Development and Testing: When developing or testing APIs, developers often need to generate UUIDs, ULIDs, or NANOIDs as unique identifiers. Using the UUID/ULID/NANOID Generator Tool can quickly and easily generate these identifiers.\n\n2. Database Design: When designing databases, UUIDs, ULIDs, or NANOIDs are often used as primary or foreign keys. Using the UUID/ULID/NANOID Generator Tool can quickly and easily generate these identifiers.\n\n3. Data Analysis: Data analysts need to process and analyze various data, including UUIDs, ULIDs, and NANOIDs. Using this tool, they can easily generate these identifiers to better understand the data structure and content.\n\n4. Code Development: During code development, random strings or numbers are often needed. Using this tool, these random values can be quickly and easily generated.\n\nInstructions:\n\n1. Select the type to generate, including UUID, ULID, and NANOID.\n\n2. Choose the version of UUID to generate, including v1, v3, v4, and v5, as needed.\n\n3. If generating ULID or NANOID, specify the number to generate.\n\n4. If generating UUID, choose whether to include separators.\n\n5. Click the \"Generate\" button to generate the corresponding identifier or random value.\n\nNotes:\n\n1. When generating UUIDs, if no separators are selected, the generated UUID will be a continuous string that may be difficult to read.\n\n2. When generating a large number of ULIDs or NANOIDs, the page may become slow or crash.\n\n3. When generating random strings or numbers, be sure to specify the length and type to avoid generating values that do not meet the requirements.\n\n4. This tool is only used to generate identifiers and random values and does not involve any sensitive information. Please use it with confidence."
   }
+}

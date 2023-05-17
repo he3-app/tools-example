@@ -1,632 +1,1536 @@
 [
   {
     "id": "utf7-decode",
-    "zh": {
-      "$name": "UTF7 解码",
-      "$description": "UTF7 解码",
-      "$keywords": ["解码"]
-    },
     "en": {
-      "$name": "UTF7 Decode",
-      "$description": "UTF7 Decode",
-      "$keywords": ["UTF7", "UTF-7", "Decode"]
-    },
-    "de": {
-      "$name": "UTF7 -Dekodierung",
-      "$description": "UTF7 -Dekodierung",
-      "$keywords": ["Dekodierung"]
-    },
-    "es": {
-      "$name": "Decodificación UTF7",
-      "$description": "Decodificación UTF7",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage UTF7",
-      "$description": "Décodage UTF7",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica UTF7",
-      "$description": "Decodifica UTF7",
-      "$keywords": ["decodifica"]
-    },
-    "ja": {
-      "$name": "UTF7デコード",
-      "$description": "UTF7デコード",
-      "$keywords": ["デコード"]
-    },
-    "ko": {
-      "$name": "UTF7 디코딩",
-      "$description": "UTF7 디코딩",
-      "$keywords": ["디코딩"]
+      "$name": "UTF7 Decoding",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decode",
+        "UTF7 decoding",
+        "UTF-7 decoding",
+        "string decoding",
+        "encoding decoding",
+        "data analysis",
+        "email client"
+      ],
+      "$description": "UTF7 Decoding Tool is a tool used to decode UTF7 encoded strings. It can decode UTF7 encoded strings into their original form.\n\nFeatures:\n\n1. Paste or input the UTF7 encoded string into the tool.\n\n2. The tool will automatically decode the input UTF7 encoded string.\n\n3. The decoded string will be displayed in the tool's output area.\n\n4. Supports IMAP mode, which can be enabled or disabled.\n\nUse cases:\n\n1. Email client development and testing: When developing or testing email clients, developers often need to decode UTF7 encoded strings. Using the UTF7 Decoding Tool, they can decode UTF7 encoded strings into their original form, making it easier to check data structures and content.\n\n2. Data analysis: Data analysts need to process and analyze various encoded strings. Using this tool, they can easily decode UTF7 encoded strings into their original form, allowing them to better understand data structures and content.\n\n3. String decoding: During code review, reviewers can use the UTF7 Decoding Tool to decode UTF7 encoded strings, making it easier to view and understand data structures."
     },
     "pt": {
       "$name": "Decodificação UTF7",
-      "$description": "Decodificação UTF7",
-      "$keywords": ["decodificação"]
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decodificar",
+        "Decodificação UTF7",
+        "Decodificação UTF-7",
+        "decodificação de string",
+        "codificação decodificação",
+        "análise de dados",
+        "cliente de email"
+      ],
+      "$description": "Ferramenta de Decodificação UTF7 é uma ferramenta usada para decodificar strings codificadas em UTF7. Ela pode decodificar strings codificadas em UTF7 para sua forma original.\n\nRecursos:\n\n1. Cole ou insira a string codificada em UTF7 na ferramenta.\n\n2. A ferramenta irá automaticamente decodificar a string codificada em UTF7 inserida.\n\n3. A string decodificada será exibida na área de saída da ferramenta.\n\n4. Suporta o modo IMAP, que pode ser habilitado ou desabilitado.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de clientes de e-mail: Ao desenvolver ou testar clientes de e-mail, os desenvolvedores frequentemente precisam decodificar strings codificadas em UTF7. Usando a Ferramenta de Decodificação UTF7, eles podem decodificar strings codificadas em UTF7 para sua forma original, tornando mais fácil verificar estruturas de dados e conteúdo.\n\n2. Análise de dados: Analistas de dados precisam processar e analisar várias strings codificadas. Usando esta ferramenta, eles podem facilmente decodificar strings codificadas em UTF7 para sua forma original, permitindo que eles entendam melhor as estruturas de dados e o conteúdo.\n\n3. Decodificação de strings: Durante a revisão de código, os revisores podem usar a Ferramenta de Decodificação UTF7 para decodificar strings codificadas em UTF7, tornando mais fácil visualizar e entender as estruturas de dados."
     },
     "ru": {
-      "$name": "UTF7 Декодирование",
-      "$description": "UTF7 Декодирование",
-      "$keywords": ["декодирование"]
+      "$name": "Декодирование UTF7",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Декодирование",
+        "Декодирование UTF7",
+        "Декодирование UTF-7",
+        "Декодирование строки",
+        "Кодирование декодирование",
+        "Анализ данных",
+        "Электронный почтовый клиент"
+      ],
+      "$description": "Инструмент декодирования UTF7 - это инструмент, используемый для декодирования строк, закодированных в UTF7. Он может декодировать строки, закодированные в UTF7, в их исходную форму.\n\nОсобенности:\n\n1. Вставьте или введите закодированную в UTF7 строку в инструмент.\n\n2. Инструмент автоматически декодирует входную строку, закодированную в UTF7.\n\n3. Декодированная строка будет отображаться в выходной области инструмента.\n\n4. Поддерживает режим IMAP, который можно включить или отключить.\n\nПрименение:\n\n1. Разработка и тестирование почтовых клиентов: При разработке или тестировании почтовых клиентов разработчикам часто нужно декодировать строки, закодированные в UTF7. Используя инструмент декодирования UTF7, они могут декодировать строки, закодированные в UTF7, в их исходную форму, что упрощает проверку структуры данных и содержимого.\n\n2. Анализ данных: Аналитикам данных необходимо обрабатывать и анализировать различные закодированные строки. Используя этот инструмент, они могут легко декодировать строки, закодированные в UTF7, в их исходную форму, что позволяет лучше понимать структуру данных и содержимое.\n\n3. Декодирование строк: При проверке кода рецензенты могут использовать инструмент декодирования UTF7 для декодирования строк, закодированных в UTF7, что упрощает просмотр и понимание структуры данных."
+    },
+    "it": {
+      "$name": "Decodifica UTF7",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decodifica",
+        "Decodifica UTF7",
+        "Decodifica UTF-7",
+        "Decodifica stringa",
+        "Codifica decodifica",
+        "Analisi dati",
+        "Client email"
+      ],
+      "$description": "Lo strumento di decodifica UTF7 è uno strumento utilizzato per decodificare stringhe codificate in UTF7. Può decodificare stringhe codificate in UTF7 nella loro forma originale.\n\nCaratteristiche:\n\n1. Incolla o inserisci la stringa codificata in UTF7 nello strumento.\n\n2. Lo strumento decodificherà automaticamente la stringa codificata in UTF7 inserita.\n\n3. La stringa decodificata verrà visualizzata nell'area di output dello strumento.\n\n4. Supporta la modalità IMAP, che può essere abilitata o disabilitata.\n\nCasi d'uso:\n\n1. Sviluppo e test di client email: durante lo sviluppo o il test di client email, gli sviluppatori spesso devono decodificare stringhe codificate in UTF7. Utilizzando lo strumento di decodifica UTF7, possono decodificare le stringhe codificate in UTF7 nella loro forma originale, facilitando la verifica delle strutture e dei contenuti dei dati.\n\n2. Analisi dei dati: gli analisti dei dati devono elaborare e analizzare varie stringhe codificate. Utilizzando questo strumento, possono facilmente decodificare le stringhe codificate in UTF7 nella loro forma originale, consentendo loro di comprendere meglio le strutture e i contenuti dei dati.\n\n3. Decodifica delle stringhe: durante la revisione del codice, i revisori possono utilizzare lo strumento di decodifica UTF7 per decodificare le stringhe codificate in UTF7, facilitando la visualizzazione e la comprensione delle strutture dei dati."
+    },
+    "fr": {
+      "$name": "Décodage UTF7",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Décode",
+        "Décodage UTF7",
+        "Décodage UTF-7",
+        "Décodage de chaîne",
+        "Encodage décodage",
+        "Analyse de données",
+        "Client de messagerie électronique"
+      ],
+      "$description": "Outil de décodage UTF7 est un outil utilisé pour décoder les chaînes encodées en UTF7. Il peut décoder les chaînes encodées en UTF7 dans leur forme originale.\n\nFonctionnalités :\n\n1. Collez ou entrez la chaîne encodée en UTF7 dans l'outil.\n\n2. L'outil décoder automatiquement la chaîne encodée en UTF7 entrée.\n\n3. La chaîne décodée sera affichée dans la zone de sortie de l'outil.\n\n4. Prend en charge le mode IMAP, qui peut être activé ou désactivé.\n\nCas d'utilisation :\n\n1. Développement et test de clients de messagerie électronique : lors du développement ou du test de clients de messagerie électronique, les développeurs ont souvent besoin de décoder des chaînes encodées en UTF7. En utilisant l'outil de décodage UTF7, ils peuvent décoder les chaînes encodées en UTF7 dans leur forme originale, ce qui facilite la vérification des structures de données et du contenu.\n\n2. Analyse de données : les analystes de données doivent traiter et analyser diverses chaînes encodées. En utilisant cet outil, ils peuvent facilement décoder les chaînes encodées en UTF7 dans leur forme originale, ce qui leur permet de mieux comprendre les structures de données et le contenu.\n\n3. Décodage de chaînes : lors de l'examen de code, les examinateurs peuvent utiliser l'outil de décodage UTF7 pour décoder les chaînes encodées en UTF7, ce qui facilite la visualisation et la compréhension des structures de données."
+    },
+    "de": {
+      "$name": "UTF7 Decodierung",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decodierung",
+        "UTF7 Decodierung",
+        "UTF-7 Decodierung",
+        "String Decodierung",
+        "Kodierung Decodierung",
+        "Datenanalyse",
+        "E-Mail-Client"
+      ],
+      "$description": "UTF7 Decoding Tool ist ein Werkzeug, das verwendet wird, um UTF7-kodierte Zeichenfolgen zu entschlüsseln. Es kann UTF7-kodierte Zeichenfolgen in ihre ursprüngliche Form entschlüsseln.\n\nFunktionen:\n\n1. Fügen Sie die UTF7-kodierte Zeichenfolge in das Werkzeug ein oder geben Sie sie ein.\n\n2. Das Werkzeug entschlüsselt automatisch die eingegebene UTF7-kodierte Zeichenfolge.\n\n3. Die entschlüsselte Zeichenfolge wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\n4. Unterstützt IMAP-Modus, der aktiviert oder deaktiviert werden kann.\n\nAnwendungsfälle:\n\n1. Entwicklung und Test von E-Mail-Clients: Bei der Entwicklung oder dem Test von E-Mail-Clients müssen Entwickler oft UTF7-kodierte Zeichenfolgen entschlüsseln. Mit dem UTF7 Decoding Tool können sie UTF7-kodierte Zeichenfolgen in ihre ursprüngliche Form entschlüsseln, um Datenstrukturen und Inhalte zu überprüfen.\n\n2. Datenanalyse: Datenanalysten müssen verschiedene kodierte Zeichenfolgen verarbeiten und analysieren. Mit diesem Tool können sie UTF7-kodierte Zeichenfolgen leicht in ihre ursprüngliche Form entschlüsseln, um Datenstrukturen und Inhalte besser zu verstehen.\n\n3. Zeichenfolgenentschlüsselung: Bei der Code-Überprüfung können Reviewer das UTF7 Decoding Tool verwenden, um UTF7-kodierte Zeichenfolgen zu entschlüsseln, um Datenstrukturen besser anzeigen und verstehen zu können."
+    },
+    "ko": {
+      "$name": "UTF7 디코딩",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "디코딩",
+        "UTF7 디코딩",
+        "UTF-7 디코딩",
+        "문자열 디코딩",
+        "인코딩 디코딩",
+        "데이터 분석",
+        "이메일 클라이언트"
+      ],
+      "$description": "UTF7 디코딩 도구는 UTF7로 인코딩된 문자열을 디코딩하는 데 사용되는 도구입니다. 이 도구는 UTF7로 인코딩된 문자열을 원래 형태로 디코딩할 수 있습니다.\n\n기능:\n\n1. UTF7로 인코딩된 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 입력된 UTF7로 인코딩된 문자열을 디코딩합니다.\n\n3. 디코딩된 문자열은 도구의 출력 영역에 표시됩니다.\n\n4. IMAP 모드를 지원하며, 활성화 또는 비활성화할 수 있습니다.\n\n사용 사례:\n\n1. 이메일 클라이언트 개발 및 테스트: 이메일 클라이언트를 개발하거나 테스트할 때, 개발자들은 종종 UTF7로 인코딩된 문자열을 디코딩해야 합니다. UTF7 디코딩 도구를 사용하면 UTF7로 인코딩된 문자열을 원래 형태로 디코딩하여 데이터 구조와 내용을 확인하기 쉬워집니다.\n\n2. 데이터 분석: 데이터 분석가들은 다양한 인코딩된 문자열을 처리하고 분석해야 합니다. 이 도구를 사용하면 UTF7로 인코딩된 문자열을 쉽게 원래 형태로 디코딩하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다.\n\n3. 문자열 디코딩: 코드 검토 중에 리뷰어들은 UTF7 디코딩 도구를 사용하여 UTF7로 인코딩된 문자열을 디코딩하여 데이터 구조를 더 쉽게 볼 수 있습니다."
+    },
+    "ja": {
+      "$name": "UTF7 デコード",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "デコード",
+        "UTF7デコード",
+        "UTF-7デコード",
+        "文字列デコード",
+        "エンコードデコード",
+        "データ分析",
+        "メールクライアント"
+      ],
+      "$description": "UTF7デコードツールは、UTF7エンコードされた文字列をデコードするためのツールです。UTF7エンコードされた文字列を元の形式にデコードすることができます。\n\n特徴：\n\n1. UTF7エンコードされた文字列をツールに貼り付けるか、入力します。\n\n2. ツールは自動的に入力されたUTF7エンコードされた文字列をデコードします。\n\n3. デコードされた文字列は、ツールの出力エリアに表示されます。\n\n4. IMAPモードをサポートしており、有効または無効にすることができます。\n\n使用例：\n\n1. メールクライアントの開発とテスト：メールクライアントを開発またはテストする際、開発者はしばしばUTF7エンコードされた文字列をデコードする必要があります。UTF7デコードツールを使用することで、UTF7エンコードされた文字列を元の形式にデコードし、データ構造とコンテンツを確認することが容易になります。\n\n2. データ分析：データアナリストは、さまざまなエンコードされた文字列を処理および分析する必要があります。このツールを使用することで、UTF7エンコードされた文字列を簡単に元の形式にデコードし、データ構造とコンテンツをより理解することができます。\n\n3. 文字列のデコード：コードレビュー中、レビュアーはUTF7デコードツールを使用してUTF7エンコードされた文字列をデコードし、データ構造を表示および理解することが容易になります。"
+    },
+    "es": {
+      "$name": "Decodificación UTF7",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Decodificación",
+        "Decodificación UTF7",
+        "Decodificación UTF-7",
+        "Decodificación de cadena",
+        "Codificación decodificación",
+        "Análisis de datos",
+        "Cliente de correo electrónico"
+      ],
+      "$description": "Herramienta de decodificación UTF7 es una herramienta utilizada para decodificar cadenas codificadas en UTF7. Puede decodificar cadenas codificadas en UTF7 a su forma original.\n\nCaracterísticas:\n\n1. Pegue o ingrese la cadena codificada en UTF7 en la herramienta.\n\n2. La herramienta decodificará automáticamente la cadena codificada en UTF7 ingresada.\n\n3. La cadena decodificada se mostrará en el área de salida de la herramienta.\n\n4. Admite el modo IMAP, que se puede habilitar o deshabilitar.\n\nCasos de uso:\n\n1. Desarrollo y prueba de clientes de correo electrónico: al desarrollar o probar clientes de correo electrónico, los desarrolladores a menudo necesitan decodificar cadenas codificadas en UTF7. Usando la herramienta de decodificación UTF7, pueden decodificar cadenas codificadas en UTF7 a su forma original, lo que facilita la verificación de las estructuras y el contenido de los datos.\n\n2. Análisis de datos: los analistas de datos necesitan procesar y analizar varias cadenas codificadas. Usando esta herramienta, pueden decodificar fácilmente cadenas codificadas en UTF7 a su forma original, lo que les permite comprender mejor las estructuras y el contenido de los datos.\n\n3. Decodificación de cadenas: durante la revisión de código, los revisores pueden usar la herramienta de decodificación UTF7 para decodificar cadenas codificadas en UTF7, lo que facilita la visualización y comprensión de las estructuras de datos."
     },
     "zh-tw": {
       "$name": "UTF7 解碼",
-      "$description": "UTF7 解碼",
-      "$keywords": ["解碼"]
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "解碼",
+        "UTF7解碼",
+        "UTF-7解碼",
+        "字串解碼",
+        "編碼解碼",
+        "資料分析",
+        "電子郵件客戶端"
+      ],
+      "$description": "UTF7 解碼工具是一個用於解碼 UTF7 編碼字符串的工具。它可以將 UTF7 編碼字符串解碼為它們的原始形式。\n\n功能：\n\n1. 將 UTF7 編碼字符串粘貼或輸入到工具中。\n\n2. 工具將自動解碼輸入的 UTF7 編碼字符串。\n\n3. 解碼後的字符串將顯示在工具的輸出區域中。\n\n4. 支持 IMAP 模式，可以啟用或禁用。\n\n用例：\n\n1. 電子郵件客戶端開發和測試：在開發或測試電子郵件客戶端時，開發人員經常需要解碼 UTF7 編碼字符串。使用 UTF7 解碼工具，他們可以將 UTF7 編碼字符串解碼為它們的原始形式，從而更輕鬆地檢查數據結構和內容。\n\n2. 數據分析：數據分析師需要處理和分析各種編碼字符串。使用這個工具，他們可以輕鬆地將 UTF7 編碼字符串解碼為它們的原始形式，從而更好地理解數據結構和內容。\n\n3. 字符串解碼：在代碼審查期間，審查人員可以使用 UTF7 解碼工具來解碼 UTF7 編碼字符串，從而更輕鬆地查看和理解數據結構。"
     },
     "zh-cn": {
       "$name": "UTF7 解码",
-      "$description": "UTF7 解码",
-      "$keywords": ["解码"]
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "解码",
+        "UTF7解码",
+        "UTF-7解码",
+        "字符串解码",
+        "编码解码",
+        "数据分析",
+        "电子邮件客户端"
+      ],
+      "$description": "UTF7解码工具是一种用于解码UTF7编码字符串的工具。它可以将UTF7编码字符串解码为它们的原始形式。\n\n特点：\n\n1. 将UTF7编码字符串粘贴或输入到工具中。\n\n2. 工具将自动解码输入的UTF7编码字符串。\n\n3. 解码后的字符串将显示在工具的输出区域中。\n\n4. 支持IMAP模式，可以启用或禁用。\n\n用途：\n\n1. 电子邮件客户端开发和测试：在开发或测试电子邮件客户端时，开发人员经常需要解码UTF7编码字符串。使用UTF7解码工具，他们可以将UTF7编码字符串解码为它们的原始形式，从而更容易检查数据结构和内容。\n\n2. 数据分析：数据分析师需要处理和分析各种编码字符串。使用此工具，他们可以轻松地将UTF7编码字符串解码为它们的原始形式，从而更好地理解数据结构和内容。\n\n3. 字符串解码：在代码审查期间，审查人员可以使用UTF7解码工具解码UTF7编码字符串，从而更容易查看和理解数据结构。"
     }
   },
   {
     "id": "utf7-encode",
-    "zh": {
-      "$name": "UTF7 编码",
-      "$description": "UTF7 编码",
-      "$keywords": ["编码"]
-    },
     "en": {
-      "$name": "UTF7 Encode",
-      "$description": "UTF7 Encode",
-      "$keywords": ["UTF7", "UTF-7", "Encode"]
-    },
-    "de": {
-      "$name": "UTF7 -Kodierung",
-      "$description": "UTF7 -Kodierung",
-      "$keywords": ["Codierung"]
-    },
-    "es": {
-      "$name": "Codificación UTF7",
-      "$description": "Codificación UTF7",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage UTF7",
-      "$description": "Encodage UTF7",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica UTF7",
-      "$description": "Codifica UTF7",
-      "$keywords": ["Coding"]
-    },
-    "ja": {
-      "$name": "UTF7エンコーディング",
-      "$description": "UTF7エンコーディング",
-      "$keywords": ["コーディング"]
-    },
-    "ko": {
-      "$name": "UTF7 인코딩",
-      "$description": "UTF7 인코딩",
-      "$keywords": ["코딩"]
+      "$name": "UTF7 Encoding",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Encode",
+        "UTF7 encoding",
+        "string encoding",
+        "reversible conversion",
+        "IMAP encoding mode",
+        "data transmission",
+        "string processing"
+      ],
+      "$description": "UTF7 Encoding Tool is a tool used to encode strings into UTF7 format. It supports IMAP encoding mode and provides reversible conversion function.\n\nFeatures:\n\n1. Enter the string to be encoded into the tool.\n\n2. The tool will automatically encode the string into UTF7 format.\n\n3. Supports IMAP encoding mode, which can be switched on and off.\n\n4. Supports reversible conversion, which can decode the encoded string into the original string.\n\nUse cases:\n\n1. Email system development and testing: When developing or testing email systems, developers often need to encode email subjects and bodies into UTF7 format. Using the UTF7 Encoding Tool can quickly encode strings into UTF7 format for easy testing and debugging.\n\n2. Data transmission: During data transmission, sometimes strings need to be encoded into UTF7 format. Using this tool, strings can be easily encoded into UTF7 format for use during data transmission.\n\n3. String processing: During string processing, sometimes strings need to be encoded into UTF7 format. Using this tool, strings can be quickly encoded into UTF7 format for further processing.\n\nNotes:\n\n1. UTF7 encoding is not a standard Unicode encoding method, so compatibility issues should be considered when using it.\n\n2. The difference between IMAP encoding mode and normal encoding mode is that IMAP encoding mode encodes some special characters into printable characters for use in email subjects and bodies."
     },
     "pt": {
       "$name": "Codificação UTF7",
-      "$description": "Codificação UTF7",
-      "$keywords": ["codificação"]
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Codificar",
+        "Codificação UTF7",
+        "Codificação de string",
+        "Conversão reversível",
+        "Modo de codificação IMAP",
+        "Transmissão de dados",
+        "Processamento de string"
+      ],
+      "$description": "A Ferramenta de Codificação UTF7 é uma ferramenta usada para codificar strings no formato UTF7. Ela suporta o modo de codificação IMAP e fornece uma função de conversão reversível.\n\nRecursos:\n\n1. Insira a string a ser codificada na ferramenta.\n\n2. A ferramenta irá automaticamente codificar a string no formato UTF7.\n\n3. Suporta o modo de codificação IMAP, que pode ser ativado ou desativado.\n\n4. Suporta conversão reversível, que pode decodificar a string codificada na string original.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de sistemas de e-mail: Ao desenvolver ou testar sistemas de e-mail, os desenvolvedores frequentemente precisam codificar os assuntos e corpos dos e-mails no formato UTF7. Usando a Ferramenta de Codificação UTF7, as strings podem ser rapidamente codificadas no formato UTF7 para facilitar o teste e a depuração.\n\n2. Transmissão de dados: Durante a transmissão de dados, às vezes as strings precisam ser codificadas no formato UTF7. Usando esta ferramenta, as strings podem ser facilmente codificadas no formato UTF7 para uso durante a transmissão de dados.\n\n3. Processamento de strings: Durante o processamento de strings, às vezes as strings precisam ser codificadas no formato UTF7. Usando esta ferramenta, as strings podem ser rapidamente codificadas no formato UTF7 para processamento posterior.\n\nObservações:\n\n1. A codificação UTF7 não é um método de codificação Unicode padrão, portanto, problemas de compatibilidade devem ser considerados ao usá-la.\n\n2. A diferença entre o modo de codificação IMAP e o modo de codificação normal é que o modo de codificação IMAP codifica alguns caracteres especiais em caracteres imprimíveis para uso em assuntos e corpos de e-mails."
     },
     "ru": {
       "$name": "UTF7 Кодирование",
-      "$description": "UTF7 Кодирование",
-      "$keywords": ["кодирование"]
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Кодирование",
+        "Кодирование UTF7",
+        "Кодирование строк",
+        "Обратимое преобразование",
+        "Режим кодирования IMAP",
+        "Передача данных",
+        "Обработка строк"
+      ],
+      "$description": "Инструмент кодирования UTF7 - это инструмент, используемый для кодирования строк в формат UTF7. Он поддерживает режим кодирования IMAP и обеспечивает функцию обратимого преобразования.\n\nОсобенности:\n\n1. Введите строку, которую нужно закодировать в инструмент.\n\n2. Инструмент автоматически закодирует строку в формат UTF7.\n\n3. Поддерживает режим кодирования IMAP, который можно включать и выключать.\n\n4. Поддерживает обратимое преобразование, которое может декодировать закодированную строку в исходную строку.\n\nПрименение:\n\n1. Разработка и тестирование систем электронной почты: при разработке или тестировании систем электронной почты разработчикам часто нужно закодировать темы и тела электронных писем в формат UTF7. Использование инструмента кодирования UTF7 позволяет быстро закодировать строки в формат UTF7 для удобного тестирования и отладки.\n\n2. Передача данных: во время передачи данных иногда нужно закодировать строки в формат UTF7. Используя этот инструмент, строки могут быть легко закодированы в формат UTF7 для использования во время передачи данных.\n\n3. Обработка строк: во время обработки строк иногда нужно закодировать строки в формат UTF7. Используя этот инструмент, строки могут быть быстро закодированы в формат UTF7 для дальнейшей обработки.\n\nПримечания:\n\n1. Кодирование UTF7 не является стандартным методом кодирования Unicode, поэтому при его использовании следует учитывать проблемы совместимости.\n\n2. Разница между режимом кодирования IMAP и обычным режимом заключается в том, что режим кодирования IMAP кодирует некоторые специальные символы в печатные символы для использования в темах и телах электронных писем."
+    },
+    "it": {
+      "$name": "Codifica UTF7",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Codifica",
+        "Codifica UTF7",
+        "Codifica stringa",
+        "Conversione reversibile",
+        "Modalità di codifica IMAP",
+        "Trasmissione dati",
+        "Elaborazione stringa"
+      ],
+      "$description": "Lo strumento di codifica UTF7 è uno strumento utilizzato per codificare le stringhe nel formato UTF7. Supporta la modalità di codifica IMAP e fornisce una funzione di conversione reversibile.\n\nCaratteristiche:\n\n1. Inserisci la stringa da codificare nello strumento.\n\n2. Lo strumento codificherà automaticamente la stringa nel formato UTF7.\n\n3. Supporta la modalità di codifica IMAP, che può essere attivata o disattivata.\n\n4. Supporta la conversione reversibile, che può decodificare la stringa codificata nella stringa originale.\n\nCasi d'uso:\n\n1. Sviluppo e test di sistemi di posta elettronica: durante lo sviluppo o il test di sistemi di posta elettronica, gli sviluppatori spesso devono codificare gli oggetti e i contenuti delle email nel formato UTF7. Utilizzando lo strumento di codifica UTF7, le stringhe possono essere rapidamente codificate nel formato UTF7 per facilitare il test e il debug.\n\n2. Trasmissione di dati: durante la trasmissione di dati, a volte le stringhe devono essere codificate nel formato UTF7. Utilizzando questo strumento, le stringhe possono essere facilmente codificate nel formato UTF7 per l'uso durante la trasmissione di dati.\n\n3. Elaborazione di stringhe: durante l'elaborazione di stringhe, a volte le stringhe devono essere codificate nel formato UTF7. Utilizzando questo strumento, le stringhe possono essere rapidamente codificate nel formato UTF7 per ulteriori elaborazioni.\n\nNote:\n\n1. La codifica UTF7 non è un metodo di codifica Unicode standard, quindi dovrebbero essere considerati problemi di compatibilità quando la si utilizza.\n\n2. La differenza tra la modalità di codifica IMAP e la modalità di codifica normale è che la modalità di codifica IMAP codifica alcuni caratteri speciali in caratteri stampabili per l'uso negli oggetti e nei contenuti delle email."
+    },
+    "fr": {
+      "$name": "Encodage UTF7",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Encodage",
+        "Encodage UTF7",
+        "Encodage de chaîne",
+        "Conversion réversible",
+        "Mode d'encodage IMAP",
+        "Transmission de données",
+        "Traitement de chaîne"
+      ],
+      "$description": "Outil d'encodage UTF7 est un outil utilisé pour encoder des chaînes de caractères en format UTF7. Il prend en charge le mode d'encodage IMAP et fournit une fonction de conversion réversible.\n\nFonctionnalités :\n\n1. Entrez la chaîne de caractères à encoder dans l'outil.\n\n2. L'outil encodera automatiquement la chaîne de caractères en format UTF7.\n\n3. Prend en charge le mode d'encodage IMAP, qui peut être activé ou désactivé.\n\n4. Prend en charge la conversion réversible, qui peut décoder la chaîne de caractères encodée en la chaîne de caractères d'origine.\n\nCas d'utilisation :\n\n1. Développement et test de systèmes de messagerie électronique : lors du développement ou du test de systèmes de messagerie électronique, les développeurs ont souvent besoin d'encoder les sujets et les corps des e-mails en format UTF7. En utilisant l'outil d'encodage UTF7, les chaînes de caractères peuvent être rapidement encodées en format UTF7 pour faciliter les tests et le débogage.\n\n2. Transmission de données : lors de la transmission de données, il arrive parfois que des chaînes de caractères doivent être encodées en format UTF7. En utilisant cet outil, les chaînes de caractères peuvent être facilement encodées en format UTF7 pour une utilisation pendant la transmission de données.\n\n3. Traitement de chaînes de caractères : lors du traitement de chaînes de caractères, il arrive parfois que des chaînes de caractères doivent être encodées en format UTF7. En utilisant cet outil, les chaînes de caractères peuvent être rapidement encodées en format UTF7 pour un traitement ultérieur.\n\nNotes :\n\n1. L'encodage UTF7 n'est pas une méthode d'encodage Unicode standard, il faut donc tenir compte des problèmes de compatibilité lors de son utilisation.\n\n2. La différence entre le mode d'encodage IMAP et le mode d'encodage normal est que le mode d'encodage IMAP encode certains caractères spéciaux en caractères imprimables pour une utilisation dans les sujets et les corps des e-mails."
+    },
+    "de": {
+      "$name": "UTF7-Kodierung",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Kodieren",
+        "UTF7-Kodierung",
+        "Zeichenkettenkodierung",
+        "umkehrbare Konvertierung",
+        "IMAP-Kodierungsmodus",
+        "Datenübertragung",
+        "Zeichenkettenverarbeitung"
+      ],
+      "$description": "UTF7 Encoding Tool ist ein Werkzeug, das verwendet wird, um Zeichenfolgen in das UTF7-Format zu kodieren. Es unterstützt den IMAP-Kodierungsmodus und bietet eine umkehrbare Konversionsfunktion.\n\nFunktionen:\n\n1. Geben Sie die zu kodierende Zeichenfolge in das Werkzeug ein.\n\n2. Das Werkzeug kodiert die Zeichenfolge automatisch in das UTF7-Format.\n\n3. Unterstützt den IMAP-Kodierungsmodus, der ein- und ausgeschaltet werden kann.\n\n4. Unterstützt eine umkehrbare Konvertierung, mit der die kodierte Zeichenfolge in die ursprüngliche Zeichenfolge zurückkonvertiert werden kann.\n\nAnwendungsfälle:\n\n1. Entwicklung und Test von E-Mail-Systemen: Bei der Entwicklung oder dem Test von E-Mail-Systemen müssen Entwickler oft E-Mail-Betreffzeilen und -Inhalte in das UTF7-Format kodieren. Mit dem UTF7 Encoding Tool können Zeichenfolgen schnell in das UTF7-Format kodiert werden, um einfache Tests und Debugging durchzuführen.\n\n2. Datenübertragung: Während der Datenübertragung müssen manchmal Zeichenfolgen in das UTF7-Format kodiert werden. Mit diesem Tool können Zeichenfolgen einfach in das UTF7-Format kodiert werden, um sie während der Datenübertragung zu verwenden.\n\n3. Zeichenfolgenverarbeitung: Während der Zeichenfolgenverarbeitung müssen manchmal Zeichenfolgen in das UTF7-Format kodiert werden. Mit diesem Tool können Zeichenfolgen schnell in das UTF7-Format kodiert werden, um sie weiter zu verarbeiten.\n\nAnmerkungen:\n\n1. UTF7-Kodierung ist keine Standard-Unicode-Kodierungsmethode, daher sollten Kompatibilitätsprobleme bei der Verwendung berücksichtigt werden.\n\n2. Der Unterschied zwischen dem IMAP-Kodierungsmodus und dem normalen Kodierungsmodus besteht darin, dass der IMAP-Kodierungsmodus einige Sonderzeichen in druckbare Zeichen für die Verwendung in E-Mail-Betreffzeilen und -Inhalten kodiert."
+    },
+    "ko": {
+      "$name": "UTF7 인코딩",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "인코딩",
+        "UTF7 인코딩",
+        "문자열 인코딩",
+        "가역 변환",
+        "IMAP 인코딩 모드",
+        "데이터 전송",
+        "문자열 처리"
+      ],
+      "$description": "UTF7 인코딩 도구는 문자열을 UTF7 형식으로 인코딩하는 데 사용되는 도구입니다. IMAP 인코딩 모드를 지원하며, 역변환 기능을 제공합니다.\n\n기능:\n\n1. 도구에 인코딩할 문자열을 입력합니다.\n\n2. 도구는 문자열을 자동으로 UTF7 형식으로 인코딩합니다.\n\n3. IMAP 인코딩 모드를 지원하며, 켜고 끌 수 있습니다.\n\n4. 역변환 기능을 지원하며, 인코딩된 문자열을 원래 문자열로 디코딩할 수 있습니다.\n\n사용 사례:\n\n1. 이메일 시스템 개발 및 테스트: 이메일 시스템을 개발하거나 테스트할 때, 개발자는 종종 이메일 제목과 본문을 UTF7 형식으로 인코딩해야 합니다. UTF7 인코딩 도구를 사용하면 문자열을 쉽게 인코딩하여 테스트 및 디버깅을 수행할 수 있습니다.\n\n2. 데이터 전송: 데이터 전송 중에는 때로 문자열을 UTF7 형식으로 인코딩해야 합니다. 이 도구를 사용하면 문자열을 쉽게 UTF7 형식으로 인코딩하여 데이터 전송 중에 사용할 수 있습니다.\n\n3. 문자열 처리: 문자열 처리 중에는 때로 문자열을 UTF7 형식으로 인코딩해야 합니다. 이 도구를 사용하면 문자열을 빠르게 UTF7 형식으로 인코딩하여 추가 처리를 수행할 수 있습니다.\n\n참고:\n\n1. UTF7 인코딩은 표준 유니코드 인코딩 방법이 아니므로 호환성 문제가 고려되어야 합니다.\n\n2. IMAP 인코딩 모드와 일반 인코딩 모드의 차이점은 IMAP 인코딩 모드가 이메일 제목과 본문에서 사용하기 위해 일부 특수 문자를 인쇄 가능한 문자로 인코딩한다는 것입니다."
+    },
+    "ja": {
+      "$name": "UTF7エンコーディング",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "エンコード",
+        "UTF7 エンコーディング",
+        "文字列エンコーディング",
+        "可逆変換",
+        "IMAP エンコーディングモード",
+        "データ転送",
+        "文字列処理"
+      ],
+      "$description": "UTF7エンコーディングツールは、文字列をUTF7形式にエンコードするために使用されるツールです。IMAPエンコーディングモードをサポートし、可逆変換機能を提供します。\n\n特徴：\n\n1. ツールにエンコードする文字列を入力します。\n\n2. ツールは自動的に文字列をUTF7形式にエンコードします。\n\n3. IMAPエンコーディングモードをサポートし、オン/オフに切り替えることができます。\n\n4. 可逆変換をサポートし、エンコードされた文字列を元の文字列にデコードすることができます。\n\n使用例：\n\n1. メールシステムの開発とテスト：メールシステムを開発またはテストする際に、開発者はしばしばメールの件名や本文をUTF7形式にエンコードする必要があります。UTF7エンコーディングツールを使用すると、文字列を簡単にUTF7形式にエンコードしてテストやデバッグができます。\n\n2. データ伝送：データ伝送中に、文字列をUTF7形式にエンコードする必要がある場合があります。このツールを使用すると、文字列を簡単にUTF7形式にエンコードしてデータ伝送に使用できます。\n\n3. 文字列処理：文字列処理中に、文字列をUTF7形式にエンコードする必要がある場合があります。このツールを使用すると、文字列を簡単にUTF7形式にエンコードして、さらなる処理に使用できます。\n\n注意点：\n\n1. UTF7エンコーディングは標準のUnicodeエンコーディング方法ではないため、使用する際には互換性の問題が考慮される必要があります。\n\n2. IMAPエンコーディングモードと通常のエンコーディングモードの違いは、IMAPエンコーディングモードが一部の特殊文字を印刷可能な文字にエンコードして、メールの件名や本文で使用することができることです。"
+    },
+    "es": {
+      "$name": "Codificación UTF7",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "Codificar",
+        "Codificación UTF7",
+        "Codificación de cadena",
+        "Conversión reversible",
+        "Modo de codificación IMAP",
+        "Transmisión de datos",
+        "Procesamiento de cadenas"
+      ],
+      "$description": "La herramienta de codificación UTF7 es una herramienta utilizada para codificar cadenas en formato UTF7. Admite el modo de codificación IMAP y proporciona una función de conversión reversible.\n\nCaracterísticas:\n\n1. Ingrese la cadena que se va a codificar en la herramienta.\n\n2. La herramienta codificará automáticamente la cadena en formato UTF7.\n\n3. Admite el modo de codificación IMAP, que se puede activar y desactivar.\n\n4. Admite conversión reversible, que puede decodificar la cadena codificada en la cadena original.\n\nCasos de uso:\n\n1. Desarrollo y prueba de sistemas de correo electrónico: al desarrollar o probar sistemas de correo electrónico, los desarrolladores a menudo necesitan codificar los asuntos y cuerpos de los correos electrónicos en formato UTF7. Usando la herramienta de codificación UTF7, se pueden codificar rápidamente cadenas en formato UTF7 para facilitar la prueba y depuración.\n\n2. Transmisión de datos: durante la transmisión de datos, a veces es necesario codificar cadenas en formato UTF7. Usando esta herramienta, las cadenas se pueden codificar fácilmente en formato UTF7 para su uso durante la transmisión de datos.\n\n3. Procesamiento de cadenas: durante el procesamiento de cadenas, a veces es necesario codificar cadenas en formato UTF7. Usando esta herramienta, las cadenas se pueden codificar rápidamente en formato UTF7 para su posterior procesamiento.\n\nNotas:\n\n1. La codificación UTF7 no es un método de codificación Unicode estándar, por lo que se deben considerar problemas de compatibilidad al usarlo.\n\n2. La diferencia entre el modo de codificación IMAP y el modo de codificación normal es que el modo de codificación IMAP codifica algunos caracteres especiales en caracteres imprimibles para su uso en los asuntos y cuerpos de los correos electrónicos."
     },
     "zh-tw": {
       "$name": "UTF7 編碼",
-      "$description": "UTF7 編碼",
-      "$keywords": ["編碼"]
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "編碼",
+        "UTF7編碼",
+        "字串編碼",
+        "可逆轉換",
+        "IMAP編碼模式",
+        "資料傳輸",
+        "字串處理"
+      ],
+      "$description": "UTF7編碼工具是一個用於將字符串編碼為UTF7格式的工具。它支持IMAP編碼模式並提供可逆轉換功能。\n\n特點：\n\n1. 輸入要編碼的字符串到工具中。\n\n2. 工具將自動將字符串編碼為UTF7格式。\n\n3. 支持IMAP編碼模式，可以開啟和關閉。\n\n4. 支持可逆轉換，可以將編碼後的字符串解碼為原始字符串。\n\n使用情境：\n\n1. 電子郵件系統開發和測試：在開發或測試電子郵件系統時，開發人員經常需要將電子郵件主題和正文編碼為UTF7格式。使用UTF7編碼工具可以快速將字符串編碼為UTF7格式，以便進行測試和調試。\n\n2. 數據傳輸：在數據傳輸期間，有時需要將字符串編碼為UTF7格式。使用這個工具，可以輕鬆地將字符串編碼為UTF7格式，以便在數據傳輸期間使用。\n\n3. 字符串處理：在字符串處理期間，有時需要將字符串編碼為UTF7格式。使用這個工具，可以快速將字符串編碼為UTF7格式，以便進一步處理。\n\n注意事項：\n\n1. UTF7編碼不是標準的Unicode編碼方法，因此在使用時應考慮兼容性問題。\n\n2. IMAP編碼模式和普通編碼模式之間的區別在於IMAP編碼模式將一些特殊字符編碼為可打印字符，以便在電子郵件主題和正文中使用。"
     },
     "zh-cn": {
-      "$name": "UTF7 编码",
-      "$description": "UTF7 编码",
-      "$keywords": ["编码"]
+      "$name": "UTF7编码",
+      "$keywords": [
+        "UTF7",
+        "UTF-7",
+        "编码",
+        "UTF7编码",
+        "字符串编码",
+        "可逆转换",
+        "IMAP编码模式",
+        "数据传输",
+        "字符串处理"
+      ],
+      "$description": "UTF7编码工具是一种用于将字符串编码为UTF7格式的工具。它支持IMAP编码模式，并提供可逆转换功能。\n\n特点：\n\n1. 输入要编码的字符串到工具中。\n\n2. 工具将自动将字符串编码为UTF7格式。\n\n3. 支持IMAP编码模式，可开启和关闭。\n\n4. 支持可逆转换，可将编码后的字符串解码为原始字符串。\n\n用途：\n\n1. 电子邮件系统开发和测试：在开发或测试电子邮件系统时，开发人员经常需要将电子邮件主题和正文编码为UTF7格式。使用UTF7编码工具可以快速将字符串编码为UTF7格式，以便进行测试和调试。\n\n2. 数据传输：在数据传输过程中，有时需要将字符串编码为UTF7格式。使用此工具，可以轻松地将字符串编码为UTF7格式，以便在数据传输过程中使用。\n\n3. 字符串处理：在字符串处理过程中，有时需要将字符串编码为UTF7格式。使用此工具，可以快速将字符串编码为UTF7格式，以便进行进一步处理。\n\n注意事项：\n\n1. UTF7编码不是标准的Unicode编码方法，因此在使用时应考虑兼容性问题。\n\n2. IMAP编码模式和普通编码模式之间的区别在于，IMAP编码模式将一些特殊字符编码为可打印字符，以便在电子邮件主题和正文中使用。"
     }
   },
   {
     "id": "utf8-encode",
-    "zh": {
-      "$name": "UTF8 编码",
-      "$description": "UTF8 编码",
-      "$keywords": ["编码"]
-    },
     "en": {
-      "$name": "UTF8 Encode",
-      "$description": "UTF8 Encode",
-      "$keywords": ["UTF", "UTF8", "UTF-8", "Encode"]
-    },
-    "de": {
-      "$name": "UTF8 Codierung",
-      "$description": "UTF8 Codierung",
-      "$keywords": ["Codierung"]
-    },
-    "es": {
-      "$name": "Codificación UTF8",
-      "$description": "Codificación UTF8",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage UTF8",
-      "$description": "Encodage UTF8",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica UTF8",
-      "$description": "Codifica UTF8",
-      "$keywords": ["Coding"]
-    },
-    "ja": {
-      "$name": "UTF8エンコーディング",
-      "$description": "UTF8エンコーディング",
-      "$keywords": ["コーディング"]
-    },
-    "ko": {
-      "$name": "UTF8 인코딩",
-      "$description": "UTF8 인코딩",
-      "$keywords": ["코딩"]
+      "$name": "UTF8 Encoding",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Encode",
+        "UTF8 encoding",
+        "encoding conversion",
+        "data transmission",
+        "data storage",
+        "HEX format",
+        "HTML format"
+      ],
+      "$description": "UTF8 Encoding Tool is a tool used to convert input strings into UTF8 encoding format. It supports converting input strings into HEX or HTML format of UTF8 encoding, and outputs the converted result to the output area of the tool.\n\nFunction description:\n\n1. Input the string that needs to be converted into UTF8 encoding into the tool.\n\n2. The tool will automatically convert the input string into UTF8 encoding and output the converted result to the output area of the tool.\n\n3. Supports outputting the converted result in HEX or HTML format.\n\nUse scenarios:\n\n1. Encoding conversion: During the development process, developers may need to convert strings into UTF8 encoding format. Using the UTF8 Encoding tool can facilitate quick conversion.\n\n2. Data transmission: During data transmission, sometimes data needs to be converted into UTF8 encoding format. Using the UTF8 Encoding tool can facilitate conversion and ensure the correctness of data transmission.\n\n3. Data storage: During data storage, sometimes data needs to be converted into UTF8 encoding format. Using the UTF8 Encoding tool can facilitate conversion and ensure the correctness of data storage."
     },
     "pt": {
       "$name": "Codificação UTF8",
-      "$description": "Codificação UTF8",
-      "$keywords": ["codificação"]
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Codificar",
+        "Codificação UTF8",
+        "Conversão de codificação",
+        "Transmissão de dados",
+        "Armazenamento de dados",
+        "Formato HEX",
+        "Formato HTML"
+      ],
+      "$description": "A ferramenta de codificação UTF8 é usada para converter strings de entrada em formato de codificação UTF8. Ela suporta a conversão de strings de entrada em formato HEX ou HTML de codificação UTF8, e exibe o resultado convertido na área de saída da ferramenta.\n\nDescrição da função:\n\n1. Insira a string que precisa ser convertida em codificação UTF8 na ferramenta.\n\n2. A ferramenta converterá automaticamente a string de entrada em codificação UTF8 e exibirá o resultado convertido na área de saída da ferramenta.\n\n3. Suporta a exibição do resultado convertido em formato HEX ou HTML.\n\nCenários de uso:\n\n1. Conversão de codificação: Durante o processo de desenvolvimento, os desenvolvedores podem precisar converter strings em formato de codificação UTF8. Usar a ferramenta de codificação UTF8 pode facilitar a conversão rápida.\n\n2. Transmissão de dados: Durante a transmissão de dados, às vezes é necessário converter dados em formato de codificação UTF8. Usar a ferramenta de codificação UTF8 pode facilitar a conversão e garantir a correção da transmissão de dados.\n\n3. Armazenamento de dados: Durante o armazenamento de dados, às vezes é necessário converter dados em formato de codificação UTF8. Usar a ferramenta de codificação UTF8 pode facilitar a conversão e garantir a correção do armazenamento de dados."
     },
     "ru": {
       "$name": "UTF8 Кодирование",
-      "$description": "UTF8 Кодирование",
-      "$keywords": ["кодирование"]
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Кодирование",
+        "Кодировка UTF8",
+        "Преобразование кодировки",
+        "Передача данных",
+        "Хранение данных",
+        "Формат HEX",
+        "Формат HTML"
+      ],
+      "$description": "Инструмент UTF8 Encoding Tool используется для преобразования входных строк в формат кодировки UTF8. Он поддерживает преобразование входных строк в формат кодировки UTF8 в HEX или HTML формате и выводит преобразованный результат в область вывода инструмента.\n\nОписание функций:\n\n1. Введите строку, которую нужно преобразовать в кодировку UTF8, в инструмент.\n\n2. Инструмент автоматически преобразует входную строку в кодировку UTF8 и выводит преобразованный результат в область вывода инструмента.\n\n3. Поддерживает вывод преобразованного результата в формате HEX или HTML.\n\nСценарии использования:\n\n1. Преобразование кодировки: В процессе разработки разработчики могут нуждаться в преобразовании строк в формат кодировки UTF8. Использование инструмента UTF8 Encoding Tool может облегчить быстрое преобразование.\n\n2. Передача данных: Во время передачи данных иногда данные нужно преобразовать в формат кодировки UTF8. Использование инструмента UTF8 Encoding Tool может облегчить преобразование и обеспечить правильность передачи данных.\n\n3. Хранение данных: Во время хранения данных иногда данные нужно преобразовать в формат кодировки UTF8. Использование инструмента UTF8 Encoding Tool может облегчить преобразование и обеспечить правильность хранения данных."
+    },
+    "it": {
+      "$name": "Codifica UTF8",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Codifica",
+        "Codifica UTF8",
+        "Conversione di codifica",
+        "Trasmissione di dati",
+        "Archiviazione di dati",
+        "Formato HEX",
+        "Formato HTML"
+      ],
+      "$description": "Lo strumento di codifica UTF8 è uno strumento utilizzato per convertire le stringhe di input nel formato di codifica UTF8. Supporta la conversione delle stringhe di input nel formato di codifica UTF8 in formato HEX o HTML e restituisce il risultato convertito nell'area di output dello strumento.\n\nDescrizione della funzione:\n\n1. Inserire la stringa che deve essere convertita in codifica UTF8 nello strumento.\n\n2. Lo strumento convertirà automaticamente la stringa di input in codifica UTF8 e restituirà il risultato convertito nell'area di output dello strumento.\n\n3. Supporta la restituzione del risultato convertito in formato HEX o HTML.\n\nScenari d'uso:\n\n1. Conversione di codifica: durante il processo di sviluppo, gli sviluppatori possono dover convertire le stringhe nel formato di codifica UTF8. L'utilizzo dello strumento di codifica UTF8 può facilitare la conversione rapida.\n\n2. Trasmissione di dati: durante la trasmissione di dati, a volte i dati devono essere convertiti nel formato di codifica UTF8. L'utilizzo dello strumento di codifica UTF8 può facilitare la conversione e garantire la correttezza della trasmissione dei dati.\n\n3. Archiviazione di dati: durante l'archiviazione di dati, a volte i dati devono essere convertiti nel formato di codifica UTF8. L'utilizzo dello strumento di codifica UTF8 può facilitare la conversione e garantire la correttezza dell'archiviazione dei dati."
+    },
+    "fr": {
+      "$name": "Encodage UTF8",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Encodage",
+        "Encodage UTF8",
+        "Conversion d'encodage",
+        "Transmission de données",
+        "Stockage de données",
+        "Format HEX",
+        "Format HTML"
+      ],
+      "$description": "Outil de codage UTF8 est un outil utilisé pour convertir des chaînes d'entrée en format de codage UTF8. Il prend en charge la conversion des chaînes d'entrée en format HEX ou HTML de codage UTF8, et affiche le résultat converti dans la zone de sortie de l'outil.\n\nDescription de la fonction :\n\n1. Entrez la chaîne à convertir en codage UTF8 dans l'outil.\n\n2. L'outil convertira automatiquement la chaîne d'entrée en codage UTF8 et affichera le résultat converti dans la zone de sortie de l'outil.\n\n3. Prend en charge la sortie du résultat converti en format HEX ou HTML.\n\nScénarios d'utilisation :\n\n1. Conversion de codage : Pendant le processus de développement, les développeurs peuvent avoir besoin de convertir des chaînes en format de codage UTF8. L'utilisation de l'outil de codage UTF8 peut faciliter la conversion rapide.\n\n2. Transmission de données : Pendant la transmission de données, parfois les données doivent être converties en format de codage UTF8. L'utilisation de l'outil de codage UTF8 peut faciliter la conversion et assurer la correction de la transmission de données.\n\n3. Stockage de données : Pendant le stockage de données, parfois les données doivent être converties en format de codage UTF8. L'utilisation de l'outil de codage UTF8 peut faciliter la conversion et assurer la correction du stockage de données."
+    },
+    "de": {
+      "$name": "UTF8-Kodierung",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Kodierung",
+        "UTF8-Kodierung",
+        "Kodierungsumwandlung",
+        "Datenübertragung",
+        "Daten speichern",
+        "HEX-Format",
+        "HTML-Format"
+      ],
+      "$description": "UTF8 Encoding Tool ist ein Werkzeug, das verwendet wird, um Eingabestrings in das UTF8-Kodierungsformat zu konvertieren. Es unterstützt die Konvertierung von Eingabestrings in das HEX- oder HTML-Format der UTF8-Kodierung und gibt das konvertierte Ergebnis im Ausgabe-Bereich des Werkzeugs aus.\n\nFunktionsbeschreibung:\n\n1. Geben Sie den String, der in das UTF8-Kodierungsformat konvertiert werden soll, in das Werkzeug ein.\n\n2. Das Werkzeug konvertiert automatisch den Eingabestring in das UTF8-Kodierungsformat und gibt das konvertierte Ergebnis im Ausgabe-Bereich des Werkzeugs aus.\n\n3. Unterstützt die Ausgabe des konvertierten Ergebnisses im HEX- oder HTML-Format.\n\nAnwendungsszenarien:\n\n1. Kodierungskonvertierung: Während des Entwicklungsprozesses müssen Entwickler möglicherweise Strings in das UTF8-Kodierungsformat konvertieren. Die Verwendung des UTF8 Encoding-Tools kann eine schnelle Konvertierung erleichtern.\n\n2. Datenübertragung: Während der Datenübertragung müssen Daten manchmal in das UTF8-Kodierungsformat konvertiert werden. Die Verwendung des UTF8 Encoding-Tools kann die Konvertierung erleichtern und die Korrektheit der Datenübertragung sicherstellen.\n\n3. Datenspeicherung: Während der Datenspeicherung müssen Daten manchmal in das UTF8-Kodierungsformat konvertiert werden. Die Verwendung des UTF8 Encoding-Tools kann die Konvertierung erleichtern und die Korrektheit der Datenspeicherung sicherstellen."
+    },
+    "ko": {
+      "$name": "UTF8 인코딩",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "인코딩",
+        "UTF8 인코딩",
+        "인코딩 변환",
+        "데이터 전송",
+        "데이터 저장",
+        "HEX 형식",
+        "HTML 형식"
+      ],
+      "$description": "UTF8 인코딩 도구는 입력 문자열을 UTF8 인코딩 형식으로 변환하는 데 사용되는 도구입니다. 이 도구는 입력 문자열을 UTF8 인코딩의 HEX 또는 HTML 형식으로 변환하고, 변환된 결과를 도구의 출력 영역에 출력하는 기능을 지원합니다.\n\n기능 설명:\n\n1. UTF8 인코딩으로 변환해야 하는 문자열을 도구에 입력합니다.\n\n2. 도구는 자동으로 입력 문자열을 UTF8 인코딩으로 변환하고, 변환된 결과를 도구의 출력 영역에 출력합니다.\n\n3. HEX 또는 HTML 형식으로 변환된 결과를 출력하는 기능을 지원합니다.\n\n사용 시나리오:\n\n1. 인코딩 변환: 개발 과정에서 개발자는 문자열을 UTF8 인코딩 형식으로 변환해야 할 때가 있습니다. UTF8 인코딩 도구를 사용하면 빠른 변환을 용이하게 할 수 있습니다.\n\n2. 데이터 전송: 데이터 전송 중에는 때로 데이터를 UTF8 인코딩 형식으로 변환해야 할 때가 있습니다. UTF8 인코딩 도구를 사용하면 변환을 용이하게 하고, 데이터 전송의 정확성을 보장할 수 있습니다.\n\n3. 데이터 저장: 데이터 저장 중에는 때로 데이터를 UTF8 인코딩 형식으로 변환해야 할 때가 있습니다. UTF8 인코딩 도구를 사용하면 변환을 용이하게 하고, 데이터 저장의 정확성을 보장할 수 있습니다."
+    },
+    "ja": {
+      "$name": "UTF8エンコーディング",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "エンコード",
+        "UTF8エンコーディング",
+        "エンコーディング変換",
+        "データ転送",
+        "データストレージ",
+        "HEX形式",
+        "HTML形式"
+      ],
+      "$description": "UTF8エンコーディングツールは、入力された文字列をUTF8エンコーディング形式に変換するためのツールです。このツールは、入力された文字列をUTF8エンコーディングのHEXまたはHTML形式に変換することができ、変換された結果をツールの出力エリアに出力することができます。\n\n機能の説明：\n\n1. UTF8エンコーディングに変換する必要がある文字列をツールに入力します。\n\n2. ツールは自動的に入力された文字列をUTF8エンコーディングに変換し、変換された結果をツールの出力エリアに出力します。\n\n3. HEXまたはHTML形式で変換された結果を出力することができます。\n\n使用シナリオ：\n\n1. エンコード変換：開発プロセス中に、開発者は文字列をUTF8エンコーディング形式に変換する必要がある場合があります。UTF8エンコーディングツールを使用することで、迅速な変換が可能になります。\n\n2. データ伝送：データ伝送中に、データをUTF8エンコーディング形式に変換する必要がある場合があります。UTF8エンコーディングツールを使用することで、変換を容易にし、データ伝送の正確性を確保することができます。\n\n3. データ保存：データ保存中に、データをUTF8エンコーディング形式に変換する必要がある場合があります。UTF8エンコーディングツールを使用することで、変換を容易にし、データ保存の正確性を確保することができます。"
+    },
+    "es": {
+      "$name": "Codificación UTF8",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Codificar",
+        "Codificación UTF8",
+        "Conversión de codificación",
+        "Transmisión de datos",
+        "Almacenamiento de datos",
+        "Formato HEX",
+        "Formato HTML"
+      ],
+      "$description": "La herramienta de codificación UTF8 es una herramienta utilizada para convertir cadenas de entrada al formato de codificación UTF8. Soporta la conversión de cadenas de entrada en formato HEX o HTML de codificación UTF8, y muestra el resultado convertido en el área de salida de la herramienta.\n\nDescripción de la función:\n\n1. Introduzca la cadena que necesita ser convertida en codificación UTF8 en la herramienta.\n\n2. La herramienta convertirá automáticamente la cadena de entrada en codificación UTF8 y mostrará el resultado convertido en el área de salida de la herramienta.\n\n3. Soporta la salida del resultado convertido en formato HEX o HTML.\n\nEscenarios de uso:\n\n1. Conversión de codificación: Durante el proceso de desarrollo, los desarrolladores pueden necesitar convertir cadenas en formato de codificación UTF8. El uso de la herramienta de codificación UTF8 puede facilitar la conversión rápida.\n\n2. Transmisión de datos: Durante la transmisión de datos, a veces es necesario convertir los datos en formato de codificación UTF8. El uso de la herramienta de codificación UTF8 puede facilitar la conversión y asegurar la corrección de la transmisión de datos.\n\n3. Almacenamiento de datos: Durante el almacenamiento de datos, a veces es necesario convertir los datos en formato de codificación UTF8. El uso de la herramienta de codificación UTF8 puede facilitar la conversión y asegurar la corrección del almacenamiento de datos."
     },
     "zh-tw": {
       "$name": "UTF8 編碼",
-      "$description": "UTF8 編碼",
-      "$keywords": ["編碼"]
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "編碼",
+        "UTF8編碼",
+        "編碼轉換",
+        "資料傳輸",
+        "資料儲存",
+        "HEX格式",
+        "HTML格式"
+      ],
+      "$description": "UTF8編碼工具是一種工具，用於將輸入字符串轉換為UTF8編碼格式。它支持將輸入字符串轉換為UTF8編碼的HEX或HTML格式，並將轉換後的結果輸出到工具的輸出區域。\n\n功能描述：\n\n1. 將需要轉換為UTF8編碼的字符串輸入到工具中。\n\n2. 工具將自動將輸入字符串轉換為UTF8編碼，並將轉換後的結果輸出到工具的輸出區域。\n\n3. 支持以HEX或HTML格式輸出轉換後的結果。\n\n使用場景：\n\n1. 編碼轉換：在開發過程中，開發人員可能需要將字符串轉換為UTF8編碼格式。使用UTF8編碼工具可以方便快速地進行轉換。\n\n2. 數據傳輸：在數據傳輸過程中，有時需要將數據轉換為UTF8編碼格式。使用UTF8編碼工具可以方便轉換，並確保數據傳輸的正確性。\n\n3. 數據存儲：在數據存儲過程中，有時需要將數據轉換為UTF8編碼格式。使用UTF8編碼工具可以方便轉換，並確保數據存儲的正確性。"
     },
     "zh-cn": {
-      "$name": "UTF8 编码",
-      "$description": "UTF8 编码",
-      "$keywords": ["编码"]
+      "$name": "UTF8编码",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "编码",
+        "UTF8编码",
+        "编码转换",
+        "数据传输",
+        "数据存储",
+        "十六进制格式",
+        "HTML格式"
+      ],
+      "$description": "UTF8编码工具是一种用于将输入字符串转换为UTF8编码格式的工具。它支持将输入字符串转换为UTF8编码的HEX或HTML格式，并将转换后的结果输出到工具的输出区域。\n\n功能描述：\n\n1. 将需要转换为UTF8编码的字符串输入到工具中。\n\n2. 工具将自动将输入字符串转换为UTF8编码，并将转换后的结果输出到工具的输出区域。\n\n3. 支持以HEX或HTML格式输出转换后的结果。\n\n使用场景：\n\n1. 编码转换：在开发过程中，开发人员可能需要将字符串转换为UTF8编码格式。使用UTF8编码工具可以方便快速地进行转换。\n\n2. 数据传输：在数据传输过程中，有时需要将数据转换为UTF8编码格式。使用UTF8编码工具可以方便转换，并确保数据传输的正确性。\n\n3. 数据存储：在数据存储过程中，有时需要将数据转换为UTF8编码格式。使用UTF8编码工具可以方便转换，并确保数据存储的正确性。"
     }
   },
   {
     "id": "utf8-decode",
-    "zh": {
-      "$name": "UTF8 解码",
-      "$description": "UTF8 解码",
-      "$keywords": ["解码"]
-    },
     "en": {
-      "$name": "UTF8 Decode",
-      "$description": "UTF8 Decode",
-      "$keywords": ["UTF", "UTF8", "UTF-8", "Decode"]
-    },
-    "de": {
-      "$name": "UTF8 Decodierung",
-      "$description": "UTF8 Decodierung",
-      "$keywords": ["Dekodierung"]
-    },
-    "es": {
-      "$name": "Decodificación UTF8",
-      "$description": "Decodificación UTF8",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage UTF8",
-      "$description": "Décodage UTF8",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica UTF8",
-      "$description": "Decodifica UTF8",
-      "$keywords": ["decodifica"]
-    },
-    "ja": {
-      "$name": "UTF8デコード",
-      "$description": "UTF8デコード",
-      "$keywords": ["デコード"]
-    },
-    "ko": {
-      "$name": "UTF8 디코딩",
-      "$description": "UTF8 디코딩",
-      "$keywords": ["디코딩"]
+      "$name": "UTF8 Decoding",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decode",
+        "UTF8 decoding",
+        "HTML entity encoding",
+        "string encoding",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "$description": "UTF8 Decoding tool is a tool used to decode UTF8 encoded strings into readable strings. It can convert HTML entity encoded strings into UTF8 encoded strings and decode them into readable strings. This tool also provides the ability to encode strings into UTF8 encoding.\n\nFeatures:\n\n1. Paste or input the UTF8 encoded string into the tool.\n\n2. The tool will automatically detect whether the input string is UTF8 encoded.\n\n3. If the input string is an HTML entity encoded string, the tool will convert it into a UTF8 encoded string and decode it into a readable string.\n\n4. If the input string is a UTF8 encoded string, the tool will decode it into a readable string.\n\n5. The tool also provides the ability to encode strings into UTF8 encoding.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to view the returned UTF8 encoded strings. Using the UTF8 Decoding tool, they can decode it into a readable string for quick checking of data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various UTF8 encoded strings. Using this tool, they can easily decode UTF8 encoded strings into readable strings, which helps them better understand data structure and content.\n\n3. Code review: During code review, reviewers can use the UTF8 Decoding tool to decode UTF8 encoded strings for easier viewing and understanding of data structure."
     },
     "pt": {
       "$name": "Decodificação UTF8",
-      "$description": "Decodificação UTF8",
-      "$keywords": ["decodificação"]
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decodificar",
+        "Decodificação UTF8",
+        "Codificação de entidade HTML",
+        "Codificação de string",
+        "Desenvolvimento de API",
+        "Análise de dados",
+        "Revisão de código"
+      ],
+      "$description": "Ferramenta de Decodificação UTF8 é uma ferramenta usada para decodificar strings codificadas em UTF8 em strings legíveis. Ela pode converter strings codificadas em entidades HTML em strings codificadas em UTF8 e decodificá-las em strings legíveis. Esta ferramenta também fornece a capacidade de codificar strings em codificação UTF8.\n\nRecursos:\n\n1. Cole ou insira a string codificada em UTF8 na ferramenta.\n\n2. A ferramenta detectará automaticamente se a string de entrada está codificada em UTF8.\n\n3. Se a string de entrada for uma string codificada em entidade HTML, a ferramenta a converterá em uma string codificada em UTF8 e a decodificará em uma string legível.\n\n4. Se a string de entrada for uma string codificada em UTF8, a ferramenta a decodificará em uma string legível.\n\n5. A ferramenta também fornece a capacidade de codificar strings em codificação UTF8.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de API: Ao desenvolver ou testar APIs, os desenvolvedores frequentemente precisam visualizar as strings codificadas em UTF8 retornadas. Usando a Ferramenta de Decodificação UTF8, eles podem decodificá-las em uma string legível para verificar rapidamente a estrutura e o conteúdo dos dados.\n\n2. Análise de dados: Analistas de dados precisam processar e analisar várias strings codificadas em UTF8. Usando esta ferramenta, eles podem facilmente decodificar strings codificadas em UTF8 em strings legíveis, o que os ajuda a entender melhor a estrutura e o conteúdo dos dados.\n\n3. Revisão de código: Durante a revisão de código, os revisores podem usar a Ferramenta de Decodificação UTF8 para decodificar strings codificadas em UTF8 para visualização e compreensão mais fáceis da estrutura de dados."
     },
     "ru": {
-      "$name": "UTF8 Декодирование",
-      "$description": "UTF8 Декодирование",
-      "$keywords": ["декодирование"]
+      "$name": "Декодирование UTF8",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Декодирование",
+        "Декодирование UTF8",
+        "Кодирование HTML-сущностей",
+        "Кодирование строк",
+        "Разработка API",
+        "Анализ данных",
+        "Обзор кода"
+      ],
+      "$description": "Инструмент декодирования UTF8 - это инструмент, используемый для декодирования строк, закодированных в UTF8, в читаемые строки. Он может преобразовывать строки, закодированные в HTML-сущности, в строки, закодированные в UTF8, и декодировать их в читаемые строки. Этот инструмент также позволяет кодировать строки в кодировку UTF8.\n\nОсобенности:\n\n1. Вставьте или введите закодированную в UTF8 строку в инструмент.\n\n2. Инструмент автоматически определит, является ли входная строка закодированной в UTF8.\n\n3. Если входная строка закодирована в HTML-сущности, инструмент преобразует ее в строку, закодированную в UTF8, и декодирует ее в читаемую строку.\n\n4. Если входная строка закодирована в UTF8, инструмент декодирует ее в читаемую строку.\n\n5. Инструмент также позволяет кодировать строки в кодировку UTF8.\n\nПрименение:\n\n1. Разработка и тестирование API: При разработке или тестировании API разработчики часто должны просматривать возвращаемые строки, закодированные в UTF8. Используя инструмент декодирования UTF8, они могут декодировать их в читаемую строку для быстрой проверки структуры данных и содержимого.\n\n2. Анализ данных: Аналитики данных должны обрабатывать и анализировать различные строки, закодированные в UTF8. Используя этот инструмент, они могут легко декодировать строки, закодированные в UTF8, в читаемые строки, что помогает им лучше понимать структуру данных и содержимое.\n\n3. Обзор кода: Во время обзора кода рецензенты могут использовать инструмент декодирования UTF8 для декодирования строк, закодированных в UTF8, для более легкого просмотра и понимания структуры данных."
+    },
+    "it": {
+      "$name": "Decodifica UTF8",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decodifica",
+        "Decodifica UTF8",
+        "Codifica delle entità HTML",
+        "Codifica delle stringhe",
+        "Sviluppo API",
+        "Analisi dei dati",
+        "Revisione del codice"
+      ],
+      "$description": "Lo strumento di decodifica UTF8 è uno strumento utilizzato per decodificare stringhe codificate in UTF8 in stringhe leggibili. Può convertire stringhe codificate in entità HTML in stringhe codificate in UTF8 e decodificarle in stringhe leggibili. Questo strumento fornisce anche la capacità di codificare stringhe in codifica UTF8.\n\nCaratteristiche:\n\n1. Incolla o inserisci la stringa codificata in UTF8 nello strumento.\n\n2. Lo strumento rileverà automaticamente se la stringa di input è codificata in UTF8.\n\n3. Se la stringa di input è una stringa codificata in entità HTML, lo strumento la convertirà in una stringa codificata in UTF8 e la decodificherà in una stringa leggibile.\n\n4. Se la stringa di input è una stringa codificata in UTF8, lo strumento la decodificherà in una stringa leggibile.\n\n5. Lo strumento fornisce anche la capacità di codificare stringhe in codifica UTF8.\n\nCasi d'uso:\n\n1. Sviluppo e test API: durante lo sviluppo o il test delle API, gli sviluppatori spesso devono visualizzare le stringhe codificate in UTF8 restituite. Utilizzando lo strumento di decodifica UTF8, possono decodificarle in una stringa leggibile per una rapida verifica della struttura e del contenuto dei dati.\n\n2. Analisi dei dati: gli analisti dei dati devono elaborare e analizzare varie stringhe codificate in UTF8. Utilizzando questo strumento, possono facilmente decodificare le stringhe codificate in UTF8 in stringhe leggibili, il che li aiuta a comprendere meglio la struttura e il contenuto dei dati.\n\n3. Revisione del codice: durante la revisione del codice, i revisori possono utilizzare lo strumento di decodifica UTF8 per decodificare le stringhe codificate in UTF8 per una visualizzazione e comprensione più semplice della struttura dei dati."
+    },
+    "fr": {
+      "$name": "Décodage UTF8",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Décode",
+        "Décodage UTF8",
+        "Encodage d'entités HTML",
+        "Encodage de chaîne",
+        "Développement d'API",
+        "Analyse de données",
+        "Révision de code"
+      ],
+      "$description": "Outil de décodage UTF8 est un outil utilisé pour décoder les chaînes encodées en UTF8 en chaînes lisibles. Il peut convertir les chaînes encodées en entités HTML en chaînes encodées en UTF8 et les décoder en chaînes lisibles. Cet outil permet également d'encoder des chaînes en encodage UTF8.\n\nFonctionnalités :\n\n1. Collez ou entrez la chaîne encodée en UTF8 dans l'outil.\n\n2. L'outil détectera automatiquement si la chaîne d'entrée est encodée en UTF8.\n\n3. Si la chaîne d'entrée est une chaîne encodée en entités HTML, l'outil la convertira en une chaîne encodée en UTF8 et la décoder en une chaîne lisible.\n\n4. Si la chaîne d'entrée est une chaîne encodée en UTF8, l'outil la décoder en une chaîne lisible.\n\n5. L'outil permet également d'encoder des chaînes en encodage UTF8.\n\nCas d'utilisation :\n\n1. Développement et test d'API : lors du développement ou du test d'API, les développeurs ont souvent besoin de visualiser les chaînes encodées en UTF8 renvoyées. En utilisant l'outil de décodage UTF8, ils peuvent la décoder en une chaîne lisible pour vérifier rapidement la structure et le contenu des données.\n\n2. Analyse de données : les analystes de données doivent traiter et analyser diverses chaînes encodées en UTF8. En utilisant cet outil, ils peuvent facilement décoder les chaînes encodées en UTF8 en chaînes lisibles, ce qui les aide à mieux comprendre la structure et le contenu des données.\n\n3. Révision de code : lors de la révision de code, les examinateurs peuvent utiliser l'outil de décodage UTF8 pour décoder les chaînes encodées en UTF8 pour une visualisation et une compréhension plus faciles de la structure des données."
+    },
+    "de": {
+      "$name": "UTF8 Decodierung",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Dekodierung",
+        "UTF8-Dekodierung",
+        "HTML-Entity-Kodierung",
+        "Zeichenkettenkodierung",
+        "API-Entwicklung",
+        "Datenanalyse",
+        "Code-Überprüfung"
+      ],
+      "$description": "UTF8-Decodierungstool ist ein Tool, das verwendet wird, um UTF8-kodierte Zeichenfolgen in lesbare Zeichenfolgen zu decodieren. Es kann HTML-Entity-kodierte Zeichenfolgen in UTF8-kodierte Zeichenfolgen konvertieren und in lesbare Zeichenfolgen decodieren. Dieses Tool bietet auch die Möglichkeit, Zeichenfolgen in UTF8-Kodierung zu kodieren.\n\nFunktionen:\n\n1. Fügen Sie die UTF8-kodierte Zeichenfolge in das Tool ein oder geben Sie sie ein.\n\n2. Das Tool erkennt automatisch, ob die Eingabezeichenfolge UTF8-kodiert ist.\n\n3. Wenn die Eingabezeichenfolge eine HTML-Entity-kodierte Zeichenfolge ist, konvertiert das Tool sie in eine UTF8-kodierte Zeichenfolge und decodiert sie in eine lesbare Zeichenfolge.\n\n4. Wenn die Eingabezeichenfolge eine UTF8-kodierte Zeichenfolge ist, decodiert das Tool sie in eine lesbare Zeichenfolge.\n\n5. Das Tool bietet auch die Möglichkeit, Zeichenfolgen in UTF8-Kodierung zu kodieren.\n\nAnwendungsfälle:\n\n1. API-Entwicklung und -Test: Bei der Entwicklung oder dem Testen von APIs müssen Entwickler oft die zurückgegebenen UTF8-kodierten Zeichenfolgen anzeigen. Mit dem UTF8-Decodierungstool können sie es schnell in eine lesbare Zeichenfolge decodieren, um die Datenstruktur und den Inhalt schnell zu überprüfen.\n\n2. Datenanalyse: Datenanalysten müssen verschiedene UTF8-kodierte Zeichenfolgen verarbeiten und analysieren. Mit diesem Tool können sie UTF8-kodierte Zeichenfolgen leicht in lesbare Zeichenfolgen decodieren, was ihnen hilft, die Datenstruktur und den Inhalt besser zu verstehen.\n\n3. Code-Überprüfung: Während der Code-Überprüfung können Reviewer das UTF8-Decodierungstool verwenden, um UTF8-kodierte Zeichenfolgen zu decodieren, um die Datenstruktur leichter anzeigen und verstehen zu können."
+    },
+    "ko": {
+      "$name": "UTF8 디코딩",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "디코딩",
+        "UTF8 디코딩",
+        "HTML 엔티티 인코딩",
+        "문자열 인코딩",
+        "API 개발",
+        "데이터 분석",
+        "코드 리뷰"
+      ],
+      "$description": "UTF8 디코딩 도구는 UTF8로 인코딩된 문자열을 읽을 수 있는 문자열로 디코딩하는 데 사용되는 도구입니다. 이 도구는 HTML 엔티티로 인코딩된 문자열을 UTF8로 인코딩된 문자열로 변환하고 읽을 수 있는 문자열로 디코딩할 수 있습니다. 이 도구는 또한 문자열을 UTF8 인코딩으로 인코딩하는 기능도 제공합니다.\n\n기능:\n\n1. UTF8로 인코딩된 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 입력 문자열이 UTF8로 인코딩되었는지 여부를 감지합니다.\n\n3. 입력 문자열이 HTML 엔티티로 인코딩된 문자열인 경우, 도구는 이를 UTF8로 인코딩된 문자열로 변환하고 읽을 수 있는 문자열로 디코딩합니다.\n\n4. 입력 문자열이 UTF8로 인코딩된 문자열인 경우, 도구는 읽을 수 있는 문자열로 디코딩합니다.\n\n5. 이 도구는 또한 문자열을 UTF8 인코딩으로 인코딩하는 기능도 제공합니다.\n\n사용 사례:\n\n1. API 개발 및 테스트: API를 개발하거나 테스트할 때, 개발자는 종종 반환된 UTF8로 인코딩된 문자열을 확인해야 합니다. UTF8 디코딩 도구를 사용하여 읽을 수 있는 문자열로 디코딩하여 데이터 구조와 내용을 빠르게 확인할 수 있습니다.\n\n2. 데이터 분석: 데이터 분석가는 다양한 UTF8로 인코딩된 문자열을 처리하고 분석해야 합니다. 이 도구를 사용하여 UTF8로 인코딩된 문자열을 쉽게 읽을 수 있는 문자열로 디코딩하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다.\n\n3. 코드 검토: 코드 검토 중에 리뷰어는 UTF8 디코딩 도구를 사용하여 UTF8로 인코딩된 문자열을 디코딩하여 데이터 구조를 더 쉽게 볼 수 있고 이해할 수 있습니다."
+    },
+    "ja": {
+      "$name": "UTF8デコード",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "デコード",
+        "UTF8デコード",
+        "HTMLエンティティエンコーディング",
+        "文字列エンコーディング",
+        "API開発",
+        "データ分析",
+        "コードレビュー"
+      ],
+      "$description": "UTF8デコードツールは、UTF8エンコードされた文字列を読みやすい文字列にデコードするためのツールです。HTMLエンティティエンコードされた文字列をUTF8エンコードされた文字列に変換し、読みやすい文字列にデコードすることもできます。このツールには、文字列をUTF8エンコードする機能も備わっています。\n\n機能：\n\n1. UTF8エンコードされた文字列をツールに貼り付けるか入力します。\n\n2. ツールは、入力された文字列がUTF8エンコードされているかどうかを自動的に検出します。\n\n3. 入力された文字列がHTMLエンティティエンコードされた文字列である場合、ツールはそれをUTF8エンコードされた文字列に変換し、読みやすい文字列にデコードします。\n\n4. 入力された文字列がUTF8エンコードされた文字列である場合、ツールはそれを読みやすい文字列にデコードします。\n\n5. このツールには、文字列をUTF8エンコードする機能も備わっています。\n\n使用例：\n\n1. APIの開発とテスト：APIを開発またはテストする際、開発者はしばしば返されたUTF8エンコードされた文字列を表示する必要があります。UTF8デコードツールを使用することで、データ構造と内容を素早く確認するために読みやすい文字列にデコードすることができます。\n\n2. データ分析：データアナリストは、さまざまなUTF8エンコードされた文字列を処理および分析する必要があります。このツールを使用することで、UTF8エンコードされた文字列を簡単に読みやすい文字列にデコードすることができ、データ構造と内容をより理解することができます。\n\n3. コードレビュー：コードレビュー中、レビュアーはUTF8デコードツールを使用してUTF8エンコードされた文字列をデコードし、データ構造をより簡単に表示および理解することができます。"
+    },
+    "es": {
+      "$name": "Decodificación UTF8",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "Decodificar",
+        "Decodificación UTF8",
+        "Codificación de entidades HTML",
+        "Codificación de cadenas",
+        "Desarrollo de API",
+        "Análisis de datos",
+        "Revisión de código"
+      ],
+      "$description": "La herramienta de decodificación UTF8 es una herramienta utilizada para decodificar cadenas codificadas en UTF8 en cadenas legibles. Puede convertir cadenas codificadas en entidades HTML en cadenas codificadas en UTF8 y decodificarlas en cadenas legibles. Esta herramienta también proporciona la capacidad de codificar cadenas en codificación UTF8.\n\nCaracterísticas:\n\n1. Pegue o ingrese la cadena codificada en UTF8 en la herramienta.\n\n2. La herramienta detectará automáticamente si la cadena de entrada está codificada en UTF8.\n\n3. Si la cadena de entrada es una cadena codificada en entidades HTML, la herramienta la convertirá en una cadena codificada en UTF8 y la decodificará en una cadena legible.\n\n4. Si la cadena de entrada está codificada en UTF8, la herramienta la decodificará en una cadena legible.\n\n5. La herramienta también proporciona la capacidad de codificar cadenas en codificación UTF8.\n\nCasos de uso:\n\n1. Desarrollo y prueba de API: al desarrollar o probar API, los desarrolladores a menudo necesitan ver las cadenas codificadas en UTF8 devueltas. Usando la herramienta de decodificación UTF8, pueden decodificarla en una cadena legible para verificar rápidamente la estructura y el contenido de los datos.\n\n2. Análisis de datos: los analistas de datos necesitan procesar y analizar varias cadenas codificadas en UTF8. Usando esta herramienta, pueden decodificar fácilmente las cadenas codificadas en UTF8 en cadenas legibles, lo que les ayuda a comprender mejor la estructura y el contenido de los datos.\n\n3. Revisión de código: durante la revisión de código, los revisores pueden usar la herramienta de decodificación UTF8 para decodificar cadenas codificadas en UTF8 para una visualización y comprensión más fácil de la estructura de datos."
     },
     "zh-tw": {
       "$name": "UTF8 解碼",
-      "$description": "UTF8 解碼",
-      "$keywords": ["解碼"]
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "解碼",
+        "UTF8 解碼",
+        "HTML 實體編碼",
+        "字串編碼",
+        "API 開發",
+        "資料分析",
+        "程式碼審查"
+      ],
+      "$description": "UTF8解碼工具是一種工具，用於將UTF8編碼的字符串解碼為可讀字符串。它可以將HTML實體編碼的字符串轉換為UTF8編碼的字符串並將其解碼為可讀字符串。此工具還提供了將字符串編碼為UTF8編碼的功能。\n\n特點：\n\n1. 將UTF8編碼的字符串粘貼或輸入到工具中。\n\n2. 工具將自動檢測輸入字符串是否為UTF8編碼。\n\n3. 如果輸入字符串是HTML實體編碼的字符串，工具將將其轉換為UTF8編碼的字符串並將其解碼為可讀字符串。\n\n4. 如果輸入字符串是UTF8編碼的字符串，工具將將其解碼為可讀字符串。\n\n5. 此工具還提供了將字符串編碼為UTF8編碼的功能。\n\n用途：\n\n1. API開發和測試：在開發或測試API時，開發人員經常需要查看返回的UTF8編碼的字符串。使用UTF8解碼工具，他們可以將其解碼為可讀字符串，以快速檢查數據結構和內容。\n\n2. 數據分析：數據分析師需要處理和分析各種UTF8編碼的字符串。使用此工具，他們可以輕鬆地將UTF8編碼的字符串解碼為可讀字符串，這有助於他們更好地理解數據結構和內容。\n\n3. 代碼審查：在代碼審查期間，審查人員可以使用UTF8解碼工具將UTF8編碼的字符串解碼為更容易查看和理解數據結構的可讀字符串。"
     },
     "zh-cn": {
-      "$name": "UTF8 解码",
-      "$description": "UTF8 解码",
-      "$keywords": ["解码"]
+      "$name": "UTF8解码",
+      "$keywords": [
+        "UTF",
+        "UTF8",
+        "UTF-8",
+        "解码",
+        "UTF8解码",
+        "HTML实体编码",
+        "字符串编码",
+        "API开发",
+        "数据分析",
+        "代码审查"
+      ],
+      "$description": "UTF8解码工具是一种用于将UTF8编码的字符串解码为可读字符串的工具。它可以将HTML实体编码的字符串转换为UTF8编码的字符串并解码为可读字符串。此工具还提供将字符串编码为UTF8编码的功能。\n\n特点：\n\n1. 将UTF8编码的字符串粘贴或输入到工具中。\n\n2. 工具将自动检测输入字符串是否为UTF8编码。\n\n3. 如果输入字符串是HTML实体编码的字符串，则工具将将其转换为UTF8编码的字符串并解码为可读字符串。\n\n4. 如果输入字符串是UTF8编码的字符串，则工具将解码为可读字符串。\n\n5. 该工具还提供将字符串编码为UTF8编码的功能。\n\n用例：\n\n1. API开发和测试：在开发或测试API时，开发人员经常需要查看返回的UTF8编码的字符串。使用UTF8解码工具，他们可以将其解码为可读字符串，以快速检查数据结构和内容。\n\n2. 数据分析：数据分析师需要处理和分析各种UTF8编码的字符串。使用此工具，他们可以轻松地将UTF8编码的字符串解码为可读字符串，这有助于他们更好地理解数据结构和内容。\n\n3. 代码审查：在代码审查期间，审查人员可以使用UTF8解码工具解码UTF8编码的字符串，以便更轻松地查看和理解数据结构。"
     }
   },
   {
     "id": "utf16-encode",
-    "zh": {
-      "$name": "UTF16 编码",
-      "$description": "UTF16 编码",
-      "$keywords": ["编码"]
-    },
     "en": {
-      "$name": "UTF16 Encode",
-      "$description": "UTF16 Encode",
-      "$keywords": ["utf16", "encode"]
-    },
-    "de": {
-      "$name": "UTF16 Codierung",
-      "$description": "UTF16 Codierung",
-      "$keywords": ["Codierung"]
-    },
-    "es": {
-      "$name": "Codificación UTF16",
-      "$description": "Codificación UTF16",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage UTF16",
-      "$description": "Encodage UTF16",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica UTF16",
-      "$description": "Codifica UTF16",
-      "$keywords": ["Coding"]
-    },
-    "ja": {
-      "$name": "UTF16エンコーディング",
-      "$description": "UTF16エンコーディング",
-      "$keywords": ["コーディング"]
-    },
-    "ko": {
-      "$name": "UTF16 인코딩",
-      "$description": "UTF16 인코딩",
-      "$keywords": ["코딩"]
+      "$name": "UTF16 Encoding",
+      "$keywords": [
+        "utf16",
+        "encode",
+        "UTF16 encoding",
+        "string encoding",
+        "string decoding",
+        "string format conversion"
+      ],
+      "$description": "UTF16 Encoding Tool is a tool used to encode strings into the UTF16 format. It can convert the input string into the UTF16 encoding format, and also decode an already encoded string into the original string.\n\nFeatures:\n\n1. Input the string that needs to be encoded into the tool.\n\n2. The tool will automatically convert the input string into the UTF16 encoding format.\n\n3. Input the already encoded string into the tool.\n\n4. The tool will automatically decode the input encoded string into the original string.\n\nUse cases:\n\n1. String encoding: During the development process, it is necessary to encode some strings into a specific format for transmission and storage. Using the UTF16 Encoding Tool can encode the string into the UTF16 format for transmission and storage between different systems.\n\n2. String decoding: In some cases, it is necessary to decode an already encoded string into the original string. Using the UTF16 Encoding Tool can decode the already encoded string into the original string for further processing.\n\n3. String format conversion: In some cases, it is necessary to convert a string from one format to another. Using the UTF16 Encoding Tool can convert the string from other formats to the UTF16 format, or convert the UTF16 format string to other formats."
     },
     "pt": {
       "$name": "Codificação UTF16",
-      "$description": "Codificação UTF16",
-      "$keywords": ["codificação"]
+      "$keywords": [
+        "utf16",
+        "codificar",
+        "codificação UTF16",
+        "codificação de string",
+        "decodificação de string",
+        "conversão de formato de string"
+      ],
+      "$description": "Ferramenta de Codificação UTF16 é uma ferramenta usada para codificar strings no formato UTF16. Ela pode converter a string de entrada para o formato de codificação UTF16, e também decodificar uma string já codificada para a string original.\n\nRecursos:\n\n1. Insira a string que precisa ser codificada na ferramenta.\n\n2. A ferramenta converterá automaticamente a string de entrada para o formato de codificação UTF16.\n\n3. Insira a string já codificada na ferramenta.\n\n4. A ferramenta decodificará automaticamente a string codificada de entrada para a string original.\n\nCasos de uso:\n\n1. Codificação de string: Durante o processo de desenvolvimento, é necessário codificar algumas strings em um formato específico para transmissão e armazenamento. Usando a Ferramenta de Codificação UTF16, é possível codificar a string no formato UTF16 para transmissão e armazenamento entre diferentes sistemas.\n\n2. Decodificação de string: Em alguns casos, é necessário decodificar uma string já codificada para a string original. Usando a Ferramenta de Codificação UTF16, é possível decodificar a string já codificada para a string original para processamento adicional.\n\n3. Conversão de formato de string: Em alguns casos, é necessário converter uma string de um formato para outro. Usando a Ferramenta de Codificação UTF16, é possível converter a string de outros formatos para o formato UTF16, ou converter a string no formato UTF16 para outros formatos."
     },
     "ru": {
-      "$name": "UTF16 Кодирование",
-      "$description": "UTF16 Кодирование",
-      "$keywords": ["кодирование"]
+      "$name": "Кодирование UTF16",
+      "$keywords": [
+        "utf16",
+        "кодирование",
+        "UTF16 кодирование",
+        "кодирование строки",
+        "декодирование строки",
+        "конвертация формата строки"
+      ],
+      "$description": "Инструмент кодирования UTF16 - это инструмент, используемый для кодирования строк в формат UTF16. Он может преобразовать входную строку в формат кодирования UTF16 и декодировать уже закодированную строку в исходную строку.\n\nОсобенности:\n\n1. Введите строку, которую нужно закодировать в инструмент.\n\n2. Инструмент автоматически преобразует входную строку в формат кодирования UTF16.\n\n3. Введите уже закодированную строку в инструмент.\n\n4. Инструмент автоматически декодирует входную закодированную строку в исходную строку.\n\nПрименение:\n\n1. Кодирование строк: В процессе разработки необходимо закодировать некоторые строки в определенный формат для передачи и хранения. Использование инструмента кодирования UTF16 позволяет закодировать строку в формат UTF16 для передачи и хранения между различными системами.\n\n2. Декодирование строк: В некоторых случаях необходимо декодировать уже закодированную строку в исходную строку. Использование инструмента кодирования UTF16 позволяет декодировать уже закодированную строку в исходную строку для дальнейшей обработки.\n\n3. Преобразование формата строк: В некоторых случаях необходимо преобразовать строку из одного формата в другой. Использование инструмента кодирования UTF16 позволяет преобразовать строку из других форматов в формат UTF16 или преобразовать строку в формате UTF16 в другие форматы."
+    },
+    "it": {
+      "$name": "Codifica UTF16",
+      "$keywords": [
+        "utf16",
+        "codifica",
+        "codifica UTF16",
+        "codifica stringa",
+        "decodifica stringa",
+        "conversione formato stringa"
+      ],
+      "$description": "Lo strumento di codifica UTF16 è uno strumento utilizzato per codificare le stringhe nel formato UTF16. Può convertire la stringa di input nel formato di codifica UTF16 e decodificare una stringa già codificata nella stringa originale.\n\nCaratteristiche:\n\n1. Inserisci la stringa che deve essere codificata nello strumento.\n\n2. Lo strumento convertirà automaticamente la stringa di input nel formato di codifica UTF16.\n\n3. Inserisci la stringa già codificata nello strumento.\n\n4. Lo strumento decodificherà automaticamente la stringa codificata di input nella stringa originale.\n\nCasi d'uso:\n\n1. Codifica della stringa: durante il processo di sviluppo, è necessario codificare alcune stringhe in un formato specifico per la trasmissione e lo stoccaggio. Utilizzando lo strumento di codifica UTF16, è possibile codificare la stringa nel formato UTF16 per la trasmissione e lo stoccaggio tra diversi sistemi.\n\n2. Decodifica della stringa: in alcuni casi, è necessario decodificare una stringa già codificata nella stringa originale. Utilizzando lo strumento di codifica UTF16, è possibile decodificare la stringa già codificata nella stringa originale per ulteriori elaborazioni.\n\n3. Conversione del formato della stringa: in alcuni casi, è necessario convertire una stringa da un formato all'altro. Utilizzando lo strumento di codifica UTF16, è possibile convertire la stringa da altri formati al formato UTF16 o convertire la stringa nel formato UTF16 in altri formati."
+    },
+    "fr": {
+      "$name": "Encodage UTF16",
+      "$keywords": [
+        "utf16",
+        "encoder",
+        "encodage UTF16",
+        "encodage de chaîne",
+        "décodage de chaîne",
+        "conversion de format de chaîne"
+      ],
+      "$description": "Outil d'encodage UTF16 est un outil utilisé pour encoder des chaînes de caractères dans le format UTF16. Il peut convertir la chaîne d'entrée en format d'encodage UTF16, et également décoder une chaîne déjà encodée en la chaîne originale.\n\nFonctionnalités:\n\n1. Entrez la chaîne de caractères qui doit être encodée dans l'outil.\n\n2. L'outil convertira automatiquement la chaîne d'entrée en format d'encodage UTF16.\n\n3. Entrez la chaîne déjà encodée dans l'outil.\n\n4. L'outil décoder automatiquement la chaîne encodée en entrée en la chaîne originale.\n\nCas d'utilisation:\n\n1. Encodage de chaîne: Pendant le processus de développement, il est nécessaire d'encoder certaines chaînes de caractères dans un format spécifique pour la transmission et le stockage. En utilisant l'outil d'encodage UTF16, vous pouvez encoder la chaîne en format UTF16 pour la transmission et le stockage entre différents systèmes.\n\n2. Décodage de chaîne: Dans certains cas, il est nécessaire de décoder une chaîne déjà encodée en la chaîne originale. En utilisant l'outil d'encodage UTF16, vous pouvez décoder la chaîne déjà encodée en la chaîne originale pour un traitement ultérieur.\n\n3. Conversion de format de chaîne: Dans certains cas, il est nécessaire de convertir une chaîne d'un format à un autre. En utilisant l'outil d'encodage UTF16, vous pouvez convertir la chaîne à partir d'autres formats en format UTF16, ou convertir la chaîne en format UTF16 en d'autres formats."
+    },
+    "de": {
+      "$name": "UTF16-Kodierung",
+      "$keywords": [
+        "UTF16-Codierung",
+        "kodieren",
+        "UTF16-Codierung",
+        "Zeichenkettenkodierung",
+        "Zeichenkettenentschlüsselung",
+        "Zeichenkettenformatkonvertierung"
+      ],
+      "$description": "UTF16 Encoding Tool ist ein Werkzeug, das verwendet wird, um Zeichenfolgen in das UTF16-Format zu kodieren. Es kann die Eingabezeichenfolge in das UTF16-Kodierungsformat konvertieren und auch eine bereits kodierte Zeichenfolge in die ursprüngliche Zeichenfolge decodieren.\n\nFunktionen:\n\n1. Geben Sie die Zeichenfolge ein, die in das Werkzeug kodiert werden soll.\n\n2. Das Werkzeug konvertiert die Eingabezeichenfolge automatisch in das UTF16-Kodierungsformat.\n\n3. Geben Sie die bereits kodierten Zeichenfolge in das Werkzeug ein.\n\n4. Das Werkzeug decodiert die Eingabezeichenfolge automatisch in die ursprüngliche Zeichenfolge.\n\nAnwendungsfälle:\n\n1. Zeichenfolgenkodierung: Während des Entwicklungsprozesses ist es notwendig, einige Zeichenfolgen in ein bestimmtes Format für Übertragung und Speicherung zu kodieren. Mit dem UTF16 Encoding Tool kann die Zeichenfolge in das UTF16-Format für die Übertragung und Speicherung zwischen verschiedenen Systemen kodiert werden.\n\n2. Zeichenfolgendecodierung: In einigen Fällen ist es notwendig, eine bereits kodierte Zeichenfolge in die ursprüngliche Zeichenfolge zu decodieren. Mit dem UTF16 Encoding Tool kann die bereits kodierte Zeichenfolge in die ursprüngliche Zeichenfolge für weitere Verarbeitung decodiert werden.\n\n3. Zeichenfolgenformatkonvertierung: In einigen Fällen ist es notwendig, eine Zeichenfolge von einem Format in ein anderes zu konvertieren. Mit dem UTF16 Encoding Tool kann die Zeichenfolge von anderen Formaten in das UTF16-Format konvertiert werden oder das UTF16-Format der Zeichenfolge in andere Formate konvertiert werden."
+    },
+    "ko": {
+      "$name": "UTF16 인코딩",
+      "$keywords": [
+        "utf16",
+        "인코딩",
+        "UTF16 인코딩",
+        "문자열 인코딩",
+        "문자열 디코딩",
+        "문자열 형식 변환"
+      ],
+      "$description": "UTF16 인코딩 도구는 문자열을 UTF16 형식으로 인코딩하는 데 사용되는 도구입니다. 입력 문자열을 UTF16 인코딩 형식으로 변환할 수 있으며, 이미 인코딩된 문자열을 원래 문자열로 디코딩할 수도 있습니다.\n\n기능:\n\n1. 도구에 인코딩이 필요한 문자열을 입력합니다.\n\n2. 도구는 자동으로 입력 문자열을 UTF16 인코딩 형식으로 변환합니다.\n\n3. 이미 인코딩된 문자열을 도구에 입력합니다.\n\n4. 도구는 자동으로 입력된 인코딩된 문자열을 원래 문자열로 디코딩합니다.\n\n사용 사례:\n\n1. 문자열 인코딩: 개발 과정에서 일부 문자열을 전송 및 저장을 위해 특정 형식으로 인코딩해야 할 필요가 있습니다. UTF16 인코딩 도구를 사용하여 다른 시스템 간에 전송 및 저장을 위해 문자열을 UTF16 형식으로 인코딩할 수 있습니다.\n\n2. 문자열 디코딩: 경우에 따라 이미 인코딩된 문자열을 원래 문자열로 디코딩해야 할 필요가 있습니다. UTF16 인코딩 도구를 사용하여 이미 인코딩된 문자열을 추가 처리를 위해 원래 문자열로 디코딩할 수 있습니다.\n\n3. 문자열 형식 변환: 경우에 따라 문자열을 한 형식에서 다른 형식으로 변환해야 할 필요가 있습니다. UTF16 인코딩 도구를 사용하여 문자열을 다른 형식에서 UTF16 형식으로 변환하거나 UTF16 형식 문자열을 다른 형식으로 변환할 수 있습니다."
+    },
+    "ja": {
+      "$name": "UTF16エンコーディング",
+      "$keywords": [
+        "utf16",
+        "エンコード",
+        "UTF16 エンコーディング",
+        "文字列エンコーディング",
+        "文字列デコーディング",
+        "文字列フォーマット変換"
+      ],
+      "$description": "UTF16エンコーディングツールは、文字列をUTF16形式にエンコードするために使用されるツールです。入力された文字列をUTF16エンコーディング形式に変換し、またすでにエンコードされた文字列を元の文字列にデコードすることもできます。\n\n特徴：\n\n1. ツールにエンコードする必要のある文字列を入力します。\n\n2. ツールは自動的に入力された文字列をUTF16エンコーディング形式に変換します。\n\n3. すでにエンコードされた文字列をツールに入力します。\n\n4. ツールは自動的に入力されたエンコードされた文字列を元の文字列にデコードします。\n\n使用例：\n\n1. 文字列のエンコード：開発プロセス中に、一部の文字列を特定の形式にエンコードして、異なるシステム間での送信や保存が必要な場合があります。UTF16エンコーディングツールを使用すると、異なるシステム間での送信や保存のために文字列をUTF16形式にエンコードすることができます。\n\n2. 文字列のデコード：すでにエンコードされた文字列を元の文字列にデコードする必要がある場合があります。UTF16エンコーディングツールを使用すると、すでにエンコードされた文字列を元の文字列にデコードして、さらなる処理を行うことができます。\n\n3. 文字列の形式変換：場合によっては、文字列を1つの形式から別の形式に変換する必要があります。UTF16エンコーディングツールを使用すると、他の形式からUTF16形式に文字列を変換したり、UTF16形式の文字列を他の形式に変換したりすることができます。"
+    },
+    "es": {
+      "$name": "Codificación UTF16",
+      "$keywords": [
+        "utf16",
+        "codificar",
+        "codificación UTF16",
+        "codificación de cadena",
+        "decodificación de cadena",
+        "conversión de formato de cadena"
+      ],
+      "$description": "Herramienta de codificación UTF16 es una herramienta utilizada para codificar cadenas en el formato UTF16. Puede convertir la cadena de entrada en el formato de codificación UTF16, y también decodificar una cadena ya codificada en la cadena original.\n\nCaracterísticas:\n\n1. Ingrese la cadena que necesita ser codificada en la herramienta.\n\n2. La herramienta convertirá automáticamente la cadena de entrada en el formato de codificación UTF16.\n\n3. Ingrese la cadena ya codificada en la herramienta.\n\n4. La herramienta decodificará automáticamente la cadena codificada de entrada en la cadena original.\n\nCasos de uso:\n\n1. Codificación de cadenas: Durante el proceso de desarrollo, es necesario codificar algunas cadenas en un formato específico para la transmisión y el almacenamiento. Usando la herramienta de codificación UTF16 se puede codificar la cadena en el formato UTF16 para la transmisión y el almacenamiento entre diferentes sistemas.\n\n2. Decodificación de cadenas: En algunos casos, es necesario decodificar una cadena ya codificada en la cadena original. Usando la herramienta de codificación UTF16 se puede decodificar la cadena ya codificada en la cadena original para su posterior procesamiento.\n\n3. Conversión de formato de cadenas: En algunos casos, es necesario convertir una cadena de un formato a otro. Usando la herramienta de codificación UTF16 se puede convertir la cadena de otros formatos al formato UTF16, o convertir la cadena en formato UTF16 a otros formatos."
     },
     "zh-tw": {
       "$name": "UTF16 編碼",
-      "$description": "UTF16 編碼",
-      "$keywords": ["編碼"]
+      "$keywords": [
+        "utf16",
+        "編碼",
+        "UTF16編碼",
+        "字串編碼",
+        "字串解碼",
+        "字串格式轉換"
+      ],
+      "$description": "UTF16編碼工具是一個用於將字符串編碼為UTF16格式的工具。它可以將輸入字符串轉換為UTF16編碼格式，還可以將已編碼的字符串解碼為原始字符串。\n\n功能：\n\n1. 輸入需要編碼的字符串到工具中。\n\n2. 工具將自動將輸入字符串轉換為UTF16編碼格式。\n\n3. 將已編碼的字符串輸入到工具中。\n\n4. 工具將自動將輸入的已編碼字符串解碼為原始字符串。\n\n用途：\n\n1. 字符串編碼：在開發過程中，有必要將一些字符串編碼為特定格式以進行傳輸和存儲。使用UTF16編碼工具可以將字符串編碼為UTF16格式，以在不同系統之間進行傳輸和存儲。\n\n2. 字符串解碼：在某些情況下，有必要將已編碼的字符串解碼為原始字符串。使用UTF16編碼工具可以將已編碼的字符串解碼為原始字符串，以進行進一步處理。\n\n3. 字符串格式轉換：在某些情況下，有必要將字符串從一種格式轉換為另一種格式。使用UTF16編碼工具可以將字符串從其他格式轉換為UTF16格式，或將UTF16格式字符串轉換為其他格式。"
     },
     "zh-cn": {
-      "$name": "UTF16 编码",
-      "$description": "UTF16 编码",
-      "$keywords": ["编码"]
+      "$name": "UTF16编码",
+      "$keywords": [
+        "utf16",
+        "编码",
+        "UTF16编码",
+        "字符串编码",
+        "字符串解码",
+        "字符串格式转换"
+      ],
+      "$description": "UTF16编码工具是一种用于将字符串编码为UTF16格式的工具。它可以将输入的字符串转换为UTF16编码格式，并将已编码的字符串解码为原始字符串。\n\n特点：\n\n1. 输入需要编码的字符串到工具中。\n\n2. 工具将自动将输入的字符串转换为UTF16编码格式。\n\n3. 输入已编码的字符串到工具中。\n\n4. 工具将自动将输入的已编码字符串解码为原始字符串。\n\n用例：\n\n1. 字符串编码：在开发过程中，有必要将一些字符串编码为特定格式进行传输和存储。使用UTF16编码工具可以将字符串编码为UTF16格式，以在不同系统之间进行传输和存储。\n\n2. 字符串解码：在某些情况下，有必要将已编码的字符串解码为原始字符串。使用UTF16编码工具可以将已编码的字符串解码为原始字符串，以进行进一步处理。\n\n3. 字符串格式转换：在某些情况下，有必要将字符串从一种格式转换为另一种格式。使用UTF16编码工具可以将字符串从其他格式转换为UTF16格式，或将UTF16格式字符串转换为其他格式。"
     }
   },
   {
     "id": "utf16-decode",
-    "zh": {
-      "$name": "UTF16 解码",
-      "$description": "UTF16 解码",
-      "$keywords": ["解码"]
-    },
     "en": {
-      "$name": "UTF16 Decode",
-      "$description": "UTF16 Decode",
-      "$keywords": ["utf16", "decode"]
-    },
-    "de": {
-      "$name": "UTF16 Decodierung",
-      "$description": "UTF16 Decodierung",
-      "$keywords": ["Dekodierung"]
-    },
-    "es": {
-      "$name": "UTF16 Decodificación",
-      "$description": "UTF16 Decodificación",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage UTF16",
-      "$description": "Décodage UTF16",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica UTF16",
-      "$description": "Decodifica UTF16",
-      "$keywords": ["decodifica"]
-    },
-    "ja": {
-      "$name": "UTF16デコード",
-      "$description": "UTF16デコード",
-      "$keywords": ["デコード"]
-    },
-    "ko": {
-      "$name": "UTF16 디코딩",
-      "$description": "UTF16 디코딩",
-      "$keywords": ["디코딩"]
+      "$name": "UTF16 Decoding",
+      "$keywords": [
+        "utf16",
+        "decode",
+        "UTF16 encoding",
+        "string decoding",
+        "data conversion",
+        "string inspection"
+      ],
+      "$description": "UTF16 Decoding Tool is a tool used to decode UTF16 encoded strings into regular strings. It can decode the input UTF16 encoded string into a regular string and output the decoded string to the tool's output area.\n\nFeatures:\n\n1. Paste or input the UTF16 encoded string into the tool.\n\n2. The tool will automatically detect whether the input string is UTF16 encoded and decode it.\n\n3. The decoded string will be displayed in the tool's output area.\n\nUse cases:\n\n1. String decoding: During the development process, developers may encounter situations where they need to decode UTF16 encoded strings into regular strings. Using the UTF16 Decoding Tool can quickly decode the string, making it easier for developers to perform subsequent operations.\n\n2. Data conversion: During the data conversion process, there may be a need to convert UTF16 encoded strings into regular strings. Using this tool, you can quickly decode the string into a regular string, making it easier for subsequent data conversion operations.\n\n3. String review: During the code review process, reviewers can use the UTF16 Decoding Tool to decode strings, making it easier to view and understand the string content."
     },
     "pt": {
       "$name": "Decodificação UTF16",
-      "$description": "Decodificação UTF16",
-      "$keywords": ["decodificação"]
+      "$keywords": [
+        "utf16",
+        "decodificar",
+        "codificação UTF16",
+        "decodificação de string",
+        "conversão de dados",
+        "inspeção de string"
+      ],
+      "$description": "A Ferramenta de Decodificação UTF16 é uma ferramenta usada para decodificar strings codificadas em UTF16 em strings regulares. Ela pode decodificar a string codificada em UTF16 de entrada em uma string regular e exibir a string decodificada na área de saída da ferramenta.\n\nRecursos:\n\n1. Cole ou insira a string codificada em UTF16 na ferramenta.\n\n2. A ferramenta detectará automaticamente se a string de entrada está codificada em UTF16 e a decodificará.\n\n3. A string decodificada será exibida na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Decodificação de strings: Durante o processo de desenvolvimento, os desenvolvedores podem encontrar situações em que precisam decodificar strings codificadas em UTF16 em strings regulares. Usando a Ferramenta de Decodificação UTF16, é possível decodificar rapidamente a string, tornando mais fácil para os desenvolvedores realizar operações subsequentes.\n\n2. Conversão de dados: Durante o processo de conversão de dados, pode haver a necessidade de converter strings codificadas em UTF16 em strings regulares. Usando esta ferramenta, é possível decodificar rapidamente a string em uma string regular, tornando mais fácil para as operações subsequentes de conversão de dados.\n\n3. Revisão de strings: Durante o processo de revisão de código, os revisores podem usar a Ferramenta de Decodificação UTF16 para decodificar strings, tornando mais fácil visualizar e entender o conteúdo da string."
     },
     "ru": {
-      "$name": "UTF16 Декодирование",
-      "$description": "UTF16 Декодирование",
-      "$keywords": ["декодирование"]
+      "$name": "Декодирование UTF16",
+      "$keywords": [
+        "utf16",
+        "декодирование",
+        "кодировка UTF16",
+        "декодирование строки",
+        "конвертация данных",
+        "проверка строки"
+      ],
+      "$description": "Инструмент декодирования UTF16 - это инструмент, используемый для декодирования строк, закодированных в UTF16, в обычные строки. Он может декодировать входную строку, закодированную в UTF16, в обычную строку и вывести декодированную строку в область вывода инструмента.\n\nОсобенности:\n\n1. Вставьте или введите закодированную в UTF16 строку в инструмент.\n\n2. Инструмент автоматически определит, является ли входная строка закодированной в UTF16, и декодирует ее.\n\n3. Декодированная строка будет отображаться в области вывода инструмента.\n\nПрименение:\n\n1. Декодирование строк: В процессе разработки разработчики могут столкнуться с ситуациями, когда им нужно декодировать строки, закодированные в UTF16, в обычные строки. Использование инструмента декодирования UTF16 может быстро декодировать строку, что облегчит выполнение последующих операций разработчиками.\n\n2. Преобразование данных: В процессе преобразования данных может возникнуть необходимость преобразовать строки, закодированные в UTF16, в обычные строки. Используя этот инструмент, вы можете быстро декодировать строку в обычную строку, что облегчит последующие операции по преобразованию данных.\n\n3. Просмотр строк: В процессе проверки кода рецензенты могут использовать инструмент декодирования UTF16 для декодирования строк, что облегчит просмотр и понимание содержимого строки."
+    },
+    "it": {
+      "$name": "Decodifica UTF16",
+      "$keywords": [
+        "utf16",
+        "decodifica",
+        "codifica UTF16",
+        "decodifica stringa",
+        "conversione dati",
+        "ispezione stringa"
+      ],
+      "$description": "Lo strumento di decodifica UTF16 è uno strumento utilizzato per decodificare stringhe codificate in UTF16 in stringhe regolari. Può decodificare la stringa codificata in UTF16 in input in una stringa regolare e visualizzare la stringa decodificata nell'area di output dello strumento.\n\nCaratteristiche:\n\n1. Incolla o inserisci la stringa codificata in UTF16 nello strumento.\n\n2. Lo strumento rileverà automaticamente se la stringa in input è codificata in UTF16 e la decodificherà.\n\n3. La stringa decodificata verrà visualizzata nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Decodifica di stringhe: durante il processo di sviluppo, gli sviluppatori possono incontrare situazioni in cui devono decodificare stringhe codificate in UTF16 in stringhe regolari. Utilizzando lo strumento di decodifica UTF16, è possibile decodificare rapidamente la stringa, semplificando le operazioni successive degli sviluppatori.\n\n2. Conversione di dati: durante il processo di conversione dei dati, potrebbe essere necessario convertire stringhe codificate in UTF16 in stringhe regolari. Utilizzando questo strumento, è possibile decodificare rapidamente la stringa in una stringa regolare, semplificando le operazioni di conversione dei dati successive.\n\n3. Revisione delle stringhe: durante il processo di revisione del codice, i revisori possono utilizzare lo strumento di decodifica UTF16 per decodificare le stringhe, semplificando la visualizzazione e la comprensione del contenuto delle stringhe."
+    },
+    "fr": {
+      "$name": "Décodage UTF16",
+      "$keywords": [
+        "utf16",
+        "décodage",
+        "encodage UTF16",
+        "décodage de chaîne",
+        "conversion de données",
+        "inspection de chaîne"
+      ],
+      "$description": "Outil de décodage UTF16 est un outil utilisé pour décoder les chaînes encodées en UTF16 en chaînes régulières. Il peut décoder la chaîne encodée en UTF16 en entrée en une chaîne régulière et afficher la chaîne décodée dans la zone de sortie de l'outil.\n\nFonctionnalités :\n\n1. Collez ou entrez la chaîne encodée en UTF16 dans l'outil.\n\n2. L'outil détectera automatiquement si la chaîne d'entrée est encodée en UTF16 et la décodera.\n\n3. La chaîne décodée sera affichée dans la zone de sortie de l'outil.\n\nCas d'utilisation :\n\n1. Décodage de chaîne : Au cours du processus de développement, les développeurs peuvent rencontrer des situations où ils doivent décoder des chaînes encodées en UTF16 en chaînes régulières. En utilisant l'outil de décodage UTF16, ils peuvent rapidement décoder la chaîne, ce qui facilite les opérations ultérieures.\n\n2. Conversion de données : Au cours du processus de conversion de données, il peut être nécessaire de convertir des chaînes encodées en UTF16 en chaînes régulières. En utilisant cet outil, vous pouvez rapidement décoder la chaîne en une chaîne régulière, ce qui facilite les opérations de conversion de données ultérieures.\n\n3. Examen de chaîne : Au cours du processus d'examen de code, les examinateurs peuvent utiliser l'outil de décodage UTF16 pour décoder les chaînes, ce qui facilite la visualisation et la compréhension du contenu de la chaîne."
+    },
+    "de": {
+      "$name": "UTF16 Decodierung",
+      "$keywords": [
+        "UTF16",
+        "Dekodierung",
+        "UTF16-Kodierung",
+        "Zeichenketten-Dekodierung",
+        "Datenkonvertierung",
+        "Zeichenketten-Inspektion"
+      ],
+      "$description": "UTF16 Decoding Tool ist ein Werkzeug, das verwendet wird, um UTF16-kodierte Zeichenfolgen in reguläre Zeichenfolgen zu decodieren. Es kann die Eingabe-UTF16-kodierte Zeichenfolge in eine reguläre Zeichenfolge decodieren und die decodierte Zeichenfolge im Ausgabe-Bereich des Werkzeugs anzeigen.\n\nFunktionen:\n\n1. Fügen Sie die UTF16-kodierte Zeichenfolge in das Werkzeug ein oder geben Sie sie ein.\n\n2. Das Werkzeug erkennt automatisch, ob die Eingabezeichenfolge UTF16-kodiert ist und decodiert sie.\n\n3. Die decodierte Zeichenfolge wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\nAnwendungsfälle:\n\n1. Zeichenfolgendecodierung: Während des Entwicklungsprozesses können Entwickler Situationen erleben, in denen sie UTF16-kodierte Zeichenfolgen in reguläre Zeichenfolgen decodieren müssen. Mit dem UTF16 Decoding Tool kann die Zeichenfolge schnell decodiert werden, was es Entwicklern erleichtert, anschließende Operationen durchzuführen.\n\n2. Datenkonvertierung: Während des Datenkonvertierungsprozesses kann es erforderlich sein, UTF16-kodierte Zeichenfolgen in reguläre Zeichenfolgen zu konvertieren. Mit diesem Tool können Sie die Zeichenfolge schnell in eine reguläre Zeichenfolge decodieren, was es einfacher macht, anschließende Datenkonvertierungsoperationen durchzuführen.\n\n3. Zeichenfolgenüberprüfung: Während des Codeüberprüfungsprozesses können Überprüfer das UTF16 Decoding Tool verwenden, um Zeichenfolgen zu decodieren, was es einfacher macht, den Inhalt der Zeichenfolge zu sehen und zu verstehen."
+    },
+    "ko": {
+      "$name": "UTF16 디코딩",
+      "$keywords": [
+        "utf16",
+        "디코딩",
+        "UTF16 인코딩",
+        "문자열 디코딩",
+        "데이터 변환",
+        "문자열 검사"
+      ],
+      "$description": "UTF16 디코딩 도구는 UTF16 인코딩된 문자열을 일반 문자열로 디코딩하는 데 사용되는 도구입니다. 입력된 UTF16 인코딩된 문자열을 디코딩하여 일반 문자열로 출력할 수 있습니다.\n\n기능:\n\n1. UTF16 인코딩된 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 입력된 문자열이 UTF16 인코딩된 문자열인지 감지하고 디코딩합니다.\n\n3. 디코딩된 문자열은 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. 문자열 디코딩: 개발 과정에서 개발자는 UTF16 인코딩된 문자열을 일반 문자열로 디코딩해야 하는 상황에 직면할 수 있습니다. UTF16 디코딩 도구를 사용하면 문자열을 빠르게 디코딩하여 후속 작업을 수행하기 쉬워집니다.\n\n2. 데이터 변환: 데이터 변환 과정에서 UTF16 인코딩된 문자열을 일반 문자열로 변환해야 할 필요가 있을 수 있습니다. 이 도구를 사용하면 문자열을 빠르게 디코딩하여 후속 데이터 변환 작업을 수행하기 쉬워집니다.\n\n3. 문자열 검토: 코드 검토 과정에서 검토자는 UTF16 디코딩 도구를 사용하여 문자열을 디코딩하여 문자열 내용을 쉽게 볼 수 있습니다."
+    },
+    "ja": {
+      "$name": "UTF16デコード",
+      "$keywords": [
+        "utf16",
+        "デコード",
+        "UTF16 エンコーディング",
+        "文字列デコード",
+        "データ変換",
+        "文字列検査"
+      ],
+      "$description": "UTF16デコードツールは、UTF16エンコードされた文字列を通常の文字列にデコードするために使用されるツールです。入力されたUTF16エンコードされた文字列を通常の文字列にデコードし、デコードされた文字列をツールの出力エリアに出力することができます。\n\n特徴：\n\n1. UTF16エンコードされた文字列をツールに貼り付けるか入力します。\n\n2. ツールは自動的に入力された文字列がUTF16エンコードされているかどうかを検出し、デコードします。\n\n3. デコードされた文字列はツールの出力エリアに表示されます。\n\n使用例：\n\n1. 文字列のデコード：開発プロセス中に、開発者がUTF16エンコードされた文字列を通常の文字列にデコードする必要がある場合があります。UTF16デコードツールを使用することで、文字列を素早くデコードし、後続の操作をより簡単に実行できます。\n\n2. データ変換：データ変換プロセス中に、UTF16エンコードされた文字列を通常の文字列に変換する必要がある場合があります。このツールを使用することで、文字列を素早く通常の文字列にデコードし、後続のデータ変換操作をより簡単に実行できます。\n\n3. 文字列の確認：コードレビュープロセス中に、レビュアーはUTF16デコードツールを使用して文字列をデコードし、文字列の内容を表示して理解することができます。"
+    },
+    "es": {
+      "$name": "Decodificación UTF16",
+      "$keywords": [
+        "utf16",
+        "decodificación",
+        "codificación UTF16",
+        "decodificación de cadena",
+        "conversión de datos",
+        "inspección de cadena"
+      ],
+      "$description": "Herramienta de decodificación UTF16 es una herramienta utilizada para decodificar cadenas codificadas en UTF16 en cadenas regulares. Puede decodificar la cadena codificada en UTF16 de entrada en una cadena regular y mostrar la cadena decodificada en el área de salida de la herramienta.\n\nCaracterísticas:\n\n1. Pegue o ingrese la cadena codificada en UTF16 en la herramienta.\n\n2. La herramienta detectará automáticamente si la cadena de entrada está codificada en UTF16 y la decodificará.\n\n3. La cadena decodificada se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Decodificación de cadenas: Durante el proceso de desarrollo, los desarrolladores pueden encontrarse en situaciones en las que necesiten decodificar cadenas codificadas en UTF16 en cadenas regulares. Usando la herramienta de decodificación UTF16, pueden decodificar rápidamente la cadena, lo que facilita a los desarrolladores realizar operaciones posteriores.\n\n2. Conversión de datos: Durante el proceso de conversión de datos, puede haber una necesidad de convertir cadenas codificadas en UTF16 en cadenas regulares. Usando esta herramienta, puede decodificar rápidamente la cadena en una cadena regular, lo que facilita las operaciones posteriores de conversión de datos.\n\n3. Revisión de cadenas: Durante el proceso de revisión de código, los revisores pueden usar la herramienta de decodificación UTF16 para decodificar cadenas, lo que facilita la visualización y comprensión del contenido de la cadena."
     },
     "zh-tw": {
       "$name": "UTF16 解碼",
-      "$description": "UTF16 解碼",
-      "$keywords": ["解碼"]
+      "$keywords": [
+        "utf16",
+        "解碼",
+        "UTF16 編碼",
+        "字串解碼",
+        "資料轉換",
+        "字串檢查"
+      ],
+      "$description": "UTF16 解碼工具是一個用於將 UTF16 編碼的字串解碼為常規字串的工具。它可以將輸入的 UTF16 編碼字串解碼為常規字串，並將解碼後的字串輸出到工具的輸出區域。\n\n功能：\n\n1. 將 UTF16 編碼字串粘貼或輸入到工具中。\n\n2. 工具將自動檢測輸入字串是否為 UTF16 編碼，並將其解碼。\n\n3. 解碼後的字串將顯示在工具的輸出區域中。\n\n用途：\n\n1. 字串解碼：在開發過程中，開發人員可能會遇到需要將 UTF16 編碼的字串解碼為常規字串的情況。使用 UTF16 解碼工具可以快速解碼字串，使開發人員更容易進行後續操作。\n\n2. 數據轉換：在數據轉換過程中，可能需要將 UTF16 編碼的字串轉換為常規字串。使用這個工具，您可以快速將字串解碼為常規字串，使後續數據轉換操作更加容易。\n\n3. 字串審查：在代碼審查過程中，審查人員可以使用 UTF16 解碼工具解碼字串，使查看和理解字串內容更加容易。"
     },
     "zh-cn": {
       "$name": "UTF16 解码",
-      "$description": "UTF16 解码",
-      "$keywords": ["解码"]
+      "$keywords": [
+        "utf16",
+        "解码",
+        "UTF16编码",
+        "字符串解码",
+        "数据转换",
+        "字符串检查"
+      ],
+      "$description": "UTF16解码工具是一种工具，用于将UTF16编码的字符串解码为常规字符串。它可以将输入的UTF16编码字符串解码为常规字符串，并将解码后的字符串输出到工具的输出区域。\n\n特点：\n\n1. 将UTF16编码字符串粘贴或输入到工具中。\n\n2. 工具将自动检测输入字符串是否为UTF16编码，并对其进行解码。\n\n3. 解码后的字符串将显示在工具的输出区域中。\n\n用例：\n\n1. 字符串解码：在开发过程中，开发人员可能会遇到需要将UTF16编码的字符串解码为常规字符串的情况。使用UTF16解码工具可以快速解码字符串，使开发人员更容易执行后续操作。\n\n2. 数据转换：在数据转换过程中，可能需要将UTF16编码的字符串转换为常规字符串。使用此工具，您可以快速将字符串解码为常规字符串，使后续数据转换操作更加容易。\n\n3. 字符串审查：在代码审查过程中，审查人员可以使用UTF16解码工具解码字符串，使查看和理解字符串内容更加容易。"
     }
   },
   {
     "id": "utf32-encode",
-    "zh": {
-      "$name": "UTF32 编码",
-      "$description": "UTF32 编码",
-      "$keywords": ["编码"]
-    },
     "en": {
-      "$name": "UTF32 Encode",
-      "$description": "UTF32 Encode",
-      "$keywords": ["utf32", "encode"]
-    },
-    "de": {
-      "$name": "UTF32 Codierung",
-      "$description": "UTF32 Codierung",
-      "$keywords": ["Codierung"]
-    },
-    "es": {
-      "$name": "Codificación UTF32",
-      "$description": "Codificación UTF32",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage UTF32",
-      "$description": "Encodage UTF32",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica UTF32",
-      "$description": "Codifica UTF32",
-      "$keywords": ["Coding"]
-    },
-    "ja": {
-      "$name": "UTF32エンコーディング",
-      "$description": "UTF32エンコーディング",
-      "$keywords": ["コーディング"]
-    },
-    "ko": {
-      "$name": "UTF32 인코딩",
-      "$description": "UTF32 인코딩",
-      "$keywords": ["코딩"]
+      "$name": "UTF32 Encoding",
+      "$keywords": [
+        "utf32",
+        "encode",
+        "UTF-32 encoding",
+        "encoding conversion",
+        "data transmission",
+        "data parsing"
+      ],
+      "$description": "UTF32 Encoding Tool is a tool used to encode Unicode strings into the UTF-32 encoding format. It can encode the input Unicode string into the UTF-32 encoding format, and also decode the already encoded UTF-32 string into a Unicode string.\n\nFeatures:\n\n1. Input a Unicode string into the tool, and it will automatically encode it into the UTF-32 encoding format.\n\n2. Input an already encoded UTF-32 string into the tool, and it will automatically decode it into a Unicode string.\n\n3. The tool will automatically detect whether the input string is in the UTF-32 encoding format.\n\nUse cases:\n\n1. Encoding conversion: During the development process, developers may need to convert Unicode strings into the UTF-32 encoding format for use in certain scenarios. Using the UTF32 Encoding Tool makes this conversion easy.\n\n2. Data transmission: In some scenarios during data transmission, the UTF-32 encoding format may be required. Using the UTF32 Encoding Tool, Unicode strings can be encoded into the UTF-32 encoding format for use during data transmission.\n\n3. Data parsing: In some scenarios, an already encoded UTF-32 string needs to be decoded into a Unicode string. Using the UTF32 Encoding Tool makes this decoding process easy."
     },
     "pt": {
       "$name": "Codificação UTF32",
-      "$description": "Codificação UTF32",
-      "$keywords": ["codificação"]
+      "$keywords": [
+        "utf32",
+        "codificar",
+        "codificação UTF-32",
+        "conversão de codificação",
+        "transmissão de dados",
+        "análise de dados"
+      ],
+      "$description": "A Ferramenta de Codificação UTF32 é uma ferramenta usada para codificar strings Unicode no formato de codificação UTF-32. Ela pode codificar a string Unicode de entrada no formato de codificação UTF-32 e também decodificar a string UTF-32 já codificada em uma string Unicode.\n\nRecursos:\n\n1. Insira uma string Unicode na ferramenta e ela será automaticamente codificada no formato de codificação UTF-32.\n\n2. Insira uma string UTF-32 já codificada na ferramenta e ela será automaticamente decodificada em uma string Unicode.\n\n3. A ferramenta detectará automaticamente se a string de entrada está no formato de codificação UTF-32.\n\nCasos de uso:\n\n1. Conversão de codificação: Durante o processo de desenvolvimento, os desenvolvedores podem precisar converter strings Unicode no formato de codificação UTF-32 para uso em determinados cenários. Usando a Ferramenta de Codificação UTF32, essa conversão se torna fácil.\n\n2. Transmissão de dados: Em alguns cenários durante a transmissão de dados, pode ser necessário o formato de codificação UTF-32. Usando a Ferramenta de Codificação UTF32, as strings Unicode podem ser codificadas no formato de codificação UTF-32 para uso durante a transmissão de dados.\n\n3. Análise de dados: Em alguns cenários, uma string UTF-32 já codificada precisa ser decodificada em uma string Unicode. Usando a Ferramenta de Codificação UTF32, esse processo de decodificação se torna fácil."
     },
     "ru": {
-      "$name": "UTF32 Кодирование",
-      "$description": "UTF32 Кодирование",
-      "$keywords": ["кодирование"]
+      "$name": "Кодирование UTF32",
+      "$keywords": [
+        "utf32",
+        "кодирование",
+        "кодировка UTF-32",
+        "конвертация кодировки",
+        "передача данных",
+        "анализ данных"
+      ],
+      "$description": "Инструмент кодирования UTF32 - это инструмент, используемый для кодирования строк Юникода в формат кодирования UTF-32. Он может кодировать входную строку Юникода в формат кодирования UTF-32, а также декодировать уже закодированную строку UTF-32 в строку Юникода.\n\nОсобенности:\n\n1. Введите строку Юникода в инструмент, и он автоматически закодирует ее в формат кодирования UTF-32.\n\n2. Введите уже закодированную строку UTF-32 в инструмент, и он автоматически декодирует ее в строку Юникода.\n\n3. Инструмент автоматически определит, находится ли входная строка в формате кодирования UTF-32.\n\nПрименение:\n\n1. Преобразование кодировки: В процессе разработки разработчики могут нуждаться в преобразовании строк Юникода в формат кодирования UTF-32 для использования в определенных сценариях. Использование инструмента кодирования UTF32 делает это преобразование легким.\n\n2. Передача данных: В некоторых сценариях во время передачи данных может потребоваться формат кодирования UTF-32. Используя инструмент кодирования UTF32, строки Юникода могут быть закодированы в формат кодирования UTF-32 для использования во время передачи данных.\n\n3. Разбор данных: В некоторых сценариях уже закодированную строку UTF-32 необходимо декодировать в строку Юникода. Использование инструмента кодирования UTF32 делает этот процесс декодирования легким."
+    },
+    "it": {
+      "$name": "Codifica UTF32",
+      "$keywords": [
+        "utf32",
+        "codifica",
+        "codifica UTF-32",
+        "conversione di codifica",
+        "trasmissione di dati",
+        "analisi di dati"
+      ],
+      "$description": "Lo strumento di codifica UTF32 è uno strumento utilizzato per codificare le stringhe Unicode nel formato di codifica UTF-32. Può codificare la stringa Unicode di input nel formato di codifica UTF-32 e decodificare la stringa UTF-32 già codificata in una stringa Unicode.\n\nCaratteristiche:\n\n1. Inserisci una stringa Unicode nello strumento e verrà automaticamente codificata nel formato di codifica UTF-32.\n\n2. Inserisci una stringa UTF-32 già codificata nello strumento e verrà automaticamente decodificata in una stringa Unicode.\n\n3. Lo strumento rileverà automaticamente se la stringa di input è nel formato di codifica UTF-32.\n\nCasi d'uso:\n\n1. Conversione di codifica: durante il processo di sviluppo, gli sviluppatori potrebbero dover convertire le stringhe Unicode nel formato di codifica UTF-32 per l'uso in determinati scenari. L'utilizzo dello strumento di codifica UTF32 rende questa conversione facile.\n\n2. Trasmissione di dati: in alcuni scenari durante la trasmissione di dati, potrebbe essere richiesto il formato di codifica UTF-32. Utilizzando lo strumento di codifica UTF32, le stringhe Unicode possono essere codificate nel formato di codifica UTF-32 per l'uso durante la trasmissione di dati.\n\n3. Analisi dei dati: in alcuni scenari, potrebbe essere necessario decodificare una stringa UTF-32 già codificata in una stringa Unicode. L'utilizzo dello strumento di codifica UTF32 rende questo processo di decodifica facile."
+    },
+    "fr": {
+      "$name": "Encodage UTF32",
+      "$keywords": [
+        "utf32",
+        "encoder",
+        "encodage UTF-32",
+        "conversion d'encodage",
+        "transmission de données",
+        "analyse de données"
+      ],
+      "$description": "Outil d'encodage UTF32 est un outil utilisé pour encoder des chaînes Unicode dans le format d'encodage UTF-32. Il peut encoder la chaîne Unicode d'entrée dans le format d'encodage UTF-32, et également décoder la chaîne UTF-32 déjà encodée en une chaîne Unicode.\n\nFonctionnalités:\n\n1. Entrez une chaîne Unicode dans l'outil, et il l'encodera automatiquement dans le format d'encodage UTF-32.\n\n2. Entrez une chaîne UTF-32 déjà encodée dans l'outil, et il la décodera automatiquement en une chaîne Unicode.\n\n3. L'outil détectera automatiquement si la chaîne d'entrée est dans le format d'encodage UTF-32.\n\nCas d'utilisation:\n\n1. Conversion d'encodage: Au cours du processus de développement, les développeurs peuvent avoir besoin de convertir des chaînes Unicode dans le format d'encodage UTF-32 pour une utilisation dans certains scénarios. L'utilisation de l'outil d'encodage UTF32 facilite cette conversion.\n\n2. Transmission de données: Dans certains scénarios lors de la transmission de données, le format d'encodage UTF-32 peut être requis. En utilisant l'outil d'encodage UTF32, les chaînes Unicode peuvent être encodées dans le format d'encodage UTF-32 pour une utilisation lors de la transmission de données.\n\n3. Analyse de données: Dans certains scénarios, une chaîne UTF-32 déjà encodée doit être décodée en une chaîne Unicode. L'utilisation de l'outil d'encodage UTF32 facilite ce processus de décodage."
+    },
+    "de": {
+      "$name": "UTF32-Kodierung",
+      "$keywords": [
+        "UTF32",
+        "kodieren",
+        "UTF-32-Kodierung",
+        "Kodierungsumwandlung",
+        "Datenübertragung",
+        "Datenparsen"
+      ],
+      "$description": "UTF32 Encoding Tool ist ein Werkzeug, das verwendet wird, um Unicode-Zeichenfolgen in das UTF-32-Kodierungsformat zu kodieren. Es kann die Eingabe-Unicode-Zeichenfolge in das UTF-32-Kodierungsformat kodieren und auch die bereits kodierten UTF-32-Zeichenfolgen in eine Unicode-Zeichenfolge decodieren.\n\nFunktionen:\n\n1. Geben Sie eine Unicode-Zeichenfolge in das Werkzeug ein, und es wird automatisch in das UTF-32-Kodierungsformat kodiert.\n\n2. Geben Sie eine bereits kodierten UTF-32-Zeichenfolge in das Werkzeug ein, und es wird automatisch in eine Unicode-Zeichenfolge decodiert.\n\n3. Das Werkzeug erkennt automatisch, ob die Eingabezeichenfolge im UTF-32-Kodierungsformat vorliegt.\n\nAnwendungsfälle:\n\n1. Kodierungsumwandlung: Während des Entwicklungsprozesses müssen Entwickler möglicherweise Unicode-Zeichenfolgen in das UTF-32-Kodierungsformat konvertieren, um sie in bestimmten Szenarien zu verwenden. Die Verwendung des UTF32 Encoding Tools macht diese Konvertierung einfach.\n\n2. Datenübertragung: In einigen Szenarien während der Datenübertragung kann das UTF-32-Kodierungsformat erforderlich sein. Mit dem UTF32 Encoding Tool können Unicode-Zeichenfolgen in das UTF-32-Kodierungsformat kodiert werden, um sie während der Datenübertragung zu verwenden.\n\n3. Datenanalyse: In einigen Szenarien muss eine bereits kodierten UTF-32-Zeichenfolge in eine Unicode-Zeichenfolge decodiert werden. Die Verwendung des UTF32 Encoding Tools macht diesen Decodierungsprozess einfach."
+    },
+    "ko": {
+      "$name": "UTF32 인코딩",
+      "$keywords": [
+        "utf32",
+        "인코딩",
+        "UTF-32 인코딩",
+        "인코딩 변환",
+        "데이터 전송",
+        "데이터 구문 분석"
+      ],
+      "$description": "UTF32 인코딩 도구는 유니코드 문자열을 UTF-32 인코딩 형식으로 인코딩하는 데 사용되는 도구입니다. 입력된 유니코드 문자열을 UTF-32 인코딩 형식으로 인코딩하고, 이미 인코딩된 UTF-32 문자열을 유니코드 문자열로 디코딩할 수 있습니다.\n\n기능:\n\n1. 도구에 유니코드 문자열을 입력하면 자동으로 UTF-32 인코딩 형식으로 인코딩됩니다.\n\n2. 이미 인코딩된 UTF-32 문자열을 도구에 입력하면 자동으로 유니코드 문자열로 디코딩됩니다.\n\n3. 도구는 입력된 문자열이 UTF-32 인코딩 형식인지 자동으로 감지합니다.\n\n사용 사례:\n\n1. 인코딩 변환: 개발 과정에서 개발자는 특정 시나리오에서 유니코드 문자열을 UTF-32 인코딩 형식으로 변환해야 할 수 있습니다. UTF32 인코딩 도구를 사용하면 이러한 변환을 쉽게 수행할 수 있습니다.\n\n2. 데이터 전송: 데이터 전송 중 일부 시나리오에서는 UTF-32 인코딩 형식이 필요할 수 있습니다. UTF32 인코딩 도구를 사용하면 유니코드 문자열을 UTF-32 인코딩 형식으로 인코딩하여 데이터 전송 중 사용할 수 있습니다.\n\n3. 데이터 구문 분석: 일부 시나리오에서는 이미 인코딩된 UTF-32 문자열을 유니코드 문자열로 디코딩해야 할 수 있습니다. UTF32 인코딩 도구를 사용하면 이러한 디코딩 과정을 쉽게 수행할 수 있습니다."
+    },
+    "ja": {
+      "$name": "UTF32エンコーディング",
+      "$keywords": [
+        "utf32",
+        "エンコード",
+        "UTF-32エンコーディング",
+        "エンコーディング変換",
+        "データ転送",
+        "データ解析"
+      ],
+      "$description": "UTF32エンコーディングツールは、Unicode文字列をUTF-32エンコーディング形式にエンコードするために使用されるツールです。入力されたUnicode文字列をUTF-32エンコーディング形式に自動的にエンコードすることができます。また、すでにエンコードされたUTF-32文字列をUnicode文字列に自動的にデコードすることもできます。\n\n特徴：\n\n1. Unicode文字列をツールに入力すると、自動的にUTF-32エンコーディング形式にエンコードされます。\n\n2. すでにエンコードされたUTF-32文字列をツールに入力すると、自動的にUnicode文字列にデコードされます。\n\n3. ツールは、入力された文字列がUTF-32エンコーディング形式であるかどうかを自動的に検出します。\n\n使用例：\n\n1. エンコード変換：開発プロセス中に、開発者は特定のシナリオで使用するためにUnicode文字列をUTF-32エンコーディング形式に変換する必要がある場合があります。UTF32エンコーディングツールを使用すると、この変換が簡単になります。\n\n2. データ伝送：データ伝送中に、UTF-32エンコーディング形式が必要な場合があります。UTF32エンコーディングツールを使用すると、Unicode文字列をUTF-32エンコーディング形式にエンコードして、データ伝送中に使用することができます。\n\n3. データ解析：すでにエンコードされたUTF-32文字列をUnicode文字列にデコードする必要がある場合があります。UTF32エンコーディングツールを使用すると、このデコードプロセスが簡単になります。"
+    },
+    "es": {
+      "$name": "Codificación UTF32",
+      "$keywords": [
+        "utf32",
+        "codificar",
+        "codificación UTF-32",
+        "conversión de codificación",
+        "transmisión de datos",
+        "análisis de datos"
+      ],
+      "$description": "La herramienta de codificación UTF32 es una herramienta utilizada para codificar cadenas Unicode en el formato de codificación UTF-32. Puede codificar la cadena Unicode de entrada en el formato de codificación UTF-32, y también decodificar la cadena UTF-32 ya codificada en una cadena Unicode.\n\nCaracterísticas:\n\n1. Ingrese una cadena Unicode en la herramienta, y automáticamente la codificará en el formato de codificación UTF-32.\n\n2. Ingrese una cadena UTF-32 ya codificada en la herramienta, y automáticamente la decodificará en una cadena Unicode.\n\n3. La herramienta detectará automáticamente si la cadena de entrada está en el formato de codificación UTF-32.\n\nCasos de uso:\n\n1. Conversión de codificación: Durante el proceso de desarrollo, los desarrolladores pueden necesitar convertir cadenas Unicode en el formato de codificación UTF-32 para usar en ciertos escenarios. El uso de la herramienta de codificación UTF32 hace que esta conversión sea fácil.\n\n2. Transmisión de datos: En algunos escenarios durante la transmisión de datos, puede ser necesario el formato de codificación UTF-32. Usando la herramienta de codificación UTF32, las cadenas Unicode pueden ser codificadas en el formato de codificación UTF-32 para su uso durante la transmisión de datos.\n\n3. Análisis de datos: En algunos escenarios, una cadena UTF-32 ya codificada necesita ser decodificada en una cadena Unicode. El uso de la herramienta de codificación UTF32 hace que este proceso de decodificación sea fácil."
     },
     "zh-tw": {
       "$name": "UTF32 編碼",
-      "$description": "UTF32 編碼",
-      "$keywords": ["編碼"]
+      "$keywords": [
+        "utf32",
+        "編碼",
+        "UTF-32編碼",
+        "編碼轉換",
+        "數據傳輸",
+        "數據解析"
+      ],
+      "$description": "UTF32編碼工具是一個用於將Unicode字符串編碼為UTF-32編碼格式的工具。它可以將輸入的Unicode字符串編碼為UTF-32編碼格式，也可以將已編碼的UTF-32字符串解碼為Unicode字符串。\n\n功能：\n\n1. 將Unicode字符串輸入到工具中，它將自動將其編碼為UTF-32編碼格式。\n\n2. 將已編碼的UTF-32字符串輸入到工具中，它將自動將其解碼為Unicode字符串。\n\n3. 工具將自動檢測輸入字符串是否為UTF-32編碼格式。\n\n用途：\n\n1. 編碼轉換：在開發過程中，開發人員可能需要將Unicode字符串轉換為UTF-32編碼格式，以在某些情況下使用。使用UTF32編碼工具可以輕鬆完成此轉換。\n\n2. 數據傳輸：在某些數據傳輸場景中，可能需要使用UTF-32編碼格式。使用UTF32編碼工具，可以將Unicode字符串編碼為UTF-32編碼格式，以在數據傳輸期間使用。\n\n3. 數據解析：在某些情況下，需要將已編碼的UTF-32字符串解碼為Unicode字符串。使用UTF32編碼工具可以輕鬆完成此解碼過程。"
     },
     "zh-cn": {
-      "$name": "UTF32 编码",
-      "$description": "UTF32 编码",
-      "$keywords": ["编码"]
+      "$name": "UTF32编码",
+      "$keywords": [
+        "utf32",
+        "编码",
+        "UTF-32编码",
+        "编码转换",
+        "数据传输",
+        "数据解析"
+      ],
+      "$description": "UTF32编码工具是一种工具，用于将Unicode字符串编码为UTF-32编码格式。它可以将输入的Unicode字符串编码为UTF-32编码格式，也可以将已编码的UTF-32字符串解码为Unicode字符串。\n\n特点：\n\n1. 将Unicode字符串输入到工具中，它将自动将其编码为UTF-32编码格式。\n\n2. 将已编码的UTF-32字符串输入到工具中，它将自动解码为Unicode字符串。\n\n3. 工具将自动检测输入字符串是否为UTF-32编码格式。\n\n用例：\n\n1. 编码转换：在开发过程中，开发人员可能需要将Unicode字符串转换为UTF-32编码格式，以在某些情况下使用。使用UTF32编码工具可以轻松完成此转换。\n\n2. 数据传输：在某些数据传输场景中，可能需要使用UTF-32编码格式。使用UTF32编码工具，可以将Unicode字符串编码为UTF-32编码格式，以在数据传输期间使用。\n\n3. 数据解析：在某些情况下，需要将已编码的UTF-32字符串解码为Unicode字符串。使用UTF32编码工具可以轻松完成此解码过程。"
     }
   },
   {
     "id": "utf32-decode",
-    "zh": {
-      "$name": "UTF32 解码",
-      "$description": "UTF32 解码",
-      "$keywords": ["解码"]
-    },
     "en": {
-      "$name": "UTF32 Decode",
-      "$description": "UTF32 Decode",
-      "$keywords": ["utf32", "decode"]
-    },
-    "de": {
-      "$name": "UTF32 Decodierung",
-      "$description": "UTF32 Decodierung",
-      "$keywords": ["Dekodierung"]
-    },
-    "es": {
-      "$name": "Decodificación UTF32",
-      "$description": "Decodificación UTF32",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage UTF32",
-      "$description": "Décodage UTF32",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica UTF32",
-      "$description": "Decodifica UTF32",
-      "$keywords": ["decodifica"]
-    },
-    "ja": {
-      "$name": "UTF32デコード",
-      "$description": "UTF32デコード",
-      "$keywords": ["デコード"]
-    },
-    "ko": {
-      "$name": "UTF32 디코딩",
-      "$description": "UTF32 디코딩",
-      "$keywords": ["디코딩"]
+      "$name": "UTF32 Decoding",
+      "$keywords": [
+        "utf32",
+        "decode",
+        "UTF32 encoding",
+        "decoding tool",
+        "encoding conversion",
+        "data processing",
+        "encoding review"
+      ],
+      "$description": "UTF32 Decoding Tool is a tool used to decode UTF32 encoded strings into regular strings. It can convert the input UTF32 encoded string into a regular string and display the result in the output area.\n\nFeatures:\n\n1. Paste or input the UTF32 encoded string into the tool.\n\n2. The tool will automatically detect whether the input string is UTF32 encoded and decode it.\n\n3. The decoded string will be displayed in the tool's output area.\n\nUse cases:\n\n1. Encoding conversion: When performing encoding conversion, it may be necessary to convert UTF32 encoded strings into regular strings. Using the UTF32 Decoding Tool can easily accomplish this operation.\n\n2. Data processing: When processing data, you may encounter UTF32 encoded strings. Using this tool, you can decode them into regular strings for easier processing.\n\n3. Encoding review: During the code review process, you may encounter UTF32 encoded strings. Using the UTF32 Decoding Tool can decode them into regular strings for easier viewing and understanding of data structures."
     },
     "pt": {
       "$name": "Decodificação UTF32",
-      "$description": "Decodificação UTF32",
-      "$keywords": ["decodificação"]
+      "$keywords": [
+        "utf32",
+        "decodificar",
+        "codificação UTF32",
+        "ferramenta de decodificação",
+        "conversão de codificação",
+        "processamento de dados",
+        "revisão de codificação"
+      ],
+      "$description": "A Ferramenta de Decodificação UTF32 é uma ferramenta usada para decodificar strings codificadas em UTF32 em strings regulares. Ela pode converter a string codificada em UTF32 de entrada em uma string regular e exibir o resultado na área de saída.\n\nRecursos:\n\n1. Cole ou insira a string codificada em UTF32 na ferramenta.\n\n2. A ferramenta detectará automaticamente se a string de entrada está codificada em UTF32 e a decodificará.\n\n3. A string decodificada será exibida na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Conversão de codificação: Ao realizar a conversão de codificação, pode ser necessário converter strings codificadas em UTF32 em strings regulares. Usando a Ferramenta de Decodificação UTF32, é possível realizar facilmente essa operação.\n\n2. Processamento de dados: Ao processar dados, pode-se encontrar strings codificadas em UTF32. Usando esta ferramenta, é possível decodificá-las em strings regulares para um processamento mais fácil.\n\n3. Revisão de codificação: Durante o processo de revisão de código, pode-se encontrar strings codificadas em UTF32. Usando a Ferramenta de Decodificação UTF32, é possível decodificá-las em strings regulares para uma visualização e compreensão mais fácil das estruturas de dados."
     },
     "ru": {
-      "$name": "UTF32 Декодирование",
-      "$description": "UTF32 Декодирование",
-      "$keywords": ["декодирование"]
+      "$name": "Декодирование UTF32",
+      "$keywords": [
+        "utf32",
+        "декодирование",
+        "кодировка UTF32",
+        "инструмент декодирования",
+        "конвертация кодировки",
+        "обработка данных",
+        "обзор кодировки"
+      ],
+      "$description": "Инструмент декодирования UTF32 - это инструмент, используемый для декодирования строк, закодированных в UTF32, в обычные строки. Он может преобразовать входную строку, закодированную в UTF32, в обычную строку и отобразить результат в области вывода.\n\nОсобенности:\n\n1. Вставьте или введите закодированную в UTF32 строку в инструмент.\n\n2. Инструмент автоматически определит, является ли входная строка закодированной в UTF32, и декодирует ее.\n\n3. Декодированная строка будет отображаться в области вывода инструмента.\n\nПрименение:\n\n1. Преобразование кодировки: При выполнении преобразования кодировки может потребоваться преобразовать строки, закодированные в UTF32, в обычные строки. Использование инструмента декодирования UTF32 может легко выполнить эту операцию.\n\n2. Обработка данных: При обработке данных вы можете столкнуться со строками, закодированными в UTF32. Используя этот инструмент, вы можете декодировать их в обычные строки для более легкой обработки.\n\n3. Обзор кодировки: В процессе обзора кода вы можете столкнуться со строками, закодированными в UTF32. Использование инструмента декодирования UTF32 может декодировать их в обычные строки для более легкого просмотра и понимания структуры данных."
+    },
+    "it": {
+      "$name": "Decodifica UTF32",
+      "$keywords": [
+        "utf32",
+        "decodifica",
+        "codifica UTF32",
+        "strumento di decodifica",
+        "conversione di codifica",
+        "elaborazione dati",
+        "revisione di codifica"
+      ],
+      "$description": "Lo strumento di decodifica UTF32 è uno strumento utilizzato per decodificare stringhe codificate in UTF32 in stringhe regolari. Può convertire la stringa codificata in UTF32 in una stringa regolare e visualizzare il risultato nell'area di output.\n\nCaratteristiche:\n\n1. Incolla o inserisci la stringa codificata in UTF32 nello strumento.\n\n2. Lo strumento rileverà automaticamente se la stringa di input è codificata in UTF32 e la decodificherà.\n\n3. La stringa decodificata verrà visualizzata nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Conversione di codifica: durante la conversione di codifica, potrebbe essere necessario convertire le stringhe codificate in UTF32 in stringhe regolari. Utilizzando lo strumento di decodifica UTF32, è possibile eseguire facilmente questa operazione.\n\n2. Elaborazione dei dati: durante l'elaborazione dei dati, potresti incontrare stringhe codificate in UTF32. Utilizzando questo strumento, è possibile decodificarle in stringhe regolari per una più facile elaborazione.\n\n3. Revisione della codifica: durante il processo di revisione del codice, potresti incontrare stringhe codificate in UTF32. Utilizzando lo strumento di decodifica UTF32, è possibile decodificarle in stringhe regolari per una visualizzazione e comprensione più facile delle strutture dei dati."
+    },
+    "fr": {
+      "$name": "Décodage UTF32",
+      "$keywords": [
+        "utf32",
+        "décoder",
+        "encodage UTF32",
+        "outil de décodage",
+        "conversion d'encodage",
+        "traitement de données",
+        "révision d'encodage"
+      ],
+      "$description": "Outil de décodage UTF32 est un outil utilisé pour décoder les chaînes encodées en UTF32 en chaînes régulières. Il peut convertir la chaîne encodée en UTF32 en entrée en une chaîne régulière et afficher le résultat dans la zone de sortie.\n\nFonctionnalités :\n\n1. Collez ou entrez la chaîne encodée en UTF32 dans l'outil.\n\n2. L'outil détectera automatiquement si la chaîne d'entrée est encodée en UTF32 et la décodera.\n\n3. La chaîne décodée sera affichée dans la zone de sortie de l'outil.\n\nCas d'utilisation :\n\n1. Conversion d'encodage : lors de la conversion d'encodage, il peut être nécessaire de convertir les chaînes encodées en UTF32 en chaînes régulières. En utilisant l'outil de décodage UTF32, cette opération peut être facilement accomplie.\n\n2. Traitement de données : lors du traitement de données, vous pouvez rencontrer des chaînes encodées en UTF32. En utilisant cet outil, vous pouvez les décoder en chaînes régulières pour un traitement plus facile.\n\n3. Révision d'encodage : lors du processus de révision de code, vous pouvez rencontrer des chaînes encodées en UTF32. En utilisant l'outil de décodage UTF32, vous pouvez les décoder en chaînes régulières pour une visualisation et une compréhension plus faciles des structures de données."
+    },
+    "de": {
+      "$name": "UTF32 Decodierung",
+      "$keywords": [
+        "utf32",
+        "decodieren",
+        "UTF32-Kodierung",
+        "Dekodierungstool",
+        "Kodierungsumwandlung",
+        "Datenverarbeitung",
+        "Kodierungsüberprüfung"
+      ],
+      "$description": "UTF32 Decoding Tool ist ein Werkzeug, das verwendet wird, um UTF32-kodierte Zeichenfolgen in reguläre Zeichenfolgen zu decodieren. Es kann die Eingabe-UTF32-kodierte Zeichenfolge in eine reguläre Zeichenfolge konvertieren und das Ergebnis im Ausgabe-Bereich anzeigen.\n\nFunktionen:\n\n1. Fügen Sie die UTF32-kodierte Zeichenfolge in das Werkzeug ein oder geben Sie sie ein.\n\n2. Das Werkzeug erkennt automatisch, ob die Eingabezeichenfolge UTF32-kodiert ist und decodiert sie.\n\n3. Die decodierte Zeichenfolge wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\nAnwendungsfälle:\n\n1. Kodierungsumwandlung: Bei der Durchführung von Kodierungsumwandlungen kann es erforderlich sein, UTF32-kodierte Zeichenfolgen in reguläre Zeichenfolgen umzuwandeln. Mit dem UTF32 Decoding Tool kann diese Operation einfach durchgeführt werden.\n\n2. Datenverarbeitung: Bei der Verarbeitung von Daten können Sie auf UTF32-kodierte Zeichenfolgen stoßen. Mit diesem Tool können Sie sie in reguläre Zeichenfolgen decodieren, um sie einfacher zu verarbeiten.\n\n3. Kodierungsüberprüfung: Während des Code-Überprüfungsprozesses können Sie auf UTF32-kodierte Zeichenfolgen stoßen. Mit dem UTF32 Decoding Tool können Sie sie in reguläre Zeichenfolgen decodieren, um Datenstrukturen einfacher zu betrachten und zu verstehen."
+    },
+    "ko": {
+      "$name": "UTF32 디코딩",
+      "$keywords": [
+        "utf32",
+        "디코딩",
+        "UTF32 인코딩",
+        "디코딩 도구",
+        "인코딩 변환",
+        "데이터 처리",
+        "인코딩 검토"
+      ],
+      "$description": "UTF32 디코딩 도구는 UTF32 인코딩된 문자열을 일반 문자열로 디코딩하는 데 사용되는 도구입니다. 입력된 UTF32 인코딩된 문자열을 일반 문자열로 변환하고 결과를 출력 영역에 표시할 수 있습니다.\n\n기능:\n\n1. UTF32 인코딩된 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 입력된 문자열이 UTF32 인코딩된 것인지 감지하고 디코딩합니다.\n\n3. 디코딩된 문자열은 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. 인코딩 변환: 인코딩 변환을 수행할 때, UTF32 인코딩된 문자열을 일반 문자열로 변환해야 할 수 있습니다. UTF32 디코딩 도구를 사용하면 이 작업을 쉽게 수행할 수 있습니다.\n\n2. 데이터 처리: 데이터 처리 중에 UTF32 인코딩된 문자열을 만날 수 있습니다. 이 도구를 사용하면 이를 일반 문자열로 디코딩하여 더 쉽게 처리할 수 있습니다.\n\n3. 인코딩 검토: 코드 검토 과정에서 UTF32 인코딩된 문자열을 만날 수 있습니다. UTF32 디코딩 도구를 사용하면 이를 일반 문자열로 디코딩하여 데이터 구조를 더 쉽게 볼 수 있습니다."
+    },
+    "ja": {
+      "$name": "UTF32 デコード",
+      "$keywords": [
+        "utf32",
+        "デコード",
+        "UTF32 エンコーディング",
+        "デコードツール",
+        "エンコーディング変換",
+        "データ処理",
+        "エンコーディングレビュー"
+      ],
+      "$description": "UTF32デコードツールは、UTF32エンコードされた文字列を通常の文字列にデコードするために使用されるツールです。入力されたUTF32エンコードされた文字列を通常の文字列に変換し、結果を出力エリアに表示することができます。\n\n特徴：\n\n1. UTF32エンコードされた文字列をツールに貼り付けるか、入力することができます。\n\n2. ツールは自動的に入力された文字列がUTF32エンコードされているかどうかを検出し、デコードします。\n\n3. デコードされた文字列はツールの出力エリアに表示されます。\n\n使用例：\n\n1. エンコード変換：エンコード変換を行う場合、UTF32エンコードされた文字列を通常の文字列に変換する必要がある場合があります。UTF32デコードツールを使用することで、この操作を簡単に実行できます。\n\n2. データ処理：データを処理する際に、UTF32エンコードされた文字列に遭遇することがあります。このツールを使用することで、より簡単に処理できる通常の文字列にデコードすることができます。\n\n3. エンコードのレビュー：コードレビューのプロセス中に、UTF32エンコードされた文字列に遭遇することがあります。UTF32デコードツールを使用することで、データ構造をより簡単に表示し理解することができます。"
+    },
+    "es": {
+      "$name": "Decodificación UTF32",
+      "$keywords": [
+        "utf32",
+        "decodificar",
+        "codificación UTF32",
+        "herramienta de decodificación",
+        "conversión de codificación",
+        "procesamiento de datos",
+        "revisión de codificación"
+      ],
+      "$description": "Herramienta de decodificación UTF32 es una herramienta utilizada para decodificar cadenas codificadas en UTF32 en cadenas regulares. Puede convertir la cadena codificada en UTF32 de entrada en una cadena regular y mostrar el resultado en el área de salida.\n\nCaracterísticas:\n\n1. Pegue o ingrese la cadena codificada en UTF32 en la herramienta.\n\n2. La herramienta detectará automáticamente si la cadena de entrada está codificada en UTF32 y la decodificará.\n\n3. La cadena decodificada se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Conversión de codificación: al realizar la conversión de codificación, puede ser necesario convertir cadenas codificadas en UTF32 en cadenas regulares. Usando la herramienta de decodificación UTF32 se puede lograr fácilmente esta operación.\n\n2. Procesamiento de datos: al procesar datos, puede encontrarse con cadenas codificadas en UTF32. Usando esta herramienta, puede decodificarlas en cadenas regulares para un procesamiento más fácil.\n\n3. Revisión de codificación: durante el proceso de revisión de código, puede encontrarse con cadenas codificadas en UTF32. Usando la herramienta de decodificación UTF32, se pueden decodificar en cadenas regulares para una visualización y comprensión más fácil de las estructuras de datos."
     },
     "zh-tw": {
       "$name": "UTF32 解碼",
-      "$description": "UTF32 解碼",
-      "$keywords": ["解碼"]
+      "$keywords": [
+        "utf32",
+        "解碼",
+        "UTF32 編碼",
+        "解碼工具",
+        "編碼轉換",
+        "數據處理",
+        "編碼檢查"
+      ],
+      "$description": "UTF32 解碼工具是一個用於將 UTF32 編碼的字符串解碼為常規字符串的工具。它可以將輸入的 UTF32 編碼字符串轉換為常規字符串並在輸出區域顯示結果。\n\n功能：\n\n1. 將 UTF32 編碼字符串粘貼或輸入到工具中。\n\n2. 工具將自動檢測輸入字符串是否為 UTF32 編碼並進行解碼。\n\n3. 解碼後的字符串將顯示在工具的輸出區域中。\n\n用途：\n\n1. 編碼轉換：在進行編碼轉換時，可能需要將 UTF32 編碼的字符串轉換為常規字符串。使用 UTF32 解碼工具可以輕鬆完成此操作。\n\n2. 數據處理：在處理數據時，可能會遇到 UTF32 編碼的字符串。使用此工具，您可以將它們解碼為常規字符串，以便更輕鬆地進行處理。\n\n3. 編碼審查：在代碼審查過程中，您可能會遇到 UTF32 編碼的字符串。使用 UTF32 解碼工具可以將它們解碼為常規字符串，以便更輕鬆地查看和理解數據結構。"
     },
     "zh-cn": {
-      "$name": "UTF32 解码",
-      "$description": "UTF32 解码",
-      "$keywords": ["解码"]
+      "$name": "UTF32解码",
+      "$keywords": [
+        "utf32",
+        "解码",
+        "UTF32编码",
+        "解码工具",
+        "编码转换",
+        "数据处理",
+        "编码检查"
+      ],
+      "$description": "UTF32解码工具是一种工具，用于将UTF32编码的字符串解码为常规字符串。它可以将输入的UTF32编码字符串转换为常规字符串，并在输出区域显示结果。\n\n特点：\n\n1. 将UTF32编码的字符串粘贴或输入到工具中。\n\n2. 工具将自动检测输入字符串是否为UTF32编码，并对其进行解码。\n\n3. 解码后的字符串将显示在工具的输出区域中。\n\n用例：\n\n1. 编码转换：在执行编码转换时，可能需要将UTF32编码的字符串转换为常规字符串。使用UTF32解码工具可以轻松完成此操作。\n\n2. 数据处理：在处理数据时，可能会遇到UTF32编码的字符串。使用此工具，您可以将它们解码为常规字符串，以便更轻松地处理。\n\n3. 编码审查：在代码审查过程中，可能会遇到UTF32编码的字符串。使用UTF32解码工具可以将它们解码为常规字符串，以便更轻松地查看和理解数据结构。"
     }
   },
   {
     "id": "unicode-encode",
-    "zh": {
-      "$name": "Unicode 编码",
-      "$description": "将文本编码为 Unicode",
-      "$keywords": ["编码"]
-    },
     "en": {
-      "$name": "Unicode Encode",
-      "$description": "Encodes text into unicode",
-      "$keywords": ["unicode", "encode"]
-    },
-    "de": {
-      "$name": "Unicode -Codierung",
-      "$description": "Codetext in Unicode",
-      "$keywords": ["Codierung"]
-    },
-    "es": {
-      "$name": "Codificación unicode",
-      "$description": "Código de texto en unicode",
-      "$keywords": ["codificación"]
-    },
-    "fr": {
-      "$name": "Encodage Unicode",
-      "$description": "Code du texte dans Unicode",
-      "$keywords": ["codage"]
-    },
-    "it": {
-      "$name": "Codifica Unicode",
-      "$description": "Testo del codice in Unicode",
-      "$keywords": ["Coding"]
-    },
-    "ja": {
-      "$name": "ユニコードエンコーディング",
-      "$description": "Unicodeにテキストをコードします",
-      "$keywords": ["コーディング"]
-    },
-    "ko": {
-      "$name": "유니 코드 인코딩",
-      "$description": "코드 텍스트로 유니 코드",
-      "$keywords": ["코딩"]
+      "$name": "Unicode Encoding",
+      "$keywords": [
+        "unicode",
+        "encode",
+        "Unicode encoding",
+        "string conversion",
+        "encoding conversion",
+        "string processing",
+        "programming development"
+      ],
+      "$description": "Unicode Encoding Tool is a tool that converts strings to Unicode encoding. It can convert non-ASCII characters in the string to Unicode encoding, making it easier to use in different encoding environments.\n\nFeatures:\n\n1. Enter the string to be converted into the tool.\n\n2. The tool will automatically convert non-ASCII characters in the string to Unicode encoding.\n\n3. The converted string will be displayed in the tool's output area.\n\n4. Users can choose not to convert all characters to preserve ASCII characters in the string.\n\nUse cases:\n\n1. Encoding conversion: In different encoding environments, non-ASCII characters in the string may appear as garbled text. Using the Unicode Encoding Tool can convert these characters to Unicode encoding for correct display in different encoding environments.\n\n2. String processing: During string processing, it may be necessary to convert non-ASCII characters in the string to Unicode encoding. Using this tool, strings can be easily converted to Unicode encoding for further processing.\n\n3. Programming development: During programming development, it may be necessary to convert non-ASCII characters in the string to Unicode encoding. Using the Unicode Encoding Tool can quickly convert strings to Unicode encoding for use in code."
     },
     "pt": {
-      "$name": "Codificação unicode",
-      "$description": "Texto de código no unicode",
-      "$keywords": ["codificação"]
+      "$name": "Codificação Unicode",
+      "$keywords": [
+        "unicode",
+        "codificação",
+        "codificação Unicode",
+        "conversão de string",
+        "conversão de codificação",
+        "processamento de string",
+        "desenvolvimento de programação"
+      ],
+      "$description": "Ferramenta de Codificação Unicode é uma ferramenta que converte strings para codificação Unicode. Ela pode converter caracteres não-ASCII na string para codificação Unicode, tornando mais fácil o uso em diferentes ambientes de codificação.\n\nRecursos:\n\n1. Insira a string a ser convertida na ferramenta.\n\n2. A ferramenta converterá automaticamente caracteres não-ASCII na string para codificação Unicode.\n\n3. A string convertida será exibida na área de saída da ferramenta.\n\n4. Os usuários podem escolher não converter todos os caracteres para preservar caracteres ASCII na string.\n\nCasos de uso:\n\n1. Conversão de codificação: Em diferentes ambientes de codificação, caracteres não-ASCII na string podem aparecer como texto corrompido. Usando a Ferramenta de Codificação Unicode, é possível converter esses caracteres para codificação Unicode para exibição correta em diferentes ambientes de codificação.\n\n2. Processamento de string: Durante o processamento de string, pode ser necessário converter caracteres não-ASCII na string para codificação Unicode. Usando esta ferramenta, as strings podem ser facilmente convertidas para codificação Unicode para processamento adicional.\n\n3. Desenvolvimento de programação: Durante o desenvolvimento de programação, pode ser necessário converter caracteres não-ASCII na string para codificação Unicode. Usando a Ferramenta de Codificação Unicode, é possível converter rapidamente strings para codificação Unicode para uso no código."
     },
     "ru": {
       "$name": "Кодирование Unicode",
-      "$description": "Код текст в Unicode",
-      "$keywords": ["кодирование"]
+      "$keywords": [
+        "unicode",
+        "кодирование",
+        "кодирование Unicode",
+        "преобразование строки",
+        "преобразование кодировки",
+        "обработка строк",
+        "разработка программ"
+      ],
+      "$description": "Инструмент кодирования Unicode - это инструмент, который преобразует строки в кодировку Unicode. Он может преобразовывать не-ASCII символы в строке в кодировку Unicode, что упрощает их использование в различных средах кодирования.\n\nОсобенности:\n\n1. Введите строку, которую нужно преобразовать в инструмент.\n\n2. Инструмент автоматически преобразует не-ASCII символы в строке в кодировку Unicode.\n\n3. Преобразованная строка будет отображаться в выходной области инструмента.\n\n4. Пользователи могут выбрать не преобразовывать все символы, чтобы сохранить ASCII символы в строке.\n\nПрименение:\n\n1. Преобразование кодировки: В различных средах кодирования, не-ASCII символы в строке могут появляться как искаженный текст. Использование инструмента кодирования Unicode может преобразовать эти символы в кодировку Unicode для правильного отображения в различных средах кодирования.\n\n2. Обработка строк: Во время обработки строк может потребоваться преобразовать не-ASCII символы в строке в кодировку Unicode. Используя этот инструмент, строки могут быть легко преобразованы в кодировку Unicode для дальнейшей обработки.\n\n3. Разработка программного обеспечения: Во время разработки программного обеспечения может потребоваться преобразовать не-ASCII символы в строке в кодировку Unicode. Использование инструмента кодирования Unicode может быстро преобразовать строки в кодировку Unicode для использования в коде."
+    },
+    "it": {
+      "$name": "Codifica Unicode",
+      "$keywords": [
+        "unicode",
+        "codifica",
+        "codifica Unicode",
+        "conversione stringa",
+        "conversione di codifica",
+        "elaborazione di stringhe",
+        "sviluppo di programmazione"
+      ],
+      "$description": "Lo strumento di codifica Unicode è uno strumento che converte le stringhe in codifica Unicode. Può convertire i caratteri non ASCII nella stringa in codifica Unicode, rendendola più facile da usare in diversi ambienti di codifica.\n\nCaratteristiche:\n\n1. Inserisci la stringa da convertire nello strumento.\n\n2. Lo strumento convertirà automaticamente i caratteri non ASCII nella stringa in codifica Unicode.\n\n3. La stringa convertita verrà visualizzata nell'area di output dello strumento.\n\n4. Gli utenti possono scegliere di non convertire tutti i caratteri per preservare i caratteri ASCII nella stringa.\n\nCasi d'uso:\n\n1. Conversione di codifica: In diversi ambienti di codifica, i caratteri non ASCII nella stringa possono apparire come testo illeggibile. Utilizzando lo strumento di codifica Unicode, è possibile convertire questi caratteri in codifica Unicode per una corretta visualizzazione in diversi ambienti di codifica.\n\n2. Elaborazione di stringhe: Durante l'elaborazione di stringhe, può essere necessario convertire i caratteri non ASCII nella stringa in codifica Unicode. Utilizzando questo strumento, le stringhe possono essere facilmente convertite in codifica Unicode per ulteriori elaborazioni.\n\n3. Sviluppo di programmazione: Durante lo sviluppo di programmazione, può essere necessario convertire i caratteri non ASCII nella stringa in codifica Unicode. Utilizzando lo strumento di codifica Unicode, è possibile convertire rapidamente le stringhe in codifica Unicode per l'uso nel codice."
+    },
+    "fr": {
+      "$name": "Encodage Unicode",
+      "$keywords": [
+        "unicode",
+        "encoder",
+        "encodage Unicode",
+        "conversion de chaîne",
+        "conversion d'encodage",
+        "traitement de chaîne",
+        "développement de programmation"
+      ],
+      "$description": "Outil de codage Unicode est un outil qui convertit les chaînes de caractères en codage Unicode. Il peut convertir les caractères non-ASCII dans la chaîne en codage Unicode, ce qui facilite son utilisation dans différents environnements de codage.\n\nFonctionnalités :\n\n1. Entrez la chaîne à convertir dans l'outil.\n\n2. L'outil convertira automatiquement les caractères non-ASCII dans la chaîne en codage Unicode.\n\n3. La chaîne convertie sera affichée dans la zone de sortie de l'outil.\n\n4. Les utilisateurs peuvent choisir de ne pas convertir tous les caractères pour préserver les caractères ASCII dans la chaîne.\n\nCas d'utilisation :\n\n1. Conversion de codage : Dans différents environnements de codage, les caractères non-ASCII dans la chaîne peuvent apparaître sous forme de texte brouillé. En utilisant l'outil de codage Unicode, ces caractères peuvent être convertis en codage Unicode pour un affichage correct dans différents environnements de codage.\n\n2. Traitement de chaîne : Pendant le traitement de chaîne, il peut être nécessaire de convertir les caractères non-ASCII dans la chaîne en codage Unicode. En utilisant cet outil, les chaînes peuvent être facilement converties en codage Unicode pour un traitement ultérieur.\n\n3. Développement de programmation : Pendant le développement de programmation, il peut être nécessaire de convertir les caractères non-ASCII dans la chaîne en codage Unicode. En utilisant l'outil de codage Unicode, les chaînes peuvent être rapidement converties en codage Unicode pour une utilisation dans le code."
+    },
+    "de": {
+      "$name": "Unicode-Kodierung",
+      "$keywords": [
+        "Unicode",
+        "Kodierung",
+        "Unicode-Kodierung",
+        "Zeichenkettenumwandlung",
+        "Kodierungsumwandlung",
+        "Zeichenkettenverarbeitung",
+        "Programmierentwicklung"
+      ],
+      "$description": "Unicode Encoding Tool ist ein Werkzeug, das Zeichenfolgen in Unicode-Kodierung umwandelt. Es kann Nicht-ASCII-Zeichen in der Zeichenfolge in Unicode-Kodierung umwandeln, um die Verwendung in verschiedenen Kodierungsumgebungen zu erleichtern.\n\nFunktionen:\n\n1. Geben Sie die zu konvertierende Zeichenfolge in das Werkzeug ein.\n\n2. Das Werkzeug wandelt automatisch Nicht-ASCII-Zeichen in der Zeichenfolge in Unicode-Kodierung um.\n\n3. Die konvertierte Zeichenfolge wird im Ausgabegebiet des Werkzeugs angezeigt.\n\n4. Benutzer können wählen, nicht alle Zeichen zu konvertieren, um ASCII-Zeichen in der Zeichenfolge zu erhalten.\n\nAnwendungsfälle:\n\n1. Kodierungsumwandlung: In verschiedenen Kodierungsumgebungen können Nicht-ASCII-Zeichen in der Zeichenfolge als unleserlicher Text angezeigt werden. Mit dem Unicode Encoding Tool können diese Zeichen in Unicode-Kodierung umgewandelt werden, um eine korrekte Anzeige in verschiedenen Kodierungsumgebungen zu ermöglichen.\n\n2. Zeichenfolgenverarbeitung: Während der Zeichenfolgenverarbeitung kann es erforderlich sein, Nicht-ASCII-Zeichen in der Zeichenfolge in Unicode-Kodierung umzuwandeln. Mit diesem Werkzeug können Zeichenfolgen einfach in Unicode-Kodierung umgewandelt werden, um sie weiter zu verarbeiten.\n\n3. Programmierentwicklung: Während der Programmierentwicklung kann es erforderlich sein, Nicht-ASCII-Zeichen in der Zeichenfolge in Unicode-Kodierung umzuwandeln. Mit dem Unicode Encoding Tool können Zeichenfolgen schnell in Unicode-Kodierung umgewandelt werden, um sie im Code zu verwenden."
+    },
+    "ko": {
+      "$name": "유니코드 인코딩",
+      "$keywords": [
+        "유니코드",
+        "인코딩",
+        "유니코드 인코딩",
+        "문자열 변환",
+        "인코딩 변환",
+        "문자열 처리",
+        "프로그래밍 개발"
+      ],
+      "$description": "유니코드 인코딩 도구는 문자열을 유니코드 인코딩으로 변환하는 도구입니다. 이 도구는 문자열의 비 ASCII 문자를 유니코드 인코딩으로 변환하여 다른 인코딩 환경에서 사용하기 쉽게 만들어줍니다.\n\n기능:\n\n1. 도구에 변환할 문자열을 입력합니다.\n\n2. 도구는 문자열의 비 ASCII 문자를 자동으로 유니코드 인코딩으로 변환합니다.\n\n3. 변환된 문자열은 도구의 출력 영역에 표시됩니다.\n\n4. 사용자는 모든 문자를 변환하지 않고 ASCII 문자를 보존할 수 있습니다.\n\n사용 사례:\n\n1. 인코딩 변환: 다른 인코딩 환경에서 문자열의 비 ASCII 문자는 깨진 텍스트로 나타날 수 있습니다. 유니코드 인코딩 도구를 사용하면 이러한 문자를 유니코드 인코딩으로 변환하여 다른 인코딩 환경에서 올바르게 표시할 수 있습니다.\n\n2. 문자열 처리: 문자열 처리 중에는 문자열의 비 ASCII 문자를 유니코드 인코딩으로 변환해야 할 수 있습니다. 이 도구를 사용하면 문자열을 쉽게 유니코드 인코딩으로 변환하여 추가 처리할 수 있습니다.\n\n3. 프로그래밍 개발: 프로그래밍 개발 중에는 문자열의 비 ASCII 문자를 유니코드 인코딩으로 변환해야 할 수 있습니다. 유니코드 인코딩 도구를 사용하면 코드에서 사용할 수 있도록 문자열을 빠르게 유니코드 인코딩으로 변환할 수 있습니다."
+    },
+    "ja": {
+      "$name": "Unicodeエンコーディング",
+      "$keywords": [
+        "Unicodeエンコーディング",
+        "エンコード",
+        "文字列変換",
+        "エンコーディング変換",
+        "文字列処理",
+        "プログラミング開発"
+      ],
+      "$description": "Unicodeエンコーディングツールは、文字列をUnicodeエンコーディングに変換するツールです。文字列内の非ASCII文字をUnicodeエンコーディングに変換することができ、異なるエンコーディング環境で使用しやすくなります。\n\n特徴：\n\n1. ツールに変換する文字列を入力します。\n\n2. ツールは、文字列内の非ASCII文字を自動的にUnicodeエンコーディングに変換します。\n\n3. 変換された文字列は、ツールの出力エリアに表示されます。\n\n4. ユーザーは、すべての文字を変換しないように選択することができ、文字列内のASCII文字を保持することができます。\n\n使用例：\n\n1. エンコーディング変換：異なるエンコーディング環境では、文字列内の非ASCII文字が文字化けして表示されることがあります。Unicodeエンコーディングツールを使用することで、これらの文字をUnicodeエンコーディングに変換し、異なるエンコーディング環境で正しく表示することができます。\n\n2. 文字列処理：文字列処理中に、文字列内の非ASCII文字をUnicodeエンコーディングに変換する必要がある場合があります。このツールを使用すると、文字列を簡単にUnicodeエンコーディングに変換して、さらに処理することができます。\n\n3. プログラミング開発：プログラミング開発中に、文字列内の非ASCII文字をUnicodeエンコーディングに変換する必要がある場合があります。Unicodeエンコーディングツールを使用すると、文字列を素早くUnicodeエンコーディングに変換して、コードで使用することができます。"
+    },
+    "es": {
+      "$name": "Codificación Unicode",
+      "$keywords": [
+        "unicode",
+        "codificación",
+        "codificación Unicode",
+        "conversión de cadena",
+        "conversión de codificación",
+        "procesamiento de cadena",
+        "desarrollo de programación"
+      ],
+      "$description": "Herramienta de codificación Unicode es una herramienta que convierte cadenas de texto a codificación Unicode. Puede convertir caracteres no ASCII en la cadena a codificación Unicode, lo que facilita su uso en diferentes entornos de codificación.\n\nCaracterísticas:\n\n1. Ingrese la cadena de texto que se va a convertir en la herramienta.\n\n2. La herramienta convertirá automáticamente los caracteres no ASCII en la cadena a codificación Unicode.\n\n3. La cadena convertida se mostrará en el área de salida de la herramienta.\n\n4. Los usuarios pueden elegir no convertir todos los caracteres para preservar los caracteres ASCII en la cadena.\n\nCasos de uso:\n\n1. Conversión de codificación: En diferentes entornos de codificación, los caracteres no ASCII en la cadena pueden aparecer como texto ilegible. Usando la Herramienta de Codificación Unicode, se pueden convertir estos caracteres a codificación Unicode para una visualización correcta en diferentes entornos de codificación.\n\n2. Procesamiento de cadenas: Durante el procesamiento de cadenas, puede ser necesario convertir caracteres no ASCII en la cadena a codificación Unicode. Usando esta herramienta, las cadenas se pueden convertir fácilmente a codificación Unicode para un procesamiento posterior.\n\n3. Desarrollo de programación: Durante el desarrollo de programación, puede ser necesario convertir caracteres no ASCII en la cadena a codificación Unicode. Usando la Herramienta de Codificación Unicode, se pueden convertir rápidamente las cadenas a codificación Unicode para su uso en el código."
     },
     "zh-tw": {
       "$name": "Unicode 編碼",
-      "$description": "將文本編碼為 Unicode",
-      "$keywords": ["編碼"]
+      "$keywords": [
+        "Unicode編碼",
+        "編碼",
+        "Unicode編碼",
+        "字串轉換",
+        "編碼轉換",
+        "字串處理",
+        "程式開發"
+      ],
+      "$description": "Unicode 編碼工具是一個將字串轉換為 Unicode 編碼的工具。它可以將字串中的非 ASCII 字元轉換為 Unicode 編碼，使其在不同的編碼環境中更容易使用。\n\n功能：\n\n1. 輸入要轉換的字串到工具中。\n\n2. 工具會自動將字串中的非 ASCII 字元轉換為 Unicode 編碼。\n\n3. 轉換後的字串會顯示在工具的輸出區域中。\n\n4. 使用者可以選擇不轉換所有字元，以保留字串中的 ASCII 字元。\n\n使用案例：\n\n1. 編碼轉換：在不同的編碼環境中，字串中的非 ASCII 字元可能會顯示為亂碼。使用 Unicode 編碼工具可以將這些字元轉換為 Unicode 編碼，以在不同的編碼環境中正確顯示。\n\n2. 字串處理：在字串處理期間，可能需要將字串中的非 ASCII 字元轉換為 Unicode 編碼。使用這個工具，可以輕鬆地將字串轉換為 Unicode 編碼以進行進一步的處理。\n\n3. 程式開發：在程式開發期間，可能需要將字串中的非 ASCII 字元轉換為 Unicode 編碼。使用 Unicode 編碼工具可以快速將字串轉換為 Unicode 編碼，以在程式碼中使用。"
     },
     "zh-cn": {
-      "$name": "Unicode 编码",
-      "$description": "将文本编码为 Unicode",
-      "$keywords": ["编码"]
+      "$name": "Unicode编码",
+      "$keywords": [
+        "Unicode编码",
+        "编码",
+        "Unicode编码转换",
+        "字符串转换",
+        "编码转换",
+        "字符串处理",
+        "编程开发"
+      ],
+      "$description": "Unicode编码工具是一款将字符串转换为Unicode编码的工具。它可以将字符串中的非ASCII字符转换为Unicode编码，使其在不同的编码环境中更易于使用。\n\n特点：\n\n1. 输入要转换的字符串到工具中。\n\n2. 工具将自动将字符串中的非ASCII字符转换为Unicode编码。\n\n3. 转换后的字符串将显示在工具的输出区域中。\n\n4. 用户可以选择不转换所有字符，以保留字符串中的ASCII字符。\n\n用例：\n\n1. 编码转换：在不同的编码环境中，字符串中的非ASCII字符可能会显示为乱码。使用Unicode编码工具可以将这些字符转换为Unicode编码，以在不同的编码环境中正确显示。\n\n2. 字符串处理：在字符串处理过程中，可能需要将字符串中的非ASCII字符转换为Unicode编码。使用此工具，可以轻松将字符串转换为Unicode编码以进行进一步处理。\n\n3. 编程开发：在编程开发过程中，可能需要将字符串中的非ASCII字符转换为Unicode编码。使用Unicode编码工具可以快速将字符串转换为Unicode编码以在代码中使用。"
     }
   },
   {
     "id": "unicode-decode",
-    "zh": {
-      "$name": "Unicode 解码",
-      "$description": "将 Unicode 解码为文本",
-      "$keywords": ["解码"]
-    },
     "en": {
-      "$name": "Unicode Decode",
-      "$description": "Decodes unicode into text",
-      "$keywords": ["unicode", "decode"]
-    },
-    "de": {
-      "$name": "Unicode -Dekodierung",
-      "$description": "Dekodieren von Unicode als Text",
-      "$keywords": ["Dekodierung"]
-    },
-    "es": {
-      "$name": "Decodificación unicode",
-      "$description": "Decodificar unicode como texto",
-      "$keywords": ["descodificación"]
-    },
-    "fr": {
-      "$name": "Décodage Unicode",
-      "$description": "Décodage Unicode comme texte",
-      "$keywords": ["décodage"]
-    },
-    "it": {
-      "$name": "Decodifica Unicode",
-      "$description": "Decodifica Unicode come testo",
-      "$keywords": ["decodifica"]
-    },
-    "ja": {
-      "$name": "ユニコードデコード",
-      "$description": "Unicodeをテキストとして解読します",
-      "$keywords": ["デコード"]
-    },
-    "ko": {
-      "$name": "유니 코드 디코딩",
-      "$description": "텍스트로 유니 코드를 디코딩합니다",
-      "$keywords": ["디코딩"]
+      "$name": "Unicode Decoding",
+      "$keywords": [
+        "unicode",
+        "decode",
+        "Unicode encoding",
+        "string decoding",
+        "string encoding",
+        "data analysis",
+        "string inspection"
+      ],
+      "$description": "Unicode Decoding tool is a tool used to convert Unicode encoding to corresponding characters. It can convert Unicode encoded strings to corresponding characters, and also convert characters to Unicode encoded strings.\n\nFunction description:\n\n1. Paste or enter the Unicode encoded string into the tool.\n\n2. The tool will automatically detect whether the input string is Unicode encoded and decode or encode it accordingly.\n\n3. The decoded or encoded string will be displayed in the output area of the tool.\n\n4. The tool provides sample data for users to test and use.\n\n5. The tool also provides the function of automatically filling in input conditions, which can automatically determine whether the input string is Unicode encoded.\n\nUsage scenarios:\n\n1. String decoding: In the development or testing process, it is often necessary to convert Unicode encoded strings to corresponding characters. Using the Unicode Decoding tool can quickly decode strings, making it easy to view and understand data content.\n\n2. String encoding: In the development or testing process, it is often necessary to convert characters to Unicode encoded strings. Using the Unicode Decoding tool can quickly encode strings, making it easy to transmit and store data.\n\n3. Data analysis: Data analysts need to process and analyze various string data, including Unicode encoded strings. Using this tool, they can easily convert Unicode encoded strings to corresponding characters, thereby better understanding data structure and content.\n\n4. String review: During code review, reviewers can use the Unicode Decoding tool to decode Unicode encoded strings, making it easier to view and understand data structure."
     },
     "pt": {
-      "$name": "Unicode decodificação",
-      "$description": "Decodificar unicode como texto",
-      "$keywords": ["decodificação"]
+      "$name": "Decodificação Unicode",
+      "$keywords": [
+        "unicode",
+        "decodificar",
+        "codificação Unicode",
+        "decodificação de string",
+        "codificação de string",
+        "análise de dados",
+        "inspeção de string"
+      ],
+      "$description": "Ferramenta de Decodificação Unicode é uma ferramenta usada para converter codificação Unicode em caracteres correspondentes. Ela pode converter strings codificadas em Unicode em caracteres correspondentes e também converter caracteres em strings codificadas em Unicode.\n\nDescrição da função:\n\n1. Cole ou insira a string codificada em Unicode na ferramenta.\n\n2. A ferramenta detectará automaticamente se a string de entrada está codificada em Unicode e a decodificará ou codificará de acordo.\n\n3. A string decodificada ou codificada será exibida na área de saída da ferramenta.\n\n4. A ferramenta fornece dados de amostra para os usuários testarem e usarem.\n\n5. A ferramenta também fornece a função de preenchimento automático de condições de entrada, que pode determinar automaticamente se a string de entrada está codificada em Unicode.\n\nCenários de uso:\n\n1. Decodificação de string: No processo de desenvolvimento ou teste, muitas vezes é necessário converter strings codificadas em Unicode em caracteres correspondentes. Usando a ferramenta de decodificação Unicode, é possível decodificar rapidamente as strings, tornando mais fácil visualizar e entender o conteúdo dos dados.\n\n2. Codificação de string: No processo de desenvolvimento ou teste, muitas vezes é necessário converter caracteres em strings codificadas em Unicode. Usando a ferramenta de decodificação Unicode, é possível codificar rapidamente as strings, tornando mais fácil transmitir e armazenar dados.\n\n3. Análise de dados: Analistas de dados precisam processar e analisar vários dados de string, incluindo strings codificadas em Unicode. Usando esta ferramenta, eles podem facilmente converter strings codificadas em Unicode em caracteres correspondentes, compreendendo melhor a estrutura e o conteúdo dos dados.\n\n4. Revisão de string: Durante a revisão de código, os revisores podem usar a ferramenta de decodificação Unicode para decodificar strings codificadas em Unicode, tornando mais fácil visualizar e entender a estrutura dos dados."
     },
     "ru": {
       "$name": "Декодирование Unicode",
-      "$description": "Декодирование Unicode как текст",
-      "$keywords": ["декодирование"]
+      "$keywords": [
+        "unicode",
+        "декодирование",
+        "кодирование Unicode",
+        "декодирование строки",
+        "кодирование строки",
+        "анализ данных",
+        "проверка строки"
+      ],
+      "$description": "Инструмент декодирования Unicode - это инструмент, используемый для преобразования кодировки Unicode в соответствующие символы. Он может преобразовывать строку, закодированную в Unicode, в соответствующие символы, а также преобразовывать символы в строку, закодированную в Unicode.\n\nОписание функций:\n\n1. Вставьте или введите закодированную строку Unicode в инструмент.\n\n2. Инструмент автоматически определит, является ли входная строка закодированной в Unicode, и декодирует или кодирует ее соответственно.\n\n3. Декодированная или закодированная строка будет отображаться в области вывода инструмента.\n\n4. Инструмент предоставляет образцы данных для тестирования и использования.\n\n5. Инструмент также предоставляет функцию автоматического заполнения входных условий, которая может автоматически определить, является ли входная строка закодированной в Unicode.\n\nСценарии использования:\n\n1. Декодирование строк: В процессе разработки или тестирования часто необходимо преобразовывать закодированные в Unicode строки в соответствующие символы. Использование инструмента декодирования Unicode позволяет быстро декодировать строки, что упрощает просмотр и понимание содержимого данных.\n\n2. Кодирование строк: В процессе разработки или тестирования часто необходимо преобразовывать символы в закодированные в Unicode строки. Использование инструмента декодирования Unicode позволяет быстро кодировать строки, что упрощает передачу и хранение данных.\n\n3. Анализ данных: Аналитики данных должны обрабатывать и анализировать различные строковые данные, включая закодированные в Unicode строки. Используя этот инструмент, они могут легко преобразовывать закодированные в Unicode строки в соответствующие символы, что позволяет лучше понимать структуру и содержание данных.\n\n4. Просмотр строк: Во время проверки кода рецензенты могут использовать инструмент декодирования Unicode для декодирования закодированных в Unicode строк, что упрощает просмотр и понимание структуры данных."
+    },
+    "it": {
+      "$name": "Decodifica Unicode",
+      "$keywords": [
+        "unicode",
+        "decodifica",
+        "codifica Unicode",
+        "decodifica stringa",
+        "codifica stringa",
+        "analisi dati",
+        "ispezione stringa"
+      ],
+      "$description": "Lo strumento di decodifica Unicode è uno strumento utilizzato per convertire la codifica Unicode in caratteri corrispondenti. Può convertire stringhe codificate in Unicode in caratteri corrispondenti e anche convertire caratteri in stringhe codificate in Unicode.\n\nDescrizione della funzione:\n\n1. Incolla o inserisci la stringa codificata in Unicode nello strumento.\n\n2. Lo strumento rileverà automaticamente se la stringa di input è codificata in Unicode e la decodificherà o la codificherà di conseguenza.\n\n3. La stringa decodificata o codificata verrà visualizzata nell'area di output dello strumento.\n\n4. Lo strumento fornisce dati di esempio per gli utenti da testare e utilizzare.\n\n5. Lo strumento fornisce anche la funzione di compilazione automatica delle condizioni di input, che può determinare automaticamente se la stringa di input è codificata in Unicode.\n\nScenari di utilizzo:\n\n1. Decodifica della stringa: nel processo di sviluppo o di test, è spesso necessario convertire stringhe codificate in Unicode in caratteri corrispondenti. Utilizzando lo strumento di decodifica Unicode, è possibile decodificare rapidamente le stringhe, rendendo facile visualizzare e comprendere il contenuto dei dati.\n\n2. Codifica della stringa: nel processo di sviluppo o di test, è spesso necessario convertire i caratteri in stringhe codificate in Unicode. Utilizzando lo strumento di decodifica Unicode, è possibile codificare rapidamente le stringhe, rendendo facile trasmettere e archiviare i dati.\n\n3. Analisi dei dati: gli analisti dei dati devono elaborare e analizzare vari dati di stringa, comprese le stringhe codificate in Unicode. Utilizzando questo strumento, possono facilmente convertire le stringhe codificate in Unicode in caratteri corrispondenti, comprendendo meglio la struttura e il contenuto dei dati.\n\n4. Revisione della stringa: durante la revisione del codice, i revisori possono utilizzare lo strumento di decodifica Unicode per decodificare le stringhe codificate in Unicode, rendendo più facile visualizzare e comprendere la struttura dei dati."
+    },
+    "fr": {
+      "$name": "Décodage Unicode",
+      "$keywords": [
+        "unicode",
+        "décodage",
+        "encodage Unicode",
+        "décodage de chaîne",
+        "encodage de chaîne",
+        "analyse de données",
+        "inspection de chaîne"
+      ],
+      "$description": "Outil de décodage Unicode est un outil utilisé pour convertir l'encodage Unicode en caractères correspondants. Il peut convertir des chaînes encodées en Unicode en caractères correspondants, et également convertir des caractères en chaînes encodées en Unicode.\n\nDescription de la fonction :\n\n1. Collez ou entrez la chaîne encodée en Unicode dans l'outil.\n\n2. L'outil détectera automatiquement si la chaîne d'entrée est encodée en Unicode et la décodera ou l'encodera en conséquence.\n\n3. La chaîne décodée ou encodée sera affichée dans la zone de sortie de l'outil.\n\n4. L'outil fournit des données d'exemple pour que les utilisateurs puissent tester et utiliser.\n\n5. L'outil fournit également la fonction de remplissage automatique des conditions d'entrée, qui peut déterminer automatiquement si la chaîne d'entrée est encodée en Unicode.\n\nScénarios d'utilisation :\n\n1. Décodage de chaîne : Dans le processus de développement ou de test, il est souvent nécessaire de convertir des chaînes encodées en Unicode en caractères correspondants. En utilisant l'outil de décodage Unicode, les chaînes peuvent être rapidement décodées, ce qui facilite la visualisation et la compréhension du contenu des données.\n\n2. Encodage de chaîne : Dans le processus de développement ou de test, il est souvent nécessaire de convertir des caractères en chaînes encodées en Unicode. En utilisant l'outil de décodage Unicode, les chaînes peuvent être rapidement encodées, ce qui facilite la transmission et le stockage des données.\n\n3. Analyse de données : Les analystes de données doivent traiter et analyser diverses données de chaîne, y compris des chaînes encodées en Unicode. En utilisant cet outil, ils peuvent facilement convertir des chaînes encodées en Unicode en caractères correspondants, ce qui leur permet de mieux comprendre la structure et le contenu des données.\n\n4. Examen de chaîne : Pendant l'examen de code, les examinateurs peuvent utiliser l'outil de décodage Unicode pour décoder des chaînes encodées en Unicode, ce qui facilite la visualisation et la compréhension de la structure des données."
+    },
+    "de": {
+      "$name": "Unicode-Decodierung",
+      "$keywords": [
+        "Unicode",
+        "Dekodierung",
+        "Unicode-Kodierung",
+        "Zeichenketten-Dekodierung",
+        "Zeichenketten-Kodierung",
+        "Datenanalyse",
+        "Zeichenketten-Inspektion"
+      ],
+      "$description": "Unicode-Decodierungstool ist ein Werkzeug, das verwendet wird, um Unicode-Codierung in entsprechende Zeichen umzuwandeln. Es kann Unicode-codierte Zeichenfolgen in entsprechende Zeichen umwandeln und auch Zeichen in Unicode-codierte Zeichenfolgen umwandeln.\n\nFunktionsbeschreibung:\n\n1. Fügen Sie die Unicode-codierte Zeichenfolge in das Tool ein oder geben Sie sie ein.\n\n2. Das Tool erkennt automatisch, ob die Eingabezeichenfolge Unicode-codiert ist, und dekodiert oder codiert sie entsprechend.\n\n3. Die dekodierte oder codierte Zeichenfolge wird im Ausgabegebiet des Tools angezeigt.\n\n4. Das Tool bietet Beispieldaten für Benutzer zum Testen und Verwenden.\n\n5. Das Tool bietet auch die Funktion des automatischen Ausfüllens von Eingabebedingungen, mit der automatisch bestimmt werden kann, ob die Eingabezeichenfolge Unicode-codiert ist.\n\nAnwendungsszenarien:\n\n1. Zeichenfolgendekodierung: Im Entwicklungs- oder Testprozess ist es oft erforderlich, Unicode-codierte Zeichenfolgen in entsprechende Zeichen umzuwandeln. Mit dem Unicode-Decodierungstool können Zeichenfolgen schnell dekodiert werden, um Dateninhalt leichter anzeigen und verstehen zu können.\n\n2. Zeichenfolgencodierung: Im Entwicklungs- oder Testprozess ist es oft erforderlich, Zeichen in Unicode-codierte Zeichenfolgen umzuwandeln. Mit dem Unicode-Decodierungstool können Zeichenfolgen schnell codiert werden, um Datenübertragung und -speicherung zu erleichtern.\n\n3. Datenanalyse: Datenanalysten müssen verschiedene Zeichendaten verarbeiten und analysieren, einschließlich Unicode-codierter Zeichenfolgen. Mit diesem Tool können sie Unicode-codierte Zeichenfolgen leicht in entsprechende Zeichen umwandeln und so die Datenstruktur und den Inhalt besser verstehen.\n\n4. Zeichenfolgenüberprüfung: Während der Codeüberprüfung können Überprüfer das Unicode-Decodierungstool verwenden, um Unicode-codierte Zeichenfolgen zu dekodieren und so die Datenstruktur leichter anzeigen und verstehen zu können."
+    },
+    "ko": {
+      "$name": "유니코드 디코딩",
+      "$keywords": [
+        "유니코드",
+        "디코딩",
+        "유니코드 인코딩",
+        "문자열 디코딩",
+        "문자열 인코딩",
+        "데이터 분석",
+        "문자열 검사"
+      ],
+      "$description": "유니코드 디코딩 도구는 유니코드 인코딩을 해당 문자로 변환하는 데 사용되는 도구입니다. 이 도구는 유니코드로 인코딩된 문자열을 해당 문자로 변환하고, 문자를 유니코드로 인코딩된 문자열로 변환할 수 있습니다.\n\n기능 설명:\n\n1. 유니코드로 인코딩된 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 입력된 문자열이 유니코드로 인코딩되었는지 감지하고, 디코딩 또는 인코딩합니다.\n\n3. 디코딩 또는 인코딩된 문자열은 도구의 출력 영역에 표시됩니다.\n\n4. 도구는 사용자가 테스트하고 사용할 수 있는 샘플 데이터를 제공합니다.\n\n5. 도구는 입력 조건을 자동으로 채우는 기능도 제공합니다. 이 기능은 입력된 문자열이 유니코드로 인코딩되었는지 자동으로 판단할 수 있습니다.\n\n사용 시나리오:\n\n1. 문자열 디코딩: 개발 또는 테스트 과정에서 유니코드로 인코딩된 문자열을 해당 문자로 변환해야 할 때가 있습니다. 유니코드 디코딩 도구를 사용하면 문자열을 빠르게 디코딩하여 데이터 내용을 쉽게 볼 수 있습니다.\n\n2. 문자열 인코딩: 개발 또는 테스트 과정에서 문자를 유니코드로 인코딩된 문자열로 변환해야 할 때가 있습니다. 유니코드 디코딩 도구를 사용하면 문자열을 빠르게 인코딩하여 데이터를 전송하고 저장하기 쉽습니다.\n\n3. 데이터 분석: 데이터 분석가는 유니코드로 인코딩된 문자열을 포함한 다양한 문자열 데이터를 처리하고 분석해야 합니다. 이 도구를 사용하면 유니코드로 인코딩된 문자열을 해당 문자로 쉽게 변환하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다.\n\n4. 문자열 검토: 코드 검토 중에 리뷰어는 유니코드 디코딩 도구를 사용하여 유니코드로 인코딩된 문자열을 디코딩하여 데이터 구조를 쉽게 볼 수 있습니다."
+    },
+    "ja": {
+      "$name": "Unicodeデコード",
+      "$keywords": [
+        "Unicode",
+        "デコード",
+        "Unicodeエンコーディング",
+        "文字列デコード",
+        "文字列エンコード",
+        "データ分析",
+        "文字列検査"
+      ],
+      "$description": "Unicodeデコードツールは、Unicodeエンコーディングを対応する文字に変換するために使用されるツールです。Unicodeエンコードされた文字列を対応する文字に変換することができ、また、文字をUnicodeエンコードされた文字列に変換することもできます。\n\n機能の説明：\n\n1. Unicodeエンコードされた文字列をツールに貼り付けるか入力します。\n\n2. ツールは自動的に入力された文字列がUnicodeエンコードされているかを検出し、適切にデコードまたはエンコードします。\n\n3. デコードまたはエンコードされた文字列は、ツールの出力エリアに表示されます。\n\n4. ツールは、ユーザーがテストや使用に使用できるサンプルデータを提供します。\n\n5. ツールは、入力条件を自動的に入力する機能も提供しており、入力された文字列がUnicodeエンコードされているかどうかを自動的に判断することができます。\n\n使用シナリオ：\n\n1. 文字列のデコード：開発やテストのプロセスで、Unicodeエンコードされた文字列を対応する文字に変換する必要がある場合があります。Unicodeデコードツールを使用することで、文字列を素早くデコードし、データ内容を簡単に表示および理解することができます。\n\n2. 文字列のエンコード：開発やテストのプロセスで、文字をUnicodeエンコードされた文字列に変換する必要がある場合があります。Unicodeデコードツールを使用することで、文字列を素早くエンコードし、データの送信や保存を簡単にすることができます。\n\n3. データ分析：データアナリストは、Unicodeエンコードされた文字列を含むさまざまな文字列データを処理および分析する必要があります。このツールを使用することで、Unicodeエンコードされた文字列を対応する文字に簡単に変換し、データ構造と内容をよりよく理解することができます。\n\n4. 文字列のレビュー：コードレビュー中、レビュアーはUnicodeデコードツールを使用してUnicodeエンコードされた文字列をデコードし、データ構造を簡単に表示および理解することができます。"
+    },
+    "es": {
+      "$name": "Decodificación Unicode",
+      "$keywords": [
+        "unicode",
+        "decodificar",
+        "codificación Unicode",
+        "decodificación de cadena",
+        "codificación de cadena",
+        "análisis de datos",
+        "inspección de cadena"
+      ],
+      "$description": "Herramienta de decodificación Unicode es una herramienta utilizada para convertir la codificación Unicode en caracteres correspondientes. Puede convertir cadenas codificadas en Unicode en caracteres correspondientes, y también convertir caracteres en cadenas codificadas en Unicode.\n\nDescripción de la función:\n\n1. Pegue o ingrese la cadena codificada en Unicode en la herramienta.\n\n2. La herramienta detectará automáticamente si la cadena de entrada está codificada en Unicode y la decodificará o codificará en consecuencia.\n\n3. La cadena decodificada o codificada se mostrará en el área de salida de la herramienta.\n\n4. La herramienta proporciona datos de muestra para que los usuarios los prueben y usen.\n\n5. La herramienta también proporciona la función de completar automáticamente las condiciones de entrada, que puede determinar automáticamente si la cadena de entrada está codificada en Unicode.\n\nEscenarios de uso:\n\n1. Decodificación de cadenas: En el proceso de desarrollo o prueba, a menudo es necesario convertir cadenas codificadas en Unicode en caracteres correspondientes. Usando la herramienta de decodificación Unicode, se pueden decodificar rápidamente las cadenas, lo que facilita la visualización y comprensión del contenido de los datos.\n\n2. Codificación de cadenas: En el proceso de desarrollo o prueba, a menudo es necesario convertir caracteres en cadenas codificadas en Unicode. Usando la herramienta de decodificación Unicode, se pueden codificar rápidamente las cadenas, lo que facilita la transmisión y el almacenamiento de datos.\n\n3. Análisis de datos: Los analistas de datos necesitan procesar y analizar varios datos de cadena, incluidas las cadenas codificadas en Unicode. Usando esta herramienta, pueden convertir fácilmente las cadenas codificadas en Unicode en caracteres correspondientes, lo que les permite comprender mejor la estructura y el contenido de los datos.\n\n4. Revisión de cadenas: Durante la revisión de código, los revisores pueden usar la herramienta de decodificación Unicode para decodificar cadenas codificadas en Unicode, lo que facilita la visualización y comprensión de la estructura de los datos."
     },
     "zh-tw": {
       "$name": "Unicode 解碼",
-      "$description": "將 Unicode 解碼為文本",
-      "$keywords": ["解碼"]
+      "$keywords": [
+        "Unicode解碼",
+        "字串解碼",
+        "字串編碼",
+        "數據分析",
+        "字串檢查"
+      ],
+      "$description": "Unicode 解碼工具是一種工具，用於將 Unicode 編碼轉換為相應的字符。它可以將 Unicode 編碼字符串轉換為相應的字符，也可以將字符轉換為 Unicode 編碼字符串。\n\n功能描述：\n\n1. 將 Unicode 編碼字符串粘貼或輸入到工具中。\n\n2. 工具將自動檢測輸入字符串是否為 Unicode 編碼，並相應地進行解碼或編碼。\n\n3. 解碼或編碼後的字符串將顯示在工具的輸出區域中。\n\n4. 工具為用戶提供樣本數據以進行測試和使用。\n\n5. 工具還提供自動填充輸入條件的功能，可以自動確定輸入字符串是否為 Unicode 編碼。\n\n使用場景：\n\n1. 字符串解碼：在開發或測試過程中，通常需要將 Unicode 編碼字符串轉換為相應的字符。使用 Unicode 解碼工具可以快速解碼字符串，使數據內容易於查看和理解。\n\n2. 字符串編碼：在開發或測試過程中，通常需要將字符轉換為 Unicode 編碼字符串。使用 Unicode 解碼工具可以快速編碼字符串，使數據易於傳輸和存儲。\n\n3. 數據分析：數據分析師需要處理和分析各種字符串數據，包括 Unicode 編碼字符串。使用此工具，他們可以輕鬆將 Unicode 編碼字符串轉換為相應的字符，從而更好地理解數據結構和內容。\n\n4. 字符串審查：在代碼審查期間，審查人員可以使用 Unicode 解碼工具解碼 Unicode 編碼字符串，使數據結構易於查看和理解。"
     },
     "zh-cn": {
-      "$name": "Unicode 解码",
-      "$description": "将 Unicode 解码为文本",
-      "$keywords": ["解码"]
+      "$name": "Unicode解码",
+      "$keywords": [
+        "Unicode解码",
+        "解码",
+        "Unicode编码",
+        "字符串解码",
+        "字符串编码",
+        "数据分析",
+        "字符串检查"
+      ],
+      "$description": "Unicode解码工具是一种用于将Unicode编码转换为相应字符的工具。它可以将Unicode编码的字符串转换为相应字符，也可以将字符转换为Unicode编码的字符串。\n\n功能描述：\n\n1. 将Unicode编码的字符串粘贴或输入到工具中。\n\n2. 工具将自动检测输入字符串是否为Unicode编码，并相应地进行解码或编码。\n\n3. 解码或编码后的字符串将显示在工具的输出区域中。\n\n4. 工具为用户提供样例数据以供测试和使用。\n\n5. 工具还提供自动填充输入条件的功能，可以自动确定输入字符串是否为Unicode编码。\n\n使用场景：\n\n1. 字符串解码：在开发或测试过程中，经常需要将Unicode编码的字符串转换为相应字符。使用Unicode解码工具可以快速解码字符串，轻松查看和理解数据内容。\n\n2. 字符串编码：在开发或测试过程中，经常需要将字符转换为Unicode编码的字符串。使用Unicode解码工具可以快速编码字符串，轻松传输和存储数据。\n\n3. 数据分析：数据分析师需要处理和分析各种字符串数据，包括Unicode编码的字符串。使用此工具，他们可以轻松将Unicode编码的字符串转换为相应字符，从而更好地理解数据结构和内容。\n\n4. 字符串审查：在代码审查期间，审查人员可以使用Unicode解码工具解码Unicode编码的字符串，从而更容易地查看和理解数据结构。"
     }
   }
 ]

@@ -1,89 +1,179 @@
 {
-    "zh": {
-        "$name": "URL 解析器",
-        "$description": "解析 URL",
-        "$keywords": [
-            "解析"
-        ]
-    },
-    "en": {
-        "$name": "URL Parser",
-        "$description": "Parse URL",
-        "$keywords": [
-            "URL",
-            "URI",
-            "parse",
-            "inspect"
-        ]
-    },
-    "de": {
-        "$name": "URL -Parser",
-        "$description": "URL analysieren",
-        "$keywords": [
-            "Analysieren"
-        ]
-    },
-    "es": {
-        "$name": "Parser de URL",
-        "$description": "Analizar URL",
-        "$keywords": [
-            "Analizar"
-        ]
-    },
-    "fr": {
-        "$name": "Analyseur URL",
-        "$description": "Analyser l'URL",
-        "$keywords": [
-            "Analyser"
-        ]
-    },
-    "it": {
-        "$name": "Parser URL",
-        "$description": "Analizzare l'URL",
-        "$keywords": [
-            "Analizzare"
-        ]
-    },
-    "ja": {
-        "$name": "URLパーサー",
-        "$description": "URLを分析します",
-        "$keywords": [
-            "分析します"
-        ]
-    },
-    "ko": {
-        "$name": "URL 파서",
-        "$description": "URL을 분석하십시오",
-        "$keywords": [
-            "분석"
-        ]
-    },
-    "pt": {
-        "$name": "Analisador de URL",
-        "$description": "Analise URL",
-        "$keywords": [
-            "Analisar"
-        ]
-    },
-    "ru": {
-        "$name": "Сандитор URL",
-        "$description": "Проанализировать URL",
-        "$keywords": [
-            "Анализировать"
-        ]
-    },
-    "zh-tw": {
-        "$name": "URL 解析器",
-        "$description": "解析 URL",
-        "$keywords": [
-            "解析"
-        ]
-    },
-    "zh-cn": {
-        "$name": "URL 解析器",
-        "$description": "解析 URL",
-        "$keywords": [
-            "解析"
-        ]
-    }
+  "zh-cn": {
+    "$name": "URL解析器",
+    "$keywords": [
+      "URL",
+      "URI",
+      "解析",
+      "检查",
+      "URL解析器",
+      "URL解析工具",
+      "URL分析器",
+      "URL分析工具",
+      "URL检查器",
+      "URL检测工具"
+    ],
+    "$description": "URL解析器工具是一种用于解析URL的工具。它可以将输入的URL解析成各个部分，并以键值对的形式显示出来。\n\n特点：\n\n1. 将URL粘贴或输入到工具中。\n\n2. 工具将自动解析URL并以键值对的形式显示其各个部分。\n\n3. 您可以查看有关URL协议、主机、端口、路径、查询参数等信息。\n\n用途：\n\n1. 网站开发和测试：在开发或测试网站时，开发人员经常需要查看URL的各个部分。使用URL解析器工具，您可以快速解析URL并查看其各个部分的信息。\n\n2. SEO优化：在执行SEO优化时，您需要优化网站的URL。使用此工具，您可以快速查看URL的各个部分并进行优化。\n\n3. 网络安全：在执行网络安全测试时，您需要分析URL。使用URL解析器工具，您可以快速解析URL并查看其各个部分的信息，从而更容易进行分析。"
+  },
+  "zh-tw": {
+    "$name": "URL 解析器",
+    "$keywords": [
+      "URL",
+      "URI",
+      "解析",
+      "檢查",
+      "URL解析器",
+      "URL解析工具",
+      "URL分析器",
+      "URL分析工具",
+      "URL檢查器",
+      "URL偵測工具"
+    ],
+    "$description": "URL解析器工具是一種用於解析URL的工具。它可以將輸入的URL解析為各種部分並以鍵值對的形式顯示。\n\n功能：\n\n1. 將URL粘貼或輸入到工具中。\n\n2. 工具將自動解析URL並以鍵值對的形式顯示其各個部分。\n\n3. 您可以查看有關URL的協議、主機、端口、路徑、查詢參數等信息。\n\n用途：\n\n1. 網站開發和測試：在開發或測試網站時，開發人員經常需要查看URL的各個部分。使用URL解析器工具，您可以快速解析URL並查看其各個部分的信息。\n\n2. SEO優化：在進行SEO優化時，您需要優化網站的URL。使用此工具，您可以快速查看URL的各個部分並進行優化。\n\n3. 網絡安全：在進行網絡安全測試時，您需要分析URL。使用URL解析器工具，您可以快速解析URL並查看其各個部分的信息，從而更容易進行分析。"
+  },
+  "es": {
+    "$name": "Analizador de URL",
+    "$keywords": [
+      "URL",
+      "URI",
+      "parse",
+      "inspeccionar",
+      "analizador de URL",
+      "herramienta de análisis de URL",
+      "verificador de URL",
+      "herramienta de detección de URL"
+    ],
+    "$description": "Herramienta de análisis de URL es una herramienta utilizada para analizar URLs. Puede analizar la URL de entrada en varias partes y mostrarlas en pares clave-valor.\n\nCaracterísticas:\n\n1. Pegue o ingrese la URL en la herramienta.\n\n2. La herramienta analizará automáticamente la URL y mostrará sus diversas partes en pares clave-valor.\n\n3. Puede ver información sobre el protocolo, el host, el puerto, la ruta, los parámetros de consulta y más de la URL.\n\nCasos de uso:\n\n1. Desarrollo y prueba de sitios web: al desarrollar o probar un sitio web, los desarrolladores a menudo necesitan ver las diversas partes de una URL. Usando la herramienta de análisis de URL, puede analizar rápidamente la URL y ver información sobre sus diversas partes.\n\n2. Optimización de SEO: al realizar la optimización de SEO, necesita optimizar la URL del sitio web. Usando esta herramienta, puede ver rápidamente las diversas partes de la URL y optimizarlas.\n\n3. Seguridad de red: al realizar pruebas de seguridad de red, necesita analizar las URL. Usando la herramienta de análisis de URL, puede analizar rápidamente la URL y ver información sobre sus diversas partes, lo que facilita el análisis."
+  },
+  "ja": {
+    "$name": "URLパーサー",
+    "$keywords": [
+      "URL",
+      "URI",
+      "解析",
+      "検査",
+      "URLパーサー",
+      "URL解析ツール",
+      "URL分析ツール",
+      "URLチェッカー",
+      "URL検出ツール"
+    ],
+    "$description": "URLパーサーツールは、URLを解析するために使用されるツールです。入力されたURLをさまざまな部分に解析し、キーと値のペアで表示することができます。\n\n特徴：\n\n1. ツールにURLを貼り付けるか入力します。\n\n2. ツールは自動的にURLを解析し、そのさまざまな部分をキーと値のペアで表示します。\n\n3. URLのプロトコル、ホスト、ポート、パス、クエリパラメータなどの情報を表示することができます。\n\n使用例：\n\n1. ウェブサイトの開発とテスト：ウェブサイトを開発またはテストする際、開発者はしばしばURLのさまざまな部分を表示する必要があります。URLパーサーツールを使用すると、URLを迅速に解析して、そのさまざまな部分に関する情報を表示することができます。\n\n2. SEO最適化：SEO最適化を実行する際には、ウェブサイトのURLを最適化する必要があります。このツールを使用すると、URLのさまざまな部分を迅速に表示して最適化することができます。\n\n3. ネットワークセキュリティ：ネットワークセキュリティテストを実行する際には、URLを分析する必要があります。URLパーサーツールを使用すると、URLを迅速に解析して、そのさまざまな部分に関する情報を表示することができます。これにより、分析が容易になります。"
+  },
+  "ko": {
+    "$name": "URL 파서",
+    "$keywords": [
+      "URL",
+      "URI",
+      "parse",
+      "inspect",
+      "URL parser",
+      "URL parsing tool",
+      "URL analyzer",
+      "URL analysis tool",
+      "URL checker",
+      "URL detection tool"
+    ],
+    "$description": "URL 파서 도구는 URL을 파싱하는 데 사용되는 도구입니다. 입력된 URL을 다양한 부분으로 파싱하고 키-값 쌍으로 표시할 수 있습니다.\n\n기능:\n\n1. 도구에 URL을 붙여넣거나 입력합니다.\n\n2. 도구는 URL을 자동으로 파싱하고 다양한 부분을 키-값 쌍으로 표시합니다.\n\n3. URL의 프로토콜, 호스트, 포트, 경로, 쿼리 매개변수 등에 대한 정보를 볼 수 있습니다.\n\n사용 사례:\n\n1. 웹사이트 개발 및 테스트: 웹사이트를 개발하거나 테스트할 때, 개발자들은 종종 URL의 다양한 부분을 볼 필요가 있습니다. URL 파서 도구를 사용하면 빠르게 URL을 파싱하고 다양한 부분에 대한 정보를 볼 수 있습니다.\n\n2. SEO 최적화: SEO 최적화를 수행할 때, 웹사이트의 URL을 최적화해야 합니다. 이 도구를 사용하면 빠르게 URL의 다양한 부분을 볼 수 있고 최적화할 수 있습니다.\n\n3. 네트워크 보안: 네트워크 보안 테스트를 수행할 때, URL을 분석해야 합니다. URL 파서 도구를 사용하면 빠르게 URL을 파싱하고 다양한 부분에 대한 정보를 볼 수 있어 분석하기 쉬워집니다."
+  },
+  "de": {
+    "$name": "URL Parser",
+    "$keywords": [
+      "URL",
+      "URI",
+      "parse",
+      "inspect",
+      "URL-Parser",
+      "URL-Parser-Tool",
+      "URL-Analyse",
+      "URL-Analyse-Tool",
+      "URL-Überprüfung",
+      "URL-Erkennung"
+    ],
+    "$description": "URL Parser-Tool ist ein Werkzeug, das zum Parsen von URLs verwendet wird. Es kann die Eingabe-URL in verschiedene Teile parsen und sie in Schlüssel-Wert-Paaren anzeigen.\n\nFunktionen:\n\n1. Fügen Sie die URL in das Werkzeug ein oder geben Sie sie ein.\n\n2. Das Werkzeug wird automatisch die URL parsen und ihre verschiedenen Teile in Schlüssel-Wert-Paaren anzeigen.\n\n3. Sie können Informationen über das Protokoll, den Host, den Port, den Pfad, die Abfrageparameter und mehr anzeigen.\n\nAnwendungsfälle:\n\n1. Website-Entwicklung und -Test: Bei der Entwicklung oder dem Testen einer Website müssen Entwickler oft die verschiedenen Teile einer URL anzeigen. Mit dem URL Parser-Tool können Sie die URL schnell parsen und Informationen über ihre verschiedenen Teile anzeigen.\n\n2. SEO-Optimierung: Bei der Durchführung von SEO-Optimierung müssen Sie die URL der Website optimieren. Mit diesem Tool können Sie schnell die verschiedenen Teile der URL anzeigen und optimieren.\n\n3. Netzwerksicherheit: Bei der Durchführung von Netzwerksicherheitstests müssen Sie URLs analysieren. Mit dem URL Parser-Tool können Sie die URL schnell parsen und Informationen über ihre verschiedenen Teile anzeigen, was die Analyse erleichtert."
+  },
+  "fr": {
+    "$name": "Analyseur d'URL",
+    "$keywords": [
+      "URL",
+      "URI",
+      "analyse",
+      "inspecter",
+      "analyseur d'URL",
+      "outil d'analyse d'URL",
+      "analyseur d'URL",
+      "outil d'analyse d'URL",
+      "vérificateur d'URL",
+      "outil de détection d'URL"
+    ],
+    "$description": "Outil d'analyse d'URL est un outil utilisé pour analyser les URL. Il peut analyser l'URL d'entrée en différentes parties et les afficher sous forme de paires clé-valeur.\n\nFonctionnalités :\n\n1. Collez ou entrez l'URL dans l'outil.\n\n2. L'outil analysera automatiquement l'URL et affichera ses différentes parties sous forme de paires clé-valeur.\n\n3. Vous pouvez afficher des informations sur le protocole, l'hôte, le port, le chemin, les paramètres de requête et plus encore.\n\nCas d'utilisation :\n\n1. Développement et test de site web : Lors du développement ou du test d'un site web, les développeurs ont souvent besoin de voir les différentes parties d'une URL. En utilisant l'outil d'analyse d'URL, vous pouvez rapidement analyser l'URL et afficher des informations sur ses différentes parties.\n\n2. Optimisation SEO : Lors de l'optimisation SEO, vous devez optimiser l'URL du site web. En utilisant cet outil, vous pouvez rapidement voir les différentes parties de l'URL et les optimiser.\n\n3. Sécurité réseau : Lors de tests de sécurité réseau, vous devez analyser les URL. En utilisant l'outil d'analyse d'URL, vous pouvez rapidement analyser l'URL et afficher des informations sur ses différentes parties, ce qui facilite l'analyse."
+  },
+  "it": {
+    "$name": "URL Parser",
+    "$keywords": [
+      "URL",
+      "URI",
+      "analisi",
+      "ispeziona",
+      "analizzatore di URL",
+      "strumento di analisi di URL",
+      "analizzatore di URL",
+      "strumento di analisi di URL",
+      "verificatore di URL",
+      "strumento di rilevamento di URL"
+    ],
+    "$description": "Strumento di analisi URL è uno strumento utilizzato per analizzare gli URL. Può analizzare l'URL di input in varie parti e mostrarle in coppie chiave-valore.\n\nCaratteristiche:\n\n1. Incolla o inserisci l'URL nello strumento.\n\n2. Lo strumento analizzerà automaticamente l'URL e mostrerà le sue varie parti in coppie chiave-valore.\n\n3. Puoi visualizzare informazioni sul protocollo, l'host, la porta, il percorso, i parametri di query e altro ancora dell'URL.\n\nCasi d'uso:\n\n1. Sviluppo e testing di siti web: quando si sviluppa o si testa un sito web, gli sviluppatori spesso devono visualizzare le varie parti di un URL. Utilizzando lo strumento di analisi URL, è possibile analizzare rapidamente l'URL e visualizzare informazioni sulle sue varie parti.\n\n2. Ottimizzazione SEO: durante l'ottimizzazione SEO, è necessario ottimizzare l'URL del sito web. Utilizzando questo strumento, è possibile visualizzare rapidamente le varie parti dell'URL e ottimizzarle.\n\n3. Sicurezza di rete: durante i test di sicurezza di rete, è necessario analizzare gli URL. Utilizzando lo strumento di analisi URL, è possibile analizzare rapidamente l'URL e visualizzare informazioni sulle sue varie parti, semplificando l'analisi."
+  },
+  "ru": {
+    "$name": "URL-анализатор",
+    "$keywords": [
+      "URL",
+      "URI",
+      "parse",
+      "inspect",
+      "URL parser",
+      "URL parsing tool",
+      "URL analyzer",
+      "URL analysis tool",
+      "URL checker",
+      "URL detection tool",
+      "анализатор URL",
+      "инструмент для разбора URL",
+      "анализатор ссылок",
+      "инструмент для анализа URL",
+      "проверка URL",
+      "инструмент для обнаружения URL"
+    ],
+    "$description": "Инструмент URL Parser - это инструмент, используемый для разбора URL-адресов. Он может разбирать входной URL на различные части и отображать их в виде пар ключ-значение.\n\nОсобенности:\n\n1. Вставьте или введите URL в инструмент.\n\n2. Инструмент автоматически разберет URL и отобразит его различные части в виде пар ключ-значение.\n\n3. Вы можете просмотреть информацию о протоколе URL, хосте, порте, пути, параметрах запроса и многом другом.\n\nПрименение:\n\n1. Разработка и тестирование веб-сайтов: При разработке или тестировании веб-сайта разработчикам часто нужно просмотреть различные части URL. Используя инструмент URL Parser, вы можете быстро разобрать URL и просмотреть информацию о его различных частях.\n\n2. Оптимизация SEO: При выполнении оптимизации SEO необходимо оптимизировать URL веб-сайта. Используя этот инструмент, вы можете быстро просмотреть различные части URL и оптимизировать их.\n\n3. Безопасность сети: При выполнении тестирования безопасности сети необходимо анализировать URL-адреса. Используя инструмент URL Parser, вы можете быстро разобрать URL и просмотреть информацию о его различных частях, что упрощает анализ."
+  },
+  "pt": {
+    "$name": "Analisador de URL",
+    "$keywords": [
+      "URL",
+      "URI",
+      "parse",
+      "inspecionar",
+      "analisador de URL",
+      "ferramenta de análise de URL",
+      "verificador de URL",
+      "ferramenta de detecção de URL"
+    ],
+    "$description": "A ferramenta URL Parser é usada para analisar URLs. Ela pode analisar a URL de entrada em várias partes e exibi-las em pares de chave-valor.\n\nRecursos:\n\n1. Cole ou insira a URL na ferramenta.\n\n2. A ferramenta analisará automaticamente a URL e exibirá suas várias partes em pares de chave-valor.\n\n3. Você pode visualizar informações sobre o protocolo, host, porta, caminho, parâmetros de consulta e mais da URL.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de sites: Ao desenvolver ou testar um site, os desenvolvedores frequentemente precisam visualizar as várias partes de uma URL. Usando a ferramenta URL Parser, você pode analisar rapidamente a URL e visualizar informações sobre suas várias partes.\n\n2. Otimização de SEO: Ao realizar a otimização de SEO, você precisa otimizar a URL do site. Usando esta ferramenta, você pode visualizar rapidamente as várias partes da URL e otimizá-las.\n\n3. Segurança de rede: Ao realizar testes de segurança de rede, você precisa analisar URLs. Usando a ferramenta URL Parser, você pode analisar rapidamente a URL e visualizar informações sobre suas várias partes, tornando mais fácil a análise."
+  },
+  "en": {
+    "$name": "URL Parser",
+    "$keywords": [
+      "URL",
+      "URI",
+      "parse",
+      "inspect",
+      "URL parser",
+      "URL parsing tool",
+      "URL analyzer",
+      "URL analysis tool",
+      "URL checker",
+      "URL detection tool"
+    ],
+    "$description": "URL Parser tool is a tool used to parse URLs. It can parse the input URL into various parts and display them in key-value pairs.\n\nFeatures:\n\n1. Paste or enter the URL into the tool.\n\n2. The tool will automatically parse the URL and display its various parts in key-value pairs.\n\n3. You can view information about the URL's protocol, host, port, path, query parameters, and more.\n\nUse cases:\n\n1. Website development and testing: When developing or testing a website, developers often need to view the various parts of a URL. Using the URL Parser tool, you can quickly parse the URL and view information about its various parts.\n\n2. SEO optimization: When performing SEO optimization, you need to optimize the website's URL. Using this tool, you can quickly view the various parts of the URL and optimize them.\n\n3. Network security: When performing network security testing, you need to analyze URLs. Using the URL Parser tool, you can quickly parse the URL and view information about its various parts, making it easier to analyze."
+  }
 }

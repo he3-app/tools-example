@@ -9,19 +9,25 @@
   "mode": "production",
   "he3": {
     "id": "url-encode",
-    "name": "URL Encode",
+    "name": "URL Encoding",
     "icon": "block-outlined",
-    "version": "1.0.1",
+    "version": "1.0.6",
     "isPublic": true,
     "repository": "",
     "category": [
       "encode"
     ],
-    "description": "URL Encode",
+    "description": "URL Encoding Tool is a tool used to encode and decode URLs. It can encode URLs using URI encoding or URI component encoding to avoid errors when using special characters in URLs.\n\nFeatures:\n\n1. Supports URI encoding and URI component encoding.\n\n2. Enter the URL that needs to be encoded into the tool, and the tool will automatically encode it and display the encoded URL in the output area.\n\n3. Enter the URL that needs to be decoded into the tool, and the tool will automatically decode it and display the decoded URL in the output area.\n\nUse cases:\n\n1. URL encoding: When developing web applications, it is often necessary to encode URLs to avoid errors. Using the URL Encoding Tool can easily encode URLs to avoid errors when using special characters in URLs.\n\n2. URL decoding: When processing URLs received from web applications, it may be necessary to decode URLs to better understand their content. Using the URL Encoding Tool can easily decode URLs to better understand their content.\n\n3. URL formatting: When processing a large number of URLs, it may be necessary to format them to better view and understand their structure. Using the URL Encoding Tool can easily format URLs to better view and understand their structure.",
     "keywords": [
       "URL",
       "URI",
-      "Encode"
+      "Encode",
+      "URL encoding",
+      "URL decoding",
+      "URI encoding",
+      "URI decoding",
+      "special characters",
+      "web development"
     ],
     "relatedToolId": [
       "url-decode"

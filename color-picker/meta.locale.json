@@ -1,87 +1,167 @@
 {
-  "zh": {
+  "zh-cn": {
     "$name": "颜色选择器",
-    "$description": "颜色选择器",
     "$keywords": [
-      "选择器"
-    ]
-  },
-  "en": {
-    "$name": "Color Picker",
-    "$description": "color picker",
-    "$keywords": [
-      "color",
-      "picker"
-    ]
-  },
-  "de": {
-    "$name": "Farbauswahl",
-    "$description": "Farbauswahl",
-    "$keywords": [
-      "Wähler"
-    ]
-  },
-  "es": {
-    "$name": "Selector de color",
-    "$description": "Selector de color",
-    "$keywords": [
-      "Selector"
-    ]
-  },
-  "fr": {
-    "$name": "Sélecteur de couleurs",
-    "$description": "Sélecteur de couleurs",
-    "$keywords": [
-      "Sélecteur"
-    ]
-  },
-  "it": {
-    "$name": "Selettore di colori",
-    "$description": "Selettore di colori",
-    "$keywords": [
-      "Selettore"
-    ]
-  },
-  "ja": {
-    "$name": "カラーセレクター",
-    "$description": "カラーセレクター",
-    "$keywords": [
-      "セレクタ"
-    ]
-  },
-  "ko": {
-    "$name": "색상 선택기",
-    "$description": "색상 선택기",
-    "$keywords": [
-      "선택자"
-    ]
-  },
-  "pt": {
-    "$name": "Seletor de cores",
-    "$description": "Seletor de cores",
-    "$keywords": [
-      "Seletor"
-    ]
-  },
-  "ru": {
-    "$name": "Селектор цвета",
-    "$description": "Селектор цвета",
-    "$keywords": [
-      "Селектор"
-    ]
+      "颜色",
+      "选择器",
+      "颜色选择器",
+      "RGB 调整",
+      "颜色信息查看",
+      "颜色渐变显示",
+      "网页设计",
+      "图像处理",
+      "数据可视化"
+    ],
+    "$description": "颜色选择器使用手册\n\n颜色选择器是一种用于选择颜色的工具。用户可以通过单击或拖动鼠标，或输入颜色代码来使用该工具选择颜色。用户还可以查看所选颜色的RGB、HSL等信息。以下是该工具的详细描述：\n\n功能描述：\n\n1. 颜色选择：用户可以通过单击或拖动鼠标，或输入颜色代码来选择颜色。\n\n2. 颜色信息查看：用户可以查看所选颜色的RGB、HSL等信息。\n\n3. 颜色渐变显示：用户可以查看颜色的渐变显示，以更好地了解颜色变化。\n\n4. RGB调整：用户可以通过RGB调节器调整颜色的RGB值。\n\n使用场景：\n\n1. 网页设计：在网页设计中，颜色选择是非常重要的一步。使用颜色选择器，设计师可以轻松选择所需颜色，并查看颜色的RGB、HSL等信息，以更好地设计网站。\n\n2. 图像处理：在图像处理中，颜色选择也是非常重要的一步。使用颜色选择器，用户可以轻松选择所需颜色，并查看颜色的RGB、HSL等信息，以更好地处理图像。\n\n3. 数据可视化：在数据可视化中，颜色选择也是非常重要的一步。使用颜色选择器，用户可以轻松选择所需颜色，并查看颜色的RGB、HSL等信息，以更好地可视化数据。\n\n使用方法：\n\n1. 颜色选择：用户可以通过单击或拖动鼠标，或输入颜色代码来选择颜色。\n\n2. 颜色信息查看：用户可以查看所选颜色的RGB、HSL等信息。\n\n3. 颜色渐变显示：用户可以查看颜色的渐变显示，以更好地了解颜色变化。\n\n4. RGB调整：用户可以通过RGB调节器调整颜色的RGB值。\n\n注意事项：\n\n1. 使用颜色选择器需要一定的颜色感知能力。建议用户在选择颜色时进行尝试和比较。\n\n2. 使用RGB调节器时，用户需要注意RGB值的范围，以避免不合理的颜色。\n\n3. 在输入颜色代码时，用户需要注意代码的正确性，以避免不正确的颜色。\n\n4. 在使用颜色渐变显示时，用户需要注意颜色变化和渐变之间的差异，以更好地了解颜色变化。"
   },
   "zh-tw": {
     "$name": "顏色選擇器",
-    "$description": "顏色選擇器",
     "$keywords": [
-      "選擇器"
-    ]
+      "顏色",
+      "選取器",
+      "色彩選取器",
+      "RGB 調整",
+      "色彩資訊檢視",
+      "色彩漸層顯示",
+      "網頁設計",
+      "影像處理",
+      "資料視覺化"
+    ],
+    "$description": "顏色選擇器使用手冊\n\n顏色選擇器是一種用於選擇顏色的工具。用戶可以通過點擊或拖動鼠標，或輸入顏色代碼來通過該工具選擇顏色。用戶還可以查看所選顏色的RGB、HSL等信息。以下是該工具的詳細描述：\n\n功能描述：\n\n1. 選擇顏色：用戶可以通過點擊或拖動鼠標，或輸入顏色代碼來選擇顏色。\n\n2. 查看顏色信息：用戶可以查看所選顏色的RGB、HSL等信息。\n\n3. 顏色漸變顯示：用戶可以查看顏色的漸變顯示，以更好地了解顏色變化。\n\n4. RGB調整：用戶可以通過RGB調節器調整顏色的RGB值。\n\n使用場景：\n\n1. 網頁設計：在網頁設計中，顏色選擇是非常重要的一步。使用顏色選擇器，設計師可以輕鬆地選擇所需的顏色，並查看該顏色的RGB、HSL等信息，以更好地設計網站。\n\n2. 圖像處理：在圖像處理中，顏色選擇也是非常重要的一步。使用顏色選擇器，用戶可以輕鬆地選擇所需的顏色，並查看該顏色的RGB、HSL等信息，以更好地處理圖像。\n\n3. 數據可視化：在數據可視化中，顏色選擇也是非常重要的一步。使用顏色選擇器，用戶可以輕鬆地選擇所需的顏色，並查看該顏色的RGB、HSL等信息，以更好地可視化數據。\n\n使用方法：\n\n1. 選擇顏色：用戶可以通過點擊或拖動鼠標，或輸入顏色代碼來選擇顏色。\n\n2. 查看顏色信息：用戶可以查看所選顏色的RGB、HSL等信息。\n\n3. 顏色漸變顯示：用戶可以查看顏色的漸變顯示，以更好地了解顏色變化。\n\n4. RGB調整：用戶可以通過RGB調節器調整顏色的RGB值。\n\n注意事項：\n\n1. 使用顏色選擇器需要一定的顏色感知能力。建議用戶在選擇顏色時進行嘗試和比較。\n\n2. 使用RGB調節器時，用戶需要注意RGB值的範圍，以避免不合理的顏色。\n\n3. 在輸入顏色代碼時，用戶需要注意代碼的正確性，以避免不正確的顏色。\n\n4. 在使用顏色漸變顯示時，用戶需要注意顏色變化和漸變之間的差異，以更好地了解顏色變化。"
   },
-  "zh-cn": {
-    "$name": "颜色选择器",
-    "$description": "颜色选择器",
+  "es": {
+    "$name": "Selector de color",
     "$keywords": [
-      "选择器"
-    ]
+      "color",
+      "selector",
+      "Selector de color",
+      "ajuste RGB",
+      "visualización de información de color",
+      "visualización de gradiente de color",
+      "diseño web",
+      "procesamiento de imágenes",
+      "visualización de datos"
+    ],
+    "$description": "Manual de usuario de la herramienta Selector de Color\n\nEl Selector de Color es una herramienta utilizada para seleccionar colores. Los usuarios pueden seleccionar colores a través de la herramienta haciendo clic o arrastrando el mouse, o ingresando códigos de color. Los usuarios también pueden ver la información RGB, HSL y otra información del color seleccionado. A continuación, se presenta una descripción detallada de la herramienta:\n\nDescripción de la función:\n\n1. Selección de color: Los usuarios pueden seleccionar colores haciendo clic o arrastrando el mouse, o ingresando códigos de color.\n\n2. Visualización de información de color: Los usuarios pueden ver la información RGB, HSL y otra información del color seleccionado.\n\n3. Visualización de gradiente de color: Los usuarios pueden ver la visualización de gradiente de colores para comprender mejor los cambios de color.\n\n4. Ajuste RGB: Los usuarios pueden ajustar el valor RGB del color a través del ajustador RGB.\n\nEscenarios de uso:\n\n1. Diseño web: En el diseño web, la selección de color es un paso muy importante. Usando la herramienta Selector de Color, los diseñadores pueden seleccionar fácilmente el color deseado y ver la información RGB, HSL y otra información del color para diseñar mejor el sitio web.\n\n2. Procesamiento de imágenes: En el procesamiento de imágenes, la selección de color también es un paso muy importante. Usando la herramienta Selector de Color, los usuarios pueden seleccionar fácilmente el color deseado y ver la información RGB, HSL y otra información del color para procesar mejor la imagen.\n\n3. Visualización de datos: En la visualización de datos, la selección de color también es un paso muy importante. Usando la herramienta Selector de Color, los usuarios pueden seleccionar fácilmente el color deseado y ver la información RGB, HSL y otra información del color para visualizar mejor los datos.\n\nMétodo de uso:\n\n1. Selección de color: Los usuarios pueden seleccionar colores haciendo clic o arrastrando el mouse, o ingresando códigos de color.\n\n2. Visualización de información de color: Los usuarios pueden ver la información RGB, HSL y otra información del color seleccionado.\n\n3. Visualización de gradiente de color: Los usuarios pueden ver la visualización de gradiente de colores para comprender mejor los cambios de color.\n\n4. Ajuste RGB: Los usuarios pueden ajustar el valor RGB del color a través del ajustador RGB.\n\nPrecauciones:\n\n1. El uso del selector de color requiere cierta capacidad de percepción del color. Se recomienda que los usuarios prueben y comparen al seleccionar colores.\n\n2. Al usar el ajustador RGB, los usuarios deben prestar atención al rango del valor RGB para evitar colores no razonables.\n\n3. Al ingresar códigos de color, los usuarios deben prestar atención a la corrección del código para evitar colores incorrectos.\n\n4. Al usar la visualización de gradiente de color, los usuarios deben prestar atención a la diferencia entre los cambios de color y los gradientes para comprender mejor los cambios de color."
+  },
+  "ja": {
+    "$name": "カラーピッカー",
+    "$keywords": [
+      "カラー",
+      "ピッカー",
+      "カラーピッカー",
+      "RGB調整",
+      "カラー情報の表示",
+      "カラーグラデーションの表示",
+      "ウェブデザイン",
+      "画像処理",
+      "データ可視化"
+    ],
+    "$description": "カラーピッカーツールのユーザーマニュアル\n\nカラーピッカーツールは、色を選択するためのツールです。ユーザーは、マウスをクリックまたはドラッグするか、色コードを入力することで、ツールを通じて色を選択できます。ユーザーはまた、選択した色のRGB、HSLなどの情報を表示することもできます。以下は、ツールの詳細な説明です。\n\n機能の説明：\n\n1. 色の選択：ユーザーは、マウスをクリックまたはドラッグするか、色コードを入力することで色を選択できます。\n\n2. 色情報の表示：ユーザーは、選択した色のRGB、HSLなどの情報を表示することができます。\n\n3. カラーグラデーションの表示：ユーザーは、色のグラデーション表示を見ることで、色の変化をより理解することができます。\n\n4. RGBの調整：ユーザーは、RGB調整器を通じて色のRGB値を調整することができます。\n\n使用シーン：\n\n1. Webデザイン：Webデザインでは、色の選択は非常に重要なステップです。カラーピッカーツールを使用することで、デザイナーは簡単に望む色を選択し、色のRGB、HSLなどの情報を表示して、ウェブサイトのデザインをより良くすることができます。\n\n2. 画像処理：画像処理でも、色の選択は非常に重要なステップです。カラーピッカーツールを使用することで、ユーザーは簡単に望む色を選択し、色のRGB、HSLなどの情報を表示して、画像の処理をより良くすることができます。\n\n3. データ可視化：データ可視化でも、色の選択は非常に重要なステップです。カラーピッカーツールを使用することで、ユーザーは簡単に望む色を選択し、色のRGB、HSLなどの情報を表示して、データをより良く可視化することができます。\n\n使用方法：\n\n1. 色の選択：ユーザーは、マウスをクリックまたはドラッグするか、色コードを入力することで色を選択できます。\n\n2. 色情報の表示：ユーザーは、選択した色のRGB、HSLなどの情報を表示することができます。\n\n3. カラーグラデーションの表示：ユーザーは、色のグラデーション表示を見ることで、色の変化をより理解することができます。\n\n4. RGBの調整：ユーザーは、RGB調整器を通じて色のRGB値を調整することができます。\n\n注意事項：\n\n1. カラーピッカーの使用には、ある程度の色覚能力が必要です。ユーザーは色の選択をする際に、試して比較することをお勧めします。\n\n2. RGB調整器を使用する際には、RGB値の範囲に注意して、不合理な色を避ける必要があります。\n\n3. 色コードを入力する際には、コードの正確性に注意して、不正確な色を避ける必要があります。\n\n4. カラーグラデーション表示を使用する際には、色の変化とグラデーションの違いに注意して、色の変化をより理解する必要があります。"
+  },
+  "ko": {
+    "$name": "컬러 피커",
+    "$keywords": [
+      "색상",
+      "선택기",
+      "색상 선택기",
+      "RGB 조정",
+      "색상 정보 보기",
+      "색상 그라데이션 표시",
+      "웹 디자인",
+      "이미지 처리",
+      "데이터 시각화"
+    ],
+    "$description": "색상 선택 도구 사용 설명서\n\n색상 선택 도구는 색상을 선택하는 데 사용되는 도구입니다. 사용자는 마우스를 클릭하거나 드래그하거나 색상 코드를 입력하여 도구를 통해 색상을 선택할 수 있습니다. 사용자는 또한 선택한 색상의 RGB, HSL 및 기타 정보를 볼 수 있습니다. 다음은 도구의 자세한 설명입니다.\n\n기능 설명:\n\n1. 색상 선택: 사용자는 마우스를 클릭하거나 드래그하거나 색상 코드를 입력하여 색상을 선택할 수 있습니다.\n\n2. 색상 정보 보기: 사용자는 선택한 색상의 RGB, HSL 및 기타 정보를 볼 수 있습니다.\n\n3. 색상 그라데이션 표시: 사용자는 색상의 그라데이션 표시를 볼 수 있어 색상 변화를 더 잘 이해할 수 있습니다.\n\n4. RGB 조정: 사용자는 RGB 조정기를 통해 색상의 RGB 값을 조정할 수 있습니다.\n\n사용 시나리오:\n\n1. 웹 디자인: 웹 디자인에서 색상 선택은 매우 중요한 단계입니다. 색상 선택 도구를 사용하여 디자이너는 원하는 색상을 쉽게 선택하고 RGB, HSL 및 기타 정보를 볼 수 있어 웹 사이트를 더 잘 디자인할 수 있습니다.\n\n2. 이미지 처리: 이미지 처리에서도 색상 선택은 매우 중요한 단계입니다. 색상 선택 도구를 사용하여 사용자는 원하는 색상을 쉽게 선택하고 RGB, HSL 및 기타 정보를 볼 수 있어 이미지를 더 잘 처리할 수 있습니다.\n\n3. 데이터 시각화: 데이터 시각화에서도 색상 선택은 매우 중요한 단계입니다. 색상 선택 도구를 사용하여 사용자는 원하는 색상을 쉽게 선택하고 RGB, HSL 및 기타 정보를 볼 수 있어 데이터를 더 잘 시각화할 수 있습니다.\n\n사용 방법:\n\n1. 색상 선택: 사용자는 마우스를 클릭하거나 드래그하거나 색상 코드를 입력하여 색상을 선택할 수 있습니다.\n\n2. 색상 정보 보기: 사용자는 선택한 색상의 RGB, HSL 및 기타 정보를 볼 수 있습니다.\n\n3. 색상 그라데이션 표시: 사용자는 색상의 그라데이션 표시를 볼 수 있어 색상 변화를 더 잘 이해할 수 있습니다.\n\n4. RGB 조정: 사용자는 RGB 조정기를 통해 색상의 RGB 값을 조정할 수 있습니다.\n\n주의 사항:\n\n1. 색상 선택 도구의 사용은 일정한 색상 지각 능력이 필요합니다. 사용자는 색상 선택 시 시도하고 비교하는 것이 좋습니다.\n\n2. RGB 조정기를 사용할 때, 사용자는 RGB 값의 범위에 주의하여 불합리한 색상을 피해야 합니다.\n\n3. 색상 코드를 입력할 때, 사용자는 코드의 정확성에 주의하여 잘못된 색상을 피해야 합니다.\n\n4. 색상 그라데이션 표시를 사용할 때, 사용자는 색상 변화와 그라데이션의 차이에 주의하여 색상 변화를 더 잘 이해해야 합니다."
+  },
+  "de": {
+    "$name": "Farbauswahl",
+    "$keywords": [
+      "Farbe",
+      "Picker",
+      "Farbauswahl",
+      "RGB-Anpassung",
+      "Anzeige von Farbinformationen",
+      "Anzeige von Farbverläufen",
+      "Webdesign",
+      "Bildverarbeitung",
+      "Datenvisualisierung"
+    ],
+    "$description": "Farbwähler-Tool Benutzerhandbuch\n\nDas Farbwähler-Tool ist ein Werkzeug zur Farbauswahl. Benutzer können Farben durch Klicken oder Ziehen der Maus oder durch Eingabe von Farbcodes auswählen. Benutzer können auch die RGB-, HSL- und andere Informationen der ausgewählten Farbe anzeigen. Im Folgenden finden Sie eine detaillierte Beschreibung des Tools:\n\nFunktionsbeschreibung:\n\n1. Farbauswahl: Benutzer können Farben durch Klicken oder Ziehen der Maus oder durch Eingabe von Farbcodes auswählen.\n\n2. Farbinformationen anzeigen: Benutzer können die RGB-, HSL- und andere Informationen der ausgewählten Farbe anzeigen.\n\n3. Farbverlaufsanzeige: Benutzer können die Verlaufsanzeige von Farben anzeigen, um die Farbänderungen besser zu verstehen.\n\n4. RGB-Anpassung: Benutzer können den RGB-Wert der Farbe über den RGB-Anpasser anpassen.\n\nAnwendungsszenarien:\n\n1. Webdesign: Bei der Webgestaltung ist die Farbauswahl ein sehr wichtiger Schritt. Mit dem Farbwähler-Tool können Designer die gewünschte Farbe leicht auswählen und die RGB-, HSL- und andere Informationen der Farbe anzeigen, um die Website besser zu gestalten.\n\n2. Bildverarbeitung: Bei der Bildverarbeitung ist die Farbauswahl ebenfalls ein sehr wichtiger Schritt. Mit dem Farbwähler-Tool können Benutzer die gewünschte Farbe leicht auswählen und die RGB-, HSL- und andere Informationen der Farbe anzeigen, um das Bild besser zu verarbeiten.\n\n3. Datenvisualisierung: Bei der Datenvisualisierung ist die Farbauswahl ebenfalls ein sehr wichtiger Schritt. Mit dem Farbwähler-Tool können Benutzer die gewünschte Farbe leicht auswählen und die RGB-, HSL- und andere Informationen der Farbe anzeigen, um die Daten besser zu visualisieren.\n\nAnwendungsmethode:\n\n1. Farbauswahl: Benutzer können Farben durch Klicken oder Ziehen der Maus oder durch Eingabe von Farbcodes auswählen.\n\n2. Farbinformationen anzeigen: Benutzer können die RGB-, HSL- und andere Informationen der ausgewählten Farbe anzeigen.\n\n3. Farbverlaufsanzeige: Benutzer können die Verlaufsanzeige von Farben anzeigen, um die Farbänderungen besser zu verstehen.\n\n4. RGB-Anpassung: Benutzer können den RGB-Wert der Farbe über den RGB-Anpasser anpassen.\n\nVorsichtsmaßnahmen:\n\n1. Die Verwendung des Farbwählers erfordert eine bestimmte Farbwahrnehmungsfähigkeit. Es wird empfohlen, dass Benutzer beim Auswählen von Farben versuchen und vergleichen.\n\n2. Bei Verwendung des RGB-Anpassers müssen Benutzer auf den Bereich des RGB-Werts achten, um unangemessene Farben zu vermeiden.\n\n3. Bei der Eingabe von Farbcodes müssen Benutzer auf die Korrektheit des Codes achten, um falsche Farben zu vermeiden.\n\n4. Bei Verwendung der Farbverlaufsanzeige müssen Benutzer auf den Unterschied zwischen Farbänderungen und Verläufen achten, um die Farbänderungen besser zu verstehen."
+  },
+  "fr": {
+    "$name": "Sélecteur de couleurs",
+    "$keywords": [
+      "couleur",
+      "sélecteur",
+      "Sélecteur de couleur",
+      "ajustement RGB",
+      "affichage des informations de couleur",
+      "affichage de gradient de couleur",
+      "conception Web",
+      "traitement d'image",
+      "visualisation de données"
+    ],
+    "$description": "Manuel d'utilisation de l'Outil de sélection de couleurs\n\nL'Outil de sélection de couleurs est un outil utilisé pour sélectionner des couleurs. Les utilisateurs peuvent sélectionner des couleurs à travers l'outil en cliquant ou en faisant glisser la souris, ou en entrant des codes de couleur. Les utilisateurs peuvent également voir les informations RGB, HSL et autres de la couleur sélectionnée. Voici une description détaillée de l'outil :\n\nDescription de la fonction :\n\n1. Sélection de couleur : Les utilisateurs peuvent sélectionner des couleurs en cliquant ou en faisant glisser la souris, ou en entrant des codes de couleur.\n\n2. Visualisation des informations de couleur : Les utilisateurs peuvent voir les informations RGB, HSL et autres de la couleur sélectionnée.\n\n3. Affichage de gradient de couleur : Les utilisateurs peuvent voir l'affichage de gradient de couleurs pour mieux comprendre les changements de couleur.\n\n4. Ajustement RGB : Les utilisateurs peuvent ajuster la valeur RGB de la couleur à travers l'ajusteur RGB.\n\nScénarios d'utilisation :\n\n1. Conception de sites web : Dans la conception de sites web, la sélection de couleurs est une étape très importante. En utilisant l'Outil de sélection de couleurs, les concepteurs peuvent facilement sélectionner la couleur désirée et voir les informations RGB, HSL et autres de la couleur pour mieux concevoir le site web.\n\n2. Traitement d'image : Dans le traitement d'image, la sélection de couleurs est également une étape très importante. En utilisant l'Outil de sélection de couleurs, les utilisateurs peuvent facilement sélectionner la couleur désirée et voir les informations RGB, HSL et autres de la couleur pour mieux traiter l'image.\n\n3. Visualisation de données : Dans la visualisation de données, la sélection de couleurs est également une étape très importante. En utilisant l'Outil de sélection de couleurs, les utilisateurs peuvent facilement sélectionner la couleur désirée et voir les informations RGB, HSL et autres de la couleur pour mieux visualiser les données.\n\nMéthode d'utilisation :\n\n1. Sélection de couleur : Les utilisateurs peuvent sélectionner des couleurs en cliquant ou en faisant glisser la souris, ou en entrant des codes de couleur.\n\n2. Visualisation des informations de couleur : Les utilisateurs peuvent voir les informations RGB, HSL et autres de la couleur sélectionnée.\n\n3. Affichage de gradient de couleur : Les utilisateurs peuvent voir l'affichage de gradient de couleurs pour mieux comprendre les changements de couleur.\n\n4. Ajustement RGB : Les utilisateurs peuvent ajuster la valeur RGB de la couleur à travers l'ajusteur RGB.\n\nPrécautions :\n\n1. L'utilisation de l'outil de sélection de couleurs nécessite une certaine capacité de perception des couleurs. Il est recommandé aux utilisateurs d'essayer et de comparer lors de la sélection des couleurs.\n\n2. Lors de l'utilisation de l'ajusteur RGB, les utilisateurs doivent faire attention à la plage de la valeur RGB pour éviter les couleurs non raisonnables.\n\n3. Lors de l'entrée des codes de couleur, les utilisateurs doivent faire attention à la correction du code pour éviter les couleurs incorrectes.\n\n4. Lors de l'utilisation de l'affichage de gradient de couleur, les utilisateurs doivent faire attention à la différence entre les changements de couleur et les gradients pour mieux comprendre les changements de couleur."
+  },
+  "it": {
+    "$name": "Selettore di colore",
+    "$keywords": [
+      "colore",
+      "selettore",
+      "selettore di colore",
+      "regolazione RGB",
+      "visualizzazione informazioni colore",
+      "visualizzazione gradiente colore",
+      "design web",
+      "elaborazione immagini",
+      "visualizzazione dati"
+    ],
+    "$description": "Manuale utente dello strumento Color Picker\n\nLo strumento Color Picker è uno strumento utilizzato per selezionare i colori. Gli utenti possono selezionare i colori attraverso lo strumento cliccando o trascinando il mouse, o inserendo i codici dei colori. Gli utenti possono anche visualizzare le informazioni RGB, HSL e altre informazioni del colore selezionato. Di seguito è riportata una descrizione dettagliata dello strumento:\n\nDescrizione delle funzioni:\n\n1. Selezione del colore: gli utenti possono selezionare i colori cliccando o trascinando il mouse, o inserendo i codici dei colori.\n\n2. Visualizzazione delle informazioni sul colore: gli utenti possono visualizzare le informazioni RGB, HSL e altre informazioni del colore selezionato.\n\n3. Visualizzazione della gradazione del colore: gli utenti possono visualizzare la gradazione del colore per comprendere meglio le variazioni di colore.\n\n4. Regolazione RGB: gli utenti possono regolare il valore RGB del colore attraverso il regolatore RGB.\n\nScenari di utilizzo:\n\n1. Progettazione web: nella progettazione web, la selezione del colore è un passaggio molto importante. Utilizzando lo strumento Color Picker, i designer possono facilmente selezionare il colore desiderato e visualizzare le informazioni RGB, HSL e altre informazioni del colore per progettare meglio il sito web.\n\n2. Elaborazione delle immagini: nell'elaborazione delle immagini, la selezione del colore è anche un passaggio molto importante. Utilizzando lo strumento Color Picker, gli utenti possono facilmente selezionare il colore desiderato e visualizzare le informazioni RGB, HSL e altre informazioni del colore per elaborare meglio l'immagine.\n\n3. Visualizzazione dei dati: nella visualizzazione dei dati, la selezione del colore è anche un passaggio molto importante. Utilizzando lo strumento Color Picker, gli utenti possono facilmente selezionare il colore desiderato e visualizzare le informazioni RGB, HSL e altre informazioni del colore per visualizzare meglio i dati.\n\nMetodo di utilizzo:\n\n1. Selezione del colore: gli utenti possono selezionare i colori cliccando o trascinando il mouse, o inserendo i codici dei colori.\n\n2. Visualizzazione delle informazioni sul colore: gli utenti possono visualizzare le informazioni RGB, HSL e altre informazioni del colore selezionato.\n\n3. Visualizzazione della gradazione del colore: gli utenti possono visualizzare la gradazione del colore per comprendere meglio le variazioni di colore.\n\n4. Regolazione RGB: gli utenti possono regolare il valore RGB del colore attraverso il regolatore RGB.\n\nPrecauzioni:\n\n1. L'uso del color picker richiede una certa capacità di percezione del colore. Si consiglia agli utenti di provare e confrontare quando selezionano i colori.\n\n2. Quando si utilizza il regolatore RGB, gli utenti devono prestare attenzione all'intervallo del valore RGB per evitare colori non ragionevoli.\n\n3. Quando si inseriscono i codici dei colori, gli utenti devono prestare attenzione alla correttezza del codice per evitare colori non corretti.\n\n4. Quando si utilizza la visualizzazione della gradazione del colore, gli utenti devono prestare attenzione alla differenza tra le variazioni di colore e le gradazioni per comprendere meglio le variazioni di colore."
+  },
+  "ru": {
+    "$name": "Выбор цвета",
+    "$keywords": [
+      "цвет",
+      "выбор",
+      "Color Picker",
+      "RGB настройка",
+      "просмотр информации о цвете",
+      "отображение градиента цвета",
+      "веб-дизайн",
+      "обработка изображений",
+      "визуализация данных"
+    ],
+    "$description": "Руководство пользователя инструмента выбора цвета\n\nИнструмент выбора цвета используется для выбора цветов. Пользователи могут выбирать цвета с помощью инструмента, щелкая или перетаскивая мышь, или вводя коды цветов. Пользователи также могут просматривать RGB, HSL и другую информацию выбранного цвета. Ниже приведено подробное описание инструмента:\n\nОписание функций:\n\n1. Выбор цвета: Пользователи могут выбирать цвета, щелкая или перетаскивая мышь, или вводя коды цветов.\n\n2. Просмотр информации о цвете: Пользователи могут просматривать RGB, HSL и другую информацию выбранного цвета.\n\n3. Отображение градиента цвета: Пользователи могут просматривать отображение градиента цвета, чтобы лучше понимать изменения цвета.\n\n4. Настройка RGB: Пользователи могут настраивать значение RGB цвета через регулятор RGB.\n\nСценарии использования:\n\n1. Веб-дизайн: В веб-дизайне выбор цвета является очень важным шагом. Используя инструмент выбора цвета, дизайнеры могут легко выбирать желаемый цвет и просматривать RGB, HSL и другую информацию о цвете, чтобы лучше проектировать веб-сайт.\n\n2. Обработка изображений: В обработке изображений выбор цвета также является очень важным шагом. Используя инструмент выбора цвета, пользователи могут легко выбирать желаемый цвет и просматривать RGB, HSL и другую информацию о цвете, чтобы лучше обрабатывать изображение.\n\n3. Визуализация данных: В визуализации данных выбор цвета также является очень важным шагом. Используя инструмент выбора цвета, пользователи могут легко выбирать желаемый цвет и просматривать RGB, HSL и другую информацию о цвете, чтобы лучше визуализировать данные.\n\nМетод использования:\n\n1. Выбор цвета: Пользователи могут выбирать цвета, щелкая или перетаскивая мышь, или вводя коды цветов.\n\n2. Просмотр информации о цвете: Пользователи могут просматривать RGB, HSL и другую информацию выбранного цвета.\n\n3. Отображение градиента цвета: Пользователи могут просматривать отображение градиента цвета, чтобы лучше понимать изменения цвета.\n\n4. Настройка RGB: Пользователи могут настраивать значение RGB цвета через регулятор RGB.\n\nПредостережения:\n\n1. Использование инструмента выбора цвета требует определенной способности восприятия цвета. Рекомендуется, чтобы пользователи пробовали и сравнивали при выборе цветов.\n\n2. При использовании регулятора RGB пользователи должны обратить внимание на диапазон значений RGB, чтобы избежать неразумных цветов.\n\n3. При вводе кодов цветов пользователи должны обратить внимание на правильность кода, чтобы избежать неправильных цветов.\n\n4. При использовании отображения градиента цвета пользователи должны обратить внимание на разницу между изменениями цвета и градиентами, чтобы лучше понимать изменения цвета."
+  },
+  "pt": {
+    "$name": "Seletor de Cores",
+    "$keywords": [
+      "cor",
+      "selecionador",
+      "Seletor de Cor",
+      "ajuste RGB",
+      "visualização de informações de cor",
+      "exibição de gradiente de cor",
+      "design web",
+      "processamento de imagem",
+      "visualização de dados"
+    ],
+    "$description": "Manual do Usuário da Ferramenta de Seleção de Cores\n\nA Ferramenta de Seleção de Cores é uma ferramenta usada para selecionar cores. Os usuários podem selecionar cores através da ferramenta clicando ou arrastando o mouse, ou inserindo códigos de cores. Os usuários também podem visualizar as informações RGB, HSL e outras informações da cor selecionada. A seguir, uma descrição detalhada da ferramenta:\n\nDescrição da Função:\n\n1. Seleção de cor: Os usuários podem selecionar cores clicando ou arrastando o mouse, ou inserindo códigos de cores.\n\n2. Visualização de informações de cor: Os usuários podem visualizar as informações RGB, HSL e outras informações da cor selecionada.\n\n3. Exibição de gradiente de cor: Os usuários podem visualizar a exibição de gradiente de cores para entender melhor as mudanças de cor.\n\n4. Ajuste RGB: Os usuários podem ajustar o valor RGB da cor através do ajustador RGB.\n\nCenários de Uso:\n\n1. Design de web: No design de web, a seleção de cor é um passo muito importante. Usando a Ferramenta de Seleção de Cores, os designers podem facilmente selecionar a cor desejada e visualizar as informações RGB, HSL e outras informações da cor para melhorar o design do site.\n\n2. Processamento de imagem: No processamento de imagem, a seleção de cor também é um passo muito importante. Usando a Ferramenta de Seleção de Cores, os usuários podem facilmente selecionar a cor desejada e visualizar as informações RGB, HSL e outras informações da cor para melhorar o processamento da imagem.\n\n3. Visualização de dados: Na visualização de dados, a seleção de cor também é um passo muito importante. Usando a Ferramenta de Seleção de Cores, os usuários podem facilmente selecionar a cor desejada e visualizar as informações RGB, HSL e outras informações da cor para melhorar a visualização dos dados.\n\nMétodo de Uso:\n\n1. Seleção de cor: Os usuários podem selecionar cores clicando ou arrastando o mouse, ou inserindo códigos de cores.\n\n2. Visualização de informações de cor: Os usuários podem visualizar as informações RGB, HSL e outras informações da cor selecionada.\n\n3. Exibição de gradiente de cor: Os usuários podem visualizar a exibição de gradiente de cores para entender melhor as mudanças de cor.\n\n4. Ajuste RGB: Os usuários podem ajustar o valor RGB da cor através do ajustador RGB.\n\nPrecauções:\n\n1. O uso da ferramenta de seleção de cor requer uma certa habilidade de percepção de cor. É recomendável que os usuários experimentem e comparem ao selecionar cores.\n\n2. Ao usar o ajustador RGB, os usuários precisam prestar atenção ao intervalo do valor RGB para evitar cores irrazoáveis.\n\n3. Ao inserir códigos de cores, os usuários precisam prestar atenção à correção do código para evitar cores incorretas.\n\n4. Ao usar a exibição de gradiente de cor, os usuários precisam prestar atenção à diferença entre mudanças de cor e gradientes para entender melhor as mudanças de cor."
+  },
+  "en": {
+    "$name": "Color Picker",
+    "$keywords": [
+      "color",
+      "picker",
+      "Color Picker",
+      "RGB adjustment",
+      "Color information viewing",
+      "Color gradient display",
+      "Web design",
+      "Image processing",
+      "Data visualization"
+    ],
+    "$description": "Color Picker Tool User Manual\n\nThe Color Picker Tool is a tool used to select colors. Users can select colors through the tool by clicking or dragging the mouse, or by entering color codes. Users can also view the RGB, HSL, and other information of the selected color. The following is a detailed description of the tool:\n\nFunction Description:\n\n1. Color selection: Users can select colors by clicking or dragging the mouse, or by entering color codes.\n\n2. Color information viewing: Users can view the RGB, HSL, and other information of the selected color.\n\n3. Color gradient display: Users can view the gradient display of colors to better understand the color changes.\n\n4. RGB adjustment: Users can adjust the RGB value of the color through the RGB adjuster.\n\nUsage Scenarios:\n\n1. Web design: In web design, color selection is a very important step. Using the Color Picker Tool, designers can easily select the desired color and view the RGB, HSL, and other information of the color to better design the website.\n\n2. Image processing: In image processing, color selection is also a very important step. Using the Color Picker Tool, users can easily select the desired color and view the RGB, HSL, and other information of the color to better process the image.\n\n3. Data visualization: In data visualization, color selection is also a very important step. Using the Color Picker Tool, users can easily select the desired color and view the RGB, HSL, and other information of the color to better visualize the data.\n\nUsage Method:\n\n1. Color selection: Users can select colors by clicking or dragging the mouse, or by entering color codes.\n\n2. Color information viewing: Users can view the RGB, HSL, and other information of the selected color.\n\n3. Color gradient display: Users can view the gradient display of colors to better understand the color changes.\n\n4. RGB adjustment: Users can adjust the RGB value of the color through the RGB adjuster.\n\nPrecautions:\n\n1. The use of the color picker requires a certain color perception ability. It is recommended that users try and compare when selecting colors.\n\n2. When using the RGB adjuster, users need to pay attention to the range of the RGB value to avoid unreasonable colors.\n\n3. When entering color codes, users need to pay attention to the correctness of the code to avoid incorrect colors.\n\n4. When using the color gradient display, users need to pay attention to the difference between color changes and gradients to better understand the color changes."
   }
 }

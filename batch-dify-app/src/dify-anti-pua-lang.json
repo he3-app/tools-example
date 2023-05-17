@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "welcome": "输入领导的 PUA 话术",
+    "input": "输入",
+    "pleaseInput": "请输入领导的 PUA 话术...",
+    "output": "AI 的逆向 PUA 话术",
+    "outputTitle" : "AI 的回答",
+    "run": "逆向 PUA"
+  },
+  "en": {
+    "welcome": "Enter the leader's PUA phrases",
+    "input": "Input",
+    "pleaseInput": "Please enter the leader's PUA phrases...",
+    "output": "Reverse PUA phrases by AI",
+    "outputTitle": "AI's response",
+    "run": "Reverse PUA"
+  },
+  "de": {
+    "welcome": "Geben Sie die PUA-Phrasen des Anführers ein",
+    "input": "Eingabe",
+    "pleaseInput": "Bitte geben Sie die PUA-Phrasen des Anführers ein...",
+    "output": "Umgekehrte PUA-Phrasen von AI",
+    "outputTitle": "AI's Antwort",
+    "run": "PUA umkehren"
+  },
+  "es": {
+    "welcome": "Ingrese las frases PUA del líder",
+    "input": "Entrada",
+    "pleaseInput": "Por favor ingrese las frases PUA del líder...",
+    "output": "Frases PUA inversas por AI",
+    "outputTitle": "Respuesta de AI",
+    "run": "Invertir PUA"
+  },
+  "fr": {
+    "welcome": "Entrez les phrases PUA du leader",
+    "input": "Entrée",
+    "pleaseInput": "Veuillez saisir les phrases PUA du leader...",
+    "output": "Phrases PUA inversées par AI",
+    "outputTitle": "Réponse de l'IA",
+    "run": "Inverser PUA"
+  },
+  "it": {
+    "welcome": "Inserisci le frasi PUA del leader",
+    "input": "Input",
+    "pleaseInput": "Inserisci le frasi PUA del leader...",
+    "output": "Frasi PUA invertite da AI",
+    "outputTitle": "Risposta di AI",
+    "run": "Invertire PUA"
+  },
+  "ja": {
+    "welcome": "リーダーのPUAフレーズを入力してください",
+    "input": "入力",
+    "pleaseInput": "リーダーのPUAフレーズを入力してください...",
+    "output": "AIによる逆転PUAフレーズ",
+    "outputTitle": "AIの回答",
+    "run": "逆転PUA"
+  },
+  "ko": {
+    "welcome": "지도자의 PUA 문구 입력",
+    "input": "입력",
+    "pleaseInput": "지도자의 PUA 문구를 입력해주세요...",
+    "output": "AI의 역방향 PUA 문구",
+    "outputTitle": "AI의 답변",
+    "run": "역방향 PUA"
+  },
+  "pt": {
+    "welcome": "Digite as frases PUA do líder",
+    "input": "Entrada",
+    "pleaseInput": "Digite as frases PUA do líder...",
+    "output": "Frases PUA invertidas pelo AI",
+    "outputTitle": "Resposta do AI",
+    "run": "Inverter PUA"
+  },
+  "ru": {
+    "welcome": "Введите фразы PUA лидера",
+    "input": "Вход",
+    "pleaseInput": "Введите фразы PUA лидера...",
+    "output": "Обратные фразы PUA от AI",
+    "outputTitle": "Ответ AI",
+    "run": "Обратный PUA"
+  },
+  "zh-tw": {
+    "welcome": "輸入領導的 PUA 話術",
+    "input": "輸入",
+    "pleaseInput": "請輸入領導的 PUA 話術...",
+    "output": "AI 的逆向 PUA 話術",
+    "outputTitle": "AI 的回答",
+    "run": "逆向 PUA"
+  }
+}

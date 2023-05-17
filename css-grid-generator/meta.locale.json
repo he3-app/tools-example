@@ -1,123 +1,167 @@
 {
-  "en": {
-    "$name": "CSS Grid Generator",
-    "$description": "CSS Grid layout preview and generate",
-    "$keywords": [
-      "grid",
-      "layout",
-      "css",
-      "preview",
-      "generate"
-    ]
-  },
   "zh-cn": {
-    "$name": "CSS Grid 生成器",
-    "$description": "预览和生成 CSS Grid 布局",
+    "$name": "CSS Grid生成器",
     "$keywords": [
       "网格",
       "布局",
       "CSS",
       "预览",
-      "生成"
-    ]
+      "生成",
+      "Web布局设计",
+      "CSS网格布局",
+      "调试布局",
+      "生成代码"
+    ],
+    "$description": "CSS Grid Generator工具文档\n\nCSS Grid Generator工具是一种用于生成CSS Grid布局代码的工具。它可以通过设置参数，如行数、列数、行间距和列间距，生成相应的CSS Grid布局代码，并提供HTML和CSS预览模式。\n\n特点：\n\n1. 设置参数，如行数、列数、行间距和列间距，生成相应的CSS Grid布局代码。\n\n2. 为用户提供HTML和CSS预览模式，以查看生成的布局效果。\n\n3. 支持自动保存设置，下次打开工具时可以恢复设置。\n\n用途：\n\n1. 网页布局设计：在设计网页布局时，使用CSS Grid Generator工具可以快速生成相应的CSS Grid布局代码，提高开发效率。\n\n2. 学习CSS Grid布局：对于初学者，使用CSS Grid Generator工具可以更好地理解CSS Grid布局的原理和用法。\n\n3. 调试CSS Grid布局：在调试CSS Grid布局时，使用CSS Grid Generator工具可以快速生成相应的布局代码，便于调试。\n\n使用说明：\n\n1. 打开CSS Grid Generator工具。\n\n2. 设置参数，如行数、列数、行间距和列间距。\n\n3. 点击预览按钮，查看生成的HTML和CSS代码。\n\n4. 您可以通过切换预览按钮来在HTML和CSS预览模式之间切换。\n\n5. 设置可以自动保存，下次打开工具时可以恢复设置。\n\n注意事项：\n\n1. 输入的行数和列数必须是整数。\n\n2. 行间距和列间距必须是非负整数。\n\n3. 单元格大小可以使用任何CSS单位，如px、em、rem等。\n\n4. 支持使用repeat()和minmax()函数设置单元格大小。\n\n5. 支持使用auto、min-content、max-content等关键字设置单元格大小。\n\n6. 支持使用fr单位设置单元格大小。\n\n7. 支持自动保存设置，下次打开工具时可以恢复设置。"
   },
   "zh-tw": {
-    "$name": "CSS Grid 生成器",
-    "$description": "預覽和生成 CSS Grid 佈局",
+    "$name": "CSS Grid 產生器",
     "$keywords": [
       "網格",
       "佈局",
       "CSS",
       "預覽",
-      "生成"
-    ]
-  },
-  "de": {
-    "$name": "CSS-Grid-Generator",
-    "$description": "Vorschau und Generierung des CSS-Rasterlayouts",
-    "$keywords": [
-      "Netz",
-      "Layout",
-      "css",
-      "Vorschau",
-      "generieren"
-    ]
-  },
-  "fr": {
-    "$name": "Générateur de grille CSS",
-    "$description": "Aperçu et génération de la disposition de la grille CSS",
-    "$keywords": [
-      "grille",
-      "mise en page",
-      "CSS",
-      "Aperçu",
-      "générer"
-    ]
-  },
-  "ko": {
-    "$name": "CSS 그리드 생성기",
-    "$description": "CSS 그리드 레이아웃 미리보기 및 생성",
-    "$keywords": [
-      "그리드",
-      "공들여 나열한 것",
-      "CSS",
-      "시사",
-      "생성하다"
-    ]
+      "生成",
+      "網頁佈局設計",
+      "CSS 網格佈局",
+      "調試佈局",
+      "生成代碼"
+    ],
+    "$description": "CSS Grid Generator 工具文檔\n\nCSS Grid Generator 工具是一個用於生成 CSS Grid 佈局代碼的工具。它可以通過設置參數，如行數、列數、行間距和列間距，生成對應的 CSS Grid 佈局代碼，並提供 HTML 和 CSS 預覽模式。\n\n特點：\n\n1. 設置行數、列數、行間距和列間距等參數，生成對應的 CSS Grid 佈局代碼。\n\n2. 為用戶提供 HTML 和 CSS 預覽模式，以查看生成的佈局效果。\n\n3. 支持自動保存設置，下次打開工具時可以恢復設置。\n\n用途：\n\n1. 網頁佈局設計：在設計網頁佈局時，使用 CSS Grid Generator 工具可以快速生成對應的 CSS Grid 佈局代碼，提高開發效率。\n\n2. 學習 CSS Grid 佈局：對於初學者，使用 CSS Grid Generator 工具可以更好地理解 CSS Grid 佈局的原理和用法。\n\n3. 調試 CSS Grid 佈局：在調試 CSS Grid 佈局時，使用 CSS Grid Generator 工具可以快速生成對應的佈局代碼，方便調試。\n\n使用說明：\n\n1. 打開 CSS Grid Generator 工具。\n\n2. 設置行數、列數、行間距和列間距等參數。\n\n3. 點擊預覽按鈕，查看生成的 HTML 和 CSS 代碼。\n\n4. 您可以通過切換預覽按鈕來在 HTML 和 CSS 預覽模式之間切換。\n\n5. 設置可以自動保存，下次打開工具時可以恢復設置。\n\n注意事項：\n\n1. 輸入的行數和列數必須是整數。\n\n2. 行間距和列間距必須是非負整數。\n\n3. 單元格大小可以使用任何 CSS 單位，如 px、em、rem 等。\n\n4. 支持使用 repeat() 和 minmax() 函数設置單元格大小。\n\n5. 支持使用 auto、min-content、max-content 等關鍵字設置單元格大小。\n\n6. 支持使用 fr 單位設置單元格大小。\n\n7. 支持自動保存設置，下次打開工具時可以恢復設置。"
   },
   "es": {
-    "$name": "Generador de cuadrícula CSS",
-    "$description": "Vista previa y generación del diseño de cuadrícula CSS",
+    "$name": "Generador de Cuadrícula CSS",
     "$keywords": [
-      "red",
-      "disposición",
+      "cuadrícula",
+      "diseño",
       "CSS",
-      "avance",
-      "generar"
-    ]
-  },
-  "pt": {
-    "$name": "Gerador de grade CSS",
-    "$description": "Pré-visualização e geração do layout CSS Grid",
-    "$keywords": [
-      "grade",
-      "disposição",
-      "CSS",
-      "visualizar",
-      "gerar"
-    ]
+      "vista previa",
+      "generar",
+      "diseño de página web",
+      "diseño de cuadrícula CSS",
+      "depurar diseño",
+      "generar código"
+    ],
+    "$description": "Documentación de la herramienta generadora de CSS Grid\n\nLa herramienta generadora de CSS Grid es una herramienta utilizada para generar código de diseño de CSS Grid. Puede generar código de diseño de CSS Grid correspondiente configurando parámetros como el número de filas, el número de columnas, el espaciado entre filas y el espaciado entre columnas, y proporciona modos de vista previa de HTML y CSS.\n\nCaracterísticas:\n\n1. Configure parámetros como el número de filas, el número de columnas, el espaciado entre filas y el espaciado entre columnas para generar código de diseño de CSS Grid correspondiente.\n\n2. Proporcione modos de vista previa de HTML y CSS para que los usuarios puedan ver el efecto de diseño generado.\n\n3. Admite el guardado automático de configuraciones, y las configuraciones se pueden restaurar la próxima vez que se abra la herramienta.\n\nCasos de uso:\n\n1. Diseño de diseño web: al diseñar el diseño web, el uso de la herramienta generadora de CSS Grid puede generar rápidamente código de diseño de CSS Grid correspondiente y mejorar la eficiencia de desarrollo.\n\n2. Aprendizaje de diseño de CSS Grid: para principiantes, el uso de la herramienta generadora de CSS Grid puede ayudar a comprender mejor los principios y el uso del diseño de CSS Grid.\n\n3. Depuración de diseño de CSS Grid: al depurar el diseño de CSS Grid, el uso de la herramienta generadora de CSS Grid puede generar rápidamente código de diseño correspondiente para facilitar la depuración.\n\nInstrucciones:\n\n1. Abra la herramienta generadora de CSS Grid.\n\n2. Configure parámetros como el número de filas, el número de columnas, el espaciado entre filas y el espaciado entre columnas.\n\n3. Haga clic en el botón de vista previa para ver el código HTML y CSS generado.\n\n4. Puede cambiar entre los modos de vista previa de HTML y CSS alternando el botón de vista previa.\n\n5. Las configuraciones se pueden guardar automáticamente, y las configuraciones se pueden restaurar la próxima vez que se abra la herramienta.\n\nNotas:\n\n1. El número de filas y columnas ingresado debe ser un número entero.\n\n2. El espaciado entre filas y columnas debe ser un número entero no negativo.\n\n3. El tamaño de celda puede usar cualquier unidad de CSS, como px, em, rem, etc.\n\n4. Admite el uso de las funciones repeat() y minmax() para establecer el tamaño de celda.\n\n5. Admite el uso de palabras clave como auto, min-content, max-content para establecer el tamaño de celda.\n\n6. Admite el uso de la unidad fr para establecer el tamaño de celda.\n\n7. Admite el guardado automático de configuraciones, y las configuraciones se pueden restaurar la próxima vez que se abra la herramienta."
   },
   "ja": {
-    "$name": "CSS グリッド ジェネレーター",
-    "$description": "CSS グリッド レイアウトのプレビューと生成",
+    "$name": "CSS Grid Generator",
     "$keywords": [
       "グリッド",
       "レイアウト",
       "CSS",
       "プレビュー",
-      "生成"
-    ]
+      "生成",
+      "Webレイアウトデザイン",
+      "CSSグリッドレイアウト",
+      "レイアウトのデバッグ",
+      "コードの生成"
+    ],
+    "$description": "CSS Grid Generator Toolのドキュメンテーション\n\nCSS Grid Generator Toolは、CSS Gridレイアウトコードを生成するためのツールです。行数、列数、行間、列間などのパラメータを設定することで、対応するCSS Gridレイアウトコードを生成し、HTMLとCSSのプレビューモードを提供します。\n\n特徴：\n\n1. 行数、列数、行間、列間などのパラメータを設定することで、対応するCSS Gridレイアウトコードを生成できます。\n\n2. ユーザーが生成されたレイアウト効果を表示するためのHTMLとCSSのプレビューモードを提供します。\n\n3. 設定の自動保存をサポートし、次回ツールを開いたときに設定を復元できます。\n\n使用例：\n\n1. Webレイアウトデザイン：Webレイアウトを設計する際に、CSS Grid Generator Toolを使用することで、対応するCSS Gridレイアウトコードを素早く生成し、開発効率を向上させることができます。\n\n2. CSS Gridレイアウトの学習：初心者の場合、CSS Grid Generator Toolを使用することで、CSS Gridレイアウトの原理と使用方法をより理解することができます。\n\n3. CSS Gridレイアウトのデバッグ：CSS Gridレイアウトをデバッグする際に、CSS Grid Generator Toolを使用することで、簡単に対応するレイアウトコードを生成することができます。\n\n手順：\n\n1. CSS Grid Generator Toolを開きます。\n\n2. 行数、列数、行間、列間などのパラメータを設定します。\n\n3. プレビューボタンをクリックして、生成されたHTMLとCSSコードを表示します。\n\n4. プレビューボタンを切り替えることで、HTMLとCSSのプレビューモードを切り替えることができます。\n\n5. 設定は自動的に保存され、次回ツールを開いたときに設定を復元できます。\n\n注意事項：\n\n1. 入力する行数と列数は整数である必要があります。\n\n2. 行間と列間は非負の整数である必要があります。\n\n3. セルサイズは、px、em、remなどの任意のCSS単位を使用できます。\n\n4. repeat()関数やminmax()関数を使用してセルサイズを設定することができます。\n\n5. auto、min-content、max-contentなどのキーワードを使用してセルサイズを設定することができます。\n\n6. fr単位を使用してセルサイズを設定することができます。\n\n7. 設定の自動保存をサポートし、次回ツールを開いたときに設定を復元できます。"
+  },
+  "ko": {
+    "$name": "CSS Grid Generator",
+    "$keywords": [
+      "그리드",
+      "레이아웃",
+      "CSS",
+      "미리보기",
+      "생성",
+      "웹 레이아웃 디자인",
+      "CSS 그리드 레이아웃",
+      "레이아웃 디버그",
+      "코드 생성"
+    ],
+    "$description": "CSS Grid Generator Tool 문서\n\nCSS Grid Generator Tool은 CSS Grid 레이아웃 코드를 생성하는 데 사용되는 도구입니다. 행 수, 열 수, 행 간격, 열 간격과 같은 매개변수를 설정하여 해당하는 CSS Grid 레이아웃 코드를 생성할 수 있으며, HTML 및 CSS 미리보기 모드를 제공합니다.\n\n기능:\n\n1. 행 수, 열 수, 행 간격, 열 간격과 같은 매개변수를 설정하여 해당하는 CSS Grid 레이아웃 코드를 생성합니다.\n\n2. 사용자가 생성된 레이아웃 효과를 볼 수 있도록 HTML 및 CSS 미리보기 모드를 제공합니다.\n\n3. 설정을 자동으로 저장하고, 도구를 다음에 열 때 설정을 복원할 수 있습니다.\n\n사용 사례:\n\n1. 웹 레이아웃 디자인: 웹 레이아웃을 디자인할 때 CSS Grid Generator Tool을 사용하여 해당하는 CSS Grid 레이아웃 코드를 빠르게 생성하고 개발 효율성을 향상시킬 수 있습니다.\n\n2. CSS Grid 레이아웃 학습: 초보자는 CSS Grid Generator Tool을 사용하여 CSS Grid 레이아웃의 원리와 사용법을 더 잘 이해할 수 있습니다.\n\n3. CSS Grid 레이아웃 디버깅: CSS Grid 레이아웃을 디버깅할 때 CSS Grid Generator Tool을 사용하여 쉽게 디버깅할 수 있는 해당하는 레이아웃 코드를 빠르게 생성할 수 있습니다.\n\n사용 방법:\n\n1. CSS Grid Generator Tool을 엽니다.\n\n2. 행 수, 열 수, 행 간격, 열 간격과 같은 매개변수를 설정합니다.\n\n3. 미리보기 버튼을 클릭하여 생성된 HTML 및 CSS 코드를 볼 수 있습니다.\n\n4. 미리보기 버튼을 토글하여 HTML 및 CSS 미리보기 모드를 전환할 수 있습니다.\n\n5. 설정은 자동으로 저장되며, 도구를 다음에 열 때 설정을 복원할 수 있습니다.\n\n참고 사항:\n\n1. 입력한 행 수와 열 수는 정수여야 합니다.\n\n2. 행 간격과 열 간격은 음수가 아닌 정수여야 합니다.\n\n3. 셀 크기는 px, em, rem 등의 CSS 단위를 사용할 수 있습니다.\n\n4. repeat() 및 minmax() 함수를 사용하여 셀 크기를 설정할 수 있습니다.\n\n5. auto, min-content, max-content와 같은 키워드를 사용하여 셀 크기를 설정할 수 있습니다.\n\n6. fr 단위를 사용하여 셀 크기를 설정할 수 있습니다.\n\n7. 설정을 자동으로 저장하고, 도구를 다음에 열 때 설정을 복원할 수 있습니다."
+  },
+  "de": {
+    "$name": "CSS Grid Generator",
+    "$keywords": [
+      "Gitter",
+      "Layout",
+      "CSS",
+      "Vorschau",
+      "generieren",
+      "Web-Layout-Design",
+      "CSS Grid-Layout",
+      "Layout debuggen",
+      "Code generieren"
+    ],
+    "$description": "CSS Grid Generator Tool Dokumentation\n\nDas CSS Grid Generator Tool ist ein Tool, das verwendet wird, um CSS Grid Layout-Code zu generieren. Es kann entsprechenden CSS Grid Layout-Code generieren, indem Parameter wie die Anzahl der Zeilen, die Anzahl der Spalten, der Zeilenabstand und der Spaltenabstand festgelegt werden und bietet HTML- und CSS-Vorschau-Modi.\n\nFunktionen:\n\n1. Legen Sie Parameter wie die Anzahl der Zeilen, die Anzahl der Spalten, den Zeilenabstand und den Spaltenabstand fest, um entsprechenden CSS Grid Layout-Code zu generieren.\n\n2. Bieten Sie HTML- und CSS-Vorschau-Modi für Benutzer an, um den generierten Layout-Effekt anzuzeigen.\n\n3. Unterstützung automatischer Speicherung von Einstellungen, und die Einstellungen können beim nächsten Öffnen des Tools wiederhergestellt werden.\n\nAnwendungsfälle:\n\n1. Web-Layout-Design: Beim Entwerfen von Web-Layouts kann das CSS Grid Generator Tool schnell entsprechenden CSS Grid Layout-Code generieren und die Entwicklungseffizienz verbessern.\n\n2. Lernen von CSS Grid Layout: Für Anfänger kann das CSS Grid Generator Tool dazu beitragen, die Prinzipien und die Verwendung von CSS Grid Layout besser zu verstehen.\n\n3. Debugging von CSS Grid Layout: Beim Debugging von CSS Grid Layout kann das CSS Grid Generator Tool schnell entsprechenden Layout-Code generieren, um das Debugging zu erleichtern.\n\nAnweisungen:\n\n1. Öffnen Sie das CSS Grid Generator Tool.\n\n2. Legen Sie Parameter wie die Anzahl der Zeilen, die Anzahl der Spalten, den Zeilenabstand und den Spaltenabstand fest.\n\n3. Klicken Sie auf die Vorschau-Schaltfläche, um den generierten HTML- und CSS-Code anzuzeigen.\n\n4. Sie können zwischen HTML- und CSS-Vorschau-Modi wechseln, indem Sie die Vorschau-Schaltfläche umschalten.\n\n5. Einstellungen können automatisch gespeichert werden, und die Einstellungen können beim nächsten Öffnen des Tools wiederhergestellt werden.\n\nHinweise:\n\n1. Die eingegebene Anzahl der Zeilen und Spalten muss Ganzzahlen sein.\n\n2. Der Zeilenabstand und der Spaltenabstand müssen nicht-negative Ganzzahlen sein.\n\n3. Die Zellengröße kann jede CSS-Einheit wie px, em, rem usw. verwenden.\n\n4. Unterstützung bei Verwendung der repeat() und minmax() Funktionen zur Einstellung der Zellengröße.\n\n5. Unterstützung bei Verwendung von Schlüsselwörtern wie auto, min-content, max-content zur Einstellung der Zellengröße.\n\n6. Unterstützung bei Verwendung der fr-Einheit zur Einstellung der Zellengröße.\n\n7. Unterstützung automatischer Speicherung von Einstellungen, und die Einstellungen können beim nächsten Öffnen des Tools wiederhergestellt werden."
+  },
+  "fr": {
+    "$name": "Générateur de grille CSS",
+    "$keywords": [
+      "grille",
+      "mise en page",
+      "css",
+      "aperçu",
+      "générer",
+      "conception de mise en page Web",
+      "mise en page CSS Grid",
+      "déboguer la mise en page",
+      "générer du code"
+    ],
+    "$description": "Documentation de l'outil de génération de grille CSS\n\nL'outil de génération de grille CSS est un outil utilisé pour générer du code de mise en page de grille CSS. Il peut générer du code de mise en page de grille CSS correspondant en définissant des paramètres tels que le nombre de lignes, le nombre de colonnes, l'espacement des lignes et l'espacement des colonnes, et fournit des modes de prévisualisation HTML et CSS.\n\nFonctionnalités :\n\n1. Définir des paramètres tels que le nombre de lignes, le nombre de colonnes, l'espacement des lignes et l'espacement des colonnes pour générer du code de mise en page de grille CSS correspondant.\n\n2. Fournir des modes de prévisualisation HTML et CSS pour que les utilisateurs puissent visualiser l'effet de mise en page généré.\n\n3. Prise en charge de la sauvegarde automatique des paramètres, et les paramètres peuvent être restaurés la prochaine fois que l'outil est ouvert.\n\nCas d'utilisation :\n\n1. Conception de mise en page Web : lors de la conception de la mise en page Web, l'utilisation de l'outil de génération de grille CSS peut générer rapidement du code de mise en page de grille CSS correspondant et améliorer l'efficacité de développement.\n\n2. Apprentissage de la mise en page de grille CSS : pour les débutants, l'utilisation de l'outil de génération de grille CSS peut mieux comprendre les principes et l'utilisation de la mise en page de grille CSS.\n\n3. Débogage de la mise en page de grille CSS : lors du débogage de la mise en page de grille CSS, l'utilisation de l'outil de génération de grille CSS peut générer rapidement du code de mise en page correspondant pour un débogage facile.\n\nInstructions :\n\n1. Ouvrez l'outil de génération de grille CSS.\n\n2. Définissez des paramètres tels que le nombre de lignes, le nombre de colonnes, l'espacement des lignes et l'espacement des colonnes.\n\n3. Cliquez sur le bouton de prévisualisation pour afficher le code HTML et CSS généré.\n\n4. Vous pouvez basculer entre les modes de prévisualisation HTML et CSS en activant/désactivant le bouton de prévisualisation.\n\n5. Les paramètres peuvent être sauvegardés automatiquement, et les paramètres peuvent être restaurés la prochaine fois que l'outil est ouvert.\n\nNotes :\n\n1. Le nombre de lignes et de colonnes saisis doit être un nombre entier.\n\n2. L'espacement des lignes et des colonnes doit être un nombre entier non négatif.\n\n3. La taille de la cellule peut utiliser n'importe quelle unité CSS, telle que px, em, rem, etc.\n\n4. Prise en charge de l'utilisation des fonctions repeat() et minmax() pour définir la taille de la cellule.\n\n5. Prise en charge de l'utilisation de mots-clés tels que auto, min-content, max-content pour définir la taille de la cellule.\n\n6. Prise en charge de l'utilisation de l'unité fr pour définir la taille de la cellule.\n\n7. Prise en charge de la sauvegarde automatique des paramètres, et les paramètres peuvent être restaurés la prochaine fois que l'outil est ouvert."
   },
   "it": {
-    "$name": "Generatore di griglia CSS",
-    "$description": "Anteprima e generazione del layout della griglia CSS",
+    "$name": "Generatore di griglie CSS",
     "$keywords": [
       "griglia",
-      "disposizione",
+      "layout",
       "css",
       "anteprima",
-      "creare"
-    ]
+      "genera",
+      "design del layout web",
+      "layout CSS Grid",
+      "debug del layout",
+      "genera codice"
+    ],
+    "$description": "Strumento di documentazione del generatore di griglie CSS\n\nIl generatore di griglie CSS è uno strumento utilizzato per generare codice di layout CSS Grid. Può generare codice di layout CSS Grid corrispondente impostando parametri come il numero di righe, il numero di colonne, lo spaziatura delle righe e lo spaziatura delle colonne, e fornisce modalità di anteprima HTML e CSS.\n\nCaratteristiche:\n\n1. Impostare parametri come il numero di righe, il numero di colonne, lo spaziatura delle righe e lo spaziatura delle colonne per generare codice di layout CSS Grid corrispondente.\n\n2. Fornire modalità di anteprima HTML e CSS per gli utenti per visualizzare l'effetto di layout generato.\n\n3. Supportare il salvataggio automatico delle impostazioni e le impostazioni possono essere ripristinate la prossima volta che lo strumento viene aperto.\n\nCasi d'uso:\n\n1. Progettazione di layout web: durante la progettazione di layout web, utilizzando il generatore di griglie CSS, è possibile generare rapidamente il codice di layout CSS Grid corrispondente e migliorare l'efficienza di sviluppo.\n\n2. Apprendimento del layout CSS Grid: per i principianti, utilizzando il generatore di griglie CSS, è possibile comprendere meglio i principi e l'uso del layout CSS Grid.\n\n3. Debugging del layout CSS Grid: durante il debugging del layout CSS Grid, utilizzando il generatore di griglie CSS, è possibile generare rapidamente il codice di layout corrispondente per un facile debugging.\n\nIstruzioni:\n\n1. Aprire il generatore di griglie CSS.\n\n2. Impostare parametri come il numero di righe, il numero di colonne, lo spaziatura delle righe e lo spaziatura delle colonne.\n\n3. Fare clic sul pulsante di anteprima per visualizzare il codice HTML e CSS generato.\n\n4. È possibile passare tra le modalità di anteprima HTML e CSS attivando il pulsante di anteprima.\n\n5. Le impostazioni possono essere salvate automaticamente e le impostazioni possono essere ripristinate la prossima volta che lo strumento viene aperto.\n\nNote:\n\n1. Il numero di righe e colonne inserito deve essere un numero intero.\n\n2. Lo spaziatura delle righe e delle colonne deve essere un numero intero non negativo.\n\n3. La dimensione della cella può utilizzare qualsiasi unità CSS, come px, em, rem, ecc.\n\n4. Supporto all'utilizzo delle funzioni repeat() e minmax() per impostare la dimensione della cella.\n\n5. Supporto all'utilizzo di parole chiave come auto, min-content, max-content per impostare la dimensione della cella.\n\n6. Supporto all'utilizzo dell'unità fr per impostare la dimensione della cella.\n\n7. Supporto al salvataggio automatico delle impostazioni e le impostazioni possono essere ripristinate la prossima volta che lo strumento viene aperto."
   },
   "ru": {
-    "$name": "Генератор сетки CSS",
-    "$description": "Предварительный просмотр и создание макета CSS Grid",
+    "$name": "Генератор CSS-сетки",
     "$keywords": [
       "сетка",
       "макет",
+      "CSS",
+      "предпросмотр",
+      "генерировать",
+      "дизайн веб-макета",
+      "CSS сетка",
+      "отладка макета",
+      "генерировать код"
+    ],
+    "$description": "Документация инструмента CSS Grid Generator Tool\n\nИнструмент CSS Grid Generator Tool используется для генерации кода макета CSS Grid. Он может генерировать соответствующий код макета CSS Grid, устанавливая параметры, такие как количество строк, количество столбцов, промежуток между строками и столбцами, и предоставляет режимы предварительного просмотра HTML и CSS.\n\nОсобенности:\n\n1. Установка параметров, таких как количество строк, количество столбцов, промежуток между строками и столбцами, для генерации соответствующего кода макета CSS Grid.\n\n2. Предоставление режимов предварительного просмотра HTML и CSS для просмотра сгенерированного макета.\n\n3. Поддержка автоматического сохранения настроек, настройки могут быть восстановлены при следующем открытии инструмента.\n\nПрименение:\n\n1. Дизайн веб-макета: при проектировании веб-макета использование инструмента CSS Grid Generator Tool позволяет быстро генерировать соответствующий код макета CSS Grid и повышать эффективность разработки.\n\n2. Изучение макета CSS Grid: для начинающих использование инструмента CSS Grid Generator Tool позволяет лучше понимать принципы и использование макета CSS Grid.\n\n3. Отладка макета CSS Grid: при отладке макета CSS Grid использование инструмента CSS Grid Generator Tool позволяет быстро генерировать соответствующий код макета для удобной отладки.\n\nИнструкции:\n\n1. Откройте инструмент CSS Grid Generator Tool.\n\n2. Установите параметры, такие как количество строк, количество столбцов, промежуток между строками и столбцами.\n\n3. Нажмите кнопку предварительного просмотра, чтобы просмотреть сгенерированный HTML и CSS код.\n\n4. Вы можете переключаться между режимами предварительного просмотра HTML и CSS, переключая кнопку предварительного просмотра.\n\n5. Настройки могут быть автоматически сохранены, и настройки могут быть восстановлены при следующем открытии инструмента.\n\nПримечания:\n\n1. Введенное количество строк и столбцов должно быть целым числом.\n\n2. Промежуток между строками и столбцами должен быть неотрицательным целым числом.\n\n3. Размер ячейки может использовать любую единицу CSS, такую как px, em, rem и т.д.\n\n4. Поддержка использования функций repeat() и minmax() для установки размера ячейки.\n\n5. Поддержка использования ключевых слов, таких как auto, min-content, max-content для установки размера ячейки.\n\n6. Поддержка использования единицы fr для установки размера ячейки.\n\n7. Поддержка автоматического сохранения настроек, настройки могут быть восстановлены при следующем открытии инструмента."
+  },
+  "pt": {
+    "$name": "Gerador de Grade CSS",
+    "$keywords": [
+      "grade",
+      "layout",
       "css",
-      "предварительный просмотр",
-      "генерировать"
-    ]
+      "visualização",
+      "gerar",
+      "design de layout da web",
+      "layout de grade CSS",
+      "depurar layout",
+      "gerar código"
+    ],
+    "$description": "Documentação da Ferramenta Geradora de CSS Grid\n\nA Ferramenta Geradora de CSS Grid é uma ferramenta usada para gerar código de layout CSS Grid. Ela pode gerar código de layout CSS Grid correspondente configurando parâmetros como o número de linhas, o número de colunas, o espaçamento entre linhas e o espaçamento entre colunas, e fornece modos de visualização HTML e CSS.\n\nRecursos:\n\n1. Configure parâmetros como o número de linhas, o número de colunas, o espaçamento entre linhas e o espaçamento entre colunas para gerar código de layout CSS Grid correspondente.\n\n2. Forneça modos de visualização HTML e CSS para que os usuários possam ver o efeito de layout gerado.\n\n3. Suporte ao salvamento automático de configurações, e as configurações podem ser restauradas na próxima vez que a ferramenta for aberta.\n\nCasos de uso:\n\n1. Design de layout da web: ao projetar o layout da web, usar a Ferramenta Geradora de CSS Grid pode gerar rapidamente código de layout CSS Grid correspondente e melhorar a eficiência de desenvolvimento.\n\n2. Aprendendo o layout CSS Grid: para iniciantes, usar a Ferramenta Geradora de CSS Grid pode ajudar a entender melhor os princípios e o uso do layout CSS Grid.\n\n3. Depuração do layout CSS Grid: ao depurar o layout CSS Grid, usar a Ferramenta Geradora de CSS Grid pode gerar rapidamente código de layout correspondente para facilitar a depuração.\n\nInstruções:\n\n1. Abra a Ferramenta Geradora de CSS Grid.\n\n2. Configure parâmetros como o número de linhas, o número de colunas, o espaçamento entre linhas e o espaçamento entre colunas.\n\n3. Clique no botão de visualização para ver o código HTML e CSS gerado.\n\n4. Você pode alternar entre os modos de visualização HTML e CSS alternando o botão de visualização.\n\n5. As configurações podem ser salvas automaticamente, e as configurações podem ser restauradas na próxima vez que a ferramenta for aberta.\n\nObservações:\n\n1. O número de linhas e colunas inserido deve ser um número inteiro.\n\n2. O espaçamento entre linhas e colunas deve ser um número inteiro não negativo.\n\n3. O tamanho da célula pode usar qualquer unidade CSS, como px, em, rem, etc.\n\n4. Suporte ao uso das funções repeat() e minmax() para definir o tamanho da célula.\n\n5. Suporte ao uso de palavras-chave como auto, min-content, max-content para definir o tamanho da célula.\n\n6. Suporte ao uso da unidade fr para definir o tamanho da célula.\n\n7. Suporte ao salvamento automático de configurações, e as configurações podem ser restauradas na próxima vez que a ferramenta for aberta."
+  },
+  "en": {
+    "$name": "CSS Grid Generator",
+    "$keywords": [
+      "grid",
+      "layout",
+      "css",
+      "preview",
+      "generate",
+      "Web layout design",
+      "CSS Grid layout",
+      "Debug layout",
+      "Generate code"
+    ],
+    "$description": "CSS Grid Generator Tool Documentation\n\nThe CSS Grid Generator Tool is a tool used to generate CSS Grid layout code. It can generate corresponding CSS Grid layout code by setting parameters such as the number of rows, the number of columns, row spacing, and column spacing, and provides HTML and CSS preview modes.\n\nFeatures:\n\n1. Set parameters such as the number of rows, the number of columns, row spacing, and column spacing to generate corresponding CSS Grid layout code.\n\n2. Provide HTML and CSS preview modes for users to view the generated layout effect.\n\n3. Support automatic saving of settings, and the settings can be restored the next time the tool is opened.\n\nUse cases:\n\n1. Web layout design: When designing web layout, using the CSS Grid Generator Tool can quickly generate corresponding CSS Grid layout code and improve development efficiency.\n\n2. Learning CSS Grid layout: For beginners, using the CSS Grid Generator Tool can better understand the principles and usage of CSS Grid layout.\n\n3. Debugging CSS Grid layout: When debugging CSS Grid layout, using the CSS Grid Generator Tool can quickly generate corresponding layout code for easy debugging.\n\nInstructions:\n\n1. Open the CSS Grid Generator Tool.\n\n2. Set parameters such as the number of rows, the number of columns, row spacing, and column spacing.\n\n3. Click the preview button to view the generated HTML and CSS code.\n\n4. You can switch between HTML and CSS preview modes by toggling the preview button.\n\n5. Settings can be automatically saved, and the settings can be restored the next time the tool is opened.\n\nNotes:\n\n1. The number of rows and columns entered must be integers.\n\n2. The row spacing and column spacing must be non-negative integers.\n\n3. The cell size can use any CSS unit, such as px, em, rem, etc.\n\n4. Support using the repeat() and minmax() functions to set cell size.\n\n5. Support using keywords such as auto, min-content, max-content to set cell size.\n\n6. Support using the fr unit to set cell size.\n\n7. Support automatic saving of settings, and the settings can be restored the next time the tool is opened."
   }
 }

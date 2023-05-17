@@ -7,7 +7,7 @@ const GetGoType = (val: any): string => {
     case 'string':
       if (
         /\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d(\.\d+)?(\s\-\d\d:\d\d|Z)/.test(val) ||
-        dayjs(val).format() !== 'Invalid Date'
+        (dayjs(val).format() !== 'Invalid Date' && !isNaN(Date.parse(val))&& val.length > 6)
       )
         return 'time.Time';
       return 'string';

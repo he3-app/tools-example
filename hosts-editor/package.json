@@ -10,13 +10,14 @@
     "id": "hosts-editor",
     "name": "Hosts Editor",
     "icon": "wifi-outlined",
-    "version": "1.0.1",
+    "version": "1.0.5",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/hosts-editor",
     "category": [
-      "network"
+      "network",
+      "misc"
     ],
-    "description": "Hosts Editor",
+    "description": "Tool Name: Hosts Editor\n\nFunction Description:\n\nHosts Editor is a tool used to edit the system hosts file. It allows users to easily edit and save the hosts file for better network connection management.\n\n1. Edit hosts file: Users can use Hosts Editor to edit the system hosts file for better network connection management.\n\n2. Save hosts file: Users can use Hosts Editor to save the edited hosts file for better network connection management.\n\n3. Auto-save: Hosts Editor supports auto-saving of the hosts file so that users do not have to manually save it.\n\nUsage Scenarios:\n\n1. Network management: In network management, administrators often need to edit and save the hosts file. Using Hosts Editor can make it easier for administrators to manage network connections.\n\n2. Network security: In network security, security personnel often need to edit and save the hosts file. Using Hosts Editor can make it easier for security personnel to manage network connections.\n\n3. Network development: In network development, developers often need to edit and save the hosts file. Using Hosts Editor can make it easier for developers to manage network connections.",
     "keywords": [
       "hosts",
       "editor",
@@ -28,7 +29,17 @@
       "192",
       "168",
       "domain",
-      "ip"
+      "ip",
+      "Hosts file editor",
+      "Network connection management",
+      "Auto-save",
+      "Network management",
+      "Network security",
+      "Network development",
+      "DNS records",
+      "Local host",
+      "IP address",
+      "Domain name"
     ],
     "relatedToolId": [
       "dns-lookup",

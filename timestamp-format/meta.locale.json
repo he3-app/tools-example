@@ -1,134 +1,156 @@
 {
-    "zh": {
-      "$name": "时间戳转换",
-      "$description": "时间戳转换",
-      "$keywords": [
-        "时间戳",
-        "毫秒",
-        "转换",
-        "日期",
-        "时间"
-      ]
-    },
-    "en": {
-      "$name": "Timestamp Convertor",
-      "$description": "Timestamp Convertor",
-      "$keywords": [
-        "timestamp",
-        "milisecond",
-        "convert",
-        "datetime",
-        "time"
-      ]
-    },
-    "de": {
-      "$name": "Zeitstempelkonvertierung",
-      "$description": "Zeitstempelkonvertierung",
-      "$keywords": [
-        "Zeitstempel",
-        "Millisekunde",
-        "Konvertieren",
-        "Datum",
-        "Zeit"
-      ]
-    },
-    "es": {
-      "$name": "Conversión de timación",
-      "$description": "Conversión de timación",
-      "$keywords": [
-        "Marca de tiempo",
-        "milisegundo",
-        "Convertir",
-        "fecha",
-        "tiempo"
-      ]
-    },
-    "fr": {
-      "$name": "Conversion horaire",
-      "$description": "Conversion horaire",
-      "$keywords": [
-        "Horodatage",
-        "millisecondes",
-        "Convertir",
-        "date",
-        "temps"
-      ]
-    },
-    "it": {
-      "$name": "Conversione del timestamp",
-      "$description": "Conversione del timestamp",
-      "$keywords": [
-        "Timestamp",
-        "millisecondo",
-        "Convertire",
-        "data",
-        "tempo"
-      ]
-    },
-    "ja": {
-      "$name": "タイムスタンプ変換",
-      "$description": "タイムスタンプ変換",
-      "$keywords": [
-        "タイムスタンプ",
-        "ミリ秒",
-        "変換",
-        "日にち",
-        "時間"
-      ]
-    },
-    "ko": {
-      "$name": "타임 스탬프 변환",
-      "$description": "타임 스탬프 변환",
-      "$keywords": [
-        "타임 스탬프",
-        "밀리 초",
-        "전환하다",
-        "날짜",
-        "시간"
-      ]
-    },
-    "pt": {
-      "$name": "Conversão de carimbo de hora",
-      "$description": "Conversão de carimbo de hora",
-      "$keywords": [
-        "Timestamp",
-        "milissegundo",
-        "Converter",
-        "data",
-        "tempo"
-      ]
-    },
-    "ru": {
-      "$name": "Преобразование марки времени",
-      "$description": "Преобразование марки времени",
-      "$keywords": [
-        "Временная метка",
-        "миллисекунд",
-        "Конвертировать",
-        "дата",
-        "время"
-      ]
-    },
-    "zh-tw": {
-      "$name": "時間戳轉換",
-      "$description": "時間戳轉換",
-      "$keywords": [
-        "時間戳",
-        "毫秒",
-        "轉換",
-        "日期",
-        "時間"
-      ]
-    },
-    "zh-cn": {
-      "$name": "时间戳转换",
-      "$description": "时间戳转换",
-      "$keywords": [
-        "时间戳",
-        "毫秒",
-        "转换",
-        "日期",
-        "时间"
-      ]
-    }
+  "zh-cn": {
+    "$name": "时间戳转换器",
+    "$keywords": [
+      "时间戳",
+      "毫秒",
+      "转换",
+      "日期时间",
+      "时间",
+      "毫秒数",
+      "转换",
+      "时区"
+    ],
+    "$description": "时间戳转换器是一款将时间戳转换为不同日期和时间格式的工具。它支持将时间戳转换为秒、毫秒、微秒和纳秒，并可以根据输入和输出时区执行转换。\n\n特点：\n\n1. 在工具中输入时间戳。\n\n2. 工具将自动将时间戳转换为不同的日期和时间格式，并在工具的输出区域中显示。\n\n3. 您可以选择输入和输出时区，并选择时间戳的格式。\n\n4. 您可以选择是否启用UTC时间。\n\n用例：\n\n1. 开发和测试：在开发或测试过程中，开发人员经常需要将时间戳转换为日期和时间。使用时间戳转换器工具可以快速方便地执行转换。\n\n2. 数据分析：数据分析师需要处理和分析各种时间戳数据。使用此工具，他们可以轻松地将时间戳转换为日期和时间，从而更好地了解数据结构和内容。\n\n3. 时间转换：在跨时区场景中，需要将时间转换为不同的时区。使用时间戳转换器工具可以方便地执行时间转换，并且您可以选择输入和输出时区。\n\n4. 时间戳格式化：在代码审查期间，审查人员可以使用时间戳转换器工具将时间戳转换为可读的日期和时间格式，从而更容易查看和理解数据结构。"
+  },
+  "zh-tw": {
+    "$name": "時間戳轉換器",
+    "$keywords": [
+      "時間戳記",
+      "毫秒",
+      "轉換",
+      "日期時間",
+      "時間",
+      "毫秒數",
+      "轉換",
+      "時區"
+    ],
+    "$description": "時間戳轉換器是一個工具，可以將時間戳轉換為不同格式的日期和時間。它支持將時間戳轉換為秒、毫秒、微秒和納秒，並可以根據輸入和輸出時區進行轉換。\n\n功能：\n\n1. 在工具中輸入時間戳。\n\n2. 工具將自動將時間戳轉換為不同格式的日期和時間，並在工具的輸出區域中顯示。\n\n3. 您可以選擇輸入和輸出時區，並選擇時間戳的格式。\n\n4. 您可以選擇是否啟用UTC時間。\n\n用例：\n\n1. 開發和測試：在開發或測試過程中，開發人員經常需要將時間戳轉換為日期和時間。使用時間戳轉換器工具可以快速方便地進行轉換。\n\n2. 數據分析：數據分析師需要處理和分析各種時間戳數據。使用這個工具，他們可以輕鬆地將時間戳轉換為日期和時間，從而更好地理解數據結構和內容。\n\n3. 時間轉換：在跨時區場景中，需要將時間轉換為不同的時區。使用時間戳轉換器工具可以方便地進行時間轉換，您可以選擇輸入和輸出時區。\n\n4. 時間戳格式化：在代碼審查期間，審查人員可以使用時間戳轉換器工具將時間戳轉換為可讀的日期和時間格式，從而更容易地查看和理解數據結構。"
+  },
+  "es": {
+    "$name": "Convertidor de marcas de tiempo",
+    "$keywords": [
+      "marca de tiempo",
+      "milisegundo",
+      "convertir",
+      "fecha y hora",
+      "hora",
+      "milisegundos",
+      "conversión",
+      "zona horaria"
+    ],
+    "$description": "El Convertidor de marcas de tiempo es una herramienta que convierte marcas de tiempo a diferentes formatos de fecha y hora. Admite la conversión de marcas de tiempo a segundos, milisegundos, microsegundos y nanosegundos, y puede realizar conversiones basadas en zonas horarias de entrada y salida.\n\nCaracterísticas:\n\n1. Ingrese la marca de tiempo en la herramienta.\n\n2. La herramienta convertirá automáticamente la marca de tiempo a diferentes formatos de fecha y hora, y la mostrará en el área de salida de la herramienta.\n\n3. Puede seleccionar zonas horarias de entrada y salida, y elegir el formato de la marca de tiempo.\n\n4. Puede elegir si habilitar la hora UTC.\n\nCasos de uso:\n\n1. Desarrollo y pruebas: Durante el proceso de desarrollo o pruebas, los desarrolladores a menudo necesitan convertir marcas de tiempo a fecha y hora. Usando la herramienta Convertidor de marcas de tiempo, pueden realizar conversiones de manera rápida y conveniente.\n\n2. Análisis de datos: Los analistas de datos necesitan procesar y analizar varios datos de marcas de tiempo. Usando esta herramienta, pueden convertir fácilmente marcas de tiempo a fecha y hora, lo que les permite comprender mejor la estructura y el contenido de los datos.\n\n3. Conversión de tiempo: En escenarios de diferentes zonas horarias, es necesario convertir el tiempo a diferentes zonas horarias. Usando la herramienta Convertidor de marcas de tiempo, se puede realizar la conversión de tiempo de manera conveniente, y se pueden seleccionar zonas horarias de entrada y salida.\n\n4. Formato de marca de tiempo: Durante la revisión de código, los revisores pueden usar la herramienta Convertidor de marcas de tiempo para convertir marcas de tiempo a formatos de fecha y hora legibles, lo que facilita la visualización y comprensión de las estructuras de datos."
+  },
+  "ja": {
+    "$name": "タイムスタンプコンバーター",
+    "$keywords": [
+      "タイムスタンプ",
+      "ミリ秒",
+      "変換",
+      "日時",
+      "時間",
+      "ミリ秒単位",
+      "変換",
+      "タイムゾーン"
+    ],
+    "$description": "タイムスタンプコンバーターは、タイムスタンプを異なる日付と時刻の形式に変換するツールです。秒、ミリ秒、マイクロ秒、ナノ秒にタイムスタンプを変換することができ、入力と出力のタイムゾーンに基づいて変換を行うことができます。\n\n機能：\n\n1. ツールにタイムスタンプを入力します。\n\n2. ツールは自動的にタイムスタンプを異なる日付と時刻の形式に変換し、ツールの出力エリアに表示します。\n\n3. 入力と出力のタイムゾーンを選択し、タイムスタンプの形式を選択することができます。\n\n4. UTC時間を有効にするかどうかを選択することができます。\n\n使用例：\n\n1. 開発とテスト：開発やテストのプロセス中に、開発者はしばしばタイムスタンプを日付と時刻に変換する必要があります。タイムスタンプコンバーターツールを使用することで、変換を迅速かつ便利に行うことができます。\n\n2. データ分析：データアナリストは、さまざまなタイムスタンプデータを処理および分析する必要があります。このツールを使用することで、タイムスタンプを簡単に日付と時刻に変換し、データ構造と内容をよりよく理解することができます。\n\n3. 時間変換：異なるタイムゾーンのシナリオでは、時間を異なるタイムゾーンに変換する必要があります。タイムスタンプコンバーターツールを使用することで、時間変換を便利に行うことができ、入力と出力のタイムゾーンを選択することができます。\n\n4. タイムスタンプのフォーマット：コードレビュー中に、レビュアーはタイムスタンプコンバーターツールを使用して、タイムスタンプを読みやすい日付と時刻の形式に変換することができます。これにより、データ構造をより簡単に表示および理解することができます。"
+  },
+  "ko": {
+    "$name": "타임스탬프 변환기",
+    "$keywords": [
+      "타임스탬프",
+      "밀리초",
+      "변환",
+      "날짜시간",
+      "시간",
+      "밀리초",
+      "변환",
+      "시간대"
+    ],
+    "$description": "타임스탬프 변환기는 타임스탬프를 다양한 날짜와 시간 형식으로 변환하는 도구입니다. 이 도구는 초, 밀리초, 마이크로초, 나노초로 타임스탬프를 변환할 수 있으며, 입력 및 출력 시간대를 기반으로 변환을 수행할 수 있습니다.\n\n기능:\n\n1. 도구에 타임스탬프를 입력합니다.\n\n2. 도구는 자동으로 타임스탬프를 다양한 날짜와 시간 형식으로 변환하고, 도구의 출력 영역에 표시합니다.\n\n3. 입력 및 출력 시간대를 선택하고, 타임스탬프의 형식을 선택할 수 있습니다.\n\n4. UTC 시간을 사용할지 여부를 선택할 수 있습니다.\n\n사용 사례:\n\n1. 개발 및 테스트: 개발자는 개발 또는 테스트 과정에서 종종 타임스탬프를 날짜와 시간으로 변환해야 합니다. 타임스탬프 변환기 도구를 사용하면 변환을 빠르고 편리하게 수행할 수 있습니다.\n\n2. 데이터 분석: 데이터 분석가는 다양한 타임스탬프 데이터를 처리하고 분석해야 합니다. 이 도구를 사용하면 타임스탬프를 쉽게 날짜와 시간으로 변환하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다.\n\n3. 시간 변환: 서로 다른 시간대 간의 시간을 변환해야 하는 경우가 있습니다. 타임스탬프 변환기 도구를 사용하면 시간 변환을 편리하게 수행할 수 있으며, 입력 및 출력 시간대를 선택할 수 있습니다.\n\n4. 타임스탬프 형식 지정: 코드 리뷰 중에 리뷰어는 타임스탬프 변환기 도구를 사용하여 타임스탬프를 읽기 쉬운 날짜와 시간 형식으로 변환할 수 있습니다. 이를 통해 데이터 구조를 더 쉽게 볼 수 있습니다."
+  },
+  "de": {
+    "$name": "Zeitstempel-Konverter",
+    "$keywords": [
+      "Zeitstempel",
+      "Millisekunde",
+      "umwandeln",
+      "Datum und Uhrzeit",
+      "Zeit",
+      "Millisekunden",
+      "Konvertierung",
+      "Zeitzone"
+    ],
+    "$description": "Zeitstempel-Konverter ist ein Tool, das Zeitstempel in verschiedene Formate von Datum und Uhrzeit umwandelt. Es unterstützt die Umwandlung von Zeitstempeln in Sekunden, Millisekunden, Mikrosekunden und Nanosekunden und kann Konvertierungen basierend auf Eingabe- und Ausgabe-Zeitzonen durchführen.\n\nFunktionen:\n\n1. Geben Sie den Zeitstempel in das Tool ein.\n\n2. Das Tool wandelt den Zeitstempel automatisch in verschiedene Formate von Datum und Uhrzeit um und zeigt es im Ausgabe-Bereich des Tools an.\n\n3. Sie können Eingabe- und Ausgabe-Zeitzonen auswählen und das Format des Zeitstempels wählen.\n\n4. Sie können wählen, ob die UTC-Zeit aktiviert werden soll.\n\nAnwendungsfälle:\n\n1. Entwicklung und Test: Während des Entwicklungs- oder Testprozesses müssen Entwickler oft Zeitstempel in Datum und Uhrzeit umwandeln. Mit dem Zeitstempel-Konverter-Tool können Konvertierungen schnell und bequem durchgeführt werden.\n\n2. Datenanalyse: Datenanalysten müssen verschiedene Zeitstempel-Daten verarbeiten und analysieren. Mit diesem Tool können sie Zeitstempel einfach in Datum und Uhrzeit umwandeln und somit die Datenstruktur und den Inhalt besser verstehen.\n\n3. Zeitumwandlung: In Szenarien mit unterschiedlichen Zeitzonen ist es notwendig, die Zeit in verschiedene Zeitzonen umzuwandeln. Mit dem Zeitstempel-Konverter-Tool können Sie bequem Zeitumwandlungen durchführen und Eingabe- und Ausgabe-Zeitzonen auswählen.\n\n4. Zeitstempel-Formatierung: Während der Code-Überprüfung können Reviewer das Zeitstempel-Konverter-Tool verwenden, um Zeitstempel in lesbare Datum- und Uhrzeitformate umzuwandeln, um Datenstrukturen einfacher anzeigen und verstehen zu können."
+  },
+  "fr": {
+    "$name": "Convertisseur de timestamp",
+    "$keywords": [
+      "timestamp",
+      "milliseconde",
+      "convertir",
+      "datetime",
+      "heure",
+      "millisecondes",
+      "conversion",
+      "fuseau horaire"
+    ],
+    "$description": "Le convertisseur de timestamp est un outil qui convertit les timestamps en différents formats de date et d'heure. Il prend en charge la conversion des timestamps en secondes, millisecondes, microsecondes et nanosecondes, et peut effectuer des conversions en fonction des fuseaux horaires d'entrée et de sortie.\n\nFonctionnalités :\n\n1. Entrez le timestamp dans l'outil.\n\n2. L'outil convertira automatiquement le timestamp en différents formats de date et d'heure, et l'affichera dans la zone de sortie de l'outil.\n\n3. Vous pouvez sélectionner les fuseaux horaires d'entrée et de sortie, et choisir le format du timestamp.\n\n4. Vous pouvez choisir d'activer l'heure UTC.\n\nCas d'utilisation :\n\n1. Développement et test : Pendant le processus de développement ou de test, les développeurs ont souvent besoin de convertir des timestamps en date et heure. En utilisant l'outil de convertisseur de timestamp, ils peuvent rapidement et facilement effectuer des conversions.\n\n2. Analyse de données : Les analystes de données ont besoin de traiter et d'analyser diverses données de timestamp. En utilisant cet outil, ils peuvent facilement convertir des timestamps en date et heure, ce qui leur permet de mieux comprendre la structure et le contenu des données.\n\n3. Conversion de temps : Dans les scénarios de fuseaux horaires croisés, il est nécessaire de convertir l'heure en différents fuseaux horaires. En utilisant l'outil de convertisseur de timestamp, vous pouvez facilement effectuer la conversion de temps, et vous pouvez sélectionner les fuseaux horaires d'entrée et de sortie.\n\n4. Formatage de timestamp : Pendant l'examen de code, les examinateurs peuvent utiliser l'outil de convertisseur de timestamp pour convertir des timestamps en formats de date et d'heure lisibles, ce qui facilite la visualisation et la compréhension des structures de données."
+  },
+  "it": {
+    "$name": "Convertitore di Timestamp",
+    "$keywords": [
+      "timestamp",
+      "millisecond",
+      "convertire",
+      "datetime",
+      "tempo",
+      "millisecondi",
+      "conversione",
+      "fuso orario"
+    ],
+    "$description": "Il Convertitore di Timestamp è uno strumento che converte i timestamp in diversi formati di data e ora. Supporta la conversione dei timestamp in secondi, millisecondi, microsecondi e nanosecondi, e può eseguire conversioni in base ai fusi orari di input e output.\n\nCaratteristiche:\n\n1. Inserisci il timestamp nello strumento.\n\n2. Lo strumento convertirà automaticamente il timestamp in diversi formati di data e ora, e lo visualizzerà nell'area di output dello strumento.\n\n3. Puoi selezionare i fusi orari di input e output, e scegliere il formato del timestamp.\n\n4. Puoi scegliere se abilitare l'ora UTC.\n\nUtilizzi:\n\n1. Sviluppo e testing: Durante il processo di sviluppo o testing, gli sviluppatori spesso hanno bisogno di convertire i timestamp in data e ora. Utilizzando lo strumento Convertitore di Timestamp, possono eseguire conversioni in modo rapido e conveniente.\n\n2. Analisi dei dati: Gli analisti dei dati devono elaborare e analizzare vari dati di timestamp. Utilizzando questo strumento, possono facilmente convertire i timestamp in data e ora, comprendendo meglio la struttura e il contenuto dei dati.\n\n3. Conversione dell'ora: In scenari di fuso orario incrociato, è necessario convertire l'ora in diversi fusi orari. Utilizzando lo strumento Convertitore di Timestamp, è possibile eseguire comodamente la conversione dell'ora, e puoi selezionare i fusi orari di input e output.\n\n4. Formattazione del timestamp: Durante la revisione del codice, i revisori possono utilizzare lo strumento Convertitore di Timestamp per convertire i timestamp in formati di data e ora leggibili, rendendo più facile visualizzare e comprendere le strutture dei dati."
+  },
+  "ru": {
+    "$name": "Конвертер временных меток",
+    "$keywords": [
+      "метка времени",
+      "миллисекунда",
+      "конвертировать",
+      "дата и время",
+      "время",
+      "миллисекунды",
+      "конверсия",
+      "часовой пояс"
+    ],
+    "$description": "Конвертер временных меток - это инструмент, который преобразует временные метки в различные форматы даты и времени. Он поддерживает преобразование временных меток в секунды, миллисекунды, микросекунды и наносекунды, а также может выполнять преобразования на основе часовых поясов ввода и вывода.\n\nОсобенности:\n\n1. Введите временную метку в инструмент.\n\n2. Инструмент автоматически преобразует временную метку в различные форматы даты и времени и отображает ее в выходной области инструмента.\n\n3. Вы можете выбрать часовые пояса ввода и вывода и выбрать формат временной метки.\n\n4. Вы можете выбрать, включить ли время UTC.\n\nПрименение:\n\n1. Разработка и тестирование: Во время процесса разработки или тестирования разработчикам часто нужно преобразовывать временные метки в дату и время. Использование инструмента Конвертер временных меток позволяет быстро и удобно выполнять преобразования.\n\n2. Анализ данных: Аналитикам данных необходимо обрабатывать и анализировать различные данные временных меток. Используя этот инструмент, они могут легко преобразовывать временные метки в дату и время, тем самым лучше понимая структуру и содержание данных.\n\n3. Преобразование времени: В сценариях пересечения часовых поясов необходимо преобразовывать время в различные часовые пояса. Использование инструмента Конвертер временных меток позволяет удобно выполнять преобразование времени, и вы можете выбрать часовые пояса ввода и вывода.\n\n4. Форматирование временных меток: Во время проверки кода рецензенты могут использовать инструмент Конвертер временных меток для преобразования временных меток в читаемые форматы даты и времени, что облегчает просмотр и понимание структуры данных."
+  },
+  "pt": {
+    "$name": "Conversor de Timestamp",
+    "$keywords": [
+      "timestamp",
+      "milissegundo",
+      "converter",
+      "datetime",
+      "hora",
+      "milissegundos",
+      "conversão",
+      "fuso horário"
+    ],
+    "$description": "O Conversor de Timestamp é uma ferramenta que converte timestamps para diferentes formatos de data e hora. Ele suporta a conversão de timestamps para segundos, milissegundos, microssegundos e nanossegundos, e pode realizar conversões com base em fusos horários de entrada e saída.\n\nRecursos:\n\n1. Insira o timestamp na ferramenta.\n\n2. A ferramenta converterá automaticamente o timestamp para diferentes formatos de data e hora e exibirá na área de saída da ferramenta.\n\n3. Você pode selecionar fusos horários de entrada e saída e escolher o formato do timestamp.\n\n4. Você pode escolher se deseja habilitar o horário UTC.\n\nCasos de uso:\n\n1. Desenvolvimento e teste: Durante o processo de desenvolvimento ou teste, os desenvolvedores frequentemente precisam converter timestamps para data e hora. Usando a ferramenta Conversor de Timestamp, é possível realizar conversões de forma rápida e conveniente.\n\n2. Análise de dados: Analistas de dados precisam processar e analisar vários dados de timestamp. Usando esta ferramenta, eles podem facilmente converter timestamps para data e hora, compreendendo melhor a estrutura e o conteúdo dos dados.\n\n3. Conversão de tempo: Em cenários de fusos horários cruzados, é necessário converter o tempo para diferentes fusos horários. Usando a ferramenta Conversor de Timestamp, é possível realizar a conversão de tempo de forma conveniente, e você pode selecionar fusos horários de entrada e saída.\n\n4. Formatação de timestamp: Durante a revisão de código, os revisores podem usar a ferramenta Conversor de Timestamp para converter timestamps para formatos de data e hora legíveis, tornando mais fácil visualizar e compreender as estruturas de dados."
+  },
+  "en": {
+    "$name": "Timestamp Convertor",
+    "$keywords": [
+      "timestamp",
+      "milisecond",
+      "convert",
+      "datetime",
+      "time",
+      "Milliseconds",
+      "Conversion",
+      "Timezone"
+    ],
+    "$description": "Timestamp Convertor is a tool that converts timestamps to different formats of date and time. It supports converting timestamps to seconds, milliseconds, microseconds, and nanoseconds, and can perform conversions based on input and output time zones.\n\nFeatures:\n\n1. Enter the timestamp in the tool.\n\n2. The tool will automatically convert the timestamp to different formats of date and time, and display it in the output area of the tool.\n\n3. You can select input and output time zones, and choose the format of the timestamp.\n\n4. You can choose whether to enable UTC time.\n\nUse cases:\n\n1. Development and testing: During the development or testing process, developers often need to convert timestamps to date and time. Using the Timestamp Convertor tool can quickly and conveniently perform conversions.\n\n2. Data analysis: Data analysts need to process and analyze various timestamp data. Using this tool, they can easily convert timestamps to date and time, thereby better understanding the data structure and content.\n\n3. Time conversion: In cross-time zone scenarios, it is necessary to convert time to different time zones. Using the Timestamp Convertor tool can conveniently perform time conversion, and you can select input and output time zones.\n\n4. Timestamp formatting: During code review, reviewers can use the Timestamp Convertor tool to convert timestamps to readable date and time formats, making it easier to view and understand data structures."
   }
+}

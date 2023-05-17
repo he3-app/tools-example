@@ -10,15 +10,22 @@
     "name": "Color Picker",
     "id": "color-picker",
     "icon": "pie-chart-outlined",
-    "version": "1.0.2",
-    "description": "color picker",
+    "version": "1.0.5",
+    "description": "Color Picker Tool User Manual\n\nThe Color Picker Tool is a tool used to select colors. Users can select colors through the tool by clicking or dragging the mouse, or by entering color codes. Users can also view the RGB, HSL, and other information of the selected color. The following is a detailed description of the tool:\n\nFunction Description:\n\n1. Color selection: Users can select colors by clicking or dragging the mouse, or by entering color codes.\n\n2. Color information viewing: Users can view the RGB, HSL, and other information of the selected color.\n\n3. Color gradient display: Users can view the gradient display of colors to better understand the color changes.\n\n4. RGB adjustment: Users can adjust the RGB value of the color through the RGB adjuster.\n\nUsage Scenarios:\n\n1. Web design: In web design, color selection is a very important step. Using the Color Picker Tool, designers can easily select the desired color and view the RGB, HSL, and other information of the color to better design the website.\n\n2. Image processing: In image processing, color selection is also a very important step. Using the Color Picker Tool, users can easily select the desired color and view the RGB, HSL, and other information of the color to better process the image.\n\n3. Data visualization: In data visualization, color selection is also a very important step. Using the Color Picker Tool, users can easily select the desired color and view the RGB, HSL, and other information of the color to better visualize the data.\n\nUsage Method:\n\n1. Color selection: Users can select colors by clicking or dragging the mouse, or by entering color codes.\n\n2. Color information viewing: Users can view the RGB, HSL, and other information of the selected color.\n\n3. Color gradient display: Users can view the gradient display of colors to better understand the color changes.\n\n4. RGB adjustment: Users can adjust the RGB value of the color through the RGB adjuster.\n\nPrecautions:\n\n1. The use of the color picker requires a certain color perception ability. It is recommended that users try and compare when selecting colors.\n\n2. When using the RGB adjuster, users need to pay attention to the range of the RGB value to avoid unreasonable colors.\n\n3. When entering color codes, users need to pay attention to the correctness of the code to avoid incorrect colors.\n\n4. When using the color gradient display, users need to pay attention to the difference between color changes and gradients to better understand the color changes.",
     "isPublic": true,
     "category": [
       "color"
     ],
     "keywords": [
       "color",
-      "picker"
+      "picker",
+      "Color Picker",
+      "RGB adjustment",
+      "Color information viewing",
+      "Color gradient display",
+      "Web design",
+      "Image processing",
+      "Data visualization"
     ],
     "repository": "https://github.com/he3-app/tools-example/tree/main/color-picker",
     "relatedToolId": []

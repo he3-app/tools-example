@@ -1,123 +1,189 @@
 {
-    "zh": {
-      "$name": "Mermaid 编辑器",
-      "$description": "编辑并预览 mermaid 图表",
-      "$keywords": [
-        "编辑器",
-        "图表",
-        "编辑",
-        "预览"
-      ]
-    },
-    "en": {
-      "$name": "Mermaid Editor",
-      "$description": "Edit and preview mermaid charts",
-      "$keywords": [
-        "mermaid",
-        "chart",
-        "edit",
-        "preview",
-        "editor"
-      ]
-    },
-    "de": {
-      "$name": "Mermaid Editor",
-      "$description": "Mermaid Chart Editor",
-      "$keywords": [
-        "Editor",
-        "Diagramm",
-        "bearbeiten",
-        "Vorschau"
-      ]
-    },
-    "es": {
-      "$name": "Mermaid Editor",
-      "$description": "Mermaid Chart Editor",
-      "$keywords": [
-        "editor",
-        "cuadro",
-        "editar",
-        "Avance"
-      ]
-    },
-    "fr": {
-      "$name": "Mermaid Editor",
-      "$description": "Mermaid Chart Editor",
-      "$keywords": [
-        "éditeur",
-        "graphique",
-        "modifier",
-        "Aperçu"
-      ]
-    },
-    "it": {
-      "$name": "Mermaid Editor",
-      "$description": "Mermaid Chart Editor",
-      "$keywords": [
-        "editore",
-        "grafico",
-        "modificare",
-        "Anteprima"
-      ]
-    },
-    "ja": {
-      "$name": "Mermaid Editor",
-      "$description": "Mermaid Chart Editor",
-      "$keywords": [
-        "編集者",
-        "チャート",
-        "編集",
-        "プレビュー"
-      ]
-    },
-    "ko": {
-      "$name": "Mermaid Editor",
-      "$description": "Mermaid Chart Editor",
-      "$keywords": [
-        "편집자",
-        "차트",
-        "편집하다",
-        "시사"
-      ]
-    },
-    "pt": {
-      "$name": "Mermaid Editor",
-      "$description": "Mermaid Chart Editor",
-      "$keywords": [
-        "editor",
-        "gráfico",
-        "editar",
-        "Visualização"
-      ]
-    },
-    "ru": {
-      "$name": "Mermaid Editor",
-      "$description": "Mermaid Chart Editor",
-      "$keywords": [
-        "редактор",
-        "диаграмма",
-        "редактировать",
-        "Предварительный просмотр"
-      ]
-    },
-    "zh-tw": {
-      "$name": "Mermaid 編輯器",
-      "$description": "編輯並預覽 mermaid 圖表",
-      "$keywords": [
-        "編輯器",
-        "圖表",
-        "編輯",
-        "預覽"
-      ]
-    },
-    "zh-cn": {
-      "$name": "Mermaid 编辑器",
-      "$description": "编辑并预览 mermaid 图表",
-      "$keywords": [
-        "编辑器",
-        "图表",
-        "编辑",
-        "预览"
-      ]
-    }
+  "zh-cn": {
+    "$name": "Mermaid 编辑器",
+    "$keywords": [
+      "mermaid",
+      "图表",
+      "编辑",
+      "预览",
+      "编辑器",
+      "在线编辑",
+      "预设示例代码",
+      "实时预览",
+      "下载图表",
+      "自动同步",
+      "多语言支持"
+    ],
+    "$description": "美人鱼编辑器工具文档\n\n美人鱼编辑器是一个在线美人鱼图表编辑器，帮助用户快速创建各种类型的美人鱼图表。该工具支持多种类型的美人鱼图表，包括流程图、序列图、类图、状态图、实体关系图、甘特图、旅程地图、Git图和饼图。用户可以通过输入美人鱼代码或使用预设的示例代码来创建图表，并可以实时预览和下载生成的图表。\n\n使用场景：\n\n1. 在线编辑美人鱼图表：用户可以使用美人鱼编辑器工具在线编辑各种类型的美人鱼图表，无需安装任何软件。\n\n2. 快速创建美人鱼图表：美人鱼编辑器工具提供多种类型的示例代码，用户可以直接使用这些示例代码来创建图表，无需手动编写代码。\n\n3. 实时预览和下载图表：用户可以实时预览生成的图表，并下载生成的SVG格式图表。\n\n功能描述：\n\n1. 支持多种类型的美人鱼图表：美人鱼编辑器工具支持多种类型的美人鱼图表，包括流程图、序列图、类图、状态图、实体关系图、甘特图、旅程地图、Git图和饼图。\n\n2. 支持输入美人鱼代码：用户可以手动输入美人鱼代码来创建图表。\n\n3. 支持预设示例代码：美人鱼编辑器工具提供多种类型的示例代码，用户可以直接使用这些示例代码来创建图表。\n\n4. 实时预览图表：用户可以实时预览生成的图表。\n\n5. 支持下载图表：用户可以下载生成的SVG格式图表。\n\n6. 支持自动同步：用户可以选择自动同步功能。当输入的美人鱼代码发生变化时，工具将自动重新生成图表。\n\n7. 支持多种语言：美人鱼编辑器工具支持多种语言，用户可以选择自己熟悉的语言来使用该工具。\n\n使用说明：\n\n1. 打开美人鱼编辑器工具。\n\n2. 在输入框中输入美人鱼代码或选择预设示例代码。\n\n3. 点击“生成”按钮，工具将自动生成图表。\n\n4. 在预览区域查看生成的图表。\n\n5. 如果需要下载图表，可以点击“下载”按钮。\n\n6. 如果需要自动同步功能，可以打开“自动同步”开关。\n\n7. 如果需要切换语言，可以在语言选择框中选择自己熟悉的语言。\n\n注意事项：\n\n1. 美人鱼编辑器工具需要在线使用。\n\n2. 美人鱼编辑器工具支持的美人鱼代码格式有限，用户需要按照指定格式编写代码。\n\n3. 美人鱼编辑器工具生成的图表可能由于浏览器兼容性等原因出现显示问题，用户需要根据实际情况进行调整。\n\n4. 美人鱼编辑器工具提供的示例代码仅供参考，用户需要根据实际需求进行修改。"
+  },
+  "zh-tw": {
+    "$name": "Mermaid編輯器",
+    "$keywords": [
+      "mermaid",
+      "圖表",
+      "編輯",
+      "預覽",
+      "編輯器",
+      "線上編輯",
+      "預設範例程式碼",
+      "即時預覽",
+      "下載圖表",
+      "自動同步",
+      "多語言支援"
+    ],
+    "$description": "美人魚編輯器工具文檔\n\n美人魚編輯器是一個在線美人魚圖表編輯器，可幫助用戶快速創建各種類型的美人魚圖表。此工具支持多種類型的美人魚圖表，包括流程圖、序列圖、類圖、狀態圖、實體關係圖、甘特圖、旅程地圖、Git圖和餅圖。用戶可以通過輸入美人魚代碼或使用預設的示例代碼來創建圖表，並可以實時預覽和下載生成的圖表。\n\n使用情境：\n\n1. 在線編輯美人魚圖表：用戶可以使用美人魚編輯器工具在線編輯各種類型的美人魚圖表，無需安裝任何軟件。\n\n2. 快速創建美人魚圖表：美人魚編輯器工具提供多種類型的示例代碼，用戶可以直接使用這些示例代碼來創建圖表，無需手動編寫代碼。\n\n3. 實時預覽和下載圖表：用戶可以實時預覽生成的圖表並下載生成的SVG格式圖表。\n\n功能描述：\n\n1. 支持多種類型的美人魚圖表：美人魚編輯器工具支持多種類型的美人魚圖表，包括流程圖、序列圖、類圖、狀態圖、實體關係圖、甘特圖、旅程地圖、Git圖和餅圖。\n\n2. 支持輸入美人魚代碼：用戶可以手動輸入美人魚代碼來創建圖表。\n\n3. 支持預設示例代碼：美人魚編輯器工具提供多種類型的示例代碼，用戶可以直接使用這些示例代碼來創建圖表。\n\n4. 圖表實時預覽：用戶可以實時預覽生成的圖表。\n\n5. 支持下載圖表：用戶可以下載生成的SVG格式圖表。\n\n6. 支持自動同步：用戶可以選擇自動同步功能。當輸入的美人魚代碼發生變化時，工具將自動重新生成圖表。\n\n7. 支持多種語言：美人魚編輯器工具支持多種語言，用戶可以選擇自己熟悉的語言使用工具。\n\n使用說明：\n\n1. 打開美人魚編輯器工具。\n\n2. 在輸入框中輸入美人魚代碼或選擇預設示例代碼。\n\n3. 點擊“生成”按鈕，工具將自動生成圖表。\n\n4. 在預覽區域查看生成的圖表。\n\n5. 如果需要下載圖表，可以點擊“下載”按鈕。\n\n6. 如果需要自動同步功能，可以打開“自動同步”開關。\n\n7. 如果需要切換語言，可以在語言選擇框中選擇自己熟悉的語言。\n\n注意事項：\n\n1. 美人魚編輯器工具需要在線使用。\n\n2. 美人魚編輯器工具支持的美人魚代碼格式有限，用戶需要按照指定格式編寫代碼。\n\n3. 美人魚編輯器工具生成的圖表可能由於瀏覽器兼容性等原因出現顯示問題，用戶需要根據實際情況進行調整。\n\n4. 美人魚編輯器工具提供的示例代碼僅供參考，用戶需要根據實際需求進行修改。"
+  },
+  "es": {
+    "$name": "Editor de Mermaid",
+    "$keywords": [
+      "mermaid",
+      "gráfico",
+      "editar",
+      "vista previa",
+      "editor",
+      "edición en línea",
+      "código de ejemplo preestablecido",
+      "vista previa en tiempo real",
+      "descargar gráfico",
+      "auto-sincronización",
+      "soporte multi-idioma"
+    ],
+    "$description": "Documentación de la herramienta de edición de Mermaid\n\nMermaid Editor es una herramienta de edición de gráficos Mermaid en línea que ayuda a los usuarios a crear rápidamente varios tipos de gráficos Mermaid. Esta herramienta admite múltiples tipos de gráficos Mermaid, incluidos diagramas de flujo, diagramas de secuencia, diagramas de clases, diagramas de estados, diagramas de relaciones de entidad, gráficos de Gantt, mapas de viaje, gráficos de Git y gráficos circulares. Los usuarios pueden crear gráficos ingresando código Mermaid o utilizando código de ejemplo preestablecido, y pueden previsualizar y descargar los gráficos generados en tiempo real.\n\nCasos de uso:\n\n1. Edición en línea de gráficos Mermaid: los usuarios pueden utilizar la herramienta Mermaid Editor para editar varios tipos de gráficos Mermaid en línea sin instalar ningún software.\n\n2. Creación rápida de gráficos Mermaid: la herramienta Mermaid Editor proporciona múltiples tipos de código de ejemplo, y los usuarios pueden utilizar directamente estos códigos de ejemplo para crear gráficos sin escribir código manualmente.\n\n3. Previsualización y descarga en tiempo real de gráficos: los usuarios pueden previsualizar los gráficos generados en tiempo real y descargar los gráficos en formato SVG generados.\n\nDescripción de funciones:\n\n1. Admite múltiples tipos de gráficos Mermaid: la herramienta Mermaid Editor admite múltiples tipos de gráficos Mermaid, incluidos diagramas de flujo, diagramas de secuencia, diagramas de clases, diagramas de estados, diagramas de relaciones de entidad, gráficos de Gantt, mapas de viaje, gráficos de Git y gráficos circulares.\n\n2. Admite la entrada de código Mermaid: los usuarios pueden ingresar manualmente código Mermaid para crear gráficos.\n\n3. Admite código de ejemplo preestablecido: la herramienta Mermaid Editor proporciona múltiples tipos de código de ejemplo, y los usuarios pueden utilizar directamente estos códigos de ejemplo para crear gráficos.\n\n4. Previsualización en tiempo real de gráficos: los usuarios pueden previsualizar los gráficos generados en tiempo real.\n\n5. Admite la descarga de gráficos: los usuarios pueden descargar los gráficos generados en formato SVG.\n\n6. Admite la sincronización automática: los usuarios pueden elegir la función de sincronización automática. Cuando cambia el código Mermaid de entrada, la herramienta regenerará automáticamente el gráfico.\n\n7. Admite múltiples idiomas: la herramienta Mermaid Editor admite múltiples idiomas, y los usuarios pueden elegir su idioma familiar para utilizar la herramienta.\n\nInstrucciones:\n\n1. Abra la herramienta Mermaid Editor.\n\n2. Ingrese el código Mermaid en el cuadro de entrada o seleccione el código de ejemplo preestablecido.\n\n3. Haga clic en el botón \"Generar\", y la herramienta generará automáticamente el gráfico.\n\n4. Vea el gráfico generado en el área de previsualización.\n\n5. Si necesita descargar el gráfico, puede hacer clic en el botón \"Descargar\".\n\n6. Si necesita la función de sincronización automática, puede activar el interruptor \"Sincronización automática\".\n\n7. Si necesita cambiar de idioma, puede seleccionar su idioma familiar en el cuadro de selección de idioma.\n\nNotas:\n\n1. La herramienta Mermaid Editor debe utilizarse en línea.\n\n2. El formato de código Mermaid admitido por la herramienta Mermaid Editor es limitado, y los usuarios deben escribir código según el formato especificado.\n\n3. Los gráficos generados por la herramienta Mermaid Editor pueden tener problemas de visualización debido a la compatibilidad del navegador y otras razones, y los usuarios deben ajustarlos según la situación real.\n\n4. El código de ejemplo proporcionado por la herramienta Mermaid Editor es solo para referencia, y los usuarios deben modificarlo según las necesidades reales."
+  },
+  "ja": {
+    "$name": "Mermaidエディター",
+    "$keywords": [
+      "mermaid",
+      "チャート",
+      "編集",
+      "プレビュー",
+      "エディター",
+      "オンライン編集",
+      "プリセット例コード",
+      "リアルタイムプレビュー",
+      "チャートのダウンロード",
+      "自動同期",
+      "多言語サポート"
+    ],
+    "$description": "マーメイドエディターツールのドキュメンテーション\n\nマーメイドエディターは、ユーザーがさまざまなタイプのマーメイドチャートを素早く作成できるように支援するオンラインマーメイドチャートエディターです。このツールは、フローチャート、シーケンス図、クラス図、状態図、エンティティ関係図、ガントチャート、ジャーニーマップ、Gitグラフ、円グラフなど、複数のタイプのマーメイドチャートをサポートしています。ユーザーは、マーメイドコードを入力するか、プリセットの例コードを使用してチャートを作成し、リアルタイムで生成されたチャートをプレビューしてダウンロードすることができます。\n\n使用例：\n\n1. マーメイドチャートのオンライン編集：ユーザーは、ソフトウェアをインストールすることなく、マーメイドエディターツールを使用して、さまざまなタイプのマーメイドチャートをオンラインで編集できます。\n\n2. 簡単にマーメイドチャートを作成：マーメイドエディターツールは、複数のタイプの例コードを提供し、ユーザーは手動でコードを書かずにこれらの例コードを直接使用してチャートを作成できます。\n\n3. チャートのリアルタイムプレビューとダウンロード：ユーザーは、リアルタイムで生成されたチャートをプレビューし、生成されたSVG形式のチャートをダウンロードすることができます。\n\n機能の説明：\n\n1. 複数のタイプのマーメイドチャートをサポート：マーメイドエディターツールは、フローチャート、シーケンス図、クラス図、状態図、エンティティ関係図、ガントチャート、ジャーニーマップ、Gitグラフ、円グラフなど、複数のタイプのマーメイドチャートをサポートしています。\n\n2. マーメイドコードの入力をサポート：ユーザーは、手動でマーメイドコードを入力してチャートを作成できます。\n\n3. プリセットの例コードをサポート：マーメイドエディターツールは、複数のタイプの例コードを提供し、ユーザーはこれらの例コードを直接使用してチャートを作成できます。\n\n4. チャートのリアルタイムプレビューをサポート：ユーザーは、リアルタイムで生成されたチャートをプレビューできます。\n\n5. チャートのダウンロードをサポート：ユーザーは、生成されたSVG形式のチャートをダウンロードできます。\n\n6. 自動同期をサポート：ユーザーは、自動同期機能を選択できます。入力されたマーメイドコードが変更されると、ツールは自動的にチャートを再生成します。\n\n7. 複数の言語をサポート：マーメイドエディターツールは、複数の言語をサポートしており、ユーザーは自分の使い慣れた言語を選択してツールを使用できます。\n\n手順：\n\n1. マーメイドエディターツールを開きます。\n\n2. 入力ボックスにマーメイドコードを入力するか、プリセットの例コードを選択します。\n\n3. 「生成」ボタンをクリックすると、ツールが自動的にチャートを生成します。\n\n4. プレビューエリアで生成されたチャートを表示します。\n\n5. チャートをダウンロードする必要がある場合は、「ダウンロード」ボタンをクリックします。\n\n6. 自動同期機能が必要な場合は、「自動同期」スイッチをオンにします。\n\n7. 言語を切り替える必要がある場合は、言語選択ボックスで使い慣れた言語を選択します。\n\n注意事項：\n\n1. マーメイドエディターツールはオンラインで使用する必要があります。\n\n2. マーメイドエディターツールがサポートするマーメイドコードの形式は限られており、ユーザーは指定された形式に従ってコードを書く必要があります。\n\n3. マーメイドエディターツールで生成されたチャートには、ブラウザの互換性などの理由で表示上の問題がある場合があり、ユーザーは実際の状況に応じて調整する必要があります。\n\n4. マーメイドエディターツールが提供する例コードは参考用であり、ユーザーは実際のニーズに応じて修正する必要があります。"
+  },
+  "ko": {
+    "$name": "Mermaid 편집기",
+    "$keywords": [
+      "mermaid",
+      "차트",
+      "편집",
+      "미리보기",
+      "에디터",
+      "온라인 편집",
+      "프리셋 예제 코드",
+      "실시간 미리보기",
+      "차트 다운로드",
+      "자동 동기화",
+      "다국어 지원"
+    ],
+    "$description": "인어 에디터 도구 문서\n\nMermaid Editor는 사용자가 다양한 유형의 Mermaid 차트를 빠르게 생성할 수 있도록 도와주는 온라인 Mermaid 차트 편집기입니다. 이 도구는 흐름도, 순서도, 클래스 다이어그램, 상태 다이어그램, 엔티티 관계 다이어그램, 간트 차트, 여정 지도, Git 그래프 및 파이 차트와 같은 다양한 유형의 Mermaid 차트를 지원합니다. 사용자는 Mermaid 코드를 입력하거나 미리 설정된 예제 코드를 사용하여 차트를 생성할 수 있으며, 실시간으로 미리보기 및 생성된 차트를 다운로드할 수 있습니다.\n\n사용 사례:\n\n1. 온라인 Mermaid 차트 편집: 사용자는 소프트웨어를 설치하지 않고 Mermaid Editor 도구를 사용하여 다양한 유형의 Mermaid 차트를 온라인으로 편집할 수 있습니다.\n\n2. 빠르게 Mermaid 차트 생성: Mermaid Editor 도구는 다양한 유형의 예제 코드를 제공하며, 사용자는 이러한 예제 코드를 직접 사용하여 수동으로 코드를 작성하지 않고도 차트를 생성할 수 있습니다.\n\n3. 실시간 미리보기 및 차트 다운로드: 사용자는 생성된 차트를 실시간으로 미리보기하고 생성된 SVG 형식의 차트를 다운로드할 수 있습니다.\n\n기능 설명:\n\n1. 다양한 유형의 Mermaid 차트 지원: Mermaid Editor 도구는 흐름도, 순서도, 클래스 다이어그램, 상태 다이어그램, 엔티티 관계 다이어그램, 간트 차트, 여정 지도, Git 그래프 및 파이 차트와 같은 다양한 유형의 Mermaid 차트를 지원합니다.\n\n2. Mermaid 코드 입력 지원: 사용자는 수동으로 Mermaid 코드를 입력하여 차트를 생성할 수 있습니다.\n\n3. 미리 설정된 예제 코드 지원: Mermaid Editor 도구는 다양한 유형의 예제 코드를 제공하며, 사용자는 이러한 예제 코드를 직접 사용하여 차트를 생성할 수 있습니다.\n\n4. 실시간 차트 미리보기: 사용자는 생성된 차트를 실시간으로 미리볼 수 있습니다.\n\n5. 차트 다운로드 지원: 사용자는 생성된 SVG 형식의 차트를 다운로드할 수 있습니다.\n\n6. 자동 동기화 지원: 사용자는 자동 동기화 기능을 선택할 수 있습니다. 입력된 Mermaid 코드가 변경되면 도구가 자동으로 차트를 재생성합니다.\n\n7. 다국어 지원: Mermaid Editor 도구는 다국어를 지원하며, 사용자는 익숙한 언어를 선택하여 도구를 사용할 수 있습니다.\n\n사용 방법:\n\n1. Mermaid Editor 도구를 엽니다.\n\n2. 입력 상자에 Mermaid 코드를 입력하거나 미리 설정된 예제 코드를 선택합니다.\n\n3. \"생성\" 버튼을 클릭하면 도구가 자동으로 차트를 생성합니다.\n\n4. 미리보기 영역에서 생성된 차트를 확인합니다.\n\n5. 차트를 다운로드해야하는 경우 \"다운로드\" 버튼을 클릭합니다.\n\n6. 자동 동기화 기능이 필요한 경우 \"자동 동기화\" 스위치를 켤 수 있습니다.\n\n7. 언어를 변경해야하는 경우 언어 선택 상자에서 익숙한 언어를 선택할 수 있습니다.\n\n참고 사항:\n\n1. Mermaid Editor 도구는 온라인으로 사용해야합니다.\n\n2. Mermaid Editor 도구에서 지원하는 Mermaid 코드 형식은 제한적이며, 사용자는 지정된 형식에 따라 코드를 작성해야합니다.\n\n3. Mermaid Editor 도구에서 생성된 차트는 브라우저 호환성 및 기타 이유로 인해 표시 문제가 발생할 수 있으며, 사용자는 실제 상황에 맞게 조정해야합니다.\n\n4. Mermaid Editor 도구에서 제공하는 예제 코드는 참고용이며, 사용자는 실제 필요에 따라 수정해야합니다."
+  },
+  "de": {
+    "$name": "Mermaid Editor",
+    "$keywords": [
+      "Mermaid",
+      "Diagramm",
+      "Bearbeiten",
+      "Vorschau",
+      "Editor",
+      "Online-Bearbeitung",
+      "Vordefinierter Beispielcode",
+      "Echtzeit-Vorschau",
+      "Diagramm herunterladen",
+      "Automatische Synchronisierung",
+      "Mehrsprachige Unterstützung"
+    ],
+    "$description": "Mermaid Editor Tool Dokumentation\n\nMermaid Editor ist ein Online-Editor für Mermaid-Diagramme, der Benutzern dabei hilft, schnell verschiedene Arten von Mermaid-Diagrammen zu erstellen. Dieses Tool unterstützt mehrere Arten von Mermaid-Diagrammen, einschließlich Flussdiagrammen, Sequenzdiagrammen, Klassendiagrammen, Zustandsdiagrammen, Entitätsbeziehungsdiagrammen, Gantt-Diagrammen, Journey Maps, Git-Graphen und Tortendiagrammen. Benutzer können Diagramme erstellen, indem sie Mermaid-Code eingeben oder vorgefertigten Beispielcode verwenden und die generierten Diagramme in Echtzeit anzeigen und herunterladen.\n\nAnwendungsfälle:\n\n1. Online-Bearbeitung von Mermaid-Diagrammen: Benutzer können das Mermaid Editor-Tool verwenden, um verschiedene Arten von Mermaid-Diagrammen online zu bearbeiten, ohne Software installieren zu müssen.\n\n2. Schnelles Erstellen von Mermaid-Diagrammen: Das Mermaid Editor-Tool bietet mehrere Arten von Beispielcode, und Benutzer können diesen Beispielcode direkt verwenden, um Diagramme zu erstellen, ohne manuell Code schreiben zu müssen.\n\n3. Echtzeitvorschau und Download von Diagrammen: Benutzer können die generierten Diagramme in Echtzeit anzeigen und die generierten SVG-Format-Diagramme herunterladen.\n\nFunktionsbeschreibung:\n\n1. Unterstützung mehrerer Arten von Mermaid-Diagrammen: Das Mermaid Editor-Tool unterstützt mehrere Arten von Mermaid-Diagrammen, einschließlich Flussdiagrammen, Sequenzdiagrammen, Klassendiagrammen, Zustandsdiagrammen, Entitätsbeziehungsdiagrammen, Gantt-Diagrammen, Journey Maps, Git-Graphen und Tortendiagrammen.\n\n2. Unterstützung der Eingabe von Mermaid-Code: Benutzer können manuell Mermaid-Code eingeben, um Diagramme zu erstellen.\n\n3. Unterstützung von vorgefertigtem Beispielcode: Das Mermaid Editor-Tool bietet mehrere Arten von Beispielcode, und Benutzer können diesen Beispielcode direkt verwenden, um Diagramme zu erstellen.\n\n4. Echtzeitvorschau von Diagrammen: Benutzer können die generierten Diagramme in Echtzeit anzeigen.\n\n5. Unterstützung des Herunterladens von Diagrammen: Benutzer können die generierten SVG-Format-Diagramme herunterladen.\n\n6. Unterstützung der automatischen Synchronisation: Benutzer können die automatische Synchronisationsfunktion wählen. Wenn sich der eingegebene Mermaid-Code ändert, generiert das Tool automatisch das Diagramm neu.\n\n7. Unterstützung mehrerer Sprachen: Das Mermaid Editor-Tool unterstützt mehrere Sprachen, und Benutzer können ihre bevorzugte Sprache wählen, um das Tool zu verwenden.\n\nAnweisungen:\n\n1. Öffnen Sie das Mermaid Editor-Tool.\n\n2. Geben Sie Mermaid-Code in das Eingabefeld ein oder wählen Sie vorgefertigten Beispielcode aus.\n\n3. Klicken Sie auf die Schaltfläche \"Generieren\", und das Tool generiert automatisch das Diagramm.\n\n4. Betrachten Sie das generierte Diagramm im Vorschaubereich.\n\n5. Wenn Sie das Diagramm herunterladen müssen, können Sie auf die Schaltfläche \"Herunterladen\" klicken.\n\n6. Wenn Sie die automatische Synchronisationsfunktion benötigen, können Sie den Schalter \"Automatische Synchronisation\" einschalten.\n\n7. Wenn Sie die Sprache wechseln müssen, können Sie Ihre bevorzugte Sprache im Sprachauswahlkasten auswählen.\n\nHinweise:\n\n1. Das Mermaid Editor-Tool muss online verwendet werden.\n\n2. Das vom Mermaid Editor-Tool unterstützte Mermaid-Code-Format ist begrenzt, und Benutzer müssen den Code gemäß dem angegebenen Format schreiben.\n\n3. Die von Mermaid Editor-Tool generierten Diagramme können aufgrund von Browserkompatibilität und anderen Gründen Anzeigeprobleme haben, und Benutzer müssen entsprechend anpassen.\n\n4. Der vom Mermaid Editor-Tool bereitgestellte Beispielcode dient nur zur Referenz, und Benutzer müssen ihn entsprechend den tatsächlichen Anforderungen ändern."
+  },
+  "fr": {
+    "$name": "Éditeur Mermaid",
+    "$keywords": [
+      "mermaid",
+      "graphique",
+      "éditer",
+      "aperçu",
+      "éditeur",
+      "édition en ligne",
+      "code d'exemple prédéfini",
+      "aperçu en temps réel",
+      "télécharger le graphique",
+      "auto-sync",
+      "support multi-langues"
+    ],
+    "$description": "Documentation de l'outil d'édition de diagrammes Mermaid\n\nMermaid Editor est un éditeur de diagrammes Mermaid en ligne qui aide les utilisateurs à créer rapidement différents types de diagrammes Mermaid. Cet outil prend en charge plusieurs types de diagrammes Mermaid, notamment les organigrammes, les diagrammes de séquence, les diagrammes de classes, les diagrammes d'état, les diagrammes de relations entité-association, les diagrammes de Gantt, les cartes de voyage, les graphes Git et les diagrammes circulaires. Les utilisateurs peuvent créer des diagrammes en entrant du code Mermaid ou en utilisant du code d'exemple prédéfini, et peuvent prévisualiser et télécharger les diagrammes générés en temps réel.\n\nCas d'utilisation :\n\n1. Édition en ligne de diagrammes Mermaid : Les utilisateurs peuvent utiliser l'outil Mermaid Editor pour éditer différents types de diagrammes Mermaid en ligne sans installer de logiciel.\n\n2. Création rapide de diagrammes Mermaid : L'outil Mermaid Editor fournit plusieurs types de code d'exemple, et les utilisateurs peuvent directement utiliser ces codes d'exemple pour créer des diagrammes sans écrire manuellement du code.\n\n3. Prévisualisation et téléchargement en temps réel des diagrammes : Les utilisateurs peuvent prévisualiser les diagrammes générés en temps réel et télécharger les diagrammes au format SVG générés.\n\nDescription des fonctions :\n\n1. Prise en charge de plusieurs types de diagrammes Mermaid : L'outil Mermaid Editor prend en charge plusieurs types de diagrammes Mermaid, notamment les organigrammes, les diagrammes de séquence, les diagrammes de classes, les diagrammes d'état, les diagrammes de relations entité-association, les diagrammes de Gantt, les cartes de voyage, les graphes Git et les diagrammes circulaires.\n\n2. Prise en charge de l'entrée de code Mermaid : Les utilisateurs peuvent saisir manuellement du code Mermaid pour créer des diagrammes.\n\n3. Prise en charge du code d'exemple prédéfini : L'outil Mermaid Editor fournit plusieurs types de code d'exemple, et les utilisateurs peuvent directement utiliser ces codes d'exemple pour créer des diagrammes.\n\n4. Prévisualisation en temps réel des diagrammes : Les utilisateurs peuvent prévisualiser les diagrammes générés en temps réel.\n\n5. Prise en charge du téléchargement des diagrammes : Les utilisateurs peuvent télécharger les diagrammes générés au format SVG.\n\n6. Prise en charge de la synchronisation automatique : Les utilisateurs peuvent choisir la fonction de synchronisation automatique. Lorsque le code Mermaid d'entrée change, l'outil régénérera automatiquement le diagramme.\n\n7. Prise en charge de plusieurs langues : L'outil Mermaid Editor prend en charge plusieurs langues, et les utilisateurs peuvent choisir leur langue préférée pour utiliser l'outil.\n\nInstructions :\n\n1. Ouvrez l'outil Mermaid Editor.\n\n2. Saisissez du code Mermaid dans la zone de saisie ou sélectionnez du code d'exemple prédéfini.\n\n3. Cliquez sur le bouton \"Générer\", et l'outil générera automatiquement le diagramme.\n\n4. Visualisez le diagramme généré dans la zone de prévisualisation.\n\n5. Si vous avez besoin de télécharger le diagramme, vous pouvez cliquer sur le bouton \"Télécharger\".\n\n6. Si vous avez besoin de la fonction de synchronisation automatique, vous pouvez activer le commutateur \"Synchronisation automatique\".\n\n7. Si vous avez besoin de changer de langue, vous pouvez sélectionner votre langue préférée dans la boîte de sélection de langue.\n\nNotes :\n\n1. L'outil Mermaid Editor doit être utilisé en ligne.\n\n2. Le format de code Mermaid pris en charge par l'outil Mermaid Editor est limité, et les utilisateurs doivent écrire du code selon le format spécifié.\n\n3. Les diagrammes générés par l'outil Mermaid Editor peuvent avoir des problèmes d'affichage en raison de la compatibilité du navigateur et d'autres raisons, et les utilisateurs doivent ajuster en fonction de la situation réelle.\n\n4. Le code d'exemple fourni par l'outil Mermaid Editor est fourni à titre indicatif uniquement, et les utilisateurs doivent le modifier en fonction de leurs besoins réels."
+  },
+  "it": {
+    "$name": "Editor Mermaid",
+    "$keywords": [
+      "mermaid",
+      "grafico",
+      "modifica",
+      "anteprima",
+      "editor",
+      "modifica online",
+      "codice di esempio preimpostato",
+      "anteprima in tempo reale",
+      "scarica grafico",
+      "auto-sincronizzazione",
+      "supporto multi-lingua"
+    ],
+    "$description": "Documentazione dello strumento Mermaid Editor\n\nMermaid Editor è uno strumento online per la creazione di grafici Mermaid che aiuta gli utenti a creare rapidamente vari tipi di grafici Mermaid. Questo strumento supporta diversi tipi di grafici Mermaid, tra cui diagrammi di flusso, diagrammi di sequenza, diagrammi delle classi, diagrammi di stato, diagrammi delle relazioni tra entità, diagrammi di Gantt, mappe di viaggio, grafici Git e grafici a torta. Gli utenti possono creare grafici inserendo il codice Mermaid o utilizzando il codice di esempio preimpostato e possono visualizzare in anteprima e scaricare i grafici generati in tempo reale.\n\nCasi d'uso:\n\n1. Modifica online di grafici Mermaid: gli utenti possono utilizzare lo strumento Mermaid Editor per modificare vari tipi di grafici Mermaid online senza installare alcun software.\n\n2. Creazione rapida di grafici Mermaid: lo strumento Mermaid Editor fornisce diversi tipi di codice di esempio e gli utenti possono utilizzare direttamente questi codici di esempio per creare grafici senza scrivere manualmente il codice.\n\n3. Anteprima e download in tempo reale dei grafici: gli utenti possono visualizzare in anteprima i grafici generati in tempo reale e scaricare i grafici generati in formato SVG.\n\nDescrizione delle funzioni:\n\n1. Supporto a diversi tipi di grafici Mermaid: lo strumento Mermaid Editor supporta diversi tipi di grafici Mermaid, tra cui diagrammi di flusso, diagrammi di sequenza, diagrammi delle classi, diagrammi di stato, diagrammi delle relazioni tra entità, diagrammi di Gantt, mappe di viaggio, grafici Git e grafici a torta.\n\n2. Supporto all'inserimento di codice Mermaid: gli utenti possono inserire manualmente il codice Mermaid per creare grafici.\n\n3. Supporto al codice di esempio preimpostato: lo strumento Mermaid Editor fornisce diversi tipi di codice di esempio e gli utenti possono utilizzare direttamente questi codici di esempio per creare grafici.\n\n4. Anteprima in tempo reale dei grafici: gli utenti possono visualizzare in anteprima i grafici generati in tempo reale.\n\n5. Supporto al download dei grafici: gli utenti possono scaricare i grafici generati in formato SVG.\n\n6. Supporto alla sincronizzazione automatica: gli utenti possono scegliere la funzione di sincronizzazione automatica. Quando il codice Mermaid inserito cambia, lo strumento rigenererà automaticamente il grafico.\n\n7. Supporto a diverse lingue: lo strumento Mermaid Editor supporta diverse lingue e gli utenti possono scegliere la lingua che preferiscono per utilizzare lo strumento.\n\nIstruzioni:\n\n1. Aprire lo strumento Mermaid Editor.\n\n2. Inserire il codice Mermaid nella casella di input o selezionare il codice di esempio preimpostato.\n\n3. Fare clic sul pulsante \"Genera\" e lo strumento genererà automaticamente il grafico.\n\n4. Visualizzare il grafico generato nell'area di anteprima.\n\n5. Se si desidera scaricare il grafico, è possibile fare clic sul pulsante \"Download\".\n\n6. Se si desidera la funzione di sincronizzazione automatica, è possibile attivare l'interruttore \"Sincronizzazione automatica\".\n\n7. Se si desidera cambiare lingua, è possibile selezionare la lingua preferita nella casella di selezione della lingua.\n\nNote:\n\n1. Lo strumento Mermaid Editor deve essere utilizzato online.\n\n2. Il formato del codice Mermaid supportato dallo strumento Mermaid Editor è limitato e gli utenti devono scrivere il codice secondo il formato specificato.\n\n3. I grafici generati dallo strumento Mermaid Editor possono presentare problemi di visualizzazione a causa della compatibilità del browser e di altre ragioni e gli utenti devono regolare in base alla situazione effettiva.\n\n4. Il codice di esempio fornito dallo strumento Mermaid Editor è solo a scopo di riferimento e gli utenti devono modificarlo in base alle esigenze effettive."
+  },
+  "ru": {
+    "$name": "Редактор Mermaid",
+    "$keywords": [
+      "mermaid",
+      "диаграмма",
+      "редактирование",
+      "предварительный просмотр",
+      "редактор",
+      "онлайн-редактирование",
+      "примеры кода",
+      "реальный просмотр",
+      "скачать диаграмму",
+      "авто-синхронизация",
+      "поддержка многих языков"
+    ],
+    "$description": "Документация по инструменту Mermaid Editor\n\nMermaid Editor - это онлайн-редактор диаграмм Mermaid, который помогает пользователям быстро создавать различные типы диаграмм Mermaid. Этот инструмент поддерживает несколько типов диаграмм Mermaid, включая блок-схемы, диаграммы последовательности, диаграммы классов, диаграммы состояний, диаграммы связей между сущностями, диаграммы Ганта, карты путешествий, графы Git и круговые диаграммы. Пользователи могут создавать диаграммы, вводя код Mermaid или используя предустановленный пример кода, и могут предварительно просматривать и загружать созданные диаграммы в режиме реального времени.\n\nВозможности использования:\n\n1. Онлайн-редактирование диаграмм Mermaid: Пользователи могут использовать инструмент Mermaid Editor для редактирования различных типов диаграмм Mermaid онлайн, не устанавливая какое-либо программное обеспечение.\n\n2. Быстрое создание диаграмм Mermaid: Инструмент Mermaid Editor предоставляет несколько типов примеров кода, и пользователи могут непосредственно использовать эти примеры для создания диаграмм без ручного написания кода.\n\n3. Предварительный просмотр и загрузка диаграмм в режиме реального времени: Пользователи могут предварительно просматривать созданные диаграммы в режиме реального времени и загружать созданные диаграммы в формате SVG.\n\nОписание функций:\n\n1. Поддержка нескольких типов диаграмм Mermaid: Инструмент Mermaid Editor поддерживает несколько типов диаграмм Mermaid, включая блок-схемы, диаграммы последовательности, диаграммы классов, диаграммы состояний, диаграммы связей между сущностями, диаграммы Ганта, карты путешествий, графы Git и круговые диаграммы.\n\n2. Поддержка ввода кода Mermaid: Пользователи могут вручную вводить код Mermaid для создания диаграмм.\n\n3. Поддержка предустановленного примера кода: Инструмент Mermaid Editor предоставляет несколько типов примеров кода, и пользователи могут непосредственно использовать эти примеры для создания диаграмм.\n\n4. Предварительный просмотр диаграмм в режиме реального времени: Пользователи могут предварительно просматривать созданные диаграммы в режиме реального времени.\n\n5. Поддержка загрузки диаграмм: Пользователи могут загружать созданные диаграммы в формате SVG.\n\n6. Поддержка автоматической синхронизации: Пользователи могут выбрать функцию автоматической синхронизации. При изменении вводимого кода Mermaid инструмент автоматически пересоздаст диаграмму.\n\n7. Поддержка нескольких языков: Инструмент Mermaid Editor поддерживает несколько языков, и пользователи могут выбрать свой родной язык для использования инструмента.\n\nИнструкции:\n\n1. Откройте инструмент Mermaid Editor.\n\n2. Введите код Mermaid в поле ввода или выберите предустановленный пример кода.\n\n3. Нажмите кнопку \"Создать\", и инструмент автоматически создаст диаграмму.\n\n4. Просмотрите созданную диаграмму в области предварительного просмотра.\n\n5. Если вам нужно загрузить диаграмму, вы можете нажать кнопку \"Загрузить\".\n\n6. Если вам нужна функция автоматической синхронизации, вы можете включить переключатель \"Автоматическая синхронизация\".\n\n7. Если вам нужно изменить язык, вы можете выбрать свой родной язык в поле выбора языка.\n\nПримечания:\n\n1. Инструмент Mermaid Editor должен использоваться онлайн.\n\n2. Формат кода Mermaid, поддерживаемый инструментом Mermaid Editor, ограничен, и пользователи должны писать код в соответствии с указанным форматом.\n\n3. Диаграммы, созданные инструментом Mermaid Editor, могут иметь проблемы с отображением из-за совместимости браузера и других причин, и пользователи должны корректировать их в соответствии с реальной ситуацией.\n\n4. Предоставленный инструментом Mermaid Editor пример кода предназначен только для ознакомления, и пользователи должны изменять его в соответствии с реальными потребностями."
+  },
+  "pt": {
+    "$name": "Editor Mermaid",
+    "$keywords": [
+      "mermaid",
+      "gráfico",
+      "editar",
+      "visualizar",
+      "editor",
+      "edição online",
+      "código de exemplo pré-definido",
+      "visualização em tempo real",
+      "baixar gráfico",
+      "auto-sincronização",
+      "suporte a vários idiomas"
+    ],
+    "$description": "Documentação da Ferramenta de Edição de Sereia\n\nO Mermaid Editor é um editor de gráficos Mermaid online que ajuda os usuários a criar rapidamente vários tipos de gráficos Mermaid. Esta ferramenta suporta vários tipos de gráficos Mermaid, incluindo fluxogramas, diagramas de sequência, diagramas de classe, diagramas de estado, diagramas de relacionamento de entidades, gráficos de Gantt, mapas de jornada, gráficos Git e gráficos de pizza. Os usuários podem criar gráficos inserindo código Mermaid ou usando código de exemplo pré-definido e podem visualizar e baixar os gráficos gerados em tempo real.\n\nCasos de uso:\n\n1. Edição online de gráficos Mermaid: Os usuários podem usar a ferramenta Mermaid Editor para editar vários tipos de gráficos Mermaid online sem instalar nenhum software.\n\n2. Criação rápida de gráficos Mermaid: A ferramenta Mermaid Editor fornece vários tipos de código de exemplo, e os usuários podem usar diretamente esses códigos de exemplo para criar gráficos sem escrever código manualmente.\n\n3. Visualização e download em tempo real de gráficos: Os usuários podem visualizar os gráficos gerados em tempo real e baixar os gráficos gerados no formato SVG.\n\nDescrição da função:\n\n1. Suporte a vários tipos de gráficos Mermaid: A ferramenta Mermaid Editor suporta vários tipos de gráficos Mermaid, incluindo fluxogramas, diagramas de sequência, diagramas de classe, diagramas de estado, diagramas de relacionamento de entidades, gráficos de Gantt, mapas de jornada, gráficos Git e gráficos de pizza.\n\n2. Suporte à entrada de código Mermaid: Os usuários podem inserir manualmente o código Mermaid para criar gráficos.\n\n3. Suporte a código de exemplo pré-definido: A ferramenta Mermaid Editor fornece vários tipos de código de exemplo, e os usuários podem usar diretamente esses códigos de exemplo para criar gráficos.\n\n4. Visualização em tempo real de gráficos: Os usuários podem visualizar os gráficos gerados em tempo real.\n\n5. Suporte ao download de gráficos: Os usuários podem baixar os gráficos gerados no formato SVG.\n\n6. Suporte à sincronização automática: Os usuários podem escolher a função de sincronização automática. Quando o código Mermaid inserido é alterado, a ferramenta regenerará automaticamente o gráfico.\n\n7. Suporte a vários idiomas: A ferramenta Mermaid Editor suporta vários idiomas, e os usuários podem escolher seu idioma familiar para usar a ferramenta.\n\nInstruções:\n\n1. Abra a ferramenta Mermaid Editor.\n\n2. Insira o código Mermaid na caixa de entrada ou selecione o código de exemplo pré-definido.\n\n3. Clique no botão \"Gerar\", e a ferramenta gerará automaticamente o gráfico.\n\n4. Visualize o gráfico gerado na área de visualização.\n\n5. Se precisar baixar o gráfico, clique no botão \"Baixar\".\n\n6. Se precisar da função de sincronização automática, ative a chave \"Sincronização Automática\".\n\n7. Se precisar mudar de idioma, selecione seu idioma familiar na caixa de seleção de idioma.\n\nNotas:\n\n1. A ferramenta Mermaid Editor precisa ser usada online.\n\n2. O formato de código Mermaid suportado pela ferramenta Mermaid Editor é limitado, e os usuários precisam escrever o código de acordo com o formato especificado.\n\n3. Os gráficos gerados pela ferramenta Mermaid Editor podem ter problemas de exibição devido à compatibilidade do navegador e outras razões, e os usuários precisam ajustar de acordo com a situação real.\n\n4. O código de exemplo fornecido pela ferramenta Mermaid Editor é apenas para referência, e os usuários precisam modificá-lo de acordo com as necessidades reais."
+  },
+  "en": {
+    "$name": "Mermaid Editor",
+    "$keywords": [
+      "mermaid",
+      "chart",
+      "edit",
+      "preview",
+      "editor",
+      "online editing",
+      "preset example code",
+      "real-time preview",
+      "download chart",
+      "auto-sync",
+      "multi-language support"
+    ],
+    "$description": "Mermaid Editor Tool Documentation\n\nMermaid Editor is an online Mermaid chart editor that helps users quickly create various types of Mermaid charts. This tool supports multiple types of Mermaid charts, including flowcharts, sequence diagrams, class diagrams, state diagrams, entity relationship diagrams, Gantt charts, journey maps, Git graphs, and pie charts. Users can create charts by entering Mermaid code or using preset example code, and can preview and download the generated charts in real time.\n\nUse cases:\n\n1. Online editing of Mermaid charts: Users can use the Mermaid Editor tool to edit various types of Mermaid charts online without installing any software.\n\n2. Quickly create Mermaid charts: Mermaid Editor tool provides multiple types of example code, and users can directly use these example codes to create charts without manually writing code.\n\n3. Real-time preview and download of charts: Users can preview the generated charts in real time and download the generated SVG format charts.\n\nFunction description:\n\n1. Support multiple types of Mermaid charts: Mermaid Editor tool supports multiple types of Mermaid charts, including flowcharts, sequence diagrams, class diagrams, state diagrams, entity relationship diagrams, Gantt charts, journey maps, Git graphs, and pie charts.\n\n2. Support input of Mermaid code: Users can manually enter Mermaid code to create charts.\n\n3. Support preset example code: Mermaid Editor tool provides multiple types of example code, and users can directly use these example codes to create charts.\n\n4. Real-time preview of charts: Users can preview the generated charts in real time.\n\n5. Support downloading charts: Users can download the generated SVG format charts.\n\n6. Support automatic synchronization: Users can choose the automatic synchronization function. When the input Mermaid code changes, the tool will automatically regenerate the chart.\n\n7. Support multiple languages: Mermaid Editor tool supports multiple languages, and users can choose their familiar language to use the tool.\n\nInstructions:\n\n1. Open the Mermaid Editor tool.\n\n2. Enter Mermaid code in the input box or select preset example code.\n\n3. Click the \"Generate\" button, and the tool will automatically generate the chart.\n\n4. View the generated chart in the preview area.\n\n5. If you need to download the chart, you can click the \"Download\" button.\n\n6. If you need automatic synchronization function, you can turn on the \"Automatic Synchronization\" switch.\n\n7. If you need to switch languages, you can select your familiar language in the language selection box.\n\nNotes:\n\n1. Mermaid Editor tool needs to be used online.\n\n2. The Mermaid code format supported by Mermaid Editor tool is limited, and users need to write code according to the specified format.\n\n3. The charts generated by Mermaid Editor tool may have display problems due to browser compatibility and other reasons, and users need to adjust according to the actual situation.\n\n4. The example code provided by Mermaid Editor tool is for reference only, and users need to modify it according to actual needs."
   }
+}

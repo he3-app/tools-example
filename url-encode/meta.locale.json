@@ -1,99 +1,167 @@
 {
-  "en": {
-    "$name": "URL Encode",
-    "$description": "URL Encode",
-    "$keywords": [
-      "url",
-      "uri",
-      "Encode"
-    ]
-  },
-  "es": {
-    "$name": "Codificación de URL",
-    "$description": "Codificación de URL",
+  "zh-cn": {
+    "$name": "URL编码",
     "$keywords": [
       "URL",
-      "uri",
-      "Codificar"
-    ]
-  },
-  "de": {
-    "$name": "URL-Codierung",
-    "$description": "URL-Codierung",
-    "$keywords": [
-      "URL",
-      "uri",
-      "Kodieren"
-    ]
-  },
-  "pt": {
-    "$name": "Codificação de URL",
-    "$description": "Codificação de URL",
-    "$keywords": [
-      "url",
-      "uri",
-      "Codificar"
-    ]
-  },
-  "ko": {
-    "$name": "URL 인코딩",
-    "$description": "URL 인코딩",
-    "$keywords": [
-      "URL",
-      "우리",
-      "인코딩"
-    ]
+      "URI",
+      "编码",
+      "URL编码",
+      "URL解码",
+      "URI编码",
+      "URI解码",
+      "特殊字符",
+      "Web开发"
+    ],
+    "$description": "URL编码工具是一种用于编码和解码URL的工具。它可以使用URI编码或URI组件编码来编码URL，以避免在URL中使用特殊字符时出现错误。\n\n特点：\n\n1. 支持URI编码和URI组件编码。\n\n2. 将需要编码的URL输入到工具中，工具将自动对其进行编码，并在输出区域显示编码后的URL。\n\n3. 将需要解码的URL输入到工具中，工具将自动对其进行解码，并在输出区域显示解码后的URL。\n\n用途：\n\n1. URL编码：在开发Web应用程序时，经常需要对URL进行编码以避免错误。使用URL编码工具可以轻松地对URL进行编码，以避免在URL中使用特殊字符时出现错误。\n\n2. URL解码：在处理从Web应用程序接收到的URL时，可能需要解码URL以更好地理解其内容。使用URL编码工具可以轻松地解码URL以更好地理解其内容。\n\n3. URL格式化：在处理大量URL时，可能需要对它们进行格式化以更好地查看和理解它们的结构。使用URL编码工具可以轻松地格式化URL以更好地查看和理解它们的结构。"
   },
   "zh-tw": {
     "$name": "URL 編碼",
-    "$description": "URL 編碼",
-    "$keywords": [
-      "網址",
-      "編碼"
-    ]
-  },
-  "zh-cn": {
-    "$name": "URL 编码",
-    "$description": "URL 编码",
-    "$keywords": [
-      "网址",
-      "编码"
-    ]
-  },
-  "ru": {
-    "$name": "URL кодировать",
-    "$description": "URL кодировать",
     "$keywords": [
       "URL",
-      "ури",
-      "Кодировать"
-    ]
+      "URI",
+      "編碼",
+      "URL編碼",
+      "URL解碼",
+      "URI編碼",
+      "URI解碼",
+      "特殊字元",
+      "網頁開發"
+    ],
+    "$description": "URL編碼工具是一個用於編碼和解碼URL的工具。它可以使用URI編碼或URI組件編碼來編碼URL，以避免在URL中使用特殊字符時出現錯誤。\n\n功能：\n\n1. 支持URI編碼和URI組件編碼。\n\n2. 將需要編碼的URL輸入到工具中，工具將自動將其編碼並在輸出區域顯示編碼後的URL。\n\n3. 將需要解碼的URL輸入到工具中，工具將自動將其解碼並在輸出區域顯示解碼後的URL。\n\n用途：\n\n1. URL編碼：在開發Web應用程序時，通常需要編碼URL以避免錯誤。使用URL編碼工具可以輕鬆地編碼URL，以避免在URL中使用特殊字符時出現錯誤。\n\n2. URL解碼：在處理從Web應用程序接收到的URL時，可能需要解碼URL以更好地理解其內容。使用URL編碼工具可以輕鬆地解碼URL，以更好地理解其內容。\n\n3. URL格式化：在處理大量URL時，可能需要將它們格式化以更好地查看和理解它們的結構。使用URL編碼工具可以輕鬆地格式化URL，以更好地查看和理解它們的結構。"
+  },
+  "es": {
+    "$name": "Codificación de URL",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Codificar",
+      "Codificación de URL",
+      "Decodificar URL",
+      "Codificación de URI",
+      "Decodificar URI",
+      "caracteres especiales",
+      "desarrollo web"
+    ],
+    "$description": "La herramienta de codificación de URL es una herramienta utilizada para codificar y decodificar URLs. Puede codificar URLs utilizando la codificación URI o la codificación de componente URI para evitar errores al utilizar caracteres especiales en las URLs.\n\nCaracterísticas:\n\n1. Admite la codificación URI y la codificación de componente URI.\n\n2. Ingrese la URL que necesita ser codificada en la herramienta, y la herramienta la codificará automáticamente y mostrará la URL codificada en el área de salida.\n\n3. Ingrese la URL que necesita ser decodificada en la herramienta, y la herramienta la decodificará automáticamente y mostrará la URL decodificada en el área de salida.\n\nCasos de uso:\n\n1. Codificación de URL: al desarrollar aplicaciones web, a menudo es necesario codificar URLs para evitar errores. Usando la herramienta de codificación de URL se pueden codificar fácilmente las URLs para evitar errores al utilizar caracteres especiales en las URLs.\n\n2. Decodificación de URL: al procesar URLs recibidas de aplicaciones web, puede ser necesario decodificar las URLs para comprender mejor su contenido. Usando la herramienta de codificación de URL se pueden decodificar fácilmente las URLs para comprender mejor su contenido.\n\n3. Formato de URL: al procesar un gran número de URLs, puede ser necesario formatearlas para ver y comprender mejor su estructura. Usando la herramienta de codificación de URL se pueden formatear fácilmente las URLs para ver y comprender mejor su estructura."
+  },
+  "ja": {
+    "$name": "URLエンコーディング",
+    "$keywords": [
+      "URL",
+      "URI",
+      "エンコード",
+      "URLエンコーディング",
+      "URLデコーディング",
+      "URIエンコーディング",
+      "URIデコーディング",
+      "特殊文字",
+      "Web開発"
+    ],
+    "$description": "URLエンコーディングツールは、URLをエンコードおよびデコードするために使用されるツールです。URIエンコーディングまたはURIコンポーネントエンコーディングを使用してURL内の特殊文字を使用する際のエラーを回避することができます。\n\n特徴：\n\n1. URIエンコーディングおよびURIコンポーネントエンコーディングをサポートしています。\n\n2. ツールにエンコードする必要があるURLを入力すると、ツールが自動的にエンコードし、出力エリアにエンコードされたURLを表示します。\n\n3. ツールにデコードする必要があるURLを入力すると、ツールが自動的にデコードし、出力エリアにデコードされたURLを表示します。\n\n使用例：\n\n1. URLエンコーディング：Webアプリケーションを開発する際には、しばしばエラーを回避するためにURLをエンコードする必要があります。URLエンコーディングツールを使用することで、URL内の特殊文字を使用する際のエラーを回避するために簡単にURLをエンコードすることができます。\n\n2. URLデコーディング：Webアプリケーションから受信したURLを処理する際には、URLをデコードして内容をより理解する必要がある場合があります。URLエンコーディングツールを使用することで、URLを簡単にデコードして内容をより理解することができます。\n\n3. URLフォーマット：大量のURLを処理する際には、構造をより見やすく理解するためにフォーマットする必要がある場合があります。URLエンコーディングツールを使用することで、URLを簡単にフォーマットして構造をより見やすく理解することができます。"
+  },
+  "ko": {
+    "$name": "URL 인코딩",
+    "$keywords": [
+      "URL",
+      "URI",
+      "인코딩",
+      "URL 인코딩",
+      "URL 디코딩",
+      "URI 인코딩",
+      "URI 디코딩",
+      "특수 문자",
+      "웹 개발"
+    ],
+    "$description": "URL 인코딩 도구는 URL을 인코딩하고 디코딩하는 데 사용되는 도구입니다. 특수 문자를 사용할 때 오류를 피하기 위해 URI 인코딩 또는 URI 구성 요소 인코딩을 사용하여 URL을 인코딩할 수 있습니다.\n\n기능:\n\n1. URI 인코딩 및 URI 구성 요소 인코딩을 지원합니다.\n\n2. 도구에 인코딩해야 할 URL을 입력하면 자동으로 인코딩하고 출력 영역에 인코딩된 URL을 표시합니다.\n\n3. 도구에 디코딩해야 할 URL을 입력하면 자동으로 디코딩하고 출력 영역에 디코딩된 URL을 표시합니다.\n\n사용 사례:\n\n1. URL 인코딩: 웹 애플리케이션을 개발할 때 특수 문자를 사용하여 오류를 피하기 위해 URL을 인코딩해야 할 때가 있습니다. URL 인코딩 도구를 사용하면 URL을 쉽게 인코딩하여 URL에서 특수 문자를 사용할 때 오류를 피할 수 있습니다.\n\n2. URL 디코딩: 웹 애플리케이션에서 받은 URL을 처리할 때 URL을 디코딩하여 내용을 더 잘 이해할 필요가 있을 수 있습니다. URL 인코딩 도구를 사용하면 URL을 쉽게 디코딩하여 내용을 더 잘 이해할 수 있습니다.\n\n3. URL 포맷팅: 많은 수의 URL을 처리할 때 URL의 구조를 더 잘 보고 이해하기 위해 URL을 포맷팅해야 할 필요가 있을 수 있습니다. URL 인코딩 도구를 사용하면 URL을 쉽게 포맷팅하여 URL의 구조를 더 잘 볼 수 있습니다."
+  },
+  "de": {
+    "$name": "URL-Codierung",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Kodieren",
+      "URL-Kodierung",
+      "URL-Decodierung",
+      "URI-Kodierung",
+      "URI-Decodierung",
+      "Sonderzeichen",
+      "Webentwicklung"
+    ],
+    "$description": "URL Encoding Tool ist ein Werkzeug, das verwendet wird, um URLs zu kodieren und zu dekodieren. Es kann URLs mit URI-Kodierung oder URI-Komponenten-Kodierung kodieren, um Fehler bei der Verwendung von Sonderzeichen in URLs zu vermeiden.\n\nFunktionen:\n\n1. Unterstützt URI-Kodierung und URI-Komponenten-Kodierung.\n\n2. Geben Sie die URL ein, die kodiert werden muss, und das Tool wird sie automatisch kodieren und die kodierten URL im Ausgabe-Bereich anzeigen.\n\n3. Geben Sie die URL ein, die dekodiert werden muss, und das Tool wird sie automatisch dekodieren und die dekodierte URL im Ausgabe-Bereich anzeigen.\n\nAnwendungsfälle:\n\n1. URL-Kodierung: Bei der Entwicklung von Webanwendungen ist es oft notwendig, URLs zu kodieren, um Fehler zu vermeiden. Mit dem URL Encoding Tool können URLs einfach kodiert werden, um Fehler bei der Verwendung von Sonderzeichen in URLs zu vermeiden.\n\n2. URL-Dekodierung: Bei der Verarbeitung von URLs, die von Webanwendungen empfangen wurden, kann es notwendig sein, URLs zu dekodieren, um ihren Inhalt besser zu verstehen. Mit dem URL Encoding Tool können URLs einfach dekodiert werden, um ihren Inhalt besser zu verstehen.\n\n3. URL-Formatierung: Bei der Verarbeitung einer großen Anzahl von URLs kann es notwendig sein, sie zu formatieren, um ihre Struktur besser zu sehen und zu verstehen. Mit dem URL Encoding Tool können URLs einfach formatiert werden, um ihre Struktur besser zu sehen und zu verstehen."
   },
   "fr": {
     "$name": "Encodage d'URL",
-    "$description": "Encodage d'URL",
     "$keywords": [
       "URL",
-      "uri",
-      "Encoder"
-    ]
-  },
-  "ja": {
-    "$name": "URL エンコード",
-    "$description": "URL エンコード",
-    "$keywords": [
-      "URL",
-      "うり",
-      "エンコード"
-    ]
+      "URI",
+      "Encodage",
+      "Encodage d'URL",
+      "Décodage d'URL",
+      "Encodage d'URI",
+      "Décodage d'URI",
+      "caractères spéciaux",
+      "développement web"
+    ],
+    "$description": "Outil d'encodage d'URL est un outil utilisé pour encoder et décoder des URL. Il peut encoder des URL en utilisant l'encodage URI ou l'encodage de composant URI pour éviter les erreurs lors de l'utilisation de caractères spéciaux dans les URL.\n\nFonctionnalités:\n\n1. Prend en charge l'encodage URI et l'encodage de composant URI.\n\n2. Entrez l'URL qui doit être encodée dans l'outil, et l'outil l'encodera automatiquement et affichera l'URL encodée dans la zone de sortie.\n\n3. Entrez l'URL qui doit être décodée dans l'outil, et l'outil la décodera automatiquement et affichera l'URL décodée dans la zone de sortie.\n\nCas d'utilisation:\n\n1. Encodage d'URL: Lors du développement d'applications Web, il est souvent nécessaire d'encoder des URL pour éviter les erreurs. En utilisant l'outil d'encodage d'URL, il est facile d'encoder des URL pour éviter les erreurs lors de l'utilisation de caractères spéciaux dans les URL.\n\n2. Décodage d'URL: Lors du traitement d'URL reçues à partir d'applications Web, il peut être nécessaire de décoder des URL pour mieux comprendre leur contenu. En utilisant l'outil d'encodage d'URL, il est facile de décoder des URL pour mieux comprendre leur contenu.\n\n3. Formatage d'URL: Lors du traitement d'un grand nombre d'URL, il peut être nécessaire de les formater pour mieux visualiser et comprendre leur structure. En utilisant l'outil d'encodage d'URL, il est facile de formater des URL pour mieux visualiser et comprendre leur structure."
   },
   "it": {
     "$name": "Codifica URL",
-    "$description": "Codifica URL",
     "$keywords": [
       "URL",
-      "uri",
-      "Codificare"
-    ]
+      "URI",
+      "Codifica",
+      "Codifica URL",
+      "Decodifica URL",
+      "Codifica URI",
+      "Decodifica URI",
+      "caratteri speciali",
+      "sviluppo web"
+    ],
+    "$description": "Lo strumento di codifica URL è uno strumento utilizzato per codificare e decodificare gli URL. Può codificare gli URL utilizzando la codifica URI o la codifica del componente URI per evitare errori quando si utilizzano caratteri speciali negli URL.\n\nCaratteristiche:\n\n1. Supporta la codifica URI e la codifica del componente URI.\n\n2. Inserisci l'URL che deve essere codificato nello strumento e lo strumento lo codificherà automaticamente e visualizzerà l'URL codificato nell'area di output.\n\n3. Inserisci l'URL che deve essere decodificato nello strumento e lo strumento lo decodificherà automaticamente e visualizzerà l'URL decodificato nell'area di output.\n\nCasi d'uso:\n\n1. Codifica URL: durante lo sviluppo di applicazioni web, è spesso necessario codificare gli URL per evitare errori. Utilizzando lo strumento di codifica URL è possibile codificare facilmente gli URL per evitare errori quando si utilizzano caratteri speciali negli URL.\n\n2. Decodifica URL: durante l'elaborazione degli URL ricevuti dalle applicazioni web, potrebbe essere necessario decodificare gli URL per comprendere meglio il loro contenuto. Utilizzando lo strumento di codifica URL è possibile decodificare facilmente gli URL per comprendere meglio il loro contenuto.\n\n3. Formattazione URL: durante l'elaborazione di un gran numero di URL, potrebbe essere necessario formattarli per visualizzare e comprendere meglio la loro struttura. Utilizzando lo strumento di codifica URL è possibile formattare facilmente gli URL per visualizzare e comprendere meglio la loro struttura."
+  },
+  "ru": {
+    "$name": "Кодирование URL",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Кодирование",
+      "Кодирование URL",
+      "Декодирование URL",
+      "Кодирование URI",
+      "Декодирование URI",
+      "специальные символы",
+      "веб-разработка"
+    ],
+    "$description": "Инструмент URL Encoding Tool используется для кодирования и декодирования URL-адресов. Он может кодировать URL-адреса с использованием кодирования URI или кодирования компонентов URI, чтобы избежать ошибок при использовании специальных символов в URL-адресах.\n\nОсобенности:\n\n1. Поддерживает кодирование URI и кодирование компонентов URI.\n\n2. Введите URL-адрес, который нужно закодировать в инструмент, и инструмент автоматически закодирует его и отобразит закодированный URL-адрес в области вывода.\n\n3. Введите URL-адрес, который нужно декодировать в инструмент, и инструмент автоматически декодирует его и отобразит декодированный URL-адрес в области вывода.\n\nВарианты использования:\n\n1. Кодирование URL-адресов: При разработке веб-приложений часто необходимо кодировать URL-адреса, чтобы избежать ошибок. Использование инструмента URL Encoding Tool позволяет легко закодировать URL-адреса, чтобы избежать ошибок при использовании специальных символов в URL-адресах.\n\n2. Декодирование URL-адресов: При обработке URL-адресов, полученных от веб-приложений, может потребоваться декодирование URL-адресов для лучшего понимания их содержания. Использование инструмента URL Encoding Tool позволяет легко декодировать URL-адресы для лучшего понимания их содержания.\n\n3. Форматирование URL-адресов: При обработке большого количества URL-адресов может потребоваться их форматирование для лучшего просмотра и понимания их структуры. Использование инструмента URL Encoding Tool позволяет легко форматировать URL-адресы для лучшего просмотра и понимания их структуры."
+  },
+  "pt": {
+    "$name": "Codificação de URL",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Codificar",
+      "Codificação de URL",
+      "Decodificar URL",
+      "Codificação de URI",
+      "Decodificar URI",
+      "caracteres especiais",
+      "desenvolvimento web"
+    ],
+    "$description": "A Ferramenta de Codificação de URL é uma ferramenta usada para codificar e decodificar URLs. Ela pode codificar URLs usando a codificação URI ou a codificação de componente URI para evitar erros ao usar caracteres especiais em URLs.\n\nRecursos:\n\n1. Suporta codificação URI e codificação de componente URI.\n\n2. Insira a URL que precisa ser codificada na ferramenta e a ferramenta a codificará automaticamente e exibirá a URL codificada na área de saída.\n\n3. Insira a URL que precisa ser decodificada na ferramenta e a ferramenta a decodificará automaticamente e exibirá a URL decodificada na área de saída.\n\nCasos de uso:\n\n1. Codificação de URL: ao desenvolver aplicativos da web, muitas vezes é necessário codificar URLs para evitar erros. Usando a Ferramenta de Codificação de URL, é possível codificar facilmente URLs para evitar erros ao usar caracteres especiais em URLs.\n\n2. Decodificação de URL: ao processar URLs recebidas de aplicativos da web, pode ser necessário decodificar URLs para entender melhor seu conteúdo. Usando a Ferramenta de Codificação de URL, é possível decodificar facilmente URLs para entender melhor seu conteúdo.\n\n3. Formatação de URL: ao processar um grande número de URLs, pode ser necessário formatá-las para visualizar e entender melhor sua estrutura. Usando a Ferramenta de Codificação de URL, é possível formatar facilmente URLs para visualizar e entender melhor sua estrutura."
+  },
+  "en": {
+    "$name": "URL Encoding",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Encode",
+      "URL encoding",
+      "URL decoding",
+      "URI encoding",
+      "URI decoding",
+      "special characters",
+      "web development"
+    ],
+    "$description": "URL Encoding Tool is a tool used to encode and decode URLs. It can encode URLs using URI encoding or URI component encoding to avoid errors when using special characters in URLs.\n\nFeatures:\n\n1. Supports URI encoding and URI component encoding.\n\n2. Enter the URL that needs to be encoded into the tool, and the tool will automatically encode it and display the encoded URL in the output area.\n\n3. Enter the URL that needs to be decoded into the tool, and the tool will automatically decode it and display the decoded URL in the output area.\n\nUse cases:\n\n1. URL encoding: When developing web applications, it is often necessary to encode URLs to avoid errors. Using the URL Encoding Tool can easily encode URLs to avoid errors when using special characters in URLs.\n\n2. URL decoding: When processing URLs received from web applications, it may be necessary to decode URLs to better understand their content. Using the URL Encoding Tool can easily decode URLs to better understand their content.\n\n3. URL formatting: When processing a large number of URLs, it may be necessary to format them to better view and understand their structure. Using the URL Encoding Tool can easily format URLs to better view and understand their structure."
   }
 }

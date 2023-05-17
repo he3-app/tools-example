@@ -10,18 +10,25 @@
     "id": "uuid-parser",
     "name": "UUID Parser",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "isPublic": true,
     "repository": "",
     "category": [
       "programming"
     ],
-    "description": "Parse UUID",
+    "description": "UUID Parser is a tool used to parse UUID strings. It can parse UUID strings into standard format, version number, variant, and other information, which is displayed in the output area of the tool.\n\nFeatures:\n\n1. Paste or input the UUID string into the tool.\n\n2. The tool will automatically parse the UUID string and display the parsing result.\n\n3. The parsing result includes standard format, version number, variant, and other information.\n\nUse cases:\n\n1. Development and testing: During the development or testing process, developers often need to view the parsing result of UUID strings. Using the UUID Parser tool can quickly parse UUID strings and view the parsing result.\n\n2. Data analysis: Data analysts need to process and analyze various UUID strings. Using this tool, they can easily parse UUID strings into standard format, version number, variant, and other information, which helps them better understand the data structure and content.\n\n3. Code review: During the code review process, reviewers can use the UUID Parser tool to parse UUID strings, making it easier to view and understand the data structure.",
     "keywords": [
       "UUID",
       "ID",
       "parse",
-      "inspect"
+      "inspect",
+      "UUID parsing",
+      "UUID string",
+      "UUID format",
+      "version number",
+      "variant",
+      "data analysis",
+      "code review"
     ],
     "relatedToolId": []
   },

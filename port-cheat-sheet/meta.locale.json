@@ -1,135 +1,189 @@
 {
-  "zh": {
-    "$name": "端口清单",
-    "$description": "网络端口信息参考",
+  "zh-cn": {
+    "$name": "端口速查表",
     "$keywords": [
       "端口",
+      "作弊",
+      "表",
+      "TCP",
+      "UDP",
       "网络",
-      "参考",
-      "查询",
-      "说明"
-    ]
+      "端口号",
+      "服务名称",
+      "网络管理",
+      "开发测试",
+      "安全分析"
+    ],
+    "$description": "端口速查表是一种工具，用于查看端口号及其对应的服务。用户可以在搜索框中输入端口号或服务名称，工具将自动匹配并显示相应的端口号和服务名称。此外，该工具还提供了一个图例，解释了不同颜色端口号的含义。\n\n特点：\n\n1. 在搜索框中输入端口号或服务名称，工具将自动匹配并显示相应的端口号和服务名称。\n\n2. 该工具提供了一个图例，解释了不同颜色端口号的含义。\n\n3. 用户可以单击端口号，工具将自动滚动页面到相应的端口号位置，并将端口号的背景颜色设置为珊瑚色。3秒后，颜色将恢复到原始状态。\n\n用例：\n\n1. 网络管理员：网络管理员可以使用端口速查表查看端口号及其对应的服务，以更好地管理网络。\n\n2. 开发人员：开发人员可以使用端口速查表查看端口号及其对应的服务，以更好地开发和测试网络应用程序。\n\n3. 安全研究人员：安全研究人员可以使用端口速查表查看端口号及其对应的服务，以更好地分析网络安全问题。"
   },
-  "en": {
-    "$name": "Ports Cheatsheet",
-    "$description": "Network ports references",
+  "zh-tw": {
+    "$name": "連接埠速查表",
+    "$keywords": [
+      "埠",
+      "秘訣",
+      "表",
+      "TCP",
+      "UDP",
+      "網絡",
+      "埠號",
+      "服務名稱",
+      "網絡管理",
+      "開發測試",
+      "安全分析"
+    ],
+    "$description": "Port Cheatsheet 是一個工具，用於查看端口號和相應的服務。用戶可以在搜索框中輸入端口號或服務名稱，工具將自動匹配並顯示相應的端口號和服務名稱。此外，該工具還提供了一個圖例，解釋不同顏色端口號的含義。\n\n功能：\n\n1. 在搜索框中輸入端口號或服務名稱，工具將自動匹配並顯示相應的端口號和服務名稱。\n\n2. 該工具提供了一個圖例，解釋不同顏色端口號的含義。\n\n3. 用戶可以點擊一個端口號，工具將自動滾動頁面到相應的端口號位置，並將端口號的背景顏色設置為珊瑚色。 3秒後，顏色將恢復到原來的狀態。\n\n用例：\n\n1. 網絡管理員：網絡管理員可以使用 Port Cheatsheet 查看端口號和相應的服務，以更好地管理網絡。\n\n2. 開發人員：開發人員可以使用 Port Cheatsheet 查看端口號和相應的服務，以更好地開發和測試網絡應用程序。\n\n3. 安全研究人員：安全研究人員可以使用 Port Cheatsheet 查看端口號和相應的服務，以更好地分析網絡安全問題。"
+  },
+  "es": {
+    "$name": "Port Cheatsheet",
+    "$keywords": [
+      "puerto",
+      "trampa",
+      "hoja",
+      "TCP",
+      "UDP",
+      "red",
+      "Número de puerto",
+      "Nombre del servicio",
+      "Gestión de redes",
+      "Pruebas de desarrollo",
+      "Análisis de seguridad"
+    ],
+    "$description": "La Hoja de Trucos de Puertos es una herramienta utilizada para ver los números de puerto y sus servicios correspondientes. Los usuarios pueden ingresar un número de puerto o nombre de servicio en el cuadro de búsqueda, y la herramienta coincidirá y mostrará automáticamente el número de puerto y el nombre del servicio correspondiente. Además, la herramienta proporciona una leyenda para explicar el significado de los números de puerto de diferentes colores.\n\nCaracterísticas:\n\n1. Ingrese un número de puerto o nombre de servicio en el cuadro de búsqueda, y la herramienta coincidirá y mostrará automáticamente el número de puerto y el nombre del servicio correspondiente.\n\n2. La herramienta proporciona una leyenda para explicar el significado de los números de puerto de diferentes colores.\n\n3. Los usuarios pueden hacer clic en un número de puerto, y la herramienta automáticamente desplazará la página a la posición del número de puerto correspondiente y establecerá el color de fondo del número de puerto en coral. Después de 3 segundos, el color volverá a su estado original.\n\nCasos de uso:\n\n1. Administradores de red: Los administradores de red pueden usar la Hoja de Trucos de Puertos para ver los números de puerto y sus servicios correspondientes para administrar mejor la red.\n\n2. Desarrolladores: Los desarrolladores pueden usar la Hoja de Trucos de Puertos para ver los números de puerto y sus servicios correspondientes para desarrollar y probar mejor las aplicaciones de red.\n\n3. Investigadores de seguridad: Los investigadores de seguridad pueden usar la Hoja de Trucos de Puertos para ver los números de puerto y sus servicios correspondientes para analizar mejor los problemas de seguridad de la red."
+  },
+  "ja": {
+    "$name": "ポートチートシート",
+    "$keywords": [
+      "ポート",
+      "チート",
+      "シート",
+      "TCP",
+      "UDP",
+      "ネットワーク",
+      "ポート番号",
+      "サービス名",
+      "ネットワーク管理",
+      "開発テスト",
+      "セキュリティ分析"
+    ],
+    "$description": "ポートチートシートは、ポート番号とそれに対応するサービスを表示するためのツールです。ユーザーは検索ボックスにポート番号またはサービス名を入力することができ、ツールは自動的に対応するポート番号とサービス名を表示します。さらに、ツールは異なる色のポート番号の意味を説明する凡例を提供します。\n\n機能：\n\n1. ユーザーは検索ボックスにポート番号またはサービス名を入力することができ、ツールは自動的に対応するポート番号とサービス名を表示します。\n\n2. ツールは異なる色のポート番号の意味を説明する凡例を提供します。\n\n3. ユーザーはポート番号をクリックすることができ、ツールは自動的にページをスクロールして対応するポート番号の位置に移動し、ポート番号の背景色をコーラルに設定します。3秒後に、色は元の状態に戻ります。\n\n使用例：\n\n1. ネットワーク管理者：ネットワーク管理者は、ネットワークをより効果的に管理するために、ポートチートシートを使用してポート番号とそれに対応するサービスを表示することができます。\n\n2. 開発者：開発者は、ネットワークアプリケーションをより効果的に開発およびテストするために、ポートチートシートを使用してポート番号とそれに対応するサービスを表示することができます。\n\n3. セキュリティ研究者：セキュリティ研究者は、ネットワークセキュリティの問題をより効果的に分析するために、ポートチートシートを使用してポート番号とそれに対応するサービスを表示することができます。"
+  },
+  "ko": {
+    "$name": "포트 치트시트",
+    "$keywords": [
+      "포트",
+      "치트",
+      "시트",
+      "TCP",
+      "UDP",
+      "네트워크",
+      "포트 번호",
+      "서비스 이름",
+      "네트워크 관리",
+      "개발 테스트",
+      "보안 분석"
+    ],
+    "$description": "포트 치트시트는 포트 번호와 해당 서비스를 볼 수 있는 도구입니다. 사용자는 검색 상자에 포트 번호나 서비스 이름을 입력하면, 도구는 자동으로 해당 포트 번호와 서비스 이름을 매칭하여 표시합니다. 또한, 도구는 다른 색상의 포트 번호의 의미를 설명하는 범례를 제공합니다.\n\n기능:\n\n1. 사용자는 검색 상자에 포트 번호나 서비스 이름을 입력하면, 도구는 자동으로 해당 포트 번호와 서비스 이름을 매칭하여 표시합니다.\n\n2. 도구는 다른 색상의 포트 번호의 의미를 설명하는 범례를 제공합니다.\n\n3. 사용자는 포트 번호를 클릭하면, 도구는 자동으로 해당 포트 번호 위치로 페이지를 스크롤하고, 포트 번호의 배경색을 코랄로 설정합니다. 3초 후에 색상은 원래 상태로 돌아갑니다.\n\n사용 사례:\n\n1. 네트워크 관리자: 네트워크 관리자는 네트워크를 더 잘 관리하기 위해 포트 치트시트를 사용하여 포트 번호와 해당 서비스를 볼 수 있습니다.\n\n2. 개발자: 개발자는 네트워크 애플리케이션을 더 잘 개발하고 테스트하기 위해 포트 치트시트를 사용하여 포트 번호와 해당 서비스를 볼 수 있습니다.\n\n3. 보안 연구원: 보안 연구원은 네트워크 보안 문제를 분석하기 위해 포트 치트시트를 사용하여 포트 번호와 해당 서비스를 더 잘 볼 수 있습니다."
+  },
+  "de": {
+    "$name": "Port Cheatsheet",
+    "$keywords": [
+      "Port",
+      "Cheat",
+      "Sheet",
+      "TCP",
+      "UDP",
+      "Netzwerk",
+      "Portnummer",
+      "Dienstname",
+      "Netzwerkmanagement",
+      "Entwicklungstests",
+      "Sicherheitsanalyse"
+    ],
+    "$description": "Port Cheatsheet ist ein Tool, das verwendet wird, um Portnummern und ihre entsprechenden Dienste anzuzeigen. Benutzer können eine Portnummer oder einen Dienstnamen in das Suchfeld eingeben, und das Tool wird automatisch die entsprechende Portnummer und den Dienstnamen finden und anzeigen. Zusätzlich bietet das Tool eine Legende, um die Bedeutung von unterschiedlich farbigen Portnummern zu erklären.\n\nFunktionen:\n\n1. Geben Sie eine Portnummer oder einen Dienstnamen in das Suchfeld ein, und das Tool wird automatisch die entsprechende Portnummer und den Dienstnamen finden und anzeigen.\n\n2. Das Tool bietet eine Legende, um die Bedeutung von unterschiedlich farbigen Portnummern zu erklären.\n\n3. Benutzer können auf eine Portnummer klicken, und das Tool wird automatisch die Seite zur entsprechenden Portnummerposition scrollen und die Hintergrundfarbe der Portnummer auf Koralle setzen. Nach 3 Sekunden kehrt die Farbe zum Originalzustand zurück.\n\nAnwendungsfälle:\n\n1. Netzwerkadministratoren: Netzwerkadministratoren können Port Cheatsheet verwenden, um Portnummern und ihre entsprechenden Dienste anzuzeigen und das Netzwerk besser zu verwalten.\n\n2. Entwickler: Entwickler können Port Cheatsheet verwenden, um Portnummern und ihre entsprechenden Dienste anzuzeigen und Netzwerkanwendungen besser zu entwickeln und zu testen.\n\n3. Sicherheitsforscher: Sicherheitsforscher können Port Cheatsheet verwenden, um Portnummern und ihre entsprechenden Dienste anzuzeigen und Netzwerksicherheitsprobleme besser zu analysieren."
+  },
+  "fr": {
+    "$name": "Port Cheatsheet",
+    "$keywords": [
+      "port",
+      "triche",
+      "feuille",
+      "tcp",
+      "udp",
+      "réseau",
+      "Numéro de port",
+      "Nom de service",
+      "Gestion de réseau",
+      "Tests de développement",
+      "Analyse de sécurité"
+    ],
+    "$description": "La feuille de triche de port est un outil utilisé pour afficher les numéros de port et leurs services correspondants. Les utilisateurs peuvent entrer un numéro de port ou un nom de service dans la boîte de recherche, et l'outil correspondra automatiquement et affichera le numéro de port et le nom de service correspondants. De plus, l'outil fournit une légende pour expliquer la signification des numéros de port de différentes couleurs.\n\nFonctionnalités:\n\n1. Entrez un numéro de port ou un nom de service dans la boîte de recherche, et l'outil correspondra automatiquement et affichera le numéro de port et le nom de service correspondants.\n\n2. L'outil fournit une légende pour expliquer la signification des numéros de port de différentes couleurs.\n\n3. Les utilisateurs peuvent cliquer sur un numéro de port, et l'outil fera défiler automatiquement la page jusqu'à la position du numéro de port correspondant et définira la couleur de fond du numéro de port sur corail. Après 3 secondes, la couleur reviendra à son état d'origine.\n\nCas d'utilisation:\n\n1. Administrateurs réseau: Les administrateurs réseau peuvent utiliser la feuille de triche de port pour afficher les numéros de port et leurs services correspondants pour mieux gérer le réseau.\n\n2. Développeurs: Les développeurs peuvent utiliser la feuille de triche de port pour afficher les numéros de port et leurs services correspondants pour mieux développer et tester les applications réseau.\n\n3. Chercheurs en sécurité: Les chercheurs en sécurité peuvent utiliser la feuille de triche de port pour afficher les numéros de port et leurs services correspondants pour mieux analyser les problèmes de sécurité réseau."
+  },
+  "it": {
+    "$name": "Port Cheatsheet",
     "$keywords": [
       "port",
       "cheat",
       "sheet",
       "tcp",
       "udp",
-      "network"
-    ]
-  },
-  "de": {
-    "$name": "Portliste",
-    "$description": "Referenz für Netzwerkportinformationen",
-    "$keywords": [
-      "Hafen",
-      "Netzwerk",
-      "beziehen auf",
-      "Anfragen",
-      "veranschaulichen"
-    ]
-  },
-  "es": {
-    "$name": "Lista de puertos",
-    "$description": "Referencia de información del puerto de red",
-    "$keywords": [
-      "puerto",
-      "red",
-      "Referirse a",
-      "Preguntar",
-      "ilustrar"
-    ]
-  },
-  "fr": {
-    "$name": "Liste de ports",
-    "$description": "Référence des informations du port réseau",
-    "$keywords": [
-      "port",
-      "réseau",
-      "faire référence à",
-      "Renseigner",
-      "illustrer"
-    ]
-  },
-  "it": {
-    "$name": "Elenco delle porte",
-    "$description": "Riferimento informazioni sulla porta di rete",
-    "$keywords": [
-      "porta",
       "rete",
-      "fare riferimento a",
-      "Chiedere informazioni",
-      "illustrare"
-    ]
-  },
-  "ja": {
-    "$name": "ポートリスト",
-    "$description": "ネットワークポート情報リファレンス",
-    "$keywords": [
-      "ポート",
-      "通信網",
-      "参照する",
-      "お問い合わせください",
-      "説明します"
-    ]
-  },
-  "ko": {
-    "$name": "포트 목록",
-    "$description": "네트워크 포트 정보 참조",
-    "$keywords": [
-      "포트",
-      "회로망",
-      "인용하다",
-      "문의",
-      "설명"
-    ]
-  },
-  "pt": {
-    "$name": "Lista de portas",
-    "$description": "Referência de informações da porta de rede",
-    "$keywords": [
-      "porta",
-      "rede",
-      "referir-se",
-      "Investigar",
-      "ilustrar"
-    ]
+      "numero di porta",
+      "nome del servizio",
+      "gestione di rete",
+      "test di sviluppo",
+      "analisi di sicurezza"
+    ],
+    "$description": "Il Port Cheatsheet è uno strumento utilizzato per visualizzare i numeri di porta e i relativi servizi. Gli utenti possono inserire un numero di porta o il nome del servizio nella casella di ricerca e lo strumento corrisponderà automaticamente e visualizzerà il numero di porta e il nome del servizio corrispondenti. Inoltre, lo strumento fornisce una legenda per spiegare il significato dei numeri di porta di diversi colori.\n\nCaratteristiche:\n\n1. Inserisci un numero di porta o il nome del servizio nella casella di ricerca e lo strumento corrisponderà automaticamente e visualizzerà il numero di porta e il nome del servizio corrispondenti.\n\n2. Lo strumento fornisce una legenda per spiegare il significato dei numeri di porta di diversi colori.\n\n3. Gli utenti possono fare clic su un numero di porta e lo strumento scorrerà automaticamente la pagina fino alla posizione del numero di porta corrispondente e imposterà il colore di sfondo del numero di porta su corallo. Dopo 3 secondi, il colore tornerà al suo stato originale.\n\nCasi d'uso:\n\n1. Amministratori di rete: gli amministratori di rete possono utilizzare Port Cheatsheet per visualizzare i numeri di porta e i relativi servizi per gestire meglio la rete.\n\n2. Sviluppatori: gli sviluppatori possono utilizzare Port Cheatsheet per visualizzare i numeri di porta e i relativi servizi per sviluppare e testare meglio le applicazioni di rete.\n\n3. Ricercatori di sicurezza: i ricercatori di sicurezza possono utilizzare Port Cheatsheet per visualizzare i numeri di porta e i relativi servizi per analizzare meglio i problemi di sicurezza della rete."
   },
   "ru": {
-    "$name": "Список портов",
-    "$description": "Справочная информация о сетевом порте",
+    "$name": "Шпаргалка по портам",
     "$keywords": [
       "порт",
+      "шпаргалка",
+      "лист",
+      "TCP",
+      "UDP",
       "сеть",
-      "Ссылаться на",
-      "Запросить",
-      "иллюстрировать"
-    ]
+      "номер порта",
+      "имя службы",
+      "управление сетью",
+      "тестирование разработки",
+      "анализ безопасности"
+    ],
+    "$description": "Порт-шпаргалка - это инструмент, используемый для просмотра номеров портов и соответствующих им служб. Пользователи могут ввести номер порта или название службы в поле поиска, и инструмент автоматически найдет и отобразит соответствующий номер порта и название службы. Кроме того, инструмент предоставляет легенду, объясняющую значение различных цветных номеров портов.\n\nОсобенности:\n\n1. Введите номер порта или название службы в поле поиска, и инструмент автоматически найдет и отобразит соответствующий номер порта и название службы.\n\n2. Инструмент предоставляет легенду, объясняющую значение различных цветных номеров портов.\n\n3. Пользователи могут щелкнуть по номеру порта, и инструмент автоматически прокрутит страницу до соответствующей позиции номера порта и установит цвет фона номера порта на коралловый. Через 3 секунды цвет вернется к исходному состоянию.\n\nПрименение:\n\n1. Сетевые администраторы: Сетевые администраторы могут использовать Порт-шпаргалку для просмотра номеров портов и соответствующих им служб, чтобы лучше управлять сетью.\n\n2. Разработчики: Разработчики могут использовать Порт-шпаргалку для просмотра номеров портов и соответствующих им служб, чтобы лучше разрабатывать и тестировать сетевые приложения.\n\n3. Исследователи безопасности: Исследователи безопасности могут использовать Порт-шпаргалку для просмотра номеров портов и соответствующих им служб, чтобы лучше анализировать проблемы безопасности сети."
   },
-  "zh-tw": {
-    "$name": "端口清單",
-    "$description": "網絡端口信息參考",
+  "pt": {
+    "$name": "Port Cheatsheet",
     "$keywords": [
-      "端口",
-      "網絡",
-      "參考",
-      "查詢",
-      "說明"
-    ]
+      "porta",
+      "trapaça",
+      "folha",
+      "tcp",
+      "udp",
+      "rede",
+      "Número da porta",
+      "Nome do serviço",
+      "Gerenciamento de rede",
+      "Teste de desenvolvimento",
+      "Análise de segurança"
+    ],
+    "$description": "O Port Cheatsheet é uma ferramenta usada para visualizar números de porta e seus serviços correspondentes. Os usuários podem inserir um número de porta ou nome de serviço na caixa de pesquisa, e a ferramenta irá automaticamente corresponder e exibir o número de porta e nome do serviço correspondente. Além disso, a ferramenta fornece uma legenda para explicar o significado de números de porta coloridos diferentes.\n\nRecursos:\n\n1. Insira um número de porta ou nome de serviço na caixa de pesquisa, e a ferramenta irá automaticamente corresponder e exibir o número de porta e nome do serviço correspondente.\n\n2. A ferramenta fornece uma legenda para explicar o significado de números de porta coloridos diferentes.\n\n3. Os usuários podem clicar em um número de porta, e a ferramenta irá automaticamente rolar a página para a posição do número de porta correspondente e definir a cor de fundo do número de porta para coral. Após 3 segundos, a cor retornará ao seu estado original.\n\nCasos de uso:\n\n1. Administradores de rede: Os administradores de rede podem usar o Port Cheatsheet para visualizar números de porta e seus serviços correspondentes para gerenciar melhor a rede.\n\n2. Desenvolvedores: Os desenvolvedores podem usar o Port Cheatsheet para visualizar números de porta e seus serviços correspondentes para desenvolver e testar melhor aplicativos de rede.\n\n3. Pesquisadores de segurança: Os pesquisadores de segurança podem usar o Port Cheatsheet para visualizar números de porta e seus serviços correspondentes para analisar melhor questões de segurança de rede."
   },
-  "zh-cn": {
-    "$name": "端口清单",
-    "$description": "网络端口信息参考",
+  "en": {
+    "$name": "Port Cheatsheet",
     "$keywords": [
-      "端口",
-      "网络",
-      "参考",
-      "查询",
-      "说明"
-    ]
+      "port",
+      "cheat",
+      "sheet",
+      "tcp",
+      "udp",
+      "network",
+      "Port number",
+      "Service name",
+      "Network management",
+      "Development testing",
+      "Security analysis"
+    ],
+    "$description": "Port Cheatsheet is a tool used to view port numbers and their corresponding services. Users can enter a port number or service name in the search box, and the tool will automatically match and display the corresponding port number and service name. Additionally, the tool provides a legend to explain the meaning of different colored port numbers.\n\nFeatures:\n\n1. Enter a port number or service name in the search box, and the tool will automatically match and display the corresponding port number and service name.\n\n2. The tool provides a legend to explain the meaning of different colored port numbers.\n\n3. Users can click on a port number, and the tool will automatically scroll the page to the corresponding port number position and set the background color of the port number to coral. After 3 seconds, the color will return to its original state.\n\nUse cases:\n\n1. Network administrators: Network administrators can use Port Cheatsheet to view port numbers and their corresponding services to better manage the network.\n\n2. Developers: Developers can use Port Cheatsheet to view port numbers and their corresponding services to better develop and test network applications.\n\n3. Security researchers: Security researchers can use Port Cheatsheet to view port numbers and their corresponding services to better analyze network security issues."
   }
 }

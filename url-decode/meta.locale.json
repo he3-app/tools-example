@@ -1,99 +1,134 @@
 {
-  "en": {
-    "$name": "URL Decode",
-    "$description": "URL Decode",
-    "$keywords": [
-      "url",
-      "uri",
-      "Decode"
-    ]
-  },
-  "pt": {
-    "$name": "Decodificação de URL",
-    "$description": "Decodificação de URL",
-    "$keywords": [
-      "url",
-      "uri",
-      "Decodificar"
-    ]
-  },
-  "ru": {
-    "$name": "URL-декодирование",
-    "$description": "URL-декодирование",
+  "zh-cn": {
+    "$name": "URL解码",
     "$keywords": [
       "URL",
-      "ури",
-      "Расшифровать"
-    ]
+      "URI",
+      "解码",
+      "URL解码",
+      "URI解码",
+      "字符串解码"
+    ],
+    "$description": "工具描述：\n\nURL解码工具是一种用于解码URL编码字符串的工具。它可以将URI或URI组件编码的字符串解码为其原始形式。\n\n特点：\n\n1. 支持解码URI和URI组件编码的字符串。\n\n2. 自动检测输入字符串类型并执行相应的解码操作。\n\n3. 支持将解码后的字符串输出到工具的输出区域。\n\n用例：\n\n1. URL编码字符串解码：在开发或测试过程中，经常需要将URL编码的字符串解码为其原始形式。使用URL解码工具可以快速解码字符串，使数据内容易于查看和理解。\n\n2. 数据处理：在数据处理过程中，您可能会遇到URL编码的字符串。使用此工具，您可以轻松地将编码的字符串解码为其原始形式，使后续的数据处理和分析变得容易。\n\n3. 字符串转换：在字符串转换过程中，您可能需要将URI或URI组件编码的字符串转换为其原始形式。使用URL解码工具可以快速完成字符串转换操作。\n\n注意事项：\n\n1. 输入字符串必须是URI或URI组件编码的字符串。\n\n2. 该工具仅支持解码操作，不支持编码操作。如果需要编码，请使用URL编码工具。\n\n3. 如果字符串格式不正确，则该工具可能无法解码输入字符串。在使用工具时，请确保输入字符串格式正确。"
   },
   "zh-tw": {
     "$name": "URL 解碼",
-    "$description": "URL 解碼",
-    "$keywords": [
-      "網址",
-      "解碼"
-    ]
-  },
-  "zh-cn": {
-    "$name": "URL 解码",
-    "$description": "URL 解码",
-    "$keywords": [
-      "网址",
-      "解码"
-    ]
-  },
-  "ko": {
-    "$name": "URL 디코드",
-    "$description": "URL 디코드",
     "$keywords": [
       "URL",
-      "우리",
-      "풀다"
-    ]
-  },
-  "ja": {
-    "$name": "URL デコード",
-    "$description": "URL デコード",
-    "$keywords": [
-      "URL",
-      "うり",
-      "デコード"
-    ]
+      "URI",
+      "解碼",
+      "URL 解碼",
+      "URI 解碼",
+      "字串解碼"
+    ],
+    "$description": "工具描述：\n\nURL解碼工具是一種用於解碼URL編碼字符串的工具。它可以將URI或URI組件編碼的字符串解碼為其原始形式。\n\n特點：\n\n1. 支持解碼URI和URI組件編碼的字符串。\n\n2. 自動檢測輸入字符串類型並執行相應的解碼操作。\n\n3. 支持將解碼後的字符串輸出到工具的輸出區域。\n\n用例：\n\n1. URL編碼字符串解碼：在開發或測試期間，通常需要將URL編碼的字符串解碼為其原始形式。使用URL解碼工具可以快速解碼字符串，使數據內容易於查看和理解。\n\n2. 數據處理：在數據處理期間，您可能會遇到URL編碼的字符串。使用此工具，您可以輕鬆將編碼的字符串解碼為其原始形式，使後續數據處理和分析變得容易。\n\n3. 字符串轉換：在字符串轉換期間，您可能需要將URI或URI組件編碼的字符串轉換為其原始形式。使用URL解碼工具可以快速完成字符串轉換操作。\n\n注意事項：\n\n1. 輸入字符串必須是URI或URI組件編碼的字符串。\n\n2. 本工具僅支持解碼操作，不支持編碼操作。如果需要編碼，請使用URL編碼工具。\n\n3. 如果字符串格式不正確，則工具可能無法解碼輸入字符串。使用工具時，請確保輸入字符串格式正確。"
   },
   "es": {
     "$name": "Decodificación de URL",
-    "$description": "Decodificación de URL",
     "$keywords": [
       "URL",
-      "uri",
-      "Descodificar"
-    ]
+      "URI",
+      "Decodificar",
+      "Decodificación de URL",
+      "Decodificación de URI",
+      "Decodificación de cadena"
+    ],
+    "$description": "Descripción de la herramienta:\n\nLa herramienta de decodificación de URL es una herramienta utilizada para decodificar cadenas codificadas en URL. Puede decodificar cadenas codificadas en URI o URI Component en su forma original.\n\nCaracterísticas:\n\n1. Admite la decodificación de cadenas codificadas en URI y URI Component.\n\n2. Detecta automáticamente el tipo de cadena de entrada y realiza la operación de decodificación correspondiente.\n\n3. Admite la salida de la cadena decodificada en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Decodificación de cadenas codificadas en URL: Durante el desarrollo o la prueba, a menudo es necesario decodificar cadenas codificadas en URL en su forma original. Usando la herramienta de decodificación de URL, se pueden decodificar rápidamente las cadenas, lo que facilita la visualización y comprensión del contenido de los datos.\n\n2. Procesamiento de datos: Durante el procesamiento de datos, es posible que se encuentren cadenas codificadas en URL. Usando esta herramienta, se puede decodificar fácilmente la cadena codificada en su forma original, lo que facilita el posterior procesamiento y análisis de datos.\n\n3. Conversión de cadenas: Durante la conversión de cadenas, es posible que necesite convertir cadenas codificadas en URI o URI Component en su forma original. Usando la herramienta de decodificación de URL, se puede completar rápidamente la operación de conversión de cadenas.\n\nNotas:\n\n1. La cadena de entrada debe ser una cadena codificada en URI o URI Component.\n\n2. La herramienta solo admite operaciones de decodificación y no admite operaciones de codificación. Si se requiere codificación, utilice la herramienta de codificación de URL.\n\n3. La herramienta puede no ser capaz de decodificar la cadena de entrada si el formato de la cadena es incorrecto. Al usar la herramienta, asegúrese de que el formato de la cadena de entrada sea correcto."
+  },
+  "ja": {
+    "$name": "URLデコード",
+    "$keywords": [
+      "URL",
+      "URI",
+      "デコード",
+      "URLデコード",
+      "URIデコード",
+      "文字列デコード"
+    ],
+    "$description": "ツールの説明：\n\nURLデコードツールは、URLエンコードされた文字列をデコードするためのツールです。URIまたはURIコンポーネントエンコードされた文字列を元の形式にデコードすることができます。\n\n特徴：\n\n1. URIおよびURIコンポーネントエンコードされた文字列のデコードをサポートしています。\n\n2. 入力文字列のタイプを自動的に検出し、対応するデコード操作を実行します。\n\n3. ツールの出力エリアにデコードされた文字列を出力することができます。\n\n使用例：\n\n1. URLエンコードされた文字列のデコード：開発やテスト中に、URLエンコードされた文字列を元の形式にデコードする必要があることがよくあります。URLデコードツールを使用することで、文字列を素早くデコードして、データ内容を表示して理解することが簡単になります。\n\n2. データ処理：データ処理中に、URLエンコードされた文字列に遭遇することがあります。このツールを使用することで、エンコードされた文字列を元の形式に簡単にデコードし、後続のデータ処理や分析が容易になります。\n\n3. 文字列変換：文字列変換中に、URIまたはURIコンポーネントエンコードされた文字列を元の形式に変換する必要がある場合があります。URLデコードツールを使用することで、文字列変換操作を素早く完了することができます。\n\n注意事項：\n\n1. 入力文字列はURIまたはURIコンポーネントエンコードされた文字列である必要があります。\n\n2. ツールはデコード操作のみをサポートし、エンコード操作はサポートしていません。エンコードが必要な場合は、URLエンコードツールを使用してください。\n\n3. 入力文字列の形式が正しくない場合、ツールは入力文字列をデコードできない場合があります。ツールを使用する際には、入力文字列の形式が正しいことを確認してください。"
+  },
+  "ko": {
+    "$name": "URL 디코딩",
+    "$keywords": [
+      "URL",
+      "URI",
+      "디코딩",
+      "URL 디코딩",
+      "URI 디코딩",
+      "문자열 디코딩"
+    ],
+    "$description": "도구 설명:\n\nURL 디코딩 도구는 URL 인코딩된 문자열을 디코딩하는 데 사용되는 도구입니다. URI 또는 URI 구성 요소로 인코딩된 문자열을 원래 형태로 디코딩할 수 있습니다.\n\n기능:\n\n1. URI 및 URI 구성 요소로 인코딩된 문자열의 디코딩을 지원합니다.\n\n2. 입력 문자열 유형을 자동으로 감지하고 해당 디코딩 작업을 수행합니다.\n\n3. 디코딩된 문자열을 도구의 출력 영역에 출력하는 기능을 지원합니다.\n\n사용 사례:\n\n1. URL 인코딩된 문자열 디코딩: 개발 또는 테스트 중에 URL 인코딩된 문자열을 원래 형태로 디코딩해야 할 때가 있습니다. URL 디코딩 도구를 사용하면 문자열을 빠르게 디코딩하여 데이터 내용을 쉽게 볼 수 있습니다.\n\n2. 데이터 처리: 데이터 처리 중에 URL 인코딩된 문자열을 만날 수 있습니다. 이 도구를 사용하면 인코딩된 문자열을 쉽게 원래 형태로 디코딩하여 후속 데이터 처리 및 분석에 용이합니다.\n\n3. 문자열 변환: 문자열 변환 중에 URI 또는 URI 구성 요소로 인코딩된 문자열을 원래 형태로 변환해야 할 수 있습니다. URL 디코딩 도구를 사용하면 문자열 변환 작업을 빠르게 완료할 수 있습니다.\n\n참고 사항:\n\n1. 입력 문자열은 URI 또는 URI 구성 요소로 인코딩된 문자열이어야 합니다.\n\n2. 이 도구는 디코딩 작업만 지원하며 인코딩 작업은 지원하지 않습니다. 인코딩이 필요한 경우 URL 인코딩 도구를 사용하십시오.\n\n3. 입력 문자열 형식이 잘못된 경우 도구가 입력 문자열을 디코딩하지 못할 수 있습니다. 도구를 사용할 때 입력 문자열 형식이 올바른지 확인하십시오."
   },
   "de": {
     "$name": "URL-Decodierung",
-    "$description": "URL-Decodierung",
     "$keywords": [
       "URL",
-      "uri",
-      "Dekodieren"
-    ]
+      "URI",
+      "Decode",
+      "URL-Decodierung",
+      "URI-Decodierung",
+      "Zeichenketten-Decodierung"
+    ],
+    "$description": "Werkzeugbeschreibung:\n\nDas URL-Decodierungswerkzeug ist ein Werkzeug, das zum Decodieren von URL-codierten Zeichenketten verwendet wird. Es kann URI- oder URI-Komponenten-codierte Zeichenketten in ihre ursprüngliche Form decodieren.\n\nFunktionen:\n\n1. Unterstützt das Decodieren von URI- und URI-Komponenten-codierten Zeichenketten.\n\n2. Erkennt automatisch den Eingabetyp der Zeichenkette und führt die entsprechende Decodierungsoperation aus.\n\n3. Unterstützt das Ausgeben der decodierten Zeichenkette in den Ausgabe-Bereich des Werkzeugs.\n\nAnwendungsfälle:\n\n1. Decodierung von URL-codierten Zeichenketten: Während der Entwicklung oder des Testens ist es oft notwendig, URL-codierte Zeichenketten in ihre ursprüngliche Form zu decodieren. Mit dem URL-Decodierungswerkzeug können Zeichenketten schnell decodiert werden, was das Anzeigen und Verstehen von Dateninhalten erleichtert.\n\n2. Datenverarbeitung: Während der Datenverarbeitung können Sie auf URL-codierte Zeichenketten stoßen. Mit diesem Werkzeug können Sie die codierte Zeichenkette einfach in ihre ursprüngliche Form decodieren, was die nachfolgende Datenverarbeitung und -analyse erleichtert.\n\n3. Zeichenkettenkonvertierung: Während der Zeichenkettenkonvertierung müssen Sie möglicherweise URI- oder URI-Komponenten-codierte Zeichenketten in ihre ursprüngliche Form konvertieren. Mit dem URL-Decodierungswerkzeug kann die Zeichenkettenkonvertierungsoperation schnell abgeschlossen werden.\n\nHinweise:\n\n1. Die Eingabezeichenkette muss eine URI- oder URI-Komponenten-codierte Zeichenkette sein.\n\n2. Das Werkzeug unterstützt nur Decodierungsoperationen und keine Codierungsoperationen. Wenn eine Codierung erforderlich ist, verwenden Sie bitte das URL-Codierungswerkzeug.\n\n3. Das Werkzeug kann die Eingabezeichenkette möglicherweise nicht decodieren, wenn das Zeichenkettenformat inkorrekt ist. Bitte stellen Sie beim Verwenden des Werkzeugs sicher, dass das Zeichenkettenformat korrekt ist."
   },
   "fr": {
     "$name": "Décodage d'URL",
-    "$description": "Décodage d'URL",
     "$keywords": [
       "URL",
-      "uri",
-      "Décoder"
-    ]
+      "URI",
+      "Décodeur",
+      "Décodage d'URL",
+      "Décodage d'URI",
+      "Décodage de chaîne"
+    ],
+    "$description": "Description de l'outil :\n\nL'outil de décodage d'URL est un outil utilisé pour décoder les chaînes encodées en URL. Il peut décoder les chaînes encodées en URI ou en composant d'URI en leur forme originale.\n\nFonctionnalités :\n\n1. Prend en charge le décodage des chaînes encodées en URI et en composant d'URI.\n\n2. Détecte automatiquement le type de chaîne d'entrée et effectue l'opération de décodage correspondante.\n\n3. Prend en charge la sortie de la chaîne décodée dans la zone de sortie de l'outil.\n\nCas d'utilisation :\n\n1. Décodage de chaînes encodées en URL : Pendant le développement ou les tests, il est souvent nécessaire de décoder les chaînes encodées en URL en leur forme originale. En utilisant l'outil de décodage d'URL, vous pouvez rapidement décoder les chaînes, ce qui facilite la visualisation et la compréhension du contenu des données.\n\n2. Traitement de données : Pendant le traitement de données, vous pouvez rencontrer des chaînes encodées en URL. En utilisant cet outil, vous pouvez facilement décoder la chaîne encodée en sa forme originale, ce qui facilite le traitement et l'analyse ultérieurs des données.\n\n3. Conversion de chaînes : Pendant la conversion de chaînes, vous pouvez avoir besoin de convertir des chaînes encodées en URI ou en composant d'URI en leur forme originale. En utilisant l'outil de décodage d'URL, vous pouvez rapidement effectuer l'opération de conversion de chaînes.\n\nNotes :\n\n1. La chaîne d'entrée doit être une chaîne encodée en URI ou en composant d'URI.\n\n2. L'outil ne prend en charge que les opérations de décodage et ne prend pas en charge les opérations d'encodage. Si l'encodage est nécessaire, veuillez utiliser l'outil d'encodage d'URL.\n\n3. L'outil peut ne pas être en mesure de décoder la chaîne d'entrée si le format de la chaîne est incorrect. Lors de l'utilisation de l'outil, veuillez vous assurer que le format de la chaîne d'entrée est correct."
   },
   "it": {
-    "$name": "Decodifica dell'URL",
-    "$description": "Decodifica dell'URL",
+    "$name": "Decodifica URL",
     "$keywords": [
       "URL",
-      "uri",
-      "Decodificare"
-    ]
+      "URI",
+      "Decodifica",
+      "Decodifica URL",
+      "Decodifica URI",
+      "Decodifica stringa"
+    ],
+    "$description": "Descrizione dello strumento:\n\nLo strumento di decodifica URL è uno strumento utilizzato per decodificare stringhe codificate in formato URL. Può decodificare stringhe codificate in URI o URI Component nella loro forma originale.\n\nCaratteristiche:\n\n1. Supporta la decodifica di stringhe codificate in URI e URI Component.\n\n2. Rileva automaticamente il tipo di stringa in input e esegue l'operazione di decodifica corrispondente.\n\n3. Supporta l'output della stringa decodificata nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Decodifica di stringhe codificate in formato URL: durante lo sviluppo o il testing, è spesso necessario decodificare le stringhe codificate in formato URL nella loro forma originale. Utilizzando lo strumento di decodifica URL, è possibile decodificare rapidamente le stringhe, rendendo facile visualizzare e comprendere il contenuto dei dati.\n\n2. Elaborazione dei dati: durante l'elaborazione dei dati, è possibile incontrare stringhe codificate in formato URL. Utilizzando questo strumento, è possibile decodificare facilmente la stringa codificata nella sua forma originale, rendendo facile l'elaborazione e l'analisi dei dati successivi.\n\n3. Conversione di stringhe: durante la conversione di stringhe, potrebbe essere necessario convertire stringhe codificate in URI o URI Component nella loro forma originale. Utilizzando lo strumento di decodifica URL, è possibile completare rapidamente l'operazione di conversione di stringhe.\n\nNote:\n\n1. La stringa in input deve essere una stringa codificata in URI o URI Component.\n\n2. Lo strumento supporta solo operazioni di decodifica e non supporta operazioni di codifica. Se è necessaria la codifica, utilizzare lo strumento di codifica URL.\n\n3. Lo strumento potrebbe non essere in grado di decodificare la stringa in input se il formato della stringa è errato. Quando si utilizza lo strumento, assicurarsi che il formato della stringa in input sia corretto."
+  },
+  "ru": {
+    "$name": "Декодирование URL",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Декодирование",
+      "Декодирование URL",
+      "Декодирование URI",
+      "Декодирование строки"
+    ],
+    "$description": "Описание инструмента:\n\nИнструмент декодирования URL-адреса используется для декодирования закодированных URL-строк. Он может декодировать закодированные строки URI или URI Component в их исходную форму.\n\nОсобенности:\n\n1. Поддерживает декодирование закодированных строк URI и URI Component.\n\n2. Автоматически определяет тип входной строки и выполняет соответствующую операцию декодирования.\n\n3. Поддерживает вывод декодированной строки в область вывода инструмента.\n\nПрименение:\n\n1. Декодирование закодированных строк URL: Во время разработки или тестирования часто необходимо декодировать закодированные URL-строки в их исходную форму. Использование инструмента декодирования URL-адреса позволяет быстро декодировать строки, что упрощает просмотр и понимание содержимого данных.\n\n2. Обработка данных: Во время обработки данных вы можете столкнуться с закодированными URL-строками. Используя этот инструмент, вы можете легко декодировать закодированную строку в исходную форму, что упрощает последующую обработку и анализ данных.\n\n3. Преобразование строк: Во время преобразования строк вам может потребоваться преобразовать закодированные строки URI или URI Component в их исходную форму. Использование инструмента декодирования URL-адреса позволяет быстро выполнить операцию преобразования строк.\n\nПримечания:\n\n1. Входная строка должна быть закодированной строкой URI или URI Component.\n\n2. Инструмент поддерживает только операции декодирования и не поддерживает операции кодирования. Если требуется кодирование, используйте инструмент кодирования URL-адреса.\n\n3. Инструмент может не смочь декодировать входную строку, если формат строки неверен. При использовании инструмента, пожалуйста, убедитесь, что формат входной строки верен."
+  },
+  "pt": {
+    "$name": "Decodificação de URL",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Decodificar",
+      "Decodificação de URL",
+      "Decodificação de URI",
+      "Decodificação de string"
+    ],
+    "$description": "Descrição da Ferramenta:\n\nA ferramenta de Decodificação de URL é usada para decodificar strings codificadas em URL. Ela pode decodificar strings codificadas em URI ou URI Component em sua forma original.\n\nRecursos:\n\n1. Suporta a decodificação de strings codificadas em URI e URI Component.\n\n2. Detecta automaticamente o tipo de string de entrada e realiza a operação de decodificação correspondente.\n\n3. Suporta a saída da string decodificada para a área de saída da ferramenta.\n\nCasos de Uso:\n\n1. Decodificação de string codificada em URL: Durante o desenvolvimento ou teste, é frequentemente necessário decodificar strings codificadas em URL em sua forma original. Usando a ferramenta de Decodificação de URL, é possível decodificar rapidamente as strings, tornando fácil visualizar e entender o conteúdo dos dados.\n\n2. Processamento de dados: Durante o processamento de dados, pode-se encontrar strings codificadas em URL. Usando esta ferramenta, é possível decodificar facilmente a string codificada em sua forma original, tornando fácil o processamento e análise de dados subsequentes.\n\n3. Conversão de string: Durante a conversão de string, pode ser necessário converter strings codificadas em URI ou URI Component em sua forma original. Usando a ferramenta de Decodificação de URL, é possível completar rapidamente a operação de conversão de string.\n\nObservações:\n\n1. A string de entrada deve ser uma string codificada em URI ou URI Component.\n\n2. A ferramenta suporta apenas operações de decodificação e não suporta operações de codificação. Se for necessária a codificação, use a ferramenta de Codificação de URL.\n\n3. A ferramenta pode não ser capaz de decodificar a string de entrada se o formato da string estiver incorreto. Ao usar a ferramenta, certifique-se de que o formato da string de entrada esteja correto."
+  },
+  "en": {
+    "$name": "URL Decoding",
+    "$keywords": [
+      "URL",
+      "URI",
+      "Decode",
+      "URL decoding",
+      "URI decoding",
+      "string decoding"
+    ],
+    "$description": "Tool Description:\n\nThe URL Decoding tool is a tool used to decode URL-encoded strings. It can decode URI or URI Component encoded strings into their original form.\n\nFeatures:\n\n1. Supports decoding of URI and URI Component encoded strings.\n\n2. Automatically detects the input string type and performs the corresponding decoding operation.\n\n3. Supports outputting the decoded string to the tool's output area.\n\nUse Cases:\n\n1. URL-encoded string decoding: During development or testing, it is often necessary to decode URL-encoded strings into their original form. Using the URL Decoding tool can quickly decode strings, making it easy to view and understand data content.\n\n2. Data processing: During data processing, you may encounter URL-encoded strings. Using this tool, you can easily decode the encoded string into its original form, making it easy for subsequent data processing and analysis.\n\n3. String conversion: During string conversion, you may need to convert URI or URI Component encoded strings into their original form. Using the URL Decoding tool can quickly complete the string conversion operation.\n\nNotes:\n\n1. The input string must be a URI or URI Component encoded string.\n\n2. The tool only supports decoding operations and does not support encoding operations. If encoding is required, please use the URL Encoding tool.\n\n3. The tool may not be able to decode the input string if the string format is incorrect. When using the tool, please ensure that the input string format is correct."
   }
 }

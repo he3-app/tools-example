@@ -66,7 +66,7 @@ import { useI18n } from "vue-i18n";
 import timezonesData from "../data/timezones.json";
 import { DateFormatEnum } from "./enums";
 import messages from "./lang.json";
-
+const $he3 = window.$he3;
 const { t } = useI18n({
   locale: window.$he3.lang,
   messages,
@@ -86,7 +86,7 @@ const props = defineProps({
   },
   enableUTC: {
     type: Boolean,
-    default: false,
+    default: true,
   },
   clipboardValue: {
     default: undefined,
@@ -105,41 +105,46 @@ function isNumber(str: string) {
   }
 }
 
-onMounted(() => {
-  $he3.getLastClipboard().then((res) => {
-    if (isNumber(res)) {
-      const clipboardValue = Number.parseInt(res);
-      const maxDate = dayjs("2080-12-31 23:59:59", "YYYY-MM-DD HH:mm:ss");
-      const minDate = dayjs("1980-01-01 00:00:00", "YYYY-MM-DD HH:mm:ss");
+onMounted(async () => {
+  formatTimestamp();
+  const processValue = async (previewerValue) => {
+    if (isNumber(previewerValue)) {
+      const value = Number.parseInt(previewerValue);
+      const maxDate = dayjs("55343-12-12 23:59:59", "YYYY-MM-DD HH:mm:ss");
+      const minDate = dayjs("1970-01-01 00:00:00", "YYYY-MM-DD HH:mm:ss");
       if (
-        clipboardValue >= minDate.unix() &&
-        clipboardValue <= maxDate.unix()
+        (value >= minDate.unix() && value <= maxDate.unix()) ||
+        (value >= minDate.valueOf() && value <= maxDate.valueOf()) ||
+        (value >= minDate.valueOf() * 1000 &&
+          value <= maxDate.valueOf() * 1000) ||
+        (value >= minDate.valueOf() * 1000000 &&
+          value <= maxDate.valueOf() * 1000000)
       ) {
-        timestamp.value = clipboardValue;
-        timestampFormat.value = "s";
-      } else if (
-        clipboardValue >= minDate.valueOf() &&
-        clipboardValue <= maxDate.valueOf()
-      ) {
-        timestamp.value = clipboardValue;
-        timestampFormat.value = "ms";
-      } else if (
-        clipboardValue >= minDate.valueOf() * 1000 &&
-        clipboardValue <= maxDate.valueOf() * 1000
-      ) {
-        timestamp.value = clipboardValue;
-        timestampFormat.value = "us";
-      } else if (
-        clipboardValue >= minDate.valueOf() * 1000000 &&
-        clipboardValue <= maxDate.valueOf() * 1000000
-      ) {
-        timestamp.value = clipboardValue;
-        timestampFormat.value = "ns";
+        timestamp.value = value;
+        if (value >= minDate.unix() && value <= maxDate.unix()) {
+          timestampFormat.value = "s";
+        } else if (value >= minDate.valueOf() && value <= maxDate.valueOf()) {
+          timestampFormat.value = "ms";
+        } else if (
+          value >= minDate.valueOf() * 1000 &&
+          value <= maxDate.valueOf() * 1000
+        ) {
+          timestampFormat.value = "us";
+        } else if (
+          value >= minDate.valueOf() * 1000000 &&
+          value <= maxDate.valueOf() * 1000000
+        ) {
+          timestampFormat.value = "ns";
+        }
       }
     }
     formatTimestamp();
-    $he3.onUseClipboardValue();
-  });
+  };
+  const previewerValue = await $he3.getPreviewerValue();
+  await processValue(previewerValue);
+  const clipboardValue = await $he3.getLastClipboard();
+  await processValue(clipboardValue);
+  if (isNumber(clipboardValue)) $he3.onUseClipboardValue();
 });
 
 const timestamp = ref(dayjs().unix());
@@ -199,6 +204,7 @@ function formatTimestamp() {
       [key]: outputFormatTimestamp.format(item.value),
     };
   });
+
   if (!props.renderOnSearch) {
     // add user local timezone
     const localKey = `Local (${dayjs.tz.guess()})`;

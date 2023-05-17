@@ -41,6 +41,7 @@ const { t } = useI18n({
   locale: window.$he3.lang,
   messages,
 });
+const $he3 = window.$he3
 const inputValue = ref('https://he3.app?name=He3%20Application&platform=%22apple,windows%22');
 const outputValue = ref('');
 const option = ref('uri');
@@ -67,16 +68,24 @@ const encode = () => {
     $he3.message.warn((error as any).toString());
   }
 };
-onMounted(() => {
-  $he3.getLastClipboard().then((res) => {
-    if (isUrl(res)) {
-      inputValue.value = res;
-      decode();
-      $he3.onUseClipboardValue();
-    }
-  });
+onMounted(async () => {
   decode();
+  const processValue = async (value) => {
+    if (isUrl(value)) {
+      inputValue.value = value;
+      decode();
+    }
+  };
+
+  const previewerValue = await $he3.getPreviewerValue();
+  await processValue(previewerValue);
+
+  const clipboardValue = await $he3.getLastClipboard();
+  await processValue(clipboardValue);
+
+  if(isUrl(clipboardValue)) $he3.onUseClipboardValue();
 });
+
 </script>
 <style scoped lang="less">
 .url-decode {

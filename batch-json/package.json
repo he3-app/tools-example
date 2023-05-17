@@ -8,21 +8,148 @@
   },
   "he3": [
     {
-      "id": "properties-to-json",
-      "name": "Properties To JSON",
+      "id": "base64-to-json",
+      "name": "Base64 to JSON",
       "icon": "coffee-outlined",
-      "version": "1.0.1",
+      "version": "1.0.4",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "description": "Properties To JSON",
+      "keywords": [
+        "Base64",
+        "JSON",
+        "encoding",
+        "decoding",
+        "data conversion",
+        "data format",
+        "data interchange",
+        "web development",
+        "programming"
+      ],
+      "description": "The Base64 to JSON tool is a web-based utility that converts Base64-encoded data into JSON format. It is useful for developers who need to decode and parse Base64-encoded data for use in their applications.",
+      "relatedToolId": [
+        "json-to-base64"
+      ]
+    },
+    {
+      "id": "json-to-base64",
+      "name": "JSON to Base64",
+      "icon": "coffee-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "keywords": [
+        "JSON",
+        "Base64",
+        "encoding",
+        "decoding",
+        "data conversion",
+        "web development",
+        "API",
+        "data transfer"
+      ],
+      "description": "JSON to Base64 is a tool that converts JSON data into a Base64 encoded string, which can be useful for transmitting data over networks or storing data in a compact format. This tool can be particularly helpful for developers working with web applications or APIs.",
+      "relatedToolId": [
+        "base64-to-json"
+      ]
+    },
+    {
+      "id": "extract-json-values",
+      "name": "Extract JSON Values",
+      "icon": "coffee-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "keywords": [
+        "JSON",
+        "Base64",
+        "conversion",
+        "encoding",
+        "decoding",
+        "data",
+        "serialization",
+        "serialization format"
+      ],
+      "description": "The Extract JSON Values tool is a powerful data extraction tool that allows users to extract specific values from JSON data structures. With its intuitive interface and advanced filtering options, users can easily extract the data ",
+      "relatedToolId": []
+    },
+    {
+      "id": "json-unescape",
+      "name": "Json Unescape",
+      "icon": "coffee-outlined",
+      "version": "1.0.7",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "description": "Json Unescape is a web-based tool that allows users to unescape JSON-encoded strings, converting special characters back to their original form. This tool is particularly useful for developers working with JSON data who need to decode escaped characters for easier readability and manipulation.",
+      "keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "special characters",
+        "decode",
+        "encode",
+        "backslash",
+        "double quotes",
+        "single quotes",
+        "slash",
+        "newline",
+        "tab"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "json-escape",
+      "name": "Json Escape",
+      "icon": "coffee-outlined",
+      "version": "1.0.8",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "description": "Json Escape is a web-based tool that allows users to escape special characters in JSON strings, making them safe for use in URLs or other contexts where special characters may cause issues. It supports a variety of escape formats, including Unicode, HTML, and JavaScript.",
+      "keywords": [
+        "json escape",
+        "escape json",
+        "json special characters",
+        "json encoding",
+        "json decoding",
+        "json formatter",
+        "json validator"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "properties-to-json",
+      "name": "Properties to JSON",
+      "icon": "coffee-outlined",
+      "version": "1.0.7",
+      "isPublic": true,
+      "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
+      "category": [
+        "json"
+      ],
+      "description": "Properties to JSON Tool is a tool used to convert text in Properties format to JSON format. It can convert text in Properties format to JSON format that is easy to read and process, and can also convert text in JSON format back to Properties format.\n\nFeatures:\n\n1. Paste or input text in Properties format into the tool.\n\n2. The tool will automatically convert the text in Properties format to JSON format and display the converted text in the output area.\n\n3. Text in JSON format can be pasted or input into the tool and converted back to text in Properties format.\n\nUse cases:\n\n1. Configuration file conversion: During development, it is often necessary to convert configuration files from Properties format to JSON format for better processing and management of configuration information.\n\n2. Data conversion: During data processing, it is sometimes necessary to convert data in Properties format to data in JSON format for better processing and analysis of data.\n\n3. Data export: When exporting data, it is sometimes necessary to export data in text form in Properties format. This tool can easily convert data in JSON format to text in Properties format.",
       "keywords": [
         "convert",
         "Properties",
         "JSON",
-        "transform"
+        "transform",
+        "Conversion",
+        "Configuration file",
+        "Data processing",
+        "Export"
       ],
       "relatedToolId": [
         "json-to-properties",
@@ -31,20 +158,22 @@
     },
     {
       "id": "json-to-properties",
-      "name": "JSON To Properties",
+      "name": "JSON to Properties",
       "icon": "coffee-outlined",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "description": "JSON To Properties",
+      "description": "The JSON to Properties tool is a tool used to convert JSON format to Properties format. It can convert the input JSON string to key-value pairs in Properties format and output it to the tool's output area. Additionally, the tool also supports converting Properties format strings to JSON format.\n\nFunction description:\n\n1. Paste or input the JSON format string into the tool.\n\n2. The tool will automatically convert the JSON format string to key-value pairs in Properties format and output it to the tool's output area.\n\n3. Supports converting Properties format strings to JSON format.\n\nUse cases:\n\n1. Configuration file conversion: In project development, it is often necessary to convert configuration files from JSON format to Properties format. Using the JSON to Properties tool can quickly convert JSON format configuration files to Properties format, making it easier for projects to use.\n\n2. Data conversion: In the data processing process, sometimes it is necessary to convert JSON format data to Properties format. Using this tool, JSON format data can be quickly converted to Properties format, making data processing easier.\n\n3. Data export: In some cases, data needs to be exported in Properties format. Using the JSON to Properties tool, data can be converted to Properties format and exported to a file.",
       "keywords": [
         "convert",
         "JSON",
         "Properties",
-        "transform"
+        "transform",
+        "Conversion",
+        "Format Conversion"
       ],
       "relatedToolId": [
         "properties-to-json",
@@ -52,10 +181,10 @@
       ]
     },
     {
-      "name": "JSON To Go Struct",
+      "name": "JSON to Go Struct",
       "id": "json-to-go-struct",
-      "version": "1.0.1",
-      "description": "JSON To Go Struct",
+      "version": "1.0.8",
+      "description": "JSON to Go Struct Tool is a tool used to convert JSON data to Go Struct. It can convert the input JSON data to Go Struct format and output the Go Struct code.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data to Go Struct format.\n\n3. The converted Go Struct code will be displayed in the tool's output area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert the returned JSON data to Go Struct format. Using the JSON to Go Struct tool can quickly convert JSON data to Go Struct format, making it easy to check data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily convert JSON data to Go Struct format, which helps them better understand data structure and content.\n\n3. Code generation: When writing Go code, developers often need to manually write structures. Using the JSON to Go Struct tool can quickly generate Go Struct code, improving development efficiency.",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -68,14 +197,16 @@
         "convert",
         "JSON",
         "Go Struct",
-        "transform"
+        "transform",
+        "Conversion",
+        "Conversion Tool"
       ]
     },
     {
-      "name": "JSON To JAVA Bean",
+      "name": "JSON to Java Bean",
       "id": "json-to-java-bean",
-      "version": "1.0.1",
-      "description": "JSON To JAVA Bean",
+      "version": "1.0.7",
+      "description": "JSON to Java Bean tool is a tool used to convert JSON data to Java Bean classes. It can automatically generate Java Bean class code based on the input JSON data, and supports custom package names, class names, and whether to use Lombok.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically parse the input JSON data and generate corresponding Java Bean class code.\n\n3. Users can customize the package name, class name, and whether to use Lombok for the generated Java Bean class.\n\n4. The tool supports copying the generated Java Bean class code to the clipboard, making it easy for users to paste it directly into their IDE.\n\nUse cases:\n\n1. Backend development: In backend development, it is often necessary to convert JSON data to Java Bean classes. Using the JSON to Java Bean tool can quickly generate corresponding Java Bean class code, improving development efficiency.\n\n2. Data processing: In data processing, it is often necessary to convert JSON data to Java Bean classes. Using this tool, you can quickly generate corresponding Java Bean class code, making data processing easier.\n\n3. Code review: During code review, reviewers can use the JSON to Java Bean tool to generate corresponding Java Bean class code, making it easier to view and understand data structures.\n\nInstructions:\n\n1. Paste or input the JSON data that needs to be converted into the tool.\n\n2. Customize the package name, class name, and whether to use Lombok for the generated Java Bean class as needed.\n\n3. Click the \"Generate\" button, and the tool will automatically generate the corresponding Java Bean class code.\n\n4. Users can copy the generated Java Bean class code to the clipboard for easy pasting into their IDE.",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -88,12 +219,19 @@
         "convert",
         "JSON",
         "JAVA Bean",
-        "transform"
+        "transform",
+        "Conversion",
+        "Generation",
+        "Customization",
+        "Copy",
+        "Paste",
+        "Data Processing",
+        "Code Review"
       ]
     },
     {
       "id": "json-to-python-class",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -102,30 +240,34 @@
       "relatedToolId": [
         "yaml-to-python-class"
       ],
-      "name": "JSON To Python Class",
-      "description": "JSON To Python Class",
+      "name": "JSON to Python Class",
+      "description": "JSON to Python Class is a tool that converts JSON data into Python classes. It can transform the input JSON data into Python classes, making it easier for developers to use the data in Python.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool automatically converts the input JSON data into Python classes.\n\n3. The converted Python classes are displayed in the tool's output area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert the returned JSON data into Python classes. Using the JSON to Python Class tool, they can quickly convert JSON data into Python classes, making it easier to use the data in Python.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data into Python classes, making it easier to perform data analysis in Python.\n\n3. JSON data review: During code review, reviewers can use the JSON to Python Class tool to convert JSON data into Python classes, making it easier to view and understand the data structure.",
       "keywords": [
         "convert",
         "JSON",
         "Python Class",
-        "transform"
+        "transform",
+        "Conversion",
+        "Transformation"
       ]
     },
     {
       "id": "json-to-zod-schema",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "name": "JSON To Zod Schema",
-      "description": "JSON To Zod Schema",
+      "name": "JSON to Zod Schema",
+      "description": "JSON to Zod Schema Tool is a tool that converts JSON data to Zod Schema. It allows developers to use type checking when writing code by converting JSON data to Zod Schema.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool automatically detects the input JSON data and converts it to Zod Schema.\n\n3. The converted Zod Schema is displayed in the output area of the tool.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to use type checking to ensure the correctness of the code. Using the JSON to Zod Schema tool, developers can convert the JSON data returned by the API to Zod Schema, making it easier to use type checking when writing code.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to Zod Schema, which helps them better understand the data structure and content.\n\n3. Code review: During code review, reviewers can use the JSON to Zod Schema tool to convert JSON data to Zod Schema, making it easier to view and understand the data structure. Reviewers can also use Zod Schema to check the correctness of the code.",
       "keywords": [
         "convert",
         "JSON",
         "Zod Schema",
-        "transform"
+        "transform",
+        "Conversion",
+        "Type Checking"
       ],
       "relatedToolId": [
         "yaml-to-zod-schema"
@@ -133,7 +275,7 @@
     },
     {
       "id": "json-to-ruby-module",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -142,18 +284,20 @@
       "relatedToolId": [
         "yaml-to-ruby-module"
       ],
-      "name": "JSON To Ruby Module",
-      "description": "JSON To Ruby Module",
+      "name": "JSON to Ruby Module",
+      "description": "JSON to Ruby Module Tool is a tool used to convert JSON data to Ruby modules. It can convert the input JSON data to Ruby module format and display the converted result in the output area.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically detect the input JSON data and convert it to Ruby module format.\n\n3. The converted Ruby module will be displayed in the tool's output area.\n\nUse cases:\n\n1. Ruby development and testing: When developing or testing Ruby applications, developers often need to convert JSON data to Ruby module format. Using the JSON to Ruby Module tool can quickly convert JSON data to Ruby module format, making it convenient for rapid development and testing.\n\n2. Data processing: Data processing personnel need to process and convert various data formats. Using this tool, they can easily convert JSON data to Ruby module format, making it easier to process data.\n\n3. Data conversion: During data conversion, JSON data needs to be converted to Ruby module format. Using the JSON to Ruby Module tool can quickly convert JSON data to Ruby module format, making data conversion easier.",
       "keywords": [
         "convert",
         "JSON",
         "Ruby Module",
-        "transform"
+        "transform",
+        "Conversion",
+        "Data processing"
       ]
     },
     {
       "id": "json-to-rust-struct",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -162,18 +306,20 @@
       "relatedToolId": [
         "yaml-to-rust-struct"
       ],
-      "name": "JSON To Rust Struct",
-      "description": "JSON To Rust Struct",
+      "name": "JSON to Rust Struct",
+      "description": "JSON to Rust Struct Tool is a tool used to convert JSON data to Rust structs. It can convert the input JSON data to a Rust struct, making it easier for developers to use in Rust projects.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data to a Rust struct.\n\n3. The converted Rust struct will be displayed in the tool's output area.\n\nUse cases:\n\n1. Rust project development: In Rust project development, developers often need to convert JSON data to Rust structs. Using the JSON to Rust Struct Tool can quickly convert JSON data to Rust structs, making it easier to use in the project.\n\n2. Data processing: Data processors need to process and analyze various JSON data. Using this tool, they can easily convert JSON data to Rust structs, thereby better understanding the data structure and content.\n\n3. Data conversion: During data conversion, developers need to convert JSON data to Rust structs. Using the JSON to Rust Struct Tool can quickly convert JSON data to Rust structs, making it easier to use in the project.\n\nThe source code of the JSON to Rust Struct Tool is written in TypeScript and depends on modules such as @he3-kit/utils, example, and locale. The register.ts file defines the function for registering the JSON to Rust Struct Tool, while the json-to-rust-struct.ts file defines the input processing function and language type for the JSON to Rust Struct Tool.",
       "keywords": [
         "convert",
         "JSON",
         "Rust Struct",
-        "transform"
+        "transform",
+        "Conversion",
+        "Processing"
       ]
     },
     {
       "id": "json-to-dart-class",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -182,18 +328,22 @@
       "relatedToolId": [
         "yaml-to-dart-class"
       ],
-      "name": "JSON To Dart Class",
-      "description": "JSON To Dart Class",
+      "name": "JSON to Dart Class",
+      "description": "JSON to Dart Class tool is a tool used to convert JSON data to Dart classes. It can convert the input JSON data to Dart classes and output the corresponding Dart code.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data to Dart classes and output the corresponding Dart code.\n\n3. The output Dart code will be displayed in the tool's output area.\n\nUse cases:\n\n1. Flutter development: In Flutter development, it is often necessary to convert JSON data to Dart classes. Using the JSON to Dart Class tool can quickly generate the corresponding Dart code, making it easier for developers to develop.\n\n2. Data processing: In the data processing process, it is often necessary to convert JSON data to Dart classes. Using this tool, you can quickly generate the corresponding Dart code, making it easier to process data.\n\n3. Code review: In the code review process, reviewers can use the JSON to Dart Class tool to convert JSON data to Dart classes and view the corresponding Dart code, making it easier to view and understand data structures.",
       "keywords": [
         "convert",
         "JSON",
         "Dart Class",
-        "transform"
+        "transform",
+        "Conversion",
+        "Generation",
+        "Data processing",
+        "Code review"
       ]
     },
     {
       "id": "json-to-c0-class",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -202,18 +352,20 @@
       "relatedToolId": [
         "yaml-to-c0-class"
       ],
-      "name": "JSON To C# Class",
-      "description": "JSON To C# Class",
+      "name": "JSON to C# Class",
+      "description": "JSON to C# Class Tool is a tool used to convert JSON data to C# types. It can convert the input JSON data to C# types and display the converted code in the tool's output area.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data to C# types.\n\n3. The converted C# code will be displayed in the tool's output area.\n\n4. The tool supports copying the converted code to the clipboard, making it easy for users to paste it directly into a code editor.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert the returned JSON data to C# types. Using the JSON to C# Class tool can quickly convert JSON data to C# types, making it easier for developers to use.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to C# types, which helps them better understand the data structure and content.\n\n3. Code generation: When writing C# code, developers need to define various classes and data structures. Using the JSON to C# Class tool, developers can quickly generate C# type code, improving development efficiency.\n\n4. JSON data review: During code review, reviewers can use the JSON to C# Class tool to convert JSON data to C# types, making it easier to view and understand the data structure.",
       "keywords": [
         "convert",
         "JSON",
         "C# Class",
-        "transform"
+        "transform",
+        "C# Types",
+        "Generate Code"
       ]
     },
     {
       "id": "json-to-c00-struct",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -222,18 +374,20 @@
       "relatedToolId": [
         "yaml-to-c00-struct"
       ],
-      "name": "JSON To C++ Struct",
-      "description": "JSON To C++ Struct",
+      "name": "JSON to C++ Struct",
+      "description": "JSON to C++ Struct Tool is a tool used to convert JSON data to C++ structures. It can convert the input JSON data into C++ structures, making it easy for developers to use the data in their C++ code.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data into C++ structures.\n\n3. The converted C++ structures will be displayed in the tool's output area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert the returned JSON data into C++ structures for use in their C++ code. Using the JSON to C++ Struct tool can quickly convert JSON data into C++ structures.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data into C++ structures, making it easy to use the data in their C++ code.\n\n3. C++ code development: During C++ code development, developers need to use various data structures. Using the JSON to C++ Struct tool can convert JSON data into C++ structures, making it easy to use the data in their C++ code.",
       "keywords": [
         "convert",
         "JSON",
         "C++ Struct",
-        "transform"
+        "transform",
+        "Conversion",
+        "Transformation"
       ]
     },
     {
       "id": "json-to-swift-struct",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -242,18 +396,20 @@
       "relatedToolId": [
         "yaml-to-swift-struct"
       ],
-      "name": "JSON To Swift Struct",
-      "description": "JSON To Swift Struct",
+      "name": "JSON to Swift Struct",
+      "description": "JSON to Swift Struct Tool is a tool used to convert JSON data to Swift Struct. It can convert the input JSON data to Swift Struct format, making it easier for developers to use in Swift projects.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data to Swift Struct format.\n\n3. The converted Swift Struct data will be displayed in the tool's output area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert the returned JSON data to Swift Struct format for use in Swift projects. Using the JSON to Swift Struct tool can quickly convert JSON data to Swift Struct format, improving development efficiency.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to Swift Struct format, making it easier to use in Swift projects.\n\n3. Code review: During the code review process, reviewers can use the JSON to Swift Struct tool to convert JSON data to Swift Struct format, making it easier to view and understand the data structure.",
       "keywords": [
         "convert",
         "JSON",
         "Swift Struct",
-        "transform"
+        "transform",
+        "Conversion",
+        "Conversion Tool"
       ]
     },
     {
       "id": "json-to-objective-c-interface",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -262,18 +418,20 @@
       "relatedToolId": [
         "yaml-to-objective-c-interface"
       ],
-      "name": "JSON To Objective-C Interface",
-      "description": "JSON To Objective-C Interface",
+      "name": "JSON to Objective-C Interface",
+      "description": "JSON to Objective-C Interface Tool is a tool used to convert JSON data into Objective-C code. It can convert the input JSON data into Objective-C code, making it easier for developers to use in iOS development.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data into Objective-C code.\n\n3. The converted Objective-C code will be displayed in the tool's output area.\n\nUse cases:\n\n1. iOS development: In iOS development, developers often need to convert JSON data into Objective-C code. Using the JSON to Objective-C Interface tool can quickly convert JSON data into Objective-C code, making it easier for developers to use in iOS development.\n\n2. Data processing: Data processing personnel need to process and analyze various JSON data. Using this tool, they can easily convert JSON data into Objective-C code, making it easier to process and analyze data.\n\n3. Code review: During code review, reviewers can use the JSON to Objective-C Interface tool to convert JSON data into Objective-C code, making it easier to view and understand data structures.",
       "keywords": [
         "convert",
         "JSON",
         "Objective-C Interface",
-        "transform"
+        "transform",
+        "Conversion",
+        "Transformation"
       ]
     },
     {
       "id": "json-to-haskell-module",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -282,18 +440,20 @@
       "relatedToolId": [
         "yaml-to-haskell-module"
       ],
-      "name": "JSON To Haskell Module",
-      "description": "JSON To Haskell Module",
+      "name": "JSON to Haskell Module",
+      "description": "JSON to Haskell Module Tool is a tool used to convert JSON data into Haskell modules. It can convert JSON data into Haskell modules, making it easy to use in Haskell programs.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the JSON data into a Haskell module.\n\n3. The converted Haskell module will be displayed in the tool's output area.\n\nUse cases:\n\n1. Haskell development: In Haskell development, developers often need to convert JSON data into Haskell modules. Using the JSON to Haskell Module tool can quickly convert JSON data into Haskell modules, making it easy to use in Haskell programs.\n\n2. Data processing: Data processors need to process various JSON data. Using this tool, they can easily convert JSON data into Haskell modules, making it easier to process data.\n\n3. Data conversion: During data conversion, JSON data needs to be converted into Haskell modules. Using the JSON to Haskell Module tool can quickly convert JSON data into Haskell modules, making data conversion easier.",
       "keywords": [
         "convert",
         "JSON",
         "Haskell Module",
-        "transform"
+        "transform",
+        "Conversion",
+        "Data processing"
       ]
     },
     {
       "id": "json-to-pike-class",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -302,18 +462,23 @@
       "relatedToolId": [
         "yaml-to-pike-class"
       ],
-      "name": "JSON To Pike Class",
-      "description": "JSON To Pike Class",
+      "name": "JSON to Pike Class",
+      "description": "JSON to Pike Class Tool is a tool used to convert JSON strings to Pike Class. It can convert JSON strings to Pike Class format, making it easier for developers to use JSON data in the Pike language.\n\nFeatures:\n\n1. Paste or input the JSON string into the tool.\n\n2. The tool will automatically convert the JSON string to Pike Class format.\n\n3. The converted Pike Class data will be displayed in the tool's output area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert JSON data to Pike Class format. Using the JSON to Pike Class tool can quickly convert JSON data to Pike Class format, making it easier to use in the Pike language.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to Pike Class format, which helps them better understand the data structure and content.\n\n3. JSON data review: During code review, reviewers can use the JSON to Pike Class tool to convert JSON data to Pike Class format, making it easier to view and understand the data structure.",
       "keywords": [
         "convert",
         "JSON",
         "Pike Class",
-        "transform"
+        "transform",
+        "JSON conversion",
+        "Pike Class format",
+        "API development",
+        "data analysis",
+        "data review"
       ]
     },
     {
       "id": "json-to-elm-module",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -322,18 +487,22 @@
       "relatedToolId": [
         "yaml-to-elm-module"
       ],
-      "name": "JSON To Elm Module",
-      "description": "JSON To Elm Module",
+      "name": "JSON to Elm Module",
+      "description": "JSON to Elm Module is a tool that converts JSON data into an Elm module. It makes it easier to use JSON data in Elm applications by converting it into an Elm module.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool automatically converts the JSON data into an Elm module.\n\n3. The converted Elm module is displayed in the tool's output area.\n\nUse cases:\n\n1. Elm application development: When developing Elm applications, developers often need to convert JSON data into Elm modules. Using JSON to Elm Module tool makes it easy to convert JSON data into Elm modules, making it easier to use data.\n\n2. Data processing: Data processors need to process and analyze various JSON data. Using this tool, they can easily convert JSON data into Elm modules, making it easier to process and analyze data.\n\n3. JSON data review: During code review, reviewers can use JSON to Elm Module tool to convert JSON data into Elm modules, making it easier to view and understand data structures.",
       "keywords": [
         "convert",
         "JSON",
         "Elm Module",
-        "transform"
+        "transform",
+        "Conversion",
+        "Processing",
+        "Data Analysis",
+        "Code Review"
       ]
     },
     {
       "id": "json-to-crystal-class",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -342,18 +511,20 @@
       "relatedToolId": [
         "yaml-to-crystal-class"
       ],
-      "name": "JSON To Crystal Class",
-      "description": "JSON To Crystal Class",
+      "name": "JSON to Crystal Class",
+      "description": "JSON to Crystal Class tool is a tool used to convert JSON strings to Crystal classes. It can convert JSON strings to the format of Crystal classes, making it easier to read and use.\n\nFeatures:\n\n1. Paste or enter the JSON string into the tool.\n\n2. The tool will automatically detect the input JSON data and convert it to the format of Crystal classes.\n\n3. The converted Crystal class will be displayed in the output area of the tool.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert JSON data to the format of Crystal classes. Using the JSON to Crystal Class tool can quickly convert JSON data to the format of Crystal classes, making it easy to check data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily convert JSON data to the format of Crystal classes, thereby better understanding the data structure and content.\n\n3. Code generation: When writing Crystal code, developers can use the JSON to Crystal Class tool to convert JSON data to the format of Crystal classes, making it easier to generate code.\n\nThe tool is very easy to use, just paste or enter the JSON string into the tool, and the tool will automatically convert it to the format of Crystal classes and display the converted result in the output area. At the same time, the tool also provides input box placeholders, sample data, and automatic filling of input conditions and other functions to facilitate user use.",
       "keywords": [
         "convert",
         "JSON",
         "Crystal Class",
-        "transform"
+        "transform",
+        "Conversion",
+        "Formatting"
       ]
     },
     {
       "id": "json-to-json-schema",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -362,18 +533,20 @@
       "relatedToolId": [
         "yaml-to-json-schema"
       ],
-      "name": "JSON To JSON Schema",
-      "description": "JSON To JSON Schema",
+      "name": "JSON to JSON Schema",
+      "description": "JSON to JSON Schema Tool is a tool used to convert JSON data to JSON Schema. It can convert the input JSON data to a format that complies with the JSON Schema specification and display the converted result in the output area.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data to a format that complies with the JSON Schema specification.\n\n3. The converted JSON Schema data will be displayed in the tool's output area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to define the request and response data structures of the API. Using the JSON to JSON Schema tool can convert JSON data to a format that complies with the JSON Schema specification, making it easy to define data structures quickly.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to a format that complies with the JSON Schema specification, making it easier to understand the data structure and content.\n\n3. JSON data review: During code review, reviewers can use the JSON to JSON Schema tool to convert JSON data to a format that complies with the JSON Schema specification, making it easier to view and understand the data structure.\n\nDependencies:\n\n1. json-to-schema-fork: Used to convert JSON data to JSON Schema format.\n\n2. @he3-kit/utils: Used to provide the basic functionality of the tool.\n\n3. isJson: Used to determine whether the input data is in JSON format.\n\n4. example.ts: Used to provide sample data.\n\n5. i18n.ts: Used to provide multilingual support.\n\nInstructions:\n\n1. Paste or input the JSON data that needs to be converted into the input area of the tool.\n\n2. The tool will automatically convert the input JSON data to a format that complies with the JSON Schema specification and display the converted result in the output area.\n\n3. The converted JSON Schema can be modified and adjusted as needed.\n\n4. You can use the sample data provided by the tool for testing and learning.\n\n5. The tool supports multiple languages, which can be switched as needed.\n\nNotes:\n\n1. The input data must be in JSON format.\n\n2. The conversion results provided by the tool are for reference only and need to be adjusted and modified according to the actual situation.\n\n3. The tool supports multiple languages, but the corresponding language pack needs to be configured in advance.",
       "keywords": [
         "convert",
         "JSON",
         "Schema",
-        "transform"
+        "transform",
+        "Conversion",
+        "Transformation"
       ]
     },
     {
       "id": "json-to-kotlin-class",
-      "version": "1.0.3",
+      "version": "1.0.9",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -382,18 +555,19 @@
       "relatedToolId": [
         "yaml-to-kotlin-class"
       ],
-      "name": "JSON To Kotlin Class",
-      "description": "JSON To Kotlin Class",
+      "name": "JSON to Kotlin Class",
+      "description": "The JSON to Kotlin Class tool is a tool used to convert JSON data into Kotlin classes. It can convert JSON data into Kotlin classes, including data classes and nested classes.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the JSON data into Kotlin classes.\n\n3. The converted Kotlin classes will be displayed in the tool's output area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert the returned JSON data into Kotlin classes. Using the JSON to Kotlin Class tool can quickly convert JSON data into Kotlin classes, making it easy to check data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily convert JSON data into Kotlin classes, which helps them better understand data structure and content.\n\n3. Kotlin class generation: When writing Kotlin code, developers need to create various data classes and nested classes. Using the JSON to Kotlin Class tool can quickly generate Kotlin classes, reducing the workload of manual code writing.",
       "keywords": [
         "convert",
         "JSON",
         "Kotlin Class",
-        "transform"
+        "transform",
+        "Generate"
       ]
     },
     {
       "id": "json-to-toml",
-      "version": "1.0.4",
+      "version": "1.0.12",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -402,18 +576,21 @@
       "relatedToolId": [
         "toml-to-json"
       ],
-      "name": "JSON To TOML",
-      "description": "JSON To TOML",
+      "name": "JSON to TOML",
+      "description": "JSON to TOML Tool is a tool used to convert JSON format to TOML format. It can convert JSON strings to TOML strings, making it easier for users to use in different scenarios.\n\nFeatures:\n\n1. Convert JSON data to TOML data: Users can paste or input difficult-to-read JSON data into the tool, and the tool will automatically convert it into easy-to-read TOML data.\n\n2. Convert TOML data to JSON data: Users can also paste or input TOML data into the tool, and the tool will automatically convert it into JSON data.\n\n3. Display converted data: The converted data will be displayed in the output area of the tool, making it easy for users to view and copy.\n\nUse cases:\n\n1. Configuration file conversion: In project development, sometimes it is necessary to convert configuration files from JSON format to TOML format for use in different applications. Using the JSON to TOML tool can easily complete this conversion process.\n\n2. Data format conversion: In data processing and analysis, sometimes it is necessary to convert JSON data to TOML data for use in different applications. With this tool, users can quickly complete this conversion process.\n\n3. Data format review: During code review, reviewers can use the JSON to TOML tool to convert JSON data to TOML data for easier viewing and understanding of data structures.",
       "keywords": [
         "convert",
         "JSON",
         "TOML",
-        "transform"
+        "transform",
+        "Conversion",
+        "Format Conversion",
+        "Data Processing"
       ]
     },
     {
       "id": "json-to-xml",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -422,18 +599,22 @@
       "relatedToolId": [
         "yaml-to-xml"
       ],
-      "name": "JSON To XML",
-      "description": "JSON To XML",
+      "name": "JSON to XML",
+      "description": "JSON to XML Tool is a tool used to convert JSON formatted data to XML format. It can convert JSON strings to XML format and format them by adding spaces and line breaks to make them easier to read.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the JSON data to XML format and format it.\n\n3. The formatted XML data will be displayed in the tool's output area.\n\nUse cases:\n\n1. Data conversion: During data conversion, developers often need to convert JSON data to XML format. Using the JSON to XML tool can easily accomplish this process.\n\n2. Data exchange: In the process of data exchange, different systems may use different data formats. Using this tool, JSON data can be converted to XML format for data exchange between different systems.\n\n3. Data storage: In some cases, JSON data needs to be stored in XML format. Using this tool, JSON data can be converted to XML format and formatted for better storage and management of data.\n\nInstructions:\n\n1. Paste or input the JSON data that needs to be converted into the input area of the tool.\n\n2. Click the \"Convert\" button, and the tool will automatically convert the JSON data to XML format and format it.\n\n3. The formatted XML data will be displayed in the tool's output area.\n\nNotes:\n\n1. The input JSON data must be a valid JSON string.\n\n2. The tool only supports converting JSON data to XML format and does not support converting XML data to JSON format.\n\n3. The tool only supports converting JSON data to formatted XML data and does not support formatting XML data.",
       "keywords": [
         "convert",
         "JSON",
         "XML",
-        "transform"
+        "transform",
+        "Conversion",
+        "Formatting",
+        "Data exchange",
+        "Data storage"
       ]
     },
     {
       "id": "json-to-pretty",
-      "version": "1.0.2",
+      "version": "1.0.10",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -442,8 +623,8 @@
       "relatedToolId": [
         "yaml-to-pretty"
       ],
-      "name": "JSON Format",
-      "description": "Format JSON code",
+      "name": "JSON Formatting",
+      "description": "JSON Formatting Tool is a tool used to beautify JSON strings. It can format JSON strings by adding spaces and line breaks, making it easier to read.\n\nFeatures:\n\n1. Paste or input JSON data that is difficult to read into the tool.\n\n2. The tool will automatically detect the input JSON data and format it.\n\n3. The formatted JSON data will be displayed in the output area of the tool.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to view the returned JSON data. Using the JSON Formatting Tool can convert difficult-to-read JSON data into an easy-to-read format, making it easy to quickly check the data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily format JSON data, thereby better understanding the data structure and content.\n\n3. JSON data review: During code review, reviewers can use the JSON Formatting Tool to format JSON data for easier viewing and understanding of the data structure.\n\nInstructions:\n\n1. Paste or input the JSON string that needs to be formatted into the input area of the tool.\n\n2. Click the \"Format\" button, and the tool will automatically format the JSON string and display it in the output area.\n\n3. You can use the \"Copy\" button to copy the formatted JSON string to the clipboard.\n\n4. You can use the \"Clear\" button to clear the input and output areas.\n\nNotes:\n\n1. The input JSON string must be in a valid JSON format, otherwise the tool will not be able to format it correctly.\n\n2. The tool defaults to using 2 spaces as the indentation symbol, which can be changed in the tool settings.\n\n3. The tool also provides the function of compressing JSON strings, which can be enabled in the tool settings.\n\n4. The tool supports multiple languages, which can be selected in the tool settings.",
       "keywords": [
         "json",
         "beautify",
@@ -453,12 +634,18 @@
         "format",
         "formatter",
         "validate",
-        "validator"
+        "validator",
+        "formatting",
+        "beautifying",
+        "data structure",
+        "API",
+        "data analysis",
+        "code review"
       ]
     },
     {
       "id": "json-to-typescript-interface",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -467,19 +654,22 @@
       "relatedToolId": [
         "yaml-to-typescript-interface"
       ],
-      "name": "JSON To TypeScript Interface",
-      "description": "JSON To TypeScript Interface",
+      "name": "JSON to TypeScript Interface",
+      "description": "JSON to TypeScript Interface tool is a tool used to convert JSON data to TypeScript interfaces. It can convert JSON data to TypeScript interfaces, making it easier for developers to use JSON data in TypeScript projects.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically detect the input JSON data and convert it to a TypeScript interface.\n\n3. The converted TypeScript interface will be displayed in the tool's output area.\n\nUse cases:\n\n1. TypeScript project development: In TypeScript projects, developers often need to use JSON data. Using the JSON to TypeScript Interface tool can convert JSON data to TypeScript interfaces, making it easier for developers to use JSON data in TypeScript projects.\n\n2. API development and testing: When developing or testing APIs, developers often need to view the returned JSON data. Using the JSON to TypeScript Interface tool can convert the returned JSON data to TypeScript interfaces, making it easier for developers to use the returned data in TypeScript projects.\n\n3. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to TypeScript interfaces, which can help them better understand the data structure and content.\n\n4. Code review: During the code review process, reviewers can use the JSON to TypeScript Interface tool to convert JSON data to TypeScript interfaces, making it easier to view and understand the data structure.",
       "keywords": [
         "convert",
         "JSON",
         "TypeScript Interface",
         "transform",
-        "ts"
+        "ts",
+        "Conversion",
+        "Conversion Tool",
+        "Data Structure"
       ]
     },
     {
       "id": "json-to-big-query-schema",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -488,18 +678,20 @@
       "relatedToolId": [
         "yaml-to-big-query-schema"
       ],
-      "name": "JSON To Big Query Schema",
-      "description": "JSON To Big Query Schema",
+      "name": "JSON to Big Query Schema",
+      "description": "The JSON to Big Query Schema tool is a tool used to convert JSON data to Big Query Schema. It can convert JSON data to Big Query Schema format, making it easy for users to use in Google Big Query.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically detect the input JSON data and convert it to Big Query Schema format.\n\n3. The converted Big Query Schema data will be displayed in the tool's output area.\n\nUse cases:\n\n1. Database development and testing: When developing or testing databases, developers often need to convert JSON data to Big Query Schema format. Using the JSON to Big Query Schema tool can quickly convert JSON data to Big Query Schema format, making it easy to use in Google Big Query.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily convert JSON data to Big Query Schema format, which helps them better understand the data structure and content.\n\n3. Database migration: When migrating data from one database to another, it may be necessary to convert JSON data to Big Query Schema format. Using the JSON to Big Query Schema tool can quickly convert JSON data to Big Query Schema format, making it easy to use in Google Big Query.",
       "keywords": [
         "convert",
         "JSON",
         "Big Query Schema",
-        "transform"
+        "transform",
+        "Conversion",
+        "Format Conversion"
       ]
     },
     {
       "id": "json-to-io-ts",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -508,18 +700,23 @@
       "relatedToolId": [
         "yaml-to-io-ts"
       ],
-      "name": "JSON To IO-TS",
-      "description": "JSON To IO-TS",
+      "name": "JSON to IO-TS",
+      "description": "JSON to IO-TS is a tool that converts JSON data to TypeScript type definitions that conform to the io-ts specification. It makes it easy for developers to use JSON data in TypeScript projects by converting it to TypeScript type definitions that conform to the io-ts specification.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool automatically converts the JSON data to TypeScript type definitions that conform to the io-ts specification.\n\n3. The converted TypeScript type definitions are displayed in the tool's output area.\n\nUse cases:\n\n1. TypeScript project development: In TypeScript projects, developers often need to use JSON data. Using the JSON to IO-TS tool, JSON data can be converted to TypeScript type definitions, making it easy to use in the project.\n\n2. API development and testing: When developing or testing APIs, developers often need to view the returned JSON data. Using the JSON to IO-TS tool, JSON data can be converted to TypeScript type definitions, making it easy to use in the project.\n\n3. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to TypeScript type definitions, making it easy to use in TypeScript projects.\n\nUsage:\n\n1. Paste or input the JSON data that needs to be converted into the input area of the tool.\n\n2. The tool automatically converts the JSON data to TypeScript type definitions and displays them in the output area of the tool.\n\n3. Developers can copy the converted TypeScript type definitions to use in their projects.\n\nNotes:\n\n1. The tool only supports converting JSON data that conforms to the io-ts specification to TypeScript type definitions.\n\n2. If the input JSON data does not conform to the io-ts specification, the tool will prompt a JSON parsing error.\n\n3. The tool is only used to convert JSON data to TypeScript type definitions and does not support converting TypeScript type definitions to JSON data.",
       "keywords": [
         "convert",
         "JSON",
         "IO-TS",
-        "transform"
+        "transform",
+        "Conversion",
+        "Type Definitions",
+        "Development",
+        "API",
+        "Data Analysis"
       ]
     },
     {
       "id": "json-to-scala",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -528,18 +725,22 @@
       "relatedToolId": [
         "yaml-to-scala"
       ],
-      "name": "JSON To Scala",
-      "description": "JSON To Scala",
+      "name": "JSON to Scala",
+      "description": "JSON to Scala tool is a tool used to convert JSON data to Scala code. It can convert JSON data to Scala code, making it easy for developers to use JSON data in Scala projects.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the JSON data to Scala code.\n\n3. The converted Scala code will be displayed in the tool's output area.\n\nUse cases:\n\n1. Scala development: In Scala projects, developers often need to use JSON data. Using the JSON to Scala tool can convert JSON data to Scala code, making it easy to use in Scala projects.\n\n2. Data conversion: In the data conversion process, sometimes it is necessary to convert JSON data to Scala code. Using this tool, JSON data can be easily converted to Scala code.\n\n3. Data processing: In the data processing process, sometimes it is necessary to convert JSON data to Scala code. Using this tool, JSON data can be quickly converted to Scala code, making data processing easier.\n\nTool usage:\n\n1. Paste or input the JSON data that needs to be converted into the tool.\n\n2. Click the convert button, and the tool will automatically convert the JSON data to Scala code.\n\n3. The converted Scala code will be displayed in the tool's output area.\n\nNotes:\n\n1. The tool only supports converting JSON data to Scala code and does not support converting Scala code to JSON data.\n\n2. If the input JSON data format is incorrect, the tool will not be able to convert it and will prompt an error message.\n\n3. The tool only supports converting JSON data to Scala code and does not support converting JSON data to code in other programming languages.",
       "keywords": [
         "convert",
         "JSON",
         "Scala",
-        "transform"
+        "transform",
+        "Conversion",
+        "Data Processing",
+        "Data Transformation",
+        "Code Generation"
       ]
     },
     {
       "id": "json-to-sarcastic",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -548,18 +749,22 @@
       "relatedToolId": [
         "yaml-to-sarcastic"
       ],
-      "name": "JSON To Sarcastic",
-      "description": "JSON To Sarcastic",
+      "name": "JSON to Sarcastic",
+      "description": "JSON to Sarcastic tool is a tool used to convert JSON strings to Sarcastic types. It can convert JSON strings to Sarcastic types and display the converted result in the output area.\n\nFeatures:\n\n1. Input the JSON string into the tool.\n\n2. The tool will automatically convert the JSON string to a Sarcastic type.\n\n3. The converted Sarcastic type data will be displayed in the tool's output area.\n\nUse cases:\n\n1. TypeScript development: In TypeScript development, developers need to convert JSON data to Sarcastic types. Using the JSON to Sarcastic tool can quickly convert JSON data to Sarcastic types, improving development efficiency.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to Sarcastic types, thereby better understanding the data structure and content.\n\n3. Code review: During the code review process, reviewers can use the JSON to Sarcastic tool to convert JSON data to Sarcastic types, making it easier to view and understand the data structure.",
       "keywords": [
         "convert",
         "JSON",
         "Sarcastic",
-        "transform"
+        "transform",
+        "Conversion",
+        "Type",
+        "Data Analysis",
+        "Code Review"
       ]
     },
     {
       "id": "json-to-generator",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -569,16 +774,20 @@
         "yaml-to-generator"
       ],
       "name": "JSON Generator",
-      "description": "Generate JSON code",
+      "description": "JSON Generator is a tool used to generate random JSON data. It can generate random JSON data that conforms to the JSON data structure input by the user.\n\nFeatures:\n\n1. Users can input a JSON data structure, and the tool will generate random JSON data that conforms to the structure.\n\n2. The tool supports generating various types of data, including numbers, strings, booleans, arrays, and objects.\n\n3. The tool supports generating repeated array data, and users can specify the number of repetitions and data types.\n\n4. The tool supports generating multiple types of data, and users can specify different types of data in the same JSON data structure.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to generate JSON data that meets certain requirements. Using the JSON Generator tool, they can quickly generate random JSON data that meets the requirements, making it easier to test various API scenarios.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily generate JSON data that meets their requirements, making it easier to understand the data structure and content.\n\n3. JSON data review: During code review, reviewers can use the JSON Generator tool to generate JSON data that meets their requirements, making it easier to test various code scenarios.",
       "keywords": [
         "json",
         "generate",
-        "generator"
+        "generator",
+        "JSON data generator",
+        "API testing tool",
+        "Data analysis tool",
+        "Code review tool"
       ]
     },
     {
       "id": "json-to-yaml",
-      "version": "1.0.1",
+      "version": "1.0.8",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -587,19 +796,25 @@
       "relatedToolId": [
         "yaml-to-json"
       ],
-      "name": "JSON To YAML",
-      "description": "JSON To YAML",
+      "name": "JSON to YAML",
+      "description": "The JSON to YAML tool is a tool used to convert JSON format to YAML format. It can convert JSON strings to YAML strings, making them easier to read and edit.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the JSON data to YAML format.\n\n3. The converted YAML data will be displayed in the tool's output area.\n\nUse cases:\n\n1. YAML format conversion: During the development or testing process, developers may need to convert JSON data to YAML format. Using the JSON to YAML tool can easily accomplish this operation.\n\n2. Data format conversion: During data processing and analysis, it may be necessary to convert JSON data to YAML format. Using this tool, JSON data can be quickly converted to YAML format for better understanding of data structure and content.\n\n3. Data review: During code review, reviewers can use the JSON to YAML tool to convert JSON data to YAML format for easier viewing and understanding of data structure.",
       "keywords": [
         "convert",
         "JSON",
         "YAML",
         "transform",
-        "YML"
+        "YML",
+        "Conversion",
+        "Format Conversion",
+        "Data Processing",
+        "Data Analysis",
+        "Data Structure",
+        "Code Review"
       ]
     },
     {
       "id": "json-to-csv",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -608,18 +823,23 @@
       "relatedToolId": [
         "yaml-to-csv"
       ],
-      "name": "JSON To CSV",
-      "description": "JSON To CSV",
+      "name": "JSON to CSV",
+      "description": "JSON to CSV Tool is a tool used to convert JSON data to CSV format. It can convert JSON data to CSV format, making it easier for users to process and analyze data.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the JSON data to CSV format.\n\n3. The converted CSV data will be displayed in the tool's output area.\n\nUse cases:\n\n1. Data processing: During data processing, users need to convert JSON data to CSV format for data analysis and processing. Using the JSON to CSV tool can quickly and easily convert JSON data to CSV format.\n\n2. Data analysis: Data analysts need to process and analyze various data formats, including JSON and CSV formats. Using this tool, they can easily convert JSON data to CSV format, making it easier to analyze and process data.\n\n3. Data export: In some cases, users need to export JSON data to CSV format for data sharing and exchange. Using the JSON to CSV tool can quickly and easily export JSON data to CSV format.\n\nInstructions:\n\n1. Paste or input the JSON data that needs to be converted into the input area of the tool.\n\n2. The tool will automatically convert the JSON data to CSV format and display the converted CSV data in the output area.\n\n3. Users can copy the converted CSV data to the clipboard or save it as a file for further processing and analysis.\n\nNotes:\n\n1. The tool only supports converting data that conforms to the JSON format to CSV format.\n\n2. The converted CSV data may need to be further processed and analyzed to meet the user's needs.\n\n3. The tool may have some conversion errors, and users need to validate and verify the data.",
       "keywords": [
         "convert",
         "JSON",
         "CSV",
-        "transform"
+        "transform",
+        "conversion",
+        "format conversion",
+        "data processing",
+        "data analysis",
+        "data export"
       ]
     },
     {
       "id": "json-to-minify",
-      "version": "1.0.1",
+      "version": "1.0.9",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -628,18 +848,28 @@
       "relatedToolId": [
         "yaml-to-minify"
       ],
-      "name": "JSON Minify",
-      "description": "Minify JSON code",
+      "name": "JSON Compressor",
+      "description": "JSON Compressor Tool Documentation\n\nOverview:\nThe JSON Compressor tool is a tool used to compress JSON strings. It can compress JSON strings into smaller sizes, making it more efficient for network transmission and storage.\n\nFeatures:\n1. Paste or input the JSON string into the tool.\n2. The tool will automatically compress the JSON string into a smaller size.\n3. The compressed JSON string will be displayed in the tool's output area.\n\nUse Cases:\n1. Network transmission: When transmitting JSON data over the network, using the JSON Compressor tool can compress the JSON string into a smaller size, reducing network transmission time and bandwidth consumption.\n2. Storage space: When storing JSON data, using the JSON Compressor tool can compress the JSON string into a smaller size, reducing storage space usage.\n3. Code optimization: When writing code, using the JSON Compressor tool can compress the JSON string into a smaller size, reducing code size and loading time.\n\nUsage:\n1. Paste or input the JSON string that needs to be compressed into the tool.\n2. Click the \"Compress\" button, and the tool will automatically compress the JSON string into a smaller size.\n3. The compressed JSON string will be displayed in the tool's output area.\n\nNotes:\n1. The input string must be a valid JSON format.\n2. The compressed JSON string may lose some formatting information, but it will not affect the content and structure of the JSON data.\n3. The compressed JSON string may be more difficult to read and understand than the original string, so it is recommended to use a JSON formatting tool when viewing JSON data.",
       "keywords": [
         "json",
         "minify",
         "compress",
-        "uglify"
+        "uglify",
+        "JSON compression",
+        "JSON compression tool",
+        "JSON compressor",
+        "JSON compression software",
+        "Online JSON compression tool",
+        "JSON string compression",
+        "JSON string compression tool",
+        "JSON string compressor",
+        "JSON string compression software",
+        "Online JSON string compression tool"
       ]
     },
     {
       "id": "json-to-php",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -648,31 +878,41 @@
       "relatedToolId": [
         "yaml-to-php"
       ],
-      "name": "JSON To PHP",
-      "description": "JSON To PHP",
+      "name": "JSON to PHP",
+      "description": "JSON to PHP Tool is a tool used to convert JSON data to PHP code. It can convert the input JSON data to PHP code and define a variable named `$data` in the code, which contains the converted PHP data.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data to PHP code.\n\n3. The converted PHP code will be displayed in the output area of the tool.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert JSON data to PHP code. Using the JSON to PHP tool can quickly convert JSON data to PHP code, making it easy for developers to use data in PHP code.\n\n2. Data processing: In the data processing process, sometimes it is necessary to convert JSON data to PHP code. Using this tool, JSON data can be easily converted to PHP code, making data processing more convenient.\n\n3. Data conversion: In the data conversion process, sometimes it is necessary to convert JSON data to PHP code. Using this tool, JSON data can be quickly converted to PHP code, making data conversion more convenient.\n\nInstructions:\n\n1. Paste or input the JSON data that needs to be converted into the input area of the tool.\n\n2. The tool will automatically convert the input JSON data to PHP code and define a variable named `$data` in the code, which contains the converted PHP data.\n\n3. The converted PHP code will be displayed in the output area of the tool.",
       "keywords": [
         "convert",
         "JSON",
         "PHP",
-        "transform"
+        "transform",
+        "Process",
+        "Data",
+        "API",
+        "Test"
       ]
     },
     {
       "id": "json-to-sql-schema",
-      "name": "JSON To SQL Schema",
+      "name": "JSON to SQL Schema",
       "icon": "coffee-outlined",
-      "version": "1.0.1",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
-      "description": "JSON To SQL Schema",
+      "description": "The JSON to SQL Schema tool is a tool used to convert JSON data to SQL Schema. It can convert JSON data to SQL Schema, making it easier for developers to create tables in the database.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the JSON data to SQL Schema.\n\n3. The converted SQL Schema will be displayed in the tool's output area.\n\nUse cases:\n\n1. Database development: In the database development process, developers need to create tables. Using the JSON to SQL Schema tool, they can easily convert JSON data to SQL Schema, making it faster to create tables.\n\n2. Database migration: In the database migration process, developers need to migrate data from one database to another. Using this tool, they can convert JSON data to SQL Schema, making it easier to migrate data.\n\n3. Database management: In the database management process, administrators need to view the table structure in the database. Using the JSON to SQL Schema tool, they can convert the table structure to JSON data, making it easier to understand the table structure.\n\nHow to use the tool:\n\n1. Paste or input the JSON data that needs to be converted into the input area of the tool.\n\n2. The tool will automatically convert the JSON data to SQL Schema and display the converted SQL Schema in the output area.\n\n3. The converted SQL Schema can be copied to the clipboard or saved as a file.",
       "keywords": [
         "convert",
         "JSON",
         "SQL Schema",
-        "transform"
+        "transform",
+        "Conversion",
+        "Generation",
+        "Table",
+        "Database Development",
+        "Database Migration",
+        "Database Management"
       ],
       "relatedToolId": [
         "yaml-to-sql-schema"
@@ -683,6 +923,7 @@
     "@he3-kit/utils": "latest",
     "@ltd/j-toml": "^1.38.0",
     "@types/json2csv": "^5.0.3",
+    "base-64": "^1.0.0",
     "dayjs": "^1.11.7",
     "decimal.js": "^10.4.3",
     "generate-schema": "^2.6.0",
@@ -695,11 +936,13 @@
     "json2php": "^0.0.7",
     "json2ts": "^0.0.7",
     "jstoxml": "^3.2.6",
+    "php-parser": "^3.1.4",
     "sql-ddl-to-json-schema": "^4.0.9",
     "sql-formatter": "^12.1.3",
     "transform-json-types": "^0.7.0",
     "vue": "^3.2.45",
     "vue-i18n": "^9.2.2",
+    "xml-parser": "^1.2.1",
     "yaml": "^2.2.1"
   },
   "devDependencies": {

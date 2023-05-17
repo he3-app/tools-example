@@ -1,110 +1,152 @@
 {
-    "zh": {
-      "$name": "Cron 表达式",
-      "$description": "Cron 表达式工具",
-      "$keywords": [
-        "定时",
-        "定期",
-        "重复"
-      ]
-    },
-    "en": {
-      "$name": "Cron Expression",
-      "$description": "Cron Expression",
-      "$keywords": [
-        "cron",
-        "crontab",
-        "regular"
-      ]
-    },
-    "de": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "zeitliche Koordinierung",
-        "regulär",
-        "wiederholen"
-      ]
-    },
-    "es": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "momento",
-        "regular",
-        "repetir"
-      ]
-    },
-    "fr": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "Horaire",
-        "régulier",
-        "répéter"
-      ]
-    },
-    "it": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "tempismo",
-        "regolare",
-        "ripetere"
-      ]
-    },
-    "ja": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "タイミング",
-        "通常",
-        "繰り返す"
-      ]
-    },
-    "ko": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "타이밍",
-        "정기적인",
-        "반복하다"
-      ]
-    },
-    "pt": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "tempo",
-        "regular",
-        "repita"
-      ]
-    },
-    "ru": {
-      "$name": "Cron Expression Editor",
-      "$description": "Cron expression preview and edit",
-      "$keywords": [
-        "время",
-        "обычный",
-        "повторить"
-      ]
-    },
-    "zh-tw": {
-      "$name": "Cron 表達式",
-      "$description": "Cron 表達式工具",
-      "$keywords": [
-        "定時",
-        "定期",
-        "重複"
-      ]
-    },
-    "zh-cn": {
-      "$name": "Cron 表达式",
-      "$description": "Cron 表达式工具",
-      "$keywords": [
-        "定时",
-        "定期",
-        "重复"
-      ]
-    }
+  "zh-cn": {
+    "$name": "Cron表达式",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular",
+      "Cron表达式",
+      "定时任务",
+      "任务调度",
+      "时间参数转换",
+      "Linux Crontab"
+    ],
+    "$description": "概述：\nCron表达式工具是一种用于生成Cron表达式的工具。它可以根据用户输入的时间参数自动生成相应的Cron表达式，使用户在编写定时任务时更加方便。\n\n特点：\n1. 用户可以选择生成常规或Linux Crontab类型的表达式。\n2. 用户可以输入时间参数，工具将根据参数自动生成相应的Cron表达式。\n3. 工具支持编辑和修改Cron表达式。\n4. 工具提供详细的帮助文档和示例，帮助用户理解和使用它。\n\n用例：\n1. 编写定时任务：在编写定时任务时，用户可以使用Cron表达式工具生成相应的Cron表达式，从而快速设置定时任务。\n2. 任务调度管理：在任务调度管理中，用户可以使用Cron表达式工具生成相应的Cron表达式，从而快速设置任务调度。\n3. 时间参数转换：在时间参数转换中，用户可以使用Cron表达式工具将时间参数转换为相应的Cron表达式，从而快速转换。\n\n说明：\n1. 输入的时间参数必须符合规范，否则无法生成相应的Cron表达式。\n2. 在编辑和修改生成的Cron表达式时，需要注意表达式的语法和规范，否则可能导致定时任务无法正确执行。"
+  },
+  "zh-tw": {
+    "$name": "Cron表達式",
+    "$keywords": [
+      "Cron表達式",
+      "定期任務",
+      "計劃任務",
+      "時間參數轉換",
+      "Linux Crontab"
+    ],
+    "$description": "概述：\nCron表达式工具是一种用于生成Cron表达式的工具。它可以根据用户输入的时间参数自动生成相应的Cron表达式，使用户在编写定时任务时更加方便。\n\n特点：\n1. 用户可以选择生成常规或Linux Crontab类型的表达式。\n2. 用户可以输入时间参数，工具将根据参数自动生成相应的Cron表达式。\n3. 工具支持编辑和修改Cron表达式。\n4. 工具提供详细的帮助文档和示例，帮助用户理解和使用它。\n\n用途：\n1. 编写定时任务：在编写定时任务时，用户可以使用Cron表达式工具生成相应的Cron表达式，从而快速设置定时任务。\n2. 任务调度管理：在任务调度管理中，用户可以使用Cron表达式工具生成相应的Cron表达式，从而快速设置任务调度。\n3. 时间参数转换：在时间参数转换中，用户可以使用Cron表达式工具将时间参数转换为相应的Cron表达式，从而快速转换。\n\n说明：\n1. 输入的时间参数必须符合规范，否则无法生成相应的Cron表达式。\n2. 在编辑和修改生成的Cron表达式时，需要注意表达式的语法和规范，否则可能导致定时任务无法正确执行。"
+  },
+  "es": {
+    "$name": "Expresión Cron",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular",
+      "expresión Cron",
+      "tarea programada",
+      "programación de tareas",
+      "conversión de parámetros de tiempo",
+      "Linux Crontab"
+    ],
+    "$description": "Resumen:\nLa herramienta de Expresión Cron es una herramienta utilizada para generar expresiones Cron. Puede generar automáticamente la expresión Cron correspondiente en función de los parámetros de tiempo ingresados por el usuario, lo que facilita su uso al escribir tareas programadas.\n\nCaracterísticas:\n1. Los usuarios pueden elegir generar expresiones de tipo Common o Linux Crontab.\n2. Los usuarios pueden ingresar parámetros de tiempo, y la herramienta generará automáticamente la expresión Cron correspondiente en función de los parámetros.\n3. La herramienta admite la edición y modificación de expresiones Cron.\n4. La herramienta proporciona documentación detallada de ayuda y ejemplos para ayudar a los usuarios a comprender y utilizarla.\n\nCasos de uso:\n1. Escritura de tareas programadas: al escribir tareas programadas, los usuarios pueden utilizar la herramienta de Expresión Cron para generar la expresión Cron correspondiente, lo que facilita la configuración rápida de tareas programadas.\n2. Gestión de programación de tareas: en la gestión de programación de tareas, los usuarios pueden utilizar la herramienta de Expresión Cron para generar la expresión Cron correspondiente, lo que facilita la configuración rápida de la programación de tareas.\n3. Conversión de parámetros de tiempo: en la conversión de parámetros de tiempo, los usuarios pueden utilizar la herramienta de Expresión Cron para convertir los parámetros de tiempo en la expresión Cron correspondiente, lo que facilita la conversión rápida.\n\nInstrucciones:\n1. Elija generar expresiones de tipo Common o Linux Crontab.\n2. Ingrese los parámetros de tiempo, y la herramienta generará automáticamente la expresión Cron correspondiente en función de los parámetros.\n3. Puede editar y modificar la expresión Cron generada.\n4. Puede ver la documentación de ayuda y ejemplos para comprender y utilizar la herramienta.\n\nNotas:\n1. Los parámetros de tiempo ingresados deben cumplir con las especificaciones, de lo contrario no se puede generar la expresión Cron correspondiente.\n2. Al editar y modificar la expresión Cron generada, es necesario prestar atención a la sintaxis y especificaciones de la expresión, de lo contrario puede provocar que la tarea programada no se ejecute correctamente."
+  },
+  "ja": {
+    "$name": "Cron Expression",
+    "$keywords": [
+      "クーロン",
+      "クーロンタブ",
+      "定期的な",
+      "クーロン式",
+      "スケジュールされたタスク",
+      "タスクスケジューリング",
+      "時間パラメータ変換",
+      "Linuxクーロンタブ"
+    ],
+    "$description": "概要：\nCron Expressionツールは、Cron式を生成するためのツールです。ユーザーが入力した時間パラメータに基づいて、対応するCron式を自動的に生成することができます。これにより、スケジュールされたタスクを書く際にユーザーが簡単に使用できます。\n\n特徴：\n1. ユーザーは、CommonまたはLinux Crontabタイプの式を生成することができます。\n2. ユーザーは時間パラメータを入力し、ツールはパラメータに基づいて自動的に対応するCron式を生成します。\n3. ツールはCron式の編集と修正をサポートしています。\n4. ツールは、ユーザーが理解して使用するための詳細なヘルプドキュメントと例を提供します。\n\n使用例：\n1. スケジュールされたタスクの書き込み：スケジュールされたタスクを書き込む際に、ユーザーはCron Expressionツールを使用して対応するCron式を生成することができます。これにより、スケジュールされたタスクを素早く設定することができます。\n2. タスクスケジュール管理：タスクスケジュール管理では、ユーザーはCron Expressionツールを使用して対応するCron式を生成することができます。これにより、タスクスケジュールを素早く設定することができます。\n3. 時間パラメータの変換：時間パラメータの変換では、ユーザーはCron Expressionツールを使用して時間パラメータを対応するCron式に変換することができます。これにより、素早く変換することができます。\n\n手順：\n1. CommonまたはLinux Crontabタイプの式を生成するように選択します。\n2. 時間パラメータを入力し、ツールはパラメータに基づいて自動的に対応するCron式を生成します。\n3. 生成されたCron式を編集および修正することができます。\n4. ヘルプドキュメントと例を表示して、ツールを理解して使用することができます。\n\n注意事項：\n1. 入力された時間パラメータは仕様に準拠している必要があります。そうでない場合、対応するCron式を生成することができません。\n2. 生成されたCron式を編集および修正する際には、式の構文と仕様に注意する必要があります。そうでない場合、スケジュールされたタスクが正しく実行されない可能性があります。"
+  },
+  "ko": {
+    "$name": "크론 표현식",
+    "$keywords": [
+      "크론",
+      "크론탭",
+      "정기적인",
+      "크론 표현식",
+      "예약된 작업",
+      "작업 스케줄링",
+      "시간 매개변수 변환",
+      "리눅스 크론탭"
+    ],
+    "$description": "개요:\nCron 표현식 도구는 Cron 표현식을 생성하는 데 사용되는 도구입니다. 사용자가 입력한 시간 매개 변수에 따라 해당 Cron 표현식을 자동으로 생성할 수 있으므로 예약된 작업을 작성할 때 사용자가 쉽게 사용할 수 있습니다.\n\n특징:\n1. 사용자는 일반 또는 Linux Crontab 유형 표현식을 생성할 수 있습니다.\n2. 사용자는 시간 매개 변수를 입력하면 도구가 해당 Cron 표현식을 자동으로 생성합니다.\n3. 도구는 Cron 표현식을 편집하고 수정하는 기능을 지원합니다.\n4. 도구는 사용자가 이해하고 사용할 수 있도록 자세한 도움말 문서와 예제를 제공합니다.\n\n사용 사례:\n1. 예약된 작업 작성: 예약된 작업을 작성할 때 사용자는 Cron 표현식 도구를 사용하여 해당 Cron 표현식을 생성할 수 있으므로 예약된 작업을 빠르게 설정할 수 있습니다.\n2. 작업 예약 관리: 작업 예약 관리에서 사용자는 Cron 표현식 도구를 사용하여 해당 Cron 표현식을 생성할 수 있으므로 작업 예약을 빠르게 설정할 수 있습니다.\n3. 시간 매개 변수 변환: 시간 매개 변수 변환에서 사용자는 Cron 표현식 도구를 사용하여 시간 매개 변수를 해당 Cron 표현식으로 변환할 수 있으므로 빠르게 변환할 수 있습니다.\n\n사용 방법:\n1. 일반 또는 Linux Crontab 유형 표현식을 생성하도록 선택합니다.\n2. 시간 매개 변수를 입력하면 도구가 해당 Cron 표현식을 자동으로 생성합니다.\n3. 생성된 Cron 표현식을 편집하고 수정할 수 있습니다.\n4. 도움말 문서와 예제를 확인하여 도구를 이해하고 사용할 수 있습니다.\n\n참고 사항:\n1. 입력한 시간 매개 변수는 규격을 준수해야 합니다. 그렇지 않으면 해당 Cron 표현식을 생성할 수 없습니다.\n2. 생성된 Cron 표현식을 편집하고 수정할 때 구문 및 규격에 주의해야 합니다. 그렇지 않으면 예약된 작업이 제대로 실행되지 않을 수 있습니다."
+  },
+  "de": {
+    "$name": "Cron-Ausdruck",
+    "$keywords": [
+      "Cron",
+      "Crontab",
+      "Regelmäßig",
+      "Cron-Ausdruck",
+      "Geplante Aufgabe",
+      "Aufgabenplanung",
+      "Zeitparameterumwandlung",
+      "Linux Crontab"
+    ],
+    "$description": "Übersicht:\nDas Cron Expression Tool ist ein Werkzeug, das zur Generierung von Cron-Ausdrücken verwendet wird. Es kann automatisch den entsprechenden Cron-Ausdruck auf der Grundlage der vom Benutzer eingegebenen Zeitparameter generieren, was es Benutzern erleichtert, bei der Erstellung von geplanten Aufgaben zu verwenden.\n\nFunktionen:\n1. Benutzer können wählen, ob sie Common- oder Linux-Crontab-Typ-Ausdrücke generieren möchten.\n2. Benutzer können Zeitparameter eingeben, und das Tool generiert automatisch den entsprechenden Cron-Ausdruck auf der Grundlage der Parameter.\n3. Das Tool unterstützt das Bearbeiten und Ändern von Cron-Ausdrücken.\n4. Das Tool bietet detaillierte Hilfedokumentationen und Beispiele, um Benutzern zu helfen, es zu verstehen und zu verwenden.\n\nAnwendungsfälle:\n1. Schreiben von geplanten Aufgaben: Beim Schreiben von geplanten Aufgaben können Benutzer das Cron Expression Tool verwenden, um den entsprechenden Cron-Ausdruck zu generieren, um geplante Aufgaben schnell einzurichten.\n2. Aufgabenplanungsmanagement: Im Aufgabenplanungsmanagement können Benutzer das Cron Expression Tool verwenden, um den entsprechenden Cron-Ausdruck zu generieren, um die Aufgabenplanung schnell einzurichten.\n3. Zeitparameterumwandlung: Bei der Zeitparameterumwandlung können Benutzer das Cron Expression Tool verwenden, um Zeitparameter in den entsprechenden Cron-Ausdruck umzuwandeln, um schnell umzuwandeln.\n\nAnweisungen:\n1. Wählen Sie aus, ob Sie Common- oder Linux-Crontab-Typ-Ausdrücke generieren möchten.\n2. Geben Sie Zeitparameter ein, und das Tool generiert automatisch den entsprechenden Cron-Ausdruck auf der Grundlage der Parameter.\n3. Sie können den generierten Cron-Ausdruck bearbeiten und ändern.\n4. Sie können die Hilfedokumentationen und Beispiele anzeigen, um das Tool zu verstehen und zu verwenden.\n\nHinweise:\n1. Die eingegebenen Zeitparameter müssen den Spezifikationen entsprechen, sonst kann der entsprechende Cron-Ausdruck nicht generiert werden.\n2. Beim Bearbeiten und Ändern des generierten Cron-Ausdrucks müssen Sie auf die Syntax und Spezifikationen des Ausdrucks achten, da sonst die geplante Aufgabe möglicherweise nicht ordnungsgemäß ausgeführt wird."
+  },
+  "fr": {
+    "$name": "Expression Cron",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "expression Cron",
+      "tâche planifiée",
+      "planification de tâches",
+      "conversion de paramètres de temps",
+      "Linux Crontab"
+    ],
+    "$description": "Aperçu:\nL'outil d'expression Cron est un outil utilisé pour générer des expressions Cron. Il peut générer automatiquement l'expression Cron correspondante en fonction des paramètres de temps saisis par l'utilisateur, ce qui facilite l'utilisation de l'outil lors de l'écriture de tâches planifiées.\n\nFonctionnalités:\n1. Les utilisateurs peuvent choisir de générer des expressions de type Common ou Linux Crontab.\n2. Les utilisateurs peuvent saisir des paramètres de temps et l'outil générera automatiquement l'expression Cron correspondante en fonction des paramètres.\n3. L'outil prend en charge l'édition et la modification des expressions Cron.\n4. L'outil fournit une documentation d'aide détaillée et des exemples pour aider les utilisateurs à comprendre et à utiliser l'outil.\n\nCas d'utilisation:\n1. Écriture de tâches planifiées: lors de l'écriture de tâches planifiées, les utilisateurs peuvent utiliser l'outil d'expression Cron pour générer l'expression Cron correspondante, ce qui facilite la configuration rapide des tâches planifiées.\n2. Gestion de la planification des tâches: dans la gestion de la planification des tâches, les utilisateurs peuvent utiliser l'outil d'expression Cron pour générer l'expression Cron correspondante, ce qui facilite la configuration rapide de la planification des tâches.\n3. Conversion de paramètres de temps: dans la conversion de paramètres de temps, les utilisateurs peuvent utiliser l'outil d'expression Cron pour convertir les paramètres de temps en l'expression Cron correspondante, ce qui facilite la conversion rapide.\n\nInstructions:\n1. Choisissez de générer des expressions de type Common ou Linux Crontab.\n2. Saisissez les paramètres de temps et l'outil générera automatiquement l'expression Cron correspondante en fonction des paramètres.\n3. Vous pouvez éditer et modifier l'expression Cron générée.\n4. Vous pouvez consulter la documentation d'aide et les exemples pour comprendre et utiliser l'outil.\n\nNotes:\n1. Les paramètres de temps saisis doivent être conformes aux spécifications, sinon l'expression Cron correspondante ne peut pas être générée.\n2. Lors de l'édition et de la modification de l'expression Cron générée, vous devez faire attention à la syntaxe et aux spécifications de l'expression, sinon cela peut causer des problèmes d'exécution de la tâche planifiée."
+  },
+  "it": {
+    "$name": "Espressione Cron",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regolare",
+      "espressione Cron",
+      "attività pianificate",
+      "pianificazione attività",
+      "conversione parametro temporale",
+      "Linux Crontab"
+    ],
+    "$description": "Panoramica:\nLo strumento Cron Expression è uno strumento utilizzato per generare espressioni Cron. Può generare automaticamente l'espressione Cron corrispondente in base ai parametri di tempo inseriti dall'utente, rendendo facile per gli utenti l'utilizzo durante la scrittura di attività pianificate.\n\nCaratteristiche:\n1. Gli utenti possono scegliere di generare espressioni di tipo Common o Linux Crontab.\n2. Gli utenti possono inserire i parametri di tempo e lo strumento genererà automaticamente l'espressione Cron corrispondente in base ai parametri.\n3. Lo strumento supporta la modifica e la modifica delle espressioni Cron.\n4. Lo strumento fornisce una documentazione dettagliata e degli esempi per aiutare gli utenti a capirlo e usarlo.\n\nCasi d'uso:\n1. Scrittura di attività pianificate: durante la scrittura di attività pianificate, gli utenti possono utilizzare lo strumento Cron Expression per generare l'espressione Cron corrispondente, rendendo facile configurare rapidamente le attività pianificate.\n2. Gestione della pianificazione delle attività: nella gestione della pianificazione delle attività, gli utenti possono utilizzare lo strumento Cron Expression per generare l'espressione Cron corrispondente, rendendo facile configurare rapidamente la pianificazione delle attività.\n3. Conversione dei parametri di tempo: nella conversione dei parametri di tempo, gli utenti possono utilizzare lo strumento Cron Expression per convertire i parametri di tempo nell'espressione Cron corrispondente, rendendo facile la conversione rapida.\n\nIstruzioni:\n1. Scegliere di generare espressioni di tipo Common o Linux Crontab.\n2. Inserire i parametri di tempo e lo strumento genererà automaticamente l'espressione Cron corrispondente in base ai parametri.\n3. È possibile modificare e modificare l'espressione Cron generata.\n4. È possibile visualizzare la documentazione di aiuto e gli esempi per capire e utilizzare lo strumento.\n\nNote:\n1. I parametri di tempo inseriti devono essere conformi alle specifiche, altrimenti non sarà possibile generare l'espressione Cron corrispondente.\n2. Quando si modifica l'espressione Cron generata, è necessario prestare attenzione alla sintassi e alle specifiche dell'espressione, altrimenti potrebbe causare il mancato esecuzione dell'attività pianificata."
+  },
+  "ru": {
+    "$name": "Выражение Cron",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "регулярный",
+      "Cron выражение",
+      "Запланированная задача",
+      "Планирование задач",
+      "Преобразование временных параметров",
+      "Linux Crontab"
+    ],
+    "$description": "Обзор:\nИнструмент Cron Expression используется для генерации выражений Cron. Он может автоматически генерировать соответствующее выражение Cron на основе временных параметров, введенных пользователем, что облегчает использование при написании запланированных задач.\n\nОсобенности:\n1. Пользователи могут выбрать тип выражения Common или Linux Crontab для генерации.\n2. Пользователи могут вводить временные параметры, и инструмент автоматически генерирует соответствующее выражение Cron на основе параметров.\n3. Инструмент поддерживает редактирование и изменение выражений Cron.\n4. Инструмент предоставляет подробную справочную документацию и примеры, чтобы помочь пользователям понять и использовать его.\n\nВарианты использования:\n1. Написание запланированных задач: при написании запланированных задач пользователи могут использовать инструмент Cron Expression для генерации соответствующего выражения Cron, что облегчает быстрое настройку запланированных задач.\n2. Управление планированием задач: при управлении планированием задач пользователи могут использовать инструмент Cron Expression для генерации соответствующего выражения Cron, что облегчает быстрое настройку планирования задач.\n3. Преобразование временных параметров: при преобразовании временных параметров пользователи могут использовать инструмент Cron Expression для преобразования временных параметров в соответствующее выражение Cron, что облегчает быстрое преобразование.\n\nИнструкции:\n1. Выберите тип выражения Common или Linux Crontab для генерации.\n2. Введите временные параметры, и инструмент автоматически генерирует соответствующее выражение Cron на основе параметров.\n3. Вы можете редактировать и изменять сгенерированное выражение Cron.\n4. Вы можете просмотреть справочную документацию и примеры, чтобы понять и использовать инструмент.\n\nПримечания:\n1. Введенные временные параметры должны соответствовать спецификациям, иначе соответствующее выражение Cron не может быть сгенерировано.\n2. При редактировании и изменении сгенерированного выражения Cron необходимо обратить внимание на синтаксис и спецификации выражения, иначе запланированная задача может не выполняться правильно."
+  },
+  "pt": {
+    "$name": "Expressão Cron",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular",
+      "Expressão Cron",
+      "Tarefa agendada",
+      "Agendamento de tarefas",
+      "Conversão de parâmetros de tempo",
+      "Linux Crontab"
+    ],
+    "$description": "Visão geral:\nA ferramenta Cron Expression é usada para gerar expressões Cron. Ela pode gerar automaticamente a expressão Cron correspondente com base nos parâmetros de tempo inseridos pelo usuário, tornando fácil para os usuários usá-la ao escrever tarefas agendadas.\n\nRecursos:\n1. Os usuários podem escolher gerar expressões do tipo Common ou Linux Crontab.\n2. Os usuários podem inserir parâmetros de tempo, e a ferramenta gerará automaticamente a expressão Cron correspondente com base nos parâmetros.\n3. A ferramenta suporta edição e modificação de expressões Cron.\n4. A ferramenta fornece documentação de ajuda detalhada e exemplos para ajudar os usuários a entender e usar a ferramenta.\n\nCasos de uso:\n1. Escrita de tarefas agendadas: Ao escrever tarefas agendadas, os usuários podem usar a ferramenta Cron Expression para gerar a expressão Cron correspondente, tornando fácil configurar rapidamente tarefas agendadas.\n2. Gerenciamento de agendamento de tarefas: No gerenciamento de agendamento de tarefas, os usuários podem usar a ferramenta Cron Expression para gerar a expressão Cron correspondente, tornando fácil configurar rapidamente o agendamento de tarefas.\n3. Conversão de parâmetros de tempo: Na conversão de parâmetros de tempo, os usuários podem usar a ferramenta Cron Expression para converter parâmetros de tempo na expressão Cron correspondente, tornando fácil converter rapidamente.\n\nInstruções:\n1. Escolha gerar expressões do tipo Common ou Linux Crontab.\n2. Insira parâmetros de tempo, e a ferramenta gerará automaticamente a expressão Cron correspondente com base nos parâmetros.\n3. Você pode editar e modificar a expressão Cron gerada.\n4. Você pode visualizar a documentação de ajuda e exemplos para entender e usar a ferramenta.\n\nObservações:\n1. Os parâmetros de tempo inseridos devem estar em conformidade com as especificações, caso contrário, a expressão Cron correspondente não poderá ser gerada.\n2. Ao editar e modificar a expressão Cron gerada, é necessário prestar atenção à sintaxe e às especificações da expressão, caso contrário, pode causar a execução inadequada da tarefa agendada."
+  },
+  "en": {
+    "$name": "Cron Expression",
+    "$keywords": [
+      "cron",
+      "crontab",
+      "regular",
+      "Cron expression",
+      "Scheduled task",
+      "Task scheduling",
+      "Time parameter conversion",
+      "Linux Crontab"
+    ],
+    "$description": "Overview:\nThe Cron Expression tool is a tool used to generate Cron expressions. It can automatically generate the corresponding Cron expression based on the time parameters entered by the user, making it easy for users to use when writing scheduled tasks.\n\nFeatures:\n1. Users can choose to generate Common or Linux Crontab type expressions.\n2. Users can enter time parameters, and the tool will automatically generate the corresponding Cron expression based on the parameters.\n3. The tool supports editing and modifying Cron expressions.\n4. The tool provides detailed help documentation and examples to help users understand and use it.\n\nUse Cases:\n1. Scheduled task writing: When writing scheduled tasks, users can use the Cron Expression tool to generate the corresponding Cron expression, making it easy to quickly set up scheduled tasks.\n2. Task scheduling management: In task scheduling management, users can use the Cron Expression tool to generate the corresponding Cron expression, making it easy to quickly set up task scheduling.\n3. Time parameter conversion: In time parameter conversion, users can use the Cron Expression tool to convert time parameters into the corresponding Cron expression, making it easy to quickly convert.\n\nInstructions:\n1. Choose to generate Common or Linux Crontab type expressions.\n2. Enter time parameters, and the tool will automatically generate the corresponding Cron expression based on the parameters.\n3. You can edit and modify the generated Cron expression.\n4. You can view the help documentation and examples to understand and use the tool.\n\nNotes:\n1. The entered time parameters must comply with the specifications, otherwise the corresponding Cron expression cannot be generated.\n2. When editing and modifying the generated Cron expression, you need to pay attention to the syntax and specifications of the expression, otherwise it may cause the scheduled task to not execute properly."
   }
+}

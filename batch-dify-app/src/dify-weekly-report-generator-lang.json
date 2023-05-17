@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "welcome": "周报生成器📒",
+    "input": "输入",
+    "pleaseInput": "请简单描述工作内容...",
+    "output": "完整的周报内容📒",
+    "outputTitle": "AI 优化后的内容",
+    "run": "生成周报"
+  },
+  "en": {
+    "welcome": "Weekly Report Generator📒",
+    "input": "Input",
+    "pleaseInput": "Please briefly describe your work...",
+    "output": "Full weekly report📒",
+    "outputTitle": "AI-optimized content",
+    "run": "Generate report"
+  },
+  "fr": {
+    "welcome": "Générateur de rapport hebdomadaire📒",
+    "input": "Entrée",
+    "pleaseInput": "Veuillez décrire brièvement votre travail...",
+    "output": "Rapport hebdomadaire complet📒",
+    "outputTitle": "Contenu optimisé par l'IA",
+    "run": "Générer le rapport"
+  },
+  "de": {
+    "welcome": "Wochenbericht Generator📒",
+    "input": "Eingang",
+    "pleaseInput": "Bitte beschreiben Sie Ihre Arbeit kurz...",
+    "output": "Vollständiger Wochenbericht📒",
+    "outputTitle": "Künstlich optimierter Inhalt",
+    "run": "Bericht generieren"
+  },
+  "pt": {
+    "welcome": "Gerador de relatório semanal📒",
+    "input": "Entrada",
+    "pleaseInput": "Por favor, descreva brevemente o seu trabalho...",
+    "output": "Relatório semanal completo📒",
+    "outputTitle": "Conteúdo otimizado por IA",
+    "run": "Gerar relatório"
+  },
+  "ru": {
+    "welcome": "Генератор еженедельных отчетов📒",
+    "input": "Вход",
+    "pleaseInput": "Пожалуйста, кратко опишите свою работу...",
+    "output": "Полный еженедельный отчет📒",
+    "outputTitle": "Оптимизированный искусственным интеллектом контент",
+    "run": "Создать отчет"
+  },
+  "ko": {
+    "welcome": "주간 보고서 생성기📒",
+    "input": "입력",
+    "pleaseInput": "귀하의 업무를 간략히 설명해주세요...",
+    "output": "전체 주간 보고서📒",
+    "outputTitle": "AI로 최적화된 내용",
+    "run": "보고서 생성"
+  },
+  "ja": {
+    "welcome": "週報ジェネレーター📒",
+    "input": "入力",
+    "pleaseInput": "あなたの仕事を簡単に説明してください...",
+    "output": "完全な週報📒",
+    "outputTitle": "AIによる最適化されたコンテンツ",
+    "run": "報告書を生成する"
+  },
+  "zh-tw": {
+    "welcome": "周報生成器📒",
+    "input": "輸入",
+    "pleaseInput": "請簡單描述工作內容...",
+    "output": "完整的周報內容📒",
+    "outputTitle": "AI 優化後的內容",
+    "run": "生成周報"
+  },
+  "es": {
+    "welcome": "Generador de informes semanales📒",
+    "input": "Entrada",
+    "pleaseInput": "Por favor, describa brevemente su trabajo...",
+    "output": "Informe semanal completo📒",
+    "outputTitle": "Contenido optimizado por AI",
+    "run": "Generar informe"
+  },
+  "it": {
+    "welcome": "Generatore di report settimanali📒",
+    "input": "Ingresso",
+    "pleaseInput": "Si prega di descrivere brevemente il tuo lavoro...",
+    "output": "Rapporto settimanale completo📒",
+    "outputTitle": "Contenuto ottimizzato dall'IA",
+    "run": "Genera rapporto"
+  }
+}
