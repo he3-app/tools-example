@@ -12,7 +12,12 @@
         @change="onSearch"
       />
       <div v-show="!$he3.renderOnSearch" class="portsBox">
-        <div v-for="(port, index) in portsList" :id="port.label" :key="index" class="port">
+        <div
+          v-for="(port, index) in portsList"
+          :id="port.label"
+          :key="index"
+          class="port"
+        >
           <span>
             <span class="range">
               {{ port.label }}
@@ -24,7 +29,10 @@
         </div>
         <span class="range colorTitle">Legends</span>
         <div v-for="(legend, index) in legends" :key="index" class="port">
-          <span class="range legendBlock" :style="{ backgroundColor: legend.color }">
+          <span
+            class="range legendBlock"
+            :style="{ backgroundColor: legend.color }"
+          >
             {{ legend.kind }}
           </span>
         </div>
@@ -37,11 +45,11 @@
   </h-single-layout>
 </template>
 <script lang="ts" setup>
-import { onMounted, reactive, ref, watch } from 'vue';
-import { useI18n } from 'vue-i18n';
-import { isPorts, legends, portsList } from './ports';
+import { onMounted, reactive, ref, watch } from "vue";
+import { useI18n } from "vue-i18n";
+import { isPorts, legends, portsList } from "./ports";
 
-import messages from './lang.json';
+import messages from "./lang.json";
 
 const $he3 = window.$he3;
 
@@ -54,9 +62,9 @@ const onSearch = (searchValue: any) => {
   const element = document.getElementById(searchValue.label);
   if (element) {
     element.scrollIntoView();
-    element.style.backgroundColor = 'coral';
+    element.style.backgroundColor = "coral";
     setTimeout(() => {
-      element.style.backgroundColor = '';
+      element.style.backgroundColor = "";
     }, 3000);
   }
 };
@@ -66,53 +74,38 @@ const filterOption = (input: string, option: any) => {
   return option.label.toLowerCase().includes(input.toLowerCase());
 };
 const searchRes = reactive<any>({
-  port: '',
-  meaning: '',
+  port: "",
+  meaning: "",
 });
-onMounted(() => {
+onMounted(async () => {
   if ($he3.renderOnSearch) {
-    $he3.getSearchValue().then((res) => {
-      searchRes.port = res?.match(/[0-9]{1,5}/)?.[0] || '';
-      searchRes.meaning = '';
-      for (const s of portsList) {
-        if (s.label == searchRes.port) {
-          searchRes.meaning = s.value;
-          return;
-        }
-      }
-    });
-  }
-
-  $he3.getLastClipboard().then((res) => {
-    if (isPorts(res)) {
-      $he3.onUseClipboardValue();
-
-      const element = document.getElementById(res);
-      if (element) {
-        element.scrollIntoView();
-        element.style.backgroundColor = 'coral';
-        setTimeout(() => {
-          element.style.backgroundColor = '';
-        }, 3000);
+    const res = await $he3.getSearchValue();
+    searchRes.port = res?.match(/[0-9]{1,5}/)?.[0] || '';
+    searchRes.meaning = '';
+    for (const s of portsList) {
+      if (s.label === searchRes.port) {
+        searchRes.meaning = s.value;
+        break;
       }
     }
-  });
+  }
+  
+  const previewerValue = await $he3.getPreviewerValue() || await $he3.getLastClipboard();
+
+  if (isPorts(previewerValue)) {
+    const element = document.getElementById(previewerValue);
+    if (element) {
+      element.scrollIntoView();
+      element.style.backgroundColor = 'coral';
+      setTimeout(() => {
+        element.style.backgroundColor = '';
+      }, 3000);
+    }
+  }
+
+  $he3.onUseClipboardValue();
 });
-// watch(
-//     () => props.searchValue,
-//     (val, prevVal) => {
-//       searchRes.port = props.searchValue?.match(/[0-9]{1,5}/)?.[0] || ''
-//       searchRes.meaning = ''
-//       for (let s of portsList) {
-//         if (s.label == searchRes.port) {
-//           searchRes.meaning = s.value
-//           console.log(s.label)
-//           break
-//         }
-//       }
-//     },
-//     {immediate: true},
-// )
+
 </script>
 <style lang="less" scoped>
 .portsBox {

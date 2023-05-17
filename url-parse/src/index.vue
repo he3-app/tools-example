@@ -47,40 +47,23 @@ const outputValue = ref({});
 
 function parseUrl() {
   outputValue.value = new parse(inputValue.value, true);
-  console.log(outputValue)
+  console.log(outputValue);
 }
 
-onMounted(() => {
-  /* $he3
-    .getPreviewerValue()
-    .then((res) => {
-      if (isUrl(res)) {
-        inputValue.value = res;
-        parseUrl();
-        return false;
-      } else {
-        return true;
-      }
-    })
-    .then((flag) => {
-      console.log('%cindex.vue line:65 flag', 'color: #007acc;', flag);
-      flag &&
-        $he3.getLastClipboard().then((res) => {
-          if (isUrl(res)) {
-            inputValue.value = res;
-            parseUrl();
-            $he3.onUseClipboardValue();
-          }
-        });
-    }); */
-    $he3.getLastClipboard().then((res) => {
-          if (isUrl(res)) {
-            inputValue.value = res;
-            parseUrl();
-            $he3.onUseClipboardValue();
-          }
-        });
+onMounted(async () => {
   parseUrl();
+  const previewerValue = await $he3.getPreviewerValue();
+  if (isUrl(previewerValue)) {
+    inputValue.value = previewerValue;
+    parseUrl();
+  } else {
+    const clipboardValue = await $he3.getLastClipboard();
+    if (isUrl(clipboardValue)) {
+      inputValue.value = clipboardValue;
+      parseUrl();
+      $he3.onUseClipboardValue();
+    }
+  }
 });
 </script>
 <style scoped lang="less">

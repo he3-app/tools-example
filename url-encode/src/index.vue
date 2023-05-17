@@ -11,7 +11,9 @@
               @change="encode"
             >
               <a-radio-button value="uri">URI</a-radio-button>
-              <a-radio-button value="uriComponent">URI Component</a-radio-button>
+              <a-radio-button value="uriComponent"
+                >URI Component</a-radio-button
+              >
             </h-radio>
           </span>
         </p>
@@ -33,21 +35,24 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, ref } from 'vue';
-import { useI18n } from 'vue-i18n';
-import { isUrl } from './util';
-import messages from './lang.json';
+import { onMounted, ref } from "vue";
+import { useI18n } from "vue-i18n";
+import { isUrl } from "./util";
+import messages from "./lang.json";
+const $he3 = window.$he3
 const { t } = useI18n({
   locale: window.$he3.lang,
   messages,
 });
-const inputValue = ref('https://he3.app?name=He3 Application&platform="apple,windows"');
-const outputValue = ref('');
-const option = ref('uri');
+const inputValue = ref(
+  'https://he3.app?name=He3 Application&platform="apple,windows"'
+);
+const outputValue = ref("");
+const option = ref("uri");
 
 const encode = () => {
   try {
-    if (option.value === 'uriComponent') {
+    if (option.value === "uriComponent") {
       outputValue.value = encodeURIComponent(inputValue.value);
     } else {
       outputValue.value = encodeURI(inputValue.value);
@@ -59,7 +64,7 @@ const encode = () => {
 
 const decode = () => {
   try {
-    if (option.value === 'uriComponent') {
+    if (option.value === "uriComponent") {
       inputValue.value = decodeURIComponent(outputValue.value);
     } else {
       inputValue.value = decodeURI(outputValue.value);
@@ -68,15 +73,21 @@ const decode = () => {
     $he3.message.warn((error as any).toString());
   }
 };
-onMounted(() => {
-  $he3.getLastClipboard().then((res) => {
-    if (isUrl(res)) {
-      inputValue.value = res;
+
+onMounted(async () => {
+  encode();
+  const previewerValue = await $he3.getPreviewerValue();
+  if (isUrl(previewerValue)) {
+    inputValue.value = previewerValue;
+    encode();
+  } else {
+    const clipboardValue = await $he3.getLastClipboard();
+    if (isUrl(clipboardValue)) {
+      inputValue.value = clipboardValue;
       encode();
       $he3.onUseClipboardValue();
     }
-  });
-  encode();
+  }
 });
 </script>
 <style scoped lang="less">
