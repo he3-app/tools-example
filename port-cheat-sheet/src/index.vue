@@ -80,8 +80,8 @@ const searchRes = reactive<any>({
 onMounted(async () => {
   if ($he3.renderOnSearch) {
     const res = await $he3.getSearchValue();
-    searchRes.port = res?.match(/[0-9]{1,5}/)?.[0] || '';
-    searchRes.meaning = '';
+    searchRes.port = res?.match(/[0-9]{1,5}/)?.[0] || "";
+    searchRes.meaning = "";
     for (const s of portsList) {
       if (s.label === searchRes.port) {
         searchRes.meaning = s.value;
@@ -89,23 +89,27 @@ onMounted(async () => {
       }
     }
   }
-  
-  const previewerValue = await $he3.getPreviewerValue() || await $he3.getLastClipboard();
 
-  if (isPorts(previewerValue)) {
-    const element = document.getElementById(previewerValue);
-    if (element) {
-      element.scrollIntoView();
-      element.style.backgroundColor = 'coral';
-      setTimeout(() => {
-        element.style.backgroundColor = '';
-      }, 3000);
+  const processValue = async (value) => {
+    if (isPorts(value)) {
+      const element = document.getElementById(value);
+      if (element) {
+        element.scrollIntoView();
+        element.style.backgroundColor = "coral";
+        setTimeout(() => {
+          element.style.backgroundColor = "";
+        }, 3000);
+      }
     }
-  }
+  };
+  const previewerValue = await $he3.getPreviewerValue();
+  await processValue(previewerValue);
 
-  $he3.onUseClipboardValue();
+  const clipboardValue = await $he3.getLastClipboard();
+  await processValue(clipboardValue);
+  
+  if (isPorts(clipboardValue)) $he3.onUseClipboardValue();
 });
-
 </script>
 <style lang="less" scoped>
 .portsBox {
