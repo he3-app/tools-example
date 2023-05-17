@@ -27,7 +27,7 @@
 </template>
 
 <script setup lang="ts">
-import { defineEmits, defineProps, onMounted, ref } from 'vue';
+import { defineEmits, onMounted, ref } from 'vue';
 import { useI18n } from 'vue-i18n';
 import { parse as uuidParse, version as uuidVersion, validate } from 'uuid';
 import { isUUID } from '@he3-kit/utils';

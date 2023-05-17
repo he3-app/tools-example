@@ -66,7 +66,7 @@ import { useI18n } from "vue-i18n";
 import timezonesData from "../data/timezones.json";
 import { DateFormatEnum } from "./enums";
 import messages from "./lang.json";
-
+const $he3 = window.$he3
 const { t } = useI18n({
   locale: window.$he3.lang,
   messages,
@@ -106,6 +106,7 @@ function isNumber(str: string) {
 }
 
 onMounted(() => {
+  formatTimestamp();
   $he3.getLastClipboard().then((res) => {
     if (isNumber(res)) {
       const clipboardValue = Number.parseInt(res);
@@ -140,6 +141,34 @@ onMounted(() => {
     formatTimestamp();
     $he3.onUseClipboardValue();
   });
+});
+onMounted(async () => {
+  formatTimestamp();
+  const previewerValue = await $he3.getPreviewerValue() || await $he3.getLastClipboard();
+  if (isNumber(previewerValue)) {
+    const value = Number.parseInt(previewerValue);
+    const maxDate = dayjs("2080-12-31 23:59:59", "YYYY-MM-DD HH:mm:ss");
+    const minDate = dayjs("1980-01-01 00:00:00", "YYYY-MM-DD HH:mm:ss");
+    if (
+      (value >= minDate.unix() && value <= maxDate.unix()) ||
+      (value >= minDate.valueOf() && value <= maxDate.valueOf()) ||
+      (value >= minDate.valueOf() * 1000 && value <= maxDate.valueOf() * 1000) ||
+      (value >= minDate.valueOf() * 1000000 && value <= maxDate.valueOf() * 1000000)
+    ) {
+      timestamp.value = value;
+      if (value >= minDate.unix() && value <= maxDate.unix()) {
+        timestampFormat.value = "s";
+      } else if (value >= minDate.valueOf() && value <= maxDate.valueOf()) {
+        timestampFormat.value = "ms";
+      } else if (value >= minDate.valueOf() * 1000 && value <= maxDate.valueOf() * 1000) {
+        timestampFormat.value = "us";
+      } else if (value >= minDate.valueOf() * 1000000 && value <= maxDate.valueOf() * 1000000) {
+        timestampFormat.value = "ns";
+      }
+    }
+  }
+  formatTimestamp();
+  $he3.onUseClipboardValue();
 });
 
 const timestamp = ref(dayjs().unix());

@@ -11,7 +11,7 @@
     "id": "url-decode",
     "name": "URL Decoding",
     "icon": "block-outlined",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/url-decode",
     "category": [
