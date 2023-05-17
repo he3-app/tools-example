@@ -10,20 +10,27 @@
     "id": "lottery",
     "name": "Lottery",
     "icon": "font-size-outlined",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "isPublic": true,
     "repository": "",
     "category": [
       "misc"
     ],
-    "description": "The Lottery tool is a random selection tool that allows users to input the number of samples and the number of lotteries they want to conduct. It can be used for various purposes such as selecting winners for a raffle or determining a random sample for research.",
+    "description": "Lottery Tool is a tool used for drawing lots. It can randomly select a specified number of options based on the options entered by the user and display the results in the output area of the tool.\n\nFunction description:\n\n1. Users can enter options in the input box, with each option taking up one line.\n\n2. The tool will automatically detect and process the entered options, removing blank lines and spaces.\n\n3. Users can specify the number of options to be drawn.\n\n4. After clicking the \"Draw\" button, the tool will randomly draw the specified number of options and display the results in the output area of the tool.\n\nUse scenarios:\n\n1. Activity lottery: In various activities, a lottery session is needed. Using the Lottery Tool can easily and quickly conduct the lottery, avoiding the tedious and unfair manual lottery.\n\n2. Conference lottery: In a conference, a lottery session is needed to increase interaction and fun. Using the Lottery Tool can easily and quickly conduct the lottery, avoiding the tedious and unfair manual lottery.\n\n3. Student roll call: In teaching, student roll call is needed. Using the Lottery Tool can easily and quickly conduct roll call, avoiding the tedious and unfair manual roll call.",
     "keywords": [
       "Lottery",
       "random selection",
       "number of lottery",
       "chance",
       "winning",
-      "raffle"
+      "raffle",
+      "Lottery tool",
+      "Number of winners",
+      "Winning probability",
+      "Lottery result",
+      "Lottery event",
+      "Conference interaction",
+      "Student roll call"
     ],
     "relatedToolId": []
   },

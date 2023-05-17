@@ -11,17 +11,23 @@
       "id": "utf7-decode",
       "name": "UTF7 Decoding",
       "icon": "block-outlined",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "UTF7 Decoding is a tool that allows users to decode text that has been encoded using the UTF-7 character encoding scheme. This tool is particularly useful for decoding email messages that have been encoded in UTF-7 format.",
+      "description": "UTF7 Decoding Tool is a tool used to decode UTF7 encoded strings. It can decode UTF7 encoded strings into their original form.\n\nFeatures:\n\n1. Paste or input the UTF7 encoded string into the tool.\n\n2. The tool will automatically decode the input UTF7 encoded string.\n\n3. The decoded string will be displayed in the tool's output area.\n\n4. Supports IMAP mode, which can be enabled or disabled.\n\nUse cases:\n\n1. Email client development and testing: When developing or testing email clients, developers often need to decode UTF7 encoded strings. Using the UTF7 Decoding Tool, they can decode UTF7 encoded strings into their original form, making it easier to check data structures and content.\n\n2. Data analysis: Data analysts need to process and analyze various encoded strings. Using this tool, they can easily decode UTF7 encoded strings into their original form, allowing them to better understand data structures and content.\n\n3. String decoding: During code review, reviewers can use the UTF7 Decoding Tool to decode UTF7 encoded strings, making it easier to view and understand data structures.",
       "keywords": [
         "UTF7",
         "UTF-7",
-        "Decode"
+        "Decode",
+        "UTF7 decoding",
+        "UTF-7 decoding",
+        "string decoding",
+        "encoding decoding",
+        "data analysis",
+        "email client"
       ],
       "relatedToolId": [
         "utf7-encode"
@@ -31,17 +37,23 @@
       "id": "utf7-encode",
       "name": "UTF7 Encoding",
       "icon": "block-outlined",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "UTF7 Encoding is a character encoding scheme that allows for the representation of Unicode characters using only 7-bit ASCII characters. It is commonly used in email systems and other applications where 8-bit data transmission is not possible.",
+      "description": "UTF7 Encoding Tool is a tool used to encode strings into UTF7 format. It supports IMAP encoding mode and provides reversible conversion function.\n\nFeatures:\n\n1. Enter the string to be encoded into the tool.\n\n2. The tool will automatically encode the string into UTF7 format.\n\n3. Supports IMAP encoding mode, which can be switched on and off.\n\n4. Supports reversible conversion, which can decode the encoded string into the original string.\n\nUse cases:\n\n1. Email system development and testing: When developing or testing email systems, developers often need to encode email subjects and bodies into UTF7 format. Using the UTF7 Encoding Tool can quickly encode strings into UTF7 format for easy testing and debugging.\n\n2. Data transmission: During data transmission, sometimes strings need to be encoded into UTF7 format. Using this tool, strings can be easily encoded into UTF7 format for use during data transmission.\n\n3. String processing: During string processing, sometimes strings need to be encoded into UTF7 format. Using this tool, strings can be quickly encoded into UTF7 format for further processing.\n\nNotes:\n\n1. UTF7 encoding is not a standard Unicode encoding method, so compatibility issues should be considered when using it.\n\n2. The difference between IMAP encoding mode and normal encoding mode is that IMAP encoding mode encodes some special characters into printable characters for use in email subjects and bodies.",
       "keywords": [
         "UTF7",
         "UTF-7",
-        "Encode"
+        "Encode",
+        "UTF7 encoding",
+        "string encoding",
+        "reversible conversion",
+        "IMAP encoding mode",
+        "data transmission",
+        "string processing"
       ],
       "relatedToolId": [
         "utf7-decode"
@@ -51,18 +63,24 @@
       "id": "utf8-encode",
       "name": "UTF8 Encoding",
       "icon": "block-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "UTF8 Encoding is a tool that converts characters and symbols into a standardized format that can be read and understood by different computer systems. It uses the UTF-8 encoding scheme, which is a variable-length character encoding that can represent any character in the Unicode standard.",
+      "description": "UTF8 Encoding Tool is a tool used to convert input strings into UTF8 encoding format. It supports converting input strings into HEX or HTML format of UTF8 encoding, and outputs the converted result to the output area of the tool.\n\nFunction description:\n\n1. Input the string that needs to be converted into UTF8 encoding into the tool.\n\n2. The tool will automatically convert the input string into UTF8 encoding and output the converted result to the output area of the tool.\n\n3. Supports outputting the converted result in HEX or HTML format.\n\nUse scenarios:\n\n1. Encoding conversion: During the development process, developers may need to convert strings into UTF8 encoding format. Using the UTF8 Encoding tool can facilitate quick conversion.\n\n2. Data transmission: During data transmission, sometimes data needs to be converted into UTF8 encoding format. Using the UTF8 Encoding tool can facilitate conversion and ensure the correctness of data transmission.\n\n3. Data storage: During data storage, sometimes data needs to be converted into UTF8 encoding format. Using the UTF8 Encoding tool can facilitate conversion and ensure the correctness of data storage.",
       "keywords": [
         "UTF",
         "UTF8",
         "UTF-8",
-        "Encode"
+        "Encode",
+        "UTF8 encoding",
+        "encoding conversion",
+        "data transmission",
+        "data storage",
+        "HEX format",
+        "HTML format"
       ],
       "relatedToolId": [
         "utf8-decode"
@@ -72,18 +90,24 @@
       "id": "utf8-decode",
       "name": "UTF8 Decoding",
       "icon": "block-outlined",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "UTF8 Decoding is a tool that allows users to convert UTF8 encoded text into readable characters. It supports various UTF8 formats such as UTF, UTF8, and UTF-8, making it a versatile tool for decoding text.",
+      "description": "UTF8 Decoding tool is a tool used to decode UTF8 encoded strings into readable strings. It can convert HTML entity encoded strings into UTF8 encoded strings and decode them into readable strings. This tool also provides the ability to encode strings into UTF8 encoding.\n\nFeatures:\n\n1. Paste or input the UTF8 encoded string into the tool.\n\n2. The tool will automatically detect whether the input string is UTF8 encoded.\n\n3. If the input string is an HTML entity encoded string, the tool will convert it into a UTF8 encoded string and decode it into a readable string.\n\n4. If the input string is a UTF8 encoded string, the tool will decode it into a readable string.\n\n5. The tool also provides the ability to encode strings into UTF8 encoding.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to view the returned UTF8 encoded strings. Using the UTF8 Decoding tool, they can decode it into a readable string for quick checking of data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various UTF8 encoded strings. Using this tool, they can easily decode UTF8 encoded strings into readable strings, which helps them better understand data structure and content.\n\n3. Code review: During code review, reviewers can use the UTF8 Decoding tool to decode UTF8 encoded strings for easier viewing and understanding of data structure.",
       "keywords": [
         "UTF",
         "UTF8",
         "UTF-8",
-        "Decode"
+        "Decode",
+        "UTF8 decoding",
+        "HTML entity encoding",
+        "string encoding",
+        "API development",
+        "data analysis",
+        "code review"
       ],
       "relatedToolId": [
         "utf8-encode"
@@ -93,16 +117,20 @@
       "id": "utf16-encode",
       "name": "UTF16 Encoding",
       "icon": "block-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "UTF16 Encoding is a tool that converts characters and symbols into a binary format that can be read and processed by computers. It uses the UTF16 standard to encode text, which allows for the representation of a wide range of characters from different languages and scripts.",
+      "description": "UTF16 Encoding Tool is a tool used to encode strings into the UTF16 format. It can convert the input string into the UTF16 encoding format, and also decode an already encoded string into the original string.\n\nFeatures:\n\n1. Input the string that needs to be encoded into the tool.\n\n2. The tool will automatically convert the input string into the UTF16 encoding format.\n\n3. Input the already encoded string into the tool.\n\n4. The tool will automatically decode the input encoded string into the original string.\n\nUse cases:\n\n1. String encoding: During the development process, it is necessary to encode some strings into a specific format for transmission and storage. Using the UTF16 Encoding Tool can encode the string into the UTF16 format for transmission and storage between different systems.\n\n2. String decoding: In some cases, it is necessary to decode an already encoded string into the original string. Using the UTF16 Encoding Tool can decode the already encoded string into the original string for further processing.\n\n3. String format conversion: In some cases, it is necessary to convert a string from one format to another. Using the UTF16 Encoding Tool can convert the string from other formats to the UTF16 format, or convert the UTF16 format string to other formats.",
       "keywords": [
         "utf16",
-        "encode"
+        "encode",
+        "UTF16 encoding",
+        "string encoding",
+        "string decoding",
+        "string format conversion"
       ],
       "relatedToolId": [
         "utf16-decode"
@@ -112,16 +140,20 @@
       "id": "utf16-decode",
       "name": "UTF16 Decoding",
       "icon": "block-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "UTF16 Decoding is a tool that allows users to convert UTF16 encoded text into readable characters. It is particularly useful for decoding text that has been encoded in UTF16 format, which is commonly used in computer systems and programming languages.",
+      "description": "UTF16 Decoding Tool is a tool used to decode UTF16 encoded strings into regular strings. It can decode the input UTF16 encoded string into a regular string and output the decoded string to the tool's output area.\n\nFeatures:\n\n1. Paste or input the UTF16 encoded string into the tool.\n\n2. The tool will automatically detect whether the input string is UTF16 encoded and decode it.\n\n3. The decoded string will be displayed in the tool's output area.\n\nUse cases:\n\n1. String decoding: During the development process, developers may encounter situations where they need to decode UTF16 encoded strings into regular strings. Using the UTF16 Decoding Tool can quickly decode the string, making it easier for developers to perform subsequent operations.\n\n2. Data conversion: During the data conversion process, there may be a need to convert UTF16 encoded strings into regular strings. Using this tool, you can quickly decode the string into a regular string, making it easier for subsequent data conversion operations.\n\n3. String review: During the code review process, reviewers can use the UTF16 Decoding Tool to decode strings, making it easier to view and understand the string content.",
       "keywords": [
         "utf16",
-        "decode"
+        "decode",
+        "UTF16 encoding",
+        "string decoding",
+        "data conversion",
+        "string inspection"
       ],
       "relatedToolId": [
         "utf16-encode"
@@ -131,16 +163,20 @@
       "id": "utf32-encode",
       "name": "UTF32 Encoding",
       "icon": "block-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "UTF32 Encoding is a tool that converts Unicode characters into their corresponding 32-bit code points. It is commonly used in programming and data storage applications that require a fixed-length encoding for Unicode characters.",
+      "description": "UTF32 Encoding Tool is a tool used to encode Unicode strings into the UTF-32 encoding format. It can encode the input Unicode string into the UTF-32 encoding format, and also decode the already encoded UTF-32 string into a Unicode string.\n\nFeatures:\n\n1. Input a Unicode string into the tool, and it will automatically encode it into the UTF-32 encoding format.\n\n2. Input an already encoded UTF-32 string into the tool, and it will automatically decode it into a Unicode string.\n\n3. The tool will automatically detect whether the input string is in the UTF-32 encoding format.\n\nUse cases:\n\n1. Encoding conversion: During the development process, developers may need to convert Unicode strings into the UTF-32 encoding format for use in certain scenarios. Using the UTF32 Encoding Tool makes this conversion easy.\n\n2. Data transmission: In some scenarios during data transmission, the UTF-32 encoding format may be required. Using the UTF32 Encoding Tool, Unicode strings can be encoded into the UTF-32 encoding format for use during data transmission.\n\n3. Data parsing: In some scenarios, an already encoded UTF-32 string needs to be decoded into a Unicode string. Using the UTF32 Encoding Tool makes this decoding process easy.",
       "keywords": [
         "utf32",
-        "encode"
+        "encode",
+        "UTF-32 encoding",
+        "encoding conversion",
+        "data transmission",
+        "data parsing"
       ],
       "relatedToolId": [
         "utf32-decode"
@@ -150,16 +186,21 @@
       "id": "utf32-decode",
       "name": "UTF32 Decoding",
       "icon": "block-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "UTF32 Decoding is a tool that allows users to convert UTF32 encoded text into readable characters. It is particularly useful for developers and programmers who need to work with non-ASCII characters in their code.",
+      "description": "UTF32 Decoding Tool is a tool used to decode UTF32 encoded strings into regular strings. It can convert the input UTF32 encoded string into a regular string and display the result in the output area.\n\nFeatures:\n\n1. Paste or input the UTF32 encoded string into the tool.\n\n2. The tool will automatically detect whether the input string is UTF32 encoded and decode it.\n\n3. The decoded string will be displayed in the tool's output area.\n\nUse cases:\n\n1. Encoding conversion: When performing encoding conversion, it may be necessary to convert UTF32 encoded strings into regular strings. Using the UTF32 Decoding Tool can easily accomplish this operation.\n\n2. Data processing: When processing data, you may encounter UTF32 encoded strings. Using this tool, you can decode them into regular strings for easier processing.\n\n3. Encoding review: During the code review process, you may encounter UTF32 encoded strings. Using the UTF32 Decoding Tool can decode them into regular strings for easier viewing and understanding of data structures.",
       "keywords": [
         "utf32",
-        "decode"
+        "decode",
+        "UTF32 encoding",
+        "decoding tool",
+        "encoding conversion",
+        "data processing",
+        "encoding review"
       ],
       "relatedToolId": [
         "utf32-encode"
@@ -169,16 +210,21 @@
       "id": "unicode-encode",
       "name": "Unicode Encoding",
       "icon": "block-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "Unicode Encoding is a tool that converts text into a standardized format that can be recognized and displayed by different computer systems and software applications. This encoding process assigns a unique code point to each character, symbol, and glyph in the text, allowing it to be represented and transmitted accurately across different platforms and languages.",
+      "description": "Unicode Encoding Tool is a tool that converts strings to Unicode encoding. It can convert non-ASCII characters in the string to Unicode encoding, making it easier to use in different encoding environments.\n\nFeatures:\n\n1. Enter the string to be converted into the tool.\n\n2. The tool will automatically convert non-ASCII characters in the string to Unicode encoding.\n\n3. The converted string will be displayed in the tool's output area.\n\n4. Users can choose not to convert all characters to preserve ASCII characters in the string.\n\nUse cases:\n\n1. Encoding conversion: In different encoding environments, non-ASCII characters in the string may appear as garbled text. Using the Unicode Encoding Tool can convert these characters to Unicode encoding for correct display in different encoding environments.\n\n2. String processing: During string processing, it may be necessary to convert non-ASCII characters in the string to Unicode encoding. Using this tool, strings can be easily converted to Unicode encoding for further processing.\n\n3. Programming development: During programming development, it may be necessary to convert non-ASCII characters in the string to Unicode encoding. Using the Unicode Encoding Tool can quickly convert strings to Unicode encoding for use in code.",
       "keywords": [
         "unicode",
-        "encode"
+        "encode",
+        "Unicode encoding",
+        "string conversion",
+        "encoding conversion",
+        "string processing",
+        "programming development"
       ],
       "relatedToolId": [
         "unicode-decode"
@@ -188,16 +234,21 @@
       "id": "unicode-decode",
       "name": "Unicode Decoding",
       "icon": "block-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
         "encode"
       ],
-      "description": "Unicode Decoding is a tool that converts Unicode characters into readable text, allowing users to easily decode and understand the meaning behind the encoded characters. This tool is particularly useful for developers and programmers who work with international languages and need to decode Unicode characters for their applications.",
+      "description": "Unicode Decoding tool is a tool used to convert Unicode encoding to corresponding characters. It can convert Unicode encoded strings to corresponding characters, and also convert characters to Unicode encoded strings.\n\nFunction description:\n\n1. Paste or enter the Unicode encoded string into the tool.\n\n2. The tool will automatically detect whether the input string is Unicode encoded and decode or encode it accordingly.\n\n3. The decoded or encoded string will be displayed in the output area of the tool.\n\n4. The tool provides sample data for users to test and use.\n\n5. The tool also provides the function of automatically filling in input conditions, which can automatically determine whether the input string is Unicode encoded.\n\nUsage scenarios:\n\n1. String decoding: In the development or testing process, it is often necessary to convert Unicode encoded strings to corresponding characters. Using the Unicode Decoding tool can quickly decode strings, making it easy to view and understand data content.\n\n2. String encoding: In the development or testing process, it is often necessary to convert characters to Unicode encoded strings. Using the Unicode Decoding tool can quickly encode strings, making it easy to transmit and store data.\n\n3. Data analysis: Data analysts need to process and analyze various string data, including Unicode encoded strings. Using this tool, they can easily convert Unicode encoded strings to corresponding characters, thereby better understanding data structure and content.\n\n4. String review: During code review, reviewers can use the Unicode Decoding tool to decode Unicode encoded strings, making it easier to view and understand data structure.",
       "keywords": [
         "unicode",
-        "decode"
+        "decode",
+        "Unicode encoding",
+        "string decoding",
+        "string encoding",
+        "data analysis",
+        "string inspection"
       ],
       "relatedToolId": [
         "unicode-encode"

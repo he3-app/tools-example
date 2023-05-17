@@ -1,81 +1,97 @@
 {
   "zh-cn": {
     "$name": "代码转图片",
-    "$description": "代码转图片是一款工具，可以将您的代码转换为视觉上吸引人的图片，使分享和展示您的工作变得更加容易。通过将代码导出为PNG文件的能力，代码转图片是创建专业外观的代码图片的绝佳方式，可用于演示、文档或社交媒体。",
     "$keywords": [
       "代码",
-      "图片",
       "图像",
+      "图片",
       "照片",
       "code2image",
-      "png"
-    ]
+      "png",
+      "代码转图像",
+      "语法高亮",
+      "图像格式",
+      "代码分享",
+      "文档编写",
+      "代码备份"
+    ],
+    "$description": "代码转图是一款将代码转换为图片的工具。用户可以输入他们的代码，选择语言和图片格式，然后将代码转换为图片以便保存。\n\n特点：\n\n1. 用户可以输入他们的代码并选择语言类型。\n\n2. 该工具将自动检测输入的代码并进行语法高亮。\n\n3. 用户可以选择图片格式，包括PNG、WEBP和SVG。\n\n4. 用户可以为图片命名并保存到本地设备。\n\n用例：\n\n1. 代码分享：用户可以使用代码转图将他们的代码转换为图片，然后在社交媒体或博客上分享，以更好地展示他们的代码。\n\n2. 文档编写：在编写文档时，用户可以使用代码转图将他们的代码转换为图片以便更好地显示。\n\n3. 代码备份：用户可以使用代码转图将他们的代码转换为图片并保存到本地设备或云存储中进行备份和分享。"
   },
   "zh-tw": {
     "$name": "代碼轉圖片",
-    "$description": "代碼轉圖片是一個工具，可以將您的代碼轉換為視覺上吸引人的圖像，使分享和展示您的工作更加容易。通過將代碼導出為PNG文件的能力，代碼轉圖片是創建專業外觀的代碼圖像的絕佳方式，可用於演示、文檔或社交媒體。",
     "$keywords": [
-      "代碼",
+      "程式碼",
+      "圖片",
       "圖片",
       "圖片",
       "照片",
-      "code2image",
-      "png"
-    ]
+      "程式碼轉圖片",
+      "png",
+      "程式碼轉圖片",
+      "語法突顯",
+      "圖片格式",
+      "程式碼分享",
+      "文件撰寫",
+      "程式碼備份"
+    ],
+    "$description": "代碼轉圖片是一個將代碼轉換為圖片的工具。用戶可以輸入他們的代碼，選擇語言和圖片格式，然後將代碼轉換為圖片以便保存。\n\n功能：\n\n1. 用戶可以輸入他們的代碼並選擇語言類型。\n\n2. 工具將自動檢測輸入的代碼並執行語法高亮顯示。\n\n3. 用戶可以選擇圖片格式，包括PNG、WEBP和SVG。\n\n4. 用戶可以為圖片命名並將其保存到本地設備。\n\n使用情境：\n\n1. 代碼分享：用戶可以使用代碼轉圖片將他們的代碼轉換為圖片，然後在社交媒體或博客上分享，以更好地展示他們的代碼。\n\n2. 文件編寫：在編寫文件時，用戶可以使用代碼轉圖片將他們的代碼轉換為圖片以便更好地顯示。\n\n3. 代碼備份：用戶可以使用代碼轉圖片將他們的代碼轉換為圖片，並將其保存到本地設備或雲存儲中進行備份和分享。"
   },
   "es": {
     "$name": "Código a Imagen",
-    "$description": "Código a Imagen es una herramienta que te permite transformar tu código en imágenes visualmente atractivas, lo que facilita compartir y mostrar tu trabajo. Con la capacidad de exportar tu código como un archivo PNG, Código a Imagen es una excelente manera de crear imágenes profesionales de tu código para presentaciones, documentación o redes sociales.",
     "$keywords": [
       "código",
       "imagen",
       "foto",
-      "imagen",
-      "photo",
+      "pic",
+      "picture",
       "code2image",
-      "png"
-    ]
+      "png",
+      "Código a Imagen",
+      "Resaltado de Sintaxis",
+      "Formato de Imagen",
+      "Compartir Código",
+      "Escritura de Documentos",
+      "Copia de Seguridad de Código"
+    ],
+    "$description": "\"Code to Image\" es una herramienta que convierte código en una imagen. Los usuarios pueden ingresar su código, seleccionar el lenguaje y el formato de imagen, y luego convertir el código en una imagen para guardarla.\n\nCaracterísticas:\n\n1. Los usuarios pueden ingresar su código y seleccionar el tipo de lenguaje.\n\n2. La herramienta detectará automáticamente el código de entrada y realizará el resaltado de sintaxis.\n\n3. Los usuarios pueden seleccionar el formato de imagen, incluyendo PNG, WEBP y SVG.\n\n4. Los usuarios pueden nombrar la imagen y guardarla en su dispositivo local.\n\nCasos de uso:\n\n1. Compartir código: Los usuarios pueden usar \"Code to Image\" para convertir su código en una imagen y luego compartirlo en las redes sociales o en su blog para mostrar mejor su código.\n\n2. Escritura de documentos: Al escribir documentos, los usuarios pueden usar \"Code to Image\" para convertir su código en una imagen para una mejor visualización.\n\n3. Copia de seguridad de código: Los usuarios pueden usar \"Code to Image\" para convertir su código en una imagen y guardarla en su dispositivo local o almacenamiento en la nube para hacer una copia de seguridad y compartirlo."
   },
   "ja": {
     "$name": "Code to Image",
-    "$description": "Code to Imageは、コードを視覚的に魅力的な画像に変換することができるツールで、作業内容を共有したり、ショーケースしたりすることが容易になります。PNGファイルとしてコードをエクスポートする機能を備えているため、プレゼンテーション、ドキュメンテーション、またはソーシャルメディアのためのプロフェッショナルなコードの画像を作成するのに最適です。",
     "$keywords": [
-      "code",
-      "image",
-      "pic",
-      "picture",
-      "photo",
-      "code2image",
-      "png"
-    ]
+      "コード",
+      "画像",
+      "写真",
+      "コード2画像",
+      "png",
+      "コードから画像へ",
+      "シンタックスハイライト",
+      "画像フォーマット",
+      "コード共有",
+      "ドキュメント作成",
+      "コードバックアップ"
+    ],
+    "$description": "コードを画像に変換するツールである「Code to Image」は、ユーザーがコードを入力し、言語と画像形式を選択して、コードを画像に変換して保存することができます。\n\n特徴：\n\n1. ユーザーはコードを入力し、言語タイプを選択することができます。\n\n2. ツールは自動的に入力されたコードを検出し、シンタックスハイライトを実行します。\n\n3. ユーザーは、PNG、WEBP、SVGを含む画像形式を選択することができます。\n\n4. ユーザーは画像に名前を付けて、ローカルデバイスに保存することができます。\n\n使用例：\n\n1. コード共有：ユーザーはCode to Imageを使用して、コードを画像に変換し、ソーシャルメディアやブログで共有することができます。\n\n2. 文書作成：文書を作成する際に、ユーザーはCode to Imageを使用して、コードを画像に変換して表示することができます。\n\n3. コードのバックアップ：ユーザーはCode to Imageを使用して、コードを画像に変換し、ローカルデバイスやクラウドストレージに保存してバックアップや共有をすることができます。"
   },
   "ko": {
     "$name": "코드를 이미지로",
-    "$description": "코드를 이미지로 변환해 시각적으로 매력적인 이미지로 만들어주는 도구입니다. PNG 파일로 코드를 내보낼 수 있는 기능을 갖추고 있어 발표, 문서 또는 소셜 미디어에 전문적으로 보이는 코드 이미지를 만드는 데 좋습니다.",
     "$keywords": [
       "코드",
       "이미지",
       "사진",
+      "그림",
       "code2image",
-      "png"
-    ]
+      "png",
+      "코드를 이미지로",
+      "구문 강조",
+      "이미지 형식",
+      "코드 공유",
+      "문서 작성",
+      "코드 백업"
+    ],
+    "$description": "코드를 이미지로 변환하는 도구인 Code to Image은 사용자가 코드를 입력하고 언어와 이미지 형식을 선택한 후 코드를 이미지로 변환하여 저장할 수 있는 기능을 제공합니다.\n\n기능:\n\n1. 사용자는 코드를 입력하고 언어 유형을 선택할 수 있습니다.\n\n2. 도구는 자동으로 입력된 코드를 감지하고 구문 강조를 수행합니다.\n\n3. 사용자는 PNG, WEBP 및 SVG를 포함한 이미지 형식을 선택할 수 있습니다.\n\n4. 사용자는 이미지 이름을 지정하고 로컬 기기에 저장할 수 있습니다.\n\n사용 사례:\n\n1. 코드 공유: 사용자는 Code to Image을 사용하여 코드를 이미지로 변환한 후 소셜 미디어나 블로그에서 공유하여 코드를 더욱 잘 보여줄 수 있습니다.\n\n2. 문서 작성: 문서를 작성할 때 사용자는 코드를 이미지로 변환하여 더 나은 디스플레이를 할 수 있습니다.\n\n3. 코드 백업: 사용자는 Code to Image을 사용하여 코드를 이미지로 변환하고 로컬 기기나 클라우드 스토리지에 저장하여 백업하고 공유할 수 있습니다."
   },
   "de": {
     "$name": "Code zu Bild",
-    "$description": "Code to Image ist ein Tool, das es Ihnen ermöglicht, Ihren Code in visuell ansprechende Bilder zu verwandeln, um Ihre Arbeit einfacher zu teilen und zu präsentieren. Mit der Möglichkeit, Ihren Code als PNG-Datei zu exportieren, ist Code to Image eine großartige Möglichkeit, professionell aussehende Bilder Ihres Codes für Präsentationen, Dokumentationen oder soziale Medien zu erstellen.",
-    "$keywords": [
-      "code",
-      "bild",
-      "pic",
-      "bild",
-      "foto",
-      "code2image",
-      "png"
-    ]
-  },
-  "fr": {
-    "$name": "Code to Image",
-    "$description": "Code to Image est un outil qui vous permet de transformer votre code en images attrayantes, facilitant ainsi le partage et la présentation de votre travail. Avec la possibilité d'exporter votre code sous forme de fichier PNG, Code to Image est un excellent moyen de créer des images professionnelles de votre code pour des présentations, de la documentation ou des réseaux sociaux.",
     "$keywords": [
       "code",
       "image",
@@ -83,48 +99,89 @@
       "picture",
       "photo",
       "code2image",
-      "png"
-    ]
+      "png",
+      "Code to Image",
+      "Syntax Highlighting",
+      "Image Format",
+      "Code Sharing",
+      "Document Writing",
+      "Code Backup"
+    ],
+    "$description": "\"Code to Image\" ist ein Werkzeug, das Code in ein Bild umwandelt. Benutzer können ihren Code eingeben, die Sprache und das Bildformat auswählen und den Code dann in ein Bild umwandeln, um es zu speichern.\n\nFunktionen:\n\n1. Benutzer können ihren Code eingeben und die Sprache auswählen.\n\n2. Das Tool erkennt automatisch den eingegebenen Code und führt eine Syntaxhervorhebung durch.\n\n3. Benutzer können das Bildformat auswählen, einschließlich PNG, WEBP und SVG.\n\n4. Benutzer können dem Bild einen Namen geben und es auf ihrem lokalen Gerät speichern.\n\nAnwendungsfälle:\n\n1. Code-Sharing: Benutzer können \"Code to Image\" verwenden, um ihren Code in ein Bild umzuwandeln und ihn dann auf sozialen Medien oder ihrem Blog zu teilen, um ihren Code besser zu präsentieren.\n\n2. Dokumentenschreiben: Beim Schreiben von Dokumenten können Benutzer \"Code to Image\" verwenden, um ihren Code in ein Bild umzuwandeln und ihn besser darzustellen.\n\n3. Code-Backup: Benutzer können \"Code to Image\" verwenden, um ihren Code in ein Bild umzuwandeln und ihn auf ihrem lokalen Gerät oder in der Cloud zu speichern und zu teilen."
+  },
+  "fr": {
+    "$name": "Code to Image",
+    "$keywords": [
+      "code",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "code2image",
+      "png",
+      "Code to Image",
+      "Syntax Highlighting",
+      "Image Format",
+      "Code Sharing",
+      "Document Writing",
+      "Code Backup"
+    ],
+    "$description": "Code to Image est un outil qui convertit le code en image. Les utilisateurs peuvent entrer leur code, sélectionner le langage et le format d'image, puis convertir le code en image pour l'enregistrer.\n\nFonctionnalités :\n\n1. Les utilisateurs peuvent entrer leur code et sélectionner le type de langage.\n\n2. L'outil détectera automatiquement le code entré et effectuera une mise en évidence de la syntaxe.\n\n3. Les utilisateurs peuvent sélectionner le format d'image, y compris PNG, WEBP et SVG.\n\n4. Les utilisateurs peuvent nommer l'image et l'enregistrer sur leur appareil local.\n\nCas d'utilisation :\n\n1. Partage de code : Les utilisateurs peuvent utiliser Code to Image pour convertir leur code en image, puis le partager sur les réseaux sociaux ou leur blog pour mieux présenter leur code.\n\n2. Rédaction de documents : Lors de la rédaction de documents, les utilisateurs peuvent utiliser Code to Image pour convertir leur code en image pour une meilleure présentation.\n\n3. Sauvegarde de code : Les utilisateurs peuvent utiliser Code to Image pour convertir leur code en image et l'enregistrer sur leur appareil local ou leur stockage cloud pour la sauvegarde et le partage."
   },
   "it": {
     "$name": "Codice in Immagine",
-    "$description": "Codice in Immagine è uno strumento che consente di trasformare il tuo codice in immagini accattivanti, rendendo più facile condividere e mostrare il tuo lavoro. Con la possibilità di esportare il tuo codice come file PNG, Codice in Immagine è un ottimo modo per creare immagini professionali del tuo codice per presentazioni, documentazione o social media.",
     "$keywords": [
       "codice",
       "immagine",
       "foto",
-      "immagine",
-      "codice2immagine",
-      "png"
-    ]
+      "code2image",
+      "png",
+      "Sintassi in Evidenza",
+      "Formato Immagine",
+      "Condivisione Codice",
+      "Scrittura Documenti",
+      "Backup Codice"
+    ],
+    "$description": "Codice in Immagine è uno strumento che converte il codice in un'immagine. Gli utenti possono inserire il loro codice, selezionare il linguaggio e il formato dell'immagine, e quindi convertire il codice in un'immagine da salvare.\n\nCaratteristiche:\n\n1. Gli utenti possono inserire il loro codice e selezionare il tipo di linguaggio.\n\n2. Lo strumento rileverà automaticamente il codice inserito e eseguirà l'evidenziazione della sintassi.\n\n3. Gli utenti possono selezionare il formato dell'immagine, tra cui PNG, WEBP e SVG.\n\n4. Gli utenti possono dare un nome all'immagine e salvarla sul loro dispositivo locale.\n\nCasi d'uso:\n\n1. Condivisione di codice: gli utenti possono utilizzare Codice in Immagine per convertire il loro codice in un'immagine e condividerlo sui social media o sul loro blog per mostrare meglio il loro codice.\n\n2. Scrittura di documenti: durante la scrittura di documenti, gli utenti possono utilizzare Codice in Immagine per convertire il loro codice in un'immagine per una migliore visualizzazione.\n\n3. Backup del codice: gli utenti possono utilizzare Codice in Immagine per convertire il loro codice in un'immagine e salvarlo sul loro dispositivo locale o su un servizio di cloud storage per il backup e la condivisione."
   },
   "ru": {
     "$name": "Код в изображение",
-    "$description": "Код в изображение - это инструмент, который позволяет превратить ваш код в визуально привлекательные изображения, что упрощает его обмен и демонстрацию вашей работы. С возможностью экспорта вашего кода в файл PNG, Код в изображение - отличный способ создания профессионально выглядящих изображений вашего кода для презентаций, документации или социальных сетей.",
     "$keywords": [
       "код",
       "изображение",
       "картинка",
       "фото",
       "code2image",
-      "png"
-    ]
+      "png",
+      "Код в изображение",
+      "Подсветка синтаксиса",
+      "Формат изображения",
+      "Обмен кодом",
+      "Написание документов",
+      "Резервное копирование кода"
+    ],
+    "$description": "Код в изображение - это инструмент, который преобразует код в изображение. Пользователи могут ввести свой код, выбрать язык и формат изображения, а затем преобразовать код в изображение для сохранения.\n\nОсобенности:\n\n1. Пользователи могут ввести свой код и выбрать тип языка.\n\n2. Инструмент автоматически обнаруживает вводимый код и выполняет подсветку синтаксиса.\n\n3. Пользователи могут выбрать формат изображения, включая PNG, WEBP и SVG.\n\n4. Пользователи могут назвать изображение и сохранить его на своем локальном устройстве.\n\nВарианты использования:\n\n1. Обмен кодом: пользователи могут использовать Код в изображение, чтобы преобразовать свой код в изображение, а затем поделиться им в социальных сетях или на своем блоге, чтобы лучше продемонстрировать свой код.\n\n2. Написание документов: при написании документов пользователи могут использовать Код в изображение, чтобы преобразовать свой код в изображение для лучшего отображения.\n\n3. Резервное копирование кода: пользователи могут использовать Код в изображение, чтобы преобразовать свой код в изображение и сохранить его на своем локальном устройстве или в облачном хранилище для резервного копирования и обмена."
   },
   "pt": {
     "$name": "Código para Imagem",
-    "$description": "Código para Imagem é uma ferramenta que permite transformar seu código em imagens visualmente atraentes, tornando mais fácil compartilhar e exibir seu trabalho. Com a capacidade de exportar seu código como um arquivo PNG, Código para Imagem é uma ótima maneira de criar imagens profissionais do seu código para apresentações, documentação ou mídias sociais.",
     "$keywords": [
       "código",
       "imagem",
+      "pic",
       "foto",
-      "imagem",
       "code2image",
-      "png"
-    ]
+      "png",
+      "Código para Imagem",
+      "Destaque de Sintaxe",
+      "Formato de Imagem",
+      "Compartilhamento de Código",
+      "Escrita de Documentos",
+      "Backup de Código"
+    ],
+    "$description": "Code to Image é uma ferramenta que converte código em imagem. Os usuários podem inserir seu código, selecionar a linguagem e o formato de imagem e, em seguida, converter o código em uma imagem para salvar.\n\nRecursos:\n\n1. Os usuários podem inserir seu código e selecionar o tipo de linguagem.\n\n2. A ferramenta detectará automaticamente o código de entrada e realizará a sintaxe de destaque.\n\n3. Os usuários podem selecionar o formato de imagem, incluindo PNG, WEBP e SVG.\n\n4. Os usuários podem nomear a imagem e salvá-la em seu dispositivo local.\n\nCasos de uso:\n\n1. Compartilhamento de código: os usuários podem usar o Code to Image para converter seu código em uma imagem e, em seguida, compartilhá-lo nas redes sociais ou em seu blog para melhor exibir seu código.\n\n2. Escrita de documentos: ao escrever documentos, os usuários podem usar o Code to Image para converter seu código em uma imagem para melhor exibição.\n\n3. Backup de código: os usuários podem usar o Code to Image para converter seu código em uma imagem e salvá-lo em seu dispositivo local ou armazenamento em nuvem para backup e compartilhamento."
   },
   "en": {
     "$name": "Code to Image",
-    "$description": "Code to Image is a tool that allows you to transform your code into visually appealing images, making it easier to share and showcase your work. With the ability to export your code as a PNG file, Code to Image is a great way to create professional-looking images of your code for presentations, documentation, or social media.",
     "$keywords": [
       "code",
       "image",
@@ -132,7 +189,14 @@
       "picture",
       "photo",
       "code2image",
-      "png"
-    ]
+      "png",
+      "Code to Image",
+      "Syntax Highlighting",
+      "Image Format",
+      "Code Sharing",
+      "Document Writing",
+      "Code Backup"
+    ],
+    "$description": "Code to Image is a tool that converts code to an image. Users can input their code, select the language and image format, and then convert the code to an image for saving.\n\nFeatures:\n\n1. Users can input their code and select the language type.\n\n2. The tool will automatically detect the input code and perform syntax highlighting.\n\n3. Users can select the image format, including PNG, WEBP, and SVG.\n\n4. Users can name the image and save it to their local device.\n\nUse cases:\n\n1. Code sharing: Users can use Code to Image to convert their code to an image and then share it on social media or their blog to better showcase their code.\n\n2. Document writing: When writing documents, users can use Code to Image to convert their code to an image for better display.\n\n3. Code backup: Users can use Code to Image to convert their code to an image and save it to their local device or cloud storage for backup and sharing."
   }
 }

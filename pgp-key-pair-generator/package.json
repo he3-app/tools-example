@@ -10,13 +10,13 @@
     "id": "pgp-key-pair-generator",
     "name": "PGP Key Pair Generator",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/pgp-key-pair-generator",
     "category": [
       "cryptography"
     ],
-    "description": "The PGP Key Pair Generator is a tool that allows users to generate PGP (Pretty Good Privacy) key pairs, including RSA and ECC keys with lengths of 2048, 4096, and 8192 bits. This tool can be used for secure communication and encryption of sensitive data.",
+    "description": "Tool Name: PGP Key Pair Generator\n\nTool Description:\nPGP Key Pair Generator is a tool used to generate PGP key pairs. Users can input information such as username, email, comment, algorithm, key size, expiration time, and passphrase to generate a public key and a private key. The tool supports RSA and ECC algorithms and allows users to choose different key sizes and expiration times. The generated key pair can be used for encryption and signing operations.\n\nUse Cases:\n1. Encryption and Signing: PGP key pairs can be used to encrypt and sign emails, files, and messages to protect users' privacy and security.\n2. Secure Communication: PGP key pairs can be used for secure communication to ensure that communication content is not eavesdropped or tampered with.\n3. Digital Certificates: PGP key pairs can be used to generate digital certificates to verify users' identities and authorizations.\n\nInstructions:\n1. Input information such as username, email, comment, algorithm, key size, expiration time, and passphrase.\n2. Click the \"Generate\" button to generate a public key and a private key.\n3. Save the generated public key and private key locally or export them to other applications.\n4. Use the generated key pair for encryption, signing, verification, and decryption operations.\n\nNotes:\n1. The security of the key pair depends on the strength and confidentiality of the passphrase. It is recommended to use a strong password and keep the passphrase safe.\n2. The expiration time of the key pair should be set according to actual needs to ensure the validity and security of the key.\n3. The generation of the key pair may take some time, depending on factors such as algorithm, key size, and computer performance. Please be patient and wait for the generation result.",
     "keywords": [
       "GPG",
       "PGP",
@@ -27,7 +27,14 @@
       "ecc",
       "2048",
       "4096",
-      "8192"
+      "8192",
+      "key pair",
+      "encryption",
+      "signature",
+      "secure communication",
+      "digital certificate",
+      "passphrase",
+      "expiration time"
     ],
     "relatedToolId": [
       "pgp-encrypt",

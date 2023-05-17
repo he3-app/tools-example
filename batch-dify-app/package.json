@@ -12,8 +12,8 @@
       "name": "He3 answer to girlfriend",
       "id": "dify-answer-to-girlfriend",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 answer to girlfriend",
+      "version": "1.0.1",
+      "description": "He3 answer to girlfriend is a tool used to generate funny responses to girlfriends. It can generate interesting responses based on the user's input of keywords and tone, which can be used to entertain or tease girlfriends.\n\nFeatures:\n\n1. Users can input keywords and tone, such as \"I want to eat\" or \"angry\", into the tool.\n\n2. The tool will generate some interesting responses based on the input keywords and tone, such as \"You want to eat? Then I'll cook instant noodles\" or \"Are you angry? Then I'll sing you a song\".\n\n3. Users can choose their favorite response and copy it to the clipboard to send to their girlfriend.\n\nUse cases:\n\n1. Teasing: Users can use the He3 answer to girlfriend tool to generate some funny responses to tease their girlfriend.\n\n2. Emotional expression: Users can use the tool to generate some warm or romantic responses to express their emotions.\n\n3. Social entertainment: Users can share the generated responses with friends or social networks for entertainment and communication.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
@@ -21,15 +21,20 @@
       ],
       "keywords": [
         "conversation",
-        "AI"
+        "AI",
+        "Satirical humor",
+        "Emotional expression",
+        "Social entertainment",
+        "Reply generation",
+        "Tone recognition"
       ]
     },
     {
       "name": "He3 anti PUA",
       "id": "dify-anti-pua",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 anti PUA tool",
+      "version": "1.0.1",
+      "description": "The He3 anti-PUA tool is a tool designed to prevent PUAs (Pick-Up Artists). It can detect and block common techniques and strategies used by PUAs in social media and chat applications, thus protecting users from harassment and manipulation.\n\nFeatures:\n\n1. Automatically detect and block common techniques and strategies used by PUAs in social media and chat applications.\n\n2. Provide real-time warnings and suggestions to help users identify and respond to potential PUA behavior.\n\n3. Customizable settings to meet the needs and preferences of different users.\n\nUse cases:\n\n1. Prevent harassment and manipulation by PUAs in social media and chat applications.\n\n2. Protect users' privacy and safety, preventing them from unnecessary psychological pressure and harm.\n\n3. Improve users' social skills and awareness, helping them better understand and respond to unhealthy social behavior.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
@@ -37,60 +42,90 @@
       ],
       "keywords": [
         "conversation",
-        "AI"
+        "AI",
+        "PUA protection",
+        "social media security",
+        "mental health",
+        "social skills improvement"
       ]
     },
     {
       "name": "He3 Astrologer",
       "id": "dify-astrologer",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 Astrologer",
+      "version": "1.0.1",
+      "description": "He3 Astrologer is a tool for astrology. It can generate a personal natal chart based on the user's input of birth date, time, and location, and provide detailed interpretation and analysis.\n\nFeatures:\n\n1. Users can input their birth date, time, and location, and the tool will automatically calculate and generate a personal natal chart.\n\n2. The tool provides various astrology analysis tools, including zodiac sign interpretation, planet interpretation, and house interpretation.\n\n3. The tool also provides various astrology charts, including celestial chart, planetary cycle chart, and zodiac chart.\n\n4. Users can choose different astrology analysis tools and charts according to their needs for personalized astrology analysis.\n\nUse cases:\n\n1. Personal astrology analysis: Users can use He3 Astrologer to analyze their own astrology, understand their personality traits, strengths and weaknesses, and future development trends.\n\n2. Love and marriage analysis: Users can use He3 Astrologer to analyze love and marriage, understand the compatibility, personality traits, and future development trends between themselves and their partners.\n\n3. Career development analysis: Users can use He3 Astrologer to analyze career development, understand their career strengths and weaknesses, and future career development trends.\n\n4. Academic research: Astrology is an ancient and mysterious discipline. For academic researchers, using He3 Astrologer can provide a deeper understanding of the theory and practice of astrology.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
         "AI"
       ],
       "keywords": [
-        "AI"
+        "AI",
+        "Astrology",
+        "Natal Chart",
+        "Zodiac Interpretation",
+        "Planet Interpretation",
+        "House Interpretation",
+        "Sky Map",
+        "Planetary Cycle Chart",
+        "Zodiac Chart",
+        "Personal Astrological Analysis",
+        "Love and Marriage Analysis",
+        "Career Development Analysis",
+        "Academic Research"
       ]
     },
     {
       "name": "He3 dream",
       "id": "dify-dream",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 dream",
+      "version": "1.0.1",
+      "description": "He3 Dream Tool is a tool used to create and edit He3 dreams. It can help users create their own He3 dreams and edit and modify them.\n\nFeatures:\n\n1. Create He3 dreams: Users can use the He3 Dream Tool to create their own He3 dreams. The tool provides rich materials and tools to help users create unique dreams.\n\n2. Edit He3 dreams: Users can use the He3 Dream Tool to edit and modify existing He3 dreams. The tool provides various editing tools such as brushes, erasers, and fill tools to help users easily modify their dreams.\n\n3. Export He3 dreams: Users can use the He3 Dream Tool to export their created or edited He3 dreams as He3 files for use in the He3 game.\n\nUse cases:\n\n1. Creating He3 dreams: For users who enjoy creating, the He3 Dream Tool is an excellent choice. Users can use the materials and tools provided in the tool to create their own unique He3 dreams.\n\n2. Modifying He3 dreams: For existing He3 dreams, users can use the He3 Dream Tool to modify and edit them. This is very useful for users who want to improve their dreams or fix some issues.\n\n3. Sharing He3 dreams: Users can use the He3 Dream Tool to export their created or edited He3 dreams as He3 files and share them with other He3 players. This is very useful for users who want to share their creations with other players.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
         "AI"
       ],
       "keywords": [
-        "AI"
+        "AI",
+        "He3 Dream",
+        "creative tool",
+        "editing tool",
+        "export files",
+        "materials",
+        "brush",
+        "eraser",
+        "filling"
       ]
     },
     {
       "name": "He3 friend",
       "id": "dify-friend",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 friend",
+      "version": "1.0.1",
+      "description": "He3 friend is a tool used to implement a friend list in Vue.js. It helps users quickly create a friend list and provides some common friend operation functions.\n\nFunction description:\n\n1. Create a friend list: Users can quickly create a friend list, including the friend's avatar, nickname, and personal signature, etc. using the He3 friend tool.\n\n2. Friend operation functions: The tool provides some common friend operation functions, such as adding friends, deleting friends, and modifying friend information.\n\n3. Customizable style: Users can customize the style of the friend list according to their needs, including font, color, background, etc.\n\nUsage scenarios:\n\n1. Social application development: When developing social applications, developers can use the He3 friend tool to quickly create a friend list and provide some common friend operation functions, such as adding friends and deleting friends.\n\n2. Personal blog: In a personal blog, users can use the He3 friend tool to create a friend list, display their friend's information, and provide some common friend operation functions.\n\n3. Online shopping mall: In an online shopping mall, users can use the He3 friend tool to create a friend list, display their friend's information, and provide some common friend operation functions, such as inviting friends and sharing products.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
         "AI"
       ],
       "keywords": [
-        "AI"
+        "AI",
+        "Friend List",
+        "Friend Operations",
+        "Custom Styles",
+        "Social Applications",
+        "Personal Blog",
+        "Online Store"
       ]
     },
     {
       "name": "He3 AI Simulated Interviewer",
       "id": "dify-interviewer",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 AI Simulated Interviewer",
+      "version": "1.0.1",
+      "description": "He3 AI Simulated Interviewer is an AI-based interview simulation tool that helps users practice interview skills and prepare for interview questions. The tool uses natural language processing technology to simulate interviewers in real interview scenarios, providing targeted interview questions and feedback.\n\nFeatures:\n\n1. Interview simulation: Users can choose different interview positions and company types for simulation. The tool will provide corresponding interview questions and feedback based on the user's selection.\n\n2. Natural language processing: The tool uses natural language processing technology to understand the user's answers and provide corresponding feedback and suggestions based on the answer content.\n\n3. Interview feedback: The tool will provide interview feedback and suggestions based on the user's answers. Users can improve their interview skills and answer strategies based on feedback and suggestions.\n\n4. Interview record: The tool will record the user's interview process and answer content. Users can view their interview records at any time to understand their interview performance and progress.\n\nUse cases:\n\n1. Interview preparation: Users can use He3 AI Simulated Interviewer to simulate interviews, understand interview questions and feedback in advance, and improve the efficiency and quality of interview preparation.\n\n2. Interview practice: Users can use the tool for multiple interview practices to improve their interview skills and response capabilities.\n\n3. Interview evaluation: HR can use the tool to evaluate candidates' interview performance and abilities, improve interview efficiency and accuracy.\n\n4. Interview training: Interview training institutions can use the tool for interview training to improve students' interview skills and response capabilities.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
@@ -98,15 +133,23 @@
       ],
       "keywords": [
         "conversation",
-        "AI"
+        "AI",
+        "Simulated Interviewer",
+        "Natural Language Processing",
+        "Interview Feedback",
+        "Interview Recording",
+        "Interview Preparation",
+        "Interview Practice",
+        "Interview Evaluation",
+        "Interview Training"
       ]
     },
     {
       "name": "He3 leader word translator",
       "id": "dify-leader-word-translator",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 leader word explain",
+      "version": "1.0.1",
+      "description": "He3 leader word translator is a tool that converts English words into leadership language. It can convert the input English words into leadership language, making them more in line with the language norms of business occasions.\n\nFeatures:\n\n1. Enter the English words that need to be converted into the tool.\n\n2. The tool will automatically convert English words into leadership language.\n\n3. The converted leadership language will be displayed in the output area of the tool.\n\nUse cases:\n\n1. Business occasions: In business occasions, using standardized leadership language can improve communication efficiency and professionalism. Using He3 leader word translator tool can quickly convert English words into leadership language, making communication smoother.\n\n2. Business letters: When writing business letters, using standardized leadership language can improve the formality and professionalism of the letter. Using He3 leader word translator tool can quickly convert the English words that need to be used into leadership language, making the letter more standardized.\n\n3. Business reports: When writing business reports, using standardized leadership language can improve the professionalism and readability of the report. Using He3 leader word translator tool can quickly convert the English words that need to be used into leadership language, making the report more standardized.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
@@ -114,30 +157,41 @@
       ],
       "keywords": [
         "conversation",
-        "AI"
+        "AI",
+        "Leadership language",
+        "Business occasions",
+        "English word conversion",
+        "Business letters",
+        "Business reports",
+        "Professionalism",
+        "Standardization"
       ]
     },
     {
       "name": "He3 lyrics generator",
       "id": "dify-lyrics-generator",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 lyrics generator",
+      "version": "1.0.1",
+      "description": "The He3 Lyrics Generator tool is a tool used to generate lyrics. It can automatically generate lyrics based on the user's input of the song title and artist name.\n\nFeatures:\n\n1. Users input the song title and artist name.\n\n2. The tool will automatically search for related lyrics on the internet and generate lyrics.\n\n3. The generated lyrics will be displayed in the tool's output area.\n\nUse cases:\n\n1. Song creation: Lyrics are a very important part of creating a song. Using the He3 Lyrics Generator tool, lyrics can be quickly generated to help songwriters better complete their songs.\n\n2. Song translation: Accuracy and fluency are both very important when translating lyrics. Using this tool, lyrics can be quickly generated and translated and modified to better complete the song translation.\n\n3. Song appreciation: Lyrics are a very important part of enjoying a song. Using the He3 Lyrics Generator tool, lyrics can be quickly generated to help listeners better understand the content and emotions of the song.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
         "AI"
       ],
       "keywords": [
-        "AI"
+        "AI",
+        "Lyrics generation",
+        "Songwriting",
+        "Song translation",
+        "Song appreciation"
       ]
     },
     {
       "name": "He3 red style generator",
       "id": "dify-red-style-generator",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 red style generator",
+      "version": "1.0.1",
+      "description": "He3 red style generator is a tool used to generate red-themed style codes. It can generate style codes that meet the requirements of the red theme according to the user's needs, making it convenient for users to use on websites or applications.\n\nFeatures:\n\n1. Users can customize the generated style code by selecting different style properties.\n\n2. The tool will automatically generate style codes that meet the requirements of the red theme based on the user's selected properties.\n\n3. The generated style code will be displayed in the tool's output area, and users can copy and paste it into their own projects.\n\nUse cases:\n\n1. Website or application development: When developing a website or application, developers need to use style codes that meet the theme. Using He3 red style generator can quickly generate style codes that meet the requirements of the red theme, making it convenient for developers to use.\n\n2. Website or application beautification: When beautifying a website or application, designers need to use style codes that meet the theme. Using He3 red style generator can quickly generate style codes that meet the requirements of the red theme, making it convenient for designers to use.\n\n3. Learning CSS: For those who are learning CSS, using He3 red style generator can help them understand different CSS properties and how to use them to generate style codes.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
@@ -145,22 +199,38 @@
       ],
       "keywords": [
         "conversation",
-        "AI"
+        "AI",
+        "Red theme style",
+        "Style code generation",
+        "Custom style properties",
+        "Website development",
+        "Application development",
+        "Website beautification",
+        "Application beautification",
+        "CSS learning"
       ]
     },
     {
       "name": "He3 weekly report generator",
       "id": "dify-weekly-report-generator",
       "icon": "block-outlined",
-      "version": "1.0.0",
-      "description": "He3 weekly report generator",
+      "version": "1.0.1",
+      "description": "He3 weekly report generator is a tool used to generate weekly reports. It can automatically generate a report based on the data input by the user and provide multiple styles and formats for the user to choose from.\n\nFunction description:\n\n1. Users can input information such as the title, time range, and content of the weekly report.\n\n2. The tool will automatically generate a report based on the user's input and provide multiple styles and formats for the user to choose from.\n\n3. Users can choose to export the report as a PDF or Word document for easy sharing and printing.\n\nUsage scenarios:\n\n1. Company internal weekly report: Within a company, department managers or team leaders need to regularly report on work progress and achievements to their superiors. Using He3 weekly report generator, they can easily generate a report and choose a style and format suitable for internal company use.\n\n2. Student weekly report: In school, students need to regularly report on their learning progress and achievements to their teachers. Using He3 weekly report generator, they can easily generate a report and choose a style and format suitable for school use.\n\n3. Personal weekly report: In work or study, individuals need to regularly summarize their work or learning progress and achievements. Using He3 weekly report generator, they can easily generate a report and choose a style and format suitable for personal use.",
       "relatedToolId": [],
       "isPublic": true,
       "category": [
         "AI"
       ],
       "keywords": [
-        "AI"
+        "AI",
+        "Weekly report generator",
+        "Automatically generate weekly report",
+        "Multiple styles and formats",
+        "PDF export",
+        "Word export",
+        "Company internal weekly report",
+        "Student weekly report",
+        "Personal weekly report"
       ]
     }
   ],

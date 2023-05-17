@@ -9,8 +9,8 @@
   "he3": {
     "name": "Cron Expression",
     "id": "crontab",
-    "version": "1.0.4",
-    "description": "Cron Expression is a tool used to schedule and automate tasks on Unix-based systems. It uses a syntax called \"cron\" or \"crontab\" to specify when and how often a task should be executed, allowing for regular and precise scheduling of tasks.",
+    "version": "1.0.5",
+    "description": "Overview:\nThe Cron Expression tool is a tool used to generate Cron expressions. It can automatically generate the corresponding Cron expression based on the time parameters entered by the user, making it easy for users to use when writing scheduled tasks.\n\nFeatures:\n1. Users can choose to generate Common or Linux Crontab type expressions.\n2. Users can enter time parameters, and the tool will automatically generate the corresponding Cron expression based on the parameters.\n3. The tool supports editing and modifying Cron expressions.\n4. The tool provides detailed help documentation and examples to help users understand and use it.\n\nUse Cases:\n1. Scheduled task writing: When writing scheduled tasks, users can use the Cron Expression tool to generate the corresponding Cron expression, making it easy to quickly set up scheduled tasks.\n2. Task scheduling management: In task scheduling management, users can use the Cron Expression tool to generate the corresponding Cron expression, making it easy to quickly set up task scheduling.\n3. Time parameter conversion: In time parameter conversion, users can use the Cron Expression tool to convert time parameters into the corresponding Cron expression, making it easy to quickly convert.\n\nInstructions:\n1. Choose to generate Common or Linux Crontab type expressions.\n2. Enter time parameters, and the tool will automatically generate the corresponding Cron expression based on the parameters.\n3. You can edit and modify the generated Cron expression.\n4. You can view the help documentation and examples to understand and use the tool.\n\nNotes:\n1. The entered time parameters must comply with the specifications, otherwise the corresponding Cron expression cannot be generated.\n2. When editing and modifying the generated Cron expression, you need to pay attention to the syntax and specifications of the expression, otherwise it may cause the scheduled task to not execute properly.",
     "isPublic": true,
     "category": [
       "datetime",
@@ -19,7 +19,12 @@
     "keywords": [
       "cron",
       "crontab",
-      "regular"
+      "regular",
+      "Cron expression",
+      "Scheduled task",
+      "Task scheduling",
+      "Time parameter conversion",
+      "Linux Crontab"
     ],
     "repository": "https://github.com/he3-app/tools-example/tree/main/crontab",
     "relatedToolId": []

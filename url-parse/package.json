@@ -10,18 +10,24 @@
     "id": "url-parse",
     "name": "URL Parser",
     "icon": "thunderbolt-outlined",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "isPublic": true,
     "repository": "",
     "category": [
       "programming"
     ],
-    "description": "URL Parser is a tool that allows users to parse and inspect URLs, URIs, and other web addresses. It provides a detailed breakdown of the different components of a URL, including the protocol, domain, path, and query parameters.",
+    "description": "URL Parser tool is a tool used to parse URLs. It can parse the input URL into various parts and display them in key-value pairs.\n\nFeatures:\n\n1. Paste or enter the URL into the tool.\n\n2. The tool will automatically parse the URL and display its various parts in key-value pairs.\n\n3. You can view information about the URL's protocol, host, port, path, query parameters, and more.\n\nUse cases:\n\n1. Website development and testing: When developing or testing a website, developers often need to view the various parts of a URL. Using the URL Parser tool, you can quickly parse the URL and view information about its various parts.\n\n2. SEO optimization: When performing SEO optimization, you need to optimize the website's URL. Using this tool, you can quickly view the various parts of the URL and optimize them.\n\n3. Network security: When performing network security testing, you need to analyze URLs. Using the URL Parser tool, you can quickly parse the URL and view information about its various parts, making it easier to analyze.",
     "keywords": [
       "URL",
       "URI",
       "parse",
-      "inspect"
+      "inspect",
+      "URL parser",
+      "URL parsing tool",
+      "URL analyzer",
+      "URL analysis tool",
+      "URL checker",
+      "URL detection tool"
     ],
     "relatedToolId": []
   },

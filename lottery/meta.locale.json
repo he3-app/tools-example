@@ -1,134 +1,211 @@
 {
   "zh-cn": {
     "$name": "抽奖工具",
-    "$description": "抽奖工具是一种随机选择工具，允许用户输入样本数量和他们想要进行的抽奖数量。它可用于各种目的，例如为抽奖活动选择获胜者或确定研究的随机样本。",
     "$keywords": [
-      "抽奖",
+      "彩票",
       "随机选择",
-      "抽奖数量",
+      "彩票号码",
       "机会",
-      "获胜",
-      "抽奖活动"
-    ]
+      "中奖",
+      "抽奖",
+      "彩票工具",
+      "中奖人数",
+      "中奖概率",
+      "彩票结果",
+      "彩票活动",
+      "会议互动",
+      "学生点名"
+    ],
+    "$description": "抽奖工具是一种用于抽签的工具。它可以根据用户输入的选项随机选择指定数量的选项，并在工具的输出区域显示结果。\n\n功能描述：\n\n1. 用户可以在输入框中输入选项，每个选项占据一行。\n\n2. 工具将自动检测和处理输入的选项，删除空行和空格。\n\n3. 用户可以指定要抽取的选项数量。\n\n4. 点击“抽取”按钮后，工具将随机抽取指定数量的选项，并在工具的输出区域显示结果。\n\n使用场景：\n\n1. 活动抽奖：在各种活动中，需要进行抽奖环节。使用抽奖工具可以轻松快速地进行抽奖，避免繁琐和不公平的手动抽奖。\n\n2. 会议抽奖：在会议中，需要进行抽奖环节以增加互动和乐趣。使用抽奖工具可以轻松快速地进行抽奖，避免繁琐和不公平的手动抽奖。\n\n3. 学生点名：在教学中，需要进行学生点名。使用抽奖工具可以轻松快速地进行点名，避免繁琐和不公平的手动点名。"
   },
   "zh-tw": {
     "$name": "抽獎工具",
-    "$description": "抽獎工具是一個隨機選擇工具，允許用戶輸入樣本數量和他們想要進行的抽獎數量。它可以用於各種目的，例如為抽獎活動選擇獲獎者或為研究確定隨機樣本。",
     "$keywords": [
-      "抽獎",
+      "彩票",
       "隨機選擇",
-      "抽獎數量",
+      "彩票號碼",
       "機會",
       "中獎",
-      "抽獎活動"
-    ]
+      "抽獎",
+      "彩票工具",
+      "中獎人數",
+      "中獎概率",
+      "彩票結果",
+      "彩票活動",
+      "會議互動",
+      "學生點名"
+    ],
+    "$description": "彩票工具是一種用於抽籤的工具。它可以根據用戶輸入的選項，隨機選擇指定數量的選項，並在工具的輸出區域顯示結果。\n\n功能描述：\n\n1. 用戶可以在輸入框中輸入選項，每個選項佔據一行。\n\n2. 工具將自動檢測和處理輸入的選項，刪除空行和空格。\n\n3. 用戶可以指定要抽取的選項數量。\n\n4. 點擊“抽籤”按鈕後，工具將隨機抽取指定數量的選項，並在工具的輸出區域顯示結果。\n\n使用場景：\n\n1. 活動抽獎：在各種活動中，需要進行抽獎。使用彩票工具可以輕鬆快速地進行抽獎，避免繁瑣和不公平的手動抽獎。\n\n2. 會議抽獎：在會議中，需要進行抽獎以增加互動和樂趣。使用彩票工具可以輕鬆快速地進行抽獎，避免繁瑣和不公平的手動抽獎。\n\n3. 學生點名：在教學中，需要進行學生點名。使用彩票工具可以輕鬆快速地進行點名，避免繁瑣和不公平的手動點名。"
   },
   "es": {
     "$name": "Lotería",
-    "$description": "La herramienta de Lotería es una herramienta de selección aleatoria que permite a los usuarios ingresar el número de muestras y el número de loterías que desean realizar. Puede ser utilizada para diversos propósitos, como seleccionar ganadores para una rifa o determinar una muestra aleatoria para investigación.",
     "$keywords": [
       "Lotería",
       "selección aleatoria",
       "número de lotería",
       "oportunidad",
       "ganar",
-      "rifas"
-    ]
+      "sorteo",
+      "herramienta de lotería",
+      "Número de ganadores",
+      "Probabilidad de ganar",
+      "Resultado de la lotería",
+      "Evento de lotería",
+      "Interacción de conferencia",
+      "Lista de asistencia de estudiantes"
+    ],
+    "$description": "Herramienta de Lotería es una herramienta utilizada para realizar sorteos. Puede seleccionar aleatoriamente un número especificado de opciones basadas en las opciones ingresadas por el usuario y mostrar los resultados en el área de salida de la herramienta.\n\nDescripción de la función:\n\n1. Los usuarios pueden ingresar opciones en el cuadro de entrada, con cada opción ocupando una línea.\n\n2. La herramienta detectará y procesará automáticamente las opciones ingresadas, eliminando líneas y espacios en blanco.\n\n3. Los usuarios pueden especificar el número de opciones a sortear.\n\n4. Después de hacer clic en el botón \"Sortear\", la herramienta sorteará aleatoriamente el número especificado de opciones y mostrará los resultados en el área de salida de la herramienta.\n\nEscenarios de uso:\n\n1. Sorteo de actividades: En diversas actividades, se necesita una sesión de sorteo. Usando la Herramienta de Lotería se puede realizar fácil y rápidamente el sorteo, evitando el tedioso e injusto sorteo manual.\n\n2. Sorteo de conferencias: En una conferencia, se necesita una sesión de sorteo para aumentar la interacción y la diversión. Usando la Herramienta de Lotería se puede realizar fácil y rápidamente el sorteo, evitando el tedioso e injusto sorteo manual.\n\n3. Lista de asistencia de estudiantes: En la enseñanza, se necesita una lista de asistencia de estudiantes. Usando la Herramienta de Lotería se puede realizar fácil y rápidamente la lista de asistencia, evitando el tedioso e injusto llamado manual."
   },
   "ja": {
     "$name": "抽選",
-    "$description": "抽選ツールは、ユーザーがサンプル数と実施したい抽選数を入力できるランダム選択ツールです。ラッフルの勝者を選ぶためや、研究のランダムサンプルを決定するためなど、さまざまな目的に使用できます。",
     "$keywords": [
-      "抽選",
+      "宝くじ",
       "ランダム選択",
-      "抽選数",
+      "宝くじの番号",
       "チャンス",
       "当選",
-      "ラッフル"
-    ]
+      "抽選",
+      "宝くじツール",
+      "当選者数",
+      "当選確率",
+      "宝くじ結果",
+      "宝くじイベント",
+      "会議のインタラクション",
+      "学生の出席確認"
+    ],
+    "$description": "抽選ツールは、くじ引きに使用されるツールです。ユーザーが入力したオプションに基づいて、指定された数のオプションをランダムに選択し、ツールの出力エリアに結果を表示することができます。\n\n機能の説明：\n\n1.ユーザーは、各オプションが1行を占める入力ボックスにオプションを入力できます。\n\n2.ツールは、入力されたオプションを自動的に検出して処理し、空白行とスペースを削除します。\n\n3.ユーザーは、抽選するオプションの数を指定できます。\n\n4.「抽選」ボタンをクリックすると、ツールは指定された数のオプションをランダムに抽選し、ツールの出力エリアに結果を表示します。\n\n使用シナリオ：\n\n1.イベントの抽選：様々なイベントで、抽選セッションが必要です。抽選ツールを使用することで、手動の抽選作業を避け、簡単かつ迅速に抽選を行うことができます。\n\n2.会議の抽選：会議では、抽選セッションが必要です。抽選ツールを使用することで、手動の抽選作業を避け、簡単かつ迅速に抽選を行うことができます。\n\n3.生徒の出席確認：教育現場では、生徒の出席確認が必要です。抽選ツールを使用することで、手動の出席確認作業を避け、簡単かつ迅速に出席確認を行うことができます。"
   },
   "ko": {
     "$name": "복권",
-    "$description": "복권 도구는 사용자가 샘플 수와 추첨 수를 입력할 수 있는 무작위 선택 도구입니다. 추첨 대상자를 선택하거나 연구용 무작위 샘플을 결정하는 등 다양한 용도로 사용할 수 있습니다.",
     "$keywords": [
       "복권",
-      "무작위 선택",
-      "추첨 수",
-      "확률",
+      "랜덤 선택",
+      "복권 번호",
+      "기회",
       "당첨",
-      "추첨"
-    ]
+      "추첨",
+      "복권 도구",
+      "당첨자 수",
+      "당첨 확률",
+      "복권 결과",
+      "복권 이벤트",
+      "컨퍼런스 상호작용",
+      "학생 출석부"
+    ],
+    "$description": "복권 도구는 추첨을 위해 사용되는 도구입니다. 사용자가 입력한 옵션을 기반으로 지정된 옵션 수를 무작위로 선택하고 결과를 도구의 출력 영역에 표시할 수 있습니다.\n\n기능 설명:\n\n1. 사용자는 입력 상자에 옵션을 입력할 수 있으며, 각 옵션은 한 줄을 차지합니다.\n\n2. 도구는 자동으로 입력된 옵션을 감지하고 처리하여 공백과 공백을 제거합니다.\n\n3. 사용자는 추첨할 옵션 수를 지정할 수 있습니다.\n\n4. \"추첨\" 버튼을 클릭한 후, 도구는 지정된 옵션 수를 무작위로 추첨하고 도구의 출력 영역에 결과를 표시합니다.\n\n사용 시나리오:\n\n1. 활동 복권: 다양한 활동에서 복권 세션이 필요합니다. 복권 도구를 사용하면 복권을 쉽고 빠르게 진행할 수 있으며, 지루하고 불공정한 수동 복권을 피할 수 있습니다.\n\n2. 회의 복권: 회의에서 상호 작용과 재미를 높이기 위해 복권 세션이 필요합니다. 복권 도구를 사용하면 복권을 쉽고 빠르게 진행할 수 있으며, 지루하고 불공정한 수동 복권을 피할 수 있습니다.\n\n3. 학생 출석부: 교육에서 학생 출석부가 필요합니다. 복권 도구를 사용하면 출석부를 쉽고 빠르게 진행할 수 있으며, 지루하고 불공정한 수동 출석부를 피할 수 있습니다."
   },
   "de": {
     "$name": "Lotterie",
-    "$description": "Das Lotterie-Tool ist ein zufälliges Auswahlwerkzeug, mit dem Benutzer die Anzahl der Stichproben und die Anzahl der Lotterien eingeben können, die sie durchführen möchten. Es kann für verschiedene Zwecke wie die Auswahl von Gewinnern für eine Tombola oder die Bestimmung einer zufälligen Stichprobe für Forschungszwecke verwendet werden.",
     "$keywords": [
       "Lotterie",
       "zufällige Auswahl",
-      "Anzahl der Lotterien",
+      "Lotterienummer",
       "Chance",
       "Gewinnen",
-      "Tombola"
-    ]
+      "Verlosung",
+      "Lotteriewerkzeug",
+      "Anzahl der Gewinner",
+      "Gewinnwahrscheinlichkeit",
+      "Lotterieergebnis",
+      "Lotterieereignis",
+      "Konferenzinteraktion",
+      "Schüleranwesenheit"
+    ],
+    "$description": "Lottery Tool ist ein Werkzeug, das zum Ziehen von Losen verwendet wird. Es kann eine bestimmte Anzahl von Optionen zufällig auswählen, die auf den vom Benutzer eingegebenen Optionen basieren, und die Ergebnisse im Ausgabe-Bereich des Werkzeugs anzeigen.\n\nFunktionsbeschreibung:\n\n1. Benutzer können Optionen im Eingabefeld eingeben, wobei jede Option eine Zeile einnimmt.\n\n2. Das Werkzeug erkennt und verarbeitet automatisch die eingegebenen Optionen, indem es leere Zeilen und Leerzeichen entfernt.\n\n3. Benutzer können die Anzahl der zu ziehenden Optionen angeben.\n\n4. Nach dem Klicken auf die Schaltfläche \"Ziehen\" zieht das Werkzeug zufällig die angegebene Anzahl von Optionen und zeigt die Ergebnisse im Ausgabe-Bereich des Werkzeugs an.\n\nAnwendungsszenarien:\n\n1. Aktivitäts-Lotterie: Bei verschiedenen Aktivitäten ist eine Lotterie-Sitzung erforderlich. Mit dem Lottery Tool kann die Lotterie einfach und schnell durchgeführt werden, um die mühsame und unfaire manuelle Lotterie zu vermeiden.\n\n2. Konferenz-Lotterie: Bei einer Konferenz ist eine Lotterie-Sitzung erforderlich, um die Interaktion und den Spaß zu erhöhen. Mit dem Lottery Tool kann die Lotterie einfach und schnell durchgeführt werden, um die mühsame und unfaire manuelle Lotterie zu vermeiden.\n\n3. Schüler-Anwesenheitsliste: Im Unterricht ist eine Schüler-Anwesenheitsliste erforderlich. Mit dem Lottery Tool kann die Anwesenheitsliste einfach und schnell durchgeführt werden, um die mühsame und unfaire manuelle Anwesenheitsliste zu vermeiden."
   },
   "fr": {
     "$name": "Loterie",
-    "$description": "L'outil de loterie est un outil de sélection aléatoire qui permet aux utilisateurs de saisir le nombre d'échantillons et le nombre de loteries qu'ils souhaitent réaliser. Il peut être utilisé à diverses fins telles que la sélection de gagnants pour une tombola ou la détermination d'un échantillon aléatoire pour la recherche.",
     "$keywords": [
       "Loterie",
       "sélection aléatoire",
-      "nombre de loterie",
+      "numéro de loterie",
       "chance",
       "gagner",
-      "tombola"
-    ]
+      "tirage au sort",
+      "outil de loterie",
+      "Nombre de gagnants",
+      "Probabilité de gagner",
+      "Résultat de loterie",
+      "Événement de loterie",
+      "Interaction de conférence",
+      "Appel de rouleau d'étudiants"
+    ],
+    "$description": "Outil de loterie est un outil utilisé pour tirer au sort. Il peut sélectionner de manière aléatoire un nombre spécifié d'options en fonction des options saisies par l'utilisateur et afficher les résultats dans la zone de sortie de l'outil.\n\nDescription de la fonction :\n\n1. Les utilisateurs peuvent saisir des options dans la zone de saisie, chaque option occupant une ligne.\n\n2. L'outil détectera et traitera automatiquement les options saisies, en supprimant les lignes et les espaces vides.\n\n3. Les utilisateurs peuvent spécifier le nombre d'options à tirer.\n\n4. Après avoir cliqué sur le bouton \"Tirer\", l'outil tirera de manière aléatoire le nombre d'options spécifié et affichera les résultats dans la zone de sortie de l'outil.\n\nScénarios d'utilisation :\n\n1. Loterie d'activité : Dans diverses activités, une session de loterie est nécessaire. En utilisant l'outil de loterie, il est possible de mener facilement et rapidement la loterie, évitant ainsi la loterie manuelle fastidieuse et injuste.\n\n2. Loterie de conférence : Dans une conférence, une session de loterie est nécessaire pour augmenter l'interaction et le plaisir. En utilisant l'outil de loterie, il est possible de mener facilement et rapidement la loterie, évitant ainsi la loterie manuelle fastidieuse et injuste.\n\n3. Appel des étudiants : Dans l'enseignement, l'appel des étudiants est nécessaire. En utilisant l'outil de loterie, il est possible de mener facilement et rapidement l'appel, évitant ainsi l'appel manuel fastidieux et injuste."
   },
   "it": {
     "$name": "Lotteria",
-    "$description": "Lo strumento Lotteria è uno strumento di selezione casuale che consente agli utenti di inserire il numero di campioni e il numero di lotterie che desiderano condurre. Può essere utilizzato per vari scopi come selezionare i vincitori di una lotteria o determinare un campione casuale per la ricerca.",
     "$keywords": [
       "Lotteria",
       "selezione casuale",
-      "numero di lotteria",
+      "numero della lotteria",
       "possibilità",
       "vincita",
-      "lotteria"
-    ]
+      "sorteggio",
+      "strumento di lotteria",
+      "Numero di vincitori",
+      "Probabilità di vincita",
+      "Risultato della lotteria",
+      "Evento di lotteria",
+      "Interazione della conferenza",
+      "Chiamata degli studenti"
+    ],
+    "$description": "Strumento per la lotteria è uno strumento utilizzato per estrarre a sorte. Può selezionare casualmente un numero specificato di opzioni in base alle opzioni inserite dall'utente e visualizzare i risultati nell'area di output dello strumento.\n\nDescrizione della funzione:\n\n1. Gli utenti possono inserire le opzioni nella casella di input, con ogni opzione che occupa una riga.\n\n2. Lo strumento rileverà e elaborerà automaticamente le opzioni inserite, rimuovendo le righe vuote e gli spazi.\n\n3. Gli utenti possono specificare il numero di opzioni da estrarre.\n\n4. Dopo aver cliccato sul pulsante \"Estrai\", lo strumento estrarrà casualmente il numero specificato di opzioni e visualizzerà i risultati nell'area di output dello strumento.\n\nScenari d'uso:\n\n1. Lotteria per attività: In varie attività, è necessaria una sessione di lotteria. Utilizzando lo Strumento per la lotteria è possibile condurre facilmente e rapidamente la lotteria, evitando la noiosa e ingiusta lotteria manuale.\n\n2. Lotteria per conferenze: In una conferenza, è necessaria una sessione di lotteria per aumentare l'interazione e il divertimento. Utilizzando lo Strumento per la lotteria è possibile condurre facilmente e rapidamente la lotteria, evitando la noiosa e ingiusta lotteria manuale.\n\n3. Chiamata degli studenti: Nell'insegnamento, è necessaria la chiamata degli studenti. Utilizzando lo Strumento per la lotteria è possibile condurre facilmente e rapidamente la chiamata, evitando la noiosa e ingiusta chiamata manuale."
   },
   "ru": {
     "$name": "Лотерея",
-    "$description": "Инструмент Лотерея - это инструмент случайного выбора, который позволяет пользователям вводить количество образцов и количество лотерей, которые они хотят провести. Он может использоваться для различных целей, таких как выбор победителей в лотерее или определение случайной выборки для исследования.",
     "$keywords": [
       "Лотерея",
       "случайный выбор",
-      "количество лотерей",
+      "номер лотереи",
       "шанс",
       "выигрыш",
-      "лотерея"
-    ]
+      "розыгрыш",
+      "инструмент лотереи",
+      "Количество победителей",
+      "Вероятность выигрыша",
+      "Результат лотереи",
+      "Лотерейное мероприятие",
+      "Взаимодействие на конференции",
+      "Проверка присутствия студентов"
+    ],
+    "$description": "Инструмент Лотерея - это инструмент, используемый для проведения жеребьевки. Он может случайным образом выбирать определенное количество вариантов на основе вариантов, введенных пользователем, и отображать результаты в выходной области инструмента.\n\nОписание функций:\n\n1. Пользователи могут вводить варианты в поле ввода, каждый вариант занимает одну строку.\n\n2. Инструмент автоматически обнаруживает и обрабатывает введенные варианты, удаляя пустые строки и пробелы.\n\n3. Пользователи могут указать количество выбираемых вариантов.\n\n4. После нажатия кнопки \"Выбрать\", инструмент случайным образом выберет указанное количество вариантов и отобразит результаты в выходной области инструмента.\n\nСценарии использования:\n\n1. Лотерея на мероприятии: В различных мероприятиях требуется проведение лотереи. Использование инструмента Лотерея позволяет легко и быстро проводить лотерею, избегая утомительной и несправедливой ручной лотереи.\n\n2. Лотерея на конференции: На конференции требуется проведение лотереи для увеличения взаимодействия и веселья. Использование инструмента Лотерея позволяет легко и быстро проводить лотерею, избегая утомительной и несправедливой ручной лотереи.\n\n3. Проверка присутствия студентов: В учебном процессе требуется проверка присутствия студентов. Использование инструмента Лотерея позволяет легко и быстро проводить проверку присутствия, избегая утомительной и несправедливой ручной проверки присутствия."
   },
   "pt": {
     "$name": "Loteria",
-    "$description": "A ferramenta de Loteria é uma ferramenta de seleção aleatória que permite aos usuários inserir o número de amostras e o número de loterias que desejam realizar. Pode ser usada para diversos fins, como selecionar vencedores para um sorteio ou determinar uma amostra aleatória para pesquisa.",
     "$keywords": [
       "Loteria",
       "seleção aleatória",
-      "número de loteria",
+      "número da loteria",
       "chance",
       "ganhar",
-      "sorteio"
-    ]
+      "sorteio",
+      "Ferramenta de loteria",
+      "Número de vencedores",
+      "Probabilidade de ganhar",
+      "Resultado da loteria",
+      "Evento de loteria",
+      "Interação de conferência",
+      "Chamada de rolo de estudante"
+    ],
+    "$description": "A ferramenta de loteria é uma ferramenta usada para sorteios. Ela pode selecionar aleatoriamente um número especificado de opções com base nas opções inseridas pelo usuário e exibir os resultados na área de saída da ferramenta.\n\nDescrição da função:\n\n1. Os usuários podem inserir opções na caixa de entrada, com cada opção ocupando uma linha.\n\n2. A ferramenta detectará e processará automaticamente as opções inseridas, removendo linhas em branco e espaços.\n\n3. Os usuários podem especificar o número de opções a serem sorteadas.\n\n4. Após clicar no botão \"Sortear\", a ferramenta sorteará aleatoriamente o número especificado de opções e exibirá os resultados na área de saída da ferramenta.\n\nCenários de uso:\n\n1. Loteria de atividades: Em várias atividades, é necessário um sorteio. Usando a ferramenta de loteria, é possível realizar o sorteio facilmente e rapidamente, evitando o sorteio manual tedioso e injusto.\n\n2. Loteria de conferência: Em uma conferência, é necessário um sorteio para aumentar a interação e a diversão. Usando a ferramenta de loteria, é possível realizar o sorteio facilmente e rapidamente, evitando o sorteio manual tedioso e injusto.\n\n3. Chamada de alunos: No ensino, é necessário fazer a chamada dos alunos. Usando a ferramenta de loteria, é possível realizar a chamada facilmente e rapidamente, evitando a chamada manual tediosa e injusta."
   },
   "en": {
     "$name": "Lottery",
-    "$description": "The Lottery tool is a random selection tool that allows users to input the number of samples and the number of lotteries they want to conduct. It can be used for various purposes such as selecting winners for a raffle or determining a random sample for research.",
     "$keywords": [
       "Lottery",
       "random selection",
       "number of lottery",
       "chance",
       "winning",
-      "raffle"
-    ]
+      "raffle",
+      "Lottery tool",
+      "Number of winners",
+      "Winning probability",
+      "Lottery result",
+      "Lottery event",
+      "Conference interaction",
+      "Student roll call"
+    ],
+    "$description": "Lottery Tool is a tool used for drawing lots. It can randomly select a specified number of options based on the options entered by the user and display the results in the output area of the tool.\n\nFunction description:\n\n1. Users can enter options in the input box, with each option taking up one line.\n\n2. The tool will automatically detect and process the entered options, removing blank lines and spaces.\n\n3. Users can specify the number of options to be drawn.\n\n4. After clicking the \"Draw\" button, the tool will randomly draw the specified number of options and display the results in the output area of the tool.\n\nUse scenarios:\n\n1. Activity lottery: In various activities, a lottery session is needed. Using the Lottery Tool can easily and quickly conduct the lottery, avoiding the tedious and unfair manual lottery.\n\n2. Conference lottery: In a conference, a lottery session is needed to increase interaction and fun. Using the Lottery Tool can easily and quickly conduct the lottery, avoiding the tedious and unfair manual lottery.\n\n3. Student roll call: In teaching, student roll call is needed. Using the Lottery Tool can easily and quickly conduct roll call, avoiding the tedious and unfair manual roll call."
   }
 }

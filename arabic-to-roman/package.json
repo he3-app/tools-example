@@ -11,8 +11,8 @@
     "name": "Arabic number to Roman",
     "id": "arabic-to-roman",
     "icon": "block-outlined",
-    "version": "0.0.4",
-    "description": "The Arabic number to Roman tool is a conversion tool that allows users to easily convert Arabic numerals to Roman numerals. This tool is useful for those who need to convert numbers for historical or academic purposes, or for those who simply prefer the Roman numeral system.",
+    "version": "0.0.5",
+    "description": "The Arabic to Roman numeral converter is a tool used to convert Arabic numerals to Roman numerals. It can convert the input Arabic numeral to the corresponding Roman numeral.\n\nFeatures:\n\n1. Input the Arabic numeral into the tool.\n\n2. The tool will automatically convert the input Arabic numeral to the corresponding Roman numeral.\n\n3. The converted Roman numeral will be displayed in the tool's output area.\n\nUse cases:\n\n1. Historical research: In historical research, it is often necessary to convert Arabic numerals to Roman numerals in order to better understand historical events and timelines.\n\n2. Mathematics education: In mathematics education, students need to learn how to convert Arabic numerals to Roman numerals. Using this tool, they can easily practice and test their skills.\n\n3. Programming development: In programming development, sometimes it is necessary to convert Arabic numerals to Roman numerals. Using this tool, developers can quickly perform the conversion, thereby improving development efficiency.",
     "isPublic": true,
     "category": [
       "math",
@@ -21,7 +21,9 @@
     "keywords": [
       "roman numerals",
       "arabic number",
-      "number"
+      "number",
+      "Arabic numerals",
+      "number conversion"
     ],
     "repository": "",
     "relatedToolId": []

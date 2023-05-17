@@ -1,101 +1,155 @@
 {
-  "en": {
-    "$name": "Exchange Rate Calculator",
-    "$description": "Exchange Rate Calculator",
-    "$keywords": [
-      "calculator",
-      "currency",
-      "exchange"
-    ]
-  },
   "zh-cn": {
     "$name": "汇率计算器",
-    "$description": "汇率计算器",
     "$keywords": [
       "计算器",
       "货币",
-      "汇率"
-    ]
-  },
-  "es": {
-    "$name": "Calculadora de tipo de cambio",
-    "$description": "Calculadora de tipo de cambio",
-    "$keywords": [
-      "calculadora",
-      "divisas",
-      "cambio"
-    ]
-  },
-  "fr": {
-    "$name": "Calculatrice de taux de change",
-    "$description": "Calculatrice de taux de change",
-    "$keywords": [
-      "calculatrice",
-      "devises",
-      "taux de change"
-    ]
-  },
-  "it": {
-    "$name": "Calcolatore del tasso di cambio",
-    "$description": "Calcolatore del tasso di cambio",
-    "$keywords": [
-      "calcolatore",
-      "valuta",
-      "cambio"
-    ]
-  },
-  "de": {
-    "$name": "Wechselkursrechner",
-    "$description": "Wechselkursrechner",
-    "$keywords": [
-      "Rechner",
-      "Währung",
-      "Wechselkurs"
-    ]
-  },
-  "ja": {
-    "$name": "為替レート計算機",
-    "$description": "為替レート計算機",
-    "$keywords": [
-      "計算機",
-      "通貨",
-      "為替"
-    ]
-  },
-  "ko": {
-    "$name": "환율 계산기",
-    "$description": "환율 계산기",
-    "$keywords": [
-      "계산기",
-      "화폐",
-      "환율"
-    ]
-  },
-  "pt": {
-    "$name": "Calculadora de câmbio",
-    "$description": "Calculadora de câmbio",
-    "$keywords": [
-      "calculadora",
-      "moeda",
-      "câmbio"
-    ]
-  },
-  "ru": {
-    "$name": "Калькулятор обменного курса",
-    "$description": "Калькулятор обменного курса",
-    "$keywords": [
-      "калькулятор",
-      "валюта",
-      "обменный курс"
-    ]
+      "汇率",
+      "汇率计算器",
+      "货币转换",
+      "旅行预算",
+      "国际贸易",
+      "金融投资"
+    ],
+    "$description": "汇率计算器是一种用于计算货币汇率的工具。它可以将一种货币的金额转换为多种其他货币的金额，并在工具的输出区域显示它们。\n\n特点：\n\n1. 在工具中输入要转换的货币金额和类型。\n\n2. 选择其他货币类型以将货币转换为。\n\n3. 单击“添加货币”按钮以添加更多要转换为的货币类型。\n\n4. 单击“转换”按钮，工具将计算并显示每种货币类型的转换金额。\n\n用例：\n\n1. 旅行：旅行时，人们需要将一种货币转换为另一种货币。使用汇率计算器工具，他们可以轻松计算不同货币之间的汇率，并了解他们的旅行预算。\n\n2. 贸易：在国际贸易中，人们需要将货币转换为其他货币。使用此工具，他们可以快速计算不同货币之间的汇率，并了解他们的交易成本。\n\n3. 金融投资：在金融投资中，人们需要了解不同货币之间的汇率。使用汇率计算器工具，他们可以轻松计算不同货币之间的汇率，并了解他们的投资回报率。"
   },
   "zh-tw": {
     "$name": "匯率計算器",
-    "$description": "匯率計算器",
     "$keywords": [
-      "計算器",
+      "計算機",
       "貨幣",
-      "匯率"
-    ]
+      "匯率",
+      "匯率計算器",
+      "貨幣轉換",
+      "旅遊預算",
+      "國際貿易",
+      "金融投資"
+    ],
+    "$description": "匯率計算機是一種用於計算貨幣匯率的工具。它可以將一種貨幣的金額轉換為多種其他貨幣的金額，並在工具的輸出區域顯示它們。\n\n功能：\n\n1. 在工具中輸入要轉換的貨幣金額和類型。\n\n2. 選擇要將貨幣轉換為的其他貨幣類型。\n\n3. 點擊“添加貨幣”按鈕以添加更多要轉換為的貨幣類型。\n\n4. 點擊“轉換”按鈕，工具將計算並顯示每種貨幣類型的轉換金額。\n\n使用情境：\n\n1. 旅行：當人們旅行時，需要將一種貨幣轉換為另一種貨幣。使用匯率計算機工具，他們可以輕鬆計算不同貨幣之間的匯率，並了解他們的旅行預算。\n\n2. 貿易：在國際貿易中，人們需要將貨幣轉換為其他貨幣。使用此工具，他們可以快速計算不同貨幣之間的匯率，並了解他們的交易成本。\n\n3. 金融投資：在金融投資中，人們需要了解不同貨幣之間的匯率。使用匯率計算機工具，他們可以輕鬆計算不同貨幣之間的匯率，並了解他們的投資回報率。"
+  },
+  "es": {
+    "$name": "Calculadora de tipo de cambio",
+    "$keywords": [
+      "calculadora",
+      "moneda",
+      "cambio",
+      "Calculadora de tipo de cambio",
+      "Conversión de moneda",
+      "Presupuesto de viaje",
+      "Comercio internacional",
+      "Inversión financiera"
+    ],
+    "$description": "El Calculador de Tipo de Cambio es una herramienta utilizada para calcular los tipos de cambio de divisas. Puede convertir la cantidad de una moneda en las cantidades de varias otras monedas y mostrarlas en el área de salida de la herramienta.\n\nCaracterísticas:\n\n1. Ingrese la cantidad y el tipo de moneda a convertir en la herramienta.\n\n2. Seleccione los otros tipos de moneda para convertir la moneda.\n\n3. Haga clic en el botón \"Agregar Moneda\" para agregar más tipos de moneda para convertir.\n\n4. Haga clic en el botón \"Convertir\", y la herramienta calculará y mostrará las cantidades de conversión para cada tipo de moneda.\n\nCasos de uso:\n\n1. Viajes: Cuando viajan, las personas necesitan convertir una moneda en otra. Usando la herramienta Calculador de Tipo de Cambio, pueden calcular fácilmente los tipos de cambio entre diferentes monedas y entender su presupuesto de viaje.\n\n2. Comercio: En el comercio internacional, las personas necesitan convertir monedas en otras monedas. Usando esta herramienta, pueden calcular rápidamente los tipos de cambio entre diferentes monedas y entender sus costos comerciales.\n\n3. Inversión financiera: En la inversión financiera, las personas necesitan entender los tipos de cambio entre diferentes monedas. Usando la herramienta Calculador de Tipo de Cambio, pueden calcular fácilmente los tipos de cambio entre diferentes monedas y entender sus tasas de retorno de inversión."
+  },
+  "ja": {
+    "$name": "為替レート計算機",
+    "$keywords": [
+      "計算機",
+      "通貨",
+      "為替",
+      "為替レート計算機",
+      "通貨変換",
+      "旅行予算",
+      "国際貿易",
+      "金融投資"
+    ],
+    "$description": "為替レート計算機は、通貨の為替レートを計算するために使用されるツールです。このツールは、1つの通貨の金額を複数の他の通貨の金額に変換し、ツールの出力エリアに表示することができます。\n\n特徴：\n\n1. ツールに変換する通貨の金額と種類を入力します。\n\n2. 他の通貨の種類を選択して、通貨を変換します。\n\n3. 「通貨を追加」ボタンをクリックして、変換する通貨の種類を追加します。\n\n4. 「変換」ボタンをクリックすると、ツールは各通貨タイプの変換金額を計算して表示します。\n\n使用例：\n\n1. 旅行：旅行中、人々は通貨を別の通貨に変換する必要があります。為替レート計算機ツールを使用すると、異なる通貨間の為替レートを簡単に計算し、旅行予算を理解することができます。\n\n2. 貿易：国際貿易では、人々は通貨を他の通貨に変換する必要があります。このツールを使用すると、異なる通貨間の為替レートを素早く計算し、取引コストを理解することができます。\n\n3. 金融投資：金融投資では、人々は異なる通貨間の為替レートを理解する必要があります。為替レート計算機ツールを使用すると、異なる通貨間の為替レートを簡単に計算し、投資収益率を理解することができます。"
+  },
+  "ko": {
+    "$name": "환율 계산기",
+    "$keywords": [
+      "계산기",
+      "통화",
+      "환전",
+      "환율 계산기",
+      "통화 변환",
+      "여행 예산",
+      "국제 무역",
+      "금융 투자"
+    ],
+    "$description": "환율 계산기는 통화 환율을 계산하는 데 사용되는 도구입니다. 이 도구는 한 통화의 금액을 여러 다른 통화의 금액으로 변환하고 도구의 출력 영역에 표시할 수 있습니다.\n\n기능:\n\n1. 도구에 변환할 금액과 유형을 입력합니다.\n\n2. 다른 통화 유형을 선택하여 통화를 변환합니다.\n\n3. \"통화 추가\" 버튼을 클릭하여 변환할 추가 통화 유형을 추가합니다.\n\n4. \"변환\" 버튼을 클릭하면 도구가 각 통화 유형에 대한 변환 금액을 계산하고 표시합니다.\n\n사용 사례:\n\n1. 여행: 여행할 때 사람들은 한 통화를 다른 통화로 변환해야 합니다. 환율 계산기 도구를 사용하여 다른 통화 간의 환율을 쉽게 계산하고 여행 예산을 이해할 수 있습니다.\n\n2. 무역: 국제 무역에서 사람들은 통화를 다른 통화로 변환해야 합니다. 이 도구를 사용하여 다른 통화 간의 환율을 빠르게 계산하고 거래 비용을 이해할 수 있습니다.\n\n3. 금융 투자: 금융 투자에서 사람들은 다른 통화 간의 환율을 이해해야 합니다. 환율 계산기 도구를 사용하여 다른 통화 간의 환율을 쉽게 계산하고 투자 수익률을 이해할 수 있습니다."
+  },
+  "de": {
+    "$name": "Wechselkursrechner",
+    "$keywords": [
+      "Rechner",
+      "Währung",
+      "Wechselkurs",
+      "Währungsumrechnung",
+      "Reisebudget",
+      "internationaler Handel",
+      "Finanzinvestition"
+    ],
+    "$description": "Der Wechselkursrechner ist ein Werkzeug, das zur Berechnung von Währungskursen verwendet wird. Es kann den Betrag einer Währung in die Beträge mehrerer anderer Währungen umrechnen und sie im Ausgabe-Bereich des Tools anzeigen.\n\nFunktionen:\n\n1. Geben Sie den umzurechnenden Währungsbetrag und -typ in das Tool ein.\n\n2. Wählen Sie die anderen Währungstypen aus, in die die Währung umgerechnet werden soll.\n\n3. Klicken Sie auf die Schaltfläche \"Währung hinzufügen\", um weitere Währungstypen hinzuzufügen, in die umgerechnet werden soll.\n\n4. Klicken Sie auf die Schaltfläche \"Umwandeln\", und das Tool berechnet und zeigt die Umrechnungsbeträge für jeden Währungstyp an.\n\nAnwendungsfälle:\n\n1. Reisen: Beim Reisen müssen Menschen eine Währung in eine andere umrechnen. Mit dem Wechselkursrechner-Tool können sie die Wechselkurse zwischen verschiedenen Währungen einfach berechnen und ihr Reisebudget verstehen.\n\n2. Handel: Im internationalen Handel müssen Menschen Währungen in andere Währungen umrechnen. Mit diesem Tool können sie schnell die Wechselkurse zwischen verschiedenen Währungen berechnen und ihre Handelskosten verstehen.\n\n3. Finanzinvestition: Bei Finanzinvestitionen müssen Menschen die Wechselkurse zwischen verschiedenen Währungen verstehen. Mit dem Wechselkursrechner-Tool können sie die Wechselkurse zwischen verschiedenen Währungen einfach berechnen und ihre Investitionsrenditen verstehen."
+  },
+  "fr": {
+    "$name": "Calculatrice de taux de change",
+    "$keywords": [
+      "calculatrice",
+      "monnaie",
+      "échange",
+      "calculateur de taux de change",
+      "conversion de devises",
+      "budget de voyage",
+      "commerce international",
+      "investissement financier"
+    ],
+    "$description": "Le calculateur de taux de change est un outil utilisé pour calculer les taux de change de devises. Il peut convertir le montant d'une devise en plusieurs autres devises et les afficher dans la zone de sortie de l'outil.\n\nFonctionnalités :\n\n1. Entrez le montant de la devise et le type à convertir dans l'outil.\n\n2. Sélectionnez les autres types de devises pour convertir la devise.\n\n3. Cliquez sur le bouton \"Ajouter une devise\" pour ajouter d'autres types de devises à convertir.\n\n4. Cliquez sur le bouton \"Convertir\", et l'outil calculera et affichera les montants de conversion pour chaque type de devise.\n\nCas d'utilisation :\n\n1. Voyage : Lorsqu'on voyage, on a besoin de convertir une devise en une autre. En utilisant l'outil de calcul de taux de change, on peut facilement calculer les taux de change entre différentes devises et comprendre son budget de voyage.\n\n2. Commerce : Dans le commerce international, on a besoin de convertir des devises en d'autres devises. En utilisant cet outil, on peut rapidement calculer les taux de change entre différentes devises et comprendre ses coûts de trading.\n\n3. Investissement financier : Dans l'investissement financier, on a besoin de comprendre les taux de change entre différentes devises. En utilisant l'outil de calcul de taux de change, on peut facilement calculer les taux de change entre différentes devises et comprendre ses taux de rendement d'investissement."
+  },
+  "it": {
+    "$name": "Calcolatore del tasso di cambio",
+    "$keywords": [
+      "calcolatrice",
+      "valuta",
+      "cambio",
+      "Calcolatore del tasso di cambio",
+      "Conversione di valuta",
+      "Budget di viaggio",
+      "Commercio internazionale",
+      "Investimento finanziario"
+    ],
+    "$description": "Il Convertitore di Tassi di Cambio è uno strumento utilizzato per calcolare i tassi di cambio delle valute. Può convertire l'importo di una valuta in più valute diverse e visualizzarle nell'area di output dello strumento.\n\nCaratteristiche:\n\n1. Inserisci l'importo della valuta e il tipo da convertire nello strumento.\n\n2. Seleziona gli altri tipi di valuta per convertire la valuta.\n\n3. Clicca sul pulsante \"Aggiungi Valuta\" per aggiungere altri tipi di valuta da convertire.\n\n4. Clicca sul pulsante \"Converti\", e lo strumento calcolerà e visualizzerà gli importi di conversione per ogni tipo di valuta.\n\nCasi d'uso:\n\n1. Viaggi: Quando si viaggia, le persone hanno bisogno di convertire una valuta in un'altra. Utilizzando lo strumento Convertitore di Tassi di Cambio, possono facilmente calcolare i tassi di cambio tra diverse valute e capire il loro budget di viaggio.\n\n2. Commercio: Nel commercio internazionale, le persone devono convertire le valute in altre valute. Utilizzando questo strumento, possono rapidamente calcolare i tassi di cambio tra diverse valute e capire i loro costi di trading.\n\n3. Investimento finanziario: Nell'investimento finanziario, le persone devono capire i tassi di cambio tra diverse valute. Utilizzando lo strumento Convertitore di Tassi di Cambio, possono facilmente calcolare i tassi di cambio tra diverse valute e capire i loro tassi di rendimento degli investimenti."
+  },
+  "ru": {
+    "$name": "Калькулятор обменного курса",
+    "$keywords": [
+      "калькулятор",
+      "валюта",
+      "обмен",
+      "Калькулятор курса обмена",
+      "Конвертация валюты",
+      "Бюджет путешествия",
+      "Международная торговля",
+      "Финансовые инвестиции"
+    ],
+    "$description": "Калькулятор обменного курса - это инструмент, используемый для расчета обменных курсов валют. Он может конвертировать сумму одной валюты в суммы нескольких других валют и отображать их в выходной области инструмента.\n\nОсобенности:\n\n1. Введите сумму валюты и тип, который нужно конвертировать в инструмент.\n\n2. Выберите другие типы валют для конвертации валюты.\n\n3. Нажмите кнопку \"Добавить валюту\", чтобы добавить больше типов валют для конвертации.\n\n4. Нажмите кнопку \"Конвертировать\", и инструмент рассчитает и отобразит суммы конвертации для каждого типа валюты.\n\nПрименение:\n\n1. Путешествия: Путешествуя, люди должны конвертировать одну валюту в другую. Используя инструмент калькулятора обменного курса, они могут легко рассчитать обменные курсы между разными валютами и понять свой бюджет на путешествие.\n\n2. Торговля: В международной торговле люди должны конвертировать валюты в другие валюты. Используя этот инструмент, они могут быстро рассчитать обменные курсы между разными валютами и понять свои торговые затраты.\n\n3. Финансовые инвестиции: В финансовых инвестициях люди должны понимать обменные курсы между разными валютами. Используя инструмент калькулятора обменного курса, они могут легко рассчитать обменные курсы между разными валютами и понять свои инвестиционные доходы."
+  },
+  "pt": {
+    "$name": "Calculadora de câmbio",
+    "$keywords": [
+      "calculadora",
+      "moeda",
+      "câmbio",
+      "Calculadora de Taxa de Câmbio",
+      "Conversão de Moeda",
+      "Orçamento de Viagem",
+      "Comércio Internacional",
+      "Investimento Financeiro"
+    ],
+    "$description": "O Calculador de Taxa de Câmbio é uma ferramenta usada para calcular as taxas de câmbio de moedas. Ele pode converter a quantidade de uma moeda em várias outras moedas e exibi-las na área de saída da ferramenta.\n\nRecursos:\n\n1. Insira a quantidade e o tipo de moeda a ser convertida na ferramenta.\n\n2. Selecione os outros tipos de moeda para converter a moeda.\n\n3. Clique no botão \"Adicionar Moeda\" para adicionar mais tipos de moeda para converter.\n\n4. Clique no botão \"Converter\" e a ferramenta calculará e exibirá as quantidades de conversão para cada tipo de moeda.\n\nCasos de uso:\n\n1. Viagem: Ao viajar, as pessoas precisam converter uma moeda em outra. Usando a ferramenta Calculador de Taxa de Câmbio, elas podem facilmente calcular as taxas de câmbio entre diferentes moedas e entender seu orçamento de viagem.\n\n2. Comércio: No comércio internacional, as pessoas precisam converter moedas em outras moedas. Usando esta ferramenta, elas podem rapidamente calcular as taxas de câmbio entre diferentes moedas e entender seus custos de negociação.\n\n3. Investimento financeiro: No investimento financeiro, as pessoas precisam entender as taxas de câmbio entre diferentes moedas. Usando a ferramenta Calculador de Taxa de Câmbio, elas podem facilmente calcular as taxas de câmbio entre diferentes moedas e entender suas taxas de retorno de investimento."
+  },
+  "en": {
+    "$name": "Exchange Rate Calculator",
+    "$keywords": [
+      "calculator",
+      "currency",
+      "exchange",
+      "Exchange Rate Calculator",
+      "Currency Conversion",
+      "Travel Budget",
+      "International Trade",
+      "Financial Investment"
+    ],
+    "$description": "The Exchange Rate Calculator is a tool used to calculate currency exchange rates. It can convert the amount of one currency into the amounts of multiple other currencies and display them in the tool's output area.\n\nFeatures:\n\n1. Enter the currency amount and type to be converted in the tool.\n\n2. Select the other currency types to convert the currency into.\n\n3. Click the \"Add Currency\" button to add more currency types to convert into.\n\n4. Click the \"Convert\" button, and the tool will calculate and display the conversion amounts for each currency type.\n\nUse cases:\n\n1. Travel: When traveling, people need to convert one currency into another. Using the Exchange Rate Calculator tool, they can easily calculate the exchange rates between different currencies and understand their travel budget.\n\n2. Trade: In international trade, people need to convert currencies into other currencies. Using this tool, they can quickly calculate the exchange rates between different currencies and understand their trading costs.\n\n3. Financial investment: In financial investment, people need to understand the exchange rates between different currencies. Using the Exchange Rate Calculator tool, they can easily calculate the exchange rates between different currencies and understand their investment return rates."
   }
 }

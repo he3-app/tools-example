@@ -11,8 +11,8 @@
     "name": "English singular to plural",
     "id": "en-singular-plural",
     "icon": "block-outlined",
-    "version": "1.0.5",
-    "description": "The English singular to plural tool is a language tool that automatically converts singular English words to their corresponding plural forms. It is useful for writers, editors, and language learners who need to ensure grammatical accuracy in their writing.",
+    "version": "1.0.6",
+    "description": "English Singular to Plural is a tool used to convert English singular nouns to their plural form. It can automatically detect the inputted singular noun and convert it to its plural form.\n\nFunctionality:\n\n1. Input the English singular noun into the tool.\n\n2. The tool will automatically detect the inputted singular noun and convert it to its plural form.\n\n3. The converted plural form will be displayed in the tool's output area.\n\nUse cases:\n\n1. Writing: During the writing process, it is often necessary to convert English singular nouns to their plural form. Using English Singular to Plural can quickly and accurately complete this task.\n\n2. Translation: When translating English text, it is necessary to convert English singular nouns to their plural form. Using this tool can improve translation efficiency and accuracy.\n\n3. Programming: During the programming process, there may be a need to convert English singular nouns to their plural form. Using this tool can reduce the manual conversion workload and improve programming efficiency.\n\nNotes:\n\n1. This tool is only applicable for converting English singular nouns to their plural form and is not suitable for other languages.\n\n2. This tool can only convert common English singular forms, and irregular singular forms may not be correctly converted.\n\n3. This tool is for reference only, and the conversion results may contain errors. It is recommended to carefully check the conversion results.",
     "isPublic": true,
     "category": [
       "text",
@@ -23,7 +23,12 @@
       "pluralize",
       "single",
       "singular",
-      "english"
+      "english",
+      "English singular to plural",
+      "plural form",
+      "writing",
+      "translation",
+      "programming"
     ],
     "repository": "",
     "relatedToolId": []

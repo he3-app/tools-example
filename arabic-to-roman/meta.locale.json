@@ -1,101 +1,123 @@
 {
   "zh-cn": {
     "$name": "阿拉伯数字转罗马数字",
-    "$description": "阿拉伯数字转罗马数字工具是一种转换工具，允许用户轻松将阿拉伯数字转换为罗马数字。该工具对于那些需要将数字转换为历史或学术目的的人或那些仅喜欢罗马数字系统的人非常有用。",
     "$keywords": [
       "罗马数字",
       "阿拉伯数字",
-      "数字"
-    ]
+      "数字",
+      "阿拉伯数字",
+      "数字转换"
+    ],
+    "$description": "阿拉伯数字转罗马数字转换器是一种工具，用于将阿拉伯数字转换为罗马数字。它可以将输入的阿拉伯数字转换为相应的罗马数字。\n\n特点：\n\n1. 将阿拉伯数字输入到工具中。\n\n2. 工具将自动将输入的阿拉伯数字转换为相应的罗马数字。\n\n3. 转换后的罗马数字将显示在工具的输出区域中。\n\n用途：\n\n1. 历史研究：在历史研究中，通常需要将阿拉伯数字转换为罗马数字，以更好地理解历史事件和时间线。\n\n2. 数学教育：在数学教育中，学生需要学习如何将阿拉伯数字转换为罗马数字。使用这个工具，他们可以轻松地练习和测试他们的技能。\n\n3. 编程开发：在编程开发中，有时需要将阿拉伯数字转换为罗马数字。使用这个工具，开发人员可以快速进行转换，从而提高开发效率。"
   },
   "zh-tw": {
     "$name": "阿拉伯數字轉羅馬數字",
-    "$description": "阿拉伯數字轉羅馬數字工具是一個轉換工具，允許用戶輕鬆地將阿拉伯數字轉換為羅馬數字。此工具對於那些需要將數字轉換為歷史或學術目的，或者那些喜歡羅馬數字系統的人非常有用。",
     "$keywords": [
       "羅馬數字",
       "阿拉伯數字",
-      "數字"
-    ]
+      "數字",
+      "阿拉伯數字",
+      "數字轉換"
+    ],
+    "$description": "阿拉伯數字轉羅馬數字轉換器是一個工具，用於將阿拉伯數字轉換為羅馬數字。它可以將輸入的阿拉伯數字轉換為相應的羅馬數字。\n\n特點：\n\n1. 將阿拉伯數字輸入到工具中。\n\n2. 工具將自動將輸入的阿拉伯數字轉換為相應的羅馬數字。\n\n3. 轉換後的羅馬數字將顯示在工具的輸出區域中。\n\n用途：\n\n1. 歷史研究：在歷史研究中，通常需要將阿拉伯數字轉換為羅馬數字，以更好地理解歷史事件和時間軸。\n\n2. 數學教育：在數學教育中，學生需要學習如何將阿拉伯數字轉換為羅馬數字。使用這個工具，他們可以輕鬆練習和測試自己的技能。\n\n3. 編程開發：在編程開發中，有時需要將阿拉伯數字轉換為羅馬數字。使用這個工具，開發人員可以快速進行轉換，從而提高開發效率。"
   },
   "es": {
     "$name": "Número árabe a romano",
-    "$description": "La herramienta de número árabe a romano es una herramienta de conversión que permite a los usuarios convertir fácilmente números arábigos a números romanos. Esta herramienta es útil para aquellos que necesitan convertir números con fines históricos o académicos, o para aquellos que simplemente prefieren el sistema de números romanos.",
     "$keywords": [
       "números romanos",
-      "número árabe",
-      "número"
-    ]
+      "número arábigo",
+      "número",
+      "números arábigos",
+      "conversión de números"
+    ],
+    "$description": "El conversor de números árabes a números romanos es una herramienta utilizada para convertir números árabes en números romanos. Puede convertir el número árabe de entrada en el número romano correspondiente.\n\nCaracterísticas:\n\n1. Ingrese el número árabe en la herramienta.\n\n2. La herramienta convertirá automáticamente el número árabe de entrada en el número romano correspondiente.\n\n3. El número romano convertido se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Investigación histórica: En la investigación histórica, a menudo es necesario convertir números árabes en números romanos para comprender mejor los eventos y las líneas de tiempo históricos.\n\n2. Educación matemática: En la educación matemática, los estudiantes necesitan aprender a convertir números árabes en números romanos. Usando esta herramienta, pueden practicar y poner a prueba sus habilidades fácilmente.\n\n3. Desarrollo de programación: En el desarrollo de programación, a veces es necesario convertir números árabes en números romanos. Usando esta herramienta, los desarrolladores pueden realizar rápidamente la conversión, mejorando así la eficiencia del desarrollo."
   },
   "ja": {
     "$name": "アラビア数字からローマ数字への変換ツール",
-    "$description": "アラビア数字からローマ数字への変換ツールは、ユーザーが簡単にアラビア数字をローマ数字に変換できる変換ツールです。このツールは、歴史的または学術的な目的のために数字を変換する必要がある人、または単にローマ数字システムを好む人にとって役立ちます。",
     "$keywords": [
       "ローマ数字",
       "アラビア数字",
-      "数字"
-    ]
+      "数字",
+      "アラビア数字",
+      "数字変換"
+    ],
+    "$description": "アラビア数字からローマ数字への変換ツールは、アラビア数字をローマ数字に変換するために使用されるツールです。入力されたアラビア数字を対応するローマ数字に変換することができます。\n\n特徴：\n\n1. ツールにアラビア数字を入力します。\n\n2. ツールは自動的に入力されたアラビア数字を対応するローマ数字に変換します。\n\n3. 変換されたローマ数字は、ツールの出力エリアに表示されます。\n\n用途：\n\n1. 歴史的研究：歴史的研究では、歴史的な出来事やタイムラインをより理解するために、アラビア数字をローマ数字に変換する必要があることがよくあります。\n\n2. 数学教育：数学教育では、学生がアラビア数字をローマ数字に変換する方法を学ぶ必要があります。このツールを使用することで、簡単に練習やスキルのテストができます。\n\n3. プログラミング開発：プログラミング開発では、アラビア数字をローマ数字に変換する必要があることがあります。このツールを使用することで、開発者は迅速に変換を行うことができ、開発効率を向上させることができます。"
   },
   "ko": {
     "$name": "아라비아 숫자를 로마 숫자로 변환하는 도구",
-    "$description": "아라비아 숫자를 로마 숫자로 쉽게 변환할 수 있는 변환 도구입니다. 이 도구는 역사적이거나 학술적인 목적으로 숫자를 변환해야 하는 사람들이나 로마 숫자 체계를 선호하는 사람들에게 유용합니다.",
     "$keywords": [
       "로마 숫자",
       "아라비아 숫자",
-      "숫자"
-    ]
+      "숫자",
+      "아라비아 숫자",
+      "숫자 변환"
+    ],
+    "$description": "아라비아 숫자를 로마 숫자로 변환하는 변환기는 아라비아 숫자를 로마 숫자로 변환하는 데 사용되는 도구입니다. 입력된 아라비아 숫자를 해당하는 로마 숫자로 변환할 수 있습니다.\n\n특징:\n\n1. 도구에 아라비아 숫자를 입력합니다.\n\n2. 도구는 입력된 아라비아 숫자를 자동으로 해당하는 로마 숫자로 변환합니다.\n\n3. 변환된 로마 숫자는 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. 역사 연구: 역사 연구에서는 종종 역사적 사건과 타임라인을 더 잘 이해하기 위해 아라비아 숫자를 로마 숫자로 변환해야 합니다.\n\n2. 수학 교육: 수학 교육에서는 학생들이 아라비아 숫자를 로마 숫자로 변환하는 방법을 배워야 합니다. 이 도구를 사용하면 학생들은 쉽게 연습하고 기술을 테스트할 수 있습니다.\n\n3. 프로그래밍 개발: 프로그래밍 개발에서는 때로 아라비아 숫자를 로마 숫자로 변환해야 할 필요가 있습니다. 이 도구를 사용하면 개발자들은 빠르게 변환을 수행하여 개발 효율성을 향상시킬 수 있습니다."
   },
   "de": {
     "$name": "Arabische Zahl in Römische Zahl",
-    "$description": "Das Arabische Zahl in Römische Zahl Tool ist ein Konvertierungstool, das es Benutzern ermöglicht, Arabische Zahlen einfach in Römische Zahlen umzuwandeln. Dieses Tool ist nützlich für diejenigen, die Zahlen für historische oder akademische Zwecke konvertieren müssen oder für diejenigen, die einfach das Römische Zahlensystem bevorzugen.",
     "$keywords": [
-      "römische zahlen",
-      "arabische zahl",
-      "zahl"
-    ]
+      "römische Zahlen",
+      "arabische Zahl",
+      "Zahl",
+      "arabische Ziffern",
+      "Zahlumwandlung"
+    ],
+    "$description": "Der Arabisch-Römische-Zahlen-Konverter ist ein Werkzeug, das verwendet wird, um arabische Zahlen in römische Zahlen umzuwandeln. Es kann die eingegebene arabische Zahl in die entsprechende römische Zahl umwandeln.\n\nFunktionen:\n\n1. Geben Sie die arabische Zahl in das Werkzeug ein.\n\n2. Das Werkzeug wandelt automatisch die eingegebene arabische Zahl in die entsprechende römische Zahl um.\n\n3. Die umgewandelte römische Zahl wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\nAnwendungsfälle:\n\n1. Historische Forschung: In der historischen Forschung ist es oft notwendig, arabische Zahlen in römische Zahlen umzuwandeln, um historische Ereignisse und Zeitlinien besser zu verstehen.\n\n2. Mathematikunterricht: Im Mathematikunterricht müssen Schüler lernen, wie man arabische Zahlen in römische Zahlen umwandelt. Mit diesem Werkzeug können sie ihre Fähigkeiten einfach üben und testen.\n\n3. Programmierentwicklung: In der Programmierentwicklung ist es manchmal notwendig, arabische Zahlen in römische Zahlen umzuwandeln. Mit diesem Werkzeug können Entwickler die Konvertierung schnell durchführen und dadurch die Entwicklungseffizienz verbessern."
   },
   "fr": {
     "$name": "Nombre arabe en chiffres romains",
-    "$description": "L'outil de conversion de nombre arabe en chiffres romains permet aux utilisateurs de convertir facilement des chiffres arabes en chiffres romains. Cet outil est utile pour ceux qui ont besoin de convertir des nombres à des fins historiques ou académiques, ou pour ceux qui préfèrent simplement le système de chiffres romains.",
     "$keywords": [
-      "chiffres romains",
+      "numéros romains",
       "nombre arabe",
-      "nombre"
-    ]
+      "nombre",
+      "numéraux arabes",
+      "conversion de nombre"
+    ],
+    "$description": "Le convertisseur de chiffres arabes en chiffres romains est un outil utilisé pour convertir les chiffres arabes en chiffres romains. Il peut convertir le chiffre arabe d'entrée en chiffre romain correspondant.\n\nFonctionnalités :\n\n1. Entrez le chiffre arabe dans l'outil.\n\n2. L'outil convertira automatiquement le chiffre arabe d'entrée en chiffre romain correspondant.\n\n3. Le chiffre romain converti sera affiché dans la zone de sortie de l'outil.\n\nCas d'utilisation :\n\n1. Recherche historique : En recherche historique, il est souvent nécessaire de convertir les chiffres arabes en chiffres romains pour mieux comprendre les événements historiques et les chronologies.\n\n2. Éducation mathématique : En éducation mathématique, les étudiants doivent apprendre à convertir les chiffres arabes en chiffres romains. En utilisant cet outil, ils peuvent facilement pratiquer et tester leurs compétences.\n\n3. Développement de programmation : En développement de programmation, il est parfois nécessaire de convertir les chiffres arabes en chiffres romains. En utilisant cet outil, les développeurs peuvent rapidement effectuer la conversion, améliorant ainsi l'efficacité du développement."
   },
   "it": {
     "$name": "Numero arabo in romano",
-    "$description": "Il convertitore da numero arabo a romano è uno strumento di conversione che consente agli utenti di convertire facilmente i numeri arabi in numeri romani. Questo strumento è utile per coloro che hanno bisogno di convertire numeri per scopi storici o accademici, o per coloro che semplicemente preferiscono il sistema di numerazione romano.",
     "$keywords": [
       "numeri romani",
       "numero arabo",
-      "numero"
-    ]
+      "numero",
+      "numeri arabi",
+      "conversione numeri"
+    ],
+    "$description": "Il convertitore da numeri arabi a numeri romani è uno strumento utilizzato per convertire i numeri arabi in numeri romani. Può convertire il numero arabo di input nel corrispondente numero romano.\n\nCaratteristiche:\n\n1. Inserisci il numero arabo nello strumento.\n\n2. Lo strumento convertirà automaticamente il numero arabo di input nel corrispondente numero romano.\n\n3. Il numero romano convertito verrà visualizzato nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Ricerca storica: nella ricerca storica, spesso è necessario convertire i numeri arabi in numeri romani per comprendere meglio gli eventi e le timeline storiche.\n\n2. Educazione matematica: nell'educazione matematica, gli studenti devono imparare a convertire i numeri arabi in numeri romani. Utilizzando questo strumento, possono facilmente esercitarsi e testare le loro abilità.\n\n3. Sviluppo di programmazione: nello sviluppo di programmazione, a volte è necessario convertire i numeri arabi in numeri romani. Utilizzando questo strumento, gli sviluppatori possono eseguire rapidamente la conversione, migliorando così l'efficienza dello sviluppo."
   },
   "ru": {
     "$name": "Арабские числа в римские",
-    "$description": "Инструмент для преобразования арабских чисел в римские числа, который позволяет пользователям легко конвертировать арабские цифры в римские цифры. Этот инструмент полезен для тех, кто нуждается в преобразовании чисел для исторических или академических целей, или для тех, кто просто предпочитает систему римских цифр.",
     "$keywords": [
       "римские цифры",
       "арабские числа",
-      "число"
-    ]
+      "число",
+      "арабские цифры",
+      "конвертация чисел"
+    ],
+    "$description": "Арабский в римский конвертер - это инструмент, используемый для преобразования арабских цифр в римские цифры. Он может преобразовать входную арабскую цифру в соответствующую римскую цифру.\n\nОсобенности:\n\n1. Введите арабскую цифру в инструмент.\n\n2. Инструмент автоматически преобразует входную арабскую цифру в соответствующую римскую цифру.\n\n3. Преобразованная римская цифра будет отображаться в выходной области инструмента.\n\nПрименение:\n\n1. Исторические исследования: В исторических исследованиях часто необходимо преобразовывать арабские цифры в римские цифры, чтобы лучше понимать исторические события и хронологию.\n\n2. Образование в области математики: В образовании в области математики студенты должны учиться преобразовывать арабские цифры в римские цифры. Используя этот инструмент, они могут легко практиковаться и проверять свои навыки.\n\n3. Разработка программного обеспечения: В разработке программного обеспечения иногда необходимо преобразовывать арабские цифры в римские цифры. Используя этот инструмент, разработчики могут быстро выполнить преобразование, тем самым повысив эффективность разработки."
   },
   "pt": {
     "$name": "Número árabe para romano",
-    "$description": "A ferramenta de número árabe para romano é uma ferramenta de conversão que permite aos usuários converter facilmente números arábicos em números romanos. Esta ferramenta é útil para aqueles que precisam converter números para fins históricos ou acadêmicos, ou para aqueles que simplesmente preferem o sistema de numeração romano.",
     "$keywords": [
       "numerais romanos",
-      "número árabe",
-      "número"
-    ]
+      "número arábico",
+      "número",
+      "numerais arábicos",
+      "conversão de números"
+    ],
+    "$description": "O conversor de números arábicos para números romanos é uma ferramenta usada para converter números arábicos em números romanos. Ele pode converter o número arábico de entrada para o número romano correspondente.\n\nRecursos:\n\n1. Insira o número arábico na ferramenta.\n\n2. A ferramenta converterá automaticamente o número arábico de entrada para o número romano correspondente.\n\n3. O número romano convertido será exibido na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Pesquisa histórica: Na pesquisa histórica, muitas vezes é necessário converter números arábicos em números romanos para entender melhor eventos e cronologias históricas.\n\n2. Educação matemática: Na educação matemática, os alunos precisam aprender a converter números arábicos em números romanos. Usando esta ferramenta, eles podem praticar e testar suas habilidades facilmente.\n\n3. Desenvolvimento de programação: No desenvolvimento de programação, às vezes é necessário converter números arábicos em números romanos. Usando esta ferramenta, os desenvolvedores podem realizar rapidamente a conversão, melhorando assim a eficiência do desenvolvimento."
   },
   "en": {
     "$name": "Arabic number to Roman",
-    "$description": "The Arabic number to Roman tool is a conversion tool that allows users to easily convert Arabic numerals to Roman numerals. This tool is useful for those who need to convert numbers for historical or academic purposes, or for those who simply prefer the Roman numeral system.",
     "$keywords": [
       "roman numerals",
       "arabic number",
-      "number"
-    ]
+      "number",
+      "Arabic numerals",
+      "number conversion"
+    ],
+    "$description": "The Arabic to Roman numeral converter is a tool used to convert Arabic numerals to Roman numerals. It can convert the input Arabic numeral to the corresponding Roman numeral.\n\nFeatures:\n\n1. Input the Arabic numeral into the tool.\n\n2. The tool will automatically convert the input Arabic numeral to the corresponding Roman numeral.\n\n3. The converted Roman numeral will be displayed in the tool's output area.\n\nUse cases:\n\n1. Historical research: In historical research, it is often necessary to convert Arabic numerals to Roman numerals in order to better understand historical events and timelines.\n\n2. Mathematics education: In mathematics education, students need to learn how to convert Arabic numerals to Roman numerals. Using this tool, they can easily practice and test their skills.\n\n3. Programming development: In programming development, sometimes it is necessary to convert Arabic numerals to Roman numerals. Using this tool, developers can quickly perform the conversion, thereby improving development efficiency."
   }
 }

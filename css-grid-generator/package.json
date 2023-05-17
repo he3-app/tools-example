@@ -10,19 +10,23 @@
     "id": "css-grid-generator",
     "name": "CSS Grid Generator",
     "icon": "global-outlined",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/css-grid-generator",
     "category": [
       "web"
     ],
-    "description": "CSS Grid Generator is a web-based tool that allows users to preview and generate CSS grid layouts with ease. It provides a user-friendly interface for creating custom grid structures and generating corresponding CSS code, making it an essential tool for web designers and developers.",
+    "description": "CSS Grid Generator Tool Documentation\n\nThe CSS Grid Generator Tool is a tool used to generate CSS Grid layout code. It can generate corresponding CSS Grid layout code by setting parameters such as the number of rows, the number of columns, row spacing, and column spacing, and provides HTML and CSS preview modes.\n\nFeatures:\n\n1. Set parameters such as the number of rows, the number of columns, row spacing, and column spacing to generate corresponding CSS Grid layout code.\n\n2. Provide HTML and CSS preview modes for users to view the generated layout effect.\n\n3. Support automatic saving of settings, and the settings can be restored the next time the tool is opened.\n\nUse cases:\n\n1. Web layout design: When designing web layout, using the CSS Grid Generator Tool can quickly generate corresponding CSS Grid layout code and improve development efficiency.\n\n2. Learning CSS Grid layout: For beginners, using the CSS Grid Generator Tool can better understand the principles and usage of CSS Grid layout.\n\n3. Debugging CSS Grid layout: When debugging CSS Grid layout, using the CSS Grid Generator Tool can quickly generate corresponding layout code for easy debugging.\n\nInstructions:\n\n1. Open the CSS Grid Generator Tool.\n\n2. Set parameters such as the number of rows, the number of columns, row spacing, and column spacing.\n\n3. Click the preview button to view the generated HTML and CSS code.\n\n4. You can switch between HTML and CSS preview modes by toggling the preview button.\n\n5. Settings can be automatically saved, and the settings can be restored the next time the tool is opened.\n\nNotes:\n\n1. The number of rows and columns entered must be integers.\n\n2. The row spacing and column spacing must be non-negative integers.\n\n3. The cell size can use any CSS unit, such as px, em, rem, etc.\n\n4. Support using the repeat() and minmax() functions to set cell size.\n\n5. Support using keywords such as auto, min-content, max-content to set cell size.\n\n6. Support using the fr unit to set cell size.\n\n7. Support automatic saving of settings, and the settings can be restored the next time the tool is opened.",
     "keywords": [
       "grid",
       "layout",
       "css",
       "preview",
-      "generate"
+      "generate",
+      "Web layout design",
+      "CSS Grid layout",
+      "Debug layout",
+      "Generate code"
     ],
     "relatedToolId": []
   },

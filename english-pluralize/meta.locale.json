@@ -1,119 +1,175 @@
 {
   "zh-cn": {
     "$name": "英语单数转复数",
-    "$description": "英语单数转复数工具是一种语言工具，可以自动将英语单数词转换为相应的复数形式。它对于需要确保写作语法准确性的作家、编辑和语言学习者非常有用。",
     "$keywords": [
       "复数",
-      "复数化",
+      "复数形式",
       "单数",
       "单数形式",
-      "英语"
-    ]
+      "英语",
+      "英语单数转复数",
+      "复数形式",
+      "写作",
+      "翻译",
+      "编程"
+    ],
+    "$description": "英语单数转复数是一种工具，用于将英语单数名词转换为它们的复数形式。它可以自动检测输入的单数名词并将其转换为复数形式。\n\n功能：\n\n1. 将英语单数名词输入到工具中。\n\n2. 工具将自动检测输入的单数名词并将其转换为复数形式。\n\n3. 转换后的复数形式将显示在工具的输出区域中。\n\n用例：\n\n1. 写作：在写作过程中，经常需要将英语单数名词转换为它们的复数形式。使用英语单数转复数可以快速准确地完成这项任务。\n\n2. 翻译：在翻译英文文本时，需要将英语单数名词转换为它们的复数形式。使用此工具可以提高翻译效率和准确性。\n\n3. 编程：在编程过程中，可能需要将英语单数名词转换为它们的复数形式。使用此工具可以减少手动转换工作量，提高编程效率。\n\n注意事项：\n\n1. 此工具仅适用于将英语单数名词转换为复数形式，不适用于其他语言。\n\n2. 此工具只能转换常见的英语单数形式，不规则的单数形式可能无法正确转换。\n\n3. 此工具仅供参考，转换结果可能包含错误。建议仔细检查转换结果。"
   },
   "zh-tw": {
     "$name": "英文單數轉複數",
-    "$description": "英文單數轉複數工具是一種語言工具，可以自動將英文單數詞轉換為相應的複數形式。它對於需要確保寫作文法準確性的作家、編輯和語言學習者非常有用。",
     "$keywords": [
       "複數",
       "複數化",
       "單數",
-      "單數形式",
-      "英文"
-    ]
+      "單數化",
+      "英文",
+      "英文單數轉複數",
+      "複數形式",
+      "寫作",
+      "翻譯",
+      "程式設計"
+    ],
+    "$description": "英文單數轉複數是一個工具，用於將英文單數名詞轉換為其複數形式。它可以自動檢測輸入的單數名詞並將其轉換為其複數形式。\n\n功能：\n\n1. 將英文單數名詞輸入到工具中。\n\n2. 工具將自動檢測輸入的單數名詞並將其轉換為其複數形式。\n\n3. 轉換後的複數形式將顯示在工具的輸出區域中。\n\n使用情境：\n\n1. 寫作：在寫作過程中，通常需要將英文單數名詞轉換為其複數形式。使用英文單數轉複數工具可以快速準確地完成此任務。\n\n2. 翻譯：在翻譯英文文本時，需要將英文單數名詞轉換為其複數形式。使用此工具可以提高翻譯效率和準確性。\n\n3. 編程：在編程過程中，可能需要將英文單數名詞轉換為其複數形式。使用此工具可以減少手動轉換工作量，提高編程效率。\n\n注意事項：\n\n1. 此工具僅適用於將英文單數名詞轉換為其複數形式，不適用於其他語言。\n\n2. 此工具僅能轉換常見的英文單數形式，不規則的單數形式可能無法正確轉換。\n\n3. 此工具僅供參考，轉換結果可能包含錯誤。建議仔細檢查轉換結果。"
   },
   "es": {
     "$name": "Singular a Plural en Inglés",
-    "$description": "La herramienta Singular a Plural en Inglés es una herramienta de lenguaje que convierte automáticamente palabras en inglés singulares a sus formas plurales correspondientes. Es útil para escritores, editores y estudiantes de idiomas que necesitan asegurar la precisión gramatical en su escritura.",
     "$keywords": [
-      "plural",
+      "plurales",
       "pluralizar",
       "singular",
-      "inglés"
-    ]
+      "singular en inglés a plural",
+      "forma plural",
+      "escritura",
+      "traducción",
+      "programación"
+    ],
+    "$description": "Traducción: Singular en inglés a plural es una herramienta utilizada para convertir sustantivos singulares en inglés a su forma plural. Puede detectar automáticamente el sustantivo singular ingresado y convertirlo a su forma plural.\n\nFuncionalidad:\n\n1. Ingrese el sustantivo singular en inglés en la herramienta.\n\n2. La herramienta detectará automáticamente el sustantivo singular ingresado y lo convertirá a su forma plural.\n\n3. La forma plural convertida se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Escritura: Durante el proceso de escritura, a menudo es necesario convertir sustantivos singulares en inglés a su forma plural. El uso de Singular en inglés a plural puede completar esta tarea de manera rápida y precisa.\n\n2. Traducción: Al traducir texto en inglés, es necesario convertir sustantivos singulares en inglés a su forma plural. El uso de esta herramienta puede mejorar la eficiencia y precisión de la traducción.\n\n3. Programación: Durante el proceso de programación, puede haber la necesidad de convertir sustantivos singulares en inglés a su forma plural. El uso de esta herramienta puede reducir la carga de trabajo de conversión manual y mejorar la eficiencia de programación.\n\nNotas:\n\n1. Esta herramienta solo es aplicable para convertir sustantivos singulares en inglés a su forma plural y no es adecuada para otros idiomas.\n\n2. Esta herramienta solo puede convertir formas singulares comunes en inglés, y las formas singulares irregulares pueden no ser convertidas correctamente.\n\n3. Esta herramienta es solo para referencia y los resultados de conversión pueden contener errores. Se recomienda verificar cuidadosamente los resultados de conversión."
   },
   "ja": {
     "$name": "英語単数形から複数形への変換ツール",
-    "$description": "英語単数形から複数形へ自動的に変換する言語ツールです。文章の文法的正確性を確保する必要があるライターや編集者、言語学習者に役立ちます。",
     "$keywords": [
       "複数形",
+      "複数化",
       "単数形",
-      "英語"
-    ]
+      "単数",
+      "英語",
+      "英語の単数形から複数形へ",
+      "複数形フォーム",
+      "文章",
+      "翻訳",
+      "プログラミング"
+    ],
+    "$description": "英語の単数形から複数形へ変換するためのツールである「English Singular to Plural」は、単数形の英語名詞を自動的に検出し、複数形に変換することができます。\n\n機能：\n\n1. 英語の単数形名詞をツールに入力します。\n\n2. ツールは自動的に入力された単数形名詞を検出し、複数形に変換します。\n\n3. 変換された複数形は、ツールの出力エリアに表示されます。\n\n使用例：\n\n1. 文章作成：文章作成の過程で、英語の単数形名詞を複数形に変換する必要があることがよくあります。English Singular to Pluralを使用することで、このタスクを迅速かつ正確に完了することができます。\n\n2. 翻訳：英語のテキストを翻訳する際には、英語の単数形名詞を複数形に変換する必要があります。このツールを使用することで、翻訳の効率と正確性を向上させることができます。\n\n3. プログラミング：プログラミングの過程で、英語の単数形名詞を複数形に変換する必要がある場合があります。このツールを使用することで、手動での変換作業を減らし、プログラミングの効率を向上させることができます。\n\n注意点：\n\n1. このツールは英語の単数形名詞を複数形に変換するためのものであり、他の言語には適していません。\n\n2. このツールは一般的な英語の単数形にしか対応しておらず、不規則な単数形については正しく変換されない場合があります。\n\n3. このツールは参考用であり、変換結果に誤りが含まれる可能性があります。変換結果を注意深く確認することをお勧めします。"
   },
   "ko": {
     "$name": "영어 단수형을 복수형으로 변환하는 도구",
-    "$description": "영어 단수형을 자동으로 해당하는 복수형으로 변환해주는 언어 도구입니다. 작가, 편집자 및 언어 학습자들이 글쓰기에서 문법적 정확성을 보장해야 할 때 유용합니다.",
     "$keywords": [
       "복수형",
       "복수화",
       "단수형",
-      "영어"
-    ]
+      "단수",
+      "영어",
+      "영어 단수형을 복수형으로 번역",
+      "복수형 형태",
+      "쓰기",
+      "번역",
+      "프로그래밍"
+    ],
+    "$description": "영어 단수형을 복수형으로 변환하는 English Singular to Plural은 도구입니다. 이 도구는 입력된 영어 단수명사를 자동으로 감지하여 복수형으로 변환할 수 있습니다.\n\n기능:\n\n1. 영어 단수명사를 도구에 입력합니다.\n\n2. 도구는 입력된 영어 단수명사를 자동으로 감지하여 복수형으로 변환합니다.\n\n3. 변환된 복수형은 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. 글쓰기: 글쓰기 과정에서 영어 단수명사를 복수형으로 변환해야 할 필요가 자주 있습니다. English Singular to Plural을 사용하면 이 작업을 빠르고 정확하게 수행할 수 있습니다.\n\n2. 번역: 영어 텍스트를 번역할 때는 영어 단수명사를 복수형으로 변환해야 합니다. 이 도구를 사용하면 번역 효율과 정확성을 높일 수 있습니다.\n\n3. 프로그래밍: 프로그래밍 과정에서는 영어 단수명사를 복수형으로 변환해야 할 필요가 있을 수 있습니다. 이 도구를 사용하면 수동 변환 작업을 줄이고 프로그래밍 효율을 높일 수 있습니다.\n\n참고 사항:\n\n1. 이 도구는 영어 단수명사를 복수형으로 변환하는 데만 적용되며 다른 언어에는 적합하지 않습니다.\n\n2. 이 도구는 일반적인 영어 단수형만 변환할 수 있으며, 불규칙적인 단수형은 올바르게 변환되지 않을 수 있습니다.\n\n3. 이 도구는 참고용으로만 사용하며, 변환 결과에는 오류가 포함될 수 있습니다. 변환 결과를 주의 깊게 확인하는 것이 좋습니다."
   },
   "de": {
     "$name": "Englisch Singular zu Plural",
-    "$description": "Das Englisch Singular zu Plural Tool ist ein Sprachwerkzeug, das automatisch englische Singularwörter in ihre entsprechenden Pluralformen umwandelt. Es ist nützlich für Schriftsteller, Redakteure und Sprachlernende, die grammatische Genauigkeit in ihrem Schreiben sicherstellen müssen.",
     "$keywords": [
       "Plural",
-      "Pluralisieren",
+      "Pluralformen",
       "Einzahl",
       "Singular",
-      "Englisch"
-    ]
+      "Englisch",
+      "Englisch Singular zu Plural",
+      "Mehrzahlform",
+      "Schreiben",
+      "Übersetzung",
+      "Programmierung"
+    ],
+    "$description": "Englisch Singular zu Plural ist ein Werkzeug, das verwendet wird, um englische Singularnomen in ihre Pluralform umzuwandeln. Es kann automatisch das eingegebene Singularnomen erkennen und in seine Pluralform umwandeln.\n\nFunktionalität:\n\n1. Geben Sie das englische Singularnomen in das Werkzeug ein.\n\n2. Das Werkzeug erkennt automatisch das eingegebene Singularnomen und wandelt es in seine Pluralform um.\n\n3. Die umgewandelte Pluralform wird im Ausgabegebiet des Werkzeugs angezeigt.\n\nAnwendungsfälle:\n\n1. Schreiben: Während des Schreibprozesses ist es oft notwendig, englische Singularnomen in ihre Pluralform umzuwandeln. Mit Englisch Singular zu Plural kann diese Aufgabe schnell und genau erledigt werden.\n\n2. Übersetzung: Bei der Übersetzung von englischem Text ist es notwendig, englische Singularnomen in ihre Pluralform umzuwandeln. Die Verwendung dieses Werkzeugs kann die Übersetzungseffizienz und -genauigkeit verbessern.\n\n3. Programmierung: Während des Programmierprozesses kann es notwendig sein, englische Singularnomen in ihre Pluralform umzuwandeln. Die Verwendung dieses Werkzeugs kann die manuelle Konvertierungsarbeit reduzieren und die Programmierungseffizienz verbessern.\n\nAnmerkungen:\n\n1. Dieses Werkzeug ist nur für die Umwandlung von englischen Singularnomen in ihre Pluralform geeignet und ist nicht für andere Sprachen geeignet.\n\n2. Dieses Werkzeug kann nur gängige englische Singularformen konvertieren, und unregelmäßige Singularformen können möglicherweise nicht korrekt konvertiert werden.\n\n3. Dieses Werkzeug dient nur als Referenz, und die Konvertierungsergebnisse können Fehler enthalten. Es wird empfohlen, die Konvertierungsergebnisse sorgfältig zu überprüfen."
   },
   "fr": {
     "$name": "Singulier en pluriel",
-    "$description": "L'outil Singulier en pluriel est un outil linguistique qui convertit automatiquement les mots anglais singuliers en leurs formes plurielles correspondantes. Il est utile pour les écrivains, les éditeurs et les apprenants en langue qui ont besoin de garantir l'exactitude grammaticale dans leur écriture.",
     "$keywords": [
       "pluriel",
-      "plurieliser",
+      "pluriel",
       "unique",
       "singulier",
-      "anglais"
-    ]
+      "anglais",
+      "Anglais singulier au pluriel",
+      "forme plurielle",
+      "écriture",
+      "traduction",
+      "programmation"
+    ],
+    "$description": "Traduire: \"English Singular to Plural\" est un outil utilisé pour convertir les noms singuliers anglais en leur forme plurielle. Il peut détecter automatiquement le nom singulier entré et le convertir en sa forme plurielle.\n\nFonctionnalité:\n\n1. Entrez le nom singulier anglais dans l'outil.\n\n2. L'outil détectera automatiquement le nom singulier entré et le convertira en sa forme plurielle.\n\n3. La forme plurielle convertie sera affichée dans la zone de sortie de l'outil.\n\nCas d'utilisation:\n\n1. Écriture: Pendant le processus d'écriture, il est souvent nécessaire de convertir les noms singuliers anglais en leur forme plurielle. L'utilisation de \"English Singular to Plural\" peut compléter rapidement et avec précision cette tâche.\n\n2. Traduction: Lors de la traduction de textes anglais, il est nécessaire de convertir les noms singuliers anglais en leur forme plurielle. L'utilisation de cet outil peut améliorer l'efficacité et la précision de la traduction.\n\n3. Programmation: Pendant le processus de programmation, il peut être nécessaire de convertir les noms singuliers anglais en leur forme plurielle. L'utilisation de cet outil peut réduire la charge de travail de conversion manuelle et améliorer l'efficacité de la programmation.\n\nNotes:\n\n1. Cet outil ne convient que pour la conversion des noms singuliers anglais en leur forme plurielle et n'est pas adapté pour d'autres langues.\n\n2. Cet outil ne peut convertir que les formes singulières anglaises courantes et les formes singulières irrégulières peuvent ne pas être correctement converties.\n\n3. Cet outil est à titre indicatif seulement et les résultats de conversion peuvent contenir des erreurs. Il est recommandé de vérifier attentivement les résultats de conversion."
   },
   "it": {
     "$name": "Singolare inglese al plurale",
-    "$description": "Lo strumento Singolare inglese al plurale è uno strumento linguistico che converte automaticamente le parole inglesi singolari nelle loro forme plurali corrispondenti. È utile per scrittori, editori e studenti di lingue che devono garantire l'accuratezza grammaticale nella loro scrittura.",
     "$keywords": [
       "plurale",
       "plurale",
-      "singolo",
       "singolare",
-      "inglese"
-    ]
+      "singolare",
+      "inglese",
+      "Inglese singolare in plurale",
+      "forma plurale",
+      "scrittura",
+      "traduzione",
+      "programmazione"
+    ],
+    "$description": "Inglese Singolare al Plurale è uno strumento utilizzato per convertire i sostantivi singolari inglesi nella loro forma plurale. Può rilevare automaticamente il sostantivo singolare inserito e convertirlo nella sua forma plurale.\n\nFunzionalità:\n\n1. Inserisci il sostantivo singolare inglese nello strumento.\n\n2. Lo strumento rileverà automaticamente il sostantivo singolare inserito e lo convertirà nella sua forma plurale.\n\n3. La forma plurale convertita verrà visualizzata nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Scrittura: Durante il processo di scrittura, è spesso necessario convertire i sostantivi singolari inglesi nella loro forma plurale. Utilizzando Inglese Singolare al Plurale, è possibile completare rapidamente e con precisione questo compito.\n\n2. Traduzione: Quando si traduce un testo inglese, è necessario convertire i sostantivi singolari inglesi nella loro forma plurale. L'utilizzo di questo strumento può migliorare l'efficienza e l'accuratezza della traduzione.\n\n3. Programmazione: Durante il processo di programmazione, potrebbe essere necessario convertire i sostantivi singolari inglesi nella loro forma plurale. L'utilizzo di questo strumento può ridurre il carico di lavoro manuale di conversione e migliorare l'efficienza della programmazione.\n\nNote:\n\n1. Questo strumento è applicabile solo per la conversione dei sostantivi singolari inglesi nella loro forma plurale e non è adatto per altre lingue.\n\n2. Questo strumento può convertire solo le forme singolari inglesi comuni e le forme singolari irregolari potrebbero non essere convertite correttamente.\n\n3. Questo strumento è solo a scopo di riferimento e i risultati della conversione potrebbero contenere errori. Si consiglia di controllare attentamente i risultati della conversione."
   },
   "ru": {
     "$name": "Английский единственное число во множественное",
-    "$description": "Инструмент для английского единственного числа во множественное - это языковой инструмент, который автоматически преобразует единственные английские слова в соответствующие им формы множественного числа. Он полезен для писателей, редакторов и изучающих язык, которые нуждаются в обеспечении грамматической точности в своей письменной речи.",
     "$keywords": [
       "множественное число",
       "множественное число",
       "единственное число",
       "единственное число",
-      "английский"
-    ]
+      "английский",
+      "Английский единственное число во множественное",
+      "множественная форма",
+      "письмо",
+      "перевод",
+      "программирование"
+    ],
+    "$description": "Английский единственное число во множественное - это инструмент, используемый для преобразования английских существительных из единственного числа во множественное. Он может автоматически определить введенное единственное существительное и преобразовать его во множественное число.\n\nФункциональность:\n\n1. Введите английское единственное существительное в инструмент.\n\n2. Инструмент автоматически определит введенное единственное существительное и преобразует его во множественное число.\n\n3. Преобразованная форма множественного числа будет отображаться в выходной области инструмента.\n\nПрименение:\n\n1. Письмо: В процессе написания часто необходимо преобразовывать английские единственные существительные во множественное число. Использование Английского единственного числа во множественное может быстро и точно выполнить эту задачу.\n\n2. Перевод: При переводе английского текста необходимо преобразовывать английские единственные существительные во множественное число. Использование этого инструмента может улучшить эффективность и точность перевода.\n\n3. Программирование: В процессе программирования может возникнуть необходимость преобразовать английские единственные существительные во множественное число. Использование этого инструмента может снизить ручную нагрузку на преобразование и улучшить эффективность программирования.\n\nПримечания:\n\n1. Этот инструмент применим только для преобразования английских единственных существительных во множественное число и не подходит для других языков.\n\n2. Этот инструмент может преобразовывать только общие английские единственные формы, и неправильные единственные формы могут быть неправильно преобразованы.\n\n3. Этот инструмент предназначен только для справки, и результаты преобразования могут содержать ошибки. Рекомендуется тщательно проверять результаты преобразования."
   },
   "pt": {
     "$name": "Singular para Plural em Inglês",
-    "$description": "A ferramenta Singular para Plural em Inglês é uma ferramenta de linguagem que converte automaticamente palavras em inglês no singular para suas formas plurais correspondentes. É útil para escritores, editores e aprendizes de línguas que precisam garantir a precisão gramatical em sua escrita.",
     "$keywords": [
       "plural",
-      "pluralizar",
-      "único",
+      "pluralize",
       "singular",
-      "inglês"
-    ]
+      "singular em inglês para plural",
+      "inglês",
+      "forma plural",
+      "escrita",
+      "tradução",
+      "programação"
+    ],
+    "$description": "Tradução: Singular para Plural em Inglês é uma ferramenta usada para converter substantivos singulares em inglês para sua forma plural. Ela pode detectar automaticamente o substantivo singular inserido e convertê-lo para sua forma plural.\n\nFuncionalidade:\n\n1. Insira o substantivo singular em inglês na ferramenta.\n\n2. A ferramenta detectará automaticamente o substantivo singular inserido e o converterá para sua forma plural.\n\n3. A forma plural convertida será exibida na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Escrita: Durante o processo de escrita, é frequentemente necessário converter substantivos singulares em inglês para sua forma plural. Usar Singular para Plural em Inglês pode completar rapidamente e com precisão essa tarefa.\n\n2. Tradução: Ao traduzir textos em inglês, é necessário converter substantivos singulares em inglês para sua forma plural. Usar essa ferramenta pode melhorar a eficiência e a precisão da tradução.\n\n3. Programação: Durante o processo de programação, pode haver a necessidade de converter substantivos singulares em inglês para sua forma plural. Usar essa ferramenta pode reduzir a carga de trabalho de conversão manual e melhorar a eficiência da programação.\n\nObservações:\n\n1. Esta ferramenta é aplicável apenas para a conversão de substantivos singulares em inglês para sua forma plural e não é adequada para outros idiomas.\n\n2. Esta ferramenta só pode converter formas singulares comuns em inglês, e formas singulares irregulares podem não ser convertidas corretamente.\n\n3. Esta ferramenta é apenas para referência, e os resultados da conversão podem conter erros. É recomendável verificar cuidadosamente os resultados da conversão."
   },
   "en": {
     "$name": "English singular to plural",
-    "$description": "The English singular to plural tool is a language tool that automatically converts singular English words to their corresponding plural forms. It is useful for writers, editors, and language learners who need to ensure grammatical accuracy in their writing.",
     "$keywords": [
       "plural",
       "pluralize",
       "single",
       "singular",
-      "english"
-    ]
+      "english",
+      "English singular to plural",
+      "plural form",
+      "writing",
+      "translation",
+      "programming"
+    ],
+    "$description": "English Singular to Plural is a tool used to convert English singular nouns to their plural form. It can automatically detect the inputted singular noun and convert it to its plural form.\n\nFunctionality:\n\n1. Input the English singular noun into the tool.\n\n2. The tool will automatically detect the inputted singular noun and convert it to its plural form.\n\n3. The converted plural form will be displayed in the tool's output area.\n\nUse cases:\n\n1. Writing: During the writing process, it is often necessary to convert English singular nouns to their plural form. Using English Singular to Plural can quickly and accurately complete this task.\n\n2. Translation: When translating English text, it is necessary to convert English singular nouns to their plural form. Using this tool can improve translation efficiency and accuracy.\n\n3. Programming: During the programming process, there may be a need to convert English singular nouns to their plural form. Using this tool can reduce the manual conversion workload and improve programming efficiency.\n\nNotes:\n\n1. This tool is only applicable for converting English singular nouns to their plural form and is not suitable for other languages.\n\n2. This tool can only convert common English singular forms, and irregular singular forms may not be correctly converted.\n\n3. This tool is for reference only, and the conversion results may contain errors. It is recommended to carefully check the conversion results."
   }
 }

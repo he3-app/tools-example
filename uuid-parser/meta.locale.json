@@ -1,112 +1,187 @@
 {
   "zh-cn": {
     "$name": "UUID解析器",
-    "$description": "UUID解析器是一款允许用户解析和检查UUID和ID的工具，提供了详细的组件分解，构成唯一标识符。它是开发人员和系统管理员在应用程序或系统中需要使用UUID和ID的有用工具。",
     "$keywords": [
       "UUID",
       "ID",
       "解析",
-      "检查"
-    ]
+      "检查",
+      "UUID解析",
+      "UUID字符串",
+      "UUID格式",
+      "版本号",
+      "变体",
+      "数据分析",
+      "代码审查"
+    ],
+    "$description": "UUID解析器是一种用于解析UUID字符串的工具。它可以将UUID字符串解析为标准格式、版本号、变体和其他信息，并在工具的输出区域中显示。\n\n特点：\n\n1. 将UUID字符串粘贴或输入到工具中。\n\n2. 工具将自动解析UUID字符串并显示解析结果。\n\n3. 解析结果包括标准格式、版本号、变体和其他信息。\n\n用途：\n\n1. 开发和测试：在开发或测试过程中，开发人员经常需要查看UUID字符串的解析结果。使用UUID解析器工具可以快速解析UUID字符串并查看解析结果。\n\n2. 数据分析：数据分析师需要处理和分析各种UUID字符串。使用此工具，他们可以轻松地将UUID字符串解析为标准格式、版本号、变体和其他信息，从而更好地了解数据结构和内容。\n\n3. 代码审查：在代码审查过程中，审查人员可以使用UUID解析器工具解析UUID字符串，从而更容易地查看和理解数据结构。"
   },
   "zh-tw": {
     "$name": "UUID 解析器",
-    "$description": "UUID 解析器是一個工具，允許用戶解析和檢查 UUID 和 ID，提供構成唯一標識符的組件的詳細分解。它是開發人員和系統管理員在其應用程序或系統中需要使用 UUID 和 ID 的有用工具。",
     "$keywords": [
       "UUID",
       "ID",
       "解析",
-      "檢查"
-    ]
+      "檢視",
+      "UUID 解析",
+      "UUID 字串",
+      "UUID 格式",
+      "版本號碼",
+      "變體",
+      "資料分析",
+      "程式碼檢閱"
+    ],
+    "$description": "UUID解析器是一個用於解析UUID字符串的工具。它可以將UUID字符串解析為標準格式、版本號、變體和其他信息，這些信息會顯示在工具的輸出區域中。\n\n功能：\n\n1. 將UUID字符串粘貼或輸入到工具中。\n\n2. 工具將自動解析UUID字符串並顯示解析結果。\n\n3. 解析結果包括標準格式、版本號、變體和其他信息。\n\n用途：\n\n1. 開發和測試：在開發或測試過程中，開發人員經常需要查看UUID字符串的解析結果。使用UUID解析器工具可以快速解析UUID字符串並查看解析結果。\n\n2. 數據分析：數據分析師需要處理和分析各種UUID字符串。使用這個工具，他們可以輕鬆地將UUID字符串解析為標準格式、版本號、變體和其他信息，這有助於他們更好地理解數據結構和內容。\n\n3. 代碼審查：在代碼審查過程中，審查人員可以使用UUID解析器工具解析UUID字符串，這使得查看和理解數據結構更加容易。"
   },
   "es": {
     "$name": "Analizador de UUID",
-    "$description": "El Analizador de UUID es una herramienta que permite a los usuarios analizar e inspeccionar UUID e IDs, proporcionando un desglose detallado de los componentes que conforman el identificador único. Es una herramienta útil para desarrolladores y administradores de sistemas que necesitan trabajar con UUID e IDs en sus aplicaciones o sistemas.",
-    "$keywords": [
-      "UUID",
-      "ID",
-      "analizar",
-      "inspeccionar"
-    ]
-  },
-  "ja": {
-    "$name": "UUIDパーサー",
-    "$description": "UUIDパーサーは、ユーザーがUUIDとIDを解析して検査し、ユニークな識別子を構成するコンポーネントの詳細な分解を提供するツールです。開発者やシステム管理者が、アプリケーションやシステムでUUIDとIDを扱う必要がある場合に役立つツールです。",
-    "$keywords": [
-      "UUID",
-      "ID",
-      "解析",
-      "検査"
-    ]
-  },
-  "ko": {
-    "$name": "UUID 파서",
-    "$description": "UUID 파서는 사용자가 UUID 및 ID를 구문 분석하고 검사하여 고유 식별자를 구성하는 구성 요소를 자세히 분해할 수있는 도구입니다. 응용 프로그램 또는 시스템에서 UUID 및 ID를 사용해야하는 개발자 및 시스템 관리자에게 유용한 도구입니다.",
-    "$keywords": [
-      "UUID",
-      "ID",
-      "구문 분석",
-      "검사"
-    ]
-  },
-  "de": {
-    "$name": "UUID-Parser",
-    "$description": "UUID-Parser ist ein Tool, das es Benutzern ermöglicht, UUIDs und IDs zu analysieren und zu inspizieren, indem es eine detaillierte Aufschlüsselung der Komponenten bereitstellt, die den eindeutigen Identifikator ausmachen. Es ist ein nützliches Werkzeug für Entwickler und Systemadministratoren, die mit UUIDs und IDs in ihren Anwendungen oder Systemen arbeiten müssen.",
-    "$keywords": [
-      "UUID",
-      "ID",
-      "analysieren",
-      "inspizieren"
-    ]
-  },
-  "fr": {
-    "$name": "Analyseur UUID",
-    "$description": "L'analyseur UUID est un outil qui permet aux utilisateurs d'analyser et d'inspecter des UUID et des ID, en fournissant une ventilation détaillée des composants qui constituent l'identificateur unique. C'est un outil utile pour les développeurs et les administrateurs système qui ont besoin de travailler avec des UUID et des ID dans leurs applications ou systèmes.",
-    "$keywords": [
-      "UUID",
-      "ID",
-      "analyse",
-      "inspection"
-    ]
-  },
-  "it": {
-    "$name": "Analizzatore UUID",
-    "$description": "L'Analizzatore UUID è uno strumento che consente agli utenti di analizzare e ispezionare UUID e ID, fornendo una dettagliata scomposizione dei componenti che compongono l'identificatore univoco. È uno strumento utile per sviluppatori e amministratori di sistema che devono lavorare con UUID e ID nelle loro applicazioni o sistemi.",
-    "$keywords": [
-      "UUID",
-      "ID",
-      "analisi",
-      "ispezione"
-    ]
-  },
-  "ru": {
-    "$name": "Парсер UUID",
-    "$description": "Парсер UUID - это инструмент, который позволяет пользователям разбирать и проверять UUID и ID, предоставляя подробный разбор компонентов, составляющих уникальный идентификатор. Это полезный инструмент для разработчиков и системных администраторов, которые работают с UUID и ID в своих приложениях или системах.",
-    "$keywords": [
-      "UUID",
-      "ID",
-      "парсинг",
-      "проверка"
-    ]
-  },
-  "pt": {
-    "$name": "Analisador de UUID",
-    "$description": "O Analisador de UUID é uma ferramenta que permite aos usuários analisar e inspecionar UUIDs e IDs, fornecendo uma análise detalhada dos componentes que compõem o identificador exclusivo. É uma ferramenta útil para desenvolvedores e administradores de sistemas que precisam trabalhar com UUIDs e IDs em suas aplicações ou sistemas.",
-    "$keywords": [
-      "UUID",
-      "ID",
-      "analisar",
-      "inspecionar"
-    ]
-  },
-  "en": {
-    "$name": "UUID Parser",
-    "$description": "UUID Parser is a tool that allows users to parse and inspect UUIDs and IDs, providing a detailed breakdown of the components that make up the unique identifier. It is a useful tool for developers and system administrators who need to work with UUIDs and IDs in their applications or systems.",
     "$keywords": [
       "UUID",
       "ID",
       "parse",
-      "inspect"
-    ]
+      "inspeccionar",
+      "análisis de datos",
+      "revisión de código",
+      "cadena UUID",
+      "formato UUID",
+      "número de versión",
+      "variante",
+      "análisis de datos"
+    ],
+    "$description": "El Analizador de UUID es una herramienta utilizada para analizar cadenas de UUID. Puede analizar cadenas de UUID en formato estándar, número de versión, variante y otra información, que se muestra en el área de salida de la herramienta.\n\nCaracterísticas:\n\n1. Pegue o ingrese la cadena de UUID en la herramienta.\n\n2. La herramienta analizará automáticamente la cadena de UUID y mostrará el resultado del análisis.\n\n3. El resultado del análisis incluye formato estándar, número de versión, variante y otra información.\n\nCasos de uso:\n\n1. Desarrollo y pruebas: Durante el proceso de desarrollo o pruebas, los desarrolladores a menudo necesitan ver el resultado del análisis de cadenas de UUID. Usando la herramienta Analizador de UUID, pueden analizar rápidamente las cadenas de UUID y ver el resultado del análisis.\n\n2. Análisis de datos: Los analistas de datos necesitan procesar y analizar varias cadenas de UUID. Usando esta herramienta, pueden analizar fácilmente las cadenas de UUID en formato estándar, número de versión, variante y otra información, lo que les ayuda a comprender mejor la estructura y el contenido de los datos.\n\n3. Revisión de código: Durante el proceso de revisión de código, los revisores pueden usar la herramienta Analizador de UUID para analizar cadenas de UUID, lo que facilita la visualización y comprensión de la estructura de los datos."
+  },
+  "ja": {
+    "$name": "UUIDパーサー",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "解析",
+      "検査",
+      "UUID解析",
+      "UUID文字列",
+      "UUIDフォーマット",
+      "バージョン番号",
+      "バリアント",
+      "データ分析",
+      "コードレビュー"
+    ],
+    "$description": "UUIDパーサーは、UUID文字列を解析するために使用されるツールです。このツールは、UUID文字列を標準形式、バージョン番号、バリアント、その他の情報に解析し、ツールの出力エリアに表示します。\n\n機能：\n\n1. UUID文字列をツールに貼り付けるか、入力します。\n\n2. ツールは自動的にUUID文字列を解析し、解析結果を表示します。\n\n3. 解析結果には、標準形式、バージョン番号、バリアント、その他の情報が含まれます。\n\n使用例：\n\n1. 開発とテスト：開発またはテストプロセス中に、開発者はしばしばUUID文字列の解析結果を表示する必要があります。UUIDパーサーツールを使用すると、UUID文字列を迅速に解析し、解析結果を表示することができます。\n\n2. データ分析：データアナリストは、さまざまなUUID文字列を処理および分析する必要があります。このツールを使用すると、UUID文字列を標準形式、バージョン番号、バリアント、その他の情報に簡単に解析できるため、データ構造と内容をよりよく理解することができます。\n\n3. コードレビュー：コードレビュープロセス中に、レビュアーはUUIDパーサーツールを使用してUUID文字列を解析し、データ構造を表示および理解しやすくすることができます。"
+  },
+  "ko": {
+    "$name": "UUID 파서",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "파싱",
+      "검사",
+      "UUID 파싱",
+      "UUID 문자열",
+      "UUID 형식",
+      "버전 번호",
+      "변형",
+      "데이터 분석",
+      "코드 검토"
+    ],
+    "$description": "UUID 파서는 UUID 문자열을 파싱하는 데 사용되는 도구입니다. 이 도구는 UUID 문자열을 표준 형식, 버전 번호, 변형 및 기타 정보로 파싱할 수 있으며, 이는 도구의 출력 영역에 표시됩니다.\n\n기능:\n\n1. UUID 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 UUID 문자열을 파싱하고 파싱 결과를 표시합니다.\n\n3. 파싱 결과에는 표준 형식, 버전 번호, 변형 및 기타 정보가 포함됩니다.\n\n사용 사례:\n\n1. 개발 및 테스트: 개발 또는 테스트 과정에서 개발자는 종종 UUID 문자열의 파싱 결과를 보기 위해 필요합니다. UUID 파서 도구를 사용하면 빠르게 UUID 문자열을 파싱하고 파싱 결과를 볼 수 있습니다.\n\n2. 데이터 분석: 데이터 분석가는 다양한 UUID 문자열을 처리하고 분석해야 합니다. 이 도구를 사용하면 UUID 문자열을 표준 형식, 버전 번호, 변형 및 기타 정보로 쉽게 파싱할 수 있으며, 이는 데이터 구조와 내용을 더 잘 이해하는 데 도움이 됩니다.\n\n3. 코드 검토: 코드 검토 과정에서 리뷰어는 UUID 파서 도구를 사용하여 UUID 문자열을 파싱하여 데이터 구조를 더 쉽게 볼 수 있습니다."
+  },
+  "de": {
+    "$name": "UUID-Parser",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "parsen",
+      "inspizieren",
+      "UUID-Parsing",
+      "UUID-Zeichenfolge",
+      "UUID-Format",
+      "Versionsnummer",
+      "Variante",
+      "Datenanalyse",
+      "Code-Überprüfung"
+    ],
+    "$description": "UUID Parser ist ein Tool, das verwendet wird, um UUID-Zeichenfolgen zu analysieren. Es kann UUID-Zeichenfolgen in das Standardformat, die Versionsnummer, die Variante und andere Informationen analysieren, die im Ausgabe-Bereich des Tools angezeigt werden.\n\nFunktionen:\n\n1. Fügen Sie die UUID-Zeichenfolge in das Tool ein oder geben Sie sie ein.\n\n2. Das Tool analysiert automatisch die UUID-Zeichenfolge und zeigt das Analyseergebnis an.\n\n3. Das Analyseergebnis enthält das Standardformat, die Versionsnummer, die Variante und andere Informationen.\n\nAnwendungsfälle:\n\n1. Entwicklung und Test: Während des Entwicklungs- oder Testprozesses müssen Entwickler oft das Analyseergebnis von UUID-Zeichenfolgen anzeigen. Mit dem UUID Parser-Tool können UUID-Zeichenfolgen schnell analysiert und das Analyseergebnis angezeigt werden.\n\n2. Datenanalyse: Datenanalysten müssen verschiedene UUID-Zeichenfolgen verarbeiten und analysieren. Mit diesem Tool können sie UUID-Zeichenfolgen leicht in das Standardformat, die Versionsnummer, die Variante und andere Informationen analysieren, was ihnen hilft, die Datenstruktur und den Inhalt besser zu verstehen.\n\n3. Code-Überprüfung: Während des Code-Überprüfungsprozesses können Überprüfer das UUID Parser-Tool verwenden, um UUID-Zeichenfolgen zu analysieren, was es einfacher macht, die Datenstruktur zu sehen und zu verstehen."
+  },
+  "fr": {
+    "$name": "Analyseur UUID",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "analyse de données",
+      "examen de code",
+      "format UUID",
+      "inspection",
+      "numéro de version",
+      "analyse UUID",
+      "analyse de chaîne UUID",
+      "variant"
+    ],
+    "$description": "Le parseur UUID est un outil utilisé pour analyser les chaînes UUID. Il peut analyser les chaînes UUID en format standard, numéro de version, variante et autres informations, qui sont affichées dans la zone de sortie de l'outil.\n\nFonctionnalités :\n\n1. Collez ou entrez la chaîne UUID dans l'outil.\n\n2. L'outil analysera automatiquement la chaîne UUID et affichera le résultat de l'analyse.\n\n3. Le résultat de l'analyse comprend le format standard, le numéro de version, la variante et d'autres informations.\n\nCas d'utilisation :\n\n1. Développement et test : Pendant le processus de développement ou de test, les développeurs ont souvent besoin de visualiser le résultat de l'analyse des chaînes UUID. En utilisant l'outil de parseur UUID, ils peuvent rapidement analyser les chaînes UUID et visualiser le résultat de l'analyse.\n\n2. Analyse de données : Les analystes de données doivent traiter et analyser diverses chaînes UUID. En utilisant cet outil, ils peuvent facilement analyser les chaînes UUID en format standard, numéro de version, variante et autres informations, ce qui les aide à mieux comprendre la structure et le contenu des données.\n\n3. Révision de code : Pendant le processus de révision de code, les examinateurs peuvent utiliser l'outil de parseur UUID pour analyser les chaînes UUID, ce qui facilite la visualisation et la compréhension de la structure des données."
+  },
+  "it": {
+    "$name": "Analizzatore UUID",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "analisi dati",
+      "revisione del codice",
+      "ispezione",
+      "analisi UUID",
+      "stringa UUID",
+      "formato UUID",
+      "numero di versione",
+      "variante",
+      "analisi dei dati"
+    ],
+    "$description": "Il parser UUID è uno strumento utilizzato per analizzare le stringhe UUID. Può analizzare le stringhe UUID nel formato standard, il numero di versione, la variante e altre informazioni, che vengono visualizzate nell'area di output dello strumento.\n\nCaratteristiche:\n\n1. Incolla o inserisci la stringa UUID nello strumento.\n\n2. Lo strumento analizzerà automaticamente la stringa UUID e visualizzerà il risultato dell'analisi.\n\n3. Il risultato dell'analisi include il formato standard, il numero di versione, la variante e altre informazioni.\n\nCasi d'uso:\n\n1. Sviluppo e testing: Durante il processo di sviluppo o di testing, gli sviluppatori spesso hanno bisogno di visualizzare il risultato dell'analisi delle stringhe UUID. Utilizzando lo strumento UUID Parser, è possibile analizzare rapidamente le stringhe UUID e visualizzare il risultato dell'analisi.\n\n2. Analisi dei dati: Gli analisti dei dati devono elaborare e analizzare diverse stringhe UUID. Utilizzando questo strumento, possono facilmente analizzare le stringhe UUID nel formato standard, il numero di versione, la variante e altre informazioni, che li aiutano a comprendere meglio la struttura e il contenuto dei dati.\n\n3. Revisione del codice: Durante il processo di revisione del codice, i revisori possono utilizzare lo strumento UUID Parser per analizzare le stringhe UUID, rendendo più facile visualizzare e comprendere la struttura dei dati."
+  },
+  "ru": {
+    "$name": "Парсер UUID",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "parse",
+      "inspect",
+      "разбор UUID",
+      "строка UUID",
+      "формат UUID",
+      "номер версии",
+      "вариант",
+      "анализ данных",
+      "обзор кода"
+    ],
+    "$description": "UUID Parser - это инструмент, используемый для разбора строк UUID. Он может разбирать строки UUID в стандартный формат, номер версии, вариант и другую информацию, которая отображается в области вывода инструмента.\n\nОсобенности:\n\n1. Вставьте или введите строку UUID в инструмент.\n\n2. Инструмент автоматически разберет строку UUID и отобразит результат разбора.\n\n3. Результат разбора включает стандартный формат, номер версии, вариант и другую информацию.\n\nПрименение:\n\n1. Разработка и тестирование: Во время процесса разработки или тестирования разработчики часто нуждаются в просмотре результата разбора строк UUID. Использование инструмента UUID Parser позволяет быстро разбирать строки UUID и просматривать результат разбора.\n\n2. Анализ данных: Аналитики данных должны обрабатывать и анализировать различные строки UUID. Используя этот инструмент, они могут легко разбирать строки UUID в стандартный формат, номер версии, вариант и другую информацию, что помогает им лучше понимать структуру и содержание данных.\n\n3. Обзор кода: Во время процесса обзора кода рецензенты могут использовать инструмент UUID Parser для разбора строк UUID, что упрощает просмотр и понимание структуры данных."
+  },
+  "pt": {
+    "$name": "Analisador de UUID",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "análise de dados",
+      "análise de código",
+      "inspecionar",
+      "parsing de UUID",
+      "string de UUID",
+      "formato de UUID",
+      "número de versão",
+      "variante"
+    ],
+    "$description": "O UUID Parser é uma ferramenta usada para analisar strings UUID. Ele pode analisar strings UUID em formato padrão, número de versão, variante e outras informações, que são exibidas na área de saída da ferramenta.\n\nRecursos:\n\n1. Cole ou insira a string UUID na ferramenta.\n\n2. A ferramenta analisará automaticamente a string UUID e exibirá o resultado da análise.\n\n3. O resultado da análise inclui formato padrão, número de versão, variante e outras informações.\n\nCasos de uso:\n\n1. Desenvolvimento e teste: Durante o processo de desenvolvimento ou teste, os desenvolvedores frequentemente precisam visualizar o resultado da análise de strings UUID. Usando a ferramenta UUID Parser, eles podem analisar rapidamente as strings UUID e visualizar o resultado da análise.\n\n2. Análise de dados: Analistas de dados precisam processar e analisar várias strings UUID. Usando esta ferramenta, eles podem facilmente analisar strings UUID em formato padrão, número de versão, variante e outras informações, o que os ajuda a entender melhor a estrutura e o conteúdo dos dados.\n\n3. Revisão de código: Durante o processo de revisão de código, os revisores podem usar a ferramenta UUID Parser para analisar strings UUID, tornando mais fácil visualizar e entender a estrutura dos dados."
+  },
+  "en": {
+    "$name": "UUID Parser",
+    "$keywords": [
+      "UUID",
+      "ID",
+      "parse",
+      "inspect",
+      "UUID parsing",
+      "UUID string",
+      "UUID format",
+      "version number",
+      "variant",
+      "data analysis",
+      "code review"
+    ],
+    "$description": "UUID Parser is a tool used to parse UUID strings. It can parse UUID strings into standard format, version number, variant, and other information, which is displayed in the output area of the tool.\n\nFeatures:\n\n1. Paste or input the UUID string into the tool.\n\n2. The tool will automatically parse the UUID string and display the parsing result.\n\n3. The parsing result includes standard format, version number, variant, and other information.\n\nUse cases:\n\n1. Development and testing: During the development or testing process, developers often need to view the parsing result of UUID strings. Using the UUID Parser tool can quickly parse UUID strings and view the parsing result.\n\n2. Data analysis: Data analysts need to process and analyze various UUID strings. Using this tool, they can easily parse UUID strings into standard format, version number, variant, and other information, which helps them better understand the data structure and content.\n\n3. Code review: During the code review process, reviewers can use the UUID Parser tool to parse UUID strings, making it easier to view and understand the data structure."
   }
 }
