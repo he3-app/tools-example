@@ -10,7 +10,7 @@
     "id": "url-parse",
     "name": "URL Parser",
     "icon": "thunderbolt-outlined",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "isPublic": true,
     "repository": "",
     "category": [
