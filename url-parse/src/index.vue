@@ -52,18 +52,20 @@ function parseUrl() {
 
 onMounted(async () => {
   parseUrl();
-  const previewerValue = await $he3.getPreviewerValue();
-  if (isUrl(previewerValue)) {
-    inputValue.value = previewerValue;
-    parseUrl();
-  } else {
-    const clipboardValue = await $he3.getLastClipboard();
-    if (isUrl(clipboardValue)) {
-      inputValue.value = clipboardValue;
+  const processValue = async (value) => {
+    if (isUrl(value)) {
+      inputValue.value = value;
       parseUrl();
-      $he3.onUseClipboardValue();
     }
-  }
+  };
+
+  const previewerValue = await $he3.getPreviewerValue();
+  await processValue(previewerValue);
+
+  const clipboardValue = await $he3.getLastClipboard();
+  await processValue(clipboardValue);
+
+ if (isUrl(clipboardValue))  $he3.onUseClipboardValue();
 });
 </script>
 <style scoped lang="less">

@@ -39,7 +39,7 @@ import { onMounted, ref } from "vue";
 import { useI18n } from "vue-i18n";
 import { isUrl } from "./util";
 import messages from "./lang.json";
-const $he3 = window.$he3
+const $he3 = window.$he3;
 const { t } = useI18n({
   locale: window.$he3.lang,
   messages,
@@ -76,18 +76,20 @@ const decode = () => {
 
 onMounted(async () => {
   encode();
-  const previewerValue = await $he3.getPreviewerValue();
-  if (isUrl(previewerValue)) {
-    inputValue.value = previewerValue;
-    encode();
-  } else {
-    const clipboardValue = await $he3.getLastClipboard();
-    if (isUrl(clipboardValue)) {
-      inputValue.value = clipboardValue;
+  const processValue = async (value) => {
+    if (isUrl(value)) {
+      inputValue.value = value;
       encode();
-      $he3.onUseClipboardValue();
     }
-  }
+  };
+  const previewerValue = await $he3.getPreviewerValue();
+  await processValue(previewerValue);
+
+  const clipboardValue = await $he3.getLastClipboard();
+  await processValue(clipboardValue);
+
+  if (isUrl(clipboardValue))  $he3.onUseClipboardValue();
+  
 });
 </script>
 <style scoped lang="less">

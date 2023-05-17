@@ -10,7 +10,7 @@
     "id": "port-cheat-sheet",
     "name": "Port Cheatsheet",
     "icon": "wifi-outlined",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/port-cheat-sheet",
     "category": [
