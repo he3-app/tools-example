@@ -44,7 +44,7 @@ const { t } = useI18n({
 const $he3 = window.$he3
 const inputValue = ref('https://he3.app?name=He3%20Application&platform=%22apple,windows%22');
 const outputValue = ref('');
-const option = ref('uri');
+const option = ref('uriComponent');
 
 const decode = () => {
   try {
