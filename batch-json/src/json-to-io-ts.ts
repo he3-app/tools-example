@@ -15,5 +15,5 @@ export default register({
       lang: 'io-ts',
     });
   },
-  lang: 'JSON',
+  lang: 'JAVASCRIPT',
 });

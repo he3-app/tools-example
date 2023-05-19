@@ -416,7 +416,7 @@
     },
     {
       "id": "json-to-pike-class",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -622,7 +622,7 @@
     },
     {
       "id": "json-to-io-ts",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
@@ -722,7 +722,7 @@
     },
     {
       "id": "json-to-csv",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
