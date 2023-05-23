@@ -62,6 +62,7 @@
     "@uiw/codemirror-theme-sublime": "^4.19.9",
     "@uiw/codemirror-theme-xcode": "^4.19.9",
     "html-to-image": "^1.11.11",
+    "html2canvas": "^1.4.1",
     "vue": "^3.2.45",
     "vue-i18n": "^9.2.2"
   },

@@ -2,7 +2,7 @@
   <h-single-layout mode="middle" :width="1280" class="layout">
     <div class="code-to-image-wrap">
       <div class="frame-wrap">
-        <div ref="pictureRef" class="frame-container">
+        <div id="code" class="frame-container">
           <div class="frame">
             <div class="frame-head">
               <div class="controls">
@@ -10,20 +10,14 @@
                 <div class="btn minimize" />
                 <div class="btn maximize" />
               </div>
-              <h-input
-                v-model:value="title"
-                class="title"
-                size="small"
-                :bordered="false"
-                style="color: #ccc"
-              />
+              <h-input v-model:value="title" class="title" size="small" :bordered="false" style="color: #ccc" />
             </div>
             <h-code-editor v-model="originalCode" :lang="lang" theme="ONE_DARK" />
           </div>
         </div>
       </div>
     </div>
-   
+
     <div class="settings-content">
       <a-space>
         <span style="white-space: nowrap">
@@ -34,8 +28,10 @@
         <div style="min-width: 70px">
           {{ t('fileName') }}
         </div>
-        <h-input v-model:value="picName" :placeholder="``" :save-options="{autoSave: true, key: 'picName'}"  style="min-width: 100px" />
-        <h-select v-model:value="chosenPicType" :save-options="{autoSave: true, key: 'chosenPicType'}"  style="width: 90px">
+        <h-input v-model:value="picName" :placeholder="``" :save-options="{ autoSave: true, key: 'picName' }"
+          style="min-width: 100px" />
+        <h-select v-model:value="chosenPicType" :save-options="{ autoSave: true, key: 'chosenPicType' }"
+          style="width: 90px">
           <a-select-option v-for="(v, k, i) in PicType" :key="i" :value="v">
             {{ k }}
           </a-select-option>
@@ -57,6 +53,7 @@ import LangSelect from './components/LangSelect.vue';
 import { CodeEditorLanguagesDisplayName } from './components/constants';
 import messages from './lang.json';
 import type { CodeEditorLanguagesUnion } from './components/constants';
+import html2canvas from 'html2canvas';
 
 const $he3 = window.$he3;
 const { t } = useI18n({
@@ -64,7 +61,6 @@ const { t } = useI18n({
   messages,
 });
 
-const pictureRef = ref<HTMLDivElement | null>(null);
 const textareaRef = ref<HTMLTextAreaElement | null>(null);
 const originalCode = ref(InitialCode);
 const picName = ref('');
@@ -134,22 +130,17 @@ const download = () => {
     [PicType.WEBP]: toJpeg,
     [PicType.SVG]: toSvg,
   };
-
-  htmlToImage[chosenPicType.value](pictureRef.value as HTMLDivElement, {
-    style: {
-      transform: 'scale(1)',
-    },
-  })
-    .then((dataUrl) => {
-      const link = document.createElement('a');
-      link.download = `${picName.value || 'code'}.${chosenPicType.value}`;
-      link.href = dataUrl;
-      link.click();
-    })
-    .catch((err) => {
-      window.$he3.message.error('oops, something went wrong!');
-      console.error(err);
-    });
+  const codeElement = document.getElementById('code'); // 替换为你的代码元素的 ID 或选择器
+  html2canvas(codeElement).then((canvas) => {
+    const dataUrl = canvas.toDataURL('image/png');
+    const link = document.createElement('a');
+    link.href = dataUrl;
+    link.download = `${picName.value || 'code'}.${chosenPicType.value}`; // 下载的文件名
+    link.click();
+  }).catch((err) => {
+    window.$he3.message.error('oops, something went wrong!');
+    console.error(err);
+  });
 };
 // 自动回填
 onMounted(async () => {
@@ -192,6 +183,7 @@ onMounted(async () => {
 <style scoped lang="less">
 .layout {
   position: relative;
+
   :deep(.one) {
     height: 100%;
   }
@@ -226,13 +218,11 @@ onMounted(async () => {
     padding: 64px;
     // max-width: 96%;
     background: #b83cda;
-    background: linear-gradient(
-      225deg,
-      rgba(184, 60, 218, 1) 0%,
-      rgba(183, 35, 223, 1) 26%,
-      rgba(206, 49, 152, 1) 53%,
-      rgba(255, 0, 168, 1) 91%
-    );
+    background: linear-gradient(225deg,
+        rgba(184, 60, 218, 1) 0%,
+        rgba(183, 35, 223, 1) 26%,
+        rgba(206, 49, 152, 1) 53%,
+        rgba(255, 0, 168, 1) 91%);
   }
 
   .frame {
@@ -240,6 +230,7 @@ onMounted(async () => {
     border-radius: 12px;
     box-shadow: 0px 0px 64px 10px rgba(50, 50, 50, 0.8);
     padding-bottom: 20px;
+
     .frame-head {
       padding: 0.5vh 0.5vw;
       height: 32px;
@@ -252,12 +243,15 @@ onMounted(async () => {
         margin-left: 9px;
         margin-top: 9px;
         width: 80px;
+
         .btn.close {
           background-color: #ec6a5e;
         }
+
         .btn.minimize {
           background-color: #f4bf4f;
         }
+
         .btn.maximize {
           background-color: #60c353;
         }
@@ -269,6 +263,7 @@ onMounted(async () => {
           margin-right: 8px;
         }
       }
+
       .title {
         width: 100%;
         text-align: center;
