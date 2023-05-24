@@ -5,5 +5,8 @@ export default register({
     example: JsonExample,
     inputHandler: function( obj: string) {
       return JSON.stringify(JSON.parse(obj), null, 2).replace(/"/g, '\\"');
+  },
+  resultHandler: function( str: string) {
+    return str.replace(/\\/g, '')
   }
 });

@@ -23,7 +23,7 @@
       "js",
       "javascript"
     ],
-    "relatedToolId": []
+    "relatedToolId": ["regex-reference"]
   },
   "dependencies": {
     "@he3-kit/utils": "latest",
