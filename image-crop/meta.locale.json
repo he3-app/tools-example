@@ -1,0 +1,161 @@
+{
+  "zh-cn": {
+    "$name": "图片裁剪",
+    "$description": "图片裁剪是一款允许用户修剪或剪切图像中不需要的部分，只留下所需部分的工具。它支持多种图像格式，如PNG、JPG、JPEG和WEBP，使其成为编辑图片的多功能工具。",
+    "$keywords": [
+      "裁剪",
+      "图像",
+      "图片",
+      "照片",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "zh-tw": {
+    "$name": "圖片裁剪",
+    "$description": "圖片裁剪是一個工具，允許用戶修剪或切除圖像中不需要的部分，只留下所需的部分。它支持各種圖像格式，如PNG、JPG、JPEG和WEBP，使其成為編輯圖片的多功能工具。",
+    "$keywords": [
+      "裁剪",
+      "圖片",
+      "圖片",
+      "照片",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "es": {
+    "$name": "Recorte de Imágenes",
+    "$description": "Recorte de Imágenes es una herramienta que permite a los usuarios recortar o cortar partes no deseadas de una imagen, dejando solo la porción deseada. Admite varios formatos de imagen como PNG, JPG, JPEG y WEBP, lo que la convierte en una herramienta versátil para editar imágenes.",
+    "$keywords": [
+      "recorte",
+      "imagen",
+      "foto",
+      "imagen",
+      "foto",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "ja": {
+    "$name": "画像トリミング",
+    "$description": "画像トリミングは、ユーザーが不要な部分を切り取ったり切り抜いたりして、必要な部分だけを残すことができるツールです。PNG、JPG、JPEG、WEBPなど、さまざまな画像形式に対応しているため、写真の編集に汎用性の高いツールです。",
+    "$keywords": [
+      "トリミング",
+      "画像",
+      "写真",
+      "写真",
+      "写真",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "ko": {
+    "$name": "이미지 자르기",
+    "$description": "이미지 자르기는 사용자가 이미지에서 원하지 않는 부분을 자르거나 제거하여 원하는 부분만 남길 수 있는 도구입니다. PNG, JPG, JPEG 및 WEBP와 같은 다양한 이미지 형식을 지원하여 사진 편집에 유용한 다재다능한 도구입니다.",
+    "$keywords": [
+      "자르기",
+      "이미지",
+      "사진",
+      "그림",
+      "사진",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "de": {
+    "$name": "Bildbeschnitt",
+    "$description": "Bildbeschnitt ist ein Werkzeug, mit dem Benutzer unerwünschte Teile eines Bildes zuschneiden oder ausschneiden können, um nur den gewünschten Teil zu erhalten. Es unterstützt verschiedene Bildformate wie PNG, JPG, JPEG und WEBP und ist somit ein vielseitiges Werkzeug zur Bearbeitung von Bildern.",
+    "$keywords": [
+      "beschnitt",
+      "bild",
+      "foto",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "fr": {
+    "$name": "Recadrage d'image",
+    "$description": "Le recadrage d'image est un outil qui permet aux utilisateurs de découper ou de supprimer les parties indésirables d'une image, ne laissant que la partie souhaitée. Il prend en charge différents formats d'image tels que PNG, JPG, JPEG et WEBP, ce qui en fait un outil polyvalent pour l'édition de photos.",
+    "$keywords": [
+      "recadrage",
+      "image",
+      "photo",
+      "image",
+      "photo",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "it": {
+    "$name": "Ritaglio immagine",
+    "$description": "Il ritaglio immagine è uno strumento che consente agli utenti di tagliare o eliminare le parti indesiderate di un'immagine, lasciando solo la porzione desiderata. Supporta vari formati di immagine come PNG, JPG, JPEG e WEBP, rendendolo uno strumento versatile per la modifica delle immagini.",
+    "$keywords": [
+      "ritaglio",
+      "immagine",
+      "foto",
+      "immagine",
+      "foto",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "ru": {
+    "$name": "Обрезка изображений",
+    "$description": "Обрезка изображений - это инструмент, который позволяет пользователям обрезать или вырезать нежелательные части изображения, оставляя только желаемую часть. Он поддерживает различные форматы изображений, такие как PNG, JPG, JPEG и WEBP, что делает его универсальным инструментом для редактирования фотографий.",
+    "$keywords": [
+      "обрезка",
+      "изображение",
+      "картинка",
+      "фото",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "pt": {
+    "$name": "Recorte de Imagem",
+    "$description": "O Recorte de Imagem é uma ferramenta que permite aos usuários cortar ou remover partes indesejadas de uma imagem, deixando apenas a porção desejada. Ele suporta vários formatos de imagem, como PNG, JPG, JPEG e WEBP, tornando-o uma ferramenta versátil para edição de fotos.",
+    "$keywords": [
+      "recorte",
+      "imagem",
+      "foto",
+      "figura",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "en": {
+    "$name": "Image Cropping",
+    "$description": "Image Cropping is a tool that allows users to trim or cut out unwanted parts of an image, leaving only the desired portion. It supports various image formats such as PNG, JPG, JPEG, and WEBP, making it a versatile tool for editing pictures.",
+    "$keywords": [
+      "crop",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  }
+}
