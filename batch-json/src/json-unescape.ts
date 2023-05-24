@@ -6,4 +6,7 @@ export default register({
     inputHandler: function( str: string) {
         return str.replace(/\\/g, '')
   },
+  resultHandler: function( str: string ) {
+    return JSON.stringify(JSON.parse(str), null, 2).replace(/"/g, '\\"');
+  }
 });
