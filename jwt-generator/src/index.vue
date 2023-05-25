@@ -72,6 +72,7 @@ const publicSecretKey = ref('');
 const asymSelect = ref();
 const algorithm = ref(Algorithms.HS256);
 const isSym = ref<boolean>(true);
+const jwtResult = ref("");
 
 const symOptions = computed(() => {
   const res = [];
@@ -91,16 +92,35 @@ const asymOptions = computed(() => {
   return res;
 });
 
-const jwtResult = computed(() => {
-  try {
-    const res = $he3.getJwtToken(payload.value, secretKey.value, {
-      algorithm: algorithm.value,
-    });
-    return res;
-  } catch (error) {
-    console.error(error);
-  }
-});
+// const jwtResult = computed(async () => {
+//   try {
+//       const res = await $he3.cloudFun('getJwtToken', {
+//           payload: payload.value,
+//           secretOrPrivateKey: secretKey.value,
+//           options: {
+//             algorithm: algorithm.value,
+//           }
+//       })
+//     // const res = $he3.getJwtToken(payload.value, secretKey.value, {
+//     //   algorithm: algorithm.value,
+//     // });
+//       console.log(res)
+//     return res;
+//   } catch (error) {
+//     console.error(error);
+//   }
+// });
+
+watch([payload, secretKey, algorithm] , async () => {
+    const res = await $he3.cloudFun('getJwtToken', {
+        payload: payload.value,
+        secretOrPrivateKey: secretKey.value,
+        options: {
+            algorithm: algorithm.value,
+        }
+    })
+    jwtResult.value = res;
+})
 
 watch(algorithm, (value) => {
   if (value.includes('HS')) {
