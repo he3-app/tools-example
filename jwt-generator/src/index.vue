@@ -5,7 +5,7 @@
         <div class="left">
           <div class="header">{{ t('InputPayload') }}</div>
           <div class="content">
-            <h-kv-input :model-value="payload" mode="list" @change="handleChange" />
+            <h-kv-input :model-value="payload" mode="json" @change="handleChange" />
           </div>
         </div>
         <div class="right">
@@ -96,7 +96,6 @@ const jwtResult = computed(() => {
     alg: algorithm.value,
     typ: 'JWT'
   }
-  console.log(payload.value, 1111, secretKey.value, 11111)
   try {
     const res = $he3.getJwtToken(payload.value, secretKey.value, {
       header
@@ -108,7 +107,6 @@ const jwtResult = computed(() => {
 });
 //监控哈希算法
 watch(algorithm, (value) => {
-  console.log(secretKey.value, 19190)
   if (value.includes('HS')) {
     isSym.value = true;
     secretKey.value = defaultTokens[value].secret as string;
@@ -129,9 +127,8 @@ function handleChange(obj: Record<string, string>[]) {
     if (cur.key === '') {
       return total;
     }
-
     return Object.assign(total, {
-      [cur.key]: isNaN(parseInt(cur.value)) ? cur.value : Number.parseInt(cur.value),
+      [cur.key]: isNaN(parseInt(cur.value)) ? cur.value : cur.value,
     });
   }, {});
   payload.value = JSON.stringify(mergeResult, null, 4);

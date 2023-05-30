@@ -1,0 +1,1 @@
+ export const url =  "mermaid/dist/mermaid.min.js"

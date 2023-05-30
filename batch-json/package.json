@@ -316,14 +316,13 @@
     },
     {
       "id": "json-to-c0-class",
-      "version": "1.0.6",
+      "version": "1.0.8",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
       "relatedToolId": [
-        "yaml-to-c0-class"
       ],
       "name": "JSON to C# Class",
       "description": "JSON to C# Class is a tool that allows users to easily convert JSON data into C# class objects. This transformation enables developers to work with JSON data in a more structured and organized manner, making it easier to manipulate and utilize in their applications.",

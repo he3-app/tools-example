@@ -76,7 +76,8 @@ const download = ref({
 const script = document.createElement('script');
 script.type = 'text/javascript';
 script.type = 'module';
-script.src = 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js';
+/* script.src = $he3.publicAssetPath + "/test.js/url" */
+script.src = 'https://cdn.jsdelivr.net/npm/mermaid@9.4.3/dist/mermaid.min.js';
 script.onload = function () {
   draw();
 };
