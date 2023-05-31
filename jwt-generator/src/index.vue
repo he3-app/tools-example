@@ -92,26 +92,7 @@ const asymOptions = computed(() => {
   return res;
 });
 
-// const jwtResult = computed(async () => {
-//   try {
-//       const res = await $he3.cloudFun('getJwtToken', {
-//           payload: payload.value,
-//           secretOrPrivateKey: secretKey.value,
-//           options: {
-//             algorithm: algorithm.value,
-//           }
-//       })
-//     // const res = $he3.getJwtToken(payload.value, secretKey.value, {
-//     //   algorithm: algorithm.value,
-//     // });
-//       console.log(res)
-//     return res;
-//   } catch (error) {
-//     console.error(error);
-//   }
-// });
-
-watch([payload, secretKey, algorithm] , async () => {
+watch([payload, secretKey, algorithm] ,  _.debounce(async () => {
     const res = await $he3.cloudFun('getJwtToken', {
         payload: payload.value,
         secretOrPrivateKey: secretKey.value,
@@ -120,7 +101,7 @@ watch([payload, secretKey, algorithm] , async () => {
         }
     })
     jwtResult.value = res;
-})
+}, 500))
 
 watch(algorithm, (value) => {
   if (value.includes('HS')) {

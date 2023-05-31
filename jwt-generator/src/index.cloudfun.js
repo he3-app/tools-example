@@ -1,6 +1,3 @@
-
-
-
 var jwt = require('jsonwebtoken');
 
 function getJwtToken(
