@@ -8,7 +8,7 @@ function getJwtToken(
     }
 
 ) {
-    // console.log(arguments)
+    console.log(arguments)
     if (secretOrPrivateKey.length === 0) return ''
     return jwt.sign(payload, secretOrPrivateKey, options)
 }
