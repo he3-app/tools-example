@@ -1,39 +1,54 @@
 {
   "zh-cn": {
     "$name": "JWT生成器",
-    "$description": "JWT生成器是一个基于Web的工具，允许用户使用各种算法（如HS256、HS384和HS512）轻松生成JSON Web Tokens（JWT）。该工具特别适用于开发人员使用Web应用程序和JavaScript，因为它简化了生成用于身份验证和授权目的的安全令牌的过程。",
     "$keywords": [
       "生成",
       "生成器",
-      "jwt",
-      "json",
-      "hs256",
-      "hs384",
-      "hs512",
-      "web",
+      "JWT",
+      "JSON",
+      "HS256",
+      "HS384",
+      "HS512",
+      "Web",
       "令牌",
-      "javascript"
-    ]
+      "JavaScript",
+      "有效载荷",
+      "密钥",
+      "算法",
+      "对称加密",
+      "非对称加密",
+      "API开发",
+      "安全测试",
+      "学习"
+    ],
+    "$description": "JWT生成器工具是用于生成JSON Web Tokens的工具。它可以帮助用户输入有效载荷和密钥，选择算法，然后生成JWT。\n\n特点：\n\n1. 用户可以输入有效载荷并在预览区域预览其内容。\n\n2. 用户可以选择算法，包括对称加密算法和非对称加密算法。\n\n3. 如果用户选择对称加密算法，则工具会要求用户输入密钥。\n\n4. 如果用户选择非对称加密算法，则工具会要求用户输入私钥和公钥。\n\n5. 用户可以在结果区域查看生成的JWT。\n\n用例：\n\n1. API开发和测试：在开发或测试API时，开发人员经常需要生成JWT。使用JWT生成器工具可以轻松生成JWT以用于API测试。\n\n2. 安全测试：安全测试人员可以使用JWT生成器工具生成JWT以测试系统的安全性。\n\n3. JWT学习：学习JWT的人可以使用JWT生成器工具生成JWT并查看其内容和结构，以更好地理解JWT的工作原理。"
   },
   "zh-tw": {
     "$name": "JWT 產生器",
-    "$description": "JWT 產生器是一個基於網頁的工具，允許使用者使用各種演算法（如 HS256、HS384 和 HS512）輕鬆生成 JSON Web Tokens（JWT）。此工具對於開發 Web 應用程式和 JavaScript 的開發人員特別有用，因為它簡化了生成用於身份驗證和授權目的的安全令牌的過程。",
     "$keywords": [
-      "產生",
+      "生成",
       "產生器",
-      "jwt",
-      "json",
-      "hs256",
-      "hs384",
-      "hs512",
-      "web",
+      "JWT",
+      "JSON",
+      "HS256",
+      "HS384",
+      "HS512",
+      "網頁",
       "令牌",
-      "javascript"
-    ]
+      "JavaScript",
+      "有效載荷",
+      "金鑰",
+      "演算法",
+      "對稱加密",
+      "非對稱加密",
+      "API 開發",
+      "安全測試",
+      "學習"
+    ],
+    "$description": "JWT 產生器工具是用來產生 JSON Web Tokens 的工具。它可以幫助使用者輸入有效載荷和金鑰，選擇演算法，然後產生 JWT。\n\n功能：\n\n1. 使用者可以輸入有效載荷，並在預覽區域預覽其內容。\n\n2. 使用者可以選擇演算法，包括對稱加密演算法和非對稱加密演算法。\n\n3. 如果使用者選擇對稱加密演算法，該工具將要求使用者輸入金鑰。\n\n4. 如果使用者選擇非對稱加密演算法，該工具將要求使用者輸入私鑰和公鑰。\n\n5. 使用者可以在結果區域中查看生成的 JWT。\n\n使用案例：\n\n1. API 開發和測試：在開發或測試 API 時，開發人員經常需要生成 JWT。使用 JWT 產生器工具可以輕鬆生成 JWT 以用於 API 測試。\n\n2. 安全測試：安全測試人員可以使用 JWT 產生器工具生成 JWT 以測試系統的安全性。\n\n3. JWT 學習：學習 JWT 的人可以使用 JWT 產生器工具生成 JWT，查看其內容和結構，以更好地了解 JWT 的工作原理。"
   },
   "es": {
     "$name": "Generador de JWT",
-    "$description": "El Generador de JWT es una herramienta basada en la web que permite a los usuarios generar fácilmente Tokens Web JSON (JWT) utilizando varios algoritmos como HS256, HS384 y HS512. Esta herramienta es particularmente útil para desarrolladores que trabajan con aplicaciones web y JavaScript, ya que simplifica el proceso de generación de tokens seguros para fines de autenticación y autorización.",
     "$keywords": [
       "generar",
       "generador",
@@ -44,12 +59,20 @@
       "hs512",
       "web",
       "token",
-      "javascript"
-    ]
+      "javascript",
+      "Carga",
+      "Clave",
+      "Algoritmo",
+      "Cifrado Simétrico",
+      "Cifrado Asimétrico",
+      "Desarrollo de API",
+      "Pruebas de Seguridad",
+      "Aprendizaje"
+    ],
+    "$description": "El generador de JWT es una herramienta utilizada para generar tokens web JSON. Puede ayudar a los usuarios a ingresar la carga útil y la clave, seleccionar algoritmos y luego generar JWT.\n\nCaracterísticas:\n\n1. Los usuarios pueden ingresar la carga útil y previsualizar su contenido en el área de previsualización.\n\n2. Los usuarios pueden seleccionar algoritmos, incluidos algoritmos de cifrado simétricos y asimétricos.\n\n3. Si el usuario selecciona un algoritmo de cifrado simétrico, la herramienta le pedirá al usuario que ingrese la clave.\n\n4. Si el usuario selecciona un algoritmo de cifrado asimétrico, la herramienta le pedirá al usuario que ingrese la clave privada y la clave pública.\n\n5. Los usuarios pueden ver el JWT generado en el área de resultados.\n\nCasos de uso:\n\n1. Desarrollo y prueba de API: al desarrollar o probar API, los desarrolladores a menudo necesitan generar JWT. Usando la herramienta de generación de JWT, se pueden generar fácilmente JWT para su uso en pruebas de API.\n\n2. Pruebas de seguridad: los probadores de seguridad pueden usar la herramienta de generación de JWT para generar JWT para probar la seguridad del sistema.\n\n3. Aprendizaje de JWT: las personas que aprenden JWT pueden usar la herramienta de generación de JWT para generar JWT y ver su contenido y estructura para comprender mejor cómo funciona JWT."
   },
   "ja": {
     "$name": "JWTジェネレーター",
-    "$description": "JWTジェネレーターは、HS256、HS384、HS512などのさまざまなアルゴリズムを使用してJSON Webトークン（JWT）を簡単に生成できるWebベースのツールです。このツールは、WebアプリケーションやJavaScriptで作業する開発者にとって特に役立ちます。認証や認可の目的で安全なトークンを生成するプロセスを簡素化します。",
     "$keywords": [
       "生成",
       "ジェネレーター",
@@ -58,30 +81,46 @@
       "HS256",
       "HS384",
       "HS512",
-      "Web",
+      "ウェブ",
       "トークン",
-      "JavaScript"
-    ]
+      "JavaScript",
+      "ペイロード",
+      "キー",
+      "アルゴリズム",
+      "対称暗号化",
+      "非対称暗号化",
+      "API開発",
+      "セキュリティテスト",
+      "学習"
+    ],
+    "$description": "JWTジェネレーターツールは、JSON Webトークンを生成するために使用されるツールです。ユーザーはペイロードとキーを入力し、アルゴリズムを選択してJWTを生成することができます。\n\n特徴：\n\n1. ユーザーはペイロードを入力し、プレビューエリアでその内容を確認することができます。\n\n2. ユーザーは、対称暗号アルゴリズムと非対称暗号アルゴリズムを含むアルゴリズムを選択することができます。\n\n3. ユーザーが対称暗号アルゴリズムを選択した場合、ツールはユーザーにキーの入力を求めます。\n\n4. ユーザーが非対称暗号アルゴリズムを選択した場合、ツールはユーザーに秘密鍵と公開鍵の入力を求めます。\n\n5. ユーザーは、生成されたJWTを結果エリアで確認することができます。\n\n使用例：\n\n1. APIの開発とテスト：APIを開発またはテストする際に、開発者はしばしばJWTを生成する必要があります。JWTジェネレーターツールを使用することで、APIテストで使用するために簡単にJWTを生成することができます。\n\n2. セキュリティテスト：セキュリティテスターは、JWTジェネレーターツールを使用してJWTを生成し、システムのセキュリティをテストすることができます。\n\n3. JWTの学習：JWTを学習する人は、JWTジェネレーターツールを使用してJWTを生成し、その内容と構造を確認して、JWTがどのように動作するかをよりよく理解することができます。"
   },
   "ko": {
     "$name": "JWT 생성기",
-    "$description": "JWT 생성기는 HS256, HS384 및 HS512와 같은 다양한 알고리즘을 사용하여 JSON Web Token (JWT)을 쉽게 생성할 수 있는 웹 기반 도구입니다. 이 도구는 웹 애플리케이션 및 JavaScript를 사용하는 개발자에게 특히 유용하며, 인증 및 권한 부여 목적으로 안전한 토큰을 생성하는 프로세스를 간소화합니다.",
     "$keywords": [
       "생성",
       "생성기",
-      "jwt",
-      "json",
-      "hs256",
-      "hs384",
-      "hs512",
+      "JWT",
+      "JSON",
+      "HS256",
+      "HS384",
+      "HS512",
       "웹",
       "토큰",
-      "자바스크립트"
-    ]
+      "자바스크립트",
+      "페이로드",
+      "키",
+      "알고리즘",
+      "대칭 암호화",
+      "비대칭 암호화",
+      "API 개발",
+      "보안 테스트",
+      "학습"
+    ],
+    "$description": "JWT 생성기 도구는 JSON Web Token을 생성하는 데 사용되는 도구입니다. 사용자는 페이로드와 키를 입력하고 알고리즘을 선택한 다음 JWT를 생성할 수 있습니다.\n\n기능:\n\n1. 사용자는 페이로드를 입력하고 미리보기 영역에서 내용을 미리 볼 수 있습니다.\n\n2. 사용자는 대칭 암호화 알고리즘과 비대칭 암호화 알고리즘을 포함한 알고리즘을 선택할 수 있습니다.\n\n3. 사용자가 대칭 암호화 알고리즘을 선택하면 도구는 사용자에게 키를 입력하도록 요청합니다.\n\n4. 사용자가 비대칭 암호화 알고리즘을 선택하면 도구는 사용자에게 개인 키와 공개 키를 입력하도록 요청합니다.\n\n5. 사용자는 결과 영역에서 생성된 JWT를 볼 수 있습니다.\n\n사용 사례:\n\n1. API 개발 및 테스트: API를 개발하거나 테스트할 때 개발자는 종종 JWT를 생성해야 합니다. JWT 생성기 도구를 사용하면 API 테스트에 사용할 JWT를 쉽게 생성할 수 있습니다.\n\n2. 보안 테스트: 보안 테스터는 JWT 생성기 도구를 사용하여 시스템의 보안을 테스트하기 위해 JWT를 생성할 수 있습니다.\n\n3. JWT 학습: JWT를 학습하는 사람들은 JWT 생성기 도구를 사용하여 JWT를 생성하고 내용과 구조를 볼 수 있어 JWT가 어떻게 작동하는지 더 잘 이해할 수 있습니다."
   },
   "de": {
     "$name": "JWT Generator",
-    "$description": "Der JWT Generator ist ein webbasiertes Tool, das Benutzern ermöglicht, JSON Web Tokens (JWT) mithilfe verschiedener Algorithmen wie HS256, HS384 und HS512 einfach zu generieren. Dieses Tool ist besonders nützlich für Entwickler, die mit Webanwendungen und JavaScript arbeiten, da es den Prozess der Generierung sicherer Tokens für Authentifizierungs- und Autorisierungszwecke vereinfacht.",
     "$keywords": [
       "generieren",
       "generator",
@@ -92,12 +131,20 @@
       "hs512",
       "web",
       "token",
-      "javascript"
-    ]
+      "javascript",
+      "Payload",
+      "Schlüssel",
+      "Algorithmus",
+      "Symmetrische Verschlüsselung",
+      "Asymmetrische Verschlüsselung",
+      "API-Entwicklung",
+      "Sicherheitstests",
+      "Lernen"
+    ],
+    "$description": "Der JWT Generator ist ein Werkzeug, das zur Generierung von JSON Web Tokens verwendet wird. Es kann Benutzern helfen, Payload und Schlüssel einzugeben, Algorithmen auszuwählen und dann JWT zu generieren.\n\nFunktionen:\n\n1. Benutzer können Payload eingeben und dessen Inhalt im Vorschaubereich anzeigen.\n\n2. Benutzer können Algorithmen auswählen, einschließlich symmetrischer Verschlüsselungsalgorithmen und asymmetrischer Verschlüsselungsalgorithmen.\n\n3. Wenn der Benutzer einen symmetrischen Verschlüsselungsalgorithmus auswählt, fordert das Tool den Benutzer auf, den Schlüssel einzugeben.\n\n4. Wenn der Benutzer einen asymmetrischen Verschlüsselungsalgorithmus auswählt, fordert das Tool den Benutzer auf, den privaten und öffentlichen Schlüssel einzugeben.\n\n5. Benutzer können das generierte JWT im Ergebnisbereich anzeigen.\n\nAnwendungsfälle:\n\n1. API-Entwicklung und -Test: Bei der Entwicklung oder dem Testen von APIs müssen Entwickler oft JWT generieren. Mit dem JWT Generator-Tool können JWT einfach generiert werden, um sie bei API-Tests zu verwenden.\n\n2. Sicherheitstests: Sicherheitstester können das JWT Generator-Tool verwenden, um JWT zu generieren und die Sicherheit des Systems zu testen.\n\n3. JWT-Lernen: Personen, die JWT lernen, können das JWT Generator-Tool verwenden, um JWT zu generieren und dessen Inhalt und Struktur anzuzeigen, um besser zu verstehen, wie JWT funktioniert."
   },
   "fr": {
     "$name": "Générateur JWT",
-    "$description": "Le Générateur JWT est un outil en ligne qui permet aux utilisateurs de générer facilement des JSON Web Tokens (JWT) en utilisant divers algorithmes tels que HS256, HS384 et HS512. Cet outil est particulièrement utile pour les développeurs travaillant avec des applications web et JavaScript, car il simplifie le processus de génération de jetons sécurisés à des fins d'authentification et d'autorisation.",
     "$keywords": [
       "générer",
       "générateur",
@@ -108,12 +155,20 @@
       "hs512",
       "web",
       "jeton",
-      "javascript"
-    ]
+      "javascript",
+      "Charge utile",
+      "Clé",
+      "Algorithme",
+      "Chiffrement symétrique",
+      "Chiffrement asymétrique",
+      "Développement d'API",
+      "Test de sécurité",
+      "Apprentissage"
+    ],
+    "$description": "Le générateur de JWT est un outil utilisé pour générer des jetons Web JSON. Il peut aider les utilisateurs à saisir la charge utile et la clé, à sélectionner des algorithmes, puis à générer des JWT.\n\nFonctionnalités :\n\n1. Les utilisateurs peuvent saisir la charge utile et prévisualiser son contenu dans la zone de prévisualisation.\n\n2. Les utilisateurs peuvent sélectionner des algorithmes, y compris des algorithmes de chiffrement symétrique et asymétrique.\n\n3. Si l'utilisateur sélectionne un algorithme de chiffrement symétrique, l'outil demandera à l'utilisateur de saisir la clé.\n\n4. Si l'utilisateur sélectionne un algorithme de chiffrement asymétrique, l'outil demandera à l'utilisateur de saisir la clé privée et la clé publique.\n\n5. Les utilisateurs peuvent voir le JWT généré dans la zone de résultat.\n\nCas d'utilisation :\n\n1. Développement et test d'API : Lors du développement ou du test d'API, les développeurs ont souvent besoin de générer des JWT. En utilisant l'outil de génération de JWT, il est facile de générer des JWT pour une utilisation dans les tests d'API.\n\n2. Test de sécurité : Les testeurs de sécurité peuvent utiliser l'outil de génération de JWT pour générer des JWT afin de tester la sécurité du système.\n\n3. Apprentissage de JWT : Les personnes apprenant JWT peuvent utiliser l'outil de génération de JWT pour générer des JWT et voir son contenu et sa structure pour mieux comprendre comment fonctionne JWT."
   },
   "it": {
     "$name": "Generatore JWT",
-    "$description": "Il Generatore JWT è uno strumento basato sul web che consente agli utenti di generare facilmente JSON Web Tokens (JWT) utilizzando vari algoritmi come HS256, HS384 e HS512. Questo strumento è particolarmente utile per gli sviluppatori che lavorano con applicazioni web e JavaScript, poiché semplifica il processo di generazione di token sicuri per scopi di autenticazione e autorizzazione.",
     "$keywords": [
       "generare",
       "generatore",
@@ -124,12 +179,20 @@
       "hs512",
       "web",
       "token",
-      "javascript"
-    ]
+      "javascript",
+      "Payload",
+      "Chiave",
+      "Algoritmo",
+      "Crittografia Simmetrica",
+      "Crittografia Asimmetrica",
+      "Sviluppo API",
+      "Test di Sicurezza",
+      "Apprendimento"
+    ],
+    "$description": "Il generatore di JWT è uno strumento utilizzato per generare JSON Web Tokens. Può aiutare gli utenti ad inserire il payload e la chiave, selezionare gli algoritmi e generare il JWT.\n\nCaratteristiche:\n\n1. Gli utenti possono inserire il payload e visualizzare il contenuto nell'area di anteprima.\n\n2. Gli utenti possono selezionare gli algoritmi, inclusi gli algoritmi di crittografia simmetrica e asimmetrica.\n\n3. Se l'utente seleziona un algoritmo di crittografia simmetrica, lo strumento chiederà all'utente di inserire la chiave.\n\n4. Se l'utente seleziona un algoritmo di crittografia asimmetrica, lo strumento chiederà all'utente di inserire la chiave privata e la chiave pubblica.\n\n5. Gli utenti possono visualizzare il JWT generato nell'area dei risultati.\n\nCasi d'uso:\n\n1. Sviluppo e testing di API: durante lo sviluppo o il testing di API, gli sviluppatori spesso hanno bisogno di generare JWT. Utilizzando il generatore di JWT, è possibile generare facilmente JWT da utilizzare nel testing delle API.\n\n2. Testing di sicurezza: i tester di sicurezza possono utilizzare il generatore di JWT per generare JWT e testare la sicurezza del sistema.\n\n3. Apprendimento di JWT: le persone che apprendono JWT possono utilizzare il generatore di JWT per generare JWT e visualizzare il suo contenuto e la sua struttura per comprendere meglio come funziona JWT."
   },
   "ru": {
     "$name": "Генератор JWT",
-    "$description": "Генератор JWT - это веб-инструмент, который позволяет пользователям легко генерировать токены JSON Web Tokens (JWT) с использованием различных алгоритмов, таких как HS256, HS384 и HS512. Этот инструмент особенно полезен для разработчиков, работающих с веб-приложениями и JavaScript, так как он упрощает процесс генерации безопасных токенов для целей аутентификации и авторизации.",
     "$keywords": [
       "генерировать",
       "генератор",
@@ -140,12 +203,20 @@
       "hs512",
       "веб",
       "токен",
-      "javascript"
-    ]
+      "javascript",
+      "Payload",
+      "Key",
+      "Algorithm",
+      "Симметричное шифрование",
+      "Асимметричное шифрование",
+      "Разработка API",
+      "Тестирование безопасности",
+      "Обучение"
+    ],
+    "$description": "Инструмент генерации JWT - это инструмент, используемый для создания JSON Web Tokens. Он может помочь пользователям вводить полезную нагрузку и ключ, выбирать алгоритмы, а затем генерировать JWT.\n\nОсобенности:\n\n1. Пользователи могут вводить полезную нагрузку и просматривать ее содержимое в области предварительного просмотра.\n\n2. Пользователи могут выбирать алгоритмы, включая симметричные алгоритмы шифрования и асимметричные алгоритмы шифрования.\n\n3. Если пользователь выбирает симметричный алгоритм шифрования, инструмент попросит пользователя ввести ключ.\n\n4. Если пользователь выбирает асимметричный алгоритм шифрования, инструмент попросит пользователя ввести закрытый и открытый ключи.\n\n5. Пользователи могут просматривать сгенерированный JWT в области результата.\n\nВарианты использования:\n\n1. Разработка и тестирование API: При разработке или тестировании API разработчики часто нуждаются в генерации JWT. Использование инструмента генерации JWT может легко создавать JWT для использования в тестировании API.\n\n2. Тестирование безопасности: Тестировщики безопасности могут использовать инструмент генерации JWT для создания JWT для тестирования безопасности системы.\n\n3. Изучение JWT: Люди, изучающие JWT, могут использовать инструмент генерации JWT для создания JWT и просмотра его содержимого и структуры, чтобы лучше понимать, как работает JWT."
   },
   "pt": {
     "$name": "Gerador de JWT",
-    "$description": "O Gerador de JWT é uma ferramenta baseada na web que permite aos usuários gerar facilmente Tokens Web JSON (JWT) usando vários algoritmos, como HS256, HS384 e HS512. Esta ferramenta é particularmente útil para desenvolvedores que trabalham com aplicativos da web e JavaScript, pois simplifica o processo de geração de tokens seguros para fins de autenticação e autorização.",
     "$keywords": [
       "gerar",
       "gerador",
@@ -156,12 +227,20 @@
       "hs512",
       "web",
       "token",
-      "javascript"
-    ]
+      "javascript",
+      "Carga",
+      "Chave",
+      "Algoritmo",
+      "Criptografia Simétrica",
+      "Criptografia Assimétrica",
+      "Desenvolvimento de API",
+      "Teste de Segurança",
+      "Aprendizado"
+    ],
+    "$description": "A ferramenta Gerador de JWT é uma ferramenta usada para gerar Tokens Web JSON. Ela pode ajudar os usuários a inserir o payload e a chave, selecionar algoritmos e, em seguida, gerar o JWT.\n\nRecursos:\n\n1. Os usuários podem inserir o payload e visualizar seu conteúdo na área de visualização.\n\n2. Os usuários podem selecionar algoritmos, incluindo algoritmos de criptografia simétrica e assimétrica.\n\n3. Se o usuário selecionar um algoritmo de criptografia simétrica, a ferramenta solicitará que o usuário insira a chave.\n\n4. Se o usuário selecionar um algoritmo de criptografia assimétrica, a ferramenta solicitará que o usuário insira a chave privada e a chave pública.\n\n5. Os usuários podem visualizar o JWT gerado na área de resultado.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de API: Ao desenvolver ou testar APIs, os desenvolvedores frequentemente precisam gerar JWT. Usando a ferramenta Gerador de JWT, é possível gerar facilmente JWT para uso em testes de API.\n\n2. Teste de segurança: Testadores de segurança podem usar a ferramenta Gerador de JWT para gerar JWT para testar a segurança do sistema.\n\n3. Aprendizado de JWT: Pessoas aprendendo JWT podem usar a ferramenta Gerador de JWT para gerar JWT e visualizar seu conteúdo e estrutura para entender melhor como o JWT funciona."
   },
   "en": {
     "$name": "JWT Generator",
-    "$description": "The JWT Generator is a web-based tool that allows users to easily generate JSON Web Tokens (JWT) using various algorithms such as HS256, HS384, and HS512. This tool is particularly useful for developers working with web applications and JavaScript, as it simplifies the process of generating secure tokens for authentication and authorization purposes.",
     "$keywords": [
       "generate",
       "generator",
@@ -172,7 +251,16 @@
       "hs512",
       "web",
       "token",
-      "javascript"
-    ]
+      "javascript",
+      "Payload",
+      "Key",
+      "Algorithm",
+      "Symmetric Encryption",
+      "Asymmetric Encryption",
+      "API Development",
+      "Security Testing",
+      "Learning"
+    ],
+    "$description": "The JWT Generator tool is a tool used to generate JSON Web Tokens. It can help users input payload and key, select algorithms, and then generate JWT.\n\nFeatures:\n\n1. Users can input payload and preview its content in the preview area.\n\n2. Users can select algorithms, including symmetric encryption algorithms and asymmetric encryption algorithms.\n\n3. If the user selects a symmetric encryption algorithm, the tool will ask the user to input the key.\n\n4. If the user selects an asymmetric encryption algorithm, the tool will ask the user to input the private key and public key.\n\n5. Users can view the generated JWT in the result area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to generate JWT. Using the JWT Generator tool can easily generate JWT for use in API testing.\n\n2. Security testing: Security testers can use the JWT Generator tool to generate JWT to test the security of the system.\n\n3. JWT learning: People learning JWT can use the JWT Generator tool to generate JWT and view its content and structure to better understand how JWT works."
   }
 }

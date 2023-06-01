@@ -10,7 +10,7 @@
     "id": "code-to-image",
     "name": "Code to Image",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/code-to-image",
     "category": [
@@ -18,7 +18,7 @@
       "programming",
       "misc"
     ],
-    "description": "Code to Image is a tool that allows you to transform your code into visually appealing images, making it easier to share and showcase your work. With the ability to export your code as a PNG file, Code to Image is a great way to create professional-looking images of your code for presentations, documentation, or social media.",
+    "description": "Code to Image is a tool that converts code to an image. Users can input their code, select the language and image format, and then convert the code to an image for saving.\n\nFeatures:\n\n1. Users can input their code and select the language type.\n\n2. The tool will automatically detect the input code and perform syntax highlighting.\n\n3. Users can select the image format, including PNG, WEBP, and SVG.\n\n4. Users can name the image and save it to their local device.\n\nUse cases:\n\n1. Code sharing: Users can use Code to Image to convert their code to an image and then share it on social media or their blog to better showcase their code.\n\n2. Document writing: When writing documents, users can use Code to Image to convert their code to an image for better display.\n\n3. Code backup: Users can use Code to Image to convert their code to an image and save it to their local device or cloud storage for backup and sharing.",
     "keywords": [
       "code",
       "image",
@@ -26,7 +26,13 @@
       "picture",
       "photo",
       "code2image",
-      "png"
+      "png",
+      "Code to Image",
+      "Syntax Highlighting",
+      "Image Format",
+      "Code Sharing",
+      "Document Writing",
+      "Code Backup"
     ],
     "relatedToolId": [
       "image-compressor",

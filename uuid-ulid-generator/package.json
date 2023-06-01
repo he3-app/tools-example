@@ -10,20 +10,23 @@
     "id": "uuid-ulid-generator",
     "name": "UUID/ULID/NANOID Generator",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "isPublic": true,
     "repository": "",
     "category": [
       "programming"
     ],
-    "description": "The UUID/ULID/NANOID Generator is a powerful tool that allows users to generate unique identifiers such as UUID, ULID, and NANOID. With this tool, users can easily create IDs that are guaranteed to be unique, making it ideal for various applications that require unique identification.",
+    "description": "UUID/ULID/NANOID Generator Tool Documentation\n\nThe UUID/ULID/NANOID Generator Tool is a tool used to generate UUIDs, ULIDs, and NANOIDs. It can generate different versions of UUIDs based on user needs, as well as a specified number of ULIDs and NANOIDs.\n\nFeatures:\n\n1. Supports generating UUIDs, ULIDs, and NANOIDs.\n\n2. Supports generating different versions of UUIDs, including v1, v3, v4, and v5.\n\n3. Supports specifying the number of ULIDs and NANOIDs to generate.\n\n4. Supports choosing whether to include separators when generating UUIDs.\n\nUse Cases:\n\n1. API Development and Testing: When developing or testing APIs, developers often need to generate UUIDs, ULIDs, or NANOIDs as unique identifiers. Using the UUID/ULID/NANOID Generator Tool can quickly and easily generate these identifiers.\n\n2. Database Design: When designing databases, UUIDs, ULIDs, or NANOIDs are often used as primary or foreign keys. Using the UUID/ULID/NANOID Generator Tool can quickly and easily generate these identifiers.\n\n3. Data Analysis: Data analysts need to process and analyze various data, including UUIDs, ULIDs, and NANOIDs. Using this tool, they can easily generate these identifiers to better understand the data structure and content.\n\n4. Code Development: During code development, random strings or numbers are often needed. Using this tool, these random values can be quickly and easily generated.\n\nInstructions:\n\n1. Select the type to generate, including UUID, ULID, and NANOID.\n\n2. Choose the version of UUID to generate, including v1, v3, v4, and v5, as needed.\n\n3. If generating ULID or NANOID, specify the number to generate.\n\n4. If generating UUID, choose whether to include separators.\n\n5. Click the \"Generate\" button to generate the corresponding identifier or random value.\n\nNotes:\n\n1. When generating UUIDs, if no separators are selected, the generated UUID will be a continuous string that may be difficult to read.\n\n2. When generating a large number of ULIDs or NANOIDs, the page may become slow or crash.\n\n3. When generating random strings or numbers, be sure to specify the length and type to avoid generating values that do not meet the requirements.\n\n4. This tool is only used to generate identifiers and random values and does not involve any sensitive information. Please use it with confidence.",
     "keywords": [
       "UUID",
       "ULID",
       "NANOID",
       "ID",
       "Generate",
-      "unique"
+      "unique",
+      "Unique Identifier",
+      "Generator",
+      "Random Value"
     ],
     "relatedToolId": []
   },

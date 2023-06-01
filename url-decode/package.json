@@ -17,11 +17,14 @@
     "category": [
       "encode"
     ],
-    "description": "URL Decoding is a tool that allows users to convert encoded URLs, URIs, and other web addresses into their original form. This tool is particularly useful for developers and webmasters who need to troubleshoot issues related to URL encoding and decoding.",
+    "description": "Tool Description:\n\nThe URL Decoding tool is a tool used to decode URL-encoded strings. It can decode URI or URI Component encoded strings into their original form.\n\nFeatures:\n\n1. Supports decoding of URI and URI Component encoded strings.\n\n2. Automatically detects the input string type and performs the corresponding decoding operation.\n\n3. Supports outputting the decoded string to the tool's output area.\n\nUse Cases:\n\n1. URL-encoded string decoding: During development or testing, it is often necessary to decode URL-encoded strings into their original form. Using the URL Decoding tool can quickly decode strings, making it easy to view and understand data content.\n\n2. Data processing: During data processing, you may encounter URL-encoded strings. Using this tool, you can easily decode the encoded string into its original form, making it easy for subsequent data processing and analysis.\n\n3. String conversion: During string conversion, you may need to convert URI or URI Component encoded strings into their original form. Using the URL Decoding tool can quickly complete the string conversion operation.\n\nNotes:\n\n1. The input string must be a URI or URI Component encoded string.\n\n2. The tool only supports decoding operations and does not support encoding operations. If encoding is required, please use the URL Encoding tool.\n\n3. The tool may not be able to decode the input string if the string format is incorrect. When using the tool, please ensure that the input string format is correct.",
     "keywords": [
       "URL",
       "URI",
-      "Decode"
+      "Decode",
+      "URL decoding",
+      "URI decoding",
+      "string decoding"
     ],
     "relatedToolId": [
       "url-encode"

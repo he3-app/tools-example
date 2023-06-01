@@ -10,13 +10,13 @@
     "id": "jwt-generator",
     "name": "JWT Generator",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/jwt-generator",
     "category": [
       "programming"
     ],
-    "description": "The JWT Generator is a web-based tool that allows users to easily generate JSON Web Tokens (JWT) using various algorithms such as HS256, HS384, and HS512. This tool is particularly useful for developers working with web applications and JavaScript, as it simplifies the process of generating secure tokens for authentication and authorization purposes.",
+    "description": "The JWT Generator tool is a tool used to generate JSON Web Tokens. It can help users input payload and key, select algorithms, and then generate JWT.\n\nFeatures:\n\n1. Users can input payload and preview its content in the preview area.\n\n2. Users can select algorithms, including symmetric encryption algorithms and asymmetric encryption algorithms.\n\n3. If the user selects a symmetric encryption algorithm, the tool will ask the user to input the key.\n\n4. If the user selects an asymmetric encryption algorithm, the tool will ask the user to input the private key and public key.\n\n5. Users can view the generated JWT in the result area.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to generate JWT. Using the JWT Generator tool can easily generate JWT for use in API testing.\n\n2. Security testing: Security testers can use the JWT Generator tool to generate JWT to test the security of the system.\n\n3. JWT learning: People learning JWT can use the JWT Generator tool to generate JWT and view its content and structure to better understand how JWT works.",
     "keywords": [
       "generate",
       "generator",
@@ -27,7 +27,15 @@
       "hs512",
       "web",
       "token",
-      "javascript"
+      "javascript",
+      "Payload",
+      "Key",
+      "Algorithm",
+      "Symmetric Encryption",
+      "Asymmetric Encryption",
+      "API Development",
+      "Security Testing",
+      "Learning"
     ],
     "relatedToolId": [
       "jwt-parse"

@@ -10,18 +10,23 @@
     "id": "js-regex-tester",
     "name": "Regex Tester",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/regex-tester",
     "category": [
       "programming"
     ],
-    "description": "Regex Tester is a powerful tool that allows users to edit and test regular expressions with support for Javascript. It provides a user-friendly interface for testing and debugging regex patterns, making it an essential tool for developers working with regex and Javascript.",
+    "description": "Regex Tester is a tool used to test regular expressions. It helps users input regular expressions and test strings, and displays matching and replacement results.\n\nFeatures:\n\n1. Users can input regular expressions and test strings.\n\n2. The tool automatically detects the input regular expression and test string, and displays matching and replacement results.\n\n3. The tool supports various regular expression options, such as global matching, case-insensitivity, etc.\n\n4. The tool supports highlighting the matched text in the matching results.\n\n5. The tool supports replacing the matched text in the replacement results.\n\n6. The tool supports saving user input in the regular expression and test string.\n\n7. The tool supports displaying a visual image of the regular expression.\n\nUse cases:\n\n1. Development and testing: During the development or testing process, developers often need to test regular expressions. Using Regex Tester can quickly test regular expressions and view matching and replacement results.\n\n2. Data processing: Data processors need to process and analyze various text data. Using this tool, they can easily test regular expressions and view matching and replacement results.\n\n3. Code review: During the code review process, reviewers can use Regex Tester to test regular expressions, making it easier to view and understand regular expressions in the code.",
     "keywords": [
       "regex",
       "test",
       "js",
-      "javascript"
+      "javascript",
+      "Regular Expression",
+      "Testing Tool",
+      "Match Result",
+      "Replace Result",
+      "Visual Image"
     ],
     "relatedToolId": ["regex-reference"]
   },

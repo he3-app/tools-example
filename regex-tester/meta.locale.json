@@ -1,112 +1,162 @@
 {
   "zh-cn": {
     "$name": "正则表达式测试器",
-    "$description": "正则表达式测试器是一款强大的工具，允许用户使用Javascript支持编辑和测试正则表达式。它提供了一个用户友好的界面来测试和调试正则表达式模式，使其成为使用正则表达式和Javascript的开发人员必备的工具。",
     "$keywords": [
       "正则表达式",
       "测试",
       "js",
-      "javascript"
-    ]
+      "javascript",
+      "测试工具",
+      "匹配结果",
+      "替换结果",
+      "可视化图像"
+    ],
+    "$description": "正则表达式测试器是一种用于测试正则表达式的工具。它帮助用户输入正则表达式和测试字符串，并显示匹配和替换结果。\n\n特点：\n\n1. 用户可以输入正则表达式和测试字符串。\n\n2. 该工具自动检测输入的正则表达式和测试字符串，并显示匹配和替换结果。\n\n3. 该工具支持各种正则表达式选项，如全局匹配、大小写不敏感等。\n\n4. 该工具支持在匹配结果中突出显示匹配的文本。\n\n5. 该工具支持在替换结果中替换匹配的文本。\n\n6. 该工具支持保存用户输入的正则表达式和测试字符串。\n\n7. 该工具支持显示正则表达式的可视化图像。\n\n用例：\n\n1. 开发和测试：在开发或测试过程中，开发人员经常需要测试正则表达式。使用正则表达式测试器可以快速测试正则表达式并查看匹配和替换结果。\n\n2. 数据处理：数据处理器需要处理和分析各种文本数据。使用这个工具，他们可以轻松地测试正则表达式并查看匹配和替换结果。\n\n3. 代码审查：在代码审查过程中，审查人员可以使用正则表达式测试器测试正则表达式，从而更容易地查看和理解代码中的正则表达式。"
   },
   "zh-tw": {
     "$name": "正規表示式測試器",
-    "$description": "正規表示式測試器是一個強大的工具，允許用戶使用Javascript編輯和測試正規表示式。它提供了一個用戶友好的界面，用於測試和調試正規表示式模式，使其成為使用正規表示式和Javascript的開發人員必備的工具。",
     "$keywords": [
-      "正規表示式",
+      "正則表達式",
       "測試",
       "js",
-      "javascript"
-    ]
+      "javascript",
+      "測試工具",
+      "匹配結果",
+      "替換結果",
+      "視覺化圖像"
+    ],
+    "$description": "正則表達式測試器是一個用於測試正則表達式的工具。它可以幫助用戶輸入正則表達式和測試字符串，並顯示匹配和替換結果。\n\n功能：\n\n1. 用戶可以輸入正則表達式和測試字符串。\n\n2. 工具會自動檢測輸入的正則表達式和測試字符串，並顯示匹配和替換結果。\n\n3. 工具支持各種正則表達式選項，例如全局匹配、不區分大小寫等。\n\n4. 工具支持在匹配結果中突出顯示匹配的文本。\n\n5. 工具支持在替換結果中替換匹配的文本。\n\n6. 工具支持保存用戶輸入的正則表達式和測試字符串。\n\n7. 工具支持顯示正則表達式的可視化圖像。\n\n用例：\n\n1. 開發和測試：在開發或測試過程中，開發人員經常需要測試正則表達式。使用正則表達式測試器可以快速測試正則表達式並查看匹配和替換結果。\n\n2. 數據處理：數據處理人員需要處理和分析各種文本數據。使用這個工具，他們可以輕鬆測試正則表達式並查看匹配和替換結果。\n\n3. 代碼審查：在代碼審查過程中，審查人員可以使用正則表達式測試器來測試正則表達式，這樣可以更輕鬆地查看和理解代碼中的正則表達式。"
   },
   "es": {
     "$name": "Probador de expresiones regulares",
-    "$description": "El Probador de expresiones regulares es una herramienta poderosa que permite a los usuarios editar y probar expresiones regulares con soporte para Javascript. Proporciona una interfaz fácil de usar para probar y depurar patrones regex, lo que lo convierte en una herramienta esencial para los desarrolladores que trabajan con regex y Javascript.",
     "$keywords": [
       "regex",
-      "prueba",
+      "test",
       "js",
-      "javascript"
-    ]
+      "javascript",
+      "Expresión Regular",
+      "Herramienta de Pruebas",
+      "Resultado de Coincidencia",
+      "Resultado de Reemplazo",
+      "Imagen Visual"
+    ],
+    "$description": "El Regex Tester es una herramienta utilizada para probar expresiones regulares. Ayuda a los usuarios a ingresar expresiones regulares y probar cadenas de texto, y muestra los resultados de coincidencia y reemplazo.\n\nCaracterísticas:\n\n1. Los usuarios pueden ingresar expresiones regulares y probar cadenas de texto.\n\n2. La herramienta detecta automáticamente la expresión regular de entrada y la cadena de texto de prueba, y muestra los resultados de coincidencia y reemplazo.\n\n3. La herramienta admite varias opciones de expresiones regulares, como coincidencia global, insensibilidad a mayúsculas y minúsculas, etc.\n\n4. La herramienta admite resaltar el texto coincidente en los resultados de coincidencia.\n\n5. La herramienta admite reemplazar el texto coincidente en los resultados de reemplazo.\n\n6. La herramienta admite guardar la entrada del usuario en la expresión regular y la cadena de texto de prueba.\n\n7. La herramienta admite mostrar una imagen visual de la expresión regular.\n\nCasos de uso:\n\n1. Desarrollo y pruebas: Durante el proceso de desarrollo o pruebas, los desarrolladores a menudo necesitan probar expresiones regulares. Usando el Regex Tester, pueden probar rápidamente expresiones regulares y ver los resultados de coincidencia y reemplazo.\n\n2. Procesamiento de datos: Los procesadores de datos necesitan procesar y analizar varios datos de texto. Usando esta herramienta, pueden probar fácilmente expresiones regulares y ver los resultados de coincidencia y reemplazo.\n\n3. Revisión de código: Durante el proceso de revisión de código, los revisores pueden usar el Regex Tester para probar expresiones regulares, lo que facilita ver y comprender las expresiones regulares en el código."
   },
   "ja": {
     "$name": "正規表現テスター",
-    "$description": "正規表現テスターは、Javascriptをサポートする強力なツールで、ユーザーが正規表現を編集してテストできるようにします。正規表現パターンのテストとデバッグのためのユーザーフレンドリーなインターフェースを提供し、正規表現とJavascriptを使用する開発者にとって必須のツールです。",
     "$keywords": [
       "正規表現",
       "テスト",
-      "js",
-      "javascript"
-    ]
+      "JS",
+      "JavaScript",
+      "テストツール",
+      "マッチ結果",
+      "置換結果",
+      "ビジュアルイメージ"
+    ],
+    "$description": "正規表現テスターは、正規表現をテストするために使用されるツールです。ユーザーは正規表現とテスト文字列を入力し、一致する結果と置換結果を表示することができます。\n\n特徴：\n\n1. ユーザーは正規表現とテスト文字列を入力することができます。\n\n2. ツールは自動的に入力された正規表現とテスト文字列を検出し、一致する結果と置換結果を表示します。\n\n3. ツールは、グローバルマッチング、大文字小文字を区別しないなど、さまざまな正規表現オプションをサポートしています。\n\n4. ツールは、一致するテキストを一致する結果でハイライト表示することができます。\n\n5. ツールは、置換結果で一致するテキストを置換することができます。\n\n6. ツールは、正規表現とテスト文字列のユーザー入力を保存することができます。\n\n7. ツールは、正規表現のビジュアルイメージを表示することができます。\n\n使用例：\n\n1. 開発とテスト：開発またはテストのプロセス中に、開発者はしばしば正規表現をテストする必要があります。Regex Testerを使用することで、正規表現を素早くテストし、一致する結果と置換結果を表示することができます。\n\n2. データ処理：データプロセッサーは、さまざまなテキストデータを処理および分析する必要があります。このツールを使用することで、正規表現を簡単にテストし、一致する結果と置換結果を表示することができます。\n\n3. コードレビュー：コードレビューのプロセス中に、レビュアーはRegex Testerを使用して正規表現をテストすることができ、コード内の正規表現を表示および理解することが容易になります。"
   },
   "ko": {
     "$name": "정규식 테스터",
-    "$description": "정규식 테스터는 Javascript를 지원하는 정규식을 편집하고 테스트할 수 있는 강력한 도구입니다. 정규식 패턴을 테스트하고 디버깅하기 위한 사용자 친화적 인터페이스를 제공하여, 정규식과 Javascript를 사용하는 개발자에게 필수적인 도구입니다.",
     "$keywords": [
       "정규식",
       "테스트",
-      "js",
-      "javascript"
-    ]
+      "자바스크립트",
+      "정규 표현식",
+      "테스트 도구",
+      "매치 결과",
+      "리플레이스 결과",
+      "시각적 이미지"
+    ],
+    "$description": "정규식 테스터는 정규식을 테스트하는 데 사용되는 도구입니다. 사용자가 정규식과 테스트 문자열을 입력하고 일치 및 교체 결과를 표시하는 데 도움이 됩니다.\n\n기능:\n\n1. 사용자는 정규식과 테스트 문자열을 입력하고 테스트할 수 있습니다.\n\n2. 도구는 입력된 정규식과 테스트 문자열을 자동으로 감지하고 일치 및 교체 결과를 표시합니다.\n\n3. 도구는 전역 일치, 대소문자 구분 없음 등 다양한 정규식 옵션을 지원합니다.\n\n4. 도구는 일치 결과에서 일치하는 텍스트를 강조 표시할 수 있습니다.\n\n5. 도구는 교체 결과에서 일치하는 텍스트를 교체할 수 있습니다.\n\n6. 도구는 사용자 입력을 정규식과 테스트 문자열에 저장할 수 있습니다.\n\n7. 도구는 정규식의 시각적 이미지를 표시할 수 있습니다.\n\n사용 사례:\n\n1. 개발 및 테스트: 개발 또는 테스트 과정에서 개발자는 종종 정규식을 테스트해야 합니다. 정규식 테스터를 사용하면 빠르게 정규식을 테스트하고 일치 및 교체 결과를 볼 수 있습니다.\n\n2. 데이터 처리: 데이터 처리자는 다양한 텍스트 데이터를 처리하고 분석해야 합니다. 이 도구를 사용하면 쉽게 정규식을 테스트하고 일치 및 교체 결과를 볼 수 있습니다.\n\n3. 코드 검토: 코드 검토 과정에서 리뷰어는 정규식 테스터를 사용하여 정규식을 테스트하고 코드에서 정규식을 보다 쉽게 볼 수 있습니다."
   },
   "de": {
     "$name": "Regex Tester",
-    "$description": "Regex Tester ist ein leistungsstarkes Tool, das Benutzern ermöglicht, reguläre Ausdrücke mit Unterstützung für Javascript zu bearbeiten und zu testen. Es bietet eine benutzerfreundliche Oberfläche zum Testen und Debuggen von Regex-Mustern und ist damit ein unverzichtbares Werkzeug für Entwickler, die mit Regex und Javascript arbeiten.",
     "$keywords": [
-      "regex",
-      "test",
-      "js",
-      "javascript"
-    ]
+      "Regex",
+      "Test",
+      "JS",
+      "JavaScript",
+      "Regulärer Ausdruck",
+      "Testwerkzeug",
+      "Übereinstimmungsergebnis",
+      "Ersetzungsergebnis",
+      "Visuelles Bild"
+    ],
+    "$description": "Regex Tester ist ein Werkzeug, das zur Überprüfung von regulären Ausdrücken verwendet wird. Es hilft Benutzern, reguläre Ausdrücke einzugeben und Zeichenfolgen zu testen und zeigt übereinstimmende und ersetzte Ergebnisse an.\n\nFunktionen:\n\n1. Benutzer können reguläre Ausdrücke und Testzeichenfolgen eingeben.\n\n2. Das Tool erkennt automatisch den eingegebenen regulären Ausdruck und die Testzeichenfolge und zeigt übereinstimmende und ersetzte Ergebnisse an.\n\n3. Das Tool unterstützt verschiedene Optionen für reguläre Ausdrücke wie globale Übereinstimmung, Groß-/Kleinschreibung usw.\n\n4. Das Tool unterstützt das Hervorheben des übereinstimmenden Textes in den übereinstimmenden Ergebnissen.\n\n5. Das Tool unterstützt das Ersetzen des übereinstimmenden Textes in den ersetzten Ergebnissen.\n\n6. Das Tool unterstützt das Speichern der Benutzereingabe im regulären Ausdruck und in der Testzeichenfolge.\n\n7. Das Tool unterstützt die Anzeige eines visuellen Bildes des regulären Ausdrucks.\n\nAnwendungsfälle:\n\n1. Entwicklung und Test: Während des Entwicklungs- oder Testprozesses müssen Entwickler oft reguläre Ausdrücke testen. Mit Regex Tester können reguläre Ausdrücke schnell getestet und übereinstimmende und ersetzte Ergebnisse angezeigt werden.\n\n2. Datenverarbeitung: Datenverarbeiter müssen verschiedene Textdaten verarbeiten und analysieren. Mit diesem Tool können sie reguläre Ausdrücke einfach testen und übereinstimmende und ersetzte Ergebnisse anzeigen.\n\n3. Code-Überprüfung: Während des Code-Überprüfungsprozesses können Überprüfer Regex Tester verwenden, um reguläre Ausdrücke zu testen, was es einfacher macht, reguläre Ausdrücke im Code zu sehen und zu verstehen."
   },
   "fr": {
     "$name": "Testeur Regex",
-    "$description": "Testeur Regex est un outil puissant qui permet aux utilisateurs d'éditer et de tester des expressions régulières avec prise en charge de Javascript. Il fournit une interface conviviale pour tester et déboguer les modèles regex, ce qui en fait un outil essentiel pour les développeurs travaillant avec regex et Javascript.",
     "$keywords": [
       "regex",
       "test",
       "js",
-      "javascript"
-    ]
+      "javascript",
+      "Expression Régulière",
+      "Outil de Test",
+      "Résultat de Correspondance",
+      "Résultat de Remplacement",
+      "Image Visuelle"
+    ],
+    "$description": "Le testeur Regex est un outil utilisé pour tester les expressions régulières. Il aide les utilisateurs à entrer des expressions régulières et à tester des chaînes de caractères, et affiche les résultats de correspondance et de remplacement.\n\nFonctionnalités :\n\n1. Les utilisateurs peuvent entrer des expressions régulières et tester des chaînes de caractères.\n\n2. L'outil détecte automatiquement l'expression régulière d'entrée et la chaîne de caractères de test, et affiche les résultats de correspondance et de remplacement.\n\n3. L'outil prend en charge diverses options d'expression régulière, telles que la correspondance globale, la sensibilité à la casse, etc.\n\n4. L'outil prend en charge la mise en évidence du texte correspondant dans les résultats de correspondance.\n\n5. L'outil prend en charge le remplacement du texte correspondant dans les résultats de remplacement.\n\n6. L'outil prend en charge l'enregistrement de l'entrée de l'utilisateur dans l'expression régulière et la chaîne de caractères de test.\n\n7. L'outil prend en charge l'affichage d'une image visuelle de l'expression régulière.\n\nCas d'utilisation :\n\n1. Développement et test : Pendant le processus de développement ou de test, les développeurs ont souvent besoin de tester des expressions régulières. En utilisant le testeur Regex, ils peuvent rapidement tester des expressions régulières et afficher les résultats de correspondance et de remplacement.\n\n2. Traitement de données : Les processeurs de données ont besoin de traiter et d'analyser diverses données textuelles. En utilisant cet outil, ils peuvent facilement tester des expressions régulières et afficher les résultats de correspondance et de remplacement.\n\n3. Révision de code : Pendant le processus de révision de code, les examinateurs peuvent utiliser le testeur Regex pour tester des expressions régulières, ce qui facilite la visualisation et la compréhension des expressions régulières dans le code."
   },
   "it": {
     "$name": "Regex Tester",
-    "$description": "Regex Tester è un potente strumento che consente agli utenti di modificare e testare le espressioni regolari con supporto per Javascript. Fornisce un'interfaccia utente amichevole per testare e debuggare i pattern regex, rendendolo uno strumento essenziale per gli sviluppatori che lavorano con regex e Javascript.",
     "$keywords": [
       "regex",
       "test",
       "js",
-      "javascript"
-    ]
+      "javascript",
+      "Espressione Regolare",
+      "Strumento di Test",
+      "Risultato di Corrispondenza",
+      "Risultato di Sostituzione",
+      "Immagine Visuale"
+    ],
+    "$description": "Regex Tester è uno strumento utilizzato per testare le espressioni regolari. Aiuta gli utenti ad inserire espressioni regolari e testare stringhe, e visualizza i risultati di corrispondenza e sostituzione.\n\nCaratteristiche:\n\n1. Gli utenti possono inserire espressioni regolari e testare stringhe.\n\n2. Lo strumento rileva automaticamente l'espressione regolare inserita e la stringa di test, e visualizza i risultati di corrispondenza e sostituzione.\n\n3. Lo strumento supporta varie opzioni di espressioni regolari, come la corrispondenza globale, la non sensibilità alle maiuscole e minuscole, ecc.\n\n4. Lo strumento supporta l'evidenziazione del testo corrispondente nei risultati di corrispondenza.\n\n5. Lo strumento supporta la sostituzione del testo corrispondente nei risultati di sostituzione.\n\n6. Lo strumento supporta il salvataggio dell'input dell'utente nell'espressione regolare e nella stringa di test.\n\n7. Lo strumento supporta la visualizzazione di un'immagine visuale dell'espressione regolare.\n\nCasi d'uso:\n\n1. Sviluppo e testing: Durante il processo di sviluppo o testing, gli sviluppatori spesso hanno bisogno di testare le espressioni regolari. Utilizzando Regex Tester, possono testare rapidamente le espressioni regolari e visualizzare i risultati di corrispondenza e sostituzione.\n\n2. Elaborazione dati: I processori di dati devono elaborare e analizzare vari dati di testo. Utilizzando questo strumento, possono facilmente testare le espressioni regolari e visualizzare i risultati di corrispondenza e sostituzione.\n\n3. Revisione del codice: Durante il processo di revisione del codice, i revisori possono utilizzare Regex Tester per testare le espressioni regolari, rendendo più facile visualizzare e comprendere le espressioni regolari nel codice."
   },
   "ru": {
     "$name": "Тестер регулярных выражений",
-    "$description": "Тестер регулярных выражений - это мощный инструмент, который позволяет пользователям редактировать и тестировать регулярные выражения с поддержкой Javascript. Он предоставляет пользовательский интерфейс для тестирования и отладки шаблонов регулярных выражений, что делает его необходимым инструментом для разработчиков, работающих с регулярными выражениями и Javascript.",
-    "$keywords": [
-      "регулярные выражения",
-      "тест",
-      "js",
-      "javascript"
-    ]
-  },
-  "pt": {
-    "$name": "Testador de Regex",
-    "$description": "O Testador de Regex é uma ferramenta poderosa que permite aos usuários editar e testar expressões regulares com suporte para Javascript. Ele fornece uma interface amigável para testar e depurar padrões regex, tornando-se uma ferramenta essencial para desenvolvedores que trabalham com regex e Javascript.",
-    "$keywords": [
-      "regex",
-      "teste",
-      "js",
-      "javascript"
-    ]
-  },
-  "en": {
-    "$name": "Regex Tester",
-    "$description": "Regex Tester is a powerful tool that allows users to edit and test regular expressions with support for Javascript. It provides a user-friendly interface for testing and debugging regex patterns, making it an essential tool for developers working with regex and Javascript.",
     "$keywords": [
       "regex",
       "test",
       "js",
-      "javascript"
-    ]
+      "javascript",
+      "Regular Expression",
+      "Testing Tool",
+      "Match Result",
+      "Replace Result",
+      "Visual Image"
+    ],
+    "$description": "Regex Tester - это инструмент, используемый для тестирования регулярных выражений. Он помогает пользователям вводить регулярные выражения и тестовые строки, а также отображает результаты совпадения и замены.\n\nОсобенности:\n\n1. Пользователи могут вводить регулярные выражения и тестовые строки.\n\n2. Инструмент автоматически определяет вводимое регулярное выражение и тестовую строку, а также отображает результаты совпадения и замены.\n\n3. Инструмент поддерживает различные опции регулярных выражений, такие как глобальное сопоставление, игнорирование регистра и т.д.\n\n4. Инструмент поддерживает выделение совпадающего текста в результатах совпадения.\n\n5. Инструмент поддерживает замену совпадающего текста в результатах замены.\n\n6. Инструмент поддерживает сохранение ввода пользователя в регулярном выражении и тестовой строке.\n\n7. Инструмент поддерживает отображение визуального изображения регулярного выражения.\n\nПрименение:\n\n1. Разработка и тестирование: Во время процесса разработки или тестирования разработчики часто нуждаются в тестировании регулярных выражений. Использование Regex Tester позволяет быстро тестировать регулярные выражения и просматривать результаты совпадения и замены.\n\n2. Обработка данных: Обработчики данных должны обрабатывать и анализировать различные текстовые данные. Используя этот инструмент, они могут легко тестировать регулярные выражения и просматривать результаты совпадения и замены.\n\n3. Обзор кода: Во время процесса обзора кода рецензенты могут использовать Regex Tester для тестирования регулярных выражений, что упрощает просмотр и понимание регулярных выражений в коде."
+  },
+  "pt": {
+    "$name": "Testador de Regex",
+    "$keywords": [
+      "expressão regular",
+      "teste",
+      "js",
+      "javascript",
+      "Ferramenta de Teste",
+      "Resultado de Correspondência",
+      "Resultado de Substituição",
+      "Imagem Visual"
+    ],
+    "$description": "O Regex Tester é uma ferramenta usada para testar expressões regulares. Ele ajuda os usuários a inserir expressões regulares e testar strings, e exibe resultados de correspondência e substituição.\n\nRecursos:\n\n1. Os usuários podem inserir expressões regulares e testar strings.\n\n2. A ferramenta detecta automaticamente a expressão regular de entrada e a string de teste, e exibe resultados de correspondência e substituição.\n\n3. A ferramenta suporta várias opções de expressão regular, como correspondência global, insensibilidade a maiúsculas e minúsculas, etc.\n\n4. A ferramenta suporta destacar o texto correspondente nos resultados de correspondência.\n\n5. A ferramenta suporta substituir o texto correspondente nos resultados de substituição.\n\n6. A ferramenta suporta salvar a entrada do usuário na expressão regular e na string de teste.\n\n7. A ferramenta suporta exibir uma imagem visual da expressão regular.\n\nCasos de uso:\n\n1. Desenvolvimento e teste: Durante o processo de desenvolvimento ou teste, os desenvolvedores frequentemente precisam testar expressões regulares. Usando o Regex Tester, eles podem testar rapidamente expressões regulares e visualizar resultados de correspondência e substituição.\n\n2. Processamento de dados: Processadores de dados precisam processar e analisar vários dados de texto. Usando esta ferramenta, eles podem facilmente testar expressões regulares e visualizar resultados de correspondência e substituição.\n\n3. Revisão de código: Durante o processo de revisão de código, os revisores podem usar o Regex Tester para testar expressões regulares, tornando mais fácil visualizar e entender expressões regulares no código."
+  },
+  "en": {
+    "$name": "Regex Tester",
+    "$keywords": [
+      "regex",
+      "test",
+      "js",
+      "javascript",
+      "Regular Expression",
+      "Testing Tool",
+      "Match Result",
+      "Replace Result",
+      "Visual Image"
+    ],
+    "$description": "Regex Tester is a tool used to test regular expressions. It helps users input regular expressions and test strings, and displays matching and replacement results.\n\nFeatures:\n\n1. Users can input regular expressions and test strings.\n\n2. The tool automatically detects the input regular expression and test string, and displays matching and replacement results.\n\n3. The tool supports various regular expression options, such as global matching, case-insensitivity, etc.\n\n4. The tool supports highlighting the matched text in the matching results.\n\n5. The tool supports replacing the matched text in the replacement results.\n\n6. The tool supports saving user input in the regular expression and test string.\n\n7. The tool supports displaying a visual image of the regular expression.\n\nUse cases:\n\n1. Development and testing: During the development or testing process, developers often need to test regular expressions. Using Regex Tester can quickly test regular expressions and view matching and replacement results.\n\n2. Data processing: Data processors need to process and analyze various text data. Using this tool, they can easily test regular expressions and view matching and replacement results.\n\n3. Code review: During the code review process, reviewers can use Regex Tester to test regular expressions, making it easier to view and understand regular expressions in the code."
   }
 }

@@ -1,7 +1,6 @@
 {
   "zh-cn": {
     "$name": "Hosts编辑器",
-    "$description": "Hosts编辑器是一款强大的工具，允许用户编辑计算机上的/etc/hosts文件，该文件负责将域名映射到IP地址。使用此工具，用户可以轻松添加、删除或修改本地机器的DNS记录，包括流行的localhost、127.x.x.x、192.x.x.x和168.x.x.x IP地址。",
     "$keywords": [
       "hosts",
       "editor",
@@ -13,12 +12,22 @@
       "192",
       "168",
       "domain",
-      "ip"
-    ]
+      "ip",
+      "Hosts文件编辑器",
+      "网络连接管理",
+      "自动保存",
+      "网络管理",
+      "网络安全",
+      "网络开发",
+      "DNS记录",
+      "本地主机",
+      "IP地址",
+      "域名"
+    ],
+    "$description": "工具名称：Hosts编辑器\n\n功能描述：\n\nHosts编辑器是一款用于编辑系统hosts文件的工具。它允许用户轻松编辑和保存hosts文件，以便更好地管理网络连接。\n\n1. 编辑hosts文件：用户可以使用Hosts编辑器编辑系统hosts文件，以便更好地管理网络连接。\n\n2. 保存hosts文件：用户可以使用Hosts编辑器保存编辑后的hosts文件，以便更好地管理网络连接。\n\n3. 自动保存：Hosts编辑器支持自动保存hosts文件，使用户无需手动保存。\n\n使用场景：\n\n1. 网络管理：在网络管理中，管理员经常需要编辑和保存hosts文件。使用Hosts编辑器可以使管理员更轻松地管理网络连接。\n\n2. 网络安全：在网络安全中，安全人员经常需要编辑和保存hosts文件。使用Hosts编辑器可以使安全人员更轻松地管理网络连接。\n\n3. 网络开发：在网络开发中，开发人员经常需要编辑和保存hosts文件。使用Hosts编辑器可以使开发人员更轻松地管理网络连接。"
   },
   "zh-tw": {
     "$name": "Hosts 編輯器",
-    "$description": "Hosts 編輯器是一個強大的工具，允許用戶編輯其電腦上的 /etc/hosts 文件，該文件負責將域名映射到 IP 地址。使用此工具，用戶可以輕鬆添加、刪除或修改其本地機器的 DNS 記錄，包括流行的 localhost、127.x.x.x、192.x.x.x 和 168.x.x.x IP 地址。",
     "$keywords": [
       "hosts",
       "editor",
@@ -30,12 +39,22 @@
       "192",
       "168",
       "domain",
-      "ip"
-    ]
+      "ip",
+      "Hosts file editor",
+      "Network connection management",
+      "Auto-save",
+      "Network management",
+      "Network security",
+      "Network development",
+      "DNS records",
+      "Local host",
+      "IP address",
+      "Domain name"
+    ],
+    "$description": "工具名稱：Hosts Editor\n\n功能描述：\n\nHosts Editor 是一個用於編輯系統 hosts 檔案的工具。它允許用戶輕鬆編輯和保存 hosts 檔案，以實現更好的網絡連接管理。\n\n1. 編輯 hosts 檔案：用戶可以使用 Hosts Editor 編輯系統 hosts 檔案，以實現更好的網絡連接管理。\n\n2. 保存 hosts 檔案：用戶可以使用 Hosts Editor 保存編輯後的 hosts 檔案，以實現更好的網絡連接管理。\n\n3. 自動保存：Hosts Editor 支持 hosts 檔案的自動保存，使用戶不必手動保存。\n\n使用場景：\n\n1. 網絡管理：在網絡管理中，管理員經常需要編輯和保存 hosts 檔案。使用 Hosts Editor 可以使管理員更輕鬆地管理網絡連接。\n\n2. 網絡安全：在網絡安全中，安全人員經常需要編輯和保存 hosts 檔案。使用 Hosts Editor 可以使安全人員更輕鬆地管理網絡連接。\n\n3. 網絡開發：在網絡開發中，開發人員經常需要編輯和保存 hosts 檔案。使用 Hosts Editor 可以使開發人員更輕鬆地管理網絡連接。"
   },
   "es": {
     "$name": "Editor de Hosts",
-    "$description": "El Editor de Hosts es una herramienta poderosa que permite a los usuarios editar el archivo /etc/hosts en su computadora, el cual es responsable de mapear nombres de dominio a direcciones IP. Con esta herramienta, los usuarios pueden fácilmente agregar, eliminar o modificar registros DNS para su máquina local, incluyendo los populares localhost, 127.x.x.x, 192.x.x.x y 168.x.x.x direcciones IP.",
     "$keywords": [
       "hosts",
       "editor",
@@ -47,12 +66,22 @@
       "192",
       "168",
       "dominio",
-      "ip"
-    ]
+      "ip",
+      "Editor de archivo Hosts",
+      "Gestión de conexión de red",
+      "Auto-guardado",
+      "Gestión de red",
+      "Seguridad de red",
+      "Desarrollo de red",
+      "Registros DNS",
+      "Anfitrión local",
+      "Dirección IP",
+      "Nombre de dominio"
+    ],
+    "$description": "Nombre de la herramienta: Editor de hosts\n\nDescripción de la función:\n\nEl Editor de hosts es una herramienta utilizada para editar el archivo de hosts del sistema. Permite a los usuarios editar y guardar fácilmente el archivo de hosts para una mejor gestión de la conexión de red.\n\n1. Editar archivo de hosts: Los usuarios pueden utilizar el Editor de hosts para editar el archivo de hosts del sistema para una mejor gestión de la conexión de red.\n\n2. Guardar archivo de hosts: Los usuarios pueden utilizar el Editor de hosts para guardar el archivo de hosts editado para una mejor gestión de la conexión de red.\n\n3. Auto-guardado: El Editor de hosts admite el auto-guardado del archivo de hosts para que los usuarios no tengan que guardarlo manualmente.\n\nEscenarios de uso:\n\n1. Gestión de red: En la gestión de red, los administradores a menudo necesitan editar y guardar el archivo de hosts. El uso del Editor de hosts puede hacer que sea más fácil para los administradores gestionar las conexiones de red.\n\n2. Seguridad de red: En la seguridad de red, el personal de seguridad a menudo necesita editar y guardar el archivo de hosts. El uso del Editor de hosts puede hacer que sea más fácil para el personal de seguridad gestionar las conexiones de red.\n\n3. Desarrollo de red: En el desarrollo de red, los desarrolladores a menudo necesitan editar y guardar el archivo de hosts. El uso del Editor de hosts puede hacer que sea más fácil para los desarrolladores gestionar las conexiones de red."
   },
   "ja": {
     "$name": "ホストエディター",
-    "$description": "ホストエディターは、コンピューター上の/etc/hostsファイルを編集することができる強力なツールで、ドメイン名をIPアドレスにマッピングする責任があります。このツールを使用すると、ユーザーはローカルマシン用のDNSレコード、人気のあるlocalhost、127.x.x.x、192.x.x.x、および168.x.x.x IPアドレスを含め、簡単に追加、削除、または変更できます。",
     "$keywords": [
       "ホスト",
       "エディター",
@@ -64,29 +93,103 @@
       "192",
       "168",
       "ドメイン",
-      "IP"
-    ]
+      "IP",
+      "ホストファイルエディター",
+      "ネットワーク接続管理",
+      "自動保存",
+      "ネットワーク管理",
+      "ネットワークセキュリティ",
+      "ネットワーク開発",
+      "DNSレコード",
+      "ローカルホスト",
+      "IPアドレス",
+      "ドメイン名"
+    ],
+    "$description": "ツール名：ホストエディター\n\n機能説明：\n\nホストエディターは、システムのホストファイルを編集するためのツールです。ユーザーは、ホストファイルを簡単に編集して保存し、ネットワーク接続の管理を改善することができます。\n\n1. ホストファイルの編集：ユーザーは、ホストエディターを使用してシステムのホストファイルを編集し、ネットワーク接続の管理を改善することができます。\n\n2. ホストファイルの保存：ユーザーは、ホストエディターを使用して編集したホストファイルを保存し、ネットワーク接続の管理を改善することができます。\n\n3. 自動保存：ホストエディターは、ユーザーが手動で保存する必要がないように、ホストファイルの自動保存をサポートしています。\n\n使用シナリオ：\n\n1. ネットワーク管理：ネットワーク管理では、管理者がしばしばホストファイルを編集して保存する必要があります。ホストエディターを使用することで、管理者はネットワーク接続を管理しやすくすることができます。\n\n2. ネットワークセキュリティ：ネットワークセキュリティでは、セキュリティ担当者がしばしばホストファイルを編集して保存する必要があります。ホストエディターを使用することで、セキュリティ担当者はネットワーク接続を管理しやすくすることができます。\n\n3. ネットワーク開発：ネットワーク開発では、開発者がしばしばホストファイルを編集して保存する必要があります。ホストエディターを使用することで、開発者はネットワーク接続を管理しやすくすることができます。"
   },
   "ko": {
     "$name": "호스트 편집기",
-    "$description": "호스트 편집기는 사용자가 컴퓨터의 /etc/hosts 파일을 편집할 수 있는 강력한 도구로, 이 파일은 도메인 이름을 IP 주소로 매핑하는 역할을 합니다. 이 도구를 사용하면 사용자는 로컬 머신을 위한 DNS 레코드를 쉽게 추가, 제거 또는 수정할 수 있으며, 이에는 인기 있는 localhost, 127.x.x.x, 192.x.x.x 및 168.x.x.x IP 주소가 포함됩니다.",
     "$keywords": [
       "호스트",
-      "편집기",
+      "에디터",
       "/etc/hosts",
-      "dns",
+      "DNS",
       "레코드",
-      "localhost",
+      "로컬호스트",
       "127",
       "192",
       "168",
       "도메인",
-      "ip"
-    ]
+      "IP",
+      "호스트 파일 에디터",
+      "네트워크 연결 관리",
+      "자동 저장",
+      "네트워크 관리",
+      "네트워크 보안",
+      "네트워크 개발",
+      "DNS 레코드",
+      "로컬 호스트",
+      "IP 주소",
+      "도메인 이름"
+    ],
+    "$description": "도구 이름: 호스트 편집기\n\n기능 설명:\n\n호스트 편집기는 시스템 호스트 파일을 편집하는 데 사용되는 도구입니다. 사용자는 호스트 파일을 쉽게 편집하고 저장하여 더 나은 네트워크 연결 관리를 할 수 있습니다.\n\n1. 호스트 파일 편집: 사용자는 호스트 편집기를 사용하여 더 나은 네트워크 연결 관리를 위해 시스템 호스트 파일을 편집할 수 있습니다.\n\n2. 호스트 파일 저장: 사용자는 호스트 편집기를 사용하여 편집한 호스트 파일을 저장할 수 있습니다.\n\n3. 자동 저장: 호스트 편집기는 호스트 파일의 자동 저장을 지원하여 사용자가 수동으로 저장할 필요가 없도록 합니다.\n\n사용 시나리오:\n\n1. 네트워크 관리: 네트워크 관리에서 관리자는 종종 호스트 파일을 편집하고 저장해야 합니다. 호스트 편집기를 사용하면 관리자가 네트워크 연결을 관리하기 쉬워집니다.\n\n2. 네트워크 보안: 네트워크 보안에서 보안 담당자는 종종 호스트 파일을 편집하고 저장해야 합니다. 호스트 편집기를 사용하면 보안 담당자가 네트워크 연결을 관리하기 쉬워집니다.\n\n3. 네트워크 개발: 네트워크 개발에서 개발자는 종종 호스트 파일을 편집하고 저장해야 합니다. 호스트 편집기를 사용하면 개발자가 네트워크 연결을 관리하기 쉬워집니다."
   },
   "de": {
     "$name": "Hosts Editor",
-    "$description": "Hosts Editor ist ein leistungsstarkes Tool, mit dem Benutzer die /etc/hosts-Datei auf ihrem Computer bearbeiten können, die für die Zuordnung von Domänennamen zu IP-Adressen verantwortlich ist. Mit diesem Tool können Benutzer DNS-Einträge für ihre lokale Maschine einfach hinzufügen, entfernen oder ändern, einschließlich der beliebten localhost-, 127.x.x.x-, 192.x.x.x- und 168.x.x.x-IP-Adressen.",
+    "$keywords": [
+      "Hosts",
+      "Editor",
+      "/etc/hosts",
+      "DNS",
+      "Record",
+      "Localhost",
+      "127",
+      "192",
+      "168",
+      "Domain",
+      "IP",
+      "Hosts-Datei-Editor",
+      "Netzwerkverbindungsverwaltung",
+      "Automatisches Speichern",
+      "Netzwerkverwaltung",
+      "Netzwerksicherheit",
+      "Netzwerkentwicklung",
+      "DNS-Einträge",
+      "Lokaler Host",
+      "IP-Adresse",
+      "Domain-Name"
+    ],
+    "$description": "Werkzeugname: Hosts Editor\n\nFunktionsbeschreibung:\n\nHosts Editor ist ein Werkzeug, das verwendet wird, um die System-Hosts-Datei zu bearbeiten. Es ermöglicht Benutzern, die Hosts-Datei für eine bessere Netzwerkverbindung zu bearbeiten und zu speichern.\n\n1. Bearbeiten der Hosts-Datei: Benutzer können Hosts Editor verwenden, um die System-Hosts-Datei für eine bessere Netzwerkverbindung zu bearbeiten.\n\n2. Speichern der Hosts-Datei: Benutzer können Hosts Editor verwenden, um die bearbeitete Hosts-Datei für eine bessere Netzwerkverbindung zu speichern.\n\n3. Automatisches Speichern: Hosts Editor unterstützt das automatische Speichern der Hosts-Datei, damit Benutzer es nicht manuell speichern müssen.\n\nAnwendungsszenarien:\n\n1. Netzwerkmanagement: Im Netzwerkmanagement müssen Administratoren oft die Hosts-Datei bearbeiten und speichern. Die Verwendung von Hosts Editor kann es Administratoren erleichtern, Netzwerkverbindungen zu verwalten.\n\n2. Netzwerksicherheit: In der Netzwerksicherheit müssen Sicherheitspersonal oft die Hosts-Datei bearbeiten und speichern. Die Verwendung von Hosts Editor kann es Sicherheitspersonal erleichtern, Netzwerkverbindungen zu verwalten.\n\n3. Netzwerkentwicklung: In der Netzwerkentwicklung müssen Entwickler oft die Hosts-Datei bearbeiten und speichern. Die Verwendung von Hosts Editor kann es Entwicklern erleichtern, Netzwerkverbindungen zu verwalten."
+  },
+  "fr": {
+    "$name": "Éditeur de fichiers hosts",
+    "$keywords": [
+      "hôtes",
+      "éditeur",
+      "/etc/hosts",
+      "dns",
+      "enregistrement",
+      "localhost",
+      "127",
+      "192",
+      "168",
+      "domaine",
+      "ip",
+      "Éditeur de fichier Hosts",
+      "Gestion de la connexion réseau",
+      "Sauvegarde automatique",
+      "Gestion du réseau",
+      "Sécurité du réseau",
+      "Développement du réseau",
+      "Enregistrements DNS",
+      "Hôte local",
+      "Adresse IP",
+      "Nom de domaine"
+    ],
+    "$description": "Nom de l'outil: Éditeur de fichiers hosts\n\nDescription de la fonction:\n\nÉditeur de fichiers hosts est un outil utilisé pour éditer le fichier hosts du système. Il permet aux utilisateurs d'éditer facilement et de sauvegarder le fichier hosts pour une meilleure gestion de la connexion réseau.\n\n1. Éditer le fichier hosts: Les utilisateurs peuvent utiliser Éditeur de fichiers hosts pour éditer le fichier hosts du système pour une meilleure gestion de la connexion réseau.\n\n2. Sauvegarder le fichier hosts: Les utilisateurs peuvent utiliser Éditeur de fichiers hosts pour sauvegarder le fichier hosts édité pour une meilleure gestion de la connexion réseau.\n\n3. Sauvegarde automatique: Éditeur de fichiers hosts prend en charge la sauvegarde automatique du fichier hosts afin que les utilisateurs n'aient pas à le sauvegarder manuellement.\n\nScénarios d'utilisation:\n\n1. Gestion de réseau: En gestion de réseau, les administrateurs ont souvent besoin d'éditer et de sauvegarder le fichier hosts. L'utilisation d'Éditeur de fichiers hosts peut faciliter la gestion des connexions réseau pour les administrateurs.\n\n2. Sécurité réseau: En sécurité réseau, le personnel de sécurité a souvent besoin d'éditer et de sauvegarder le fichier hosts. L'utilisation d'Éditeur de fichiers hosts peut faciliter la gestion des connexions réseau pour le personnel de sécurité.\n\n3. Développement de réseau: En développement de réseau, les développeurs ont souvent besoin d'éditer et de sauvegarder le fichier hosts. L'utilisation d'Éditeur de fichiers hosts peut faciliter la gestion des connexions réseau pour les développeurs."
+  },
+  "it": {
+    "$name": "Editor di Hosts",
     "$keywords": [
       "hosts",
       "editor",
@@ -98,29 +201,22 @@
       "192",
       "168",
       "domain",
-      "ip"
-    ]
+      "ip",
+      "Editor file hosts",
+      "Gestione connessione di rete",
+      "Auto-salvataggio",
+      "Gestione di rete",
+      "Sicurezza di rete",
+      "Sviluppo di rete",
+      "Record DNS",
+      "Host locale",
+      "Indirizzo IP",
+      "Nome di dominio"
+    ],
+    "$description": "Nome dello strumento: Editor di Hosts\n\nDescrizione della funzione:\n\nL'Editor di Hosts è uno strumento utilizzato per modificare il file hosts di sistema. Consente agli utenti di modificare e salvare facilmente il file hosts per una migliore gestione della connessione di rete.\n\n1. Modifica del file hosts: gli utenti possono utilizzare l'Editor di Hosts per modificare il file hosts di sistema per una migliore gestione della connessione di rete.\n\n2. Salvataggio del file hosts: gli utenti possono utilizzare l'Editor di Hosts per salvare il file hosts modificato per una migliore gestione della connessione di rete.\n\n3. Salvataggio automatico: l'Editor di Hosts supporta il salvataggio automatico del file hosts in modo che gli utenti non debbano salvarlo manualmente.\n\nScenari di utilizzo:\n\n1. Gestione di rete: nella gestione di rete, gli amministratori spesso devono modificare e salvare il file hosts. Utilizzando l'Editor di Hosts, gli amministratori possono gestire le connessioni di rete in modo più semplice.\n\n2. Sicurezza di rete: nella sicurezza di rete, il personale di sicurezza spesso deve modificare e salvare il file hosts. Utilizzando l'Editor di Hosts, il personale di sicurezza può gestire le connessioni di rete in modo più semplice.\n\n3. Sviluppo di rete: nello sviluppo di rete, gli sviluppatori spesso devono modificare e salvare il file hosts. Utilizzando l'Editor di Hosts, gli sviluppatori possono gestire le connessioni di rete in modo più semplice."
   },
-  "fr": {
-    "$name": "Éditeur de fichiers hosts",
-    "$description": "L'éditeur de fichiers hosts est un outil puissant qui permet aux utilisateurs de modifier le fichier /etc/hosts sur leur ordinateur, qui est responsable de la mise en correspondance des noms de domaine avec les adresses IP. Avec cet outil, les utilisateurs peuvent facilement ajouter, supprimer ou modifier des enregistrements DNS pour leur machine locale, y compris les adresses IP populaires localhost, 127.x.x.x, 192.x.x.x et 168.x.x.x.",
-    "$keywords": [
-      "hosts",
-      "éditeur",
-      "/etc/hosts",
-      "dns",
-      "enregistrement",
-      "localhost",
-      "127",
-      "192",
-      "168",
-      "domaine",
-      "ip"
-    ]
-  },
-  "it": {
-    "$name": "Editor di Hosts",
-    "$description": "L'Editor di Hosts è uno strumento potente che consente agli utenti di modificare il file /etc/hosts sul proprio computer, che è responsabile della mappatura dei nomi di dominio agli indirizzi IP. Con questo strumento, gli utenti possono facilmente aggiungere, rimuovere o modificare i record DNS per la propria macchina locale, inclusi i popolari indirizzi IP localhost, 127.x.x.x, 192.x.x.x e 168.x.x.x.",
+  "ru": {
+    "$name": "Редактор хостов",
     "$keywords": [
       "hosts",
       "editor",
@@ -131,30 +227,44 @@
       "127",
       "192",
       "168",
-      "dominio",
-      "ip"
-    ]
-  },
-  "ru": {
-    "$name": "Редактор хостов",
-    "$description": "Редактор хостов - мощный инструмент, который позволяет пользователям редактировать файл /etc/hosts на своем компьютере, который отвечает за отображение доменных имен на IP-адреса. С помощью этого инструмента пользователи могут легко добавлять, удалять или изменять DNS-записи для своей локальной машины, включая популярные локальный хост, 127.x.x.x, 192.x.x.x и 168.x.x.x IP-адреса.",
-    "$keywords": [
+      "domain",
+      "ip",
+      "Hosts file editor",
+      "Network connection management",
+      "Auto-save",
+      "Network management",
+      "Network security",
+      "Network development",
+      "DNS records",
+      "Local host",
+      "IP address",
+      "Domain name",
       "хосты",
       "редактор",
       "/etc/hosts",
       "dns",
       "запись",
-      "локальный хост",
+      "localhost",
       "127",
       "192",
       "168",
       "домен",
-      "ip"
-    ]
+      "ip",
+      "Редактор файла хостов",
+      "Управление сетевым подключением",
+      "Автосохранение",
+      "Управление сетью",
+      "Безопасность сети",
+      "Разработка сети",
+      "DNS-записи",
+      "Локальный хост",
+      "IP-адрес",
+      "Имя домена"
+    ],
+    "$description": "Название инструмента: Редактор хостов\n\nОписание функций:\n\nРедактор хостов - это инструмент, используемый для редактирования системного файла хостов. Он позволяет пользователям легко редактировать и сохранять файл хостов для более эффективного управления сетевым подключением.\n\n1. Редактирование файла хостов: Пользователи могут использовать Редактор хостов для редактирования системного файла хостов для более эффективного управления сетевым подключением.\n\n2. Сохранение файла хостов: Пользователи могут использовать Редактор хостов для сохранения отредактированного файла хостов для более эффективного управления сетевым подключением.\n\n3. Автосохранение: Редактор хостов поддерживает автоматическое сохранение файла хостов, чтобы пользователи не должны были сохранять его вручную.\n\nСценарии использования:\n\n1. Управление сетью: При управлении сетью администраторы часто должны редактировать и сохранять файл хостов. Использование Редактора хостов может упростить управление сетевыми подключениями для администраторов.\n\n2. Безопасность сети: При обеспечении безопасности сети сотрудники службы безопасности часто должны редактировать и сохранять файл хостов. Использование Редактора хостов может упростить управление сетевыми подключениями для сотрудников службы безопасности.\n\n3. Разработка сети: При разработке сети разработчики часто должны редактировать и сохранять файл хостов. Использование Редактора хостов может упростить управление сетевыми подключениями для разработчиков."
   },
   "pt": {
     "$name": "Editor de Hosts",
-    "$description": "O Editor de Hosts é uma ferramenta poderosa que permite aos usuários editar o arquivo /etc/hosts em seu computador, que é responsável por mapear nomes de domínio para endereços IP. Com esta ferramenta, os usuários podem facilmente adicionar, remover ou modificar registros DNS para sua máquina local, incluindo os populares endereços IP localhost, 127.x.x.x, 192.x.x.x e 168.x.x.x.",
     "$keywords": [
       "hosts",
       "editor",
@@ -166,12 +276,22 @@
       "192",
       "168",
       "domínio",
-      "ip"
-    ]
+      "ip",
+      "Editor de arquivo Hosts",
+      "Gerenciamento de conexão de rede",
+      "Auto-salvar",
+      "Gerenciamento de rede",
+      "Segurança de rede",
+      "Desenvolvimento de rede",
+      "Registros DNS",
+      "Host local",
+      "Endereço IP",
+      "Nome de domínio"
+    ],
+    "$description": "Nome da Ferramenta: Editor de Hosts\n\nDescrição da Função:\n\nO Editor de Hosts é uma ferramenta usada para editar o arquivo de hosts do sistema. Ele permite que os usuários editem e salvem facilmente o arquivo de hosts para melhor gerenciamento da conexão de rede.\n\n1. Editar arquivo de hosts: Os usuários podem usar o Editor de Hosts para editar o arquivo de hosts do sistema para melhor gerenciamento da conexão de rede.\n\n2. Salvar arquivo de hosts: Os usuários podem usar o Editor de Hosts para salvar o arquivo de hosts editado para melhor gerenciamento da conexão de rede.\n\n3. Auto-salvar: O Editor de Hosts suporta o auto-salvamento do arquivo de hosts para que os usuários não precisem salvá-lo manualmente.\n\nCenários de Uso:\n\n1. Gerenciamento de rede: No gerenciamento de rede, os administradores frequentemente precisam editar e salvar o arquivo de hosts. Usando o Editor de Hosts, pode ser mais fácil para os administradores gerenciarem as conexões de rede.\n\n2. Segurança de rede: Na segurança de rede, o pessoal de segurança frequentemente precisa editar e salvar o arquivo de hosts. Usando o Editor de Hosts, pode ser mais fácil para o pessoal de segurança gerenciar as conexões de rede.\n\n3. Desenvolvimento de rede: No desenvolvimento de rede, os desenvolvedores frequentemente precisam editar e salvar o arquivo de hosts. Usando o Editor de Hosts, pode ser mais fácil para os desenvolvedores gerenciarem as conexões de rede."
   },
   "en": {
     "$name": "Hosts Editor",
-    "$description": "Hosts Editor is a powerful tool that allows users to edit the /etc/hosts file on their computer, which is responsible for mapping domain names to IP addresses. With this tool, users can easily add, remove, or modify DNS records for their local machine, including the popular localhost, 127.x.x.x, 192.x.x.x, and 168.x.x.x IP addresses.",
     "$keywords": [
       "hosts",
       "editor",
@@ -183,7 +303,18 @@
       "192",
       "168",
       "domain",
-      "ip"
-    ]
+      "ip",
+      "Hosts file editor",
+      "Network connection management",
+      "Auto-save",
+      "Network management",
+      "Network security",
+      "Network development",
+      "DNS records",
+      "Local host",
+      "IP address",
+      "Domain name"
+    ],
+    "$description": "Tool Name: Hosts Editor\n\nFunction Description:\n\nHosts Editor is a tool used to edit the system hosts file. It allows users to easily edit and save the hosts file for better network connection management.\n\n1. Edit hosts file: Users can use Hosts Editor to edit the system hosts file for better network connection management.\n\n2. Save hosts file: Users can use Hosts Editor to save the edited hosts file for better network connection management.\n\n3. Auto-save: Hosts Editor supports auto-saving of the hosts file so that users do not have to manually save it.\n\nUsage Scenarios:\n\n1. Network management: In network management, administrators often need to edit and save the hosts file. Using Hosts Editor can make it easier for administrators to manage network connections.\n\n2. Network security: In network security, security personnel often need to edit and save the hosts file. Using Hosts Editor can make it easier for security personnel to manage network connections.\n\n3. Network development: In network development, developers often need to edit and save the hosts file. Using Hosts Editor can make it easier for developers to manage network connections."
   }
 }

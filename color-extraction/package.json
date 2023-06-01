@@ -10,18 +10,24 @@
     "id": "color-extraction",
     "name": "Color Extractor",
     "icon": "pie-chart-outlined",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/color-extraction",
     "category": [
       "image",
       "color"
     ],
-    "description": "The Color Extractor tool is a powerful image processing tool that allows users to extract specific colors from an image. With this tool, users can easily identify and extract colors from an image, making it an ideal tool for graphic designers, web developers, and anyone who works with digital images. The Color Extractor tool is easy to use and provides accurate color extraction, making it an essential tool for anyone who needs to work with color in their digital projects.",
+    "description": "Color Extractor is a tool used to extract colors from images. It can extract the main colors and color palette from uploaded images and display them in RGB format.\n\nFeatures:\n\n1. Image upload: Users can upload images to the tool.\n\n2. Color extraction: The tool will automatically extract the main colors and color palette from the uploaded image and display them in RGB format.\n\n3. Color display: The tool will display the extracted colors in a card format in the output area.\n\nUse cases:\n\n1. Designers: Designers can use Color Extractor to extract colors from images to better design color schemes.\n\n2. Developers: Developers can use Color Extractor to extract colors from images to better design UI interfaces.\n\n3. Data analysts: Data analysts can use Color Extractor to extract colors from images to better analyze data structures and content.",
     "keywords": [
       "color",
       "extraction",
-      "image"
+      "image",
+      "Color Extractor",
+      "Image Color",
+      "RGB Format",
+      "Design Color Scheme",
+      "UI Interface Design",
+      "Data Analysis"
     ],
     "relatedToolId": [
       "color-convert"

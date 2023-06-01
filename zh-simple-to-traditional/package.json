@@ -11,8 +11,8 @@
     "name": "Chinese Simplified to Traditional",
     "id": "zh-simple-to-traditional",
     "icon": "block-outlined",
-    "version": "1.0.3",
-    "description": "The Chinese Simplified to Traditional tool is a language conversion tool that allows users to convert written Chinese text from simplified characters to traditional characters. This tool is particularly useful for individuals who need to communicate with individuals who use traditional Chinese characters, such as those in Taiwan or Hong Kong.",
+    "version": "1.0.4",
+    "description": "The Chinese Simplified-Traditional Conversion Tool is a tool used to convert Chinese characters from simplified to traditional or from traditional to simplified.\n\nFeatures:\n\n1. Users can input the Chinese text that needs to be converted into the tool.\n\n2. The tool will automatically convert the input Chinese text from simplified to traditional or from traditional to simplified.\n\n3. The converted Chinese text will be displayed in the output area of the tool.\n\n4. Users can choose to copy the converted Chinese text to the clipboard for use in other applications.\n\nUse cases:\n\n1. Chinese translation: When translating Chinese, sometimes it is necessary to convert Chinese characters from simplified to traditional or from traditional to simplified. Using the Chinese Simplified-Traditional Conversion Tool can quickly complete this task.\n\n2. Chinese reading: Some people prefer to read Chinese traditional characters, while others prefer to read Chinese simplified characters. Using the Chinese Simplified-Traditional Conversion Tool can convert Chinese text to the format that the user needs for better reading.\n\n3. Chinese input: When inputting Chinese, some people prefer to use Chinese traditional input methods, while others prefer to use Chinese simplified input methods. Using the Chinese Simplified-Traditional Conversion Tool can convert the input Chinese text to the format that the user needs for more convenient input.",
     "isPublic": true,
     "category": [
       "text",
@@ -21,7 +21,13 @@
     "keywords": [
       "chinese",
       "simplified",
-      "traditional"
+      "traditional",
+      "Chinese Simplified to Traditional",
+      "Chinese Traditional to Simplified",
+      "Chinese Simplified to Traditional Conversion",
+      "Chinese Translation",
+      "Chinese Reading",
+      "Chinese Input"
     ],
     "repository": "",
     "relatedToolId": []
