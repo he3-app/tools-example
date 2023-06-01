@@ -5007,5 +5007,340 @@
       ],
       "$description": "JSON转SQL模式工具是一种用于将JSON数据转换为SQL模式的工具。它可以将JSON数据转换为SQL模式，使开发人员更容易地在数据库中创建表格。\n\n特点：\n\n1. 将JSON数据粘贴或输入到工具中。\n\n2. 工具将自动将JSON数据转换为SQL模式。\n\n3. 转换后的SQL模式将显示在工具的输出区域中。\n\n用例：\n\n1. 数据库开发：在数据库开发过程中，开发人员需要创建表格。使用JSON转SQL模式工具，他们可以轻松地将JSON数据转换为SQL模式，从而更快地创建表格。\n\n2. 数据库迁移：在数据库迁移过程中，开发人员需要将数据从一个数据库迁移到另一个数据库。使用此工具，他们可以将JSON数据转换为SQL模式，从而更容易地迁移数据。\n\n3. 数据库管理：在数据库管理过程中，管理员需要查看数据库中的表结构。使用JSON转SQL模式工具，他们可以将表结构转换为JSON数据，从而更容易地理解表结构。\n\n如何使用该工具：\n\n1. 将需要转换的JSON数据粘贴或输入到工具的输入区域中。\n\n2. 工具将自动将JSON数据转换为SQL模式，并在输出区域中显示转换后的SQL模式。\n\n3. 转换后的SQL模式可以复制到剪贴板或保存为文件。"
     }
+  },
+  {
+    "id": "extract-json-values",
+    "zh-cn": {
+      "$name": "提取 JSON 值",
+      "$description": "提取JSON值工具是一款强大的数据提取工具，允许用户从JSON数据结构中提取特定的值。通过直观的界面和高级过滤选项，用户可以轻松提取所需的数据并以各种格式保存以进行进一步分析。",
+      "$keywords": [
+        "JSON",
+        "值",
+        "提取",
+        "解析",
+        "数据",
+        "操作",
+        "API",
+        "响应",
+        "格式"
+      ]
+    },
+    "zh-tw": {
+      "$name": "提取 JSON 值",
+      "$description": "提取 JSON 值工具是一個強大的數據提取工具，允許用戶從 JSON 數據結構中提取特定的值。通過其直觀的界面和高級的過濾選項，用戶可以輕鬆提取所需的數據並以各種格式保存以進行進一步分析。",
+      "$keywords": [
+        "JSON",
+        "值",
+        "提取",
+        "解析",
+        "數據",
+        "操作",
+        "API",
+        "響應",
+        "格式"
+      ]
+    },
+    "es": {
+      "$name": "Extracción de valores JSON",
+      "$description": "La herramienta de Extracción de valores JSON es una poderosa herramienta de extracción de datos que permite a los usuarios extraer valores específicos de estructuras de datos JSON. Con su interfaz intuitiva y opciones avanzadas de filtrado, los usuarios pueden extraer fácilmente los datos que necesitan y guardarlos en una variedad de formatos para su posterior análisis.",
+      "$keywords": [
+        "JSON",
+        "valores",
+        "extracción",
+        "análisis",
+        "datos",
+        "manipulación",
+        "API",
+        "respuesta",
+        "formato"
+      ]
+    },
+    "ja": {
+      "$name": "JSON値の抽出",
+      "$description": "JSON値の抽出ツールは、JSONデータ構造から特定の値を抽出することができる強力なデータ抽出ツールです。直感的なインターフェースと高度なフィルタリングオプションにより、ユーザーは必要なデータを簡単に抽出して、さまざまな形式で保存してさらなる分析に利用できます。",
+      "$keywords": [
+        "JSON",
+        "値",
+        "抽出",
+        "解析",
+        "データ",
+        "操作",
+        "API",
+        "レスポンス",
+        "形式"
+      ]
+    },
+    "ko": {
+      "$name": "JSON 값 추출",
+      "$description": "JSON 값 추출 도구는 사용자가 JSON 데이터 구조에서 특정 값을 추출할 수 있는 강력한 데이터 추출 도구입니다. 직관적인 인터페이스와 고급 필터링 옵션으로 사용자는 필요한 데이터를 쉽게 추출하고 추가 분석을 위해 다양한 형식으로 저장할 수 있습니다.",
+      "$keywords": [
+        "JSON",
+        "값",
+        "추출",
+        "파싱",
+        "데이터",
+        "조작",
+        "API",
+        "응답",
+        "형식"
+      ]
+    },
+    "de": {
+      "$name": "JSON-Werte extrahieren",
+      "$description": "Das Extract JSON Values-Tool ist ein leistungsstarkes Datenextraktions-Tool, mit dem Benutzer spezifische Werte aus JSON-Datenstrukturen extrahieren können. Mit seiner intuitiven Benutzeroberfläche und fortschrittlichen Filteroptionen können Benutzer die benötigten Daten einfach extrahieren und in verschiedenen Formaten für weitere Analysen speichern.",
+      "$keywords": [
+        "JSON",
+        "Werte",
+        "Extrahieren",
+        "Parsing",
+        "Daten",
+        "Manipulation",
+        "API",
+        "Antwort",
+        "Format"
+      ]
+    },
+    "fr": {
+      "$name": "Extraction de valeurs JSON",
+      "$description": "L'outil d'extraction de valeurs JSON est un puissant outil d'extraction de données qui permet aux utilisateurs d'extraire des valeurs spécifiques à partir de structures de données JSON. Avec son interface intuitive et ses options de filtrage avancées, les utilisateurs peuvent facilement extraire les données dont ils ont besoin et les enregistrer dans une variété de formats pour une analyse ultérieure.",
+      "$keywords": [
+        "JSON",
+        "valeurs",
+        "extraction",
+        "analyse",
+        "manipulation",
+        "API",
+        "réponse",
+        "format"
+      ]
+    },
+    "it": {
+      "$name": "Estrai Valori JSON",
+      "$description": "Lo strumento Estrai Valori JSON è un potente strumento di estrazione dati che consente agli utenti di estrarre valori specifici dalle strutture dati JSON. Con la sua interfaccia intuitiva e le opzioni di filtraggio avanzate, gli utenti possono facilmente estrarre i dati di cui hanno bisogno e salvarli in una varietà di formati per ulteriori analisi.",
+      "$keywords": [
+        "JSON",
+        "valori",
+        "estrazione",
+        "parsing",
+        "dati",
+        "manipolazione",
+        "API",
+        "risposta",
+        "formato"
+      ]
+    },
+    "ru": {
+      "$name": "Извлечение значений JSON",
+      "$description": "Инструмент Extract JSON Values - это мощный инструмент для извлечения данных, который позволяет пользователям извлекать конкретные значения из структур данных JSON. Благодаря интуитивно понятному интерфейсу и продвинутым опциям фильтрации, пользователи могут легко извлекать необходимые данные и сохранять их в различных форматах для дальнейшего анализа.",
+      "$keywords": [
+        "JSON",
+        "значения",
+        "извлечение",
+        "парсинг",
+        "данные",
+        "манипуляция",
+        "API",
+        "ответ",
+        "формат"
+      ]
+    },
+    "pt": {
+      "$name": "Extrair Valores JSON",
+      "$description": "A ferramenta Extrair Valores JSON é uma poderosa ferramenta de extração de dados que permite aos usuários extrair valores específicos de estruturas de dados JSON. Com sua interface intuitiva e opções avançadas de filtragem, os usuários podem facilmente extrair os dados de que precisam e salvá-los em uma variedade de formatos para análise posterior.",
+      "$keywords": [
+        "JSON",
+        "valores",
+        "extração",
+        "parsing",
+        "dados",
+        "manipulação",
+        "API",
+        "resposta",
+        "formato"
+      ]
+    },
+    "en": {
+      "$name": "Extract JSON Values",
+      "$description": "The Extract JSON Values tool is a powerful data extraction tool that allows users to extract specific values from JSON data structures. With its intuitive interface and advanced filtering options, users can easily extract the data they need and save it in a variety of formats for further analysis.",
+      "$keywords": [
+        "JSON",
+        "values",
+        "extract",
+        "parsing",
+        "data",
+        "manipulation",
+        "API",
+        "response",
+        "format"
+      ]
+    }
+  },
+  {
+    "zh-cn": {
+      "$name": "JSON 反转义",
+      "$description": "Json反转义是一款基于Web的工具，允许用户取消转义JSON编码的字符串，将特殊字符转换回其原始形式。该工具特别适用于使用JSON数据的开发人员，需要解码转义字符以便更容易地阅读和操作。",
+      "$keywords": [
+        "json",
+        "反转义",
+        "转义",
+        "特殊字符",
+        "反斜杠",
+        "双引号",
+        "单引号",
+        "正斜杠",
+        "Unicode"
+      ]
+    },
+    "zh-tw": {
+      "$name": "Json 反斜線字元還原",
+      "$description": "Json 反斜線字元還原是一個基於網頁的工具，允許使用者將 JSON 編碼的字串還原，將特殊字元轉換回其原始形式。此工具對於使用 JSON 資料的開發人員特別有用，因為他們需要解碼逸出字元以便更容易閱讀和操作。",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "特殊字元",
+        "反斜線",
+        "雙引號",
+        "單引號",
+        "斜線",
+        "unicode"
+      ]
+    },
+    "es": {
+      "$name": "Json Unescape",
+      "$description": "Json Unescape es una herramienta basada en la web que permite a los usuarios desescapar cadenas codificadas en JSON, convirtiendo los caracteres especiales a su forma original. Esta herramienta es particularmente útil para desarrolladores que trabajan con datos JSON y necesitan decodificar caracteres escapados para una lectura y manipulación más fácil.",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "caracteres especiales",
+        "barra invertida",
+        "comillas dobles",
+        "comillas simples",
+        "barra diagonal",
+        "unicode"
+      ]
+    },
+    "ja": {
+      "$name": "Json Unescape",
+      "$description": "Json Unescapeは、Webベースのツールで、ユーザーがJSONエンコードされた文字列をアンエスケープして、特殊文字を元の形式に変換することができます。このツールは、JSONデータで作業する開発者がエスケープされた文字をデコードして読みやすく操作しやすくするために特に役立ちます。",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "special characters",
+        "backslash",
+        "double quotes",
+        "single quotes",
+        "forward slash",
+        "unicode"
+      ]
+    },
+    "ko": {
+      "$name": "Json Unescape",
+      "$description": "Json Unescape은 웹 기반 도구로, 특수 문자를 원래 형태로 변환하여 JSON 인코딩 된 문자열을 언스케이프 할 수 있습니다. 이 도구는 JSON 데이터를 다루는 개발자들이 이스케이프된 문자를 해독하여 더 쉽게 읽고 조작할 수 있도록 도와줍니다.",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "special characters",
+        "backslash",
+        "double quotes",
+        "single quotes",
+        "forward slash",
+        "unicode"
+      ]
+    },
+    "de": {
+      "$name": "Json Unescape",
+      "$description": "Json Unescape ist ein webbasiertes Tool, das Benutzern ermöglicht, JSON-codierte Zeichenfolgen zu entschlüsseln und Sonderzeichen in ihre ursprüngliche Form zurückzuwandeln. Dieses Tool ist besonders nützlich für Entwickler, die mit JSON-Daten arbeiten und escape-Zeichen für eine einfachere Lesbarkeit und Manipulation entschlüsseln müssen.",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "Sonderzeichen",
+        "Backslash",
+        "doppelte Anführungszeichen",
+        "einfache Anführungszeichen",
+        "Schrägstrich",
+        "Unicode"
+      ]
+    },
+    "fr": {
+      "$name": "Json Unescape",
+      "$description": "Json Unescape est un outil basé sur le web qui permet aux utilisateurs de déséchapper les chaînes encodées en JSON, convertissant les caractères spéciaux en leur forme originale. Cet outil est particulièrement utile pour les développeurs travaillant avec des données JSON qui ont besoin de décoder les caractères échappés pour une lecture et une manipulation plus facile.",
+      "$keywords": [
+        "json",
+        "déséchapper",
+        "échapper",
+        "caractères spéciaux",
+        "barre oblique inverse",
+        "guillemets doubles",
+        "guillemets simples",
+        "barre oblique",
+        "unicode"
+      ]
+    },
+    "it": {
+      "$name": "Json Unescape",
+      "$description": "Json Unescape è uno strumento basato sul web che consente agli utenti di de-escape delle stringhe codificate in JSON, convertendo i caratteri speciali nella loro forma originale. Questo strumento è particolarmente utile per gli sviluppatori che lavorano con dati JSON e che hanno bisogno di decodificare i caratteri escape per una maggiore leggibilità e manipolazione.",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "caratteri speciali",
+        "backslash",
+        "doppie virgolette",
+        "virgolette singole",
+        "slash",
+        "unicode"
+      ]
+    },
+    "ru": {
+      "$name": "Json Unescape",
+      "$description": "Json Unescape - это веб-инструмент, который позволяет пользователям отменять экранирование строк, закодированных в формате JSON, преобразуя специальные символы обратно в их исходную форму. Этот инструмент особенно полезен для разработчиков, работающих с данными JSON, которым нужно декодировать экранированные символы для удобства чтения и манипулирования.",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "специальные символы",
+        "обратный слеш",
+        "двойные кавычки",
+        "одинарные кавычки",
+        "прямой слеш",
+        "unicode"
+      ]
+    },
+    "pt": {
+      "$name": "Json Unescape",
+      "$description": "Json Unescape é uma ferramenta baseada na web que permite aos usuários desescapar strings codificadas em JSON, convertendo caracteres especiais de volta para sua forma original. Esta ferramenta é particularmente útil para desenvolvedores que trabalham com dados JSON e precisam decodificar caracteres escapados para facilitar a legibilidade e manipulação.",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "caracteres especiais",
+        "barra invertida",
+        "aspas duplas",
+        "aspas simples",
+        "barra para frente",
+        "unicode"
+      ]
+    },
+    "en": {
+      "$name": "JSON Unescape",
+      "$description": "Json Unescape is a web-based tool that allows users to unescape JSON-encoded strings, converting special characters back to their original form. This tool is particularly useful for developers working with JSON data who need to decode escaped characters for easier readability and manipulation.",
+      "$keywords": [
+        "json",
+        "unescape",
+        "escape",
+        "special characters",
+        "backslash",
+        "double quotes",
+        "single quotes",
+        "forward slash",
+        "unicode"
+      ]
+    },
+    "id": "json-unescape"
   }
 ]
