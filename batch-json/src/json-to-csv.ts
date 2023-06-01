@@ -3,5 +3,5 @@ import register from './utils/register';
 
 export default register({
   inputHandler: revert,
-  lang: 'XML',
+  lang: 'CSV',
 });

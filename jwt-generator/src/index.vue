@@ -5,7 +5,7 @@
         <div class="left">
           <div class="header">{{ t('InputPayload') }}</div>
           <div class="content">
-            <h-kv-input :model-value="payload" mode="list" @change="handleChange" />
+            <h-kv-input :model-value="payload" mode="json" @change="handleChange" />
           </div>
         </div>
         <div class="right">
@@ -21,13 +21,13 @@
       <div>
         <a-space>
           <div>{{ t('Algorithm') }}:</div>
-          <h-radio v-model:value="algorithm" :save-options="{key:'algorithm', autoSave: true}">
+          <h-radio v-model:value="algorithm" :save-options="{ key: 'algorithm', autoSave: true }">
             <a-radio-button v-for="item in symOptions" :key="item" :value="item">
               {{ item }}
             </a-radio-button>
           </h-radio>
           {{ t('more') }}:
-          <h-select style="width: 200px" @change="handleSelectChange" :save-options="{key:'asymOptions', autoSave: true}">
+          <h-select style="width: 200px" @change="handleSelectChange" :save-options="{ key: 'asymOptions', autoSave: true }">
             <a-select-option v-for="item in asymOptions" :key="item" :value="item" />
           </h-select>
         </a-space>
@@ -92,16 +92,20 @@ const asymOptions = computed(() => {
 });
 
 const jwtResult = computed(() => {
+  const header = {
+    alg: algorithm.value,
+    typ: 'JWT'
+  }
   try {
     const res = $he3.getJwtToken(payload.value, secretKey.value, {
-      algorithm: algorithm.value,
+      header
     });
     return res;
   } catch (error) {
     console.error(error);
   }
 });
-
+//监控哈希算法
 watch(algorithm, (value) => {
   if (value.includes('HS')) {
     isSym.value = true;
@@ -123,9 +127,8 @@ function handleChange(obj: Record<string, string>[]) {
     if (cur.key === '') {
       return total;
     }
-
     return Object.assign(total, {
-      [cur.key]: isNaN(cur.value) ? cur.value : Number.parseInt(cur.value),
+      [cur.key]: isNaN(parseInt(cur.value)) ? cur.value : cur.value,
     });
   }, {});
   payload.value = JSON.stringify(mergeResult, null, 4);
@@ -135,6 +138,7 @@ function handleChange(obj: Record<string, string>[]) {
 <style lang="less" scoped>
 @label-font-weight: 700;
 @header-height: 36px;
+
 .jwt-generate {
   .top {
     display: flex;

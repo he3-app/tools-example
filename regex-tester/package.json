@@ -28,7 +28,7 @@
       "Replace Result",
       "Visual Image"
     ],
-    "relatedToolId": []
+    "relatedToolId": ["regex-reference"]
   },
   "dependencies": {
     "@he3-kit/utils": "latest",

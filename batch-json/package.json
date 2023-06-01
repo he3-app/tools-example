@@ -106,7 +106,7 @@
         "newline",
         "tab"
       ],
-      "relatedToolId": []
+      "relatedToolId": ["json-escape"]
     },
     {
       "id": "json-escape",
@@ -128,7 +128,7 @@
         "json formatter",
         "json validator"
       ],
-      "relatedToolId": []
+      "relatedToolId": ["json-unescape"]
     },
     {
       "id": "properties-to-json",
@@ -343,14 +343,13 @@
     },
     {
       "id": "json-to-c0-class",
-      "version": "1.0.7",
+      "version": "1.0.9",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
         "json"
       ],
       "relatedToolId": [
-        "yaml-to-c0-class"
       ],
       "name": "JSON to C# Class",
       "description": "JSON to C# Class Tool is a tool used to convert JSON data to C# types. It can convert the input JSON data to C# types and display the converted code in the tool's output area.\n\nFeatures:\n\n1. Paste or input JSON data into the tool.\n\n2. The tool will automatically convert the input JSON data to C# types.\n\n3. The converted C# code will be displayed in the tool's output area.\n\n4. The tool supports copying the converted code to the clipboard, making it easy for users to paste it directly into a code editor.\n\nUse cases:\n\n1. API development and testing: When developing or testing APIs, developers often need to convert the returned JSON data to C# types. Using the JSON to C# Class tool can quickly convert JSON data to C# types, making it easier for developers to use.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can convert JSON data to C# types, which helps them better understand the data structure and content.\n\n3. Code generation: When writing C# code, developers need to define various classes and data structures. Using the JSON to C# Class tool, developers can quickly generate C# type code, improving development efficiency.\n\n4. JSON data review: During code review, reviewers can use the JSON to C# Class tool to convert JSON data to C# types, making it easier to view and understand the data structure.",

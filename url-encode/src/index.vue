@@ -48,7 +48,7 @@ const inputValue = ref(
   'https://he3.app?name=He3 Application&platform="apple,windows"'
 );
 const outputValue = ref("");
-const option = ref("uri");
+const option = ref("uriComponent");
 
 const encode = () => {
   try {
