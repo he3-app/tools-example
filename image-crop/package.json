@@ -10,7 +10,7 @@
     "id": "image-crop",
     "name": "Image Cropping",
     "icon": "file-image-outlined",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "isPublic": true,
     "repository": "",
     "category": [
