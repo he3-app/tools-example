@@ -89,8 +89,9 @@ async function publish() {
         console.log('版本不等，开始构建');
         try {
           res = await execSync(
-            'npm install --registry=https://registry.npm.taobao.org && ' +
-              'npm update --registry=https://registry.npm.taobao.org && ' +
+              // --registry=https://registry.npm.taobao.org
+            'npm install && ' +
+              'npm update && ' +
               `npm run publish -- --token=${he3Token} --url=${baseUrl}`,
             { cwd: folderPath, stdio: 'inherit' }
           );
