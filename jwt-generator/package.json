@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "scripts": {
     "dev": "he3 dev",
     "i18n": "he3 i18n",
@@ -42,6 +41,7 @@
     ]
   },
   "dependencies": {
+    "jsonwebtoken": "^9.0.0",
     "vue": "^3.2.45",
     "vue-i18n": "^9.2.2"
   },
