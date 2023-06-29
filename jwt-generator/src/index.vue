@@ -4,7 +4,9 @@
       <div class="top">
         <div class="left">
           <div class="header">{{ t('InputPayload') }}</div>
-          <div class="content">
+          <div class="content"
+               :style="`max-width: ${width}px`"
+          >
             <h-kv-input :model-value="payload" mode="list" @change="handleChange" />
           </div>
         </div>
@@ -53,7 +55,7 @@
 </template>
 
 <script lang="ts" setup>
-import { computed, ref, watch } from 'vue';
+import {computed, onMounted, ref, watch} from 'vue';
 import { useI18n } from 'vue-i18n';
 import { Algorithms, defaultTokens } from './const';
 
@@ -73,6 +75,14 @@ const asymSelect = ref();
 const algorithm = ref(Algorithms.HS256);
 const isSym = ref<boolean>(true);
 const jwtResult = ref("");
+
+const width = ref(document.documentElement.clientWidth / 2 - 30)
+
+onMounted(() => {
+  window.addEventListener('resize', () => {
+    width.value = document.documentElement.clientWidth / 2 - 30;
+  })
+})
 
 const symOptions = computed(() => {
   const res = [];
@@ -149,6 +159,10 @@ function handleChange(obj: Record<string, string>[]) {
       .header {
         font-weight: @label-font-weight;
         margin-bottom: 10px;
+      }
+
+      .content{
+        overflow-y: scroll;
       }
     }
 
