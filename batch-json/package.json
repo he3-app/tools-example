@@ -838,7 +838,7 @@
     },
     {
       "id": "json-to-minify",
-      "version": "1.0.9",
+      "version": "1.1.0",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
