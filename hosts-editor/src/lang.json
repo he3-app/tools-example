@@ -2,8 +2,18 @@
   "zh": {
     "editingHosts": "正在编辑文件：",
     "apply": "应用",
+    "save":"保存",
+    "saveSuccess": "保存成功",
     "applySuccess": "应用成功",
-    "applyFailed": "应用失败"
+    "applyFailed": "应用失败",
+    "deleteMsg":"删除成功",
+    "addMsg":"新增",
+    "addSuccessMsg":"新增成功",
+    "modelMsg":"请为新建文件命名:",
+    "warnMsg":"您还未给文件命名",
+    "addFileText":"新建文件",
+    "confirm":"确定",
+    "cancel":"取消"
   },
   "en": {
     "editingHosts": "Editing hosts file:",

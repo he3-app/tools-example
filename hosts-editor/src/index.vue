@@ -1,66 +1,261 @@
 <template>
-  <h-single-layout :max-width="700" class="hosts-editor">
-    <a-row type="flex" justify="space-between" align="bottom">
-      <a-col>
-        <a-typographyText type="secondary">
-          {{ `${t('editingHosts')} ${hostsPath}` }}
-        </a-typographyText>
-      </a-col>
-      <a-col>
-        <a-formItem>
-          <a-button type="primary" :disabled="saveBtnDisabled" :loading="saveLoading" @click="save">
-            {{ t('apply') }}
+  <div class="box">
+    <div class="title">{{ itemObj.title }}</div>
+    <div class="content">
+      <div class="list">
+        <a-list item-layout="horizontal" :data-source="listDate">
+          <template #renderItem="{ item, index }">
+            <a-list-item
+              class="normal"
+              :class="{ bgColor: item.key == selListItem }"
+              @click="selListItemObj(item.key)"
+            >
+              <span
+                ><desktop-outlined
+                  v-if="index == 0"
+                  style="margin-right: 5px"
+                /><file-text-outlined v-else style="margin-right: 5px" />{{
+                  item.title
+                }}
+              </span>
+              <div class="delete" v-if="index != 0">
+                <delete-outlined @click.stop="deleteAll(item.key)" />
+              </div>
+            </a-list-item>
+          </template>
+          <div class="add">
+            <a-button
+              type="primary"
+              @click="addFile"
+              block
+              :icon="h(PlusOutlined)"
+              >{{ t("addMsg") }}</a-button
+            >
+          </div>
+        </a-list>
+      </div>
+      <div class="hosts-editor">
+        <div class="btns">
+          <a-button
+            type="primary"
+            :loading="saveLoading"
+            @click="applyHost"
+            style="margin-left: 30px"
+          >
+            {{ t("apply") }}
           </a-button>
-        </a-formItem>
-      </a-col>
-    </a-row>
-    <h-code-editor v-model="hosts" :save-options="{autoSave: true, key: 'hosts-editor-h-code-editor'}" style="height: 700px" :lang="'SHELL'" />
-  </h-single-layout>
+          <a-button
+            type="primary"
+            :loading="saveLoading"
+            @click="saveHost"
+            style="margin-left: 30px"
+          >
+            {{ t("save") }}
+          </a-button>
+        </div>
+        <h-code-editor v-model="itemObj.content" :lang="'SHELL'" />
+      </div>
+    </div>
+    <a-modal
+      v-model:visible="visible"
+      :title="t('addFileText')"
+      @ok="confirm"
+      :ok-text="t('confirm')"
+      :cancel-text="t('cancel')"
+      @cancel="handleCancel"
+    >
+      <div>
+        <span>{{ t("modelMsg") }}</span>
+        <h-input v-model:value="nameMsg" autoSelect />
+      </div>
+    </a-modal>
+  </div>
 </template>
-<script setup lang="ts">
-import { computed, onMounted, ref } from 'vue';
-import { useI18n } from 'vue-i18n';
-import messages from './lang.json';
+<script setup>
+import { computed, onMounted, ref, watch } from "vue";
+import { useI18n } from "vue-i18n";
+import { h } from "vue";
+import messages from "./lang.json";
+import {
+  DeleteOutlined,
+  PlusOutlined,
+  DesktopOutlined,
+  FileTextOutlined,
+} from "@ant-design/icons-vue";
 const { t } = useI18n({
   locale: window.$he3.lang,
   messages,
 });
-
+const selListItem = ref(0);
+const visible = ref(false);
+const hosts = ref("");
+let nameMsg = ref("");
+let saveDate = ref([]);
+let maxKey = ref(0);
 const getSystemHosts = async function () {
-  const { content, readonly: fileReadonly, path } = await window.$he3.getSystemHosts();
+  const {
+    content,
+    readonly: fileReadonly,
+    path,
+  } = await window.$he3.getSystemHosts();
   hosts.value = content;
-  rawHosts.value = content;
+  listDate.value[0].content = content;
   hostsReadonly.value = fileReadonly;
   hostsPath.value = path;
 };
-
-const hosts = ref('');
-const rawHosts = ref('');
 const hostsReadonly = ref(false);
-const hostsPath = ref('');
-onMounted(() => {
+const hostsPath = ref("");
+const listDate = ref([
+  {
+    key: 0,
+    title: "系统Hosts",
+    content: hosts.value,
+  },
+]);
+onMounted(async () => {
   getSystemHosts();
+  const previewerValue = JSON.parse(await $he3.getToolOptions());
+  saveDate.value = [...JSON.parse(previewerValue.content)];
+  listDate.value = [...listDate.value, ...saveDate.value];
+  let arr = listDate.value.map((item) => {
+    return item.key;
+  });
+  maxKey.value = arr.reduce((a, b) => Math.max(a, b), -Infinity);
 });
 
-const saveBtnDisabled = computed(() => hosts.value === rawHosts.value);
+const itemObj = computed(() =>
+  listDate.value.find((item) => {
+    return item.key == selListItem.value;
+  })
+);
 const saveLoading = ref(false);
-const saveHosts = function () {
+function saveHost() {
+  saveDate.value.push(itemObj.value);
+  console.log(saveDate.value);
+  window.$he3.uploadToolOptions({
+    id: window.$he3.toolId,
+    options: {
+      test: "saveDate",
+      content: JSON.stringify(saveDate.value)
+    },
+  });
+  window.$he3.message.success(t("saveSuccess"));
+}
+const applyHost = function () {
   saveLoading.value = true;
   window.$he3
-    .setSystemHosts(hosts.value)
+    .setSystemHosts(itemObj.value.content)
     .then((res) => {
-      rawHosts.value = res.newContent;
-      window.$he3.message.success(t('applySuccess'));
+      window.$he3.message.success(t("applySuccess"));
     })
     .catch((err) => {
-      console.log('err', err);
-      window.$he3.message.error(t('applyFailed'));
+      console.log("err", err);
+      window.$he3.message.error(t("applyFailed"));
     })
     .finally(() => {
       saveLoading.value = false;
     });
 };
-const save = function () {
-  saveHosts();
-};
+// 对当前的对象进行标记绑定
+function selListItemObj(key) {
+  selListItem.value = key;
+}
+watch(selListItem, (newX) => {
+  selListItem.value = newX;
+});
+function deleteAll(val) {
+  let index = listDate.value.findIndex((item) => {
+    return item.key == val;
+  });
+  listDate.value = listDate.value.filter((item) => {
+    return item.key != val;
+  });
+  (selListItem.value = listDate.value[index - 1].key),
+    window.$he3.message.success(t("deleteMsg"));
+}
+function addFile() {
+  visible.value = true;
+}
+function handleCancel() {
+  visible.value = false;
+  nameMsg.value = "";
+}
+function confirm() {
+  if (nameMsg.value == "") {
+    window.$he3.message.warning(t("warnMsg"));
+  } else {
+    let newDate = {
+      // key: listDate.value[listDate.value.length - 1].key + 1,
+      key:maxKey.value+1,
+      title: nameMsg.value,
+      content: "",
+    };
+    maxKey.value+=1
+    listDate.value = [...listDate.value, newDate];
+    selListItem.value = newDate.key;
+    visible.value = false;
+    nameMsg.value = "";
+    window.$he3.message.success(t("addSuccessMsg"));
+  }
+}
 </script>
+<style lang="less" scoped>
+.box {
+  height: calc(100% - 50px);
+  max-width: 1226px;
+  width: 100%;
+  padding: 0 5%;
+  .title {
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    border: 2px solid #ccc;
+  }
+  .content {
+    display: flex;
+    height: calc(100% - 34px);
+    .list {
+      width: 300px;
+      min-width: 250px;
+      border-radius: 5px;
+      font-weight: bolder;
+      height: 100%;
+      overflow: auto;
+      background-color: #edeaf1;
+      :deep(.ant-list-items:nth-child(1)) {
+        margin-top: 4%;
+      }
+      :deep(.ant-list-items) {
+        padding: 0 10px;
+        li {
+          padding: 10px;
+        }
+      }
+      .normal {
+        background-color: #f2f1f6;
+        border-radius: 5px;
+        margin-bottom: 5px;
+      }
+      .add {
+        width: 100%;
+        padding: 0 10px;
+        font-weight: bold;
+      }
+    }
+    .hosts-editor {
+      max-width: 700px;
+      min-width: 650px;
+      flex: 1;
+      margin-left: 5%;
+      margin-top: 1%;
+      .btns {
+        margin-bottom: 1%;
+      }
+    }
+  }
+}
+.bgColor {
+  background-color: #ccdef6 !important;
+}
+</style>
