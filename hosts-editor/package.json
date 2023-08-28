@@ -10,7 +10,7 @@
     "id": "hosts-editor",
     "name": "Hosts Editor",
     "icon": "wifi-outlined",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/hosts-editor",
     "category": [
@@ -47,6 +47,7 @@
     ]
   },
   "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
     "vue": "^3.2.45",
     "vue-i18n": "^9.2.2"
   },
