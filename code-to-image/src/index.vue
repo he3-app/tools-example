@@ -31,7 +31,7 @@
         </span>
 
         <LangSelect v-model="lang" />
-        <div style="min-width: 70px">
+        <div style="min-width: 70px;padding-left: 30px;">
           {{ t('fileName') }}
         </div>
         <h-input v-model:value="picName" :placeholder="``" :save-options="{autoSave: true, key: 'picName'}"  style="min-width: 100px" />
@@ -76,6 +76,7 @@ const langMap = new Map([
   ['CPP', 'cpp'],
   ['CSHARP', 'cs'],
   ['CSS', 'css'],
+  ['CRYSTAL', 'cr'],
   ['DART', 'dart'],
   ['ELM', 'ELM'],
   ['GO', 'go'],
@@ -84,7 +85,7 @@ const langMap = new Map([
   ['JAVA', 'java'],
   ['JAVASCRIPT', 'js'],
   ['JSON', 'json'],
-  ['JSX', 'tsx'],
+  ['JSX', 'jsx'],
   ['KOTLIN', 'kt'],
   ['LUA', 'lua'],
   ['MARKDOWN', 'md'],
@@ -97,8 +98,10 @@ const langMap = new Map([
   ['SHELL', 'sh'],
   ['SQL', 'sql'],
   ['SWIFT', 'swift'],
+  ['SCALA', 'scala'],
   ['TSX', 'tsx'],
   ['TYPESCRIPT', 'ts'],
+  ['TOML', 'toml'],
   ['WEB_ASSEMBLY', 'WASM'],
   ['XML', 'xml'],
   ['YAML', 'yml'],
@@ -199,7 +202,7 @@ onMounted(async () => {
   .settings-content {
     position: absolute;
     z-index: 1;
-    bottom: 20px;
+    top: 620px;
     left: 50%;
     transform: translateX(-50%);
     padding: 10px 20px;
