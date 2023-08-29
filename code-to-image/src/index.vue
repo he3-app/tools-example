@@ -2,8 +2,8 @@
   <h-single-layout mode="middle" :width="1280" class="layout">
     <div class="code-to-image-wrap">
       <div class="frame-wrap">
-        <div ref="pictureRef" class="frame-container">
-          <div class="frame">
+        <div ref="pictureRef" class="frame-container" :class="{bgColorNone:!checked}">
+          <div class="frame" :class="{bgColor:themeResult!='ONE_DARK'}">
             <div class="frame-head">
               <div class="controls">
                 <div class="btn close" />
@@ -18,180 +18,225 @@
                 style="color: #ccc"
               />
             </div>
-            <h-code-editor v-model="originalCode" :lang="lang" theme="ONE_DARK" />
+            <h-code-editor
+              v-model="originalCode"
+              :lang="lang"
+              :theme="themeResult"
+            />
           </div>
         </div>
       </div>
     </div>
-   
-    <div class="settings-content">
-      <a-space>
-        <span style="white-space: nowrap">
-          {{ t('language') }}
-        </span>
 
-        <LangSelect v-model="lang" />
-        <div style="min-width: 70px;padding-left: 30px;">
-          {{ t('fileName') }}
+
+    <div class="settings-content">
+      <div class="setting">
+        <div class="item">
+          <div class="left">
+            <span>background</span
+            ><h-switch
+              v-model:checked="checked"
+              :save-options="{ autoSave: true, key: 'checked' }"
+            />
+          </div>
+          <div class="right">
+            <span>Dark mode</span
+            ><h-switch
+              v-model:checked="dark"
+              :save-options="{ autoSave: true, key: 'checked' }"
+            />
+          </div>
         </div>
-        <h-input v-model:value="picName" :placeholder="``" :save-options="{autoSave: true, key: 'picName'}"  style="min-width: 100px" />
-        <h-select v-model:value="chosenPicType" :save-options="{autoSave: true, key: 'chosenPicType'}"  style="width: 90px">
-          <a-select-option v-for="(v, k, i) in PicType" :key="i" :value="v">
-            {{ k }}
-          </a-select-option>
-        </h-select>
-        <a-button type="primary" @click="download">
-          {{ t('saveAsFile') }}
-        </a-button>
-      </a-space>
+        <div class="item">
+          <span>
+            {{ t("language") }}
+          </span>
+          <LangSelect v-model="lang" />
+        </div>
+        <div class="item">
+          <span> {{ t("fileName") }}</span>
+          <h-input
+            v-model:value="picName"
+            :placeholder="``"
+            :save-options="{ autoSave: true, key: 'picName' }"
+            style="max-width: 80px"
+          />
+        </div>
+        <div class="item">
+          <h-select
+            v-model:value="chosenPicType"
+            :save-options="{ autoSave: true, key: 'chosenPicType' }"
+            style="max-width: 90px; margin-right: 8px"
+          >
+            <a-select-option v-for="(v, k, i) in PicType" :key="i" :value="v">
+              {{ k }}
+            </a-select-option>
+          </h-select>
+          <a-button type="primary" @click="download">
+            {{ t("saveAsFile") }}
+          </a-button>
+        </div>
+      </div>
     </div>
+
   </h-single-layout>
 </template>
 
 <script setup lang="ts">
-import { onMounted, ref, watch } from 'vue';
-import { toJpeg, toPng, toSvg } from 'html-to-image';
-import { useI18n } from 'vue-i18n';
-import { InitialCode } from './constants';
-import LangSelect from './components/LangSelect.vue';
-import { CodeEditorLanguagesDisplayName } from './components/constants';
-import messages from './lang.json';
-import type { CodeEditorLanguagesUnion } from './components/constants';
+import { onMounted, ref, watch,computed } from "vue";
+import { toJpeg, toPng, toSvg } from "html-to-image";
+import { useI18n } from "vue-i18n";
+import { InitialCode } from "./constants";
+import LangSelect from "./components/LangSelect.vue";
+import { CodeEditorLanguagesDisplayName } from "./components/constants";
+import messages from "./lang.json";
+import type { CodeEditorLanguagesUnion } from "./components/constants";
 
+
+const checked = ref<boolean>(false);
+const dark = ref<boolean>(false);
 const $he3 = window.$he3;
 const { t } = useI18n({
   locale: window.$he3.lang,
   messages,
 });
-
+const themeResult=computed(()=>{
+  return dark.value?"ONE_DARK":"GITHUB_LIGHT"
+})
 const pictureRef = ref<HTMLDivElement | null>(null);
 const textareaRef = ref<HTMLTextAreaElement | null>(null);
 const originalCode = ref(InitialCode);
-const picName = ref('');
-const title = ref('untitled.ts');
+const picName = ref("");
+const title = ref("untitled.ts");
 
-const lang = ref<CodeEditorLanguagesUnion>('TYPESCRIPT');
+const lang = ref<CodeEditorLanguagesUnion>("TYPESCRIPT");
 const langMap = new Map([
-  ['C', 'c'],
-  ['CPP', 'cpp'],
-  ['CSHARP', 'cs'],
-  ['CSS', 'css'],
-  ['CRYSTAL', 'cr'],
-  ['DART', 'dart'],
-  ['ELM', 'ELM'],
-  ['GO', 'go'],
-  ['HASKELL', 'hs'],
-  ['HTML', 'html'],
-  ['JAVA', 'java'],
-  ['JAVASCRIPT', 'js'],
-  ['JSON', 'json'],
-  ['JSX', 'jsx'],
-  ['KOTLIN', 'kt'],
-  ['LUA', 'lua'],
-  ['MARKDOWN', 'md'],
-  ['OBJECTIVE_C', 'm'],
-  ['PHP', 'php'],
-  ['PYTHON', 'py'],
-  ['R', 'r'],
-  ['RUBY', 'rb'],
-  ['RUST', 'rs'],
-  ['SHELL', 'sh'],
-  ['SQL', 'sql'],
-  ['SWIFT', 'swift'],
-  ['SCALA', 'scala'],
-  ['TSX', 'tsx'],
-  ['TYPESCRIPT', 'ts'],
-  ['TOML', 'toml'],
-  ['WEB_ASSEMBLY', 'WASM'],
-  ['XML', 'xml'],
-  ['YAML', 'yml'],
+  ["C", "c"],
+  ["CPP", "cpp"],
+  ["CSHARP", "cs"],
+  ["CSS", "css"],
+  ["CRYSTAL", "cr"],
+  ["DART", "dart"],
+  ["ELM", "ELM"],
+  ["GO", "go"],
+  ["HASKELL", "hs"],
+  ["HTML", "html"],
+  ["JAVA", "java"],
+  ["JAVASCRIPT", "js"],
+  ["JSON", "json"],
+  ["JSX", "jsx"],
+  ["KOTLIN", "kt"],
+  ["LUA", "lua"],
+  ["MARKDOWN", "md"],
+  ["OBJECTIVE_C", "m"],
+  ["PHP", "php"],
+  ["PYTHON", "py"],
+  ["R", "r"],
+  ["RUBY", "rb"],
+  ["RUST", "rs"],
+  ["SHELL", "sh"],
+  ["SQL", "sql"],
+  ["SWIFT", "swift"],
+  ["SCALA", "scala"],
+  ["TSX", "tsx"],
+  ["TYPESCRIPT", "ts"],
+  ["TOML", "toml"],
+  ["WEB_ASSEMBLY", "WASM"],
+  ["XML", "xml"],
+  ["YAML", "yml"],
 ]);
 
 watch(originalCode, () => {
   if (textareaRef.value) {
-    textareaRef.value.style.height = 'auto';
+    textareaRef.value.style.height = "auto";
     textareaRef.value.style.height = `${textareaRef.value.scrollHeight}px`;
   }
 });
 
 watch(lang, () => {
-  const name = title.value.split('.')[0];
+  const name = title.value.split(".")[0];
   title.value = `${name}.${langMap.get(lang.value)}`;
 });
 
 const PicType = {
-  PNG: 'png',
-  WEBP: 'webp',
-  SVG: 'svg',
+  PNG: "png",
+  WEBP: "webp",
+  SVG: "svg",
 };
 const chosenPicType = ref(PicType.PNG);
 
 const download = () => {
   if (originalCode.value.length <= 0) {
-    $he3.message.warn('Please input your code first');
+    $he3.message.warn("Please input your code first");
     return;
   }
 
   const htmlToImage = {
-    [PicType.PNG]: toPng,
-    [PicType.WEBP]: toJpeg,
-    [PicType.SVG]: toSvg,
+
+[PicType.PNG]: toPng,
+[PicType.WEBP]: toJpeg,
+[PicType.SVG]: toSvg,
+
   };
 
   htmlToImage[chosenPicType.value](pictureRef.value as HTMLDivElement, {
     style: {
-      transform: 'scale(1)',
+      transform: "scale(1)",
     },
   })
     .then((dataUrl) => {
-      const link = document.createElement('a');
-      link.download = `${picName.value || 'code'}.${chosenPicType.value}`;
+      const link = document.createElement("a");
+      link.download = `${picName.value || "code"}.${chosenPicType.value}`;
       link.href = dataUrl;
       link.click();
     })
     .catch((err) => {
-      window.$he3.message.error('oops, something went wrong!');
+      window.$he3.message.error("oops, something went wrong!");
       console.error(err);
     });
 };
 // 自动回填
 onMounted(async () => {
   window.$he3.getLastClipboard().then(async (res) => {
-
-    if (res && typeof res === 'string' && res.length > 0) {
+    if (res && typeof res === "string" && res.length > 0) {
       const guessedLangs = await window.$he3.guessLang(res);
 
-      if (
-        guessedLangs &&
-        Array.isArray(guessedLangs) &&
-        guessedLangs.length > 0 &&
-        guessedLangs[0].confidence > 0.06 &&
-        guessedLangs[0].languageId &&
-        typeof guessedLangs[0].languageId === 'string'
-      ) {
-        // Accurate match.
-        let targetLang = Object.keys(CodeEditorLanguagesDisplayName).find(
-          (langName) => langName.toLowerCase() === (guessedLangs[0].languageId as string)
-        );
+     if (
+       guessedLangs &&
+       Array.isArray(guessedLangs) &&
+       guessedLangs.length > 0 &&
+       guessedLangs[0].confidence > 0.06 &&
+       guessedLangs[0].languageId &&
+       typeof guessedLangs[0].languageId === "string"
+     ) {
+       // Accurate match.
+       let targetLang = Object.keys(CodeEditorLanguagesDisplayName).find(
+         (langName) =>
+           langName.toLowerCase() === (guessedLangs[0].languageId as string)
+       );
 
-        // Fuzzy match.
-        if (!targetLang) {
-          targetLang = Object.keys(CodeEditorLanguagesDisplayName).find((langName) =>
-            new RegExp(langName, 'ig').test(guessedLangs[0].languageId as string)
-          );
-        }
+       // Fuzzy match.
+       if (!targetLang) {
+         targetLang = Object.keys(CodeEditorLanguagesDisplayName).find(
+           (langName) =>
+             new RegExp(langName, "ig").test(
+               guessedLangs[0].languageId as string
+             )
+         );
+       }
 
-        // console.log(targetLang)
-        if (targetLang) {
-          originalCode.value = res;
-          lang.value = targetLang as CodeEditorLanguagesUnion;
-          window.$he3.onUseClipboardValue();
-        }
-      }
-    }
+       // console.log(targetLang)
+       if (targetLang) {
+         originalCode.value = res;
+         lang.value = targetLang as CodeEditorLanguagesUnion;
+         window.$he3.onUseClipboardValue();
+       }
+     }
+   }
   });
 });
 </script>
+
 <style scoped lang="less">
 .layout {
   position: relative;
@@ -199,25 +244,47 @@ onMounted(async () => {
     height: 100%;
   }
 
+
   .settings-content {
     position: absolute;
     z-index: 1;
     top: 620px;
     left: 50%;
+    width: 55%;
+    min-width: 730px;
     transform: translateX(-50%);
     padding: 10px 20px;
     box-shadow: 1px 1px 8px 0;
     border: 1px solid transparent;
     border-radius: 8px;
     background-color: var(--primary-bg-color);
-    display: flex;
-    gap: 10px;
+    .setting {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      min-width: 700px;
+      flex-wrap: wrap;
+      .item {
+        width: 25%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        span {
+          padding-right: 6px;
+        }
+      }
+      .item:first-child{
+        .right{
+          margin-left: 5px;
+        }
+      }
+    }
   }
 }
 
-
 .code-to-image-wrap {
-  height: 90%;
+  height: 85%;
   overflow-y: scroll;
 
   .frame-wrap {
@@ -237,6 +304,9 @@ onMounted(async () => {
       rgba(255, 0, 168, 1) 91%
     );
   }
+  .bgColorNone {
+    background: none;
+  }
 
   .frame {
     background-color: #292c33;
@@ -248,35 +318,43 @@ onMounted(async () => {
       height: 32px;
       position: relative;
 
-      .controls {
-        position: absolute;
-        display: flex;
-        align-items: center;
-        margin-left: 9px;
-        margin-top: 9px;
-        width: 80px;
-        .btn.close {
-          background-color: #ec6a5e;
-        }
-        .btn.minimize {
-          background-color: #f4bf4f;
-        }
-        .btn.maximize {
-          background-color: #60c353;
-        }
+     .controls {
+       position: absolute;
+       display: flex;
+       align-items: center;
+       margin-left: 9px;
+       margin-top: 9px;
+       width: 80px;
+       .btn.close {
+         background-color: #ec6a5e;
+       }
+       .btn.minimize {
+         background-color: #f4bf4f;
+       }
+       .btn.maximize {
+         background-color: #60c353;
+       }
 
-        .btn {
-          width: 12px;
-          height: 12px;
-          border-radius: var(--border-radius-base);
-          margin-right: 8px;
-        }
-      }
-      .title {
-        width: 100%;
-        text-align: center;
-      }
-    }
+       .btn {
+         width: 12px;
+         height: 12px;
+         border-radius: var(--border-radius-base);
+         margin-right: 8px;
+       }
+     }
+     .title {
+       width: 100%;
+       text-align: center;
+     }
+   }
+  }
+  .bgColor{
+   background-color: #fff !important;
+  }
+}
+@media screen and (max-width: 770px){
+  .item{
+    width:20%;
   }
 }
 </style>
