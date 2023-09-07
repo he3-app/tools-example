@@ -202,7 +202,7 @@ function handleChange(obj: Record<string, string>[]) {
   align-items: center;
   justify-content: space-between;
   .secretKey{
-    width: 47%;
+    width: 49%;
     overflow: hidden;
   }
   //display: grid;
