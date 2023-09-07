@@ -198,8 +198,15 @@ function handleChange(obj: Record<string, string>[]) {
 }
 
 .asymSecret {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-column-gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .secretKey{
+    width: 47%;
+    overflow: hidden;
+  }
+  //display: grid;
+  //grid-template-columns: repeat(2, 1fr);
+  //grid-column-gap: 10px;
 }
 </style>
