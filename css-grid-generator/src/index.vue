@@ -274,8 +274,13 @@ function validateunit(
   width: 60px;
 }
 
+[mode="dark"] #gridContainer {
+  --gird-color: #eee;
+}
+
 #gridContainer {
-  border: 2px solid var(--primary-color);
+  --gird-color: blue;
+  border: 2px solid #ccc;
   width: 100%;
   height: 100%;
   position: relative;
@@ -289,7 +294,7 @@ function validateunit(
   display: grid;
   grid-auto-flow: row dense;
   div[class*='box'] {
-    border: 1px dotted var(--color-1);
+    border: 1px dotted var(--gird-color);
     display: flex;
     justify-content: center;
     align-items: center;
