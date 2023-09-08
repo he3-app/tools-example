@@ -53,7 +53,9 @@
             {{ t("save") }}
           </a-button>
         </div>
-        <h-code-editor v-model="itemObj.content" :lang="'SHELL'" />
+          <div class="code-editor">
+              <h-code-editor v-model="itemObj.content" :lang="'SHELL'" />
+          </div>
       </div>
     </div>
     <a-modal
@@ -238,17 +240,40 @@ function confirm() {
 }
 </script>
 <style lang="less" scoped>
+
+[mode="dark"] .box{
+  .title{
+    background: #4d4f5f;
+    border: 2px solid #4d4f5f;
+  }
+  .content{
+    .list{
+      background: #4d4f5f;
+      .normal{
+        border: 1px solid #292C38;
+        &.bgColor{
+          background: #292C38;
+        }
+      }
+    }
+  }
+}
+
 .box {
   height: calc(100% - 50px);
   max-width: 1226px;
   width: 100%;
   padding: 0 5%;
+  margin-top: 10px;
   .title {
     text-align: center;
     height: 50px;
     line-height: 50px;
     width: 100%;
-    border: 2px solid #ccc;
+    border: 2px solid #E6EDF2;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    background: #F4F8FB;
   }
   .content {
     display: flex;
@@ -256,11 +281,11 @@ function confirm() {
     .list {
       width: 300px;
       min-width: 250px;
-      border-radius: 5px;
+      border-radius: 6px;
       font-weight: bolder;
       height: 100%;
       overflow: auto;
-      background-color: #edeaf1;
+      background-color: #F4F8FB;
       :deep(.ant-list-items:nth-child(1)) {
         margin-top: 4%;
       }
@@ -271,9 +296,14 @@ function confirm() {
         }
       }
       .normal {
-        background-color: #f2f1f6;
+        //background-color: #D7DDE3;
+        border: 1px solid #D7DDE3;
         border-radius: 5px;
         margin-bottom: 5px;
+        cursor: pointer;
+        &.bgColor {
+          background-color: #e2ebf2;
+        }
       }
       .add {
         width: 100%;
@@ -285,15 +315,15 @@ function confirm() {
       max-width: 700px;
       min-width: 650px;
       flex: 1;
-      margin-left: 5%;
-      margin-top: 1%;
+      margin-left: 20px;
       .btns {
         margin-bottom: 1%;
+      }
+      .code-editor{
+        height: calc(100% - 50px);
       }
     }
   }
 }
-.bgColor {
-  background-color: #ccdef6 !important;
-}
+
 </style>

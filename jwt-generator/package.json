@@ -9,7 +9,7 @@
     "id": "jwt-generator",
     "name": "JWT Generator",
     "icon": "thunderbolt-outlined",
-    "version": "1.2.1",
+    "version": "1.2.3",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/jwt-generator",
     "category": [
