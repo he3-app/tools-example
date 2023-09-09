@@ -159,7 +159,8 @@ const itemObj = computed(() =>
 const saveLoading = ref(false);
 function saveHost() {
   saveDate.value.push(itemObj.value);
-  saveDate.value = handleDate(saveDate);
+  saveDate.value = handleDate(saveDate.value);
+  // listDate.value=handleDate(listDate.value)
   window.$he3.uploadToolOptions({
     id: window.$he3.toolId,
     options: {
