@@ -130,16 +130,7 @@ onMounted(async () => {
   getSystemHosts();
   const previewerValue = JSON.parse(await $he3.getToolOptions());
   saveDate.value = [...JSON.parse(previewerValue.content)];
-  // const uniqueMap = {};
   listDate.value = [...listDate.value, ...saveDate.value];
-  // listDate.value = listDate.value.filter((item) => {
-  //   const itemString = JSON.stringify(item);
-  //   if (!uniqueMap[itemString]) {
-  //     uniqueMap[itemString] = true;
-  //     return true;
-  //   }
-  //   return false;
-  // });
   listDate.value=handleDate(listDate.value)
   saveDate.value = listDate.value;
   listDate.value.forEach((item) => {
@@ -160,7 +151,6 @@ const saveLoading = ref(false);
 function saveHost() {
   saveDate.value.push(itemObj.value);
   saveDate.value = handleDate(saveDate.value);
-  // listDate.value=handleDate(listDate.value)
   window.$he3.uploadToolOptions({
     id: window.$he3.toolId,
     options: {
@@ -185,7 +175,6 @@ const applyHost = function () {
       saveLoading.value = false;
     });
 };
-// 对当前的对象进行标记绑定
 function selListItemObj(key) {
   selListItem.value = key;
 }
@@ -226,7 +215,6 @@ function confirm() {
     window.$he3.message.warning(t("warnMsg"));
   } else {
     let newDate = {
-      // key: listDate.value[listDate.value.length - 1].key + 1,
       key: maxKey.value + 1,
       title: nameMsg.value,
       content: "",
@@ -297,7 +285,6 @@ function confirm() {
         }
       }
       .normal {
-        //background-color: #D7DDE3;
         border: 1px solid #D7DDE3;
         border-radius: 5px;
         margin-bottom: 5px;
