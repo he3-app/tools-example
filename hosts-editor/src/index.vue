@@ -114,11 +114,37 @@ const listDate = ref([
     content: hosts.value,
   },
 ]);
+function handleDate(date) {
+  const uniqueMap = {};
+  let arrDate = date.filter((item) => {
+    const itemString = JSON.stringify(item);
+    if (!uniqueMap[itemString]) {
+      uniqueMap[itemString] = true;
+      return true;
+    }
+    return false;
+  });
+  return arrDate;
+}
 onMounted(async () => {
   getSystemHosts();
   const previewerValue = JSON.parse(await $he3.getToolOptions());
   saveDate.value = [...JSON.parse(previewerValue.content)];
+  // const uniqueMap = {};
   listDate.value = [...listDate.value, ...saveDate.value];
+  // listDate.value = listDate.value.filter((item) => {
+  //   const itemString = JSON.stringify(item);
+  //   if (!uniqueMap[itemString]) {
+  //     uniqueMap[itemString] = true;
+  //     return true;
+  //   }
+  //   return false;
+  // });
+  listDate.value=handleDate(listDate.value)
+  saveDate.value = listDate.value;
+  listDate.value.forEach((item) => {
+    console.log(item);
+  });
   let arr = listDate.value.map((item) => {
     return item.key;
   });
@@ -133,12 +159,13 @@ const itemObj = computed(() =>
 const saveLoading = ref(false);
 function saveHost() {
   saveDate.value.push(itemObj.value);
-  console.log(saveDate.value);
+  saveDate.value = handleDate(saveDate.value);
+  // listDate.value=handleDate(listDate.value)
   window.$he3.uploadToolOptions({
     id: window.$he3.toolId,
     options: {
       test: "saveDate",
-      content: JSON.stringify(saveDate.value)
+      content: JSON.stringify(saveDate.value),
     },
   });
   window.$he3.message.success(t("saveSuccess"));
@@ -172,8 +199,20 @@ function deleteAll(val) {
   listDate.value = listDate.value.filter((item) => {
     return item.key != val;
   });
-  (selListItem.value = listDate.value[index - 1].key),
-    window.$he3.message.success(t("deleteMsg"));
+  if (val <= selListItem.value) {
+    selListItem.value = listDate.value[index - 1].key;
+  }
+  window.$he3.message.success(t("deleteMsg"));
+  saveDate.value = saveDate.value.filter((item) => {
+    return item.key != val;
+  });
+  window.$he3.uploadToolOptions({
+    id: window.$he3.toolId,
+    options: {
+      test: "saveDate",
+      content: JSON.stringify(saveDate.value),
+    },
+  });
 }
 function addFile() {
   visible.value = true;
@@ -188,11 +227,11 @@ function confirm() {
   } else {
     let newDate = {
       // key: listDate.value[listDate.value.length - 1].key + 1,
-      key:maxKey.value+1,
+      key: maxKey.value + 1,
       title: nameMsg.value,
       content: "",
     };
-    maxKey.value+=1
+    maxKey.value += 1;
     listDate.value = [...listDate.value, newDate];
     selListItem.value = newDate.key;
     visible.value = false;
