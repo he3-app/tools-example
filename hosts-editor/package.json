@@ -10,7 +10,7 @@
     "id": "hosts-editor",
     "name": "Hosts Editor",
     "icon": "wifi-outlined",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/hosts-editor",
     "category": [
