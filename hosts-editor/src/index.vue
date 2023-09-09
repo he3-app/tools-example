@@ -175,7 +175,6 @@ const applyHost = function () {
       saveLoading.value = false;
     });
 };
-// 对当前的对象进行标记绑定
 function selListItemObj(key) {
   selListItem.value = key;
 }
