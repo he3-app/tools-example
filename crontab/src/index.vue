@@ -1,5 +1,5 @@
 <template>
-  <h-single-layout :max-width="1280">
+  <h-single-layout :width="800" mode="middle">
     <div class="crontab">
       <a-radio-group v-model:value="mode" style="margin-bottom: 20px">
         <a-radio-button value="common">Common</a-radio-button>
