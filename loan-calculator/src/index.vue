@@ -22,6 +22,7 @@
           :step="0.01"
           size="default"
           style="width: 200px"
+          :save-options="{autoSave:true,key:'latest-lpr'}"
           :onchange="calculateInterestRate()"
         />
       </a-form-item>
@@ -34,6 +35,7 @@
           :step="0.01"
           size="default"
           style="width: 200px"
+          :save-options="{autoSave:true,key:'lpr-plus-point'}"
           :onchange="calculateInterestRate()"
         />
       </a-form-item>
@@ -51,6 +53,16 @@
         /> -->
       </a-form-item>
       <a-form-item :label="t('LoanTerm')">
+        <a-space direction="vertical">
+        <h-radio @change="changeMonth">
+          <a-radio-button :value="360" checked>30{{ t('Year') }}</a-radio-button>
+          <a-radio-button :value="240">20{{ t('Year') }}</a-radio-button>
+          <a-radio-button :value="120">10{{ t('Year') }}</a-radio-button>
+          <a-radio-button :value="60">5{{ t('Year') }}</a-radio-button>
+          <a-radio-button :value="36">3{{ t('Year') }}</a-radio-button>
+          <a-radio-button :value="24">2{{ t('Year') }}</a-radio-button>
+          <a-radio-button :value="12">1{{ t('Year') }}</a-radio-button>
+        </h-radio>
         <h-input
           v-model:value="loanTerm"
           :min="1"
@@ -58,14 +70,16 @@
           :precision="0"
           :step="1"
           size="default"
+          :save-options="{autoSave:true,key:'loan-term'}"
           style="width: 200px"
         />
+      </a-space>
       </a-form-item>
       <a-form-item :label="t('CalcMethod')">
-        <h-select v-model:value="repaymentType" :save-options="{autoSave: true, value: 'repaymentType'}" style="width: 200px">
-          <a-select-option :value="0">{{ t('EqualLoan') }}</a-select-option>
-          <a-select-option :value="1">{{ t('EqualPrincipal') }}</a-select-option>
-        </h-select>
+        <h-radio v-model:value="repaymentType" :save-options="{autoSave: true, value: 'repaymentType'}">
+          <a-radio-button :value="0" checked>{{ t('EqualLoan') }}</a-radio-button>
+          <a-radio-button :value="1">{{ t('EqualPrincipal') }}</a-radio-button>
+        </h-radio>
       </a-form-item>
 
       <a-form-item :wrapper-col="{ offset: 8, span: 16 }">
@@ -119,15 +133,21 @@ const { t } = useI18n({
 });
 const he3 = window.$he3;
 
-const loanAmount = ref<number>(0);
-const latestLPR = ref<number>(4.6);
+const loanAmount = ref<number>(1000000);
+const latestLPR = ref<number>(4.3);
 const LPRPlusValue = ref<number>(0);
 const interestRate = ref<number>(0);
-const loanTerm = ref<number>(0);
+const loanTerm = ref<number>(360);
 const repaymentType = ref<number>(0);
 var monthlyPaymentDetail = ref<number[][]>([])
 var totalPayNum = ref<number>(0);
 var totalInterestNum = ref<number>(0);
+
+const changeMonth = function(e){
+  // console.log(e);
+  // debugger;
+  loanTerm.value = e;
+} 
 
 function calculateInterestRate() {
   interestRate.value = Number(latestLPR.value) + 0.01*Number(LPRPlusValue.value);
@@ -178,7 +198,6 @@ function monthlyPayment() {
   } else {
     return [[0,0,0,0]]
   }
-  console.log(res);
   return res;
 }
 
@@ -251,7 +270,7 @@ function exportTableToCSV(filename) {
     table-layout: fixed;
     width: 100%;
     border-collapse: separate;
-    border: 2px solid purple;
+    border: 2px solid var(--primary-color);
     border-spacing: 0;
     border-radius: 10px;
   }
@@ -285,12 +304,12 @@ function exportTableToCSV(filename) {
   }
   
   .th1 {
-    border-top: 1px solid purple;
+    /* border-top: 1px solid purple; */
   }
 
   .th2 {
     background-color: var(--primary-bg-color); 
-    border-top: 1px solid purple;
+    /* border-top: 1px solid purple; */
   }
 
   .interestDisplay {

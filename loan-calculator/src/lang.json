@@ -18,7 +18,8 @@
     "RepayInterest" : "还款利息 / CNY",
     "RepayPrincipal" : "还款本金 / CNY",
     "RemainingPrincipal" : "剩余本金 / CNY",
-    "Export" : "导出"
+    "Export" : "导出",
+    "Year": "年"
   },
   "en": {
     "LoanPrincipal": "Loan Principal / USD: ",
@@ -39,7 +40,8 @@
     "RepayInterest" : "Repay Interest / USD",
     "RepayPrincipal" : "Repay Principal / USD",
     "RemainingPrincipal" : "Remaining Principal / USD",
-    "Export" : "Export"
+    "Export" : "Export",
+    "Year": "Years"
   },
   "de": {
     "LoanPrincipal": "Darlehensbetrag / EUR: ",
