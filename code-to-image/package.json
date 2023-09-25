@@ -10,7 +10,7 @@
     "id": "code-to-image",
     "name": "Code to Image",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.9",
+    "version": "1.1.0",
     "isPublic": true,
     "repository": "https://github.com/he3-app/tools-example/tree/main/code-to-image",
     "category": [
@@ -69,9 +69,11 @@
     "@uiw/codemirror-theme-xcode": "^4.19.9",
     "html-to-image": "^1.11.11",
     "vue": "^3.2.45",
-    "vue-i18n": "^9.2.2"
+    "vue-i18n": "^9.2.2",
+    "@ant-design/icons-vue": "^6.1.0"
   },
   "devDependencies": {
+
     "@he3-kit/cli": "latest",
     "@vitejs/plugin-vue": "^4.0.0",
     "less": "^4.1.3",
