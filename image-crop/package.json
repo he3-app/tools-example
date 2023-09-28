@@ -8,9 +8,9 @@
   },
   "he3": {
     "id": "image-crop",
-    "name": "Image Cropping",
+    "name": "Image Crop/Flip/Rotate",
     "icon": "file-image-outlined",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "isPublic": true,
     "repository": "",
     "category": [
@@ -19,6 +19,8 @@
     "description": "Image Cropping is a tool that allows users to trim or cut out unwanted parts of an image, leaving only the desired portion. It supports various image formats such as PNG, JPG, JPEG, and WEBP, making it a versatile tool for editing pictures.",
     "keywords": [
       "crop",
+      "flip",
+      "rotate",
       "image",
       "pic",
       "picture",
