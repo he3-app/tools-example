@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "tencentcloud-sdk-nodejs-cdn": "^4.0.0",
+    "axios": "^1.5.1"
+  }
+}
