@@ -15,9 +15,15 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+
+      - name: Install dependencies
+        run: npm install
+
       - name: 'Publish Prod'
         env:
           HE3_TOKEN: ${{ secrets.HE3_TOEKN_PROD }}
           FEISHU_TOKEN: ${{ secrets.FEISHU_BOT_WEBHOOK_URL }}
           BASE_URL: ${{ secrets.VERSION_URL_PROD }}
+          TENCENT_ID: ${{ secrets.TENCENT_ID }}
+          TENCENT_SECRET: ${{ secrets.TENCENT_SECRET }}
         run: node ./@scripts/publishProd.js

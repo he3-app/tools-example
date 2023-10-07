@@ -2,6 +2,7 @@ const { execSync } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 const https = require('https');
+const {pushCdnCache} = require('./pushCdnCache');
 // 获取token
 const he3Token = process.env.HE3_TOKEN;
 const feishuToken = process.env.FEISHU_TOKEN;
@@ -67,6 +68,7 @@ async function publish() {
             );
             if ((await getRemoteVersion(id)) === version) {
               console.log('✅发布成功！', id);
+              pushCdnCache(id)
               successArr.push(id);
             } else {
               console.log('❌发布失败', id);
@@ -100,6 +102,7 @@ async function publish() {
           );
           if ((await getRemoteVersion(id)) === version) {
             console.log('✅发布成功！', id);
+            pushCdnCache(id)
             successArr.push(id);
           } else {
             console.log('❌发布失败', id);
