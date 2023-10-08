@@ -2,7 +2,7 @@ const { execSync } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 const https = require('https');
-const {pushCdnCache} = require('./pushCdnCache');
+const {pushCdnCache} = require('./pushUrlCache.js');
 // 获取token
 const he3Token = process.env.HE3_TOKEN;
 const feishuToken = process.env.FEISHU_TOKEN;
