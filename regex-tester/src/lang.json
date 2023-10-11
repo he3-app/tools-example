@@ -36,7 +36,13 @@
     "descx?": "匹配前一项x零次或一次",
     "descx{n}": "匹配前面的项x n次数，其中n是正整数",
     "descx{n,}": "匹配前一项x n或多次，其中n是正整数",
-    "descx{n,m}": "匹配前面的项x至少n次数和最多m次数，其中n和m为正整数且n小于m"
+    "descx{n,m}": "匹配前面的项x至少n次数和最多m次数，其中n和m为正整数且n小于m",
+    "flag-g": "执行全局匹配，找到所有匹配项",
+    "flag-i": "执行不区分大小写匹配",
+    "flag-m": "执行多行匹配",
+    "flag-s": "允许匹配换行符",
+    "flag-u": "启用 Unicode 支持",
+    "flag-y": "匹配是粘性的，只查看文本中的确切位置"
   },
   "en": {
     "RegularExpression": "Regular Expression:",
@@ -75,7 +81,13 @@
     "descx?": "Match the preceding item x zero or one time",
     "descx{n}": "Match the preceding item x exactly n times, where n is a positive integer",
     "descx{n,}": "Match the preceding item x n or more times, where n is a positive integer",
-    "descx{n,m}": "Match the preceding item x at least n times and at most m times, where n and m are positive integers"
+    "descx{n,m}": "Match the preceding item x at least n times and at most m times, where n and m are positive integers",
+    "flag-g": "performs a global match,finding all matches",
+    "flag-i": "makes match case-insensitive",
+    "flag-m": "performs multiline matches",
+    "flag-s": "allows to match newline characters",
+    "flag-u": "enables unicode support",
+    "flag-y": "matches are sticky, looking only at exact position in the text"
   },
   "de": {
     "TestString": "Passende Zeichenfolge:",
@@ -114,7 +126,13 @@
     "descx?": "Übereinstimmung mit dem vorherigen Element x null oder einmal",
     "descx{n}": "Übereinstimmung mit dem vorherigen Element x genau n-mal, wobei n eine positive ganze Zahl ist",
     "descx{n,}": "Übereinstimmung mit dem vorherigen Element x n-mal oder öfter, wobei n eine positive ganze Zahl ist",
-    "descx{n,m}": "Übereinstimmung mit dem vorherigen Element x mindestens n-mal und höchstens m-mal, wobei n und m positive ganze Zahlen sind und n kleiner als m ist"
+    "descx{n,m}": "Übereinstimmung mit dem vorherigen Element x mindestens n-mal und höchstens m-mal, wobei n und m positive ganze Zahlen sind und n kleiner als m ist",
+    "flag-g": "Führt eine globale Suche durch, um alle Übereinstimmungen zu finden",
+    "flag-i": "Führt eine Groß-/Kleinschreibung-unsensible Suche durch",
+    "flag-m": "Führt mehrzeilige Übereinstimmungen durch",
+    "flag-s": "Ermöglicht das Suchen von Zeilenumbruchzeichen",
+    "flag-u": "Aktiviert die Unicode-Unterstützung",
+    "flag-y": "Übereinstimmungen sind an genau der Position im Text haftend"
   },
   "es": {
     "TestString": "Cadena coincidente:",
@@ -153,7 +171,13 @@
     "descx?": "Coincidir con el elemento precedente x cero o una vez",
     "descx{n}": "Coincidir con el elemento precedente x exactamente n veces, donde n es un número entero positivo",
     "descx{n,}": "Coincidir con el elemento precedente x n o más veces, donde n es un número entero positivo",
-    "descx{n,m}": "Coincidir con el elemento precedente x al menos n veces y como máximo m veces, donde n y m son números enteros positivos"
+    "descx{n,m}": "Coincidir con el elemento precedente x al menos n veces y como máximo m veces, donde n y m son números enteros positivos",
+    "flag-g": "Realiza una coincidencia global, encontrando todas las coincidencias",
+    "flag-i": "Hace que la coincidencia no distinga entre mayúsculas y minúsculas",
+    "flag-m": "Realiza coincidencias en múltiples líneas",
+    "flag-s": "Permite coincidir con caracteres de nueva línea",
+    "flag-u": "Habilita el soporte Unicode",
+    "flag-y": "Las coincidencias son pegajosas, buscando solo en la posición exacta en el texto"
   },
   "fr": {
     "TestString": "Chaîne correspondante:",
@@ -192,7 +216,13 @@
     "descx?": "Correspondre à l'élément précédent x zéro ou une fois",
     "descx{n}": "Correspondre à l'élément précédent x exactement n fois, où n est un entier positif",
     "descx{n,}": "Correspondre à l'élément précédent x n fois ou plus, où n est un entier positif",
-    "descx{n,m}": "Correspondre à l'élément précédent x au moins n fois et au plus m fois, où n et m sont des entiers positifs et n est inférieur à m"
+    "descx{n,m}": "Correspondre à l'élément précédent x au moins n fois et au plus m fois, où n et m sont des entiers positifs et n est inférieur à m",
+    "flag-g": "Effectue une correspondance globale, trouvant toutes les correspondances",
+    "flag-i": "Effectue une correspondance insensible à la casse",
+    "flag-m": "Effectue des correspondances multilignes",
+    "flag-s": "Permet de faire correspondre les caractères de saut de ligne",
+    "flag-u": "Active la prise en charge de l'Unicode",
+    "flag-y": "Les correspondances sont strictes, ne regardant que la position exacte dans le texte"
   },
   "it": {
     "TestString": "Stringa corrispondente:",
@@ -231,7 +261,13 @@
     "descx?": "Corrispondenza con l'elemento precedente x zero o una volta",
     "descx{n}": "Corrispondenza con l'elemento precedente x esattamente n volte, dove n è un numero intero positivo",
     "descx{n,}": "Corrispondenza con l'elemento precedente x n o più volte, dove n è un numero intero positivo",
-    "descx{n,m}": "Corrispondenza con l'elemento precedente x almeno n volte e al massimo m volte, dove n e m sono numeri interi positivi e n è inferiore a m"
+    "descx{n,m}": "Corrispondenza con l'elemento precedente x almeno n volte e al massimo m volte, dove n e m sono numeri interi positivi e n è inferiore a m",
+    "flag-g": "Effettua una corrispondenza globale, trovando tutte le corrispondenze",
+    "flag-i": "Esegue una corrispondenza senza distinzione tra maiuscole e minuscole",
+    "flag-m": "Esegue corrispondenze multiriga",
+    "flag-s": "Consente di effettuare corrispondenze con i caratteri di nuova riga",
+    "flag-u": "Abilita il supporto Unicode",
+    "flag-y": "Le corrispondenze sono attaccate, cercando solo nella posizione esatta nel testo"
   },
   "ja": {
     "TestString": "一致する文字列：",
@@ -270,7 +306,13 @@
     "descx?": "前の項目xをゼロ回または一回一致させる",
     "descx{n}": "前の項目xをちょうどn回一致させる、nは正の整数です",
     "descx{n,}": "前の項目xをn回以上一致させる、nは正の整数です",
-    "descx{n,m}": "前の項目xを少なくともn回、最大でm回一致させる、nとmは正の整数です"
+    "descx{n,m}": "前の項目xを少なくともn回、最大でm回一致させる、nとmは正の整数です",
+    "flag-g": "グローバルなマッチを実行し、すべてのマッチを見つけます",
+    "flag-i": "大文字と小文字を区別しないマッチを実行します",
+    "flag-m": "複数行のマッチを実行します",
+    "flag-s": "改行文字をマッチさせることを許可します",
+    "flag-u": "Unicode サポートを有効にします",
+    "flag-y": "マッチは粘着して、テキスト内の正確な位置のみを調べます"
   },
   "ko": {
     "TestString": "일치하는 문자열 :",
@@ -309,7 +351,13 @@
     "descx?": "앞의 항목 x를 0회 또는 1회 일치",
     "descx{n}": "앞의 항목 x를 정확히 n회 일치, n은 양의 정수",
     "descx{n,}": "앞의 항목 x를 n회 이상 일치, n은 양의 정수",
-    "descx{n,m}": "앞의 항목 x를 적어도 n회 이상, 최대 m회 일치, n과 m은 양의 정수"
+    "descx{n,m}": "앞의 항목 x를 적어도 n회 이상, 최대 m회 일치, n과 m은 양의 정수",
+    "flag-g": "글로벌 매치를 수행하여 모든 매치를 찾습니다",
+    "flag-i": "대소문자를 구분하지 않는 매치를 수행합니다",
+    "flag-m": "여러 줄 매치를 수행합니다",
+    "flag-s": "개행 문자와 일치하는 것을 허용합니다",
+    "flag-u": "유니코드 지원을 활성화합니다",
+    "flag-y": "매치는 정확한 위치에서만 찾아봅니다"
   },
   "pt": {
     "TestString": "String correspondente:",
@@ -348,7 +396,13 @@
     "descx?": "Corresponder ao item anterior x zero ou uma vez",
     "descx{n}": "Corresponder ao item anterior x exatamente n vezes, onde n é um número inteiro positivo",
     "descx{n,}": "Corresponder ao item anterior x n ou mais vezes, onde n é um número inteiro positivo",
-    "descx{n,m}": "Corresponder ao item anterior x pelo menos n vezes e no máximo m vezes, onde n e m são números inteiros positivos e n é menor que m"
+    "descx{n,m}": "Corresponder ao item anterior x pelo menos n vezes e no máximo m vezes, onde n e m são números inteiros positivos e n é menor que m",
+    "flag-g": "Realiza uma correspondência global, encontrando todas as correspondências",
+    "flag-i": "Realiza uma correspondência que não faz distinção entre maiúsculas e minúsculas",
+    "flag-m": "Realiza correspondências em várias linhas",
+    "flag-s": "Permite corresponder a caracteres de nova linha",
+    "flag-u": "Ativa o suporte Unicode",
+    "flag-y": "As correspondências são rígidas, procurando apenas na posição exata no texto"
   },
   "ru": {
     "TestString": "Соответствующая строка:",
@@ -387,7 +441,13 @@
     "descx?": "Соответствие предшествующему элементу x ноль или один раз",
     "descx{n}": "Соответствие предшествующему элементу x ровно n раз, где n - положительное целое число",
     "descx{n,}": "Соответствие предшествующему элементу x n или более раз, где n - положительное целое число",
-    "descx{n,m}": "Соответствие предшествующему элементу x не менее n раз и не более m раз, где n и m - положительные целые числа, причем n меньше m"
+    "descx{n,m}": "Соответствие предшествующему элементу x не менее n раз и не более m раз, где n и m - положительные целые числа, причем n меньше m",
+    "flag-g": "Выполняет глобальное сопоставление, находя все совпадения",
+    "flag-i": "Выполняет нечувствительное к регистру сопоставление",
+    "flag-m": "Выполняет многострочное сопоставление",
+    "flag-s": "Позволяет сопоставлять символы новой строки",
+    "flag-u": "Включает поддержку Unicode",
+    "flag-y": "Сопоставления прилипают и смотрят только в точное положение в тексте"
   },
   "zh-tw": {
     "TestString": "匹配字符串:",
@@ -426,6 +486,12 @@
     "descx?": "匹配前一項x零次或一次",
     "descx{n}": "匹配前面的項目x n次，其中n是正整數",
     "descx{n,}": "匹配前一項x n或多次，其中n是正整數",
-    "descx{n,m}": "匹配前面的項目x至少n次數和最多m次數，其中n和m為正整數且n小於m"
+    "descx{n,m}": "匹配前面的項目x至少n次數和最多m次數，其中n和m為正整數且n小於m",
+    "flag-g": "執行全局匹配，找到所有匹配項",
+    "flag-i": "執行不區分大小寫匹配",
+    "flag-m": "執行多行匹配",
+    "flag-s": "允許匹配換行符",
+    "flag-u": "啟用 Unicode 支援",
+    "flag-y": "匹配是粘性的，只查看文本中的確切位置"
   }
 }

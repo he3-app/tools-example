@@ -46,19 +46,18 @@
         </a-col>
         <a-col flex="300px">
           <h-select
+            class="select"
             v-model:value="rightRegex"
+            :field-names="{ label: 'label', value: 'value' }"
             mode="multiple"
             size="large"
             style="width: 100%"
             option-label-prop="tag"
             :options="rightOptions"
             :save-options="{ key: 'right', autoSave: true }"
+            :get-popup-container="(triggerNode) => triggerNode.parentNode"
+            dropdown-class-name="dropdown-class"
           >
-            <template #option="{ tag, leftStr, rightStr }">
-              {{ leftStr }}
-              <strong>{{ tag }}</strong>
-              {{ rightStr }}
-            </template>
           </h-select>
         </a-col>
       </a-row>
@@ -127,39 +126,33 @@ const leftRegex = ref(
 const rightRegex = ref(["g", "i"]);
 const rightOptions = reactive([
   {
-    leftStr: "",
-    rightStr: "lobal",
     tag: "g",
+    label: `g (${t("flag-g")})`,
     value: "g",
   },
   {
-    leftStr: "case ",
-    rightStr: "ntensive",
     tag: "i",
+    label: `i (${t("flag-i")})`,
     value: "i",
   },
   {
-    leftStr: "",
-    rightStr: "ultiline",
     tag: "m",
+    label: `m (${t("flag-m")})`,
     value: "m",
   },
   {
-    leftStr: "",
-    rightStr: "ingle line(dotall)",
     tag: "s",
+    label: `s (${t("flag-s")})`,
     value: "s",
   },
   {
-    leftStr: "",
-    rightStr: "nicode",
     tag: "u",
+    label: `u (${t("flag-u")})`,
     value: "u",
   },
   {
-    leftStr: "stick",
-    rightStr: "ingle line(dotall)",
     tag: "y",
+    label: `y (${t("flag-y")})`,
     value: "y",
   },
 ]);
@@ -414,6 +407,14 @@ watch(
     overflow: visible;
     white-space: pre-wrap;
     text-align: left;
+  }
+}
+:deep(.dropdown-class) {
+  border-radius: 10px;
+  box-shadow: 0px 4px 20px 0px rgba(77, 97, 138, 0.15);
+
+  .ant-select-item-option {
+    padding: 10px 22px;
   }
 }
 [mode="dark"] .reference-list {
