@@ -82,12 +82,12 @@
     "descx{n}": "Match the preceding item x exactly n times, where n is a positive integer",
     "descx{n,}": "Match the preceding item x n or more times, where n is a positive integer",
     "descx{n,m}": "Match the preceding item x at least n times and at most m times, where n and m are positive integers",
-    "flag-g": "performs a global match,finding all matches",
-    "flag-i": "makes match case-insensitive",
-    "flag-m": "performs multiline matches",
-    "flag-s": "allows to match newline characters",
-    "flag-u": "enables unicode support",
-    "flag-y": "matches are sticky, looking only at exact position in the text"
+    "flag-g": "Performs a global match,finding all matches",
+    "flag-i": "Makes match case-insensitive",
+    "flag-m": "Performs multiline matches",
+    "flag-s": "Allows to match newline characters",
+    "flag-u": "Enables unicode support",
+    "flag-y": "Matches are sticky, looking only at exact position in the text"
   },
   "de": {
     "TestString": "Passende Zeichenfolge:",
