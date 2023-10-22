@@ -372,7 +372,12 @@ function handleCancel() {
 }
 async function confirm() {
   const previewerValue = JSON.parse(await $he3.getToolOptions());
-  let contentData = JSON.parse(previewerValue.content);
+  let contentData;
+  try {
+    contentData = JSON.parse(previewerValue.content);
+  } catch (error) {
+    contentData = [];
+  }
   const isRepeat = contentData.some((item) => item.title === nameMsg.value);
   console.log(isRepeat);
   if (nameMsg.value == "" || isRepeat === true) {
