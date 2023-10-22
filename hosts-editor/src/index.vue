@@ -137,9 +137,18 @@ function handleDate(data) {
 }
 onMounted(async () => {
   getSystemHosts();
-  const previewerValue = JSON.parse(await $he3.getToolOptions());
-  console.log("previewerValue", previewerValue);
-  listDate.value = [...listDate.value, ...JSON.parse(previewerValue.content)];
+  let previewerValue;
+  try {
+    previewerValue = JSON.parse(await $he3.getToolOptions());
+  } catch (error) {}
+  if (previewerValue && previewerValue?.content) {
+    try {
+      previewerValue.content = JSON.parse(previewerValue.content);
+    } catch (error) {
+      previewerValue.content = [];
+    }
+    listDate.value = [...listDate.value, ...previewerValue.content];
+  }
   listDate.value = handleDate(listDate.value);
   let arr = listDate.value.map((item) => {
     return item.key;
@@ -371,15 +380,22 @@ function handleCancel() {
   nameMsg.value = "";
 }
 async function confirm() {
-  const previewerValue = JSON.parse(await $he3.getToolOptions());
-  let contentData;
+  let previewerValue;
+  let isRepeat;
   try {
-    contentData = JSON.parse(previewerValue.content);
-  } catch (error) {
-    contentData = [];
+    previewerValue = JSON.parse(await $he3.getToolOptions());
+  } catch (error) {}
+  if (previewerValue && previewerValue?.content) {
+    try {
+      previewerValue.content = JSON.parse(previewerValue.content);
+    } catch (error) {
+      previewerValue.content = [];
+    }
+    isRepeat = previewerValue.content.some(
+      (item) => item.title === nameMsg.value
+    );
   }
-  const isRepeat = contentData.some((item) => item.title === nameMsg.value);
-  console.log(isRepeat);
+
   if (nameMsg.value == "" || isRepeat === true) {
     window.$he3.message.warning(t("warnMsg"));
     return;
