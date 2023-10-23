@@ -10,7 +10,7 @@
     "name": "Exchange Rate Calculator",
     "id": "exchange-rate-calculator",
     "icon": "block-outlined",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "description": "The Exchange Rate Calculator is a tool used to calculate currency exchange rates. It can convert the amount of one currency into the amounts of multiple other currencies and display them in the tool's output area.\n\nFeatures:\n\n1. Enter the currency amount and type to be converted in the tool.\n\n2. Select the other currency types to convert the currency into.\n\n3. Click the \"Add Currency\" button to add more currency types to convert into.\n\n4. Click the \"Convert\" button, and the tool will calculate and display the conversion amounts for each currency type.\n\nUse cases:\n\n1. Travel: When traveling, people need to convert one currency into another. Using the Exchange Rate Calculator tool, they can easily calculate the exchange rates between different currencies and understand their travel budget.\n\n2. Trade: In international trade, people need to convert currencies into other currencies. Using this tool, they can quickly calculate the exchange rates between different currencies and understand their trading costs.\n\n3. Financial investment: In financial investment, people need to understand the exchange rates between different currencies. Using the Exchange Rate Calculator tool, they can easily calculate the exchange rates between different currencies and understand their investment return rates.",
     "relatedToolId": [],
     "isPublic": true,
