@@ -95,7 +95,7 @@ function addToCurrency() {
 
 async function convertCurrency() {
   try {
-    loading.value = true
+    loading.value = true;
     result.value = {};
     for (const item of toCurrencies.value) {
       if (fromCurrency.value === item) {
@@ -109,6 +109,13 @@ async function convertCurrency() {
         const response = await fetch(
           `https://api.frankfurter.app/latest?amount=${amount.value}&from=${fromCurrency.value}&to=${item}`
         );
+        if (!response.ok) {
+          $he3.message.error(t("requestErr"));
+          loading.value = false;
+          result.value = {};
+          return;
+        }
+
         const output = await response.json();
         const key = `${Object.keys(output["rates"])[0]}`;
         const keyName = `${t(currencies[Object.keys(output["rates"])[0]])} / ${
@@ -120,7 +127,7 @@ async function convertCurrency() {
         };
       }
     }
-    loading.value = false
+    loading.value = false;
   } catch (error) {
     console.error("Error fetching exchange rates:", error);
   }
