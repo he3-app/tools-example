@@ -1,5 +1,4 @@
 <template>
-  {{ interestRate }}
   <h-single-layout mode="middle" :width="800">
     <a-form v-show="!he3.renderOnSearch" :label-col="{ span: 8 }" :wrapper-col="{ span: 16 }" style="margin-left: 10%;">  
       <a-form-item :label="t('LoanPrincipal')">
