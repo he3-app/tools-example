@@ -739,7 +739,7 @@
     },
     {
       "id": "json-to-sarcastic",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "isPublic": true,
       "repository": "https://github.com/he3-app/tools-example/tree/main/batch-json",
       "category": [
