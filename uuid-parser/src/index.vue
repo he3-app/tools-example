@@ -1,5 +1,5 @@
 <template>
-  <h-vertical-layout mode="middle">
+  <h-single-layout :max-width="1440">
     <template #top>
       <div class="top">
         <p>
@@ -23,7 +23,7 @@
         <h-kv :value="outputValue" :width="600" />
       </div>
     </template>
-  </h-vertical-layout>
+  </h-single-layout>
 </template>
 
 <script setup lang="ts">
