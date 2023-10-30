@@ -1,0 +1,331 @@
+{
+  "name": "batch-video",
+  "version": "1.0.1",
+  "description": "batch video ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "generate": "he3 generate",
+    "version": "he3 version"
+  },
+  "he3": [
+    {
+      "id": "video-to-gif-converter",
+      "name": "Video to GIF Converter",
+      "isPublic": true,
+      "relatedToolId": [
+        "gif-to-video-converter"
+      ],
+      "version": "1.1.3",
+      "description": "Overview:\nVideo to GIF Converter is a tool that can quickly and easily convert any video into high-quality GIFs, regardless of the original media format.\n\nUse Cases:\n1. Users who need to convert video files to GIF files.\n2. Users who need to upload and convert video files on web pages.\n\nInstructions:\n1. Open the Video to GIF Converter tool page.\n2. Click the upload button and select the video file to be converted.\n3. The tool will automatically convert the video file to a GIF file and display the converted GIF file on the page.\n4. Click the download button to download the converted GIF file.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "online conversion tool",
+        "video",
+        "GIF",
+        "gif",
+        "video converter",
+        "MP4",
+        "AVI",
+        "MKV"
+      ]
+    },
+    {
+      "id": "gif-to-video-converter",
+      "name": "GIF to Video Converter",
+      "isPublic": true,
+      "relatedToolId": [
+        "video-to-gif-converter"
+      ],
+      "version": "1.1.1",
+      "description": "",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "GIF转MP4",
+        "文件转换",
+        "视频编辑",
+        "@ffmpeg/ffmpeg",
+        "转换速度快",
+        "转换质量高",
+        "MP4",
+        "GIF"
+      ]
+    },
+    {
+      "id": "video-converter",
+      "name": "Video Converter",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "Tool Description: Video Converter\n\nOverview:\nVideo Converter is a video format conversion tool that can convert multiple video formats to MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB, and other formats. This tool is developed based on Vue.js and @ffmpeg/ffmpeg library, supports uploading video files and converting formats, and the converted videos can be downloaded directly.\n\nFeatures:\n1. Support multiple video format conversions.\n2. Support uploading video files and converting formats.\n3. Support downloading converted video files.\n\nUse Cases:\n1. Used in scenarios where video formats need to be converted to specific formats.\n2. Used in scenarios where video files need to be uploaded and converted formats.\n3. Used in scenarios where converted video files need to be downloaded.\n\nUsage:\n1. Open the Video Converter tool page.\n2. Click the upload button and select the video file to be converted.\n3. Select the video format to be converted.\n4. Click the download button to download the converted video file.\n\nDependency File Description:\n1. video-converter.ts: The entry file of the Video Converter tool, exports the Video Converter component.\n2. video-converter.vue: The source code file of the Video Converter component, which contains the main logic of video format conversion.\n3. UploadVideoComponents.vue: The source code file of the video upload component, used to upload video files and convert formats.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "Video format conversion",
+        "Multiple video formats",
+        "Upload video files",
+        "Download video files",
+        "MP4",
+        "AVI",
+        "MOV",
+        "MPG",
+        "MPEG",
+        "WEBM",
+        "TS",
+        "3G2",
+        "3GP",
+        "ASF",
+        "F4V",
+        "FLV",
+        "M2TS",
+        "M2V",
+        "M4V",
+        "MKV",
+        "WMV",
+        "MTS",
+        "MXF",
+        "OGV",
+        "RM",
+        "RMVB"
+      ]
+    },
+    {
+      "id": "change-video-speed",
+      "name": "Change Video Speed",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "Change Video Speed is a tool for adjusting the playback speed of videos. It can speed up or slow down the video playback to meet the user's needs.\n\nFeatures:\n\n1. Users can drag and drop video files into the tool or upload them through the tool.\n\n2. The tool automatically detects the format of the video file and displays basic information such as resolution and frame rate.\n\n3. Users can adjust the video playback speed through a slider or manual input.\n\n4. Users can choose to save the adjusted video file or play the adjusted video directly in the tool.\n\nUse cases:\n\n1. Video production: In the video production process, creators may need to adjust the video playback speed to achieve a specific effect. With the Change Video Speed tool, creators can easily adjust the video playback speed to meet their needs.\n\n2. Video learning: When learning video courses, some users may need to speed up the video playback to save time or slow it down to better understand the content. With this tool, users can freely adjust the video playback speed to adapt to their learning rhythm.\n\n3. Video sharing: When sharing videos, some users may need to adjust the video playback speed to a suitable speed for viewing. With the Change Video Speed tool, users can easily adjust the video playback speed to meet the audience's needs.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "Video playback speed adjustment",
+        "Slider adjustment",
+        "Manual input adjustment",
+        "Speed",
+        "MP4",
+        "Speed up",
+        "Slow down"
+      ]
+    },
+    {
+      "id": "video-reverse",
+      "name": "Video Reverse",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "Tool Description: Video Reverse\n\nVideo Reverse is an online video reversal tool that can reverse the uploaded video files and provide download links. This tool is developed based on Vue.js and FFmpeg library, supporting multiple video formats.\n\nFunction Description:\n\n1. Upload video files: Users can upload video files by dragging and dropping or selecting files.\n\n2. Reverse video: After successful upload, the tool will automatically reverse the video file.\n\n3. Download the reversed video: After processing is completed, users can download the reversed video file by clicking the Download button.\n\nUsage Scenarios:\n\n1. Video editing: In the video editing process, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and improve editing efficiency.\n\n2. Video production: In the video production process, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and improve production efficiency.\n\n3. Video sharing: When sharing videos, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and provide a download link for easy sharing.\n\nUsage:\n\n1. Open the Video Reverse tool page.\n\n2. Upload the video file that needs to be reversed by dragging and dropping or selecting the file.\n\n3. After processing is completed, click the Download button to download the reversed video file.\n\nNotes:\n\n1. The uploaded video file size cannot exceed 100MB.\n\n2. The uploaded video file format must be avi, mov, mp4, mpeg, webm, flv, wmv, or gif.\n\n3. After processing is completed, the downloaded video file name is output.mp4.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "Video Reverse",
+        "online tool",
+        "video editing",
+        "video production",
+        "FFmpeg",
+        "multiple video formats",
+        "reverse",
+        "video reversal",
+        "MP4"
+      ]
+    },
+    {
+      "id": "video-compress",
+      "name": "Video Compress",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "Our video compressor will make your video smaller automatically, and you don't need to download any program to your device.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "online video compressor",
+        "compress video file",
+        "reduce video file size online",
+        "free",
+        "reduce video size mac",
+        "mp4, to smaller size",
+        "make video smaller",
+        "without losing quality"
+      ]
+    },
+    {
+      "id": "video-rotate",
+      "name": "Video Rotate",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "Tool Name: Video Rotate\n\nTool Description: Video Rotate is an online video rotation tool that can rotate uploaded video files at specified angles and provide download function.\n\nUse Cases:\n\n1. Video Editing: During video editing, it may be necessary to rotate the video to achieve better effects. Using the Video Rotate tool can easily and quickly rotate the video.\n\n2. Video Transcoding: During video transcoding, it may be necessary to rotate the video to adapt to different playback devices. Using the Video Rotate tool can easily and quickly rotate the video and generate video files that are suitable for different devices.\n\n3. Video Sharing: When sharing videos, it may be necessary to rotate the video to adapt to different viewing needs. Using the Video Rotate tool can easily and quickly rotate the video and generate video files that are suitable for different viewing needs.\n\nUsage:\n\n1. Drag the video file that needs to be rotated to the upload area of the tool, or click the upload button to select the video file to be uploaded.\n\n2. Select the angle to be rotated on the rotation angle slider of the tool.\n\n3. Click the download button to download the rotated video file.\n\nDependencies:\n\n1. video-rotate.ts: The entry file of the Video Rotate tool, which exports the Video Rotate component.\n\n2. video-rotate.vue: The implementation file of the Video Rotate component, which includes video upload, rotation, download and other functions.\n\n3. UploadVideoComponents.vue: Video upload component, including video upload, preview and other functions.\n\n4. lodash/debounce: JavaScript utility library used for function debouncing.\n\n5. @ffmpeg/ffmpeg: JavaScript version of FFmpeg used for video processing.\n\n6. vue-i18n: Internationalization plugin for Vue.js used for multi-language support.\n\nNotes:\n\n1. The uploaded video file size cannot exceed 100MB.\n\n2. The rotation angle range is from -360 to 360 degrees.\n\n3. The downloaded video file format is MP4.\n\n4. Rotating the video may affect the video and audio quality, so it is recommended to use it when necessary.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "Video Rotation",
+        "Video Editing",
+        "Angle Selection",
+        "Video Processing"
+      ]
+    },
+    {
+      "id": "video-mute",
+      "name": "Mute Video",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.2",
+      "description": "Tool Name: Video Mute\n\nTool Description:\nVideo Mute is an online video mute tool that can mute uploaded video files and provide download function. This tool uses Vue.js and FFmpeg library.\n\nUsage Scenarios:\n1. Users who need to mute video files.\n2. Users who need to download muted video files.\n\nUsage:\n1. Upload the video file that needs to be muted to the tool.\n2. The tool will automatically mute the video and display the muted video file on the page.\n3. Click the Download button to download the muted video file.\n\nDependency File Description:\n1. video-mute.ts: Export the Video Mute component.\n2. video-mute.vue: The source code file of the Video Mute component, including the logic of video upload and mute processing.\n3. UploadVideoComponents.vue: The source code file of the video upload component, including the logic of video upload and preview.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "Online video mute",
+        "Mute processing",
+        "FFmpeg",
+        "Video",
+        "Mute"
+      ]
+    },
+    {
+      "id": "extract-audio-from-video",
+      "name": "Extract Audio From Video",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "Tool Description:\n\nFunctionality:\n\nExtract Audio From Video is a tool used to extract audio from video files. It can extract the audio from a video file and save it as a separate audio file, making it convenient for users to perform further processing.\n\nUse Cases:\n\n1. Audio Extraction: Users can use the Extract Audio From Video tool to extract audio from video files for further processing, such as editing, transcoding, etc.\n\n2. Audio Conversion: Users can use the Extract Audio From Video tool to convert the extracted audio file to other formats for playback on different devices.\n\n3. Audio Editing: Users can use the Extract Audio From Video tool to edit the extracted audio file, such as cutting, mixing, etc.\n\nUsage:\n\n1. Open the Extract Audio From Video tool.\n\n2. Click the 'Select File' button to select the video file from which to extract audio.\n\n3. Click the 'Extract Audio' button and wait for the tool to extract the audio and save it as a separate audio file.\n\n4. Users can select the 'Convert Format' button to convert the extracted audio file to other formats.\n\n5. Users can select the 'Edit Audio' button to edit the extracted audio file.\n\nNotes:\n\n1. The Extract Audio From Video tool only supports extracting audio from video files, not video.\n\n2. The speed of audio extraction depends on the size of the video file and the performance of the computer.\n\n3. The format conversion and audio editing functions require users to install the corresponding software themselves.\n\n4. The extracted audio file is saved in the same directory as the video file.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "audio extraction",
+        "audio conversion",
+        "audio editing",
+        "video files",
+        "further processing"
+      ]
+    },
+    {
+      "id": "loop-video",
+      "name": "Loop Video",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "Loop Video is a tool for looping videos. It can loop videos so that users can better watch the video content.\n\nFeatures:\n\n1. Import video files into the tool.\n\n2. The tool will automatically loop the video.\n\n3. Users can control the video playback and pause through the tool's control panel.\n\nUse cases:\n\n1. Video production: During the video production process, production staff need to watch the video repeatedly to ensure video quality. With Loop Video, they can easily loop the video to better watch the video content.\n\n2. Video editing: During the video editing process, editing staff need to watch the video repeatedly to ensure video quality. With Loop Video, they can easily loop the video to better watch the video content.\n\n3. Video learning: When learning video content, learners need to watch the video repeatedly to ensure understanding of the video content. With Loop Video, they can easily loop the video to better understand the video content.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "looping",
+        "video production",
+        "video editing",
+        "loop",
+        "video",
+        "MP4"
+      ]
+    },
+    {
+      "id": "flip-video",
+      "name": "Flip Video",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "Flip Video is a tool for flipping videos. It can flip videos horizontally or vertically to achieve different effects.\n\nFeatures:\n\n1. Supports flipping videos horizontally or vertically.\n\n2. Supports selecting the video file to be flipped.\n\n3. Supports previewing the flipped video effect.\n\n4. Supports saving the flipped video file.\n\nUse cases:\n\n1. Video editing: During video editing, it may be necessary to flip the video to achieve a specific effect. Flip Video tool can easily achieve video flipping function.\n\n2. Video production: During video production, it may be necessary to flip the video to achieve a specific effect. Flip Video tool can easily achieve video flipping function.\n\n3. Video playback: While watching videos, it may be necessary to flip the video to achieve a better viewing effect. Flip Video tool can easily achieve video flipping function.",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "Flip Video",
+        "flip",
+        "video",
+        "horizontal flip",
+        "vertical flip"
+      ]
+    },
+    {
+      "id": "change-video-volume",
+      "name": "Change Video Volume",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "video ",
+        "GIF",
+        "gif",
+        "converter",
+        "Formats",
+        "mp4"
+      ]
+    },
+    {
+      "id": "merge-video-and-audio",
+      "name": "Merge Video And Audio",
+      "isPublic": true,
+      "relatedToolId": [],
+      "version": "1.1.1",
+      "description": "",
+      "repository": "",
+      "icon": "PlayCircleOutlined",
+      "category": [
+        "media"
+      ],
+      "keywords": [
+        "video ",
+        "flip",
+        "mp4",
+        "mov",
+        "avi"
+      ]
+    }
+  ],
+  "dependencies": {
+    "@ant-design/icons-vue": "^7.0.0",
+    "@ffmpeg/core": "^0.11.0",
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "@he3-kit/utils": "latest",
+    "lodash": "^4.17.21",
+    "vue": "^3.2.47",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "^0.0.73",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.1.4"
+  }
+}

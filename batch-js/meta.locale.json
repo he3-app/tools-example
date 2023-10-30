@@ -1,0 +1,955 @@
+[
+  {
+    "id": "coffeescript-to-javascript",
+    "zh-tw": {
+      "$name": "CoffeeScript to Javascript",
+      "$keywords": [
+        "CoffeeScript",
+        "JavaScript",
+        "轉換",
+        "編譯",
+        "轉換",
+        "編譯"
+      ],
+      "$description": "CoffeeScript 轉換成 JavaScript 工具是一個用於將 CoffeeScript 代碼轉換為 JavaScript 代碼的工具。它可以將輸入的 CoffeeScript 代碼轉換為易於閱讀和理解的 JavaScript 代碼。\n\n功能：\n\n1. 將 CoffeeScript 代碼粘貼或輸入到工具中。\n\n2. 工具將自動將輸入的 CoffeeScript 代碼轉換為 JavaScript 代碼。\n\n3. 轉換後的 JavaScript 代碼將顯示在工具的輸出區域中。\n\n用途：\n\n1. 前端開發：在前端開發中，開發人員可以使用 CoffeeScript 編寫代碼，然後使用 CoffeeScript 轉換成 JavaScript 工具將其轉換為在瀏覽器中運行的 JavaScript 代碼。\n\n2. 學習 CoffeeScript：在學習 CoffeeScript 時，使用 CoffeeScript 轉換成 JavaScript 工具可以幫助學生更好地理解 CoffeeScript 代碼的含義和結構。\n\n3. 代碼審查：在代碼審查期間，審查人員可以使用 CoffeeScript 轉換成 JavaScript 工具將 CoffeeScript 代碼轉換為 JavaScript 代碼，以便更輕鬆地查看和理解代碼結構。"
+    },
+    "en": {
+      "$name": "CoffeeScript to Javascript",
+      "$keywords": [
+        "coffeescript",
+        "javascript",
+        "convert",
+        "compile",
+        "conversion",
+        "compilation"
+      ],
+      "$description": "The CoffeeScript to JavaScript tool is a tool used to convert CoffeeScript code to JavaScript code. It can convert the input CoffeeScript code into JavaScript code that is easy to read and understand.\n\nFeatures:\n\n1. Paste or input CoffeeScript code into the tool.\n\n2. The tool will automatically convert the input CoffeeScript code into JavaScript code.\n\n3. The converted JavaScript code will be displayed in the tool's output area.\n\nUse cases:\n\n1. Front-end development: In front-end development, developers can use CoffeeScript to write code and then use the CoffeeScript to JavaScript tool to convert it to JavaScript code for running in the browser.\n\n2. Learning CoffeeScript: When learning CoffeeScript, using the CoffeeScript to JavaScript tool can help students better understand the meaning and structure of CoffeeScript code.\n\n3. Code review: During code review, reviewers can use the CoffeeScript to JavaScript tool to convert CoffeeScript code to JavaScript code for easier viewing and understanding of the code structure."
+    },
+    "pt": {
+      "$name": "CoffeeScript para Javascript",
+      "$keywords": [
+        "coffeescript",
+        "javascript",
+        "converter",
+        "compilar",
+        "conversão",
+        "compilação"
+      ],
+      "$description": "A ferramenta CoffeeScript to JavaScript é uma ferramenta usada para converter código CoffeeScript em código JavaScript. Ela pode converter o código CoffeeScript de entrada em código JavaScript fácil de ler e entender.\n\nRecursos:\n\n1. Cole ou insira o código CoffeeScript na ferramenta.\n\n2. A ferramenta converterá automaticamente o código CoffeeScript de entrada em código JavaScript.\n\n3. O código JavaScript convertido será exibido na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Desenvolvimento front-end: No desenvolvimento front-end, os desenvolvedores podem usar o CoffeeScript para escrever código e, em seguida, usar a ferramenta CoffeeScript to JavaScript para convertê-lo em código JavaScript para ser executado no navegador.\n\n2. Aprendendo CoffeeScript: Ao aprender CoffeeScript, usar a ferramenta CoffeeScript to JavaScript pode ajudar os alunos a entender melhor o significado e a estrutura do código CoffeeScript.\n\n3. Revisão de código: Durante a revisão de código, os revisores podem usar a ferramenta CoffeeScript to JavaScript para converter o código CoffeeScript em código JavaScript para uma visualização e compreensão mais fáceis da estrutura do código."
+    },
+    "ru": {
+      "$name": "Компилятор CoffeeScript в JavaScript",
+      "$keywords": [
+        "coffeescript",
+        "javascript",
+        "convert",
+        "compile",
+        "conversion",
+        "compilation"
+      ],
+      "$description": "Инструмент CoffeeScript to JavaScript - это инструмент, используемый для преобразования кода CoffeeScript в код JavaScript. Он может преобразовывать входной код CoffeeScript в код JavaScript, который легко читать и понимать.\n\nОсобенности:\n\n1. Вставьте или введите код CoffeeScript в инструмент.\n\n2. Инструмент автоматически преобразует входной код CoffeeScript в код JavaScript.\n\n3. Преобразованный код JavaScript будет отображаться в выходной области инструмента.\n\nПрименение:\n\n1. Разработка фронт-энда: В разработке фронт-энда разработчики могут использовать CoffeeScript для написания кода, а затем использовать инструмент CoffeeScript to JavaScript для преобразования его в код JavaScript для запуска в браузере.\n\n2. Изучение CoffeeScript: При изучении CoffeeScript использование инструмента CoffeeScript to JavaScript может помочь студентам лучше понять смысл и структуру кода CoffeeScript.\n\n3. Обзор кода: Во время обзора кода рецензенты могут использовать инструмент CoffeeScript to JavaScript для преобразования кода CoffeeScript в код JavaScript для более легкого просмотра и понимания структуры кода."
+    },
+    "it": {
+      "$name": "CoffeeScript to Javascript",
+      "$keywords": [
+        "coffeescript",
+        "javascript",
+        "convertire",
+        "compilare",
+        "conversione",
+        "compilazione"
+      ],
+      "$description": "Lo strumento CoffeeScript to JavaScript è uno strumento utilizzato per convertire il codice CoffeeScript in codice JavaScript. Può convertire il codice CoffeeScript di input in codice JavaScript facile da leggere e capire.\n\nCaratteristiche:\n\n1. Incolla o inserisci il codice CoffeeScript nello strumento.\n\n2. Lo strumento convertirà automaticamente il codice CoffeeScript di input in codice JavaScript.\n\n3. Il codice JavaScript convertito verrà visualizzato nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Sviluppo front-end: Nel front-end development, gli sviluppatori possono utilizzare CoffeeScript per scrivere il codice e poi utilizzare lo strumento CoffeeScript to JavaScript per convertirlo in codice JavaScript per l'esecuzione nel browser.\n\n2. Apprendimento di CoffeeScript: Durante l'apprendimento di CoffeeScript, l'utilizzo dello strumento CoffeeScript to JavaScript può aiutare gli studenti a comprendere meglio il significato e la struttura del codice CoffeeScript.\n\n3. Revisione del codice: Durante la revisione del codice, i revisori possono utilizzare lo strumento CoffeeScript to JavaScript per convertire il codice CoffeeScript in codice JavaScript per una visualizzazione e comprensione più facile della struttura del codice."
+    },
+    "fr": {
+      "$name": "CoffeeScript vers Javascript",
+      "$keywords": [
+        "coffeescript",
+        "javascript",
+        "convert",
+        "compiler",
+        "conversion",
+        "compilation"
+      ],
+      "$description": "L'outil CoffeeScript to JavaScript est un outil utilisé pour convertir du code CoffeeScript en code JavaScript. Il peut convertir le code CoffeeScript en code JavaScript facile à lire et à comprendre.\n\nFonctionnalités :\n\n1. Collez ou entrez du code CoffeeScript dans l'outil.\n\n2. L'outil convertira automatiquement le code CoffeeScript en code JavaScript.\n\n3. Le code JavaScript converti sera affiché dans la zone de sortie de l'outil.\n\nCas d'utilisation :\n\n1. Développement front-end : En développement front-end, les développeurs peuvent utiliser CoffeeScript pour écrire du code, puis utiliser l'outil CoffeeScript to JavaScript pour le convertir en code JavaScript pour l'exécution dans le navigateur.\n\n2. Apprentissage de CoffeeScript : Lors de l'apprentissage de CoffeeScript, l'utilisation de l'outil CoffeeScript to JavaScript peut aider les étudiants à mieux comprendre la signification et la structure du code CoffeeScript.\n\n3. Révision de code : Pendant la révision de code, les examinateurs peuvent utiliser l'outil CoffeeScript to JavaScript pour convertir le code CoffeeScript en code JavaScript pour une visualisation et une compréhension plus faciles de la structure du code."
+    },
+    "de": {
+      "$name": "CoffeeScript zu Javascript",
+      "$keywords": [
+        "Coffeescript",
+        "Javascript",
+        "Umwandeln",
+        "Kompilieren",
+        "Umwandlung",
+        "Kompilierung"
+      ],
+      "$description": "Die CoffeeScript zu JavaScript-Tool ist ein Werkzeug, das verwendet wird, um CoffeeScript-Code in JavaScript-Code umzuwandeln. Es kann den eingegebenen CoffeeScript-Code in JavaScript-Code umwandeln, der einfach zu lesen und zu verstehen ist.\n\nFunktionen:\n\n1. Fügen Sie den CoffeeScript-Code in das Tool ein oder geben Sie ihn ein.\n\n2. Das Tool wandelt den eingegebenen CoffeeScript-Code automatisch in JavaScript-Code um.\n\n3. Der konvertierte JavaScript-Code wird im Ausgabe-Bereich des Tools angezeigt.\n\nAnwendungsfälle:\n\n1. Front-End-Entwicklung: Bei der Front-End-Entwicklung können Entwickler CoffeeScript verwenden, um Code zu schreiben, und dann das CoffeeScript zu JavaScript-Tool verwenden, um ihn in JavaScript-Code umzuwandeln, der im Browser ausgeführt werden kann.\n\n2. CoffeeScript lernen: Beim Erlernen von CoffeeScript kann die Verwendung des CoffeeScript zu JavaScript-Tools den Schülern helfen, die Bedeutung und Struktur des CoffeeScript-Codes besser zu verstehen.\n\n3. Code-Überprüfung: Während der Code-Überprüfung können Reviewer das CoffeeScript zu JavaScript-Tool verwenden, um CoffeeScript-Code in JavaScript-Code umzuwandeln, um die Code-Struktur einfacher anzeigen und verstehen zu können."
+    },
+    "ko": {
+      "$name": "커피스크립트를 자바스크립트로",
+      "$keywords": [
+        "커피스크립트",
+        "자바스크립트",
+        "변환",
+        "컴파일",
+        "변환",
+        "컴파일"
+      ],
+      "$description": "커피스크립트를 자바스크립트로 변환하는 도구인 CoffeeScript to JavaScript tool은 입력된 커피스크립트 코드를 쉽게 읽고 이해할 수 있는 자바스크립트 코드로 변환하는 데 사용됩니다.\n\n기능:\n\n1. 도구에 커피스크립트 코드를 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 입력된 커피스크립트 코드를 자바스크립트 코드로 변환합니다.\n\n3. 변환된 자바스크립트 코드는 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. 프론트엔드 개발: 프론트엔드 개발에서 개발자는 커피스크립트로 코드를 작성한 다음 커피스크립트를 자바스크립트로 변환하여 브라우저에서 실행할 수 있습니다.\n\n2. 커피스크립트 학습: 커피스크립트를 학습할 때, CoffeeScript to JavaScript tool을 사용하면 학생들이 커피스크립트 코드의 의미와 구조를 더 잘 이해할 수 있습니다.\n\n3. 코드 검토: 코드 검토 중에 리뷰어는 커피스크립트 코드를 자바스크립트 코드로 변환하여 코드 구조를 더 쉽게 볼 수 있습니다."
+    },
+    "ja": {
+      "$name": "CoffeeScriptからJavaScriptへの変換ツール",
+      "$keywords": [
+        "コーヒースクリプト",
+        "ジャバスクリプト",
+        "変換",
+        "コンパイル",
+        "変換",
+        "コンパイル"
+      ],
+      "$description": "コーヒースクリプトからJavaScriptへの変換ツールは、コーヒースクリプトのコードをJavaScriptのコードに変換するために使用されるツールです。このツールは、入力されたコーヒースクリプトコードを読みやすく理解しやすいJavaScriptコードに変換することができます。\n\n特徴：\n\n1. コーヒースクリプトコードをツールに貼り付けるか、入力します。\n\n2. ツールは自動的に入力されたコーヒースクリプトコードをJavaScriptコードに変換します。\n\n3. 変換されたJavaScriptコードは、ツールの出力エリアに表示されます。\n\n使用例：\n\n1. フロントエンド開発：フロントエンド開発では、開発者はコードを書くためにコーヒースクリプトを使用し、その後、コーヒースクリプトからJavaScriptへの変換ツールを使用してブラウザで実行するためのJavaScriptコードに変換することができます。\n\n2. コーヒースクリプトの学習：コーヒースクリプトの学習中に、コーヒースクリプトからJavaScriptへの変換ツールを使用することで、学生はコーヒースクリプトコードの意味や構造をより理解することができます。\n\n3. コードレビュー：コードレビュー中に、レビュアーはコーヒースクリプトコードをJavaScriptコードに変換して、コードの構造をより簡単に表示し理解するために、コーヒースクリプトからJavaScriptへの変換ツールを使用することができます。"
+    },
+    "es": {
+      "$name": "CoffeeScript a Javascript",
+      "$keywords": [
+        "coffeescript",
+        "javascript",
+        "convertir",
+        "compilar",
+        "conversión",
+        "compilación"
+      ],
+      "$description": "La herramienta CoffeeScript to JavaScript es una herramienta utilizada para convertir código CoffeeScript a código JavaScript. Puede convertir el código CoffeeScript de entrada en código JavaScript fácil de leer y entender.\n\nCaracterísticas:\n\n1. Pegue o ingrese el código CoffeeScript en la herramienta.\n\n2. La herramienta convertirá automáticamente el código CoffeeScript de entrada en código JavaScript.\n\n3. El código JavaScript convertido se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Desarrollo de front-end: En el desarrollo de front-end, los desarrolladores pueden usar CoffeeScript para escribir código y luego usar la herramienta CoffeeScript to JavaScript para convertirlo a código JavaScript para ejecutarlo en el navegador.\n\n2. Aprendizaje de CoffeeScript: Al aprender CoffeeScript, el uso de la herramienta CoffeeScript to JavaScript puede ayudar a los estudiantes a comprender mejor el significado y la estructura del código CoffeeScript.\n\n3. Revisión de código: Durante la revisión de código, los revisores pueden usar la herramienta CoffeeScript to JavaScript para convertir el código CoffeeScript a código JavaScript para una visualización y comprensión más fácil de la estructura del código."
+    },
+    "zh-cn": {
+      "$name": "CoffeeScript to Javascript",
+      "$keywords": [
+        "CoffeeScript",
+        "JavaScript",
+        "转换",
+        "编译",
+        "转换",
+        "编译"
+      ],
+      "$description": "CoffeeScript转JavaScript工具是一种用于将CoffeeScript代码转换为JavaScript代码的工具。它可以将输入的CoffeeScript代码转换为易于阅读和理解的JavaScript代码。\n\n特点：\n\n1. 将CoffeeScript代码粘贴或输入到工具中。\n\n2. 工具将自动将输入的CoffeeScript代码转换为JavaScript代码。\n\n3. 转换后的JavaScript代码将显示在工具的输出区域中。\n\n用途：\n\n1. 前端开发：在前端开发中，开发人员可以使用CoffeeScript编写代码，然后使用CoffeeScript转JavaScript工具将其转换为在浏览器中运行的JavaScript代码。\n\n2. 学习CoffeeScript：学习CoffeeScript时，使用CoffeeScript转JavaScript工具可以帮助学生更好地理解CoffeeScript代码的含义和结构。\n\n3. 代码审查：在代码审查期间，审查人员可以使用CoffeeScript转JavaScript工具将CoffeeScript代码转换为JavaScript代码，以便更轻松地查看和理解代码结构。"
+    }
+  },
+  {
+    "id": "js-escape",
+    "en": {
+      "$name": "JavaScript Escape",
+      "$keywords": [
+        "escape",
+        "javascript",
+        "Escape characters",
+        "Special characters",
+        "Data transmission",
+        "Data storage"
+      ],
+      "$description": "JavaScript Escape tool is a tool used to escape special characters in JavaScript strings. It can escape special characters in JavaScript strings into corresponding escape characters, so that these characters can be used correctly in the code.\n\nFeatures:\n\n1. Paste or input the JavaScript string into the tool.\n\n2. The tool will automatically escape the special characters in the JavaScript string.\n\n3. The escaped JavaScript string will be displayed in the output area of the tool.\n\nUse cases:\n\n1. JavaScript development: In the process of JavaScript development, developers often need to use special characters, such as line breaks, tabs, etc. Using the JavaScript Escape tool can escape these special characters into corresponding escape characters, so that these characters can be used correctly in the code.\n\n2. Data transmission: During data transmission, special characters may be misinterpreted or truncated. Using the JavaScript Escape tool can escape special characters into corresponding escape characters, so that these characters can be transmitted correctly during data transmission.\n\n3. Data storage: When storing JavaScript strings in a database or file, special characters may cause storage errors. Using the JavaScript Escape tool can escape special characters into corresponding escape characters, so that these characters can be stored correctly."
+    },
+    "pt": {
+      "$name": "Escape JavaScript",
+      "$keywords": [
+        "escape",
+        "javascript",
+        "Caracteres de escape",
+        "Caracteres especiais",
+        "Transmissão de dados",
+        "Armazenamento de dados"
+      ],
+      "$description": "A ferramenta de escape do JavaScript é usada para escapar caracteres especiais em strings do JavaScript. Ela pode escapar caracteres especiais em strings do JavaScript em caracteres de escape correspondentes, para que esses caracteres possam ser usados corretamente no código.\n\nRecursos:\n\n1. Cole ou insira a string do JavaScript na ferramenta.\n\n2. A ferramenta automaticamente escapará os caracteres especiais na string do JavaScript.\n\n3. A string do JavaScript escapada será exibida na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Desenvolvimento do JavaScript: No processo de desenvolvimento do JavaScript, os desenvolvedores frequentemente precisam usar caracteres especiais, como quebras de linha, tabulações, etc. Usando a ferramenta de escape do JavaScript, é possível escapar esses caracteres especiais em caracteres de escape correspondentes, para que esses caracteres possam ser usados corretamente no código.\n\n2. Transmissão de dados: Durante a transmissão de dados, caracteres especiais podem ser interpretados erroneamente ou truncados. Usando a ferramenta de escape do JavaScript, é possível escapar caracteres especiais em caracteres de escape correspondentes, para que esses caracteres possam ser transmitidos corretamente durante a transmissão de dados.\n\n3. Armazenamento de dados: Ao armazenar strings do JavaScript em um banco de dados ou arquivo, caracteres especiais podem causar erros de armazenamento. Usando a ferramenta de escape do JavaScript, é possível escapar caracteres especiais em caracteres de escape correspondentes, para que esses caracteres possam ser armazenados corretamente."
+    },
+    "ru": {
+      "$name": "JavaScript Escape",
+      "$keywords": [
+        "escape",
+        "javascript",
+        "Escape characters",
+        "Special characters",
+        "Data transmission",
+        "Data storage"
+      ],
+      "$description": "Инструмент JavaScript Escape используется для экранирования специальных символов в строках JavaScript. Он может экранировать специальные символы в строках JavaScript в соответствующие экранированные символы, чтобы эти символы могли быть использованы правильно в коде.\n\nОсобенности:\n\n1. Вставьте или введите строку JavaScript в инструмент.\n\n2. Инструмент автоматически экранирует специальные символы в строке JavaScript.\n\n3. Экранированная строка JavaScript будет отображаться в области вывода инструмента.\n\nПрименение:\n\n1. Разработка на JavaScript: В процессе разработки на JavaScript разработчики часто должны использовать специальные символы, такие как переносы строк, табуляции и т.д. Использование инструмента JavaScript Escape может экранировать эти специальные символы в соответствующие экранированные символы, чтобы эти символы могли быть использованы правильно в коде.\n\n2. Передача данных: Во время передачи данных специальные символы могут быть неправильно интерпретированы или усечены. Использование инструмента JavaScript Escape может экранировать специальные символы в соответствующие экранированные символы, чтобы эти символы могли быть переданы правильно во время передачи данных.\n\n3. Хранение данных: При хранении строк JavaScript в базе данных или файле специальные символы могут вызвать ошибки хранения. Использование инструмента JavaScript Escape может экранировать специальные символы в соответствующие экранированные символы, чтобы эти символы могли быть сохранены правильно."
+    },
+    "it": {
+      "$name": "JavaScript Escape",
+      "$keywords": [
+        "escape",
+        "javascript",
+        "Caratteri di escape",
+        "Caratteri speciali",
+        "Trasmissione dati",
+        "Archiviazione dati"
+      ],
+      "$description": "Lo strumento di escape JavaScript è uno strumento utilizzato per eseguire l'escape dei caratteri speciali nelle stringhe JavaScript. Può eseguire l'escape dei caratteri speciali nelle stringhe JavaScript in corrispondenti caratteri di escape, in modo che questi caratteri possano essere utilizzati correttamente nel codice.\n\nCaratteristiche:\n\n1. Incolla o inserisci la stringa JavaScript nello strumento.\n\n2. Lo strumento eseguirà automaticamente l'escape dei caratteri speciali nella stringa JavaScript.\n\n3. La stringa JavaScript con caratteri di escape verrà visualizzata nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Sviluppo JavaScript: Nel processo di sviluppo JavaScript, gli sviluppatori spesso hanno bisogno di utilizzare caratteri speciali, come interruzioni di linea, tabulazioni, ecc. Utilizzando lo strumento di escape JavaScript, è possibile eseguire l'escape di questi caratteri speciali in corrispondenti caratteri di escape, in modo che questi caratteri possano essere utilizzati correttamente nel codice.\n\n2. Trasmissione dati: Durante la trasmissione dei dati, i caratteri speciali possono essere interpretati in modo errato o troncati. Utilizzando lo strumento di escape JavaScript, è possibile eseguire l'escape dei caratteri speciali in corrispondenti caratteri di escape, in modo che questi caratteri possano essere trasmessi correttamente durante la trasmissione dei dati.\n\n3. Archiviazione dati: Quando si archiviano le stringhe JavaScript in un database o file, i caratteri speciali possono causare errori di archiviazione. Utilizzando lo strumento di escape JavaScript, è possibile eseguire l'escape dei caratteri speciali in corrispondenti caratteri di escape, in modo che questi caratteri possano essere archiviati correttamente."
+    },
+    "fr": {
+      "$name": "Échappement JavaScript",
+      "$keywords": [
+        "échapper",
+        "javascript",
+        "caractères d'échappement",
+        "caractères spéciaux",
+        "transmission de données",
+        "stockage de données"
+      ],
+      "$description": "Outil d'échappement JavaScript est un outil utilisé pour échapper les caractères spéciaux dans les chaînes JavaScript. Il peut échapper les caractères spéciaux dans les chaînes JavaScript en caractères d'échappement correspondants, de sorte que ces caractères peuvent être utilisés correctement dans le code.\n\nFonctionnalités:\n\n1. Collez ou entrez la chaîne JavaScript dans l'outil.\n\n2. L'outil échappera automatiquement les caractères spéciaux dans la chaîne JavaScript.\n\n3. La chaîne JavaScript échappée sera affichée dans la zone de sortie de l'outil.\n\nCas d'utilisation:\n\n1. Développement JavaScript: Au cours du développement JavaScript, les développeurs ont souvent besoin d'utiliser des caractères spéciaux, tels que des sauts de ligne, des tabulations, etc. En utilisant l'outil d'échappement JavaScript, ces caractères spéciaux peuvent être échappés en caractères d'échappement correspondants, de sorte que ces caractères peuvent être utilisés correctement dans le code.\n\n2. Transmission de données: Pendant la transmission de données, des caractères spéciaux peuvent être mal interprétés ou tronqués. En utilisant l'outil d'échappement JavaScript, les caractères spéciaux peuvent être échappés en caractères d'échappement correspondants, de sorte que ces caractères peuvent être transmis correctement pendant la transmission de données.\n\n3. Stockage de données: Lorsque vous stockez des chaînes JavaScript dans une base de données ou un fichier, des caractères spéciaux peuvent causer des erreurs de stockage. En utilisant l'outil d'échappement JavaScript, les caractères spéciaux peuvent être échappés en caractères d'échappement correspondants, de sorte que ces caractères peuvent être stockés correctement."
+    },
+    "de": {
+      "$name": "JavaScript Escape",
+      "$keywords": [
+        "Escape",
+        "JavaScript",
+        "Escape-Zeichen",
+        "Sonderzeichen",
+        "Datenübertragung",
+        "Daten speichern"
+      ],
+      "$description": "JavaScript Escape-Tool ist ein Werkzeug, das verwendet wird, um Sonderzeichen in JavaScript-Strings zu escapen. Es kann Sonderzeichen in JavaScript-Strings in entsprechende Escape-Zeichen escapen, damit diese Zeichen im Code korrekt verwendet werden können.\n\nFunktionen:\n\n1. Fügen Sie den JavaScript-String in das Werkzeug ein oder geben Sie ihn ein.\n\n2. Das Werkzeug escapet automatisch die Sonderzeichen im JavaScript-String.\n\n3. Der escapte JavaScript-String wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\nAnwendungsfälle:\n\n1. JavaScript-Entwicklung: Im Prozess der JavaScript-Entwicklung müssen Entwickler oft Sonderzeichen wie Zeilenumbrüche, Tabs usw. verwenden. Mit dem JavaScript Escape-Tool können diese Sonderzeichen in entsprechende Escape-Zeichen escapet werden, damit diese Zeichen im Code korrekt verwendet werden können.\n\n2. Datenübertragung: Während der Datenübertragung können Sonderzeichen falsch interpretiert oder abgeschnitten werden. Mit dem JavaScript Escape-Tool können Sonderzeichen in entsprechende Escape-Zeichen escapet werden, damit diese Zeichen während der Datenübertragung korrekt übertragen werden können.\n\n3. Datenspeicherung: Beim Speichern von JavaScript-Strings in einer Datenbank oder Datei können Sonderzeichen Speicherfehler verursachen. Mit dem JavaScript Escape-Tool können Sonderzeichen in entsprechende Escape-Zeichen escapet werden, damit diese Zeichen korrekt gespeichert werden können."
+    },
+    "ko": {
+      "$name": "JavaScript 이스케이프",
+      "$keywords": [
+        "이스케이프",
+        "자바스크립트",
+        "이스케이프 문자",
+        "특수 문자",
+        "데이터 전송",
+        "데이터 저장"
+      ],
+      "$description": "JavaScript Escape 도구는 JavaScript 문자열에서 특수 문자를 이스케이프하는 데 사용되는 도구입니다. 이 도구는 JavaScript 문자열에서 특수 문자를 해당 이스케이프 문자로 이스케이프하여 코드에서 이러한 문자를 올바르게 사용할 수 있도록 합니다.\n\n기능:\n\n1. JavaScript 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 JavaScript 문자열에서 특수 문자를 이스케이프합니다.\n\n3. 이스케이프된 JavaScript 문자열은 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. JavaScript 개발: JavaScript 개발 과정에서 개발자는 종종 줄 바꿈, 탭 등과 같은 특수 문자를 사용해야 합니다. JavaScript Escape 도구를 사용하면 이러한 특수 문자를 해당 이스케이프 문자로 이스케이프하여 코드에서 이러한 문자를 올바르게 사용할 수 있습니다.\n\n2. 데이터 전송: 데이터 전송 중에는 특수 문자가 잘못 해석되거나 잘릴 수 있습니다. JavaScript Escape 도구를 사용하면 특수 문자를 해당 이스케이프 문자로 이스케이프하여 데이터 전송 중에 이러한 문자를 올바르게 전송할 수 있습니다.\n\n3. 데이터 저장: 데이터베이스나 파일에 JavaScript 문자열을 저장할 때 특수 문자가 저장 오류를 일으킬 수 있습니다. JavaScript Escape 도구를 사용하면 특수 문자를 해당 이스케이프 문자로 이스케이프하여 이러한 문자를 올바르게 저장할 수 있습니다."
+    },
+    "ja": {
+      "$name": "JavaScriptエスケープ",
+      "$keywords": [
+        "エスケープ",
+        "JavaScript",
+        "エスケープ文字",
+        "特殊文字",
+        "データ伝送",
+        "データ保存"
+      ],
+      "$description": "JavaScriptエスケープツールは、JavaScript文字列内の特殊文字をエスケープするために使用されるツールです。このツールを使用すると、JavaScript文字列内の特殊文字を対応するエスケープ文字に変換することができます。これにより、これらの文字をコード内で正しく使用することができます。\n\n特徴：\n\n1. JavaScript文字列をツールに貼り付けるか入力します。\n\n2. ツールは、JavaScript文字列内の特殊文字を自動的にエスケープします。\n\n3. エスケープされたJavaScript文字列がツールの出力領域に表示されます。\n\n使用例：\n\n1. JavaScript開発：JavaScript開発のプロセスで、開発者はしばしば改行、タブなどの特殊文字を使用する必要があります。JavaScriptエスケープツールを使用すると、これらの特殊文字を対応するエスケープ文字に変換することができます。これにより、これらの文字をコード内で正しく使用することができます。\n\n2. データ伝送：データ伝送中に、特殊文字が誤解釈されたり切り捨てられたりすることがあります。JavaScriptエスケープツールを使用すると、特殊文字を対応するエスケープ文字に変換することができます。これにより、データ伝送中にこれらの文字を正しく伝送することができます。\n\n3. データストレージ：JavaScript文字列をデータベースやファイルに保存する際、特殊文字がストレージエラーを引き起こすことがあります。JavaScriptエスケープツールを使用すると、特殊文字を対応するエスケープ文字に変換することができます。これにより、これらの文字を正しく保存することができます。"
+    },
+    "es": {
+      "$name": "JavaScript Escape",
+      "$keywords": [
+        "escape",
+        "javascript",
+        "caracteres de escape",
+        "caracteres especiales",
+        "transmisión de datos",
+        "almacenamiento de datos"
+      ],
+      "$description": "La herramienta de escape de JavaScript es una herramienta utilizada para escapar caracteres especiales en cadenas de JavaScript. Puede escapar caracteres especiales en cadenas de JavaScript en caracteres de escape correspondientes, para que estos caracteres puedan ser utilizados correctamente en el código.\n\nCaracterísticas:\n\n1. Pegue o ingrese la cadena de JavaScript en la herramienta.\n\n2. La herramienta escapará automáticamente los caracteres especiales en la cadena de JavaScript.\n\n3. La cadena de JavaScript escapada se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Desarrollo de JavaScript: En el proceso de desarrollo de JavaScript, los desarrolladores a menudo necesitan usar caracteres especiales, como saltos de línea, tabulaciones, etc. Usando la herramienta de escape de JavaScript, se pueden escapar estos caracteres especiales en caracteres de escape correspondientes, para que estos caracteres puedan ser utilizados correctamente en el código.\n\n2. Transmisión de datos: Durante la transmisión de datos, los caracteres especiales pueden ser malinterpretados o truncados. Usando la herramienta de escape de JavaScript, se pueden escapar los caracteres especiales en caracteres de escape correspondientes, para que estos caracteres puedan ser transmitidos correctamente durante la transmisión de datos.\n\n3. Almacenamiento de datos: Al almacenar cadenas de JavaScript en una base de datos o archivo, los caracteres especiales pueden causar errores de almacenamiento. Usando la herramienta de escape de JavaScript, se pueden escapar los caracteres especiales en caracteres de escape correspondientes, para que estos caracteres puedan ser almacenados correctamente."
+    },
+    "zh-tw": {
+      "$name": "JavaScript 轉義",
+      "$keywords": [
+        "轉義",
+        "JavaScript",
+        "轉義字元",
+        "特殊字元",
+        "資料傳輸",
+        "資料儲存"
+      ],
+      "$description": "JavaScript 轉義工具是一個用於轉義 JavaScript 字符串中特殊字符的工具。它可以將 JavaScript 字符串中的特殊字符轉義為相應的轉義字符，以便這些字符可以在代碼中正確使用。\n\n特點：\n\n1. 將 JavaScript 字符串粘貼或輸入到工具中。\n\n2. 工具將自動轉義 JavaScript 字符串中的特殊字符。\n\n3. 轉義後的 JavaScript 字符串將顯示在工具的輸出區域中。\n\n用例：\n\n1. JavaScript 開發：在 JavaScript 開發過程中，開發人員經常需要使用特殊字符，例如換行符、制表符等。使用 JavaScript 轉義工具可以將這些特殊字符轉義為相應的轉義字符，以便這些字符可以在代碼中正確使用。\n\n2. 數據傳輸：在數據傳輸過程中，特殊字符可能會被錯誤解釋或截斷。使用 JavaScript 轉義工具可以將特殊字符轉義為相應的轉義字符，以便在數據傳輸期間可以正確傳輸這些字符。\n\n3. 數據存儲：在將 JavaScript 字符串存儲到數據庫或文件中時，特殊字符可能會導致存儲錯誤。使用 JavaScript 轉義工具可以將特殊字符轉義為相應的轉義字符，以便這些字符可以正確存儲。"
+    },
+    "zh-cn": {
+      "$name": "JavaScript转义",
+      "$keywords": [
+        "转义",
+        "JavaScript",
+        "转义字符",
+        "特殊字符",
+        "数据传输",
+        "数据存储"
+      ],
+      "$description": "JavaScript转义工具是一种用于转义JavaScript字符串中特殊字符的工具。它可以将JavaScript字符串中的特殊字符转义为相应的转义字符，以便这些字符可以在代码中正确使用。\n\n特点：\n\n1. 将JavaScript字符串粘贴或输入到工具中。\n\n2. 工具将自动转义JavaScript字符串中的特殊字符。\n\n3. 转义后的JavaScript字符串将显示在工具的输出区域中。\n\n用途：\n\n1. JavaScript开发：在JavaScript开发过程中，开发人员经常需要使用特殊字符，例如换行符、制表符等。使用JavaScript转义工具可以将这些特殊字符转义为相应的转义字符，以便这些字符可以在代码中正确使用。\n\n2. 数据传输：在数据传输过程中，特殊字符可能会被错误解释或截断。使用JavaScript转义工具可以将特殊字符转义为相应的转义字符，以便在数据传输期间正确传输这些字符。\n\n3. 数据存储：在将JavaScript字符串存储在数据库或文件中时，特殊字符可能会导致存储错误。使用JavaScript转义工具可以将特殊字符转义为相应的转义字符，以便这些字符可以正确存储。"
+    }
+  },
+  {
+    "id": "js-unescape",
+    "en": {
+      "$name": "JavaScript Unescape",
+      "$keywords": [
+        "unescape",
+        "javascript",
+        "JavaScript escape characters",
+        "string decoding",
+        "data processing",
+        "code review"
+      ],
+      "$description": "JavaScript Unescape tool is a tool used to convert JavaScript escape characters to their original characters. It can decode escape characters in JavaScript strings, making them easier to read and understand.\n\nFeatures:\n\n1. Paste or input the JavaScript string that needs to be decoded into the tool.\n\n2. The tool will automatically detect the input string and decode it.\n\n3. The decoded string will be displayed in the tool's output area.\n\nUse cases:\n\n1. JavaScript development and testing: When developing or testing JavaScript code, developers often need to view strings containing escape characters. Using the JavaScript Unescape tool can convert escape characters to original characters, making it easy to quickly check the string content.\n\n2. Data processing: When processing data containing escape characters, using this tool can convert escape characters to original characters, thereby better understanding the data structure and content.\n\n3. Code review: During the code review process, reviewers can use the JavaScript Unescape tool to decode strings containing escape characters, making it easier to view and understand the code logic."
+    },
+    "pt": {
+      "$name": "JavaScript Unescape",
+      "$keywords": [
+        "unescape",
+        "javascript",
+        "caracteres de escape do JavaScript",
+        "decodificação de string",
+        "processamento de dados",
+        "revisão de código"
+      ],
+      "$description": "A ferramenta JavaScript Unescape é usada para converter caracteres de escape JavaScript em seus caracteres originais. Ela pode decodificar caracteres de escape em strings JavaScript, tornando-as mais fáceis de ler e entender.\n\nRecursos:\n\n1. Cole ou insira a string JavaScript que precisa ser decodificada na ferramenta.\n\n2. A ferramenta detectará automaticamente a string de entrada e a decodificará.\n\n3. A string decodificada será exibida na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de JavaScript: ao desenvolver ou testar código JavaScript, os desenvolvedores frequentemente precisam visualizar strings contendo caracteres de escape. Usando a ferramenta JavaScript Unescape, é possível converter caracteres de escape em caracteres originais, facilitando a verificação rápida do conteúdo da string.\n\n2. Processamento de dados: ao processar dados contendo caracteres de escape, o uso desta ferramenta pode converter caracteres de escape em caracteres originais, permitindo uma melhor compreensão da estrutura e conteúdo dos dados.\n\n3. Revisão de código: durante o processo de revisão de código, os revisores podem usar a ferramenta JavaScript Unescape para decodificar strings contendo caracteres de escape, tornando mais fácil visualizar e entender a lógica do código."
+    },
+    "ru": {
+      "$name": "JavaScript Unescape",
+      "$keywords": [
+        "unescape",
+        "javascript",
+        "JavaScript escape characters",
+        "string decoding",
+        "data processing",
+        "code review"
+      ],
+      "$description": "Инструмент JavaScript Unescape - это инструмент, используемый для преобразования символов экранирования JavaScript в их исходные символы. Он может декодировать символы экранирования в строках JavaScript, что делает их более читабельными и понятными.\n\nОсобенности:\n\n1. Вставьте или введите строку JavaScript, которую нужно декодировать в инструмент.\n\n2. Инструмент автоматически обнаружит входную строку и декодирует ее.\n\n3. Декодированная строка будет отображаться в выходной области инструмента.\n\nПрименение:\n\n1. Разработка и тестирование JavaScript: При разработке или тестировании кода JavaScript разработчики часто должны просматривать строки, содержащие символы экранирования. Использование инструмента JavaScript Unescape может преобразовать символы экранирования в исходные символы, что позволяет быстро проверить содержимое строки.\n\n2. Обработка данных: При обработке данных, содержащих символы экранирования, использование этого инструмента может преобразовать символы экранирования в исходные символы, что позволяет лучше понимать структуру и содержание данных.\n\n3. Обзор кода: Во время процесса обзора кода рецензенты могут использовать инструмент JavaScript Unescape для декодирования строк, содержащих символы экранирования, что упрощает просмотр и понимание логики кода."
+    },
+    "it": {
+      "$name": "JavaScript Unescape",
+      "$keywords": [
+        "unescape",
+        "javascript",
+        "caratteri di escape JavaScript",
+        "decodifica di stringhe",
+        "elaborazione di dati",
+        "revisione del codice"
+      ],
+      "$description": "Lo strumento JavaScript Unescape è uno strumento utilizzato per convertire i caratteri di escape JavaScript nei loro caratteri originali. Può decodificare i caratteri di escape nelle stringhe JavaScript, rendendole più facili da leggere e capire.\n\nCaratteristiche:\n\n1. Incolla o inserisci la stringa JavaScript che deve essere decodificata nello strumento.\n\n2. Lo strumento rileverà automaticamente la stringa di input e la decodificherà.\n\n3. La stringa decodificata verrà visualizzata nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Sviluppo e testing di JavaScript: durante lo sviluppo o il testing del codice JavaScript, gli sviluppatori spesso devono visualizzare stringhe contenenti caratteri di escape. Utilizzando lo strumento JavaScript Unescape, è possibile convertire i caratteri di escape in caratteri originali, facilitando la verifica del contenuto della stringa.\n\n2. Elaborazione dei dati: durante l'elaborazione dei dati contenenti caratteri di escape, l'utilizzo di questo strumento può convertire i caratteri di escape in caratteri originali, consentendo una migliore comprensione della struttura e del contenuto dei dati.\n\n3. Revisione del codice: durante il processo di revisione del codice, i revisori possono utilizzare lo strumento JavaScript Unescape per decodificare le stringhe contenenti caratteri di escape, rendendo più facile visualizzare e comprendere la logica del codice."
+    },
+    "fr": {
+      "$name": "JavaScript Unescape",
+      "$keywords": [
+        "décodage de chaîne",
+        "traitement de données",
+        "examen de code",
+        "caractères d'échappement JavaScript",
+        "JavaScript",
+        "unescape"
+      ],
+      "$description": "Outil de déséchappement JavaScript est un outil utilisé pour convertir les caractères d'échappement JavaScript en leurs caractères d'origine. Il peut décoder les caractères d'échappement dans les chaînes JavaScript, les rendant plus faciles à lire et à comprendre.\n\nFonctionnalités :\n\n1. Collez ou entrez la chaîne JavaScript qui doit être décodée dans l'outil.\n\n2. L'outil détectera automatiquement la chaîne d'entrée et la décodera.\n\n3. La chaîne décodée sera affichée dans la zone de sortie de l'outil.\n\nCas d'utilisation :\n\n1. Développement et test JavaScript : Lors du développement ou du test de code JavaScript, les développeurs ont souvent besoin de visualiser des chaînes contenant des caractères d'échappement. En utilisant l'outil de déséchappement JavaScript, les caractères d'échappement peuvent être convertis en caractères d'origine, ce qui permet de vérifier rapidement le contenu de la chaîne.\n\n2. Traitement de données : Lors du traitement de données contenant des caractères d'échappement, l'utilisation de cet outil peut convertir les caractères d'échappement en caractères d'origine, ce qui permet de mieux comprendre la structure et le contenu des données.\n\n3. Révision de code : Pendant le processus de révision de code, les examinateurs peuvent utiliser l'outil de déséchappement JavaScript pour décoder les chaînes contenant des caractères d'échappement, ce qui facilite la visualisation et la compréhension de la logique du code."
+    },
+    "de": {
+      "$name": "JavaScript Unescape",
+      "$keywords": [
+        "Unescape",
+        "JavaScript",
+        "JavaScript Escape-Zeichen",
+        "Zeichenfolgen-Decodierung",
+        "Datenverarbeitung",
+        "Code-Überprüfung"
+      ],
+      "$description": "JavaScript Unescape-Tool ist ein Werkzeug, das verwendet wird, um JavaScript Escape-Zeichen in ihre ursprünglichen Zeichen umzuwandeln. Es kann Escape-Zeichen in JavaScript-Zeichenketten decodieren, um sie leichter lesbar und verständlich zu machen.\n\nFunktionen:\n\n1. Fügen Sie die JavaScript-Zeichenkette, die decodiert werden soll, in das Werkzeug ein oder geben Sie sie ein.\n\n2. Das Werkzeug erkennt automatisch die Eingabezeichenkette und decodiert sie.\n\n3. Die decodierte Zeichenkette wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\nAnwendungsfälle:\n\n1. JavaScript-Entwicklung und -Test: Bei der Entwicklung oder dem Testen von JavaScript-Code müssen Entwickler oft Zeichenketten mit Escape-Zeichen anzeigen. Mit dem JavaScript Unescape-Tool können Escape-Zeichen in ursprüngliche Zeichen umgewandelt werden, um den Inhalt der Zeichenkette schnell zu überprüfen.\n\n2. Datenverarbeitung: Bei der Verarbeitung von Daten, die Escape-Zeichen enthalten, kann dieses Tool Escape-Zeichen in ursprüngliche Zeichen umwandeln, um die Datenstruktur und den Inhalt besser zu verstehen.\n\n3. Code-Überprüfung: Während des Code-Überprüfungsprozesses können Überprüfer das JavaScript Unescape-Tool verwenden, um Zeichenketten mit Escape-Zeichen zu decodieren, um die Code-Logik leichter anzeigen und verstehen zu können."
+    },
+    "ko": {
+      "$name": "JavaScript Unescape",
+      "$keywords": [
+        "unescape",
+        "자바스크립트",
+        "자바스크립트 이스케이프 문자",
+        "문자열 디코딩",
+        "데이터 처리",
+        "코드 검토"
+      ],
+      "$description": "JavaScript Unescape 도구는 JavaScript 이스케이프 문자를 원래 문자로 변환하는 데 사용되는 도구입니다. 이 도구는 JavaScript 문자열에서 이스케이프 문자를 디코딩하여 읽고 이해하기 쉽게 만들 수 있습니다.\n\n기능:\n\n1. 디코딩이 필요한 JavaScript 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 입력된 문자열을 자동으로 감지하고 디코딩합니다.\n\n3. 디코딩된 문자열은 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. JavaScript 개발 및 테스트: JavaScript 코드를 개발하거나 테스트할 때, 개발자는 종종 이스케이프 문자를 포함하는 문자열을 볼 필요가 있습니다. JavaScript Unescape 도구를 사용하면 이스케이프 문자를 원래 문자로 변환하여 문자열 내용을 빠르게 확인할 수 있습니다.\n\n2. 데이터 처리: 이스케이프 문자를 포함하는 데이터를 처리할 때, 이 도구를 사용하여 이스케이프 문자를 원래 문자로 변환하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다.\n\n3. 코드 검토: 코드 검토 과정에서 리뷰어는 이스케이프 문자를 포함하는 문자열을 디코딩하기 위해 JavaScript Unescape 도구를 사용할 수 있으며, 이를 통해 코드 논리를 더 쉽게 볼 수 있습니다."
+    },
+    "ja": {
+      "$name": "JavaScriptアンエスケープ",
+      "$keywords": [
+        "unescape",
+        "javascript",
+        "JavaScriptエスケープ文字",
+        "文字列のデコード",
+        "データ処理",
+        "コードレビュー"
+      ],
+      "$description": "JavaScript Unescapeツールは、JavaScriptエスケープ文字を元の文字に変換するために使用されるツールです。JavaScript文字列内のエスケープ文字をデコードし、読みやすく理解しやすくします。\n\n特徴：\n\n1. ツールにデコードする必要のあるJavaScript文字列を貼り付けるか入力します。\n\n2. ツールは入力文字列を自動的に検出し、デコードします。\n\n3. デコードされた文字列は、ツールの出力領域に表示されます。\n\n使用例：\n\n1. JavaScriptの開発とテスト：JavaScriptコードを開発またはテストする際、開発者はしばしばエスケープ文字を含む文字列を表示する必要があります。JavaScript Unescapeツールを使用すると、エスケープ文字を元の文字に変換して、文字列の内容をすばやく確認できます。\n\n2. データ処理：エスケープ文字を含むデータを処理する場合、このツールを使用すると、エスケープ文字を元の文字に変換して、データの構造と内容をより理解しやすくすることができます。\n\n3. コードレビュー：コードレビューのプロセス中、レビュアーはエスケープ文字を含む文字列をデコードするためにJavaScript Unescapeツールを使用し、コードのロジックを表示して理解しやすくすることができます。"
+    },
+    "es": {
+      "$name": "JavaScript Unescape",
+      "$keywords": [
+        "unescape",
+        "javascript",
+        "caracteres de escape de JavaScript",
+        "decodificación de cadena",
+        "procesamiento de datos",
+        "revisión de código"
+      ],
+      "$description": "La herramienta JavaScript Unescape es una herramienta utilizada para convertir caracteres de escape de JavaScript en sus caracteres originales. Puede decodificar caracteres de escape en cadenas de JavaScript, lo que las hace más fáciles de leer y entender.\n\nCaracterísticas:\n\n1. Pegue o ingrese la cadena de JavaScript que necesita ser decodificada en la herramienta.\n\n2. La herramienta detectará automáticamente la cadena de entrada y la decodificará.\n\n3. La cadena decodificada se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Desarrollo y prueba de JavaScript: al desarrollar o probar código JavaScript, los desarrolladores a menudo necesitan ver cadenas que contienen caracteres de escape. Usar la herramienta JavaScript Unescape puede convertir caracteres de escape en caracteres originales, lo que facilita la verificación rápida del contenido de la cadena.\n\n2. Procesamiento de datos: al procesar datos que contienen caracteres de escape, el uso de esta herramienta puede convertir caracteres de escape en caracteres originales, lo que permite comprender mejor la estructura y el contenido de los datos.\n\n3. Revisión de código: durante el proceso de revisión de código, los revisores pueden usar la herramienta JavaScript Unescape para decodificar cadenas que contienen caracteres de escape, lo que facilita la visualización y comprensión de la lógica del código."
+    },
+    "zh-tw": {
+      "$name": "JavaScript 反轉義",
+      "$keywords": [
+        "反轉義",
+        "JavaScript",
+        "JavaScript 轉義字元",
+        "字串解碼",
+        "資料處理",
+        "程式碼檢閱"
+      ],
+      "$description": "JavaScript Unescape 工具是一個用於將 JavaScript 轉義字符轉換為其原始字符的工具。它可以解碼 JavaScript 字符串中的轉義字符，使其更易於閱讀和理解。\n\n功能：\n\n1. 將需要解碼的 JavaScript 字符串粘貼或輸入到工具中。\n\n2. 工具將自動檢測輸入字符串並將其解碼。\n\n3. 解碼後的字符串將顯示在工具的輸出區域中。\n\n用途：\n\n1. JavaScript 開發和測試：在開發或測試 JavaScript 代碼時，開發人員經常需要查看包含轉義字符的字符串。使用 JavaScript Unescape 工具可以將轉義字符轉換為原始字符，輕鬆快速地檢查字符串內容。\n\n2. 數據處理：當處理包含轉義字符的數據時，使用此工具可以將轉義字符轉換為原始字符，從而更好地理解數據結構和內容。\n\n3. 代碼審查：在代碼審查過程中，審查人員可以使用 JavaScript Unescape 工具解碼包含轉義字符的字符串，使代碼邏輯更易於查看和理解。"
+    },
+    "zh-cn": {
+      "$name": "JavaScript 反转义",
+      "$keywords": [
+        "unescape",
+        "javascript",
+        "JavaScript转义字符",
+        "字符串解码",
+        "数据处理",
+        "代码审查"
+      ],
+      "$description": "JavaScript反转义工具是一种工具，用于将JavaScript转义字符转换为它们的原始字符。它可以解码JavaScript字符串中的转义字符，使它们更易于阅读和理解。\n\n特点：\n\n1. 将需要解码的JavaScript字符串粘贴或输入到工具中。\n\n2. 工具将自动检测输入字符串并对其进行解码。\n\n3. 解码后的字符串将显示在工具的输出区域中。\n\n用途：\n\n1. JavaScript开发和测试：在开发或测试JavaScript代码时，开发人员经常需要查看包含转义字符的字符串。使用JavaScript反转义工具可以将转义字符转换为原始字符，使得可以快速检查字符串内容。\n\n2. 数据处理：在处理包含转义字符的数据时，使用此工具可以将转义字符转换为原始字符，从而更好地理解数据结构和内容。\n\n3. 代码审查：在代码审查过程中，审查人员可以使用JavaScript反转义工具来解码包含转义字符的字符串，使得更容易查看和理解代码逻辑。"
+    }
+  },
+  {
+    "id": "javascript-minify",
+    "en": {
+      "$name": "JavaScript Compressor",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "minify",
+        "compress",
+        "uglify",
+        "compression",
+        "code compression",
+        "code optimization",
+        "performance optimization",
+        "compression tool",
+        "code review",
+        "Web development",
+        "loading speed"
+      ],
+      "$description": "JavaScript Compressor is a tool used to compress JavaScript code. It can compress JavaScript code, reduce file size, and improve loading speed.\n\nFeatures:\n\n1. Paste or input JavaScript code into the tool.\n\n2. The tool will automatically compress the JavaScript code.\n\n3. The compressed JavaScript code will be displayed in the tool's output area.\n\nUse cases:\n\n1. Web development: In web development, JavaScript code is an essential part. Using JavaScript Compressor can compress JavaScript code, reduce file size, and improve loading speed, thereby improving user experience.\n\n2. Code review: During code review, reviewers can use JavaScript Compressor to compress JavaScript code for easier viewing and understanding of code structure.\n\n3. Code optimization: During code optimization, developers can use JavaScript Compressor to compress JavaScript code, reduce file size, and improve loading speed, thereby improving website performance.\n\nTool dependencies:\n\n1. @he3-kit/utils: A JavaScript utility library that provides some commonly used utility functions.\n\n2. Terser: A JavaScript compression tool that can compress JavaScript code.\n\n3. js-beautify: A JavaScript formatting tool that can format JavaScript code.\n\n4. sample.ts: A JavaScript sample file used to demonstrate the use of JavaScript Compressor.\n\nTool source code:\n\nThe source code of JavaScript Compressor includes a javascript-minify.ts file and a sample.ts file.\n\nThe javascript-minify.ts file defines two functions: prettifyJS and minifyJS. The prettifyJS function uses the js-beautify library to format JavaScript code, and the minifyJS function uses the Terser library to compress JavaScript code. At the same time, the file also uses the transformTool function in @he3-kit/utils to encapsulate the prettifyJS and minifyJS functions into a tool function, specifying the input language as JAVASCRIPT, the output language as JAVASCRIPT, the sample data as sampleData.minify, the input processing function as minifyJS, and the output processing function as prettifyJS.\n\nThe sample.ts file defines a sampleData object, which contains two properties: prettify and minify. The prettify property contains a JavaScript sample code used to demonstrate the formatting function of JavaScript Compressor, and the minify property contains a JavaScript sample code used to demonstrate the compression function of JavaScript Compressor.\n\nInstructions:\n\n1. Paste or input the JavaScript code that needs to be compressed into the tool.\n\n2. Click the compress button, and the tool will automatically compress the JavaScript code.\n\n3. The compressed JavaScript code will be displayed in the tool's output area.\n\nNotes:\n\n1. Compressing JavaScript code may make the code structure difficult to understand, so it is recommended to back up the original code before compression.\n\n2. Compressing JavaScript code may cause errors, so it is recommended to test the code after compression."
+    },
+    "pt": {
+      "$name": "Compressor de JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "minificar",
+        "comprimir",
+        "uglify",
+        "compressão",
+        "compressão de código",
+        "otimização de código",
+        "otimização de desempenho",
+        "ferramenta de compressão",
+        "revisão de código",
+        "desenvolvimento web",
+        "velocidade de carregamento"
+      ],
+      "$description": "O JavaScript Compressor é uma ferramenta usada para comprimir código JavaScript. Ele pode comprimir código JavaScript, reduzir o tamanho do arquivo e melhorar a velocidade de carregamento.\n\nRecursos:\n\n1. Cole ou insira o código JavaScript na ferramenta.\n\n2. A ferramenta comprimirá automaticamente o código JavaScript.\n\n3. O código JavaScript comprimido será exibido na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Desenvolvimento web: No desenvolvimento web, o código JavaScript é uma parte essencial. Usar o JavaScript Compressor pode comprimir o código JavaScript, reduzir o tamanho do arquivo e melhorar a velocidade de carregamento, melhorando assim a experiência do usuário.\n\n2. Revisão de código: Durante a revisão de código, os revisores podem usar o JavaScript Compressor para comprimir o código JavaScript para uma visualização mais fácil e compreensão da estrutura do código.\n\n3. Otimização de código: Durante a otimização de código, os desenvolvedores podem usar o JavaScript Compressor para comprimir o código JavaScript, reduzir o tamanho do arquivo e melhorar a velocidade de carregamento, melhorando assim o desempenho do site.\n\nDependências da ferramenta:\n\n1. @he3-kit/utils: Uma biblioteca de utilitários JavaScript que fornece algumas funções de utilidade comumente usadas.\n\n2. Terser: Uma ferramenta de compressão JavaScript que pode comprimir código JavaScript.\n\n3. js-beautify: Uma ferramenta de formatação JavaScript que pode formatar código JavaScript.\n\n4. sample.ts: Um arquivo de amostra JavaScript usado para demonstrar o uso do JavaScript Compressor.\n\nCódigo-fonte da ferramenta:\n\nO código-fonte do JavaScript Compressor inclui um arquivo javascript-minify.ts e um arquivo sample.ts.\n\nO arquivo javascript-minify.ts define duas funções: prettifyJS e minifyJS. A função prettifyJS usa a biblioteca js-beautify para formatar o código JavaScript, e a função minifyJS usa a biblioteca Terser para comprimir o código JavaScript. Ao mesmo tempo, o arquivo também usa a função transformTool em @he3-kit/utils para encapsular as funções prettifyJS e minifyJS em uma função de ferramenta, especificando a linguagem de entrada como JAVASCRIPT, a linguagem de saída como JAVASCRIPT, os dados de amostra como sampleData.minify, a função de processamento de entrada como minifyJS e a função de processamento de saída como prettifyJS.\n\nO arquivo sample.ts define um objeto sampleData, que contém duas propriedades: prettify e minify. A propriedade prettify contém um código de amostra JavaScript usado para demonstrar a função de formatação do JavaScript Compressor, e a propriedade minify contém um código de amostra JavaScript usado para demonstrar a função de compressão do JavaScript Compressor.\n\nInstruções:\n\n1. Cole ou insira o código JavaScript que precisa ser comprimido na ferramenta.\n\n2. Clique no botão de compressão e a ferramenta comprimirá automaticamente o código JavaScript.\n\n3. O código JavaScript comprimido será exibido na área de saída da ferramenta.\n\nObservações:\n\n1. Comprimir o código JavaScript pode tornar a estrutura do código difícil de entender, portanto, é recomendável fazer backup do código original antes da compressão.\n\n2. Comprimir o código JavaScript pode causar erros, portanto, é recomendável testar o código após a compressão."
+    },
+    "ru": {
+      "$name": "Компрессор JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "минимизировать",
+        "сжать",
+        "uglify",
+        "сжатие",
+        "оптимизация кода",
+        "оптимизация производительности",
+        "инструмент сжатия",
+        "обзор кода",
+        "веб-разработка",
+        "скорость загрузки"
+      ],
+      "$description": "JavaScript Compressor - это инструмент, используемый для сжатия кода JavaScript. Он может сжимать код JavaScript, уменьшать размер файла и улучшать скорость загрузки.\n\nОсобенности:\n\n1. Вставьте или введите код JavaScript в инструмент.\n\n2. Инструмент автоматически сжимает код JavaScript.\n\n3. Сжатый код JavaScript будет отображаться в выходной области инструмента.\n\nПрименение:\n\n1. Веб-разработка: В веб-разработке код JavaScript является неотъемлемой частью. Использование JavaScript Compressor может сжимать код JavaScript, уменьшать размер файла и улучшать скорость загрузки, тем самым улучшая пользовательский опыт.\n\n2. Обзор кода: Во время обзора кода рецензенты могут использовать JavaScript Compressor для сжатия кода JavaScript для более легкого просмотра и понимания структуры кода.\n\n3. Оптимизация кода: Во время оптимизации кода разработчики могут использовать JavaScript Compressor для сжатия кода JavaScript, уменьшения размера файла и улучшения скорости загрузки, тем самым улучшая производительность веб-сайта.\n\nЗависимости инструмента:\n\n1. @he3-kit/utils: библиотека утилит JavaScript, которая предоставляет некоторые общие утилиты.\n\n2. Terser: инструмент сжатия JavaScript, который может сжимать код JavaScript.\n\n3. js-beautify: инструмент форматирования JavaScript, который может форматировать код JavaScript.\n\n4. sample.ts: файл примера JavaScript, используемый для демонстрации использования JavaScript Compressor.\n\nИсходный код инструмента:\n\nИсходный код JavaScript Compressor включает файл javascript-minify.ts и файл sample.ts.\n\nФайл javascript-minify.ts определяет две функции: prettifyJS и minifyJS. Функция prettifyJS использует библиотеку js-beautify для форматирования кода JavaScript, а функция minifyJS использует библиотеку Terser для сжатия кода JavaScript. В то же время файл также использует функцию transformTool в @he3-kit/utils для инкапсуляции функций prettifyJS и minifyJS в функцию инструмента, указывая входной язык как JAVASCRIPT, выходной язык как JAVASCRIPT, образец данных как sampleData.minify, функцию обработки ввода как minifyJS и функцию обработки вывода как prettifyJS.\n\nФайл sample.ts определяет объект sampleData, который содержит два свойства: prettify и minify. Свойство prettify содержит пример кода JavaScript, используемый для демонстрации функции форматирования JavaScript Compressor, а свойство minify содержит пример кода JavaScript, используемый для демонстрации функции сжатия JavaScript Compressor.\n\nИнструкции:\n\n1. Вставьте или введите код JavaScript, который нужно сжать, в инструмент.\n\n2. Нажмите кнопку сжатия, и инструмент автоматически сжимает код JavaScript.\n\n3. Сжатый код JavaScript будет отображаться в выходной области инструмента.\n\nПримечания:\n\n1. Сжатие кода JavaScript может сделать структуру кода трудной для понимания, поэтому рекомендуется создать резервную копию исходного кода перед сжатием.\n\n2. Сжатие кода JavaScript может вызвать ошибки, поэтому рекомендуется проверить код после сжатия."
+    },
+    "it": {
+      "$name": "Compressore JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "minimizzare",
+        "comprimere",
+        "uglify",
+        "compressione",
+        "ottimizzazione del codice",
+        "ottimizzazione delle prestazioni",
+        "strumento di compressione",
+        "revisione del codice",
+        "sviluppo Web",
+        "velocità di caricamento"
+      ],
+      "$description": "Il Compressore JavaScript è uno strumento utilizzato per comprimere il codice JavaScript. Può comprimere il codice JavaScript, ridurre la dimensione del file e migliorare la velocità di caricamento.\n\nCaratteristiche:\n\n1. Incolla o inserisci il codice JavaScript nello strumento.\n\n2. Lo strumento comprimerà automaticamente il codice JavaScript.\n\n3. Il codice JavaScript compresso verrà visualizzato nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Sviluppo web: nello sviluppo web, il codice JavaScript è una parte essenziale. Utilizzando il Compressore JavaScript è possibile comprimere il codice JavaScript, ridurre la dimensione del file e migliorare la velocità di caricamento, migliorando così l'esperienza dell'utente.\n\n2. Revisione del codice: durante la revisione del codice, i revisori possono utilizzare il Compressore JavaScript per comprimere il codice JavaScript per una visualizzazione e comprensione più semplice della struttura del codice.\n\n3. Ottimizzazione del codice: durante l'ottimizzazione del codice, gli sviluppatori possono utilizzare il Compressore JavaScript per comprimere il codice JavaScript, ridurre la dimensione del file e migliorare la velocità di caricamento, migliorando così le prestazioni del sito web.\n\nDipendenze dello strumento:\n\n1. @he3-kit/utils: una libreria di utilità JavaScript che fornisce alcune funzioni di utilità comunemente utilizzate.\n\n2. Terser: uno strumento di compressione JavaScript che può comprimere il codice JavaScript.\n\n3. js-beautify: uno strumento di formattazione JavaScript che può formattare il codice JavaScript.\n\n4. sample.ts: un file di esempio JavaScript utilizzato per dimostrare l'uso del Compressore JavaScript.\n\nCodice sorgente dello strumento:\n\nIl codice sorgente del Compressore JavaScript include un file javascript-minify.ts e un file sample.ts.\n\nIl file javascript-minify.ts definisce due funzioni: prettifyJS e minifyJS. La funzione prettifyJS utilizza la libreria js-beautify per formattare il codice JavaScript, mentre la funzione minifyJS utilizza la libreria Terser per comprimere il codice JavaScript. Allo stesso tempo, il file utilizza anche la funzione transformTool in @he3-kit/utils per incapsulare le funzioni prettifyJS e minifyJS in una funzione strumento, specificando il linguaggio di input come JAVASCRIPT, il linguaggio di output come JAVASCRIPT, i dati di esempio come sampleData.minify, la funzione di elaborazione di input come minifyJS e la funzione di elaborazione di output come prettifyJS.\n\nIl file sample.ts definisce un oggetto sampleData, che contiene due proprietà: prettify e minify. La proprietà prettify contiene un codice di esempio JavaScript utilizzato per dimostrare la funzione di formattazione del Compressore JavaScript, mentre la proprietà minify contiene un codice di esempio JavaScript utilizzato per dimostrare la funzione di compressione del Compressore JavaScript.\n\nIstruzioni:\n\n1. Incolla o inserisci il codice JavaScript che deve essere compresso nello strumento.\n\n2. Fai clic sul pulsante di compressione e lo strumento comprimerà automaticamente il codice JavaScript.\n\n3. Il codice JavaScript compresso verrà visualizzato nell'area di output dello strumento.\n\nNote:\n\n1. La compressione del codice JavaScript può rendere la struttura del codice difficile da capire, quindi si consiglia di fare un backup del codice originale prima della compressione.\n\n2. La compressione del codice JavaScript può causare errori, quindi si consiglia di testare il codice dopo la compressione."
+    },
+    "fr": {
+      "$name": "Compresseur JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "minifier",
+        "compresser",
+        "uglify",
+        "compression",
+        "compression de code",
+        "optimisation de code",
+        "optimisation de performance",
+        "outil de compression",
+        "révision de code",
+        "développement Web",
+        "vitesse de chargement"
+      ],
+      "$description": "Le Compresseur JavaScript est un outil utilisé pour compresser le code JavaScript. Il peut compresser le code JavaScript, réduire la taille du fichier et améliorer la vitesse de chargement.\n\nFonctionnalités :\n\n1. Collez ou entrez le code JavaScript dans l'outil.\n\n2. L'outil compressera automatiquement le code JavaScript.\n\n3. Le code JavaScript compressé sera affiché dans la zone de sortie de l'outil.\n\nCas d'utilisation :\n\n1. Développement web : Dans le développement web, le code JavaScript est une partie essentielle. En utilisant le Compresseur JavaScript, vous pouvez compresser le code JavaScript, réduire la taille du fichier et améliorer la vitesse de chargement, améliorant ainsi l'expérience utilisateur.\n\n2. Révision de code : Pendant la révision de code, les examinateurs peuvent utiliser le Compresseur JavaScript pour compresser le code JavaScript afin de faciliter la visualisation et la compréhension de la structure du code.\n\n3. Optimisation de code : Pendant l'optimisation de code, les développeurs peuvent utiliser le Compresseur JavaScript pour compresser le code JavaScript, réduire la taille du fichier et améliorer la vitesse de chargement, améliorant ainsi les performances du site web.\n\nDépendances de l'outil :\n\n1. @he3-kit/utils : Une bibliothèque d'utilitaires JavaScript qui fournit certaines fonctions d'utilitaires couramment utilisées.\n\n2. Terser : Un outil de compression JavaScript qui peut compresser le code JavaScript.\n\n3. js-beautify : Un outil de formatage JavaScript qui peut formater le code JavaScript.\n\n4. sample.ts : Un fichier d'exemple JavaScript utilisé pour démontrer l'utilisation du Compresseur JavaScript.\n\nCode source de l'outil :\n\nLe code source du Compresseur JavaScript comprend un fichier javascript-minify.ts et un fichier sample.ts.\n\nLe fichier javascript-minify.ts définit deux fonctions : prettifyJS et minifyJS. La fonction prettifyJS utilise la bibliothèque js-beautify pour formater le code JavaScript, et la fonction minifyJS utilise la bibliothèque Terser pour compresser le code JavaScript. En même temps, le fichier utilise également la fonction transformTool dans @he3-kit/utils pour encapsuler les fonctions prettifyJS et minifyJS dans une fonction d'outil, en spécifiant la langue d'entrée comme JAVASCRIPT, la langue de sortie comme JAVASCRIPT, les données d'exemple comme sampleData.minify, la fonction de traitement d'entrée comme minifyJS et la fonction de traitement de sortie comme prettifyJS.\n\nLe fichier sample.ts définit un objet sampleData, qui contient deux propriétés : prettify et minify. La propriété prettify contient un exemple de code JavaScript utilisé pour démontrer la fonction de formatage du Compresseur JavaScript, et la propriété minify contient un exemple de code JavaScript utilisé pour démontrer la fonction de compression du Compresseur JavaScript.\n\nInstructions :\n\n1. Collez ou entrez le code JavaScript qui doit être compressé dans l'outil.\n\n2. Cliquez sur le bouton de compression, et l'outil compressera automatiquement le code JavaScript.\n\n3. Le code JavaScript compressé sera affiché dans la zone de sortie de l'outil.\n\nNotes :\n\n1. La compression du code JavaScript peut rendre la structure du code difficile à comprendre, il est donc recommandé de sauvegarder le code original avant la compression.\n\n2. La compression du code JavaScript peut causer des erreurs, il est donc recommandé de tester le code après la compression."
+    },
+    "de": {
+      "$name": "JavaScript-Kompressor",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "minify",
+        "komprimieren",
+        "uglify",
+        "Kompression",
+        "Code-Komprimierung",
+        "Code-Optimierung",
+        "Performance-Optimierung",
+        "Komprimierungswerkzeug",
+        "Code-Überprüfung",
+        "Web-Entwicklung",
+        "Ladezeit"
+      ],
+      "$description": "JavaScript Compressor ist ein Werkzeug, das verwendet wird, um JavaScript-Code zu komprimieren. Es kann JavaScript-Code komprimieren, die Dateigröße reduzieren und die Ladezeit verbessern.\n\nFunktionen:\n\n1. Fügen Sie den JavaScript-Code in das Werkzeug ein oder geben Sie ihn ein.\n\n2. Das Werkzeug komprimiert automatisch den JavaScript-Code.\n\n3. Der komprimierte JavaScript-Code wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\nAnwendungsfälle:\n\n1. Webentwicklung: In der Webentwicklung ist JavaScript-Code ein wesentlicher Bestandteil. Durch die Verwendung von JavaScript Compressor kann der JavaScript-Code komprimiert werden, die Dateigröße reduziert und die Ladezeit verbessert werden, wodurch die Benutzererfahrung verbessert wird.\n\n2. Code-Überprüfung: Während der Code-Überprüfung können Überprüfer JavaScript Compressor verwenden, um den JavaScript-Code zu komprimieren, um die Ansicht und das Verständnis der Code-Struktur zu erleichtern.\n\n3. Code-Optimierung: Während der Code-Optimierung können Entwickler JavaScript Compressor verwenden, um den JavaScript-Code zu komprimieren, die Dateigröße zu reduzieren und die Ladezeit zu verbessern, wodurch die Leistung der Website verbessert wird.\n\nWerkzeug-Abhängigkeiten:\n\n1. @he3-kit/utils: Eine JavaScript-Utility-Bibliothek, die einige häufig verwendete Utility-Funktionen bereitstellt.\n\n2. Terser: Ein JavaScript-Komprimierungswerkzeug, das JavaScript-Code komprimieren kann.\n\n3. js-beautify: Ein JavaScript-Formatierungswerkzeug, das JavaScript-Code formatieren kann.\n\n4. sample.ts: Eine JavaScript-Beispieldatei, die zur Demonstration der Verwendung von JavaScript Compressor verwendet wird.\n\nWerkzeug-Quellcode:\n\nDer Quellcode von JavaScript Compressor umfasst eine javascript-minify.ts-Datei und eine sample.ts-Datei.\n\nDie javascript-minify.ts-Datei definiert zwei Funktionen: prettifyJS und minifyJS. Die prettifyJS-Funktion verwendet die js-beautify-Bibliothek, um JavaScript-Code zu formatieren, und die minifyJS-Funktion verwendet die Terser-Bibliothek, um JavaScript-Code zu komprimieren. Gleichzeitig verwendet die Datei auch die transformTool-Funktion in @he3-kit/utils, um die prettifyJS- und minifyJS-Funktionen in eine Werkzeugfunktion zu kapseln, wobei die Eingabesprache als JAVASCRIPT, die Ausgabesprache als JAVASCRIPT, die Beispieldaten als sampleData.minify, die Eingabeverarbeitungsfunktion als minifyJS und die Ausgabeverarbeitungsfunktion als prettifyJS festgelegt sind.\n\nDie sample.ts-Datei definiert ein sampleData-Objekt, das zwei Eigenschaften enthält: prettify und minify. Die prettify-Eigenschaft enthält einen JavaScript-Beispielcode, der zur Demonstration der Formatierungsfunktion von JavaScript Compressor verwendet wird, und die minify-Eigenschaft enthält einen JavaScript-Beispielcode, der zur Demonstration der Komprimierungsfunktion von JavaScript Compressor verwendet wird.\n\nAnweisungen:\n\n1. Fügen Sie den JavaScript-Code, der komprimiert werden soll, in das Werkzeug ein oder geben Sie ihn ein.\n\n2. Klicken Sie auf die Schaltfläche \"Komprimieren\", und das Werkzeug komprimiert automatisch den JavaScript-Code.\n\n3. Der komprimierte JavaScript-Code wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\nHinweise:\n\n1. Das Komprimieren von JavaScript-Code kann die Code-Struktur schwer verständlich machen, daher wird empfohlen, den Originalcode vor der Komprimierung zu sichern.\n\n2. Das Komprimieren von JavaScript-Code kann Fehler verursachen, daher wird empfohlen, den Code nach der Komprimierung zu testen."
+    },
+    "ko": {
+      "$name": "JavaScript 압축기",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "minify",
+        "compress",
+        "uglify",
+        "compression",
+        "code compression",
+        "code optimization",
+        "performance optimization",
+        "compression tool",
+        "code review",
+        "Web development",
+        "loading speed"
+      ],
+      "$description": "자바스크립트 압축기는 자바스크립트 코드를 압축하는 데 사용되는 도구입니다. 이 도구는 자바스크립트 코드를 압축하고 파일 크기를 줄이며 로딩 속도를 향상시킬 수 있습니다.\n\n기능:\n\n1. 도구에 자바스크립트 코드를 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 자바스크립트 코드를 압축합니다.\n\n3. 압축된 자바스크립트 코드는 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. 웹 개발: 웹 개발에서 자바스크립트 코드는 필수적인 부분입니다. 자바스크립트 압축기를 사용하면 자바스크립트 코드를 압축하고 파일 크기를 줄이며 로딩 속도를 향상시켜 사용자 경험을 개선할 수 있습니다.\n\n2. 코드 검토: 코드 검토 중에 리뷰어는 자바스크립트 압축기를 사용하여 자바스크립트 코드를 압축하여 코드 구조를 더 쉽게 볼 수 있습니다.\n\n3. 코드 최적화: 코드 최적화 중에 개발자는 자바스크립트 압축기를 사용하여 자바스크립트 코드를 압축하고 파일 크기를 줄이며 로딩 속도를 향상시켜 웹 사이트 성능을 개선할 수 있습니다.\n\n도구 종속성:\n\n1. @he3-kit/utils: 일부 일반적으로 사용되는 유틸리티 함수를 제공하는 자바스크립트 유틸리티 라이브러리입니다.\n\n2. Terser: 자바스크립트 압축 도구로 자바스크립트 코드를 압축할 수 있습니다.\n\n3. js-beautify: 자바스크립트 포맷팅 도구로 자바스크립트 코드를 포맷팅할 수 있습니다.\n\n4. sample.ts: 자바스크립트 압축기의 사용을 설명하기 위해 사용되는 자바스크립트 샘플 파일입니다.\n\n도구 소스 코드:\n\n자바스크립트 압축기의 소스 코드에는 javascript-minify.ts 파일과 sample.ts 파일이 포함됩니다.\n\njavascript-minify.ts 파일은 prettifyJS 및 minifyJS 두 개의 함수를 정의합니다. prettifyJS 함수는 js-beautify 라이브러리를 사용하여 자바스크립트 코드를 포맷팅하고, minifyJS 함수는 Terser 라이브러리를 사용하여 자바스크립트 코드를 압축합니다. 동시에 파일은 @he3-kit/utils의 transformTool 함수를 사용하여 prettifyJS 및 minifyJS 함수를 도구 함수로 캡슐화하고, 입력 언어를 JAVASCRIPT, 출력 언어를 JAVASCRIPT, 샘플 데이터를 sampleData.minify, 입력 처리 함수를 minifyJS, 출력 처리 함수를 prettifyJS로 지정합니다.\n\nsample.ts 파일은 prettify 및 minify 두 개의 속성을 포함하는 sampleData 객체를 정의합니다. prettify 속성에는 자바스크립트 샘플 코드가 포함되어 있으며, 이는 자바스크립트 압축기의 포맷팅 기능을 보여주기 위해 사용됩니다. minify 속성에는 자바스크립트 샘플 코드가 포함되어 있으며, 이는 자바스크립트 압축기의 압축 기능을 보여주기 위해 사용됩니다.\n\n사용 방법:\n\n1. 압축해야 할 자바스크립트 코드를 도구에 붙여넣거나 입력합니다.\n\n2. 압축 버튼을 클릭하면 도구가 자동으로 자바스크립트 코드를 압축합니다.\n\n3. 압축된 자바스크립트 코드는 도구의 출력 영역에 표시됩니다.\n\n참고 사항:\n\n1. 자바스크립트 코드를 압축하면 코드 구조를 이해하기 어려울 수 있으므로 압축하기 전에 원본 코드를 백업하는 것이 좋습니다.\n\n2. 자바스크립트 코드를 압축하면 오류가 발생할 수 있으므로 압축 후 코드를 테스트하는 것이 좋습니다."
+    },
+    "ja": {
+      "$name": "JavaScriptコンプレッサー",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "minify",
+        "compress",
+        "uglify",
+        "compression",
+        "code compression",
+        "code optimization",
+        "performance optimization",
+        "compression tool",
+        "code review",
+        "Web development",
+        "loading speed"
+      ],
+      "$description": "JavaScriptコンプレッサーは、JavaScriptコードを圧縮するために使用されるツールです。JavaScriptコードを圧縮し、ファイルサイズを減らし、読み込み速度を改善することができます。\n\n特徴：\n\n1. ツールにJavaScriptコードを貼り付けるか入力します。\n\n2. ツールは自動的にJavaScriptコードを圧縮します。\n\n3. 圧縮されたJavaScriptコードがツールの出力領域に表示されます。\n\n使用例：\n\n1. Web開発：Web開発では、JavaScriptコードは重要な部分です。JavaScriptコンプレッサーを使用することで、JavaScriptコードを圧縮し、ファイルサイズを減らし、読み込み速度を改善することができます。これにより、ユーザーエクスペリエンスが向上します。\n\n2. コードレビュー：コードレビュー中、レビュアーはJavaScriptコンプレッサーを使用してJavaScriptコードを圧縮し、コード構造をより簡単に表示し理解することができます。\n\n3. コード最適化：コード最適化中、開発者はJavaScriptコンプレッサーを使用してJavaScriptコードを圧縮し、ファイルサイズを減らし、読み込み速度を改善することができます。これにより、ウェブサイトのパフォーマンスが向上します。\n\nツールの依存関係：\n\n1. @he3-kit/utils：一部の一般的に使用されるユーティリティ関数を提供するJavaScriptユーティリティライブラリ。\n\n2. Terser：JavaScriptコードを圧縮できるJavaScript圧縮ツール。\n\n3. js-beautify：JavaScriptコードをフォーマットできるJavaScriptフォーマットツール。\n\n4. sample.ts：JavaScriptコンプレッサーの使用を示すために使用されるJavaScriptサンプルファイル。\n\nツールのソースコード：\n\nJavaScriptコンプレッサーのソースコードには、javascript-minify.tsファイルとsample.tsファイルが含まれています。\n\njavascript-minify.tsファイルには、prettifyJS関数とminifyJS関数が定義されています。prettifyJS関数はjs-beautifyライブラリを使用してJavaScriptコードをフォーマットし、minifyJS関数はTerserライブラリを使用してJavaScriptコードを圧縮します。同時に、ファイルは@he3-kit/utilsのtransformTool関数を使用して、prettifyJS関数とminifyJS関数をツール関数にカプセル化し、入力言語をJAVASCRIPT、出力言語をJAVASCRIPT、サンプルデータをsampleData.minify、入力処理関数をminifyJS、出力処理関数をprettifyJSと指定します。\n\nsample.tsファイルには、prettifyとminifyの2つのプロパティを含むsampleDataオブジェクトが定義されています。prettifyプロパティには、JavaScriptコンプレッサーのフォーマット機能を示すために使用されるJavaScriptサンプルコードが含まれ、minifyプロパティには、JavaScriptコンプレッサーの圧縮機能を示すために使用されるJavaScriptサンプルコードが含まれています。\n\n手順：\n\n1. 圧縮する必要のあるJavaScriptコードをツールに貼り付けるか入力します。\n\n2. 圧縮ボタンをクリックすると、ツールは自動的にJavaScriptコードを圧縮します。\n\n3. 圧縮されたJavaScriptコードがツールの出力領域に表示されます。\n\n注意事項：\n\n1. JavaScriptコードを圧縮すると、コード構造が理解しにくくなる場合があるため、圧縮前に元のコードをバックアップすることをお勧めします。\n\n2. JavaScriptコードを圧縮すると、エラーが発生する場合があるため、圧縮後にコードをテストすることをお勧めします。"
+    },
+    "es": {
+      "$name": "Compresor de JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "minificar",
+        "comprimir",
+        "uglify",
+        "compresión",
+        "compresión de código",
+        "optimización de código",
+        "optimización de rendimiento",
+        "herramienta de compresión",
+        "revisión de código",
+        "desarrollo web",
+        "velocidad de carga"
+      ],
+      "$description": "El Compresor de JavaScript es una herramienta utilizada para comprimir código JavaScript. Puede comprimir código JavaScript, reducir el tamaño del archivo y mejorar la velocidad de carga.\n\nCaracterísticas:\n\n1. Pegue o ingrese el código JavaScript en la herramienta.\n\n2. La herramienta comprimirá automáticamente el código JavaScript.\n\n3. El código JavaScript comprimido se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Desarrollo web: En el desarrollo web, el código JavaScript es una parte esencial. El uso del Compresor de JavaScript puede comprimir el código JavaScript, reducir el tamaño del archivo y mejorar la velocidad de carga, mejorando así la experiencia del usuario.\n\n2. Revisión de código: Durante la revisión de código, los revisores pueden utilizar el Compresor de JavaScript para comprimir el código JavaScript para una visualización y comprensión más fácil de la estructura del código.\n\n3. Optimización de código: Durante la optimización de código, los desarrolladores pueden utilizar el Compresor de JavaScript para comprimir el código JavaScript, reducir el tamaño del archivo y mejorar la velocidad de carga, mejorando así el rendimiento del sitio web.\n\nDependencias de la herramienta:\n\n1. @he3-kit/utils: una biblioteca de utilidades de JavaScript que proporciona algunas funciones de utilidad comúnmente utilizadas.\n\n2. Terser: una herramienta de compresión de JavaScript que puede comprimir código JavaScript.\n\n3. js-beautify: una herramienta de formato de JavaScript que puede formatear código JavaScript.\n\n4. sample.ts: un archivo de muestra de JavaScript utilizado para demostrar el uso del Compresor de JavaScript.\n\nCódigo fuente de la herramienta:\n\nEl código fuente del Compresor de JavaScript incluye un archivo javascript-minify.ts y un archivo sample.ts.\n\nEl archivo javascript-minify.ts define dos funciones: prettifyJS y minifyJS. La función prettifyJS utiliza la biblioteca js-beautify para formatear el código JavaScript, y la función minifyJS utiliza la biblioteca Terser para comprimir el código JavaScript. Al mismo tiempo, el archivo también utiliza la función transformTool en @he3-kit/utils para encapsular las funciones prettifyJS y minifyJS en una función de herramienta, especificando el lenguaje de entrada como JAVASCRIPT, el lenguaje de salida como JAVASCRIPT, los datos de muestra como sampleData.minify, la función de procesamiento de entrada como minifyJS y la función de procesamiento de salida como prettifyJS.\n\nEl archivo sample.ts define un objeto sampleData, que contiene dos propiedades: prettify y minify. La propiedad prettify contiene un código de muestra de JavaScript utilizado para demostrar la función de formato del Compresor de JavaScript, y la propiedad minify contiene un código de muestra de JavaScript utilizado para demostrar la función de compresión del Compresor de JavaScript.\n\nInstrucciones:\n\n1. Pegue o ingrese el código JavaScript que necesita ser comprimido en la herramienta.\n\n2. Haga clic en el botón de compresión y la herramienta comprimirá automáticamente el código JavaScript.\n\n3. El código JavaScript comprimido se mostrará en el área de salida de la herramienta.\n\nNotas:\n\n1. La compresión del código JavaScript puede hacer que la estructura del código sea difícil de entender, por lo que se recomienda hacer una copia de seguridad del código original antes de la compresión.\n\n2. La compresión del código JavaScript puede causar errores, por lo que se recomienda probar el código después de la compresión."
+    },
+    "zh-tw": {
+      "$name": "JavaScript 壓縮器",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "壓縮",
+        "壓縮程式",
+        "縮小檔案",
+        "縮小程式碼",
+        "優化程式碼",
+        "效能優化",
+        "程式碼檢查",
+        "網頁開發",
+        "載入速度"
+      ],
+      "$description": "JavaScript 壓縮器是一個用於壓縮 JavaScript 代碼的工具。它可以壓縮 JavaScript 代碼，減小文件大小，並提高加載速度。\n\n功能：\n\n1. 將 JavaScript 代碼粘貼或輸入到工具中。\n\n2. 工具將自動壓縮 JavaScript 代碼。\n\n3. 壓縮後的 JavaScript 代碼將顯示在工具的輸出區域中。\n\n用途：\n\n1. 網頁開發：在網頁開發中，JavaScript 代碼是必不可少的一部分。使用 JavaScript 壓縮器可以壓縮 JavaScript 代碼，減小文件大小，並提高加載速度，從而提高用戶體驗。\n\n2. 代碼審查：在代碼審查期間，審查人員可以使用 JavaScript 壓縮器壓縮 JavaScript 代碼，以便更輕鬆地查看和理解代碼結構。\n\n3. 代碼優化：在代碼優化期間，開發人員可以使用 JavaScript 壓縮器壓縮 JavaScript 代碼，減小文件大小，並提高加載速度，從而提高網站性能。\n\n工具依賴：\n\n1. @he3-kit/utils：一個 JavaScript 實用程序庫，提供一些常用的實用程序函數。\n\n2. Terser：一個可以壓縮 JavaScript 代碼的 JavaScript 壓縮工具。\n\n3. js-beautify：一個可以格式化 JavaScript 代碼的 JavaScript 格式化工具。\n\n4. sample.ts：一個用於演示 JavaScript 壓縮器使用的 JavaScript 示例文件。\n\n工具源代碼：\n\nJavaScript 壓縮器的源代碼包括一個 javascript-minify.ts 文件和一個 sample.ts 文件。\n\njavascript-minify.ts 文件定義了兩個函數：prettifyJS 和 minifyJS。prettifyJS 函數使用 js-beautify 库來格式化 JavaScript 代碼，而 minifyJS 函數使用 Terser 库來壓縮 JavaScript 代碼。同時，該文件還使用 @he3-kit/utils 中的 transformTool 函數將 prettifyJS 和 minifyJS 函數封裝成一個工具函數，指定輸入語言為 JAVASCRIPT，輸出語言為 JAVASCRIPT，示例數據為 sampleData.minify，輸入處理函數為 minifyJS，輸出處理函數為 prettifyJS。\n\nsample.ts 文件定義了一個 sampleData 對象，該對象包含兩個屬性：prettify 和 minify。prettify 屬性包含一個 JavaScript 示例代碼，用於演示 JavaScript 壓縮器的格式化功能，而 minify 屬性包含一個 JavaScript 示例代碼，用於演示 JavaScript 壓縮器的壓縮功能。\n\n使用說明：\n\n1. 將需要壓縮的 JavaScript 代碼粘貼或輸入到工具中。\n\n2. 點擊壓縮按鈕，工具將自動壓縮 JavaScript 代碼。\n\n3. 壓縮後的 JavaScript 代碼將顯示在工具的輸出區域中。\n\n注意事項：\n\n1. 壓縮 JavaScript 代碼可能會使代碼結構難以理解，因此建議在壓縮之前備份原始代碼。\n\n2. 壓縮 JavaScript 代碼可能會導致錯誤，因此建議在壓縮後測試代碼。"
+    },
+    "zh-cn": {
+      "$name": "JavaScript压缩器",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "压缩",
+        "压缩代码",
+        "混淆",
+        "代码混淆",
+        "性能优化",
+        "压缩工具",
+        "代码审查",
+        "Web开发",
+        "加载速度"
+      ],
+      "$description": "JavaScript压缩器是一种用于压缩JavaScript代码的工具。它可以压缩JavaScript代码，减小文件大小，并提高加载速度。\n\n特点：\n\n1. 将JavaScript代码粘贴或输入到工具中。\n\n2. 工具将自动压缩JavaScript代码。\n\n3. 压缩后的JavaScript代码将显示在工具的输出区域中。\n\n用途：\n\n1. 网页开发：在网页开发中，JavaScript代码是必不可少的一部分。使用JavaScript压缩器可以压缩JavaScript代码，减小文件大小，并提高加载速度，从而提高用户体验。\n\n2. 代码审查：在代码审查期间，审查人员可以使用JavaScript压缩器压缩JavaScript代码，以便更轻松地查看和理解代码结构。\n\n3. 代码优化：在代码优化期间，开发人员可以使用JavaScript压缩器压缩JavaScript代码，减小文件大小，并提高加载速度，从而提高网站性能。\n\n工具依赖项：\n\n1. @he3-kit/utils：一个JavaScript实用程序库，提供一些常用的实用程序函数。\n\n2. Terser：一种JavaScript压缩工具，可以压缩JavaScript代码。\n\n3. js-beautify：一种JavaScript格式化工具，可以格式化JavaScript代码。\n\n4. sample.ts：一个JavaScript示例文件，用于演示JavaScript压缩器的使用。\n\n工具源代码：\n\nJavaScript压缩器的源代码包括一个javascript-minify.ts文件和一个sample.ts文件。\n\njavascript-minify.ts文件定义了两个函数：prettifyJS和minifyJS。prettifyJS函数使用js-beautify库格式化JavaScript代码，minifyJS函数使用Terser库压缩JavaScript代码。同时，该文件还使用@he3-kit/utils中的transformTool函数将prettifyJS和minifyJS函数封装成一个工具函数，指定输入语言为JAVASCRIPT，输出语言为JAVASCRIPT，示例数据为sampleData.minify，输入处理函数为minifyJS，输出处理函数为prettifyJS。\n\nsample.ts文件定义了一个sampleData对象，其中包含两个属性：prettify和minify。prettify属性包含一个JavaScript示例代码，用于演示JavaScript压缩器的格式化功能，minify属性包含一个JavaScript示例代码，用于演示JavaScript压缩器的压缩功能。\n\n说明：\n\n1. 压缩JavaScript代码可能会使代码结构难以理解，因此建议在压缩之前备份原始代码。\n\n2. 压缩JavaScript代码可能会导致错误，因此建议在压缩后测试代码。"
+    }
+  },
+  {
+    "id": "javascript-prettify",
+    "en": {
+      "$name": "JavaScript Formatting",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "beautify",
+        "pretty",
+        "prettify",
+        "fmt",
+        "format",
+        "formatter",
+        "validate",
+        "validator",
+        "compress",
+        "code review"
+      ],
+      "$description": "JavaScript Formatting Tool is a tool used to beautify JavaScript code. It can format JavaScript code by adding spaces and line breaks, making it easier to read.\n\nFeatures:\n\n1. Paste or input JavaScript code that is difficult to read into the tool.\n\n2. The tool will automatically detect and format the input JavaScript code.\n\n3. The formatted JavaScript code will be displayed in the tool's output area.\n\n4. The tool supports compressing JavaScript code to reduce file size.\n\nUse cases:\n\n1. Front-end development: In front-end development, developers need to write a lot of JavaScript code. Using the JavaScript Formatting Tool can convert difficult-to-read code into an easy-to-read format, making it easy to quickly check the code structure and content.\n\n2. Code review: During code review, reviewers can use the JavaScript Formatting Tool to format JavaScript code for easier viewing and understanding of the code structure.\n\n3. Code compression: When publishing code, developers need to compress JavaScript code to reduce file size. Using the JavaScript Formatting Tool can easily compress JavaScript code and reduce file size.\n\n4. Learning JavaScript: When learning JavaScript, using the JavaScript Formatting Tool can help students better understand the code structure and content."
+    },
+    "pt": {
+      "$name": "Formatação de JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "beautify",
+        "pretty",
+        "prettify",
+        "fmt",
+        "format",
+        "formatter",
+        "validar",
+        "validador",
+        "comprimir",
+        "revisão de código"
+      ],
+      "$description": "A Ferramenta de Formatação JavaScript é uma ferramenta usada para embelezar o código JavaScript. Ela pode formatar o código JavaScript adicionando espaços e quebras de linha, tornando-o mais fácil de ler.\n\nRecursos:\n\n1. Cole ou insira o código JavaScript que é difícil de ler na ferramenta.\n\n2. A ferramenta detectará e formatará automaticamente o código JavaScript inserido.\n\n3. O código JavaScript formatado será exibido na área de saída da ferramenta.\n\n4. A ferramenta suporta a compressão do código JavaScript para reduzir o tamanho do arquivo.\n\nCasos de uso:\n\n1. Desenvolvimento front-end: No desenvolvimento front-end, os desenvolvedores precisam escrever muito código JavaScript. Usando a Ferramenta de Formatação JavaScript, é possível converter o código difícil de ler em um formato fácil de ler, tornando mais fácil verificar rapidamente a estrutura e o conteúdo do código.\n\n2. Revisão de código: Durante a revisão de código, os revisores podem usar a Ferramenta de Formatação JavaScript para formatar o código JavaScript para uma visualização e compreensão mais fáceis da estrutura do código.\n\n3. Compressão de código: Ao publicar código, os desenvolvedores precisam comprimir o código JavaScript para reduzir o tamanho do arquivo. Usando a Ferramenta de Formatação JavaScript, é possível comprimir facilmente o código JavaScript e reduzir o tamanho do arquivo.\n\n4. Aprendendo JavaScript: Ao aprender JavaScript, usar a Ferramenta de Formatação JavaScript pode ajudar os alunos a entender melhor a estrutura e o conteúdo do código."
+    },
+    "ru": {
+      "$name": "Форматирование JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "красивый",
+        "pretty",
+        "prettify",
+        "fmt",
+        "форматирование",
+        "форматер",
+        "проверка",
+        "валидатор",
+        "сжатие",
+        "обзор кода"
+      ],
+      "$description": "Инструмент форматирования JavaScript - это инструмент, используемый для улучшения внешнего вида кода JavaScript. Он может форматировать код JavaScript, добавляя пробелы и переносы строк, что упрощает его чтение.\n\nОсобенности:\n\n1. Вставьте или введите код JavaScript, который трудно читать, в инструмент.\n\n2. Инструмент автоматически обнаружит и отформатирует входной код JavaScript.\n\n3. Отформатированный код JavaScript будет отображаться в выходной области инструмента.\n\n4. Инструмент поддерживает сжатие кода JavaScript для уменьшения размера файла.\n\nПрименение:\n\n1. Разработка фронт-энда: В разработке фронт-энда разработчикам необходимо писать много кода JavaScript. Использование инструмента форматирования JavaScript может преобразовать трудночитаемый код в удобочитаемый формат, что позволяет быстро проверять структуру и содержание кода.\n\n2. Обзор кода: Во время обзора кода рецензенты могут использовать инструмент форматирования JavaScript для форматирования кода JavaScript для более легкого просмотра и понимания структуры кода.\n\n3. Сжатие кода: При публикации кода разработчикам необходимо сжимать код JavaScript для уменьшения размера файла. Использование инструмента форматирования JavaScript может легко сжимать код JavaScript и уменьшать размер файла.\n\n4. Изучение JavaScript: При изучении JavaScript использование инструмента форматирования JavaScript может помочь студентам лучше понимать структуру и содержание кода."
+    },
+    "it": {
+      "$name": "Formattazione JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "formattazione",
+        "bello",
+        "prettify",
+        "fmt",
+        "formato",
+        "formattatore",
+        "valida",
+        "validatore",
+        "comprimi",
+        "revisione del codice"
+      ],
+      "$description": "Lo strumento di formattazione JavaScript è uno strumento utilizzato per rendere più leggibile il codice JavaScript. Può formattare il codice JavaScript aggiungendo spazi e interruzioni di linea, rendendolo più facile da leggere.\n\nCaratteristiche:\n\n1. Incolla o inserisci il codice JavaScript difficile da leggere nello strumento.\n\n2. Lo strumento rileverà e formatterà automaticamente il codice JavaScript inserito.\n\n3. Il codice JavaScript formattato verrà visualizzato nell'area di output dello strumento.\n\n4. Lo strumento supporta la compressione del codice JavaScript per ridurre le dimensioni del file.\n\nCasi d'uso:\n\n1. Sviluppo front-end: Nel front-end development, gli sviluppatori devono scrivere molto codice JavaScript. Utilizzando lo strumento di formattazione JavaScript, il codice difficile da leggere può essere convertito in un formato facile da leggere, rendendo facile controllare rapidamente la struttura e il contenuto del codice.\n\n2. Revisione del codice: Durante la revisione del codice, i revisori possono utilizzare lo strumento di formattazione JavaScript per formattare il codice JavaScript per una visualizzazione e comprensione più facile della struttura del codice.\n\n3. Compressione del codice: Quando si pubblica il codice, gli sviluppatori devono comprimere il codice JavaScript per ridurre le dimensioni del file. Utilizzando lo strumento di formattazione JavaScript, il codice JavaScript può essere facilmente compresso e le dimensioni del file ridotte.\n\n4. Apprendimento di JavaScript: Quando si impara JavaScript, utilizzando lo strumento di formattazione JavaScript, gli studenti possono capire meglio la struttura e il contenuto del codice."
+    },
+    "fr": {
+      "$name": "Formatage JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "embellir",
+        "joli",
+        "formater",
+        "mise en forme",
+        "valider",
+        "validateur",
+        "compresser",
+        "révision de code"
+      ],
+      "$description": "Outil de formatage JavaScript est un outil utilisé pour embellir le code JavaScript. Il peut formater le code JavaScript en ajoutant des espaces et des sauts de ligne, le rendant ainsi plus facile à lire.\n\nFonctionnalités :\n\n1. Collez ou entrez le code JavaScript difficile à lire dans l'outil.\n\n2. L'outil détectera et formatera automatiquement le code JavaScript d'entrée.\n\n3. Le code JavaScript formaté sera affiché dans la zone de sortie de l'outil.\n\n4. L'outil prend en charge la compression du code JavaScript pour réduire la taille du fichier.\n\nCas d'utilisation :\n\n1. Développement front-end : Dans le développement front-end, les développeurs doivent écrire beaucoup de code JavaScript. En utilisant l'outil de formatage JavaScript, ils peuvent convertir un code difficile à lire en un format facile à lire, ce qui permet de vérifier rapidement la structure et le contenu du code.\n\n2. Révision de code : Pendant la révision de code, les examinateurs peuvent utiliser l'outil de formatage JavaScript pour formater le code JavaScript afin de faciliter la visualisation et la compréhension de la structure du code.\n\n3. Compression de code : Lors de la publication de code, les développeurs doivent compresser le code JavaScript pour réduire la taille du fichier. En utilisant l'outil de formatage JavaScript, ils peuvent facilement compresser le code JavaScript et réduire la taille du fichier.\n\n4. Apprentissage de JavaScript : Lors de l'apprentissage de JavaScript, l'utilisation de l'outil de formatage JavaScript peut aider les étudiants à mieux comprendre la structure et le contenu du code."
+    },
+    "de": {
+      "$name": "JavaScript-Formatierung",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "verschönern",
+        "schön",
+        "formatieren",
+        "Formatierung",
+        "validieren",
+        "Validierung",
+        "komprimieren",
+        "Code-Überprüfung"
+      ],
+      "$description": "JavaScript-Formatierungstool ist ein Tool, das verwendet wird, um JavaScript-Code zu verschönern. Es kann JavaScript-Code formatieren, indem es Leerzeichen und Zeilenumbrüche hinzufügt, um ihn leichter lesbar zu machen.\n\nFunktionen:\n\n1. Fügen Sie JavaScript-Code ein, der schwer zu lesen ist, oder geben Sie ihn in das Tool ein.\n\n2. Das Tool erkennt automatisch den eingegebenen JavaScript-Code und formatiert ihn.\n\n3. Der formatierte JavaScript-Code wird im Ausgabe-Bereich des Tools angezeigt.\n\n4. Das Tool unterstützt die Komprimierung von JavaScript-Code, um die Dateigröße zu reduzieren.\n\nAnwendungsfälle:\n\n1. Front-End-Entwicklung: In der Front-End-Entwicklung müssen Entwickler viel JavaScript-Code schreiben. Mit dem JavaScript-Formatierungstool kann schwer zu lesender Code in ein leicht lesbares Format konvertiert werden, um schnell die Code-Struktur und den Inhalt zu überprüfen.\n\n2. Code-Überprüfung: Während der Code-Überprüfung können Reviewer das JavaScript-Formatierungstool verwenden, um JavaScript-Code für eine einfachere Ansicht und Verständnis der Code-Struktur zu formatieren.\n\n3. Code-Komprimierung: Beim Veröffentlichen von Code müssen Entwickler JavaScript-Code komprimieren, um die Dateigröße zu reduzieren. Mit dem JavaScript-Formatierungstool kann JavaScript-Code einfach komprimiert und die Dateigröße reduziert werden.\n\n4. JavaScript-Lernen: Beim Lernen von JavaScript kann das JavaScript-Formatierungstool den Schülern helfen, die Code-Struktur und den Inhalt besser zu verstehen."
+    },
+    "ko": {
+      "$name": "JavaScript 포맷팅",
+      "$keywords": [
+        "자바스크립트",
+        "JS",
+        "예쁘게 만들기",
+        "정렬",
+        "서식",
+        "포맷",
+        "포매터",
+        "유효성 검사",
+        "압축",
+        "코드 리뷰"
+      ],
+      "$description": "JavaScript Formatting Tool는 JavaScript 코드를 깔끔하게 만드는 데 사용되는 도구입니다. 공백과 줄 바꿈을 추가하여 JavaScript 코드를 서식화할 수 있으며, 이를 통해 코드를 읽기 쉽게 만들 수 있습니다.\n\n기능:\n\n1. 읽기 어려운 JavaScript 코드를 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 입력된 JavaScript 코드를 감지하고 서식을 지정합니다.\n\n3. 서식이 지정된 JavaScript 코드는 도구의 출력 영역에 표시됩니다.\n\n4. 도구는 파일 크기를 줄이기 위해 JavaScript 코드를 압축하는 기능을 지원합니다.\n\n사용 사례:\n\n1. 프론트엔드 개발: 프론트엔드 개발에서는 많은 양의 JavaScript 코드를 작성해야 합니다. JavaScript Formatting Tool을 사용하면 읽기 어려운 코드를 쉽게 읽을 수 있는 형식으로 변환하여 코드 구조와 내용을 빠르게 확인할 수 있습니다.\n\n2. 코드 검토: 코드 검토 중에는 검토자가 JavaScript 코드를 서식화하여 코드 구조를 쉽게 볼 수 있도록 할 수 있습니다.\n\n3. 코드 압축: 코드를 게시할 때는 파일 크기를 줄이기 위해 JavaScript 코드를 압축해야 합니다. JavaScript Formatting Tool을 사용하면 JavaScript 코드를 쉽게 압축하여 파일 크기를 줄일 수 있습니다.\n\n4. JavaScript 학습: JavaScript를 배울 때 JavaScript Formatting Tool을 사용하면 학생들이 코드 구조와 내용을 더 잘 이해할 수 있습니다."
+    },
+    "ja": {
+      "$name": "JavaScriptフォーマッティング",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "美化",
+        "整形",
+        "フォーマット",
+        "フォーマッター",
+        "検証",
+        "バリデーション",
+        "圧縮",
+        "コードレビュー"
+      ],
+      "$description": "JavaScriptフォーマットツールは、JavaScriptコードを美しく整形するためのツールです。スペースや改行を追加することで、JavaScriptコードを整形し、読みやすくします。\n\n特徴：\n\n1. 読みにくいJavaScriptコードをツールに貼り付けるか、入力します。\n\n2. ツールは自動的に入力されたJavaScriptコードを検出し、整形します。\n\n3. 整形されたJavaScriptコードは、ツールの出力エリアに表示されます。\n\n4. ツールはJavaScriptコードを圧縮してファイルサイズを縮小することができます。\n\n使用例：\n\n1. フロントエンド開発：フロントエンド開発では、開発者が多くのJavaScriptコードを書く必要があります。JavaScriptフォーマットツールを使用することで、読みにくいコードを簡単に読みやすい形式に変換し、コードの構造や内容を素早く確認することができます。\n\n2. コードレビュー：コードレビュー中に、レビュアーはJavaScriptフォーマットツールを使用して、JavaScriptコードを整形し、コードの構造をより簡単に理解することができます。\n\n3. コード圧縮：コードを公開する際には、開発者はJavaScriptコードを圧縮してファイルサイズを縮小する必要があります。JavaScriptフォーマットツールを使用することで、JavaScriptコードを簡単に圧縮し、ファイルサイズを縮小することができます。\n\n4. JavaScriptの学習：JavaScriptを学習する際には、JavaScriptフォーマットツールを使用することで、コードの構造や内容をより理解しやすくすることができます。"
+    },
+    "es": {
+      "$name": "Formateador de JavaScript",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "embellecer",
+        "bonito",
+        "formatear",
+        "formateador",
+        "validar",
+        "validador",
+        "comprimir",
+        "revisión de código"
+      ],
+      "$description": "La herramienta de formato de JavaScript es una herramienta utilizada para embellecer el código JavaScript. Puede formatear el código JavaScript agregando espacios y saltos de línea, lo que facilita su lectura.\n\nCaracterísticas:\n\n1. Pegue o ingrese el código JavaScript que es difícil de leer en la herramienta.\n\n2. La herramienta detectará y formateará automáticamente el código JavaScript de entrada.\n\n3. El código JavaScript formateado se mostrará en el área de salida de la herramienta.\n\n4. La herramienta admite la compresión del código JavaScript para reducir el tamaño del archivo.\n\nCasos de uso:\n\n1. Desarrollo de front-end: En el desarrollo de front-end, los desarrolladores necesitan escribir mucho código JavaScript. Usar la herramienta de formato de JavaScript puede convertir el código difícil de leer en un formato fácil de leer, lo que facilita la verificación rápida de la estructura y el contenido del código.\n\n2. Revisión de código: Durante la revisión de código, los revisores pueden usar la herramienta de formato de JavaScript para formatear el código JavaScript para una visualización y comprensión más fácil de la estructura del código.\n\n3. Compresión de código: Al publicar código, los desarrolladores necesitan comprimir el código JavaScript para reducir el tamaño del archivo. Usar la herramienta de formato de JavaScript puede comprimir fácilmente el código JavaScript y reducir el tamaño del archivo.\n\n4. Aprendizaje de JavaScript: Al aprender JavaScript, usar la herramienta de formato de JavaScript puede ayudar a los estudiantes a comprender mejor la estructura y el contenido del código."
+    },
+    "zh-tw": {
+      "$name": "JavaScript 格式化工具",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "美化",
+        "漂亮",
+        "格式化",
+        "驗證",
+        "壓縮",
+        "代碼審查"
+      ],
+      "$description": "JavaScript格式化工具是一個用於美化JavaScript代碼的工具。它可以通過添加空格和換行符來格式化JavaScript代碼，使其更易於閱讀。\n\n功能：\n\n1. 將難以閱讀的JavaScript代碼粘貼或輸入到工具中。\n\n2. 工具將自動檢測和格式化輸入的JavaScript代碼。\n\n3. 格式化後的JavaScript代碼將顯示在工具的輸出區域中。\n\n4. 工具支持壓縮JavaScript代碼以減小文件大小。\n\n用例：\n\n1. 前端開發：在前端開發中，開發人員需要編寫大量的JavaScript代碼。使用JavaScript格式化工具可以將難以閱讀的代碼轉換為易於閱讀的格式，使得可以快速檢查代碼結構和內容。\n\n2. 代碼審查：在代碼審查期間，審查人員可以使用JavaScript格式化工具將JavaScript代碼格式化為更容易查看和理解的代碼結構。\n\n3. 代碼壓縮：在發布代碼時，開發人員需要壓縮JavaScript代碼以減小文件大小。使用JavaScript格式化工具可以輕鬆壓縮JavaScript代碼並減小文件大小。\n\n4. 學習JavaScript：在學習JavaScript時，使用JavaScript格式化工具可以幫助學生更好地理解代碼結構和內容。"
+    },
+    "zh-cn": {
+      "$name": "JavaScript格式化工具",
+      "$keywords": [
+        "JavaScript",
+        "JS",
+        "美化",
+        "漂亮",
+        "格式化",
+        "格式化程序",
+        "验证",
+        "验证程序",
+        "压缩",
+        "代码审查"
+      ],
+      "$description": "JavaScript格式化工具是一种用于美化JavaScript代码的工具。它可以通过添加空格和换行符来格式化JavaScript代码，使其更易于阅读。\n\n特点：\n\n1. 将难以阅读的JavaScript代码粘贴或输入到工具中。\n\n2. 工具将自动检测和格式化输入的JavaScript代码。\n\n3. 格式化后的JavaScript代码将显示在工具的输出区域中。\n\n4. 工具支持压缩JavaScript代码以减小文件大小。\n\n用途：\n\n1. 前端开发：在前端开发中，开发人员需要编写大量的JavaScript代码。使用JavaScript格式化工具可以将难以阅读的代码转换为易于阅读的格式，使其易于快速检查代码结构和内容。\n\n2. 代码审查：在代码审查期间，审查人员可以使用JavaScript格式化工具格式化JavaScript代码，以便更轻松地查看和理解代码结构。\n\n3. 代码压缩：发布代码时，开发人员需要压缩JavaScript代码以减小文件大小。使用JavaScript格式化工具可以轻松压缩JavaScript代码并减小文件大小。\n\n4. 学习JavaScript：在学习JavaScript时，使用JavaScript格式化工具可以帮助学生更好地理解代码结构和内容。"
+    }
+  },
+  {
+    "id": "ts-to-js",
+    "en": {
+      "$name": "TypeScript to Javascript",
+      "$keywords": [
+        "typescript",
+        "javascript",
+        "convert",
+        "compile",
+        "TypeScript to JavaScript",
+        "code conversion",
+        "compiler",
+        "development tool"
+      ],
+      "$description": "The TypeScript to JavaScript tool is a tool used to convert TypeScript code to JavaScript code. It uses two dependency libraries, @he3-kit/utils and TypeScript.\n\nFeatures:\n\n1. Paste or input TypeScript code into the tool.\n\n2. The tool will automatically convert the TypeScript code to JavaScript code.\n\n3. The converted JavaScript code will be displayed in the tool's output area.\n\nUse cases:\n\n1. TypeScript development and testing: When developing or testing TypeScript code, developers often need to convert it to JavaScript code. Using the TypeScript to JavaScript tool can quickly convert TypeScript code to JavaScript code, making it easy to check the code structure and content.\n\n2. Code review: During the code review process, reviewers can use the TypeScript to JavaScript tool to convert TypeScript code to JavaScript code for easier viewing and understanding of the code structure.\n\n3. JavaScript development and testing: When developing or testing JavaScript code, developers may need to convert TypeScript code to JavaScript code. Using the TypeScript to JavaScript tool can quickly convert TypeScript code to JavaScript code, making it easy to check the code structure and content."
+    },
+    "pt": {
+      "$name": "TypeScript para Javascript",
+      "$keywords": [
+        "typescript",
+        "javascript",
+        "converter",
+        "compilador",
+        "TypeScript para JavaScript",
+        "conversão de código",
+        "compilador",
+        "ferramenta de desenvolvimento"
+      ],
+      "$description": "A ferramenta TypeScript to JavaScript é usada para converter código TypeScript em código JavaScript. Ela utiliza duas bibliotecas de dependência, @he3-kit/utils e TypeScript.\n\nRecursos:\n\n1. Cole ou insira o código TypeScript na ferramenta.\n\n2. A ferramenta converterá automaticamente o código TypeScript em código JavaScript.\n\n3. O código JavaScript convertido será exibido na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de TypeScript: Ao desenvolver ou testar código TypeScript, os desenvolvedores frequentemente precisam convertê-lo em código JavaScript. Usando a ferramenta TypeScript to JavaScript, é possível converter rapidamente o código TypeScript em código JavaScript, facilitando a verificação da estrutura e conteúdo do código.\n\n2. Revisão de código: Durante o processo de revisão de código, os revisores podem usar a ferramenta TypeScript to JavaScript para converter o código TypeScript em código JavaScript para uma visualização e compreensão mais fáceis da estrutura do código.\n\n3. Desenvolvimento e teste de JavaScript: Ao desenvolver ou testar código JavaScript, os desenvolvedores podem precisar converter código TypeScript em código JavaScript. Usando a ferramenta TypeScript to JavaScript, é possível converter rapidamente o código TypeScript em código JavaScript, facilitando a verificação da estrutura e conteúdo do código."
+    },
+    "ru": {
+      "$name": "TypeScript в JavaScript",
+      "$keywords": [
+        "typescript",
+        "javascript",
+        "convert",
+        "compile",
+        "TypeScript to JavaScript",
+        "code conversion",
+        "compiler",
+        "development tool"
+      ],
+      "$description": "Инструмент TypeScript to JavaScript - это инструмент, используемый для преобразования кода TypeScript в код JavaScript. Он использует две библиотеки зависимостей, @he3-kit/utils и TypeScript.\n\nОсобенности:\n\n1. Вставьте или введите код TypeScript в инструмент.\n\n2. Инструмент автоматически преобразует код TypeScript в код JavaScript.\n\n3. Преобразованный код JavaScript будет отображаться в выходной области инструмента.\n\nПрименение:\n\n1. Разработка и тестирование TypeScript: При разработке или тестировании кода TypeScript разработчики часто должны преобразовывать его в код JavaScript. Использование инструмента TypeScript to JavaScript позволяет быстро преобразовывать код TypeScript в код JavaScript, что упрощает проверку структуры и содержания кода.\n\n2. Обзор кода: В процессе обзора кода рецензенты могут использовать инструмент TypeScript to JavaScript для преобразования кода TypeScript в код JavaScript для более простого просмотра и понимания структуры кода.\n\n3. Разработка и тестирование JavaScript: При разработке или тестировании кода JavaScript разработчики могут потребоваться преобразовать код TypeScript в код JavaScript. Использование инструмента TypeScript to JavaScript позволяет быстро преобразовывать код TypeScript в код JavaScript, что упрощает проверку структуры и содержания кода."
+    },
+    "it": {
+      "$name": "TypeScript a Javascript",
+      "$keywords": [
+        "typescript",
+        "javascript",
+        "convertire",
+        "compilare",
+        "TypeScript in JavaScript",
+        "conversione di codice",
+        "compilatore",
+        "strumento di sviluppo"
+      ],
+      "$description": "Lo strumento TypeScript to JavaScript è uno strumento utilizzato per convertire il codice TypeScript in codice JavaScript. Utilizza due librerie di dipendenze, @he3-kit/utils e TypeScript.\n\nCaratteristiche:\n\n1. Incolla o inserisci il codice TypeScript nello strumento.\n\n2. Lo strumento convertirà automaticamente il codice TypeScript in codice JavaScript.\n\n3. Il codice JavaScript convertito verrà visualizzato nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Sviluppo e testing di TypeScript: durante lo sviluppo o il testing del codice TypeScript, gli sviluppatori spesso hanno bisogno di convertirlo in codice JavaScript. Utilizzando lo strumento TypeScript to JavaScript, è possibile convertire rapidamente il codice TypeScript in codice JavaScript, facilitando la verifica della struttura e del contenuto del codice.\n\n2. Revisione del codice: durante il processo di revisione del codice, i revisori possono utilizzare lo strumento TypeScript to JavaScript per convertire il codice TypeScript in codice JavaScript per una visualizzazione e comprensione più semplice della struttura del codice.\n\n3. Sviluppo e testing di JavaScript: durante lo sviluppo o il testing del codice JavaScript, gli sviluppatori possono avere bisogno di convertire il codice TypeScript in codice JavaScript. Utilizzando lo strumento TypeScript to JavaScript, è possibile convertire rapidamente il codice TypeScript in codice JavaScript, facilitando la verifica della struttura e del contenuto del codice."
+    },
+    "fr": {
+      "$name": "TypeScript vers Javascript",
+      "$keywords": [
+        "typescript",
+        "javascript",
+        "convertir",
+        "compiler",
+        "TypeScript en JavaScript",
+        "conversion de code",
+        "compilateur",
+        "outil de développement"
+      ],
+      "$description": "L'outil TypeScript to JavaScript est un outil utilisé pour convertir du code TypeScript en code JavaScript. Il utilise deux bibliothèques de dépendances, @he3-kit/utils et TypeScript.\n\nFonctionnalités :\n\n1. Collez ou entrez du code TypeScript dans l'outil.\n\n2. L'outil convertira automatiquement le code TypeScript en code JavaScript.\n\n3. Le code JavaScript converti sera affiché dans la zone de sortie de l'outil.\n\nCas d'utilisation :\n\n1. Développement et test de TypeScript : Lors du développement ou du test de code TypeScript, les développeurs ont souvent besoin de le convertir en code JavaScript. En utilisant l'outil TypeScript to JavaScript, le code TypeScript peut être rapidement converti en code JavaScript, ce qui facilite la vérification de la structure et du contenu du code.\n\n2. Revue de code : Pendant le processus de revue de code, les examinateurs peuvent utiliser l'outil TypeScript to JavaScript pour convertir le code TypeScript en code JavaScript pour une visualisation et une compréhension plus faciles de la structure du code.\n\n3. Développement et test de JavaScript : Lors du développement ou du test de code JavaScript, les développeurs peuvent avoir besoin de convertir du code TypeScript en code JavaScript. En utilisant l'outil TypeScript to JavaScript, le code TypeScript peut être rapidement converti en code JavaScript, ce qui facilite la vérification de la structure et du contenu du code."
+    },
+    "de": {
+      "$name": "TypeScript zu Javascript",
+      "$keywords": [
+        "TypeScript",
+        "JavaScript",
+        "Konvertierung",
+        "Kompilierung",
+        "TypeScript zu JavaScript",
+        "Code-Konvertierung",
+        "Compiler",
+        "Entwicklungswerkzeug"
+      ],
+      "$description": "Das TypeScript-zu-JavaScript-Tool ist ein Werkzeug, das verwendet wird, um TypeScript-Code in JavaScript-Code umzuwandeln. Es verwendet zwei Abhängigkeitsbibliotheken, @he3-kit/utils und TypeScript.\n\nFunktionen:\n\n1. Fügen Sie TypeScript-Code in das Tool ein oder geben Sie ihn ein.\n\n2. Das Tool wandelt den TypeScript-Code automatisch in JavaScript-Code um.\n\n3. Der konvertierte JavaScript-Code wird im Ausgabe-Bereich des Tools angezeigt.\n\nAnwendungsfälle:\n\n1. TypeScript-Entwicklung und -Test: Bei der Entwicklung oder dem Testen von TypeScript-Code müssen Entwickler ihn oft in JavaScript-Code umwandeln. Mit dem TypeScript-zu-JavaScript-Tool kann der TypeScript-Code schnell in JavaScript-Code umgewandelt werden, um die Code-Struktur und den Inhalt zu überprüfen.\n\n2. Code-Review: Während des Code-Review-Prozesses können Reviewer das TypeScript-zu-JavaScript-Tool verwenden, um TypeScript-Code in JavaScript-Code umzuwandeln, um die Code-Struktur besser zu sehen und zu verstehen.\n\n3. JavaScript-Entwicklung und -Test: Bei der Entwicklung oder dem Testen von JavaScript-Code müssen Entwickler möglicherweise TypeScript-Code in JavaScript-Code umwandeln. Mit dem TypeScript-zu-JavaScript-Tool kann der TypeScript-Code schnell in JavaScript-Code umgewandelt werden, um die Code-Struktur und den Inhalt zu überprüfen."
+    },
+    "ko": {
+      "$name": "TypeScript를 Javascript로 변환",
+      "$keywords": [
+        "타입스크립트",
+        "자바스크립트",
+        "변환",
+        "컴파일",
+        "타입스크립트를 자바스크립트로",
+        "코드 변환",
+        "컴파일러",
+        "개발 도구"
+      ],
+      "$description": "TypeScript를 JavaScript로 변환하는 도구인 TypeScript to JavaScript tool은 두 개의 의존 라이브러리인 @he3-kit/utils와 TypeScript를 사용합니다.\n\n특징:\n\n1. TypeScript 코드를 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 TypeScript 코드를 자동으로 JavaScript 코드로 변환합니다.\n\n3. 변환된 JavaScript 코드는 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. TypeScript 개발 및 테스트: TypeScript 코드를 개발하거나 테스트할 때, 개발자들은 종종 JavaScript 코드로 변환해야 합니다. TypeScript to JavaScript tool을 사용하면 TypeScript 코드를 빠르게 JavaScript 코드로 변환하여 코드 구조와 내용을 확인하기 쉽습니다.\n\n2. 코드 검토: 코드 검토 과정에서 리뷰어들은 TypeScript 코드를 JavaScript 코드로 변환하여 코드 구조를 더 쉽게 볼 수 있습니다.\n\n3. JavaScript 개발 및 테스트: JavaScript 코드를 개발하거나 테스트할 때, 개발자들은 TypeScript 코드를 JavaScript 코드로 변환해야 할 수 있습니다. TypeScript to JavaScript tool을 사용하면 TypeScript 코드를 빠르게 JavaScript 코드로 변환하여 코드 구조와 내용을 확인하기 쉽습니다."
+    },
+    "ja": {
+      "$name": "TypeScriptからJavaScriptへの変換ツール",
+      "$keywords": [
+        "TypeScript",
+        "JavaScript",
+        "変換",
+        "コンパイル",
+        "TypeScriptからJavaScriptへ",
+        "コード変換",
+        "コンパイラ",
+        "開発ツール"
+      ],
+      "$description": "TypeScriptからJavaScriptへの変換ツールは、TypeScriptコードをJavaScriptコードに変換するために使用されるツールです。@he3-kit/utilsとTypeScriptの2つの依存ライブラリを使用しています。\n\n特徴：\n\n1. TypeScriptコードをツールに貼り付けるか入力します。\n\n2. ツールは自動的にTypeScriptコードをJavaScriptコードに変換します。\n\n3. 変換されたJavaScriptコードは、ツールの出力エリアに表示されます。\n\n使用例：\n\n1. TypeScriptの開発とテスト：TypeScriptコードを開発またはテストする際に、開発者はしばしばJavaScriptコードに変換する必要があります。TypeScriptからJavaScriptへの変換ツールを使用すると、TypeScriptコードをJavaScriptコードに簡単に変換して、コードの構造と内容を確認することができます。\n\n2. コードレビュー：コードレビューのプロセス中に、レビュアーはTypeScriptからJavaScriptへの変換ツールを使用して、TypeScriptコードをJavaScriptコードに変換して、コードの構造をより簡単に表示し理解することができます。\n\n3. JavaScriptの開発とテスト：JavaScriptコードを開発またはテストする際に、開発者はTypeScriptコードをJavaScriptコードに変換する必要がある場合があります。TypeScriptからJavaScriptへの変換ツールを使用すると、TypeScriptコードをJavaScriptコードに簡単に変換して、コードの構造と内容を確認することができます。"
+    },
+    "es": {
+      "$name": "TypeScript a Javascript",
+      "$keywords": [
+        "typescript",
+        "javascript",
+        "convertir",
+        "compilar",
+        "TypeScript a JavaScript",
+        "conversión de código",
+        "compilador",
+        "herramienta de desarrollo"
+      ],
+      "$description": "La herramienta TypeScript to JavaScript es una herramienta utilizada para convertir código TypeScript a código JavaScript. Utiliza dos bibliotecas de dependencia, @he3-kit/utils y TypeScript.\n\nCaracterísticas:\n\n1. Pegue o ingrese código TypeScript en la herramienta.\n\n2. La herramienta convertirá automáticamente el código TypeScript a código JavaScript.\n\n3. El código JavaScript convertido se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Desarrollo y prueba de TypeScript: al desarrollar o probar código TypeScript, los desarrolladores a menudo necesitan convertirlo a código JavaScript. Usando la herramienta TypeScript to JavaScript, se puede convertir rápidamente el código TypeScript a código JavaScript, lo que facilita la verificación de la estructura y el contenido del código.\n\n2. Revisión de código: durante el proceso de revisión de código, los revisores pueden usar la herramienta TypeScript to JavaScript para convertir el código TypeScript a código JavaScript para una visualización y comprensión más fácil de la estructura del código.\n\n3. Desarrollo y prueba de JavaScript: al desarrollar o probar código JavaScript, los desarrolladores pueden necesitar convertir código TypeScript a código JavaScript. Usando la herramienta TypeScript to JavaScript, se puede convertir rápidamente el código TypeScript a código JavaScript, lo que facilita la verificación de la estructura y el contenido del código."
+    },
+    "zh-tw": {
+      "$name": "TypeScript 轉換為 JavaScript",
+      "$keywords": [
+        "TypeScript",
+        "JavaScript",
+        "轉換",
+        "編譯",
+        "TypeScript 轉 JavaScript",
+        "程式碼轉換",
+        "編譯器",
+        "開發工具"
+      ],
+      "$description": "TypeScript 轉換成 JavaScript 工具是一個用於將 TypeScript 代碼轉換為 JavaScript 代碼的工具。它使用了兩個依賴庫，@he3-kit/utils 和 TypeScript。\n\n功能：\n\n1. 將 TypeScript 代碼粘貼或輸入到工具中。\n\n2. 工具將自動將 TypeScript 代碼轉換為 JavaScript 代碼。\n\n3. 轉換後的 JavaScript 代碼將顯示在工具的輸出區域中。\n\n用途：\n\n1. TypeScript 開發和測試：在開發或測試 TypeScript 代碼時，開發人員經常需要將其轉換為 JavaScript 代碼。使用 TypeScript 轉換成 JavaScript 工具可以快速將 TypeScript 代碼轉換為 JavaScript 代碼，輕鬆檢查代碼結構和內容。\n\n2. 代碼審查：在代碼審查過程中，審查人員可以使用 TypeScript 轉換成 JavaScript 工具將 TypeScript 代碼轉換為 JavaScript 代碼，以便更輕鬆地查看和理解代碼結構。\n\n3. JavaScript 開發和測試：在開發或測試 JavaScript 代碼時，開發人員可能需要將 TypeScript 代碼轉換為 JavaScript 代碼。使用 TypeScript 轉換成 JavaScript 工具可以快速將 TypeScript 代碼轉換為 JavaScript 代碼，輕鬆檢查代碼結構和內容。"
+    },
+    "zh-cn": {
+      "$name": "TypeScript转JavaScript",
+      "$keywords": [
+        "TypeScript",
+        "JavaScript",
+        "转换",
+        "编译",
+        "TypeScript到JavaScript",
+        "代码转换",
+        "编译器",
+        "开发工具"
+      ],
+      "$description": "TypeScript到JavaScript工具是一种用于将TypeScript代码转换为JavaScript代码的工具。它使用了两个依赖库，@he3-kit/utils和TypeScript。\n\n特点：\n\n1. 将TypeScript代码粘贴或输入到工具中。\n\n2. 工具将自动将TypeScript代码转换为JavaScript代码。\n\n3. 转换后的JavaScript代码将显示在工具的输出区域中。\n\n用途：\n\n1. TypeScript开发和测试：在开发或测试TypeScript代码时，开发人员经常需要将其转换为JavaScript代码。使用TypeScript到JavaScript工具可以快速将TypeScript代码转换为JavaScript代码，轻松检查代码结构和内容。\n\n2. 代码审查：在代码审查过程中，审查人员可以使用TypeScript到JavaScript工具将TypeScript代码转换为JavaScript代码，以便更轻松地查看和理解代码结构。\n\n3. JavaScript开发和测试：在开发或测试JavaScript代码时，开发人员可能需要将TypeScript代码转换为JavaScript代码。使用TypeScript到JavaScript工具可以快速将TypeScript代码转换为JavaScript代码，轻松检查代码结构和内容。"
+    }
+  }
+]

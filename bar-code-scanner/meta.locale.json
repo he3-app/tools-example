@@ -1,0 +1,169 @@
+{
+  "zh-cn": {
+    "$name": "条形码扫描",
+    "$keywords": [
+      "条形码",
+      "扫描",
+      "扫描器",
+      "识别",
+      "条码",
+      "条形码扫描",
+      "识别",
+      "仓库管理",
+      "物流分销",
+      "产品销售"
+    ],
+    "$description": "条形码扫描工具是一种用于扫描条形码的工具。它可以通过上传图像来识别图像中的条形码，并在工具的输出区域显示识别结果。\n\n功能描述：\n\n1. 点击“选择文件”按钮选择要上传的图像。\n\n2. 工具将自动识别图像中的条形码，并在工具的输出区域显示识别结果。\n\n3. 输出区域支持多行显示，方便查看更长的识别结果。\n\n使用场景：\n\n1. 仓库管理：在仓库管理中，经常需要进行条形码扫描，以更好地管理库存和出入库记录。\n\n2. 物流和分销：在物流和分销中，条形码扫描可以帮助快递员快速识别包裹信息，提高交付效率。\n\n3. 产品销售：在产品销售中，条形码扫描可以帮助收银员快速扫描产品条形码，减少排队等待时间。"
+  },
+  "zh-tw": {
+    "$name": "條碼掃描",
+    "$keywords": [
+      "條碼",
+      "掃描",
+      "掃描器",
+      "識別",
+      "倉庫管理",
+      "物流分配",
+      "產品銷售"
+    ],
+    "$description": "條碼掃描工具是一種用於掃描條碼的工具。它可以通過上傳圖像來識別圖像中的條碼，並在工具的輸出區域顯示識別結果。\n\n功能描述：\n\n1. 點擊“選擇文件”按鈕選擇要上傳的圖像。\n\n2. 工具將自動識別圖像中的條碼，並在工具的輸出區域顯示識別結果。\n\n3. 輸出區域支持多行顯示，方便查看較長的識別結果。\n\n使用場景：\n\n1. 倉庫管理：在倉庫管理中，通常需要條碼掃描來更好地管理庫存和進出記錄。\n\n2. 物流和分銷：在物流和分銷中，條碼掃描可以幫助快遞員快速識別包裹信息，提高交付效率。\n\n3. 產品銷售：在產品銷售中，條碼掃描可以幫助收銀員快速掃描產品條碼，減少排隊等待時間。"
+  },
+  "es": {
+    "$name": "Escaneo de códigos de barras",
+    "$keywords": [
+      "código",
+      "escanear",
+      "escáner",
+      "reconocer",
+      "código de barras",
+      "escaneo",
+      "reconocimiento",
+      "gestión de almacenes",
+      "distribución logística",
+      "ventas de productos"
+    ],
+    "$description": "La herramienta de escaneo de códigos de barras es una herramienta utilizada para escanear códigos de barras. Puede reconocer códigos de barras en imágenes al cargar la imagen y mostrar los resultados de reconocimiento en el área de salida de la herramienta.\n\nDescripción de la función:\n\n1. Haga clic en el botón \"Seleccionar archivo\" para elegir la imagen a cargar.\n\n2. La herramienta reconocerá automáticamente el código de barras en la imagen y mostrará los resultados de reconocimiento en el área de salida de la herramienta.\n\n3. El área de salida admite la visualización de varias líneas, lo que facilita la visualización de resultados de reconocimiento más largos.\n\nEscenarios de uso:\n\n1. Gestión de almacenes: En la gestión de almacenes, a menudo se requiere el escaneo de códigos de barras para gestionar mejor el inventario y los registros de entrada y salida.\n\n2. Logística y distribución: En la logística y distribución, el escaneo de códigos de barras puede ayudar a los mensajeros a identificar rápidamente la información del paquete y mejorar la eficiencia de entrega.\n\n3. Ventas de productos: En las ventas de productos, el escaneo de códigos de barras puede ayudar a los cajeros a escanear rápidamente los códigos de barras de los productos y reducir el tiempo de espera en la fila."
+  },
+  "ja": {
+    "$name": "バーコードスキャン",
+    "$keywords": [
+      "バーコード",
+      "スキャン",
+      "スキャナー",
+      "認識",
+      "バーコードスキャン",
+      "認識",
+      "倉庫管理",
+      "物流配送",
+      "製品販売"
+    ],
+    "$description": "バーコードスキャンツールは、バーコードをスキャンするために使用されるツールです。画像をアップロードしてバーコードを認識し、認識結果をツールの出力エリアに表示することができます。\n\n機能の説明：\n\n1. 「ファイルを選択」ボタンをクリックして、アップロードする画像を選択します。\n\n2. ツールは自動的に画像内のバーコードを認識し、認識結果をツールの出力エリアに表示します。\n\n3. 出力エリアは複数行表示に対応しており、長い認識結果を簡単に表示することができます。\n\n使用シナリオ：\n\n1. 倉庫管理：倉庫管理では、在庫や入出庫記録をより効果的に管理するために、バーコードスキャンが必要とされることがあります。\n\n2. 物流・配送：物流・配送では、バーコードスキャンにより配達員が迅速に荷物情報を特定し、配達効率を向上させることができます。\n\n3. 製品販売：製品販売では、キャッシャーが製品バーコードを迅速にスキャンし、列での待ち時間を短縮することができます。"
+  },
+  "ko": {
+    "$name": "바코드 스캐닝",
+    "$keywords": [
+      "바코드",
+      "스캔",
+      "스캐너",
+      "인식",
+      "창고 관리",
+      "물류 배송",
+      "제품 판매"
+    ],
+    "$description": "바코드 스캐닝 도구는 바코드를 스캔하는 데 사용되는 도구입니다. 이미지를 업로드하여 이미지에서 바코드를 인식하고 도구의 출력 영역에 인식 결과를 표시할 수 있습니다.\n\n기능 설명:\n\n1. \"파일 선택\" 버튼을 클릭하여 업로드할 이미지를 선택합니다.\n\n2. 도구는 이미지에서 자동으로 바코드를 인식하고 도구의 출력 영역에 인식 결과를 표시합니다.\n\n3. 출력 영역은 다중 라인 표시를 지원하여 긴 인식 결과를 쉽게 볼 수 있습니다.\n\n사용 시나리오:\n\n1. 창고 관리: 창고 관리에서는 재고 및 입출고 기록을 더 잘 관리하기 위해 바코드 스캐닝이 자주 필요합니다.\n\n2. 물류 및 유통: 물류 및 유통에서는 바코드 스캐닝을 통해 택배기사가 빠르게 소포 정보를 식별하고 배송 효율을 향상시킬 수 있습니다.\n\n3. 제품 판매: 제품 판매에서는 바코드 스캐닝을 통해 캐셔가 제품 바코드를 빠르게 스캔하고 줄 서기를 줄일 수 있습니다."
+  },
+  "de": {
+    "$name": "Barcode-Scannen",
+    "$keywords": [
+      "Barcode",
+      "Scannen",
+      "Scanner",
+      "Erkennen",
+      "Lagerverwaltung",
+      "Logistikverteilung",
+      "Produktverkauf"
+    ],
+    "$description": "Barcode-Scan-Tool ist ein Werkzeug, das zum Scannen von Barcodes verwendet wird. Es kann Barcodes in Bildern erkennen, indem das Bild hochgeladen wird und die Erkennungsergebnisse im Ausgabe-Bereich des Tools angezeigt werden.\n\nFunktionsbeschreibung:\n\n1. Klicken Sie auf die Schaltfläche \"Datei auswählen\", um das hochzuladende Bild auszuwählen.\n\n2. Das Tool erkennt automatisch den Barcode im Bild und zeigt die Erkennungsergebnisse im Ausgabe-Bereich des Tools an.\n\n3. Der Ausgabe-Bereich unterstützt die Mehrzeilenanzeige, um längere Erkennungsergebnisse leichter anzeigen zu können.\n\nAnwendungsszenarien:\n\n1. Lagerverwaltung: In der Lagerverwaltung ist oft Barcode-Scannen erforderlich, um den Bestand und die Ein- und Ausgangsprotokolle besser zu verwalten.\n\n2. Logistik und Verteilung: In der Logistik und Verteilung kann Barcode-Scannen den Kurieren helfen, schnell Paketinformationen zu identifizieren und die Lieferungseffizienz zu verbessern.\n\n3. Produktverkauf: Im Produktverkauf kann Barcode-Scannen den Kassierern helfen, schnell Produktbarcodes zu scannen und die Wartezeit in der Schlange zu reduzieren."
+  },
+  "fr": {
+    "$name": "Lecture de codes-barres",
+    "$keywords": [
+      "code-barres",
+      "code",
+      "scan",
+      "scanner",
+      "reconnaître",
+      "code-barres",
+      "numérisation",
+      "reconnaissance",
+      "gestion d'entrepôt",
+      "distribution logistique",
+      "vente de produits"
+    ],
+    "$description": "Outil de numérisation de codes-barres est un outil utilisé pour numériser des codes-barres. Il peut reconnaître les codes-barres dans les images en téléchargeant l'image et afficher les résultats de reconnaissance dans la zone de sortie de l'outil.\n\nDescription de la fonction :\n\n1. Cliquez sur le bouton \"Sélectionner un fichier\" pour choisir l'image à télécharger.\n\n2. L'outil reconnaîtra automatiquement le code-barres dans l'image et affichera les résultats de reconnaissance dans la zone de sortie de l'outil.\n\n3. La zone de sortie prend en charge l'affichage multi-lignes, ce qui facilite la visualisation des résultats de reconnaissance plus longs.\n\nScénarios d'utilisation :\n\n1. Gestion d'entrepôt : Dans la gestion d'entrepôt, la numérisation de codes-barres est souvent nécessaire pour mieux gérer les stocks et les enregistrements d'entrée et de sortie.\n\n2. Logistique et distribution : Dans la logistique et la distribution, la numérisation de codes-barres peut aider les coursiers à identifier rapidement les informations sur les colis et à améliorer l'efficacité de la livraison.\n\n3. Vente de produits : Dans la vente de produits, la numérisation de codes-barres peut aider les caissiers à numériser rapidement les codes-barres des produits et à réduire le temps d'attente en ligne."
+  },
+  "it": {
+    "$name": "Scansione del codice a barre",
+    "$keywords": [
+      "codice",
+      "a",
+      "barre",
+      "scansione",
+      "scanner",
+      "riconoscimento",
+      "Barcode",
+      "Scanning",
+      "Riconoscimento",
+      "Gestione magazzino",
+      "Distribuzione logistica",
+      "Vendita prodotti"
+    ],
+    "$description": "Lo strumento di scansione del codice a barre è uno strumento utilizzato per scansionare i codici a barre. Può riconoscere i codici a barre nelle immagini caricando l'immagine e visualizzando i risultati di riconoscimento nell'area di output dello strumento.\n\nDescrizione della funzione:\n\n1. Fare clic sul pulsante \"Seleziona file\" per scegliere l'immagine da caricare.\n\n2. Lo strumento riconoscerà automaticamente il codice a barre nell'immagine e visualizzerà i risultati di riconoscimento nell'area di output dello strumento.\n\n3. L'area di output supporta la visualizzazione su più righe, facilitando la visualizzazione di risultati di riconoscimento più lunghi.\n\nScenari d'uso:\n\n1. Gestione del magazzino: nella gestione del magazzino, la scansione del codice a barre è spesso richiesta per gestire meglio l'inventario e i record di ingresso e uscita.\n\n2. Logistica e distribuzione: nella logistica e nella distribuzione, la scansione del codice a barre può aiutare i corrieri a identificare rapidamente le informazioni sui pacchi e migliorare l'efficienza della consegna.\n\n3. Vendita di prodotti: nella vendita di prodotti, la scansione del codice a barre può aiutare i cassieri a scansionare rapidamente i codici a barre dei prodotti e ridurre il tempo di attesa in fila."
+  },
+  "ru": {
+    "$name": "Сканирование штрих-кода",
+    "$keywords": [
+      "штрих-код",
+      "сканирование",
+      "сканер",
+      "распознавание",
+      "управление складом",
+      "логистика",
+      "продажа товаров"
+    ],
+    "$description": "Инструмент сканирования штрих-кодов - это инструмент, используемый для сканирования штрих-кодов. Он может распознавать штрих-коды на изображениях, загружая изображение и отображая результаты распознавания в области вывода инструмента.\n\nОписание функций:\n\n1. Нажмите кнопку \"Выбрать файл\", чтобы выбрать изображение для загрузки.\n\n2. Инструмент автоматически распознает штрих-код на изображении и отображает результаты распознавания в области вывода инструмента.\n\n3. Область вывода поддерживает многострочный вывод, что облегчает просмотр более длинных результатов распознавания.\n\nСценарии использования:\n\n1. Управление складом: В управлении складом часто требуется сканирование штрих-кодов для более эффективного управления запасами и записями о поступлениях и отгрузках.\n\n2. Логистика и дистрибуция: В логистике и дистрибуции сканирование штрих-кодов может помочь курьерам быстро определить информацию о посылке и улучшить эффективность доставки.\n\n3. Продажа товаров: В продаже товаров сканирование штрих-кодов может помочь кассирам быстро сканировать штрих-коды товаров и сократить время ожидания в очереди."
+  },
+  "pt": {
+    "$name": "Leitura de Código de Barras",
+    "$keywords": [
+      "código de barras",
+      "escanear",
+      "scanner",
+      "reconhecer",
+      "Barcode",
+      "Escaneamento",
+      "Reconhecimento",
+      "Gerenciamento de Armazém",
+      "Distribuição Logística",
+      "Vendas de Produtos"
+    ],
+    "$description": "A Ferramenta de Leitura de Código de Barras é uma ferramenta usada para ler códigos de barras. Ela pode reconhecer códigos de barras em imagens ao fazer o upload da imagem e exibir os resultados de reconhecimento na área de saída da ferramenta.\n\nDescrição da função:\n\n1. Clique no botão \"Selecionar Arquivo\" para escolher a imagem a ser carregada.\n\n2. A ferramenta reconhecerá automaticamente o código de barras na imagem e exibirá os resultados de reconhecimento na área de saída da ferramenta.\n\n3. A área de saída suporta exibição em várias linhas, tornando mais fácil visualizar resultados de reconhecimento mais longos.\n\nCenários de uso:\n\n1. Gerenciamento de armazém: No gerenciamento de armazém, a leitura de códigos de barras é frequentemente necessária para melhor gerenciar o inventário e os registros de entrada e saída.\n\n2. Logística e distribuição: Na logística e distribuição, a leitura de códigos de barras pode ajudar os entregadores a identificar rapidamente informações de pacotes e melhorar a eficiência da entrega.\n\n3. Vendas de produtos: Na venda de produtos, a leitura de códigos de barras pode ajudar os caixas a escanear rapidamente os códigos de barras dos produtos e reduzir o tempo de espera na fila."
+  },
+  "en": {
+    "$name": "Barcode Scanning",
+    "$keywords": [
+      "bar",
+      "code",
+      "scan",
+      "scanner",
+      "recognize",
+      "Barcode",
+      "Scanning",
+      "Recognition",
+      "Warehouse Management",
+      "Logistics Distribution",
+      "Product Sales"
+    ],
+    "$description": "Barcode Scanning Tool is a tool used to scan barcodes. It can recognize barcodes in images by uploading the image and display the recognition results in the output area of the tool.\n\nFunction description:\n\n1. Click the \"Select File\" button to choose the image to upload.\n\n2. The tool will automatically recognize the barcode in the image and display the recognition results in the output area of the tool.\n\n3. The output area supports multi-line display, making it easy to view longer recognition results.\n\nUse scenarios:\n\n1. Warehouse management: In warehouse management, barcode scanning is often required to better manage inventory and inbound and outbound records.\n\n2. Logistics and distribution: In logistics and distribution, barcode scanning can help couriers quickly identify package information and improve delivery efficiency.\n\n3. Product sales: In product sales, barcode scanning can help cashiers quickly scan product barcodes and reduce waiting time in line."
+  }
+}

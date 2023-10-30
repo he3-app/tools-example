@@ -1,0 +1,123 @@
+{
+  "en": {
+    "$name": "Chinese To Pinyin",
+    "$description": "Convert Chinese characters to pinyin quickly and easily with this tool. Effortlessly transform Chinese characters into pinyin.",
+    "$keywords": [
+      "Chinese character to pinyin conversion tool",
+      "convert Chinese characters to pinyin",
+      "pinyin converter",
+      "Chinese character pinyin conversion",
+      "Chinese pinyin transformation"
+    ]
+  },
+  "ko": {
+    "$name": "중국어를 병음으로",
+    "$description": "이 도구를 사용하여 중국어 문자를 병음으로 빠르고 쉽게 변환하세요. 한자를 병음으로 쉽게 변환할 수 있습니다.",
+    "$keywords": [
+      "한자를 병음으로 변환하는 도구",
+      "한자를 병음으로 변환",
+      "병음 변환기",
+      "한자 병음 변환",
+      "중국어 병음 변환"
+    ]
+  },
+  "pt": {
+    "$name": "Chinês para Pinyin",
+    "$description": "Converta caracteres chineses em pinyin de forma rápida e fácil com esta ferramenta. Transforme facilmente caracteres chineses em pinyin.",
+    "$keywords": [
+      "Ferramenta de conversão de caracteres chineses para pinyin",
+      "converter caracteres chineses em pinyin",
+      "conversor pinyin",
+      "Conversão de caracteres chineses em pinyin",
+      "Transformação pinyin chinesa"
+    ]
+  },
+  "zh-cn": {
+    "$name": "中文转拼音",
+    "$description": "使用此工具可以快速轻松地将汉字转换为拼音。 毫不费力地将汉字转换为拼音。",
+    "$keywords": [
+      "汉字转拼音转换工具",
+      "将汉字转换为拼音",
+      "拼音转换器",
+      "汉字拼音转换",
+      "汉语拼音转换"
+    ]
+  },
+  "it": {
+    "$name": "Dal cinese al pinyin",
+    "$description": "Converti i caratteri cinesi in pinyin in modo rapido e semplice con questo strumento. Trasforma facilmente i caratteri cinesi in pinyin.",
+    "$keywords": [
+      "Strumento di conversione da carattere cinese a pinyin",
+      "convertire i caratteri cinesi in pinyin",
+      "convertitore pinyin",
+      "Conversione del carattere cinese pinyin",
+      "Trasformazione del pinyin cinese"
+    ]
+  },
+  "fr": {
+    "$name": "Du chinois au pinyin",
+    "$description": "Convertissez les caractères chinois en pinyin rapidement et facilement avec cet outil. Transformez sans effort les caractères chinois en pinyin.",
+    "$keywords": [
+      "Outil de conversion de caractères chinois en pinyin",
+      "convertir les caractères chinois en pinyin",
+      "convertisseur de pinyin",
+      "Conversion du caractère chinois pinyin",
+      "Transformation du pinyin chinois"
+    ]
+  },
+  "es": {
+    "$name": "Chino a pinyin",
+    "$description": "Convierte caracteres chinos a pinyin rápida y fácilmente con esta herramienta. Transforma fácilmente los caracteres chinos en pinyin.",
+    "$keywords": [
+      "Herramienta de conversión de caracteres chinos a pinyin",
+      "convertir caracteres chinos a pinyin",
+      "convertidor pinyin",
+      "Conversión de caracteres chinos a pinyin",
+      "Transformación pinyin china"
+    ]
+  },
+  "de": {
+    "$name": "Chinesisch nach Pinyin",
+    "$description": "Konvertieren Sie mit diesem Tool schnell und einfach chinesische Schriftzeichen in Pinyin. Wandeln Sie chinesische Schriftzeichen mühelos in Pinyin um.",
+    "$keywords": [
+      "Konvertierungstool für chinesische Schriftzeichen in Pinyin",
+      "Konvertieren Sie chinesische Schriftzeichen in Pinyin",
+      "Pinyin-Konverter",
+      "Pinyin-Konvertierung chinesischer Schriftzeichen",
+      "Chinesische Pinyin-Transformation"
+    ]
+  },
+  "ja": {
+    "$name": "中国語からピンインへ",
+    "$description": "このツールを使用して、中国語の文字をピンインにすばやく簡単に変換します。 中国語の文字をピンインに簡単に変換します。",
+    "$keywords": [
+      "漢字からピンインへの変換ツール",
+      "中国語の文字をピンインに変換する",
+      "ピンインコンバータ",
+      "漢字ピンイン変換",
+      "中国語のピンイン変換"
+    ]
+  },
+  "ru": {
+    "$name": "Китайский в Пиньинь",
+    "$description": "Быстро и легко конвертируйте китайские иероглифы в пиньинь с помощью этого инструмента. Легко преобразуйте китайские иероглифы в пиньинь.",
+    "$keywords": [
+      "Инструмент преобразования китайских иероглифов в пиньинь",
+      "конвертировать китайские иероглифы в пиньинь",
+      "конвертер пиньинь",
+      "Преобразование китайских иероглифов пиньинь",
+      "Трансформация китайской пиньинь"
+    ]
+  },
+  "zh-tw": {
+    "$name": "中文轉拼音",
+    "$description": "使用此工具可以快速輕鬆地將漢字轉換為拼音。 毫不費力地將漢字轉換為拼音。",
+    "$keywords": [
+      "漢字轉拼音轉換工具",
+      "將漢字轉換為拼音",
+      "拼音轉換器",
+      "漢字拼音轉換",
+      "漢語拼音轉換"
+    ]
+  }
+}

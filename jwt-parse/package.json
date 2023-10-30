@@ -1,0 +1,46 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "id": "jwt-parse",
+    "name": "JWT Parser",
+    "icon": "thunderbolt-outlined",
+    "version": "1.1.0",
+    "isPublic": true,
+    "repository": "",
+    "category": [
+      "programming"
+    ],
+    "description": "JWT Parser is a powerful tool that allows developers to easily parse and decode JWT tokens using JavaScript. With support for popular algorithms like HS256, HS384, and HS512, this web-based tool simplifies the process of working with JWT tokens, making it an essential tool for any developer working with web-based authentication systems.",
+    "keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "javascript",
+      "web",
+      "token",
+      "hs256",
+      "hs384",
+      "hs512"
+    ],
+    "relatedToolId": [
+      "jwt-generator"
+    ]
+  },
+  "dependencies": {
+    "jwt-decode": "^3.1.2",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

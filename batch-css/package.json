@@ -1,0 +1,375 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "generate": "he3 generate",
+    "version": "he3 version"
+  },
+  "he3": [
+    {
+      "id": "base64-to-css",
+      "name": "Base64 to CSS",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "CSS to Base64 is a powerful tool that compiles and renders SASS code into CSS, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set, SASS to CSS is the perfect solution for anyone looking to optimize their CSS development process.",
+      "keywords": [
+        "CSS",
+        "Base64",
+        "compile",
+        "render"
+      ],
+      "relatedToolId": [
+        "css-to-base64"
+      ]
+    },
+    {
+      "id": "css-to-base64",
+      "name": "CSS to Base64",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "CSS to Base64 is a powerful tool that compiles and renders SASS code into CSS, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set, SASS to CSS is the perfect solution for anyone looking to optimize their CSS development process.",
+      "keywords": [
+        "CSS",
+        "Base64",
+        "compile",
+        "render"
+      ],
+      "relatedToolId": [
+        "base64-to-css"
+      ]
+    },
+    {
+      "id": "css-to-less",
+      "name": "CSS to Less",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "CSS to Less is a powerful tool that compiles and renders Less code into CSS, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set, Less to CSS is the perfect solution for anyone looking to optimize their CSS development process.",
+      "keywords": [
+        "less",
+        "css",
+        "compile",
+        "render"
+      ],
+      "relatedToolId": [
+        "less-to-css"
+      ]
+    },
+    {
+      "id": "less-minify",
+      "name": "Less Minify",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "Less Prettify is a powerful tool that compiles and renders Less Prettify, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set, Less to Stylus is the perfect solution for anyone looking to optimize their Stylus development process.",
+      "keywords": [
+        "less",
+        "minify",
+        "compile"
+      ],
+      "relatedToolId": [
+        "less-prettify"
+      ]
+    },
+    {
+      "id": "less-prettify",
+      "name": "Less Prettify",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "Less Prettify is a powerful tool that compiles and renders Less Prettify, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set, Less to Stylus is the perfect solution for anyone looking to optimize their Stylus development process.",
+      "keywords": [
+        "less",
+        "prettify",
+        "compile"
+      ],
+      "relatedToolId": [
+        "less-minify"
+      ]
+    },
+    {
+      "id": "less-to-stylus",
+      "name": "Less to Stylus",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "Less to Stylus is a powerful tool that compiles and renders Less code into stylus, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set, Less to Stylus is the perfect solution for anyone looking to optimize their Stylus development process.",
+      "keywords": [
+        "less",
+        "Stylus",
+        "compile",
+        "render"
+      ],
+      "relatedToolId": [
+        "css-to-stylus"
+      ]
+    },
+    {
+      "id": "stylus-minify",
+      "name": "Stylus Minify",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.6",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "Stylus Minify is a tool that helps to reduce the size of Stylus code by removing unnecessary characters, spaces, and comments, resulting in faster loading times for web pages. It uses techniques such as minification, compression, and uglification to optimize Stylus code for better performance.",
+      "keywords": [
+        "stylus",
+        "minify",
+        "compress",
+        "uglify"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "css-to-stylus",
+      "name": "CSS to Stylus",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "CSS to Stylus is a powerful tool that compiles and renders Stylus code into CSS, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set,CSS  to Stylus is the perfect solution for anyone looking to optimize their CSS development process.",
+      "keywords": [
+        "stylus",
+        "css",
+        "compile"
+      ],
+      "relatedToolId": [
+        "less-to-stylus"
+      ]
+    },
+    {
+      "id": "sass-to-css",
+      "name": "SASS to CSS",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.5",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "SASS to CSS is a powerful tool that compiles and renders SASS code into CSS, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set, SASS to CSS is the perfect solution for anyone looking to optimize their CSS development process.",
+      "keywords": [
+        "sass",
+        "css",
+        "compile",
+        "render"
+      ],
+      "relatedToolId": [
+        "less-to-css",
+        "less-to-stylus",
+        "css-to-stylus"
+      ]
+    },
+    {
+      "id": "css-minify",
+      "name": "CSS Compression",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.8",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "CSS Compression is a tool that helps to reduce the size of CSS code by removing unnecessary characters, spaces, and comments, resulting in faster loading times for web pages. It uses techniques such as minification, compression, and uglification to optimize CSS code for better performance.",
+      "keywords": [
+        "CSS",
+        "minify",
+        "compress",
+        "uglify"
+      ],
+      "relatedToolId": [
+        "css-prettify"
+      ]
+    },
+    {
+      "id": "css-prettify",
+      "name": "CSS Formatting",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.8",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "CSS Formatting is a tool that allows users to format and beautify their CSS code, making it easier to read and understand. It also includes a validator to ensure that the code is valid and error-free.",
+      "keywords": [
+        "CSS",
+        "beautify",
+        "pretty",
+        "prettify",
+        "fmt",
+        "format",
+        "formatter",
+        "validate",
+        "validator"
+      ],
+      "relatedToolId": [
+        "css-minify"
+      ]
+    },
+    {
+      "id": "less-to-css",
+      "name": "Less to CSS",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.10",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "Less to CSS is a powerful tool that compiles and renders Less code into CSS, allowing developers to streamline their workflow and create more efficient and effective stylesheets. With its intuitive interface and robust feature set, Less to CSS is the perfect solution for anyone looking to optimize their CSS development process.",
+      "keywords": [
+        "less",
+        "css",
+        "compile",
+        "render"
+      ],
+      "relatedToolId": [
+        "sass-to-css"
+      ]
+    },
+    {
+      "id": "css-to-js-object",
+      "name": "CSS to Javascript Object",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.9",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "The CSS to Javascript Object tool is a conversion tool that transforms CSS code into a Javascript object format, allowing developers to easily manipulate and apply CSS styles to their web applications using Javascript. This tool simplifies the process of styling web pages by providing a more efficient and flexible way to manage CSS styles through Javascript.",
+      "keywords": [
+        "css",
+        "javascript",
+        "object",
+        "js"
+      ],
+      "relatedToolId": [
+        "js-object-to-css"
+      ]
+    },
+    {
+      "id": "css-to-react-native-stylesheet-object",
+      "name": "CSS to React Native Stylesheet Objects",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "Convert CSS to React Native Stylesheet Objects",
+      "keywords": [
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+    },
+    {
+      "id": "js-object-to-css",
+      "name": "Javascript Object to CSS",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.9",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "The CSS to Javascript Object tool is a conversion tool that transforms CSS code into a Javascript object format, allowing developers to easily manipulate and apply CSS styles to their web applications using Javascript. This tool simplifies the process of styling web pages by providing a more efficient and flexible way to manage CSS styles through Javascript.",
+      "keywords": [
+        "css",
+        "javascript",
+        "object",
+        "js"
+      ],
+      "relatedToolId": [
+        "css-to-js-object"
+      ]
+    }
+  ],
+  "dependencies": {
+    "@he3-kit/utils": "latest",
+    "css-to-json": "^2.1.0",
+    "css-to-object": "^1.1.0",
+    "css-to-react-native": "^3.2.0",
+    "css-to-stylus-converter": "^1.1.9",
+    "css-tree": "^2.3.1",
+    "css2less": "^0.1.4",
+    "css2sass": "^0.1.1",
+    "cssbeautify": "^0.3.1",
+    "csso": "^5.0.5",
+    "cssobj": "^1.3.6",
+    "cssobj-converter": "^2.4.3",
+    "js-base64": "^3.7.5",
+    "js-beautify": "^1.14.7",
+    "js-to-css": "^1.0.2",
+    "js-to-scss": "^1.0.0",
+    "json-to-css": "^0.1.0",
+    "jss": "^10.10.0",
+    "jss-preset-default": "^10.10.0",
+    "postcss": "^8.4.23",
+    "postcss-js": "^4.0.1",
+    "sass": "^1.62.1",
+    "sass-compiler": "^1.3.2-beta",
+    "sass.js": "^0.11.1",
+    "scss-to-css": "^0.1.0",
+    "sql-formatter": "^12.1.3",
+    "style-to-js": "^1.1.3",
+    "stylis": "^4.1.3",
+    "stylus": "^0.59.0",
+    "stylus-supremacy": "^2.17.5",
+    "typestyle": "2.0.0",
+    "unescape-js": "^1.1.4",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@types/js-beautify": "^1.13.3",
+    "@types/jsesc": "^3.0.1",
+    "@types/less": "^3.0.3",
+    "@types/node-sass": "^4.11.3",
+    "@types/stylis": "^4.0.2",
+    "@types/stylus": "^0.48.38",
+    "@types/unescape-js": "^1.0.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

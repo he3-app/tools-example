@@ -1,0 +1,1819 @@
+[
+    {
+        "id": "merge-video-and-audio",
+        "zh-cn": {
+            "$name": "音频添加到视频",
+            "$description": "为您的视频添加声音、歌曲或画外音",
+            "$keywords": [
+                "视频编辑",
+                "上传视频",
+                "视频文件"                                                                                                                          
+            ]
+        },
+        "en": {
+            "$name": "Add Audio to Video",
+            "$description": "Add a sound, song or voiceover to your video.",
+            "$keywords": [
+                "Video Editing",
+                "Upload Video",
+                "Video File"
+            ]
+        }
+    },
+    {
+        "id": "change-video-volume",
+        "zh-cn": {
+            "$name": "视频音量调整",
+            "$description": "视频转GIF转换器 工具说明文档\n\n概述：\n视频转GIF可以快速简单地改变视频声音。 无论您的原始媒体是什么格式。\n\n使用场景：\n1. 用户需要将视频文件转换为 GIF 文件。\n2. 用户需要在网页上进行视频文件的上传和转换操作。\n\n使用方法：\n1. 打开视频转GIF转换器工具页面。\n2. 点击上传按钮，选择要转换的视频文件。\n3. 工具会自动将视频文件转换为 GIF 文件，并在页面上显示转换后的 GIF 文件。\n4. 点击下载按钮，即可下载转换后的 GIF 文件。\n",
+            "$keywords": [
+                "在线转换工具",
+                "视频",
+                "改变视频声音",
+                "VIDEO",
+                "VOLUME"
+            ]
+        },
+        "en": {
+            "$name": "Video Sound Resizing",
+            "$description": "Video to GIF converter tool documentation Overview:Video to GIF can quickly and easily change video sound. No matter what format your original media is.Usage scenario:1. Users need to convert video files to GIF files.\n2. Users need to upload and convert video files on the web page.\n\nHow to use:\n1. Open the video to GIF converter tool page.\n2 . Click the upload button and select the video file to be converted.\n3. The tool will automatically convert the video file into a GIF file and display the converted GIF file on the page.\n4. Click the download button to download the converted GIF file GIF file.\n",
+            "$keywords": [
+                "Online Conversion Tool",
+                "video",
+                "Change Video Sound",
+                "VIDEO",
+                "VOLUME"
+            ]
+        }
+    },
+    {
+        "id": "video-to-gif-converter",
+        "zh-cn": {
+            "$name": "视频转 GIF",
+            "$description": "视频转GIF转换器 工具说明文档\n\n概述：\n视频转GIF可以快速简单地将任何视频转换为高质量的 GIF。 无论您的原始媒体是什么格式。\n\n使用场景：\n1. 用户需要将视频文件转换为 GIF 文件。\n2. 用户需要在网页上进行视频文件的上传和转换操作。\n\n使用方法：\n1. 打开视频转GIF转换器工具页面。\n2. 点击上传按钮，选择要转换的视频文件。\n3. 工具会自动将视频文件转换为 GIF 文件，并在页面上显示转换后的 GIF 文件。\n4. 点击下载按钮，即可下载转换后的 GIF 文件。\n",
+            "$keywords": [
+                "在线转换工具",
+                "视频",
+                "GIF",
+                "gif",
+                "视频转换器",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "zh-tw": {
+            "$name": "視頻轉GIF轉換器",
+            "$description": "視頻轉GIF轉換器 工具說明文件\n\n概述：\n視頻轉GIF可以快速簡單地將任何視頻轉換為高質量的GIF。 無論您的原始媒體是什麼格式。\n\n使用場景：\n1. 用戶需要將視頻文件轉換為GIF文件。\n2. 用戶需要在網頁上進行視頻文件的上傳和轉換操作。\n\n使用方法：\n1. 打開視頻轉GIF轉換器工具頁面。\n2. 點擊上傳按鈕，選擇要轉換的視頻文件。\n3. 工具會自動將視頻文件轉換為GIF文件，並在頁面上顯示轉換後的GIF文件。\n4. 點擊下載按鈕，即可下載轉換後的GIF文件。\n",
+            "$keywords": [
+                "在線轉換工具",
+                "視頻",
+                "GIF",
+                "gif",
+                "視頻轉換器",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "en": {
+            "$name": "Video to GIF",
+            "$description": "Overview:\nVideo to GIF Converter is a tool that can quickly and easily convert any video into high-quality GIFs, regardless of the original media format.\n\nUse Cases:\n1. Users who need to convert video files to GIF files.\n2. Users who need to upload and convert video files on web pages.\n\nInstructions:\n1. Open the Video to GIF Converter tool page.\n2. Click the upload button and select the video file to be converted.\n3. The tool will automatically convert the video file to a GIF file and display the converted GIF file on the page.\n4. Click the download button to download the converted GIF file.",
+            "$keywords": [
+                "online conversion tool",
+                "video",
+                "GIF",
+                "gif",
+                "video converter",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "es": {
+            "$name": "Convertidor de Video a GIF",
+            "$description": "Documento de descripción de la herramienta Convertidor de Video a GIF\n\nResumen:\nEl Convertidor de Video a GIF puede convertir cualquier video en un GIF de alta calidad de manera rápida y sencilla, independientemente del formato de su medio original.\n\nEscenarios de uso:\n1. Los usuarios necesitan convertir archivos de video a archivos GIF.\n2. Los usuarios necesitan cargar y convertir archivos de video en una página web.\n\nInstrucciones de uso:\n1. Abra la página de la herramienta Convertidor de Video a GIF.\n2. Haga clic en el botón de carga y seleccione el archivo de video que desea convertir.\n3. La herramienta convertirá automáticamente el archivo de video en un archivo GIF y mostrará el archivo GIF convertido en la página.\n4. Haga clic en el botón de descarga para descargar el archivo GIF convertido.\n",
+            "$keywords": [
+                "herramienta de conversión en línea",
+                "video",
+                "GIF",
+                "gif",
+                "convertidor de video",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "ja": {
+            "$name": "ビデオからGIFへの変換ツール",
+            "$description": "ビデオからGIFへの変換ツールの説明書\n\n概要：\nビデオからGIFへの変換ツールは、どんな形式のメディアでも高品質のGIFに簡単かつ迅速に変換できます。\n\n使用シーン：\n1. ユーザーがビデオファイルをGIFファイルに変換する必要がある場合。\n2. ユーザーがウェブページでビデオファイルのアップロードと変換を行う必要がある場合。\n\n使用方法：\n1. ビデオからGIFへの変換ツールページを開きます。\n2. アップロードボタンをクリックして、変換するビデオファイルを選択します。\n3. ツールは自動的にビデオファイルをGIFファイルに変換し、変換後のGIFファイルをページに表示します。\n4. ダウンロードボタンをクリックして、変換後のGIFファイルをダウンロードできます。\n",
+            "$keywords": [
+                "オンライン変換ツール",
+                "ビデオ",
+                "GIF",
+                "gif",
+                "ビデオ変換ツール",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "ko": {
+            "$name": "비디오를 GIF로 변환하는 도구",
+            "$description": "비디오를 GIF로 변환하는 도구 설명서\n\n개요:\n비디오를 GIF로 변환하는 도구는 어떤 형식의 원본 미디어를 사용하더라도 빠르고 간단하게 고품질의 GIF로 변환할 수 있습니다.\n\n사용 시나리오:\n1. 사용자가 비디오 파일을 GIF 파일로 변환해야 할 때.\n2. 사용자가 웹 페이지에서 비디오 파일을 업로드하고 변환 작업을 수행해야 할 때.\n\n사용 방법:\n1. 비디오를 GIF로 변환하는 도구 페이지를 엽니다.\n2. 업로드 버튼을 클릭하여 변환할 비디오 파일을 선택합니다.\n3. 도구는 자동으로 비디오 파일을 GIF 파일로 변환하고 변환된 GIF 파일을 페이지에 표시합니다.\n4. 다운로드 버튼을 클릭하여 변환된 GIF 파일을 다운로드할 수 있습니다.\n",
+            "$keywords": [
+                "온라인 변환 도구",
+                "비디오",
+                "GIF",
+                "gif",
+                "비디오 변환기",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "de": {
+            "$name": "Video zu GIF Konverter",
+            "$description": "Video zu GIF Konverter Werkzeugbeschreibung\n\nÜberblick:\nDer Video zu GIF Konverter kann jedes Video schnell und einfach in hochwertige GIFs umwandeln, unabhängig vom Format Ihres Ausgangsmediums.\n\nAnwendungsbereiche:\n1. Benutzer müssen Videodateien in GIF-Dateien konvertieren.\n2. Benutzer müssen Video-Uploads und Konvertierungsoperationen auf einer Webseite durchführen.\n\nVerwendung:\n1. Öffnen Sie die Seite des Video zu GIF Konverters.\n2. Klicken Sie auf die Schaltfläche zum Hochladen und wählen Sie die zu konvertierende Videodatei aus.\n3. Das Tool wandelt die Videodatei automatisch in eine GIF-Datei um und zeigt die konvertierte GIF-Datei auf der Seite an.\n4. Klicken Sie auf die Schaltfläche zum Herunterladen, um die konvertierte GIF-Datei herunterzuladen.\n",
+            "$keywords": [
+                "Online-Konvertierungswerkzeug",
+                "Video",
+                "GIF",
+                "gif",
+                "Video-Konverter",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "fr": {
+            "$name": "Convertisseur vidéo en GIF",
+            "$description": "Document de description de l'outil Convertisseur vidéo en GIF\n\nAperçu :\nLe Convertisseur vidéo en GIF permet de convertir rapidement et facilement n'importe quelle vidéo en un GIF de haute qualité, quel que soit le format de votre média d'origine.\n\nScénarios d'utilisation :\n1. L'utilisateur doit convertir un fichier vidéo en un fichier GIF.\n2. L'utilisateur doit télécharger et convertir des fichiers vidéo sur une page web.\n\nMode d'utilisation :\n1. Ouvrez la page de l'outil Convertisseur vidéo en GIF.\n2. Cliquez sur le bouton de téléchargement et sélectionnez le fichier vidéo à convertir.\n3. L'outil convertira automatiquement le fichier vidéo en un fichier GIF et affichera le fichier GIF converti sur la page.\n4. Cliquez sur le bouton de téléchargement pour télécharger le fichier GIF converti.\n",
+            "$keywords": [
+                "outil de conversion en ligne",
+                "vidéo",
+                "GIF",
+                "gif",
+                "convertisseur vidéo",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "it": {
+            "$name": "Convertitore Video in GIF",
+            "$description": "Convertitore Video in GIF Documentazione dello strumento\n\nPanoramica:\nIl Convertitore Video in GIF consente di convertire rapidamente e facilmente qualsiasi video in un GIF di alta qualità, indipendentemente dal formato del tuo media originale.\n\nScenari d'uso:\n1. L'utente ha bisogno di convertire un file video in un file GIF.\n2. L'utente ha bisogno di caricare e convertire un file video su una pagina web.\n\nModalità d'uso:\n1. Aprire la pagina dello strumento Convertitore Video in GIF.\n2. Fare clic sul pulsante di caricamento e selezionare il file video da convertire.\n3. Lo strumento convertirà automaticamente il file video in un file GIF e mostrerà il file GIF convertito sulla pagina.\n4. Fare clic sul pulsante di download per scaricare il file GIF convertito.\n",
+            "$keywords": [
+                "Strumento di conversione online",
+                "Video",
+                "GIF",
+                "gif",
+                "Convertitore video",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "ru": {
+            "$name": "Конвертер видео в GIF",
+            "$description": "Описание инструмента Конвертер видео в GIF\n\nОбзор:\nКонвертер видео в GIF позволяет быстро и просто преобразовывать любое видео в высококачественный GIF. Независимо от формата вашего исходного медиа.\n\nСценарии использования:\n1. Пользователь должен преобразовать видеофайл в файл GIF.\n2. Пользователь должен загружать и преобразовывать видеофайлы на веб-странице.\n\nИнструкция по использованию:\n1. Откройте страницу инструмента Конвертер видео в GIF.\n2. Нажмите кнопку загрузки и выберите файл видео.\n3. Инструмент автоматически преобразует файл видео в файл GIF и отображает преобразованный файл GIF на странице.\n4. Нажмите кнопку загрузки, чтобы загрузить преобразованный файл GIF.\n",
+            "$keywords": [
+                "онлайн-конвертер",
+                "видео",
+                "GIF",
+                "gif",
+                "конвертер видео",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        },
+        "pt": {
+            "$name": "Conversor de Vídeo para GIF",
+            "$description": "Documento de descrição da ferramenta Conversor de Vídeo para GIF\n\nVisão geral:\nO Conversor de Vídeo para GIF pode converter rapidamente e facilmente qualquer vídeo em um GIF de alta qualidade, independentemente do formato da sua mídia original.\n\nCenários de uso:\n1. O usuário precisa converter arquivos de vídeo em arquivos GIF.\n2. O usuário precisa fazer upload e conversão de arquivos de vídeo na web.\n\nInstruções de uso:\n1. Abra a página da ferramenta Conversor de Vídeo para GIF.\n2. Clique no botão de upload e selecione o arquivo de vídeo que deseja converter.\n3. A ferramenta converterá automaticamente o arquivo de vídeo em um arquivo GIF e exibirá o arquivo GIF convertido na página.\n4. Clique no botão de download para baixar o arquivo GIF convertido.\n",
+            "$keywords": [
+                "Ferramenta de conversão online",
+                "Vídeo",
+                "GIF",
+                "gif",
+                "Conversor de vídeo",
+                "MP4",
+                "AVI",
+                "MKV"
+            ]
+        }
+    },
+    {
+        "id": "gif-to-video-converter",
+        "zh-cn": {
+            "$name": "GIF 转视频",
+            "$description": "工具名称：GIF to Video Converter\n\n工具描述：GIF to Video Converter 是一个将 GIF 格式的文件转换为 MP4 格式的工具。用户可以将 GIF 文件上传到工具中，工具会自动将其转换为 MP4 格式，并提供下载链接。工具使用了 @ffmpeg/ffmpeg 库进行转换。\n\n使用场景：\n\n1. 用户需要将 GIF 文件转换为 MP4 格式，以便在不同设备上播放。\n\n2. 用户需要将 GIF 文件转换为 MP4 格式，以便在视频编辑软件中进行编辑。\n\n3. 用户需要将 GIF 文件转换为 MP4 格式，以便在网站上进行展示。\n\n使用方法：\n\n1. 将 GIF 文件上传到工具中。\n\n2. 工具会自动将 GIF 文件转换为 MP4 格式，并提供下载链接。\n\n3. 用户可以点击下载链接，下载转换后的 MP4 文件。\n\n依赖文件：\n\n1. gif-to-video-converter.ts：导出了 gif-to-video-converter.vue 组件。\n\n2. gif-to-video-converter.vue：GIF to Video Converter 组件的主要代码文件，包含了上传文件、转换文件、下载文件等功能。\n\n3. UploadVideoComponents.vue：GIF to Video Converter 组件中使用的上传文件组件，包含了文件上传、文件预览等功能。\n\n使用技术：\n\n1. Vue.js：GIF to Video Converter 使用了 Vue.js 框架进行开发。\n\n2. @ffmpeg/ffmpeg：GIF to Video Converter 使用了 @ffmpeg/ffmpeg 库进行文件转换。\n\n3. Ant Design Vue：GIF to Video Converter 使用了 Ant Design Vue 组件库进行 UI 设计。\n\n功能特点：\n\n1. 支持将 GIF 文件转换为 MP4 格式。\n\n2. 支持文件上传、文件预览、文件下载等功能。\n\n3. 使用了 @ffmpeg/ffmpeg 库进行文件转换，转换速度快，转换质量高。\n\n4. 使用了 Ant Design Vue 组件库进行 UI 设计，界面美观、易用。\n\n总结：\n\nGIF to Video Converter 是一个将 GIF 文件转换为 MP4 格式的工具，使用了 @ffmpeg/ffmpeg 库进行文件转换，转换速度快，转换质量高。工具使用了 Ant Design Vue 组件库进行 UI 设计，界面美观、易用。用户可以将 GIF 文件上传到工具中，工具会自动将其转换为 MP4 格式，并提供下载链接。工具适用于需要将 GIF 文件转换为 MP4 格式的用户。",
+            "$keywords": [
+                "GIF转MP4",
+                "文件转换",
+                "视频编辑",
+                "@ffmpeg/ffmpeg",
+                "转换速度快",
+                "转换质量高",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "zh-tw": {
+            "$name": "GIF to Video",
+            "$description": "工具名称：GIF to Video Converter\n\n工具描述：GIF to Video Converter 是一個將 GIF 格式的檔案轉換為 MP4 格式的工具。使用者可以將 GIF 檔案上傳到工具中，工具會自動將其轉換為 MP4 格式，並提供下載連結。工具使用了 @ffmpeg/ffmpeg 庫進行轉換。\n\n使用場景：\n\n1. 使用者需要將 GIF 檔案轉換為 MP4 格式，以便在不同設備上播放。\n\n2. 使用者需要將 GIF 檔案轉換為 MP4 格式，以便在視頻編輯軟件中進行編輯。\n\n3. 使用者需要將 GIF 檔案轉換為 MP4 格式，以便在網站上進行展示。\n\n使用方法：\n\n1. 將 GIF 檔案上傳到工具中。\n\n2. 工具會自動將 GIF 檔案轉換為 MP4 格式，並提供下載連結。\n\n3. 使用者可以點擊下載連結，下載轉換後的 MP4 檔案。\n\n依賴檔案：\n\n1. gif-to-video-converter.ts：導出了 gif-to-video-converter.vue 組件。\n\n2. gif-to-video-converter.vue：GIF to Video Converter 組件的主要代碼檔案，包含了上傳檔案、轉換檔案、下載檔案等功能。\n\n3. UploadVideoComponents.vue：GIF to Video Converter 組件中使用的上傳檔案組件，包含了檔案上傳、檔案預覽等功能。\n\n使用技術：\n\n1. Vue.js：GIF to Video Converter 使用了 Vue.js 框架進行開發。\n\n2. @ffmpeg/ffmpeg：GIF to Video Converter 使用了 @ffmpeg/ffmpeg 庫進行檔案轉換。\n\n3. Ant Design Vue：GIF to Video Converter 使用了 Ant Design Vue 組件庫進行 UI 設計。\n\n功能特點：\n\n1. 支持將 GIF 檔案轉換為 MP4 格式。\n\n2. 支持檔案上傳、檔案預覽、檔案下載等功能。\n\n3. 使用了 @ffmpeg/ffmpeg 庫進行檔案轉換，轉換速度快，轉換品質高。\n\n4. 使用了 Ant Design Vue 組件庫進行 UI 設計，界面美觀、易用。\n\n總結：\n\nGIF to Video Converter 是一個將 GIF 檔案轉換為 MP4 格式的工具，使用了 @ffmpeg/ffmpeg 庫進行檔案轉換，轉換速度快，轉換品質高。工具使用了 Ant Design Vue 組件庫進行 UI 設計，界面美觀、易用。使用者可以將 GIF 檔案上傳到工具中，工具會自動將其轉換為 MP4 格式，並提供下載連結。工具適用於需要將 GIF 檔案轉換為 MP4 格式的使用者。",
+            "$keywords": [
+                "GIF轉MP4",
+                "檔案轉換",
+                "視頻編輯",
+                "@ffmpeg/ffmpeg",
+                "轉換速度快",
+                "轉換品質高",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "en": {
+            "$name": "GIF to Video",
+            "$description": "Tool Name: GIF to Video Converter\n\nTool Description: GIF to Video Converter is a tool that converts GIF format files to MP4 format. Users can upload GIF files to the tool, which will automatically convert them to MP4 format and provide a download link. The tool uses the @ffmpeg/ffmpeg library for conversion.\n\nUse Cases:\n\n1. Users need to convert GIF files to MP4 format for playback on different devices.\n\n2. Users need to convert GIF files to MP4 format for editing in video editing software.\n\n3. Users need to convert GIF files to MP4 format for display on websites.\n\nUsage:\n\n1. Upload the GIF file to the tool.\n\n2. The tool will automatically convert the GIF file to MP4 format and provide a download link.\n\n3. Users can click the download link to download the converted MP4 file.\n\nDependencies:\n\n1. gif-to-video-converter.ts: exports the gif-to-video-converter.vue component.\n\n2. gif-to-video-converter.vue: the main code file for the GIF to Video Converter component, which includes functions such as uploading files, converting files, and downloading files.\n\n3. UploadVideoComponents.vue: the file upload component used in the GIF to Video Converter component, which includes functions such as file upload and file preview.\n\nTechnologies Used:\n\n1. Vue.js: GIF to Video Converter was developed using the Vue.js framework.\n\n2. @ffmpeg/ffmpeg: GIF to Video Converter uses the @ffmpeg/ffmpeg library for file conversion.\n\n3. Ant Design Vue: GIF to Video Converter uses the Ant Design Vue component library for UI design.\n\nFeatures:\n\n1. Supports converting GIF files to MP4 format.\n\n2. Supports file upload, file preview, and file download functions.\n\n3. Uses the @ffmpeg/ffmpeg library for file conversion, which is fast and of high quality.\n\n4. Uses the Ant Design Vue component library for UI design, which is beautiful and easy to use.\n\nSummary:\n\nGIF to Video Converter is a tool that converts GIF files to MP4 format, using the @ffmpeg/ffmpeg library for file conversion, which is fast and of high quality. The tool uses the Ant Design Vue component library for UI design, which is beautiful and easy to use. Users can upload GIF files to the tool, which will automatically convert them to MP4 format and provide a download link. The tool is suitable for users who need to convert GIF files to MP4 format.",
+            "$keywords": [
+                "GIF to MP4",
+                "file conversion",
+                "video editing",
+                "@ffmpeg/ffmpeg",
+                "fast conversion speed",
+                "high conversion quality",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "es": {
+            "$name": "Convertidor de GIF a Video",
+            "$description": "Nombre de la herramienta: Convertidor de GIF a Video\n\nDescripción de la herramienta: El Convertidor de GIF a Video es una herramienta que convierte archivos en formato GIF a formato MP4. Los usuarios pueden cargar archivos GIF en la herramienta, que automáticamente los convierte a formato MP4 y proporciona un enlace de descarga. La herramienta utiliza la biblioteca @ffmpeg/ffmpeg para la conversión.\n\nEscenarios de uso:\n\n1. Los usuarios necesitan convertir archivos GIF a formato MP4 para reproducirlos en diferentes dispositivos.\n\n2. Los usuarios necesitan convertir archivos GIF a formato MP4 para editarlos en software de edición de video.\n\n3. Los usuarios necesitan convertir archivos GIF a formato MP4 para mostrarlos en un sitio web.\n\nInstrucciones de uso:\n\n1. Cargue el archivo GIF en la herramienta.\n\n2. La herramienta automáticamente convierte el archivo GIF a formato MP4 y proporciona un enlace de descarga.\n\n3. Los usuarios pueden hacer clic en el enlace de descarga para descargar el archivo MP4 convertido.\n\nArchivos dependientes:\n\n1. gif-to-video-converter.ts: exporta el componente gif-to-video-converter.vue.\n\n2. gif-to-video-converter.vue: archivo de código principal del componente Convertidor de GIF a Video, que incluye funciones como cargar archivos, convertir archivos y descargar archivos.\n\n3. UploadVideoComponents.vue: componente de carga de archivos utilizado en el componente Convertidor de GIF a Video, que incluye funciones como cargar archivos y previsualizar archivos.\n\nTecnologías utilizadas:\n\n1. Vue.js: el Convertidor de GIF a Video utiliza el marco Vue.js para el desarrollo.\n\n2. @ffmpeg/ffmpeg: el Convertidor de GIF a Video utiliza la biblioteca @ffmpeg/ffmpeg para la conversión de archivos.\n\n3. Ant Design Vue: el Convertidor de GIF a Video utiliza la biblioteca de componentes Ant Design Vue para el diseño de la interfaz de usuario.\n\nCaracterísticas de la herramienta:\n\n1. Admite la conversión de archivos GIF a formato MP4.\n\n2. Admite funciones de carga de archivos, previsualización de archivos y descarga de archivos.\n\n3. Utiliza la biblioteca @ffmpeg/ffmpeg para la conversión de archivos, lo que permite una conversión rápida y de alta calidad.\n\n4. Utiliza la biblioteca de componentes Ant Design Vue para el diseño de la interfaz de usuario, lo que resulta en una interfaz atractiva y fácil de usar.\n\nResumen:\n\nEl Convertidor de GIF a Video es una herramienta que convierte archivos en formato GIF a formato MP4. Utiliza la biblioteca @ffmpeg/ffmpeg para la conversión de archivos, lo que permite una conversión rápida y de alta calidad. La herramienta utiliza la biblioteca de componentes Ant Design Vue para el diseño de la interfaz de usuario, lo que resulta en una interfaz atractiva y fácil de usar. Los usuarios pueden cargar archivos GIF en la herramienta, que automáticamente los convierte a formato MP4 y proporciona un enlace de descarga. La herramienta es adecuada para usuarios que necesitan convertir archivos GIF a formato MP4.",
+            "$keywords": [
+                "GIF a MP4",
+                "conversión de archivos",
+                "edición de video",
+                "@ffmpeg/ffmpeg",
+                "conversión rápida",
+                "alta calidad",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "ja": {
+            "$name": "GIF to Video Converter",
+            "$description": "工具名称：GIF to Video Converter\n\n工具描述：GIF to Video Converterは、GIF形式のファイルをMP4形式に変換するツールです。ユーザーはGIFファイルをツールにアップロードし、ツールが自動的にMP4形式に変換し、ダウンロードリンクを提供します。ツールは、@ffmpeg/ffmpegライブラリを使用して変換を行います。\n\n使用シーン：\n\n1. ユーザーが異なるデバイスで再生するために、GIFファイルをMP4形式に変換する必要がある場合。\n\n2. ユーザーがビデオ編集ソフトウェアで編集するために、GIFファイルをMP4形式に変換する必要がある場合。\n\n3. ユーザーがウェブサイトで表示するために、GIFファイルをMP4形式に変換する必要がある場合。\n\n使用方法：\n\n1. GIFファイルをツールにアップロードします。\n\n2. ツールが自動的にGIFファイルをMP4形式に変換し、ダウンロードリンクを提供します。\n\n3. ユーザーはダウンロードリンクをクリックして、変換後のMP4ファイルをダウンロードできます。\n\n依存ファイル：\n\n1. gif-to-video-converter.ts：gif-to-video-converter.vueコンポーネントをエクスポートします。\n\n2. gif-to-video-converter.vue：GIF to Video Converterコンポーネントの主要なコードファイルで、ファイルのアップロード、変換、ダウンロードなどの機能が含まれています。\n\n3. UploadVideoComponents.vue：GIF to Video Converterコンポーネントで使用されるファイルのアップロードコンポーネントで、ファイルのアップロード、ファイルのプレビューなどの機能が含まれています。\n\n使用技術：\n\n1. Vue.js：GIF to Video Converterは、Vue.jsフレームワークを使用して開発されています。\n\n2. @ffmpeg/ffmpeg：GIF to Video Converterは、@ffmpeg/ffmpegライブラリを使用してファイル変換を行います。\n\n3. Ant Design Vue：GIF to Video Converterは、Ant Design Vueコンポーネントライブラリを使用してUIデザインを行います。\n\n機能特徴：\n\n1. GIFファイルをMP4形式に変換することができます。\n\n2. ファイルのアップロード、ファイルのプレビュー、ファイルのダウンロードなどの機能をサポートしています。\n\n3. @ffmpeg/ffmpegライブラリを使用してファイル変換を行うため、変換速度が速く、変換品質が高いです。\n\n4. Ant Design Vueコンポーネントライブラリを使用してUIデザインを行うため、インターフェースが美しく、使いやすいです。\n\n総括：\n\nGIF to Video Converterは、GIFファイルをMP4形式に変換するツールで、@ffmpeg/ffmpegライブラリを使用してファイル変換を行うため、変換速度が速く、変換品質が高いです。ツールは、Ant Design Vueコンポーネントライブラリを使用してUIデザインを行い、インターフェースが美しく、使いやすいです。ユーザーはGIFファイルをツールにアップロードし、ツールが自動的にMP4形式に変換し、ダウンロードリンクを提供します。ツールは、GIFファイルをMP4形式に変換する必要があるユーザーに適しています。",
+            "$keywords": [
+                "GIFをMP4に変換",
+                "ファイル変換",
+                "ビデオ編集",
+                "@ffmpeg/ffmpeg",
+                "変換速度が速い",
+                "変換品質が高い",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "ko": {
+            "$name": "GIF to Video Converter",
+            "$description": "도구 이름 : GIF to Video Converter\n\n도구 설명 : GIF to Video Converter는 GIF 형식 파일을 MP4 형식으로 변환하는 도구입니다. 사용자는 GIF 파일을 도구에 업로드하면 도구가 자동으로 MP4 형식으로 변환하고 다운로드 링크를 제공합니다. 도구는 변환을 위해 @ffmpeg/ffmpeg 라이브러리를 사용합니다.\n\n사용 시나리오 :\n\n1. 사용자는 다른 기기에서 재생하기 위해 GIF 파일을 MP4 형식으로 변환해야 합니다.\n\n2. 사용자는 비디오 편집 소프트웨어에서 편집하기 위해 GIF 파일을 MP4 형식으로 변환해야 합니다.\n\n3. 사용자는 웹 사이트에서 GIF 파일을 MP4 형식으로 변환하여 표시해야 합니다.\n\n사용 방법 :\n\n1. GIF 파일을 도구에 업로드합니다.\n\n2. 도구가 자동으로 GIF 파일을 MP4 형식으로 변환하고 다운로드 링크를 제공합니다.\n\n3. 사용자는 다운로드 링크를 클릭하여 변환된 MP4 파일을 다운로드할 수 있습니다.\n\n의존 파일 :\n\n1. gif-to-video-converter.ts : gif-to-video-converter.vue 구성 요소를 내보냅니다.\n\n2. gif-to-video-converter.vue : GIF to Video Converter 구성 요소의 주요 코드 파일로 파일 업로드, 파일 변환, 파일 다운로드 등의 기능을 포함합니다.\n\n3. UploadVideoComponents.vue : GIF to Video Converter 구성 요소에서 사용하는 파일 업로드 구성 요소로 파일 업로드, 파일 미리보기 등의 기능을 포함합니다.\n\n사용 기술 :\n\n1. Vue.js : GIF to Video Converter는 Vue.js 프레임워크를 사용하여 개발되었습니다.\n\n2. @ffmpeg/ffmpeg : GIF to Video Converter는 파일 변환을 위해 @ffmpeg/ffmpeg 라이브러리를 사용합니다.\n\n3. Ant Design Vue : GIF to Video Converter는 UI 디자인을 위해 Ant Design Vue 구성 요소 라이브러리를 사용합니다.\n\n기능 특징 :\n\n1. GIF 파일을 MP4 형식으로 변환할 수 있습니다.\n\n2. 파일 업로드, 파일 미리보기, 파일 다운로드 등의 기능을 지원합니다.\n\n3. 파일 변환을 위해 @ffmpeg/ffmpeg 라이브러리를 사용하여 변환 속도가 빠르고 변환 품질이 높습니다.\n\n4. Ant Design Vue 구성 요소 라이브러리를 사용하여 UI 디자인이 아름답고 사용하기 쉽습니다.\n\n요약 :\n\nGIF to Video Converter는 GIF 파일을 MP4 형식으로 변환하는 도구로, @ffmpeg/ffmpeg 라이브러리를 사용하여 변환 속도가 빠르고 변환 품질이 높습니다. 도구는 Ant Design Vue 구성 요소 라이브러리를 사용하여 UI 디자인이 아름답고 사용하기 쉽습니다. 사용자는 GIF 파일을 도구에 업로드하면 도구가 자동으로 MP4 형식으로 변환하고 다운로드 링크를 제공합니다. 도구는 GIF 파일을 MP4 형식으로 변환해야 하는 사용자에게 적합합니다.",
+            "$keywords": [
+                "GIF를 MP4로 변환",
+                "파일 변환",
+                "비디오 편집",
+                "@ffmpeg/ffmpeg",
+                "빠른 변환 속도",
+                "높은 변환 품질",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "de": {
+            "$name": "GIF zu Video Konverter",
+            "$description": "Werkzeugname: GIF zu Video Konverter\n\nWerkzeugbeschreibung: Der GIF to Video Converter ist ein Werkzeug, das GIF-Dateien in das MP4-Format konvertiert. Benutzer können GIF-Dateien in das Werkzeug hochladen, das Werkzeug konvertiert sie automatisch in das MP4-Format und stellt einen Download-Link bereit. Das Werkzeug verwendet die Bibliothek @ffmpeg/ffmpeg zur Konvertierung.\n\nAnwendungsbereiche:\n\n1. Benutzer müssen GIF-Dateien in das MP4-Format konvertieren, um sie auf verschiedenen Geräten abzuspielen.\n\n2. Benutzer müssen GIF-Dateien in das MP4-Format konvertieren, um sie in Video-Editing-Software zu bearbeiten.\n\n3. Benutzer müssen GIF-Dateien in das MP4-Format konvertieren, um sie auf einer Website anzuzeigen.\n\nVerwendung:\n\n1. Laden Sie die GIF-Datei in das Werkzeug hoch.\n\n2. Das Werkzeug konvertiert die GIF-Datei automatisch in das MP4-Format und stellt einen Download-Link bereit.\n\n3. Benutzer können auf den Download-Link klicken, um die konvertierte MP4-Datei herunterzuladen.\n\nAbhängige Dateien:\n\n1. gif-to-video-converter.ts: Exportiert das gif-to-video-converter.vue-Komponente.\n\n2. gif-to-video-converter.vue: Die Hauptcode-Datei der GIF to Video Converter-Komponente enthält Funktionen wie das Hochladen, Konvertieren und Herunterladen von Dateien.\n\n3. UploadVideoComponents.vue: Die in der GIF to Video Converter-Komponente verwendete Upload-Dateikomponente enthält Funktionen wie das Hochladen und Vorschauen von Dateien.\n\nVerwendete Technologien:\n\n1. Vue.js: Der GIF to Video Converter wurde mit dem Vue.js-Framework entwickelt.\n\n2. @ffmpeg/ffmpeg: Der GIF to Video Converter verwendet die Bibliothek @ffmpeg/ffmpeg zur Dateikonvertierung.\n\n3. Ant Design Vue: Der GIF to Video Converter verwendet die Ant Design Vue-Komponentenbibliothek für das UI-Design.\n\nFunktionen:\n\n1. Unterstützt die Konvertierung von GIF-Dateien in das MP4-Format.\n\n2. Unterstützt Funktionen wie das Hochladen, Vorschauen und Herunterladen von Dateien.\n\n3. Verwendet die Bibliothek @ffmpeg/ffmpeg zur Dateikonvertierung, was zu schnellen Konvertierungsgeschwindigkeiten und hoher Konvertierungsqualität führt.\n\n4. Verwendet die Ant Design Vue-Komponentenbibliothek für das UI-Design, was zu einem ansprechenden und benutzerfreundlichen Interface führt.\n\nZusammenfassung:\n\nDer GIF to Video Converter ist ein Werkzeug, das GIF-Dateien in das MP4-Format konvertiert. Das Werkzeug verwendet die Bibliothek @ffmpeg/ffmpeg zur Konvertierung, was zu schnellen Konvertierungsgeschwindigkeiten und hoher Konvertierungsqualität führt. Das Werkzeug verwendet die Ant Design Vue-Komponentenbibliothek für das UI-Design, was zu einem ansprechenden und benutzerfreundlichen Interface führt. Benutzer können GIF-Dateien in das Werkzeug hochladen, das Werkzeug konvertiert sie automatisch in das MP4-Format und stellt einen Download-Link bereit. Das Werkzeug eignet sich für Benutzer, die GIF-Dateien in das MP4-Format konvertieren müssen.",
+            "$keywords": [
+                "GIF zu MP4",
+                "Dateikonvertierung",
+                "Video-Editing",
+                "@ffmpeg/ffmpeg",
+                "schnelle Konvertierungsgeschwindigkeiten",
+                "hohe Konvertierungsqualität",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "fr": {
+            "$name": "Convertisseur GIF en vidéo",
+            "$description": "Nom de l'outil : Convertisseur GIF en vidéo\n\nDescription de l'outil : Le Convertisseur GIF en vidéo est un outil qui permet de convertir des fichiers au format GIF en fichiers au format MP4. Les utilisateurs peuvent télécharger des fichiers GIF dans l'outil, qui les convertira automatiquement en MP4 et fournira un lien de téléchargement. L'outil utilise la bibliothèque @ffmpeg/ffmpeg pour la conversion.\n\nScénarios d'utilisation :\n\n1. Les utilisateurs ont besoin de convertir des fichiers GIF en fichiers MP4 pour les lire sur différents appareils.\n\n2. Les utilisateurs ont besoin de convertir des fichiers GIF en fichiers MP4 pour les éditer dans des logiciels de montage vidéo.\n\n3. Les utilisateurs ont besoin de convertir des fichiers GIF en fichiers MP4 pour les afficher sur des sites web.\n\nMode d'emploi :\n\n1. Téléchargez le fichier GIF dans l'outil.\n\n2. L'outil convertira automatiquement le fichier GIF en MP4 et fournira un lien de téléchargement.\n\n3. Les utilisateurs peuvent cliquer sur le lien de téléchargement pour télécharger le fichier MP4 converti.\n\nFichiers requis :\n\n1. gif-to-video-converter.ts : exporte le composant gif-to-video-converter.vue.\n\n2. gif-to-video-converter.vue : fichier de code principal du composant Convertisseur GIF en vidéo, contenant des fonctionnalités telles que le téléchargement de fichiers, la conversion de fichiers et le téléchargement de fichiers.\n\n3. UploadVideoComponents.vue : composant de téléchargement de fichiers utilisé dans le composant Convertisseur GIF en vidéo, contenant des fonctionnalités telles que le téléchargement de fichiers et l'aperçu de fichiers.\n\nTechnologies utilisées :\n\n1. Vue.js : le Convertisseur GIF en vidéo a été développé avec le framework Vue.js.\n\n2. @ffmpeg/ffmpeg : le Convertisseur GIF en vidéo utilise la bibliothèque @ffmpeg/ffmpeg pour la conversion de fichiers.\n\n3. Ant Design Vue : le Convertisseur GIF en vidéo utilise la bibliothèque de composants Ant Design Vue pour la conception de l'interface utilisateur.\n\nCaractéristiques fonctionnelles :\n\n1. Prise en charge de la conversion de fichiers GIF en fichiers MP4.\n\n2. Prise en charge du téléchargement de fichiers, de l'aperçu de fichiers et du téléchargement de fichiers.\n\n3. Utilisation de la bibliothèque @ffmpeg/ffmpeg pour la conversion de fichiers, avec une vitesse de conversion rapide et une qualité de conversion élevée.\n\n4. Utilisation de la bibliothèque de composants Ant Design Vue pour la conception de l'interface utilisateur, avec une interface esthétique et facile à utiliser.\n\nRésumé :\n\nLe Convertisseur GIF en vidéo est un outil qui permet de convertir des fichiers GIF en fichiers MP4, en utilisant la bibliothèque @ffmpeg/ffmpeg pour la conversion de fichiers, avec une vitesse de conversion rapide et une qualité de conversion élevée. L'outil utilise la bibliothèque de composants Ant Design Vue pour la conception de l'interface utilisateur, avec une interface esthétique et facile à utiliser. Les utilisateurs peuvent télécharger des fichiers GIF dans l'outil, qui les convertira automatiquement en MP4 et fournira un lien de téléchargement. L'outil convient aux utilisateurs qui ont besoin de convertir des fichiers GIF en fichiers MP4.",
+            "$keywords": [
+                "GIF en MP4",
+                "conversion de fichiers",
+                "montage vidéo",
+                "@ffmpeg/ffmpeg",
+                "vitesse de conversion rapide",
+                "qualité de conversion élevée",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "it": {
+            "$name": "Convertitore GIF in Video",
+            "$description": "Nome strumento: Convertitore GIF in Video\n\nDescrizione strumento: Convertitore GIF in Video è uno strumento che converte i file in formato GIF in formato MP4. Gli utenti possono caricare il file GIF nello strumento, che lo convertirà automaticamente in formato MP4 e fornirà un link per il download. Lo strumento utilizza la libreria @ffmpeg/ffmpeg per la conversione.\n\nScenari d'uso:\n\n1. Gli utenti devono convertire i file GIF in formato MP4 per riprodurli su diversi dispositivi.\n\n2. Gli utenti devono convertire i file GIF in formato MP4 per modificarli in software di editing video.\n\n3. Gli utenti devono convertire i file GIF in formato MP4 per mostrarli su un sito web.\n\nModalità d'uso:\n\n1. Caricare il file GIF nello strumento.\n\n2. Lo strumento convertirà automaticamente il file GIF in formato MP4 e fornirà un link per il download.\n\n3. Gli utenti possono cliccare sul link per scaricare il file MP4 convertito.\n\nFile dipendenti:\n\n1. gif-to-video-converter.ts: esporta il componente gif-to-video-converter.vue.\n\n2. gif-to-video-converter.vue: file principale del componente Convertitore GIF in Video, che include funzionalità di caricamento, conversione e download dei file.\n\n3. UploadVideoComponents.vue: componente di caricamento file utilizzato nel componente Convertitore GIF in Video, che include funzionalità di caricamento e anteprima dei file.\n\nTecnologie utilizzate:\n\n1. Vue.js: Convertitore GIF in Video è stato sviluppato utilizzando il framework Vue.js.\n\n2. @ffmpeg/ffmpeg: Convertitore GIF in Video utilizza la libreria @ffmpeg/ffmpeg per la conversione dei file.\n\n3. Ant Design Vue: Convertitore GIF in Video utilizza la libreria di componenti Ant Design Vue per il design dell'interfaccia utente.\n\nCaratteristiche:\n\n1. Supporta la conversione dei file GIF in formato MP4.\n\n2. Supporta funzionalità di caricamento, anteprima e download dei file.\n\n3. Utilizza la libreria @ffmpeg/ffmpeg per la conversione dei file, che garantisce una conversione veloce e di alta qualità.\n\n4. Utilizza la libreria di componenti Ant Design Vue per il design dell'interfaccia utente, che rende l'interfaccia esteticamente piacevole e facile da usare.\n\nSintesi:\n\nConvertitore GIF in Video è uno strumento che converte i file in formato GIF in formato MP4, utilizzando la libreria @ffmpeg/ffmpeg per garantire una conversione veloce e di alta qualità. Lo strumento utilizza la libreria di componenti Ant Design Vue per il design dell'interfaccia utente, che rende l'interfaccia esteticamente piacevole e facile da usare. Gli utenti possono caricare il file GIF nello strumento, che lo convertirà automaticamente in formato MP4 e fornirà un link per il download. Lo strumento è adatto per gli utenti che devono convertire i file GIF in formato MP4.",
+            "$keywords": [
+                "GIF in MP4",
+                "conversione file",
+                "editing video",
+                "@ffmpeg/ffmpeg",
+                "conversione veloce",
+                "alta qualità",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "ru": {
+            "$name": "Конвертер GIF в видео",
+            "$description": "Название инструмента: Конвертер GIF в видео\n\nОписание инструмента: Конвертер GIF в видео - это инструмент, который преобразует файлы в формате GIF в формат MP4. Пользователи могут загрузить файл GIF в инструмент, который автоматически преобразует его в формат MP4 и предоставляет ссылку для загрузки. Инструмент использует библиотеку @ffmpeg/ffmpeg для преобразования.\n\nСферы применения:\n\n1. Пользователи, которым нужно преобразовать файл GIF в формат MP4, чтобы воспроизводить его на разных устройствах.\n\n2. Пользователи, которым нужно преобразовать файл GIF в формат MP4, чтобы редактировать его в программном обеспечении для редактирования видео.\n\n3. Пользователи, которым нужно преобразовать файл GIF в формат MP4, чтобы показать его на веб-сайте.\n\nИспользование:\n\n1. Загрузите файл GIF в инструмент.\n\n2. Инструмент автоматически преобразует файл GIF в формат MP4 и предоставляет ссылку для загрузки.\n\n3. Пользователи могут нажать на ссылку для загрузки и загрузить преобразованный файл MP4.\n\nЗависимости:\n\n1. gif-to-video-converter.ts: экспортирует компонент gif-to-video-converter.vue.\n\n2. gif-to-video-converter.vue: основной файл кода компонента GIF to Video Converter, который включает функции загрузки, преобразования и загрузки файлов.\n\n3. UploadVideoComponents.vue: компонент загрузки файлов, используемый в компоненте GIF to Video Converter, который включает функции загрузки файлов и предварительного просмотра.\n\nТехнологии:\n\n1. Vue.js: GIF to Video Converter разработан с использованием фреймворка Vue.js.\n\n2. @ffmpeg/ffmpeg: GIF to Video Converter использует библиотеку @ffmpeg/ffmpeg для преобразования файлов.\n\n3. Ant Design Vue: GIF to Video Converter использует библиотеку компонентов Ant Design Vue для дизайна пользовательского интерфейса.\n\nОсобенности:\n\n1. Поддержка преобразования файлов GIF в формат MP4.\n\n2. Поддержка функций загрузки файлов, предварительного просмотра файлов, загрузки файлов и т. д.\n\n3. Использование библиотеки @ffmpeg/ffmpeg для преобразования файлов обеспечивает быструю скорость преобразования и высокое качество преобразования.\n\n4. Использование библиотеки компонентов Ant Design Vue для дизайна пользовательского интерфейса обеспечивает красивый и удобный интерфейс.\n\nВыводы:\n\nКонвертер GIF в видео - это инструмент, который преобразует файлы в формате GIF в формат MP4, используя библиотеку @ffmpeg/ffmpeg для преобразования файлов с быстрой скоростью и высоким качеством. Инструмент использует библиотеку компонентов Ant Design Vue для дизайна пользовательского интерфейса, обеспечивая красивый и удобный интерфейс. Пользователи могут загрузить файл GIF в инструмент, который автоматически преобразует его в формат MP4 и предоставляет ссылку для загрузки. Инструмент подходит для пользователей, которым нужно преобразовать файл GIF в формат MP4.",
+            "$keywords": [
+                "GIF в MP4",
+                "преобразование файлов",
+                "редактирование видео",
+                "@ffmpeg/ffmpeg",
+                "быстрая скорость преобразования",
+                "высокое качество преобразования",
+                "MP4",
+                "GIF"
+            ]
+        },
+        "pt": {
+            "$name": "Conversor de GIF para Vídeo",
+            "$description": "Nome da ferramenta: Conversor de GIF para Vídeo\n\nDescrição da ferramenta: O Conversor de GIF para Vídeo é uma ferramenta que converte arquivos no formato GIF para o formato MP4. O usuário pode fazer o upload do arquivo GIF na ferramenta, que automaticamente o converte para o formato MP4 e fornece um link para download. A ferramenta utiliza a biblioteca @ffmpeg/ffmpeg para realizar a conversão.\n\nCenários de uso:\n\n1. O usuário precisa converter um arquivo GIF para o formato MP4 para reproduzi-lo em diferentes dispositivos.\n\n2. O usuário precisa converter um arquivo GIF para o formato MP4 para editá-lo em um software de edição de vídeo.\n\n3. O usuário precisa converter um arquivo GIF para o formato MP4 para exibi-lo em um site.\n\nInstruções de uso:\n\n1. Faça o upload do arquivo GIF na ferramenta.\n\n2. A ferramenta converte automaticamente o arquivo GIF para o formato MP4 e fornece um link para download.\n\n3. O usuário pode clicar no link de download para baixar o arquivo MP4 convertido.\n\nArquivos de dependência:\n\n1. gif-to-video-converter.ts: exporta o componente gif-to-video-converter.vue.\n\n2. gif-to-video-converter.vue: arquivo principal do componente Conversor de GIF para Vídeo, que inclui funções de upload, conversão e download de arquivos.\n\n3. UploadVideoComponents.vue: componente de upload de arquivos utilizado no Conversor de GIF para Vídeo, que inclui funções de upload e visualização de arquivos.\n\nTecnologias utilizadas:\n\n1. Vue.js: o Conversor de GIF para Vídeo foi desenvolvido utilizando o framework Vue.js.\n\n2. @ffmpeg/ffmpeg: a ferramenta utiliza a biblioteca @ffmpeg/ffmpeg para realizar a conversão de arquivos.\n\n3. Ant Design Vue: a ferramenta utiliza a biblioteca de componentes Ant Design Vue para o design da interface do usuário.\n\nRecursos:\n\n1. Suporte à conversão de arquivos GIF para o formato MP4.\n\n2. Funcionalidades de upload, visualização e download de arquivos.\n\n3. Utilização da biblioteca @ffmpeg/ffmpeg para conversão de arquivos, com alta velocidade e qualidade de conversão.\n\n4. Utilização da biblioteca de componentes Ant Design Vue para um design de interface atraente e fácil de usar.\n\nConclusão:\n\nO Conversor de GIF para Vídeo é uma ferramenta que converte arquivos GIF para o formato MP4, utilizando a biblioteca @ffmpeg/ffmpeg para conversão com alta velocidade e qualidade. A ferramenta utiliza a biblioteca de componentes Ant Design Vue para um design de interface atraente e fácil de usar. O usuário pode fazer o upload do arquivo GIF na ferramenta, que automaticamente o converte para o formato MP4 e fornece um link para download. A ferramenta é útil para usuários que precisam converter arquivos GIF para o formato MP4.",
+            "$keywords": [
+                "GIF para MP4",
+                "conversão de arquivos",
+                "edição de vídeo",
+                "@ffmpeg/ffmpeg",
+                "alta velocidade de conversão",
+                "alta qualidade de conversão",
+                "MP4",
+                "GIF"
+            ]
+        }
+    },
+    {
+        "id": "video-converter",
+        "zh-cn": {
+            "$name": "视频格式转换",
+            "$description": "工具说明文档：视频转换器\n\n概述：\n视频转换器是一个视频格式转换工具，可以将多种视频格式转换为 MP4、AVI、MOV、MPG、MPEG、WEBM、TS、3G2、3GP、ASF、F4V、FLV、M2TS、M2V、M4V、MKV、WMV、MTS、MXF、OGV、RM、RMVB、VOB 等格式。该工具基于 Vue.js 和 @ffmpeg/ffmpeg 库开发，支持上传视频文件并进行格式转换，转换后的视频可以直接下载。\n\n功能描述：\n1. 支持多种视频格式转换。\n2. 支持上传视频文件并进行格式转换。\n3. 支持下载转换后的视频文件。\n\n使用场景：\n1. 在需要将视频格式转换为特定格式的场景下使用。\n2. 在需要上传视频文件并进行格式转换的场景下使用。\n3. 在需要下载转换后的视频文件的场景下使用。\n\n使用方法：\n1. 打开视频转换器工具页面。\n2. 点击上传按钮，选择需要转换的视频文件。\n3. 选择需要转换的视频格式。\n4. 点击下载按钮，下载转换后的视频文件。\n\n依赖文件说明：\n1. video-converter.ts：视频转换器工具的入口文件，导出视频转换器组件。\n2. video-converter.vue：视频转换器组件的源码文件，包含视频格式转换的主要逻辑。\n3. UploadVideoComponents.vue：视频上传组件的源码文件，用于上传视频文件并进行格式转换。",
+            "$keywords": [
+                "视频格式转换",
+                "多种视频格式",
+                "上传视频文件",
+                "下载视频文件",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "zh-tw": {
+            "$name": "視頻轉換器",
+            "$description": "工具說明文件：視頻轉換器\n\n概述：\n視頻轉換器是一個視頻格式轉換工具，可以將多種視頻格式轉換為 MP4、AVI、MOV、MPG、MPEG、WEBM、TS、3G2、3GP、ASF、F4V、FLV、M2TS、M2V、M4V、MKV、WMV、MTS、MXF、OGV、RM、RMVB、VOB 等格式。該工具基於 Vue.js 和 @ffmpeg/ffmpeg 庫開發，支持上傳視頻文件並進行格式轉換，轉換後的視頻可以直接下載。\n\n功能描述：\n1. 支持多種視頻格式轉換。\n2. 支持上傳視頻文件並進行格式轉換。\n3. 支持下載轉換後的視頻文件。\n\n使用場景：\n1. 在需要將視頻格式轉換為特定格式的場景下使用。\n2. 在需要上傳視頻文件並進行格式轉換的場景下使用。\n3. 在需要下載轉換後的視頻文件的場景下使用。\n\n使用方法：\n1. 打開視頻轉換器工具頁面。\n2. 點擊上傳按鈕，選擇需要轉換的視頻文件。\n3. 選擇需要轉換的視頻格式。\n4. 點擊下載按鈕，下載轉換後的視頻文件。\n\n依賴文件說明：\n1. video-converter.ts：視頻轉換器工具的入口文件，導出視頻轉換器組件。\n2. video-converter.vue：視頻轉換器組件的源碼文件，包含視頻格式轉換的主要邏輯。\n3. UploadVideoComponents.vue：視頻上傳組件的源碼文件，用於上傳視頻文件並進行格式轉換。",
+            "$keywords": [
+                "視頻格式轉換",
+                "多種視頻格式",
+                "上傳視頻文件",
+                "下載視頻文件",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "en": {
+            "$name": "Video Converter",
+            "$description": "Tool Description: Video Converter\n\nOverview:\nVideo Converter is a video format conversion tool that can convert multiple video formats to MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB, and other formats. This tool is developed based on Vue.js and @ffmpeg/ffmpeg library, supports uploading video files and converting formats, and the converted videos can be downloaded directly.\n\nFeatures:\n1. Support multiple video format conversions.\n2. Support uploading video files and converting formats.\n3. Support downloading converted video files.\n\nUse Cases:\n1. Used in scenarios where video formats need to be converted to specific formats.\n2. Used in scenarios where video files need to be uploaded and converted formats.\n3. Used in scenarios where converted video files need to be downloaded.\n\nUsage:\n1. Open the Video Converter tool page.\n2. Click the upload button and select the video file to be converted.\n3. Select the video format to be converted.\n4. Click the download button to download the converted video file.\n\nDependency File Description:\n1. video-converter.ts: The entry file of the Video Converter tool, exports the Video Converter component.\n2. video-converter.vue: The source code file of the Video Converter component, which contains the main logic of video format conversion.\n3. UploadVideoComponents.vue: The source code file of the video upload component, used to upload video files and convert formats.",
+            "$keywords": [
+                "Video format conversion",
+                "Multiple video formats",
+                "Upload video files",
+                "Download video files",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "es": {
+            "$name": "Convertidor de video",
+            "$description": "Documento de descripción de la herramienta: Convertidor de video\n\nResumen:\nConvertidor de video es una herramienta de conversión de formatos de video que puede convertir varios formatos de video a MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB, y otros formatos. Esta herramienta se desarrolló con Vue.js y la biblioteca @ffmpeg/ffmpeg, admite la carga de archivos de video y la conversión de formatos, y los videos convertidos se pueden descargar directamente.\n\nDescripción de la función:\n1. Admite la conversión de varios formatos de video.\n2. Admite la carga de archivos de video y la conversión de formatos.\n3. Admite la descarga de archivos de video convertidos.\n\nEscenarios de uso:\n1. Se utiliza en escenarios en los que se necesita convertir el formato de video a un formato específico.\n2. Se utiliza en escenarios en los que se necesita cargar archivos de video y convertir formatos.\n3. Se utiliza en escenarios en los que se necesita descargar archivos de video convertidos.\n\nMétodo de uso:\n1. Abra la página de herramientas del Convertidor de video.\n2. Haga clic en el botón de carga y seleccione el archivo de video que desea convertir.\n3. Seleccione el formato de video que desea convertir.\n4. Haga clic en el botón de descarga para descargar el archivo de video convertido.\n\nDescripción de archivos dependientes:\n1. video-converter.ts: archivo de entrada de la herramienta Convertidor de video, exporta el componente Convertidor de video.\n2. video-converter.vue: archivo de código fuente del componente Convertidor de video, que contiene la lógica principal de conversión de formato de video.\n3. UploadVideoComponents.vue: archivo de código fuente del componente de carga de video, utilizado para cargar archivos de video y convertir formatos.",
+            "$keywords": [
+                "Conversión de formato de video",
+                "Varios formatos de video",
+                "Carga de archivos de video",
+                "Descarga de archivos de video",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "ja": {
+            "$name": "ビデオコンバーター",
+            "$description": "ツール説明書：ビデオコンバーター\n\n概要：\nビデオコンバーターは、複数のビデオ形式を MP4、AVI、MOV、MPG、MPEG、WEBM、TS、3G2、3GP、ASF、F4V、FLV、M2TS、M2V、M4V、MKV、WMV、MTS、MXF、OGV、RM、RMVB、VOB などの形式に変換するビデオフォーマット変換ツールです。このツールは、Vue.js と @ffmpeg/ffmpeg ライブラリをベースに開発されており、ビデオファイルをアップロードしてフォーマット変換を行い、変換後のビデオを直接ダウンロードすることができます。\n\n機能説明：\n1. 複数のビデオ形式を変換できます。\n2. ビデオファイルをアップロードしてフォーマット変換を行うことができます。\n3. 変換後のビデオファイルをダウンロードすることができます。\n\n使用シーン：\n1. 特定の形式にビデオ形式を変換する必要がある場合に使用します。\n2. ビデオファイルをアップロードしてフォーマット変換を行う必要がある場合に使用します。\n3. 変換後のビデオファイルをダウンロードする必要がある場合に使用します。\n\n使用方法：\n1. ビデオコンバーターツールページを開きます。\n2. アップロードボタンをクリックして、変換するビデオファイルを選択します。\n3. 変換するビデオ形式を選択します。\n4. ダウンロードボタンをクリックして、変換後のビデオファイルをダウンロードします。\n\n依存ファイルの説明：\n1. video-converter.ts：ビデオコンバーターツールのエントリーファイルで、ビデオコンバーターコンポーネントをエクスポートします。\n2. video-converter.vue：ビデオコンバーターコンポーネントのソースコードファイルで、ビデオフォーマット変換の主要なロジックを含みます。\n3. UploadVideoComponents.vue：ビデオアップロードコンポーネントのソースコードファイルで、ビデオファイルをアップロードしてフォーマット変換を行います。",
+            "$keywords": [
+                "ビデオフォーマット変換",
+                "複数のビデオ形式",
+                "ビデオファイルをアップロード",
+                "ビデオファイルをダウンロード",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "ko": {
+            "$name": "비디오 컨버터",
+            "$description": "도구 설명서: 비디오 컨버터\n\n개요:\n비디오 컨버터는 다양한 비디오 형식을 MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB 등의 형식으로 변환할 수 있는 비디오 형식 변환 도구입니다. 이 도구는 Vue.js와 @ffmpeg/ffmpeg 라이브러리를 기반으로 개발되었으며, 비디오 파일을 업로드하고 형식을 변환할 수 있으며, 변환된 비디오는 직접 다운로드할 수 있습니다.\n\n기능 설명:\n1. 다양한 비디오 형식 변환 지원.\n2. 비디오 파일 업로드 및 형식 변환 지원.\n3. 변환된 비디오 파일 다운로드 지원.\n\n사용 시나리오:\n1. 특정 형식으로 비디오 형식을 변환해야 하는 경우 사용.\n2. 비디오 파일을 업로드하고 형식을 변환해야 하는 경우 사용.\n3. 변환된 비디오 파일을 다운로드해야 하는 경우 사용.\n\n사용 방법:\n1. 비디오 컨버터 도구 페이지를 엽니다.\n2. 업로드 버튼을 클릭하여 변환해야 하는 비디오 파일을 선택합니다.\n3. 변환해야 하는 비디오 형식을 선택합니다.\n4. 다운로드 버튼을 클릭하여 변환된 비디오 파일을 다운로드합니다.\n\n의존성 파일 설명:\n1. video-converter.ts: 비디오 컨버터 도구의 진입 파일로 Video Converter 구성 요소를 내보냅니다.\n2. video-converter.vue: 비디오 컨버터 구성 요소의 소스 코드 파일로, 비디오 형식 변환의 주요 논리를 포함합니다.\n3. UploadVideoComponents.vue: 비디오 업로드 구성 요소의 소스 코드 파일로, 비디오 파일을 업로드하고 형식을 변환하는 데 사용됩니다.",
+            "$keywords": [
+                "비디오 형식 변환",
+                "다양한 비디오 형식",
+                "비디오 파일 업로드",
+                "비디오 파일 다운로드",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "de": {
+            "$name": "Video Converter",
+            "$description": "Tool Description: Video Converter\n\nOverview:\nVideo Converter ist ein Videoformat-Konvertierungstool, das mehrere Videoformate in Formate wie MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB, usw. konvertieren kann. Das Tool wurde mit Vue.js und der @ffmpeg/ffmpeg-Bibliothek entwickelt und unterstützt das Hochladen von Videodateien und die Konvertierung von Formaten. Die konvertierten Videos können direkt heruntergeladen werden.\n\nFunktionsbeschreibung:\n1. Unterstützung mehrerer Videoformat-Konvertierungen.\n2. Unterstützung des Hochladens von Videodateien und der Konvertierung von Formaten.\n3. Unterstützung des Herunterladens von konvertierten Videodateien.\n\nAnwendungsbereiche:\n1. Verwendung in Szenarien, in denen Videoformate in bestimmte Formate konvertiert werden müssen.\n2. Verwendung in Szenarien, in denen Videodateien hochgeladen und konvertiert werden müssen.\n3. Verwendung in Szenarien, in denen konvertierte Videodateien heruntergeladen werden müssen.\n\nVerwendung:\n1. Öffnen Sie die Video Converter-Toolseite.\n2. Klicken Sie auf die Schaltfläche zum Hochladen und wählen Sie die zu konvertierende Videodatei aus.\n3. Wählen Sie das zu konvertierende Videoformat aus.\n4. Klicken Sie auf die Schaltfläche zum Herunterladen und laden Sie die konvertierte Videodatei herunter.\n\nAbhängigkeitsdateien:\n1. video-converter.ts: Eingangsdatei des Video Converter-Tools, exportiert das Video Converter-Komponente.\n2. video-converter.vue: Quellcode-Datei der Video Converter-Komponente, enthält die Hauptlogik zur Konvertierung von Videoformaten.\n3. UploadVideoComponents.vue: Quellcode-Datei der Video-Upload-Komponente, die zum Hochladen von Videodateien und zur Konvertierung von Formaten verwendet wird.",
+            "$keywords": [
+                "Videoformat-Konvertierung",
+                "mehrere Videoformate",
+                "Hochladen von Videodateien",
+                "Herunterladen von Videodateien",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "fr": {
+            "$name": "Convertisseur vidéo",
+            "$description": "Document de description de l'outil : Convertisseur vidéo\n\nAperçu :\nLe Convertisseur vidéo est un outil de conversion de formats vidéo qui permet de convertir plusieurs formats vidéo en MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB, et autres formats. Cet outil est développé avec Vue.js et la bibliothèque @ffmpeg/ffmpeg, et permet de télécharger directement les vidéos converties après leur conversion.\n\nDescription des fonctionnalités :\n1. Prise en charge de la conversion de plusieurs formats vidéo.\n2. Prise en charge du téléchargement des fichiers vidéo convertis.\n3. Prise en charge du téléchargement des fichiers vidéo convertis.\n\nScénarios d'utilisation :\n1. Utilisé dans les scénarios où il est nécessaire de convertir des formats vidéo en formats spécifiques.\n2. Utilisé dans les scénarios où il est nécessaire de télécharger des fichiers vidéo et de les convertir.\n3. Utilisé dans les scénarios où il est nécessaire de télécharger des fichiers vidéo convertis.\n\nMode d'utilisation :\n1. Ouvrir la page de l'outil Convertisseur vidéo.\n2. Cliquer sur le bouton de téléchargement et sélectionner le fichier vidéo à convertir.\n3. Sélectionner le format vidéo à convertir.\n4. Cliquer sur le bouton de téléchargement pour télécharger le fichier vidéo converti.\n\nDescription des fichiers de dépendance :\n1. video-converter.ts : Fichier d'entrée de l'outil Convertisseur vidéo, exportant le composant Convertisseur vidéo.\n2. video-converter.vue : Fichier source du composant Convertisseur vidéo, contenant la logique principale de conversion de formats vidéo.\n3. UploadVideoComponents.vue : Fichier source du composant de téléchargement vidéo, utilisé pour télécharger des fichiers vidéo et les convertir.",
+            "$keywords": [
+                "conversion de formats vidéo",
+                "plusieurs formats vidéo",
+                "téléchargement de fichiers vidéo",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "it": {
+            "$name": "Convertitore video",
+            "$description": "Documento di descrizione dello strumento: Convertitore video\n\nPanoramica:\nIl Convertitore video è uno strumento per la conversione di formati video che consente di convertire molti formati video in formati come MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB e altri. Questo strumento è sviluppato con Vue.js e la libreria @ffmpeg/ffmpeg, supporta il caricamento di file video e la conversione di formati, e i video convertiti possono essere scaricati direttamente.\n\nDescrizione delle funzionalità:\n1. Supporta la conversione di molti formati video.\n2. Supporta il caricamento di file video e la conversione di formati.\n3. Supporta il download dei file video convertiti.\n\nScenari di utilizzo:\n1. Utilizzare quando è necessario convertire il formato video in un formato specifico.\n2. Utilizzare quando è necessario caricare file video e convertirli in un formato specifico.\n3. Utilizzare quando è necessario scaricare i file video convertiti.\n\nModalità d'uso:\n1. Aprire la pagina dello strumento Convertitore video.\n2. Fare clic sul pulsante di caricamento e selezionare il file video da convertire.\n3. Selezionare il formato video desiderato.\n4. Fare clic sul pulsante di download per scaricare il file video convertito.\n\nDescrizione dei file dipendenti:\n1. video-converter.ts: file di ingresso dello strumento Convertitore video, esporta il componente Convertitore video.\n2. video-converter.vue: file di codice sorgente del componente Convertitore video, che contiene la logica principale per la conversione dei formati video.\n3. UploadVideoComponents.vue: file di codice sorgente del componente di caricamento video, utilizzato per caricare i file video e convertirli in un formato specifico.",
+            "$keywords": [
+                "Conversione di formati video",
+                "Molti formati video",
+                "Caricamento di file video",
+                "Download di file video",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "ru": {
+            "$name": "Конвертер видео",
+            "$description": "Документация инструмента: Конвертер видео\n\nОбзор:\nКонвертер видео - это инструмент для конвертации форматов видео, который может конвертировать множество форматов видео в форматы MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB, VOB и другие. Этот инструмент разработан на основе Vue.js и библиотеки @ffmpeg/ffmpeg, поддерживает загрузку видеофайлов и их конвертацию в выбранный формат, а затем можно скачать конвертированный файл.\n\nОписание функций:\n1. Поддержка конвертации множества форматов видео.\n2. Поддержка загрузки видеофайлов и их конвертации.\n3. Поддержка загрузки конвертированных видеофайлов.\n\nСферы применения:\n1. Используется в ситуациях, когда необходимо конвертировать формат видео в определенный формат.\n2. Используется в ситуациях, когда необходимо загрузить видеофайл и конвертировать его в выбранный формат.\n3. Используется в ситуациях, когда необходимо загрузить конвертированный видеофайл.\n\nИспользование:\n1. Откройте страницу инструмента Конвертер видео.\n2. Нажмите кнопку загрузки и выберите видеофайл для конвертации.\n3. Выберите формат видео, в который нужно конвертировать.\n4. Нажмите кнопку загрузки, чтобы загрузить конвертированный видеофайл.\n\nОписание зависимостей:\n1. video-converter.ts: входной файл инструмента Конвертер видео, экспортирующий компонент Конвертер видео.\n2. video-converter.vue: исходный код компонента Конвертер видео, содержащий основную логику конвертации форматов видео.\n3. UploadVideoComponents.vue: исходный код компонента загрузки видеофайлов, используемый для загрузки видеофайлов и их конвертации.",
+            "$keywords": [
+                "конвертация форматов видео",
+                "множество форматов видео",
+                "загрузка видеофайлов",
+                "загрузка конвертированных видеофайлов",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        },
+        "pt": {
+            "$name": "Conversor de Vídeo",
+            "$description": "Documento de descrição da ferramenta: Conversor de Vídeo\n\nVisão geral:\nO Conversor de Vídeo é uma ferramenta de conversão de formato de vídeo que pode converter vários formatos de vídeo para MP4, AVI, MOV, MPG, MPEG, WEBM, TS, 3G2, 3GP, ASF, F4V, FLV, M2TS, M2V, M4V, MKV, WMV, MTS, MXF, OGV, RM, RMVB, VOB e outros formatos. Esta ferramenta é desenvolvida com base no Vue.js e na biblioteca @ffmpeg/ffmpeg, suporta o upload de arquivos de vídeo e a conversão de formato, e o vídeo convertido pode ser baixado diretamente.\n\nDescrição das funções:\n1. Suporta a conversão de vários formatos de vídeo.\n2. Suporta o upload de arquivos de vídeo e a conversão de formato.\n3. Suporta o download de arquivos de vídeo convertidos.\n\nCenários de uso:\n1. Usado em cenários que exigem a conversão de formato de vídeo para um formato específico.\n2. Usado em cenários que exigem o upload de arquivos de vídeo e a conversão de formato.\n3. Usado em cenários que exigem o download de arquivos de vídeo convertidos.\n\nMétodo de uso:\n1. Abra a página da ferramenta Conversor de Vídeo.\n2. Clique no botão de upload e selecione o arquivo de vídeo que deseja converter.\n3. Selecione o formato de vídeo que deseja converter.\n4. Clique no botão de download para baixar o arquivo de vídeo convertido.\n\nDescrição dos arquivos dependentes:\n1. video-converter.ts: arquivo de entrada da ferramenta Conversor de Vídeo, exportando o componente Conversor de Vídeo.\n2. video-converter.vue: arquivo de código-fonte do componente Conversor de Vídeo, contendo a lógica principal de conversão de formato de vídeo.\n3. UploadVideoComponents.vue: arquivo de código-fonte do componente de upload de vídeo, usado para fazer upload de arquivos de vídeo e converter o formato.",
+            "$keywords": [
+                "conversão de formato de vídeo",
+                "vários formatos de vídeo",
+                "upload de arquivos de vídeo",
+                "download de arquivos de vídeo",
+                "MP4",
+                "AVI",
+                "MOV",
+                "MPG",
+                "MPEG",
+                "WEBM",
+                "TS",
+                "3G2",
+                "3GP",
+                "ASF",
+                "F4V",
+                "FLV",
+                "M2TS",
+                "M2V",
+                "M4V",
+                "MKV",
+                "WMV",
+                "MTS",
+                "MXF",
+                "OGV",
+                "RM",
+                "RMVB"
+            ]
+        }
+    },
+
+    {
+        "id": "change-video-speed",
+        "zh-cn": {
+            "$name": "视频速度调节",
+            "$description": "更改视频速度工具是一个用于调整视频播放速度的工具。它可以将视频的播放速度加快或减慢，以适应用户的需求。\n\n功能描述：\n\n1. 用户可以将视频文件拖拽到工具中，或者通过工具选择文件上传。\n\n2. 工具会自动检测视频文件的格式，并显示视频的基本信息，如分辨率、帧率等。\n\n3. 用户可以通过滑块或手动输入的方式调整视频的播放速度。\n\n4. 用户可以选择保存调整后的视频文件，或者直接在工具中播放调整后的视频。\n\n使用场景：\n\n1. 视频制作：在视频制作过程中，制作者可能需要调整视频的播放速度以达到特定的效果。使用改变视频速度工具，制作者可以轻松地调整视频的播放速度，以满足自己的需求。\n\n2. 视频学习：在学习视频课程时，有些用户可能需要将视频的播放速度加快以节省时间，或者减慢以更好地理解内容。使用此工具，用户可以自由地调整视频的播放速度，以适应自己的学习节奏。\n\n3. 视频分享：在分享视频时，有些用户可能需要将视频的播放速度调整为适合观看的速度。使用改变视频速度工具，用户可以轻松地调整视频的播放速度，以满足观众的需求。",
+            "$keywords": [
+                "视频播放速度调整",
+                "滑块调节",
+                "手动输入调节",
+                "速度",
+                "MP4",
+                "加速",
+                "减速"
+            ]
+        },
+        "zh-tw": {
+            "$name": "改變視頻速度",
+            "$description": "改變視頻速度工具是一個用於調整視頻播放速度的工具。它可以將視頻的播放速度加快或減慢，以適應用戶的需求。\n\n功能描述：\n\n1. 用戶可以將視頻文件拖拽到工具中，或者通過工具選擇文件上傳。\n\n2. 工具會自動檢測視頻文件的格式，並顯示視頻的基本信息，如分辨率、幀率等。\n\n3. 用戶可以通過滑塊或手動輸入的方式調整視頻的播放速度。\n\n4. 用戶可以選擇保存調整後的視頻文件，或者直接在工具中播放調整後的視頻。\n\n使用場景：\n\n1. 視頻製作：在視頻製作過程中，製作者可能需要調整視頻的播放速度以達到特定的效果。使用改變視頻速度工具，製作者可以輕鬆地調整視頻的播放速度，以滿足自己的需求。\n\n2. 視頻學習：在學習視頻課程時，有些用戶可能需要將視頻的播放速度加快以節省時間，或者減慢以更好地理解內容。使用此工具，用戶可以自由地調整視頻的播放速度，以適應自己的學習節奏。\n\n3. 視頻分享：在分享視頻時，有些用戶可能需要將視頻的播放速度調整為適合觀看的速度。使用改變視頻速度工具，用戶可以輕鬆地調整視頻的播放速度，以滿足觀眾的需求。",
+            "$keywords": [
+                "視頻播放速度調整",
+                "滑塊調節",
+                "手動輸入調節",
+                "速度",
+                "MP4",
+                "加速",
+                "減速"
+            ]
+        },
+        "en": {
+            "$name": "Video Speed Adjustment",
+            "$description": "Change Video Speed is a tool for adjusting the playback speed of videos. It can speed up or slow down the video playback to meet the user's needs.\n\nFeatures:\n\n1. Users can drag and drop video files into the tool or upload them through the tool.\n\n2. The tool automatically detects the format of the video file and displays basic information such as resolution and frame rate.\n\n3. Users can adjust the video playback speed through a slider or manual input.\n\n4. Users can choose to save the adjusted video file or play the adjusted video directly in the tool.\n\nUse cases:\n\n1. Video production: In the video production process, creators may need to adjust the video playback speed to achieve a specific effect. With the Change Video Speed tool, creators can easily adjust the video playback speed to meet their needs.\n\n2. Video learning: When learning video courses, some users may need to speed up the video playback to save time or slow it down to better understand the content. With this tool, users can freely adjust the video playback speed to adapt to their learning rhythm.\n\n3. Video sharing: When sharing videos, some users may need to adjust the video playback speed to a suitable speed for viewing. With the Change Video Speed tool, users can easily adjust the video playback speed to meet the audience's needs.",
+            "$keywords": [
+                "Video playback speed adjustment",
+                "Slider adjustment",
+                "Manual input adjustment",
+                "Speed",
+                "MP4",
+                "Speed up",
+                "Slow down"
+            ]
+        },
+        "es": {
+            "$name": "Cambiar velocidad de video",
+            "$description": "La herramienta Cambiar velocidad de video es una herramienta para ajustar la velocidad de reproducción de un video. Puede acelerar o disminuir la velocidad de reproducción del video para adaptarse a las necesidades del usuario.\n\nDescripción de funciones:\n\n1. El usuario puede arrastrar el archivo de video a la herramienta o cargarlo mediante la herramienta.\n\n2. La herramienta detectará automáticamente el formato del archivo de video y mostrará información básica del video, como la resolución y la velocidad de fotogramas.\n\n3. El usuario puede ajustar la velocidad de reproducción del video mediante un control deslizante o ingresando manualmente un valor.\n\n4. El usuario puede elegir guardar el archivo de video ajustado o reproducirlo directamente en la herramienta.\n\nEscenarios de uso:\n\n1. Producción de video: durante el proceso de producción de video, el productor puede necesitar ajustar la velocidad de reproducción del video para lograr un efecto específico. Con la herramienta Cambiar velocidad de video, el productor puede ajustar fácilmente la velocidad de reproducción del video para satisfacer sus necesidades.\n\n2. Aprendizaje de video: al aprender cursos de video, algunos usuarios pueden necesitar acelerar la velocidad de reproducción del video para ahorrar tiempo o disminuirla para comprender mejor el contenido. Con esta herramienta, los usuarios pueden ajustar libremente la velocidad de reproducción del video para adaptarse a su ritmo de aprendizaje.\n\n3. Compartir video: al compartir videos, algunos usuarios pueden necesitar ajustar la velocidad de reproducción del video para adaptarse a la velocidad de visualización del espectador. Con la herramienta Cambiar velocidad de video, los usuarios pueden ajustar fácilmente la velocidad de reproducción del video para satisfacer las necesidades del espectador.",
+            "$keywords": [
+                "ajuste de velocidad de reproducción de video",
+                "control deslizante",
+                "ingreso manual",
+                "velocidad",
+                "MP4",
+                "acelerar",
+                "disminuir"
+            ]
+        },
+        "ja": {
+            "$name": "ビデオスピード変更",
+            "$description": "ビデオスピード変更ツールは、ビデオ再生速度を調整するためのツールです。ビデオの再生速度を速くしたり遅くしたりして、ユーザーのニーズに合わせることができます。\n\n機能説明：\n\n1. ユーザーはビデオファイルをツールにドラッグ＆ドロップするか、ツールを使用してファイルをアップロードできます。\n\n2. ツールは自動的にビデオファイルの形式を検出し、解像度、フレームレートなどのビデオの基本情報を表示します。\n\n3. ユーザーはスライダーまたは手動入力の方法でビデオの再生速度を調整できます。\n\n4. ユーザーは調整後のビデオファイルを保存するか、ツール内で直接再生することができます。\n\n使用シーン：\n\n1. ビデオ制作：ビデオ制作の過程で、制作者は特定の効果を得るためにビデオの再生速度を調整する必要がある場合があります。ビデオスピード変更ツールを使用すると、制作者は自分のニーズに合わせて簡単にビデオの再生速度を調整できます。\n\n2. ビデオ学習：ビデオコースを学習する際、一部のユーザーは時間を節約するためにビデオの再生速度を速くしたり、内容をより理解するために遅くしたりする必要がある場合があります。このツールを使用すると、ユーザーは自分の学習ペースに合わせてビデオの再生速度を自由に調整できます。\n\n3. ビデオ共有：ビデオを共有する際、一部のユーザーは視聴に適した速度にビデオの再生速度を調整する必要がある場合があります。ビデオスピード変更ツールを使用すると、ユーザーは簡単にビデオの再生速度を調整して、視聴者のニーズに合わせることができます。",
+            "$keywords": [
+                "ビデオ再生速度調整",
+                "スライダー調整",
+                "手動入力調整",
+                "速度",
+                "MP4",
+                "加速",
+                "減速"
+            ]
+        },
+        "ko": {
+            "$name": "비디오 속도 변경",
+            "$description": "비디오 속도 변경 도구는 비디오 재생 속도를 조정하는 도구입니다. 사용자의 요구에 맞게 비디오 재생 속도를 빠르게하거나 느리게 할 수 있습니다.\n\n기능 설명:\n\n1. 사용자는 비디오 파일을 도구에 끌어서 놓거나 도구를 통해 파일을 업로드 할 수 있습니다.\n\n2. 도구는 비디오 파일의 형식을 자동으로 감지하고 해상도, 프레임 속도 등과 같은 비디오의 기본 정보를 표시합니다.\n\n3. 사용자는 슬라이더 또는 수동 입력 방식으로 비디오 재생 속도를 조정할 수 있습니다.\n\n4. 사용자는 조정된 비디오 파일을 저장하거나 도구에서 직접 재생할 수 있습니다.\n\n사용 시나리오:\n\n1. 비디오 제작: 비디오 제작 과정에서 제작자는 특정 효과를 얻기 위해 비디오 재생 속도를 조정해야 할 수 있습니다. 비디오 속도 변경 도구를 사용하면 제작자는 자신의 요구에 맞게 비디오 재생 속도를 쉽게 조정할 수 있습니다.\n\n2. 비디오 학습: 비디오 강의를 학습할 때 일부 사용자는 시간을 절약하기 위해 비디오 재생 속도를 빠르게하거나 내용을 더 잘 이해하기 위해 느리게 할 수 있습니다. 이 도구를 사용하면 사용자는 자신의 학습 리듬에 맞게 비디오 재생 속도를 자유롭게 조정할 수 있습니다.\n\n3. 비디오 공유: 비디오를 공유할 때 일부 사용자는 시청에 적합한 속도로 비디오 재생 속도를 조정해야 할 수 있습니다. 비디오 속도 변경 도구를 사용하면 사용자는 쉽게 비디오 재생 속도를 조정하여 관객의 요구에 부응할 수 있습니다.",
+            "$keywords": [
+                "비디오 재생 속도 조정",
+                "슬라이더 조정",
+                "수동 입력 조정",
+                "속도",
+                "MP4",
+                "가속",
+                "감속"
+            ]
+        },
+        "de": {
+            "$name": "Ändern der Video-Geschwindigkeit",
+            "$description": "Das Tool 'Ändern der Video-Geschwindigkeit' ist ein Tool zum Anpassen der Wiedergabegeschwindigkeit von Videos. Es kann die Wiedergabegeschwindigkeit von Videos erhöhen oder verringern, um den Bedürfnissen der Benutzer gerecht zu werden.\n\nFunktionsbeschreibung:\n\n1. Benutzer können Videodateien in das Tool ziehen oder Dateien über das Tool hochladen.\n\n2. Das Tool erkennt automatisch das Format der Videodatei und zeigt grundlegende Informationen wie Auflösung, Bildrate usw. an.\n\n3. Benutzer können die Wiedergabegeschwindigkeit des Videos über einen Schieberegler oder manuelle Eingabe anpassen.\n\n4. Benutzer können die angepasste Videodatei speichern oder direkt im Tool abspielen.\n\nAnwendungsbereiche:\n\n1. Videoproduktion: Bei der Videoproduktion müssen Produzenten möglicherweise die Wiedergabegeschwindigkeit von Videos anpassen, um bestimmte Effekte zu erzielen. Mit dem Tool 'Ändern der Video-Geschwindigkeit' können Produzenten die Wiedergabegeschwindigkeit von Videos einfach anpassen, um ihren Anforderungen gerecht zu werden.\n\n2. Videolernen: Beim Lernen von Videokursen müssen einige Benutzer möglicherweise die Wiedergabegeschwindigkeit von Videos erhöhen, um Zeit zu sparen, oder verringern, um den Inhalt besser zu verstehen. Mit diesem Tool können Benutzer die Wiedergabegeschwindigkeit von Videos frei anpassen, um ihrem Lernrhythmus gerecht zu werden.\n\n3. Video-Sharing: Beim Teilen von Videos müssen einige Benutzer möglicherweise die Wiedergabegeschwindigkeit von Videos anpassen, um sie für das Publikum geeignet zu machen. Mit dem Tool 'Ändern der Video-Geschwindigkeit' können Benutzer die Wiedergabegeschwindigkeit von Videos einfach anpassen, um den Anforderungen des Publikums gerecht zu werden.",
+            "$keywords": [
+                "Anpassung der Wiedergabegeschwindigkeit von Videos",
+                "Schieberegleranpassung",
+                "manuelle Eingabe",
+                "Geschwindigkeit",
+                "MP4",
+                "Beschleunigung",
+                "Verlangsamung"
+            ]
+        },
+        "fr": {
+            "$name": "Changer la vitesse de la vidéo",
+            "$description": "Changer la vitesse de la vidéo est un outil permettant d'ajuster la vitesse de lecture d'une vidéo. Il permet d'accélérer ou de ralentir la lecture de la vidéo pour répondre aux besoins de l'utilisateur.\n\nDescription des fonctionnalités :\n\n1. L'utilisateur peut faire glisser le fichier vidéo dans l'outil ou télécharger le fichier en utilisant l'outil.\n\n2. L'outil détecte automatiquement le format du fichier vidéo et affiche les informations de base de la vidéo, telles que la résolution, le taux de trame, etc.\n\n3. L'utilisateur peut ajuster la vitesse de lecture de la vidéo en utilisant un curseur ou en entrant manuellement la valeur.\n\n4. L'utilisateur peut choisir de sauvegarder la vidéo modifiée ou de la lire directement dans l'outil.\n\nScénarios d'utilisation :\n\n1. Production vidéo : lors de la production vidéo, le créateur peut avoir besoin d'ajuster la vitesse de lecture de la vidéo pour atteindre un effet spécifique. En utilisant l'outil Changer la vitesse de la vidéo, le créateur peut facilement ajuster la vitesse de lecture de la vidéo pour répondre à ses besoins.\n\n2. Apprentissage vidéo : lors de l'apprentissage de cours vidéo, certains utilisateurs peuvent avoir besoin d'accélérer la vitesse de lecture de la vidéo pour gagner du temps ou de la ralentir pour mieux comprendre le contenu. En utilisant cet outil, l'utilisateur peut ajuster librement la vitesse de lecture de la vidéo pour répondre à son rythme d'apprentissage.\n\n3. Partage vidéo : lors du partage de vidéos, certains utilisateurs peuvent avoir besoin d'ajuster la vitesse de lecture de la vidéo pour répondre aux besoins des spectateurs. En utilisant l'outil Changer la vitesse de la vidéo, l'utilisateur peut facilement ajuster la vitesse de lecture de la vidéo pour répondre aux besoins des spectateurs.",
+            "$keywords": [
+                "ajustement de la vitesse de lecture vidéo",
+                "curseur de réglage",
+                "entrée manuelle de réglage",
+                "vitesse",
+                "MP4",
+                "accélération",
+                "ralentissement"
+            ]
+        },
+        "it": {
+            "$name": "Cambia Velocità Video",
+            "$description": "Cambia Velocità Video è uno strumento per regolare la velocità di riproduzione dei video. Può accelerare o rallentare la riproduzione del video per soddisfare le esigenze dell'utente.\n\nDescrizione delle funzionalità:\n\n1. L'utente può trascinare il file video nello strumento o caricarlo tramite lo strumento stesso.\n\n2. Lo strumento rileva automaticamente il formato del file video e mostra le informazioni di base come la risoluzione e il frame rate.\n\n3. L'utente può regolare la velocità di riproduzione del video tramite uno slider o inserendo manualmente il valore.\n\n4. L'utente può scegliere di salvare il file video modificato o riprodurlo direttamente nello strumento.\n\nScenari d'uso:\n\n1. Produzione video: durante la produzione di un video, il produttore potrebbe dover regolare la velocità di riproduzione del video per ottenere un effetto specifico. Con Cambia Velocità Video, il produttore può facilmente regolare la velocità di riproduzione del video per soddisfare le proprie esigenze.\n\n2. Apprendimento video: durante la visione di un corso video, alcuni utenti potrebbero voler accelerare la riproduzione del video per risparmiare tempo o rallentare per comprendere meglio il contenuto. Con questo strumento, l'utente può regolare liberamente la velocità di riproduzione del video per adattarsi al proprio ritmo di apprendimento.\n\n3. Condivisione video: durante la condivisione di un video, alcuni utenti potrebbero voler regolare la velocità di riproduzione del video per adattarla alla velocità di visione dell'utente. Con Cambia Velocità Video, l'utente può facilmente regolare la velocità di riproduzione del video per soddisfare le esigenze degli spettatori.",
+            "$keywords": [
+                "regolazione velocità riproduzione video",
+                "slider",
+                "inserimento manuale",
+                "velocità",
+                "MP4",
+                "accelerazione",
+                "rallentamento"
+            ]
+        },
+        "ru": {
+            "$name": "Изменение скорости видео",
+            "$description": "Инструмент Изменение скорости видео предназначен для настройки скорости воспроизведения видео. Он может ускорять или замедлять скорость воспроизведения видео в соответствии с потребностями пользователя.\n\nОписание функций:\n\n1. Пользователь может перетащить видеофайл в инструмент или загрузить его через инструмент.\n\n2. Инструмент автоматически определяет формат видеофайла и отображает основную информацию о видео, такую как разрешение, кадровую частоту и т. д.\n\n3. Пользователь может настроить скорость воспроизведения видео с помощью ползунка или вручную вводя значение.\n\n4. Пользователь может выбрать сохранить измененный видеофайл или воспроизвести его непосредственно в инструменте.\n\nСферы применения:\n\n1. Создание видео: при создании видео автор может потребоваться настроить скорость воспроизведения видео для достижения определенного эффекта. Используя инструмент Изменение скорости видео, автор может легко настроить скорость воспроизведения видео в соответствии со своими потребностями.\n\n2. Обучение на видео: при изучении видеокурсов некоторым пользователям может потребоваться ускорить скорость воспроизведения видео, чтобы сэкономить время, или замедлить скорость, чтобы лучше понять содержание. Используя этот инструмент, пользователь может свободно настраивать скорость воспроизведения видео в соответствии со своим темпом обучения.\n\n3. Обмен видео: при обмене видео некоторым пользователям может потребоваться настроить скорость воспроизведения видео для соответствия скорости просмотра. Используя инструмент Изменение скорости видео, пользователь может легко настроить скорость воспроизведения видео в соответствии с потребностями зрителей.",
+            "$keywords": [
+                "настройка скорости воспроизведения видео",
+                "ползунок настройки",
+                "ручной ввод настройки",
+                "скорость",
+                "MP4",
+                "ускорение",
+                "замедление"
+            ]
+        },
+        "pt": {
+            "$name": "Alterar Velocidade do Vídeo",
+            "$description": "A ferramenta Alterar Velocidade do Vídeo é uma ferramenta para ajustar a velocidade de reprodução de vídeos. Ela pode acelerar ou desacelerar a reprodução do vídeo para atender às necessidades do usuário.\n\nDescrição das funcionalidades:\n\n1. O usuário pode arrastar o arquivo de vídeo para a ferramenta ou fazer o upload do arquivo através da ferramenta.\n\n2. A ferramenta detecta automaticamente o formato do arquivo de vídeo e exibe informações básicas do vídeo, como resolução, taxa de quadros, etc.\n\n3. O usuário pode ajustar a velocidade de reprodução do vídeo através de um controle deslizante ou digitando manualmente.\n\n4. O usuário pode escolher salvar o arquivo de vídeo ajustado ou reproduzir o vídeo ajustado diretamente na ferramenta.\n\nCenários de uso:\n\n1. Produção de vídeo: Durante o processo de produção de vídeo, o produtor pode precisar ajustar a velocidade de reprodução do vídeo para alcançar um efeito específico. Usando a ferramenta Alterar Velocidade do Vídeo, o produtor pode facilmente ajustar a velocidade de reprodução do vídeo para atender às suas necessidades.\n\n2. Aprendizado de vídeo: Ao aprender em cursos de vídeo, alguns usuários podem precisar acelerar a velocidade de reprodução do vídeo para economizar tempo ou diminuir a velocidade para entender melhor o conteúdo. Usando esta ferramenta, o usuário pode ajustar livremente a velocidade de reprodução do vídeo para atender ao seu ritmo de aprendizado.\n\n3. Compartilhamento de vídeo: Ao compartilhar vídeos, alguns usuários podem precisar ajustar a velocidade de reprodução do vídeo para uma velocidade adequada para visualização. Usando a ferramenta Alterar Velocidade do Vídeo, o usuário pode facilmente ajustar a velocidade de reprodução do vídeo para atender às necessidades do público.",
+            "$keywords": [
+                "ajuste de velocidade de reprodução de vídeo",
+                "controle deslizante",
+                "entrada manual",
+                "velocidade",
+                "MP4",
+                "acelerar",
+                "desacelerar"
+            ]
+        }
+    },
+    {
+        "id": "video-reverse",
+        "zh-cn": {
+            "$name": "视频倒放",
+            "$description": "工具说明文档：视频倒放\n\n视频倒放是一个在线视频倒放工具，可以将用户上传的视频文件进行倒放处理，并提供下载链接。该工具基于 Vue.js 和 FFmpeg 库开发，支持多种视频格式。\n\n功能描述：\n\n1. 上传视频文件：用户可以通过拖拽或选择文件的方式上传视频文件。\n\n2. 倒放视频：上传成功后，工具会自动将视频文件进行反转处理。\n\n3. 下载反转后的视频：处理完成后，用户可以通过点击 Download 按钮下载反转后的视频文件。\n\n使用场景：\n\n1. 视频编辑：在视频编辑过程中，有时需要将视频进行反转处理，以达到特定的效果。使视频倒放工具可以快速反转视频文件，提高编辑效率。\n\n2. 视频制作：在视频制作过程中，有时需要将视频进行反转处理，以达到特定的效果。使用视频倒放工具可以快速反转视频文件，提高制作效率。\n\n3. 视频分享：在分享视频时，有时需要将视频进行反转处理，以达到特定的效果。使视频倒反工具可以快速反转视频文件，并提供下载链接，方便分享。\n\n使用方法：\n\n1. 打开视频倒反工具页面。\n\n2. 将需要反转的视频文件拖拽或选择文件的方式上传。\n\n3. 等待处理完成后，点击 Download 按钮下载反转后的视频文件。\n\n注意事项：\n\n1. 上传的视频文件大小不能超过 100MB。\n\n2. 上传的视频文件格式必须为 avi、mov、mp4、mpeg、webm、flv、wmv 或 gif。\n\n3. 处理完成后，下载的视频文件名为 output.mp4。",
+            "$keywords": [
+                "视频倒放",
+                "在线工具",
+                "视频编辑",
+                "视频制作",
+                "FFmpeg",
+                "多种视频格式",
+                "倒放",
+                "视频倒放",
+                "MP4"
+            ]
+        },
+        "zh-tw": {
+            "$name": "视频倒放",
+            "$description": "工具說明文件：視頻反轉\n\n視頻反轉是一個在線視頻反轉工具，可以將用戶上傳的視頻文件進行反轉處理，並提供下載鏈接。該工具基於 Vue.js 和 FFmpeg 庫開發，支持多種視頻格式。\n\n功能描述：\n\n1. 上傳視頻文件：用戶可以通過拖拽或選擇文件的方式上傳視頻文件。\n\n2. 反轉視頻：上傳成功後，工具會自動將視頻文件進行反轉處理。\n\n3. 下載反轉後的視頻：處理完成後，用戶可以通過點擊 Download 按鈕下載反轉後的視頻文件。\n\n使用場景：\n\n1. 視頻編輯：在視頻編輯過程中，有時需要將視頻進行反轉處理，以達到特定的效果。使用視頻反轉工具可以快速反轉視頻文件，提高編輯效率。\n\n2. 視頻製作：在視頻製作過程中，有時需要將視頻進行反轉處理，以達到特定的效果。使用視頻反轉工具可以快速反轉視頻文件，提高製作效率。\n\n3. 視頻分享：在分享視頻時，有時需要將視頻進行反轉處理，以達到特定的效果。使用視頻反轉工具可以快速反轉視頻文件，並提供下載鏈接，方便分享。\n\n使用方法：\n\n1. 打開視頻反轉工具頁面。\n\n2. 將需要反轉的視頻文件拖拽或選擇文件的方式上傳。\n\n3. 等待處理完成後，點擊 Download 按鈕下載反轉後的視頻文件。\n\n注意事項：\n\n1. 上傳的視頻文件大小不能超過 100MB。\n\n2. 上傳的視頻文件格式必須為 avi、mov、mp4、mpeg、webm、flv、wmv 或 gif。\n\n3. 處理完成後，下載的視頻文件名為 output.mp4。",
+            "$keywords": [
+                "視頻反轉",
+                "在線工具",
+                "視頻編輯",
+                "視頻製作",
+                "FFmpeg",
+                "多種視頻格式",
+                "倒放",
+                "視頻倒放",
+                "MP4"
+            ]
+        },
+        "en": {
+            "$name": "Video Reverse",
+            "$description": "Tool Description: Video Reverse\n\nVideo Reverse is an online video reversal tool that can reverse the uploaded video files and provide download links. This tool is developed based on Vue.js and FFmpeg library, supporting multiple video formats.\n\nFunction Description:\n\n1. Upload video files: Users can upload video files by dragging and dropping or selecting files.\n\n2. Reverse video: After successful upload, the tool will automatically reverse the video file.\n\n3. Download the reversed video: After processing is completed, users can download the reversed video file by clicking the Download button.\n\nUsage Scenarios:\n\n1. Video editing: In the video editing process, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and improve editing efficiency.\n\n2. Video production: In the video production process, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and improve production efficiency.\n\n3. Video sharing: When sharing videos, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and provide a download link for easy sharing.\n\nUsage:\n\n1. Open the Video Reverse tool page.\n\n2. Upload the video file that needs to be reversed by dragging and dropping or selecting the file.\n\n3. After processing is completed, click the Download button to download the reversed video file.\n\nNotes:\n\n1. The uploaded video file size cannot exceed 100MB.\n\n2. The uploaded video file format must be avi, mov, mp4, mpeg, webm, flv, wmv, or gif.\n\n3. After processing is completed, the downloaded video file name is output.mp4.",
+            "$keywords": [
+                "Video Reverse",
+                "online tool",
+                "video editing",
+                "video production",
+                "FFmpeg",
+                "multiple video formats",
+                "reverse",
+                "video reversal",
+                "MP4"
+            ]
+        },
+        "es": {
+            "$name": "Video Reverse",
+            "$description": "Documento de descripción de la herramienta: Video Reverse\n\nVideo Reverse es una herramienta en línea para invertir videos. Puede invertir archivos de video cargados por el usuario y proporcionar un enlace de descarga. Esta herramienta se desarrolló con Vue.js y la biblioteca FFmpeg, y admite varios formatos de video.\n\nDescripción de la función:\n\n1. Cargar archivos de video: los usuarios pueden cargar archivos de video arrastrándolos o seleccionándolos.\n\n2. Invertir el video: después de cargar el archivo, la herramienta invertirá automáticamente el archivo de video.\n\n3. Descargar el video invertido: después de completar el proceso, los usuarios pueden descargar el archivo de video invertido haciendo clic en el botón Descargar.\n\nEscenarios de uso:\n\n1. Edición de video: a veces, durante el proceso de edición de video, es necesario invertir el video para lograr un efecto específico. El uso de la herramienta Video Reverse puede invertir rápidamente el archivo de video y mejorar la eficiencia de edición.\n\n2. Producción de video: a veces, durante el proceso de producción de video, es necesario invertir el video para lograr un efecto específico. El uso de la herramienta Video Reverse puede invertir rápidamente el archivo de video y mejorar la eficiencia de producción.\n\n3. Compartir video: a veces, al compartir videos, es necesario invertir el video para lograr un efecto específico. El uso de la herramienta Video Reverse puede invertir rápidamente el archivo de video y proporcionar un enlace de descarga para facilitar el intercambio.\n\nInstrucciones de uso:\n\n1. Abra la página de herramientas Video Reverse.\n\n2. Cargue el archivo de video que necesita invertir arrastrándolo o seleccionándolo.\n\n3. Espere a que se complete el proceso y haga clic en el botón Descargar para descargar el archivo de video invertido.\n\nPrecauciones:\n\n1. El tamaño del archivo de video cargado no puede superar los 100 MB.\n\n2. El formato del archivo de video cargado debe ser avi, mov, mp4, mpeg, webm, flv, wmv o gif.\n\n3. Después de completar el proceso, el nombre del archivo de video descargado será output.mp4.",
+            "$keywords": [
+                "video reverse",
+                "herramienta en línea",
+                "edición de video",
+                "producción de video",
+                "FFmpeg",
+                "varios formatos de video",
+                "invertir",
+                "video invertido",
+                "MP4"
+            ]
+        },
+        "ja": {
+            "$name": "ビデオリバース",
+            "$description": "ツール説明書：ビデオリバース\n\nビデオリバースは、オンラインビデオリバースツールであり、ユーザーがアップロードしたビデオファイルをリバース処理し、ダウンロードリンクを提供することができます。このツールは、Vue.jsとFFmpegライブラリに基づいて開発され、多数のビデオフォーマットをサポートしています。\n\n機能説明：\n\n1. ビデオファイルのアップロード：ユーザーは、ファイルをドラッグアンドドロップするか、ファイルを選択することでビデオファイルをアップロードできます。\n\n2. ビデオのリバース：アップロードが成功した後、ツールは自動的にビデオファイルをリバース処理します。\n\n3. リバース後のビデオのダウンロード：処理が完了した後、ユーザーはDownloadボタンをクリックしてリバース後のビデオファイルをダウンロードできます。\n\n使用シーン：\n\n1. ビデオ編集：ビデオ編集中に、特定の効果を得るためにビデオをリバース処理する必要がある場合があります。ビデオリバースツールを使用すると、ビデオファイルを素早くリバース処理して、編集効率を向上させることができます。\n\n2. ビデオ制作：ビデオ制作中に、特定の効果を得るためにビデオをリバース処理する必要がある場合があります。ビデオリバースツールを使用すると、ビデオファイルを素早くリバース処理して、制作効率を向上させることができます。\n\n3. ビデオ共有：ビデオを共有する際に、特定の効果を得るためにビデオをリバース処理する必要がある場合があります。ビデオリバースツールを使用すると、ビデオファイルを素早くリバース処理し、ダウンロードリンクを提供して共有を容易にすることができます。\n\n使用方法：\n\n1. ビデオリバースツールページを開きます。\n\n2. リバースする必要のあるビデオファイルをドラッグアンドドロップするか、ファイルを選択します。\n\n3. 処理が完了したら、Downloadボタンをクリックしてリバース後のビデオファイルをダウンロードします。\n\n注意事項：\n\n1. アップロードされたビデオファイルのサイズは100MBを超えてはいけません。\n\n2. アップロードされたビデオファイルの形式は、avi、mov、mp4、mpeg、webm、flv、wmv、またはgifである必要があります。\n\n3. 処理が完了した後、ダウンロードされるビデオファイルの名前はoutput.mp4です。",
+            "$keywords": [
+                "ビデオリバース",
+                "オンラインツール",
+                "ビデオ編集",
+                "ビデオ制作",
+                "FFmpeg",
+                "多数のビデオフォーマット",
+                "リバース",
+                "ビデオリバース",
+                "MP4"
+            ]
+        },
+        "ko": {
+            "$name": "비디오 역방향",
+            "$description": "도구 설명서: 비디오 역방향\n\n비디오 역방향은 온라인 비디오 역방향 도구로, 사용자가 업로드한 비디오 파일을 역방향으로 처리하고 다운로드 링크를 제공합니다. 이 도구는 Vue.js와 FFmpeg 라이브러리를 기반으로 개발되었으며 다양한 비디오 형식을 지원합니다.\n\n기능 설명:\n\n1. 비디오 파일 업로드: 사용자는 파일을 드래그 앤 드롭하거나 선택하여 비디오 파일을 업로드할 수 있습니다.\n\n2. 비디오 역방향: 업로드가 성공하면 도구가 자동으로 비디오 파일을 역방향으로 처리합니다.\n\n3. 역방향 비디오 다운로드: 처리가 완료되면 사용자는 Download 버튼을 클릭하여 역방향으로 처리된 비디오 파일을 다운로드할 수 있습니다.\n\n사용 시나리오:\n\n1. 비디오 편집: 비디오 편집 과정에서 때로는 비디오를 역방향으로 처리하여 특정 효과를 얻어야 할 때가 있습니다. 비디오 역방향 도구를 사용하면 비디오 파일을 빠르게 역방향으로 처리하여 편집 효율을 높일 수 있습니다.\n\n2. 비디오 제작: 비디오 제작 과정에서 때로는 비디오를 역방향으로 처리하여 특정 효과를 얻어야 할 때가 있습니다. 비디오 역방향 도구를 사용하면 비디오 파일을 빠르게 역방향으로 처리하여 제작 효율을 높일 수 있습니다.\n\n3. 비디오 공유: 비디오를 공유할 때 때로는 비디오를 역방향으로 처리하여 특정 효과를 얻어야 할 때가 있습니다. 비디오 역방향 도구를 사용하면 비디오 파일을 빠르게 역방향으로 처리하고 다운로드 링크를 제공하여 공유를 용이하게 할 수 있습니다.\n\n사용 방법:\n\n1. 비디오 역방향 도구 페이지를 엽니다.\n\n2. 역방향으로 처리해야 할 비디오 파일을 드래그 앤 드롭하거나 선택합니다.\n\n3. 처리가 완료되면 Download 버튼을 클릭하여 역방향으로 처리된 비디오 파일을 다운로드합니다.\n\n주의 사항:\n\n1. 업로드하는 비디오 파일의 크기는 100MB를 초과할 수 없습니다.\n\n2. 업로드하는 비디오 파일 형식은 avi, mov, mp4, mpeg, webm, flv, wmv 또는 gif여야 합니다.\n\n3. 처리가 완료된 후 다운로드하는 비디오 파일의 이름은 output.mp4입니다.",
+            "$keywords": [
+                "비디오 역방향",
+                "온라인 도구",
+                "비디오 편집",
+                "비디오 제작",
+                "FFmpeg",
+                "다양한 비디오 형식",
+                "역방향",
+                "비디오 역방향",
+                "MP4"
+            ]
+        },
+        "de": {
+            "$name": "Video Reverse",
+            "$description": "Tool Description: Video Reverse\n\nVideo Reverse is an online video reversal tool that can reverse user-uploaded video files and provide download links. The tool is developed based on Vue.js and FFmpeg library, and supports multiple video formats.\n\nFunction Description:\n\n1. Upload video files: Users can upload video files by dragging and dropping or selecting files.\n\n2. Reverse video: After successful upload, the tool will automatically reverse the video file.\n\n3. Download the reversed video: After processing is complete, users can download the reversed video file by clicking the Download button.\n\nUsage scenarios:\n\n1. Video editing: In the video editing process, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and improve editing efficiency.\n\n2. Video production: In the video production process, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and improve production efficiency.\n\n3. Video sharing: When sharing videos, sometimes it is necessary to reverse the video to achieve a specific effect. Using the Video Reverse tool can quickly reverse the video file and provide a download link for easy sharing.\n\nInstructions:\n\n1. Open the Video Reverse tool page.\n\n2. Upload the video file that needs to be reversed by dragging and dropping or selecting the file.\n\n3. After waiting for processing to complete, click the Download button to download the reversed video file.\n\nNotes:\n\n1. The uploaded video file size cannot exceed 100MB.\n\n2. The uploaded video file format must be avi, mov, mp4, mpeg, webm, flv, wmv, or gif.\n\n3. After processing is complete, the downloaded video file name is output.mp4.",
+            "$keywords": [
+                "Video Reverse",
+                "Online Tool",
+                "Video Editing",
+                "Video Production",
+                "FFmpeg",
+                "Multiple Video Formats",
+                "Reverse",
+                "Video Reversal",
+                "MP4"
+            ]
+        },
+        "fr": {
+            "$name": "Video Reverse",
+            "$description": "Document de description de l'outil : Video Reverse\n\nVideo Reverse est un outil de retournement de vidéos en ligne qui permet de retourner les fichiers vidéo téléchargés par l'utilisateur et fournit un lien de téléchargement. Cet outil est développé avec Vue.js et la bibliothèque FFmpeg, et prend en charge plusieurs formats vidéo.\n\nDescription des fonctionnalités :\n\n1. Téléchargement de fichiers vidéo : Les utilisateurs peuvent télécharger des fichiers vidéo en les faisant glisser ou en les sélectionnant.\n\n2. Retournement de vidéos : Une fois le téléchargement réussi, l'outil retourne automatiquement le fichier vidéo.\n\n3. Téléchargement de la vidéo retournée : Une fois le traitement terminé, les utilisateurs peuvent télécharger le fichier vidéo retourné en cliquant sur le bouton Télécharger.\n\nScénarios d'utilisation :\n\n1. Montage vidéo : Dans le processus de montage vidéo, il est parfois nécessaire de retourner la vidéo pour obtenir un effet spécifique. L'utilisation de l'outil Video Reverse permet de retourner rapidement les fichiers vidéo et d'améliorer l'efficacité du montage.\n\n2. Production vidéo : Dans le processus de production vidéo, il est parfois nécessaire de retourner la vidéo pour obtenir un effet spécifique. L'utilisation de l'outil Video Reverse permet de retourner rapidement les fichiers vidéo et d'améliorer l'efficacité de la production.\n\n3. Partage vidéo : Lors du partage de vidéos, il est parfois nécessaire de retourner la vidéo pour obtenir un effet spécifique. L'utilisation de l'outil Video Reverse permet de retourner rapidement les fichiers vidéo et de fournir un lien de téléchargement pour faciliter le partage.\n\nMode d'emploi :\n\n1. Ouvrez la page de l'outil Video Reverse.\n\n2. Téléchargez le fichier vidéo à retourner en le faisant glisser ou en le sélectionnant.\n\n3. Attendez que le traitement soit terminé, puis cliquez sur le bouton Télécharger pour télécharger le fichier vidéo retourné.\n\nRemarques :\n\n1. La taille du fichier vidéo téléchargé ne doit pas dépasser 100 Mo.\n\n2. Le format du fichier vidéo téléchargé doit être avi, mov, mp4, mpeg, webm, flv, wmv ou gif.\n\n3. Une fois le traitement terminé, le nom du fichier vidéo téléchargé est output.mp4.",
+            "$keywords": [
+                "vidéo inversée",
+                "outil en ligne",
+                "montage vidéo",
+                "production vidéo",
+                "FFmpeg",
+                "plusieurs formats vidéo",
+                "inversion",
+                "vidéo inversée",
+                "MP4"
+            ]
+        },
+        "it": {
+            "$name": "Video Reverse",
+            "$description": "Documento di descrizione degli strumenti: Video Reverse\n\nVideo Reverse è uno strumento online per invertire i video che consente di invertire i file video caricati dagli utenti e di fornire un link per il download. Lo strumento è sviluppato con Vue.js e la libreria FFmpeg e supporta diversi formati video.\n\nDescrizione delle funzionalità:\n\n1. Caricamento del file video: gli utenti possono caricare i file video trascinandoli o selezionandoli.\n\n2. Inversione del video: dopo il caricamento, lo strumento inverte automaticamente il file video.\n\n3. Download del video invertito: dopo il completamento del processo, gli utenti possono scaricare il file video invertito facendo clic sul pulsante Download.\n\nScenari di utilizzo:\n\n1. Modifica video: durante il processo di modifica video, a volte è necessario invertire il video per ottenere un effetto specifico. L'utilizzo dello strumento Video Reverse consente di invertire rapidamente i file video e migliorare l'efficienza di modifica.\n\n2. Produzione video: durante il processo di produzione video, a volte è necessario invertire il video per ottenere un effetto specifico. L'utilizzo dello strumento Video Reverse consente di invertire rapidamente i file video e migliorare l'efficienza di produzione.\n\n3. Condivisione video: durante la condivisione di video, a volte è necessario invertire il video per ottenere un effetto specifico. L'utilizzo dello strumento Video Reverse consente di invertire rapidamente i file video e fornire un link per il download, semplificando la condivisione.\n\nModalità d'uso:\n\n1. Aprire la pagina degli strumenti Video Reverse.\n\n2. Trascinare o selezionare il file video da invertire.\n\n3. Attendere il completamento del processo e fare clic sul pulsante Download per scaricare il file video invertito.\n\nNote:\n\n1. La dimensione del file video caricato non può superare i 100 MB.\n\n2. Il formato del file video caricato deve essere avi, mov, mp4, mpeg, webm, flv, wmv o gif.\n\n3. Dopo il completamento del processo, il nome del file video scaricato sarà output.mp4.",
+            "$keywords": [
+                "Video Reverse",
+                "strumento online",
+                "modifica video",
+                "produzione video",
+                "FFmpeg",
+                "diversi formati video",
+                "inversione",
+                "video invertito",
+                "MP4"
+            ]
+        },
+        "ru": {
+            "$name": "Video Reverse",
+            "$description": "Документация инструмента: Video Reverse\n\nVideo Reverse - это онлайн-инструмент для обратного воспроизведения видео, который может обрабатывать загруженные пользователем видеофайлы и предоставлять ссылки для скачивания. Этот инструмент разработан на основе Vue.js и библиотеки FFmpeg и поддерживает множество форматов видео.\n\nОписание функций:\n\n1. Загрузка видеофайла: пользователи могут загружать видеофайлы, перетаскивая их или выбирая файлы.\n\n2. Обратное воспроизведение видео: после успешной загрузки инструмент автоматически обрабатывает видеофайлы для обратного воспроизведения.\n\n3. Скачивание обратно воспроизведенного видео: после обработки пользователи могут скачать обратно воспроизведенный видеофайл, нажав кнопку «Скачать».\n\nСферы применения:\n\n1. Редактирование видео: в процессе редактирования видео иногда необходимо обратное воспроизведение видео для достижения определенного эффекта. Использование инструмента Video Reverse позволяет быстро обратно воспроизводить видеофайлы и повышать эффективность редактирования.\n\n2. Создание видео: в процессе создания видео иногда необходимо обратное воспроизведение видео для достижения определенного эффекта. Использование инструмента Video Reverse позволяет быстро обратно воспроизводить видеофайлы и повышать эффективность создания.\n\n3. Обмен видео: при обмене видео иногда необходимо обратное воспроизведение видео для достижения определенного эффекта. Использование инструмента Video Reverse позволяет быстро обратно воспроизводить видеофайлы и предоставлять ссылки для скачивания, что упрощает обмен.\n\nИнструкция по использованию:\n\n1. Откройте страницу инструмента Video Reverse.\n\n2. Перетащите или выберите файлы видео, которые нужно обратно воспроизвести.\n\n3. Дождитесь завершения обработки и нажмите кнопку «Скачать», чтобы скачать обратно воспроизведенный видеофайл.\n\nПримечания:\n\n1. Размер загружаемого видеофайла не должен превышать 100 МБ.\n\n2. Формат загружаемого видеофайла должен быть avi, mov, mp4, mpeg, webm, flv, wmv или gif.\n\n3. После обработки загруженного видеофайла имя скачиваемого файла будет output.mp4.",
+            "$keywords": [
+                "видео обратное воспроизведение",
+                "онлайн-инструмент",
+                "редактирование видео",
+                "создание видео",
+                "FFmpeg",
+                "множество форматов видео",
+                "обратное воспроизведение",
+                "видео обратное воспроизведение",
+                "MP4"
+            ]
+        },
+        "pt": {
+            "$name": "Video Reverse",
+            "$description": "Documento de descrição da ferramenta: Video Reverse\n\nVideo Reverse é uma ferramenta online de reversão de vídeo que pode reverter arquivos de vídeo enviados pelo usuário e fornecer um link para download. Esta ferramenta foi desenvolvida com base no Vue.js e na biblioteca FFmpeg e suporta vários formatos de vídeo.\n\nDescrição das funcionalidades:\n\n1. Envio de arquivos de vídeo: O usuário pode enviar arquivos de vídeo arrastando e soltando ou selecionando o arquivo.\n\n2. Reversão de vídeo: Após o envio bem-sucedido, a ferramenta automaticamente reverte o arquivo de vídeo.\n\n3. Download do vídeo revertido: Após o processamento, o usuário pode clicar no botão Download para baixar o arquivo de vídeo revertido.\n\nCenários de uso:\n\n1. Edição de vídeo: Durante o processo de edição de vídeo, às vezes é necessário reverter o vídeo para obter um efeito específico. O uso da ferramenta Video Reverse pode reverter rapidamente o arquivo de vídeo e aumentar a eficiência da edição.\n\n2. Produção de vídeo: Durante o processo de produção de vídeo, às vezes é necessário reverter o vídeo para obter um efeito específico. O uso da ferramenta Video Reverse pode reverter rapidamente o arquivo de vídeo e aumentar a eficiência da produção.\n\n3. Compartilhamento de vídeo: Ao compartilhar um vídeo, às vezes é necessário reverter o vídeo para obter um efeito específico. O uso da ferramenta Video Reverse pode reverter rapidamente o arquivo de vídeo e fornecer um link para download, facilitando o compartilhamento.\n\nInstruções de uso:\n\n1. Abra a página da ferramenta Video Reverse.\n\n2. Envie o arquivo de vídeo que precisa ser revertido arrastando e soltando ou selecionando o arquivo.\n\n3. Aguarde o processamento e clique no botão Download para baixar o arquivo de vídeo revertido.\n\nObservações:\n\n1. O tamanho do arquivo de vídeo enviado não pode exceder 100 MB.\n\n2. O formato do arquivo de vídeo enviado deve ser avi, mov, mp4, mpeg, webm, flv, wmv ou gif.\n\n3. Após o processamento, o nome do arquivo de vídeo baixado será output.mp4.",
+            "$keywords": [
+                "reversão de vídeo",
+                "ferramenta online",
+                "edição de vídeo",
+                "produção de vídeo",
+                "FFmpeg",
+                "vários formatos de vídeo",
+                "reversão",
+                "vídeo revertido",
+                "MP4"
+            ]
+        }
+    },
+    {
+        "id": "video-rotate",
+        "zh-cn": {
+            "$name": "视频旋转",
+            "$description": "工具名称：视频旋转\n\n工具描述：视频旋转是一个在线视频旋转工具，可以将上传的视频文件按照指定的角度进行旋转，并提供下载功能。\n\n使用场景：\n\n1. 视频编辑：在视频编辑过程中，可能需要对视频进行旋转操作，以达到更好的效果。使用视频旋转工具可以方便快捷地进行视频旋转操作。\n\n2. 视频转码：在视频转码过程中，可能需要对视频进行旋转操作，以适应不同的播放设备。使用视频旋转工具可以方便快捷地进行视频旋转操作，并生成适应不同设备的视频文件。\n\n3. 视频分享：在分享视频时，可能需要对视频进行旋转操作，以适应不同的观看需求。使用视频旋转工具可以方便快捷地进行视频旋转操作，并生成适应不同观看需求的视频文件。\n\n使用方法：\n\n1. 将需要旋转的视频文件拖拽到工具的上传区域，或者点击上传按钮选择需要上传的视频文件。\n\n2. 在工具的旋转角度滑块上选择需要旋转的角度。\n\n3. 点击下载按钮，即可下载旋转后的视频文件。\n\n工具依赖：\n\n1. video-rotate.ts：视频旋转工具的入口文件，导出视频旋转组件。\n\n2. video-rotate.vue：视频旋转组件的实现文件，包含视频上传、旋转、下载等功能。\n\n3. UploadVideoComponents.vue：视频上传组件，包含视频上传、预览等功能。\n\n4. lodash/debounce：JavaScript 工具库，用于函数防抖。\n\n5. @ffmpeg/ffmpeg：FFmpeg 的 JavaScript 版本，用于视频处理。\n\n6. vue-i18n：Vue.js 的国际化插件，用于多语言支持。\n\n注意事项：\n\n1. 上传的视频文件大小不能超过 100MB。\n\n2. 旋转角度范围为 -360 到 360 度。\n\n3. 下载的视频文件格式为 MP4 格式。\n\n4. 旋转视频可能会影响视频的画质和音质，建议在必要时使用。",
+            "$keywords": [
+                "视频旋转",
+                "视频编辑",
+                "角度选择",
+                "视频处理"
+            ]
+        },
+        "zh-tw": {
+            "$name": "视频旋轉",
+            "$description": "工具名稱：視頻旋轉\n\n工具描述：視頻旋轉是一個在線視頻旋轉工具，可以將上傳的視頻文件按照指定的角度進行旋轉，並提供下載功能。\n\n使用場景：\n\n1. 視頻編輯：在視頻編輯過程中，可能需要對視頻進行旋轉操作，以達到更好的效果。使用視頻旋轉工具可以方便快捷地進行視頻旋轉操作。\n\n2. 視頻轉碼：在視頻轉碼過程中，可能需要對視頻進行旋轉操作，以適應不同的播放設備。使用視頻旋轉工具可以方便快捷地進行視頻旋轉操作，並生成適應不同設備的視頻文件。\n\n3. 視頻分享：在分享視頻時，可能需要對視頻進行旋轉操作，以適應不同的觀看需求。使用視頻旋轉工具可以方便快捷地進行視頻旋轉操作，並生成適應不同觀看需求的視頻文件。\n\n使用方法：\n\n1. 將需要旋轉的視頻文件拖拽到工具的上傳區域，或者點擊上傳按鈕選擇需要上傳的視頻文件。\n\n2. 在工具的旋轉角度滑塊上選擇需要旋轉的角度。\n\n3. 點擊下載按鈕，即可下載旋轉後的視頻文件。\n\n工具依賴：\n\n1. video-rotate.ts：視頻旋轉工具的入口文件，導出視頻旋轉組件。\n\n2. video-rotate.vue：視頻旋轉組件的實現文件，包含視頻上傳、旋轉、下載等功能。\n\n3. UploadVideoComponents.vue：視頻上傳組件，包含視頻上傳、預覽等功能。\n\n4. lodash/debounce：JavaScript 工具庫，用於函數防抖。\n\n5. @ffmpeg/ffmpeg：FFmpeg 的 JavaScript 版本，用於視頻處理。\n\n6. vue-i18n：Vue.js 的國際化插件，用於多語言支持。\n\n注意事項：\n\n1. 上傳的視頻文件大小不能超過 100MB。\n\n2. 旋轉角度範圍為 -360 到 360 度。\n\n3. 下載的視頻文件格式為 MP4 格式。\n\n4. 旋轉視頻可能會影響視頻的畫質和音質，建議在必要時使用。",
+            "$keywords": [
+                "視頻旋轉",
+                "視頻編輯",
+                "角度選擇",
+                "視頻處理"
+            ]
+        },
+        "en": {
+            "$name": "Video Rotate",
+            "$description": "Tool Name: Video Rotate\n\nTool Description: Video Rotate is an online video rotation tool that can rotate uploaded video files at specified angles and provide download function.\n\nUse Cases:\n\n1. Video Editing: During video editing, it may be necessary to rotate the video to achieve better effects. Using the Video Rotate tool can easily and quickly rotate the video.\n\n2. Video Transcoding: During video transcoding, it may be necessary to rotate the video to adapt to different playback devices. Using the Video Rotate tool can easily and quickly rotate the video and generate video files that are suitable for different devices.\n\n3. Video Sharing: When sharing videos, it may be necessary to rotate the video to adapt to different viewing needs. Using the Video Rotate tool can easily and quickly rotate the video and generate video files that are suitable for different viewing needs.\n\nUsage:\n\n1. Drag the video file that needs to be rotated to the upload area of the tool, or click the upload button to select the video file to be uploaded.\n\n2. Select the angle to be rotated on the rotation angle slider of the tool.\n\n3. Click the download button to download the rotated video file.\n\nDependencies:\n\n1. video-rotate.ts: The entry file of the Video Rotate tool, which exports the Video Rotate component.\n\n2. video-rotate.vue: The implementation file of the Video Rotate component, which includes video upload, rotation, download and other functions.\n\n3. UploadVideoComponents.vue: Video upload component, including video upload, preview and other functions.\n\n4. lodash/debounce: JavaScript utility library used for function debouncing.\n\n5. @ffmpeg/ffmpeg: JavaScript version of FFmpeg used for video processing.\n\n6. vue-i18n: Internationalization plugin for Vue.js used for multi-language support.\n\nNotes:\n\n1. The uploaded video file size cannot exceed 100MB.\n\n2. The rotation angle range is from -360 to 360 degrees.\n\n3. The downloaded video file format is MP4.\n\n4. Rotating the video may affect the video and audio quality, so it is recommended to use it when necessary.",
+            "$keywords": [
+                "Video Rotation",
+                "Video Editing",
+                "Angle Selection",
+                "Video Processing"
+            ]
+        },
+        "es": {
+            "$name": "Video Rotate",
+            "$description": "Nombre de la herramienta: Video Rotate\n\nDescripción de la herramienta: Video Rotate es una herramienta de rotación de video en línea que permite rotar archivos de video cargados en un ángulo específico y proporciona una función de descarga.\n\nEscenarios de uso:\n\n1. Edición de video: durante el proceso de edición de video, es posible que sea necesario rotar el video para lograr mejores resultados. La herramienta Video Rotate permite realizar la rotación de video de manera rápida y sencilla.\n\n2. Conversión de video: durante el proceso de conversión de video, es posible que sea necesario rotar el video para adaptarlo a diferentes dispositivos de reproducción. La herramienta Video Rotate permite realizar la rotación de video de manera rápida y sencilla, y generar archivos de video adaptados a diferentes dispositivos.\n\n3. Compartir video: al compartir videos, es posible que sea necesario rotar el video para adaptarlo a diferentes necesidades de visualización. La herramienta Video Rotate permite realizar la rotación de video de manera rápida y sencilla, y generar archivos de video adaptados a diferentes necesidades de visualización.\n\nInstrucciones de uso:\n\n1. Arrastre el archivo de video que desea rotar al área de carga de la herramienta o haga clic en el botón de carga para seleccionar el archivo de video que desea cargar.\n\n2. Seleccione el ángulo de rotación deseado en el control deslizante de ángulo de rotación de la herramienta.\n\n3. Haga clic en el botón de descarga para descargar el archivo de video rotado.\n\nDependencias de la herramienta:\n\n1. video-rotate.ts: archivo de entrada de la herramienta Video Rotate, que exporta el componente Video Rotate.\n\n2. video-rotate.vue: archivo de implementación del componente Video Rotate, que incluye funciones de carga, rotación y descarga de video.\n\n3. UploadVideoComponents.vue: componente de carga de video, que incluye funciones de carga y vista previa de video.\n\n4. lodash/debounce: biblioteca de utilidades de JavaScript para la prevención de la ejecución repetida de funciones.\n\n5. @ffmpeg/ffmpeg: versión de JavaScript de FFmpeg para el procesamiento de video.\n\n6. vue-i18n: complemento de internacionalización de Vue.js para admitir varios idiomas.\n\nNotas:\n\n1. El tamaño del archivo de video cargado no puede superar los 100 MB.\n\n2. El rango de ángulo de rotación es de -360 a 360 grados.\n\n3. El formato de archivo de video descargado es MP4.\n\n4. La rotación de video puede afectar la calidad de imagen y sonido del video. Se recomienda utilizarla solo cuando sea necesario.",
+            "$keywords": [
+                "rotación de video",
+                "edición de video",
+                "selección de ángulo",
+                "procesamiento de video"
+            ]
+        },
+        "ja": {
+            "$name": "ビデオ回転",
+            "$description": "ツール名：ビデオ回転\n\nツールの説明：ビデオ回転は、オンラインビデオ回転ツールで、アップロードされたビデオファイルを指定された角度で回転し、ダウンロード機能を提供します。\n\n使用シーン：\n\n1. ビデオ編集：ビデオ編集中に、ビデオを回転する必要がある場合があります。ビデオ回転ツールを使用すると、ビデオ回転操作を簡単かつ迅速に行うことができます。\n\n2. ビデオ変換：ビデオ変換中に、ビデオを回転する必要がある場合があります。ビデオ回転ツールを使用すると、ビデオ回転操作を簡単かつ迅速に行い、異なるデバイスに適したビデオファイルを生成することができます。\n\n3. ビデオ共有：ビデオを共有する際に、ビデオを回転する必要がある場合があります。ビデオ回転ツールを使用すると、ビデオ回転操作を簡単かつ迅速に行い、異なる視聴ニーズに適したビデオファイルを生成することができます。\n\n使用方法：\n\n1. 回転する必要があるビデオファイルをツールのアップロードエリアにドラッグアンドドロップするか、アップロードボタンをクリックしてアップロードする必要があります。\n\n2. ツールの回転角度スライダーで回転する角度を選択します。\n\n3. ダウンロードボタンをクリックすると、回転後のビデオファイルをダウンロードできます。\n\nツールの依存関係：\n\n1. video-rotate.ts：ビデオ回転ツールのエントリーファイルで、Video Rotateコンポーネントをエクスポートします。\n\n2. video-rotate.vue：ビデオ回転コンポーネントの実装ファイルで、ビデオのアップロード、回転、ダウンロードなどの機能が含まれています。\n\n3. UploadVideoComponents.vue：ビデオアップロードコンポーネントで、ビデオアップロード、プレビューなどの機能が含まれています。\n\n4. lodash/debounce：関数のデバウンスに使用されるJavaScriptユーティリティライブラリです。\n\n5. @ffmpeg/ffmpeg：ビデオ処理に使用されるJavaScript版のFFmpegです。\n\n6. vue-i18n：Vue.jsの国際化プラグインで、多言語サポートに使用されます。\n\n注意事項：\n\n1. アップロードされたビデオファイルのサイズは100MBを超えることはできません。\n\n2. 回転角度の範囲は-360度から360度です。\n\n3. ダウンロードされるビデオファイルの形式はMP4形式です。\n\n4. ビデオを回転すると、ビデオの画質や音質に影響を与える可能性があります。必要に応じて使用してください。",
+            "$keywords": [
+                "ビデオ回転",
+                "ビデオ編集",
+                "角度選択",
+                "ビデオ処理"
+            ]
+        },
+        "ko": {
+            "$name": "비디오 회전",
+            "$description": "도구 이름: 비디오 회전\n\n도구 설명: 비디오 회전은 온라인 비디오 회전 도구로, 업로드한 비디오 파일을 지정된 각도로 회전하고 다운로드 기능을 제공합니다.\n\n사용 시나리오:\n\n1. 비디오 편집: 비디오 편집 과정에서 비디오를 회전해야 할 수 있습니다. 비디오 회전 도구를 사용하면 비디오 회전 작업을 쉽고 빠르게 수행할 수 있습니다.\n\n2. 비디오 인코딩: 비디오 인코딩 과정에서 비디오를 회전해야 할 수 있습니다. 비디오 회전 도구를 사용하면 비디오 회전 작업을 쉽고 빠르게 수행하고 다양한 재생 장치에 적합한 비디오 파일을 생성할 수 있습니다.\n\n3. 비디오 공유: 비디오를 공유할 때 비디오를 회전해야 할 수 있습니다. 비디오 회전 도구를 사용하면 비디오 회전 작업을 쉽고 빠르게 수행하고 다양한 시청 요구에 적합한 비디오 파일을 생성할 수 있습니다.\n\n사용 방법:\n\n1. 회전해야 할 비디오 파일을 도구의 업로드 영역으로 드래그 앤 드롭하거나 업로드 버튼을 클릭하여 업로드합니다.\n\n2. 도구의 회전 각도 슬라이더에서 회전할 각도를 선택합니다.\n\n3. 다운로드 버튼을 클릭하여 회전된 비디오 파일을 다운로드합니다.\n\n도구 종속성:\n\n1. video-rotate.ts: 비디오 회전 도구의 진입 파일로, 비디오 회전 컴포넌트를 내보냅니다.\n\n2. video-rotate.vue: 비디오 회전 컴포넌트의 구현 파일로, 비디오 업로드, 회전, 다운로드 등의 기능을 포함합니다.\n\n3. UploadVideoComponents.vue: 비디오 업로드 컴포넌트로, 비디오 업로드, 미리보기 등의 기능을 포함합니다.\n\n4. lodash/debounce: 함수 디바운스에 사용되는 JavaScript 유틸리티 라이브러리입니다.\n\n5. @ffmpeg/ffmpeg: 비디오 처리에 사용되는 JavaScript 버전의 FFmpeg입니다.\n\n6. vue-i18n: 다국어 지원을 위한 Vue.js 플러그인입니다.\n\n주의 사항:\n\n1. 업로드한 비디오 파일 크기는 100MB를 초과할 수 없습니다.\n\n2. 회전 각도 범위는 -360도에서 360도까지입니다.\n\n3. 다운로드된 비디오 파일 형식은 MP4 형식입니다.\n\n4. 비디오 회전은 비디오 화질과 음질에 영향을 줄 수 있으므로 필요한 경우에만 사용하는 것이 좋습니다.",
+            "$keywords": [
+                "비디오 회전",
+                "비디오 편집",
+                "각도 선택",
+                "비디오 처리"
+            ]
+        },
+        "de": {
+            "$name": "Video Rotate",
+            "$description": "Tool Name: Video Rotate\n\nTool Description: Video Rotate is an online video rotation tool that can rotate uploaded video files at specified angles and provide download function.\n\nUse Cases:\n\n1. Video Editing: During video editing, it may be necessary to rotate the video to achieve better results. Using the Video Rotate tool can easily and quickly rotate the video.\n\n2. Video Transcoding: During video transcoding, it may be necessary to rotate the video to adapt to different playback devices. Using the Video Rotate tool can easily and quickly rotate the video and generate video files that are suitable for different devices.\n\n3. Video Sharing: When sharing videos, it may be necessary to rotate the video to adapt to different viewing needs. Using the Video Rotate tool can easily and quickly rotate the video and generate video files that are suitable for different viewing needs.\n\nInstructions:\n\n1. Drag the video file that needs to be rotated to the upload area of the tool, or click the upload button to select the video file to be uploaded.\n\n2. Select the angle to be rotated on the rotation angle slider of the tool.\n\n3. Click the download button to download the rotated video file.\n\nDependencies:\n\n1. video-rotate.ts: The entry file of the Video Rotate tool, which exports the Video Rotate component.\n\n2. video-rotate.vue: The implementation file of the Video Rotate component, which includes video upload, rotation, download and other functions.\n\n3. UploadVideoComponents.vue: Video upload component, including video upload, preview and other functions.\n\n4. lodash/debounce: JavaScript utility library used for function debouncing.\n\n5. @ffmpeg/ffmpeg: JavaScript version of FFmpeg used for video processing.\n\n6. vue-i18n: Internationalization plugin for Vue.js used for multi-language support.\n\nNotes:\n\n1. The uploaded video file size cannot exceed 100MB.\n\n2. The rotation angle range is from -360 to 360 degrees.\n\n3. The downloaded video file format is MP4.\n\n4. Rotating the video may affect the video and audio quality, so it is recommended to use it when necessary.",
+            "$keywords": [
+                "Video Rotation",
+                "Video Editing",
+                "Angle Selection",
+                "Video Processing"
+            ]
+        },
+        "fr": {
+            "$name": "Video Rotate",
+            "$description": "Nom de l'outil : Video Rotate\n\nDescription de l'outil : Video Rotate est un outil de rotation de vidéos en ligne qui permet de faire pivoter les fichiers vidéo téléchargés selon un angle spécifié et de les télécharger.\n\nScénarios d'utilisation :\n\n1. Édition de vidéos : lors de l'édition de vidéos, il peut être nécessaire de faire pivoter la vidéo pour obtenir de meilleurs résultats. L'utilisation de l'outil Video Rotate permet de faire pivoter les vidéos rapidement et facilement.\n\n2. Transcodage de vidéos : lors du transcodage de vidéos, il peut être nécessaire de faire pivoter la vidéo pour qu'elle soit compatible avec différents appareils de lecture. L'utilisation de l'outil Video Rotate permet de faire pivoter les vidéos rapidement et facilement, et de générer des fichiers vidéo adaptés à différents appareils.\n\n3. Partage de vidéos : lors du partage de vidéos, il peut être nécessaire de faire pivoter la vidéo pour répondre à différents besoins de visionnage. L'utilisation de l'outil Video Rotate permet de faire pivoter les vidéos rapidement et facilement, et de générer des fichiers vidéo adaptés à différents besoins de visionnage.\n\nMode d'utilisation :\n\n1. Faites glisser le fichier vidéo à faire pivoter dans la zone de téléchargement de l'outil, ou cliquez sur le bouton de téléchargement pour sélectionner le fichier vidéo à télécharger.\n\n2. Sélectionnez l'angle de rotation souhaité sur le curseur d'angle de rotation de l'outil.\n\n3. Cliquez sur le bouton de téléchargement pour télécharger le fichier vidéo pivoté.\n\nDépendances de l'outil :\n\n1. video-rotate.ts : fichier d'entrée de l'outil Video Rotate, exportant le composant Video Rotate.\n\n2. video-rotate.vue : fichier de mise en œuvre du composant Video Rotate, comprenant les fonctions de téléchargement, de rotation et de téléchargement de vidéos.\n\n3. UploadVideoComponents.vue : composant de téléchargement de vidéos, comprenant les fonctions de téléchargement et de prévisualisation de vidéos.\n\n4. lodash/debounce : bibliothèque d'outils JavaScript utilisée pour la fonction de débordement.\n\n5. @ffmpeg/ffmpeg : version JavaScript de FFmpeg utilisée pour le traitement vidéo.\n\n6. vue-i18n : plugin de localisation de Vue.js utilisé pour la prise en charge de plusieurs langues.\n\nRemarques :\n\n1. La taille du fichier vidéo téléchargé ne doit pas dépasser 100 Mo.\n\n2. L'angle de rotation doit être compris entre -360 et 360 degrés.\n\n3. Le format de fichier vidéo téléchargé est le format MP4.\n\n4. La rotation de la vidéo peut affecter la qualité de l'image et du son, il est donc recommandé de l'utiliser uniquement si nécessaire.",
+            "$keywords": [
+                "rotation de vidéos",
+                "édition de vidéos",
+                "sélection d'angle",
+                "traitement vidéo"
+            ]
+        },
+        "it": {
+            "$name": "Video Rotate",
+            "$description": "Nome strumento: Video Rotate\n\nDescrizione strumento: Video Rotate è uno strumento online per la rotazione di video. Consente di ruotare i file video caricati secondo un angolo specifico e di scaricarli.\n\nScenari d'uso:\n\n1. Modifica video: durante la modifica di un video, potrebbe essere necessario ruotarlo per ottenere un effetto migliore. Video Rotate consente di ruotare i video in modo rapido e semplice.\n\n2. Conversione video: durante la conversione di un video, potrebbe essere necessario ruotarlo per adattarlo a diversi dispositivi di riproduzione. Video Rotate consente di ruotare i video in modo rapido e semplice e di generare file video adatti a diversi dispositivi.\n\n3. Condivisione video: durante la condivisione di un video, potrebbe essere necessario ruotarlo per adattarlo alle esigenze di visualizzazione. Video Rotate consente di ruotare i video in modo rapido e semplice e di generare file video adatti a diverse esigenze di visualizzazione.\n\nModalità d'uso:\n\n1. Trascinare il file video da ruotare nell'area di caricamento dello strumento o fare clic sul pulsante di caricamento per selezionare il file video da caricare.\n\n2. Selezionare l'angolo di rotazione desiderato sulla barra di scorrimento dell'angolo di rotazione dello strumento.\n\n3. Fare clic sul pulsante di download per scaricare il file video ruotato.\n\nDipendenze strumento:\n\n1. video-rotate.ts: file di ingresso dello strumento Video Rotate, che esporta il componente Video Rotate.\n\n2. video-rotate.vue: file di implementazione del componente Video Rotate, che include le funzioni di caricamento, rotazione e download dei video.\n\n3. UploadVideoComponents.vue: componente di caricamento video, che include le funzioni di caricamento e anteprima dei video.\n\n4. lodash/debounce: libreria di utilità JavaScript per la gestione della funzione di debounce.\n\n5. @ffmpeg/ffmpeg: versione JavaScript di FFmpeg, utilizzata per la gestione dei video.\n\n6. vue-i18n: plug-in di internazionalizzazione di Vue.js, utilizzato per il supporto multilingue.\n\nNote:\n\n1. La dimensione massima del file video caricabile è di 100 MB.\n\n2. L'angolo di rotazione può variare da -360 a 360 gradi.\n\n3. Il formato del file video scaricato è MP4.\n\n4. La rotazione del video potrebbe influire sulla qualità dell'immagine e del suono. Si consiglia di utilizzare lo strumento solo se necessario.",
+            "$keywords": [
+                "rotazione video",
+                "modifica video",
+                "selezione angolo",
+                "elaborazione video"
+            ]
+        },
+        "ru": {
+            "$name": "Video Rotate",
+            "$description": "Название инструмента: Video Rotate\n\nОписание инструмента: Video Rotate - это онлайн-инструмент для поворота видео, который позволяет поворачивать загруженные видеофайлы на заданный угол и предоставляет функцию загрузки.\n\nСферы применения:\n\n1. Редактирование видео: в процессе редактирования видео может потребоваться поворот видео для достижения лучшего эффекта. Использование инструмента Video Rotate позволяет быстро и удобно поворачивать видео.\n\n2. Конвертация видео: в процессе конвертации видео может потребоваться поворот видео для адаптации к различным устройствам воспроизведения. Использование инструмента Video Rotate позволяет быстро и удобно поворачивать видео и создавать файлы видео, подходящие для различных устройств.\n\n3. Обмен видео: при обмене видео может потребоваться поворот видео для адаптации к различным потребностям просмотра. Использование инструмента Video Rotate позволяет быстро и удобно поворачивать видео и создавать файлы видео, подходящие для различных потребностей просмотра.\n\nИспользование инструмента:\n\n1. Перетащите видеофайл, который нужно повернуть, в область загрузки инструмента или нажмите кнопку загрузки, чтобы выбрать нужный видеофайл.\n\n2. Выберите нужный угол поворота на ползунке угла поворота инструмента.\n\n3. Нажмите кнопку загрузки, чтобы загрузить повернутое видеофайл.\n\nЗависимости инструмента:\n\n1. video-rotate.ts: входной файл инструмента Video Rotate, экспортирующий компонент Video Rotate.\n\n2. video-rotate.vue: файл реализации компонента Video Rotate, включающий функции загрузки, поворота и загрузки видео.\n\n3. UploadVideoComponents.vue: компонент загрузки видео, включающий функции загрузки и предварительного просмотра.\n\n4. lodash/debounce: библиотека JavaScript, используемая для функции дребезга.\n\n5. @ffmpeg/ffmpeg: JavaScript-версия FFmpeg, используемая для обработки видео.\n\n6. vue-i18n: плагин международной поддержки Vue.js, используемый для поддержки нескольких языков.\n\nПримечания:\n\n1. Размер загружаемого видеофайла не должен превышать 100 МБ.\n\n2. Диапазон угла поворота составляет от -360 до 360 градусов.\n\n3. Формат загружаемого видеофайла - MP4.\n\n4. Поворот видео может повлиять на качество изображения и звука, рекомендуется использовать только при необходимости.",
+            "$keywords": [
+                "поворот видео",
+                "редактирование видео",
+                "выбор угла",
+                "обработка видео"
+            ]
+        },
+        "pt": {
+            "$name": "Video Rotate",
+            "$description": "Nome da ferramenta: Video Rotate\n\nDescrição da ferramenta: Video Rotate é uma ferramenta de rotação de vídeo online que permite girar arquivos de vídeo enviados para a ferramenta em um ângulo especificado e oferece a opção de download.\n\nCenários de uso:\n\n1. Edição de vídeo: durante o processo de edição de vídeo, pode ser necessário girar o vídeo para obter melhores resultados. O uso da ferramenta Video Rotate permite girar o vídeo de forma rápida e fácil.\n\n2. Conversão de vídeo: durante o processo de conversão de vídeo, pode ser necessário girar o vídeo para se adequar a diferentes dispositivos de reprodução. O uso da ferramenta Video Rotate permite girar o vídeo de forma rápida e fácil e gerar arquivos de vídeo adequados para diferentes dispositivos.\n\n3. Compartilhamento de vídeo: ao compartilhar um vídeo, pode ser necessário girá-lo para atender às necessidades de visualização de diferentes usuários. O uso da ferramenta Video Rotate permite girar o vídeo de forma rápida e fácil e gerar arquivos de vídeo adequados para diferentes necessidades de visualização.\n\nInstruções de uso:\n\n1. Arraste o arquivo de vídeo que precisa ser girado para a área de upload da ferramenta ou clique no botão de upload para selecionar o arquivo de vídeo que deseja enviar.\n\n2. Selecione o ângulo de rotação desejado no controle deslizante de ângulo de rotação da ferramenta.\n\n3. Clique no botão de download para baixar o arquivo de vídeo girado.\n\nDependências da ferramenta:\n\n1. video-rotate.ts: arquivo de entrada da ferramenta Video Rotate, que exporta o componente Video Rotate.\n\n2. video-rotate.vue: arquivo de implementação do componente Video Rotate, que inclui recursos de upload, rotação e download de vídeo.\n\n3. UploadVideoComponents.vue: componente de upload de vídeo, que inclui recursos de upload e visualização.\n\n4. lodash/debounce: biblioteca de ferramentas JavaScript usada para debounce de funções.\n\n5. @ffmpeg/ffmpeg: versão JavaScript do FFmpeg, usada para processamento de vídeo.\n\n6. vue-i18n: plug-in de internacionalização do Vue.js, usado para suporte a vários idiomas.\n\nObservações:\n\n1. O tamanho do arquivo de vídeo enviado não pode exceder 100 MB.\n\n2. O ângulo de rotação varia de -360 a 360 graus.\n\n3. O formato do arquivo de vídeo baixado é MP4.\n\n4. A rotação do vídeo pode afetar a qualidade da imagem e do som, portanto, é recomendável usá-la apenas quando necessário.",
+            "$keywords": [
+                "rotação de vídeo",
+                "edição de vídeo",
+                "seleção de ângulo",
+                "processamento de vídeo"
+            ]
+        }
+    },
+    {
+        "id": "video-mute",
+        "zh-cn": {
+            "$name": "静音视频",
+            "$description": "工具名称：视频禁音\n\n工具描述：\n视频禁音是一个在线视频禁音工具，可以将上传的视频文件进行禁音处理，并提供下载功能。该工具使用了 Vue.js 和 FFmpeg 库。\n\n使用场景：\n1. 需要对视频文件进行禁音处理的用户。\n2. 需要下载禁音后的视频文件的用户。\n\n使用方法：\n1. 将需要禁音处理的视频文件上传至工具中。\n2. 工具会自动进行禁音处理，并在页面上显示禁音后的视频文件。\n3. 点击 Download 按钮即可下载禁音后的视频文件。\n\n依赖文件说明：\n1. video-mute.ts：导出视频禁音组件。\n2. video-mute.vue：视频禁音组件的源码文件，包含视频上传和禁音处理的逻辑。\n3. UploadVideoComponents.vue：视频上传组件的源码文件，包含视频上传和预览的逻辑。",
+            "$keywords": [
+                "在线视频禁音",
+                "禁音处理",
+                "FFmpeg",
+                "视频",
+                "静音"
+            ]
+        },
+        "zh-tw": {
+            "$name": "Mute Video",
+            "$description": "工具名称：Video Mute\n\n工具描述：\nVideo Mute 是一個線上視頻禁音工具，可以將上傳的視頻文件進行禁音處理，並提供下載功能。該工具使用了 Vue.js 和 FFmpeg 庫。\n\n使用場景：\n1. 需要對視頻文件進行禁音處理的用戶。\n2. 需要下載禁音後的視頻文件的用戶。\n\n使用方法：\n1. 將需要禁音處理的視頻文件上傳至工具中。\n2. 工具會自動進行禁音處理，並在頁面上顯示禁音後的視頻文件。\n3. 點擊 Download 按鈕即可下載禁音後的視頻文件。\n\n依賴文件說明：\n1. video-mute.ts：導出 Video Mute 組件。\n2. video-mute.vue：Video Mute 組件的源碼文件，包含視頻上傳和禁音處理的邏輯。\n3. UploadVideoComponents.vue：視頻上傳組件的源碼文件，包含視頻上傳和預覽的邏輯。",
+            "$keywords": [
+                "線上視頻禁音",
+                "禁音處理",
+                "FFmpeg",
+                "視頻",
+                "靜音"
+            ]
+        },
+        "en": {
+            "$name": "Video Mute",
+            "$description": "Tool Name: Video Mute\n\nTool Description:\nVideo Mute is an online video mute tool that can mute uploaded video files and provide download function. This tool uses Vue.js and FFmpeg library.\n\nUsage Scenarios:\n1. Users who need to mute video files.\n2. Users who need to download muted video files.\n\nUsage:\n1. Upload the video file that needs to be muted to the tool.\n2. The tool will automatically mute the video and display the muted video file on the page.\n3. Click the Download button to download the muted video file.\n\nDependency File Description:\n1. video-mute.ts: Export the Video Mute component.\n2. video-mute.vue: The source code file of the Video Mute component, including the logic of video upload and mute processing.\n3. UploadVideoComponents.vue: The source code file of the video upload component, including the logic of video upload and preview.",
+            "$keywords": [
+                "Online video mute",
+                "Mute processing",
+                "FFmpeg",
+                "Video",
+                "Mute"
+            ]
+        },
+        "es": {
+            "$name": "Video Mute",
+            "$description": "Nombre de la herramienta: Video Mute\n\nDescripción de la herramienta:\nVideo Mute es una herramienta en línea para silenciar videos. Puede silenciar archivos de video cargados y proporcionar una función de descarga. Esta herramienta utiliza las bibliotecas Vue.js y FFmpeg.\n\nEscenarios de uso:\n1. Usuarios que necesitan silenciar archivos de video.\n2. Usuarios que necesitan descargar archivos de video silenciados.\n\nInstrucciones de uso:\n1. Cargue el archivo de video que necesita silenciar en la herramienta.\n2. La herramienta silenciará automáticamente el archivo de video y mostrará el archivo de video silenciado en la página.\n3. Haga clic en el botón Descargar para descargar el archivo de video silenciado.\n\nDescripción de archivos dependientes:\n1. video-mute.ts: exporta el componente Video Mute.\n2. video-mute.vue: archivo de origen del componente Video Mute, que incluye la lógica de carga y silenciamiento de video.\n3. UploadVideoComponents.vue: archivo de origen del componente de carga de video, que incluye la lógica de carga y vista previa de video.",
+            "$keywords": [
+                "en línea",
+                "silenciar video",
+                "silenciamiento",
+                "FFmpeg",
+                "video",
+                "sin sonido"
+            ]
+        },
+        "ja": {
+            "$name": "Video Mute",
+            "$description": "工具名称：Video Mute\n\n工具描述：\nVideo Muteはオンラインビデオミュートツールで、アップロードされたビデオファイルをミュート処理し、ダウンロード機能を提供します。このツールはVue.jsとFFmpegライブラリを使用しています。\n\n使用シーン：\n1. ビデオファイルをミュート処理する必要があるユーザー。\n2. ミュート後のビデオファイルをダウンロードする必要があるユーザー。\n\n使用方法：\n1. ミュート処理が必要なビデオファイルをツールにアップロードします。\n2. ツールは自動的にミュート処理を行い、ページにミュート後のビデオファイルを表示します。\n3. Downloadボタンをクリックして、ミュート後のビデオファイルをダウンロードできます。\n\n依存ファイルの説明：\n1. video-mute.ts：Video Muteコンポーネントをエクスポートします。\n2. video-mute.vue：Video Muteコンポーネントのソースコードファイルで、ビデオのアップロードとミュート処理のロジックが含まれています。\n3. UploadVideoComponents.vue：ビデオアップロードコンポーネントのソースコードファイルで、ビデオのアップロードとプレビューのロジックが含まれています。",
+            "$keywords": [
+                "オンラインビデオミュート",
+                "ミュート処理",
+                "FFmpeg",
+                "ビデオ",
+                "静音"
+            ]
+        },
+        "ko": {
+            "$name": "비디오 뮤트",
+            "$description": "도구 이름: 비디오 뮤트\n\n도구 설명:\n비디오 뮤트는 온라인 비디오 뮤트 도구로 업로드된 비디오 파일을 뮤트 처리하고 다운로드 기능을 제공합니다. 이 도구는 Vue.js와 FFmpeg 라이브러리를 사용합니다.\n\n사용 시나리오:\n1. 비디오 파일을 뮤트 처리해야 하는 사용자.\n2. 뮤트 처리된 비디오 파일을 다운로드해야 하는 사용자.\n\n사용 방법:\n1. 뮤트 처리해야 할 비디오 파일을 도구에 업로드합니다.\n2. 도구가 자동으로 뮤트 처리를 수행하고 뮤트 처리된 비디오 파일을 페이지에 표시합니다.\n3. 다운로드 버튼을 클릭하여 뮤트 처리된 비디오 파일을 다운로드할 수 있습니다.\n\n의존 파일 설명:\n1. video-mute.ts: Video Mute 구성 요소를 내보냅니다.\n2. video-mute.vue: Video Mute 구성 요소의 소스 코드 파일로 비디오 업로드 및 뮤트 처리 로직이 포함됩니다.\n3. UploadVideoComponents.vue: 비디오 업로드 구성 요소의 소스 코드 파일로 비디오 업로드 및 미리보기 로직이 포함됩니다.",
+            "$keywords": [
+                "온라인 비디오 뮤트",
+                "뮤트 처리",
+                "FFmpeg",
+                "비디오",
+                "음소거"
+            ]
+        },
+        "de": {
+            "$name": "Video Mute",
+            "$description": "Tool Name: Video Mute\n\nTool Description:\nVideo Mute ist ein Online-Tool zum Stummschalten von Videos. Es kann hochgeladene Videodateien stumm schalten und bietet eine Download-Funktion. Das Tool verwendet Vue.js und FFmpeg-Bibliotheken.\n\nAnwendungsbereiche:\n1. Benutzer, die Videos stummschalten müssen.\n2. Benutzer, die stummgeschaltete Videos herunterladen müssen.\n\nVerwendung:\n1. Laden Sie die zu stummschaltende Videodatei in das Tool hoch.\n2. Das Tool schaltet das Video automatisch stumm und zeigt das stummgeschaltete Video auf der Seite an.\n3. Klicken Sie auf die Schaltfläche Download, um das stummgeschaltete Video herunterzuladen.\n\nAbhängigkeiten:\n1. video-mute.ts: Exportiert das Video Mute-Komponente.\n2. video-mute.vue: Quellcode-Datei der Video Mute-Komponente, einschließlich der Logik zum Hochladen und Stummschalten von Videos.\n3. UploadVideoComponents.vue: Quellcode-Datei der Video-Upload-Komponente, einschließlich der Logik zum Hochladen und Vorschau von Videos.",
+            "$keywords": [
+                "Online-Video-Stummschaltung",
+                "Stummschaltung",
+                "FFmpeg",
+                "Video",
+                "Stumm"
+            ]
+        },
+        "fr": {
+            "$name": "Video Mute",
+            "$description": "Nom de l'outil : Video Mute\n\nDescription de l'outil :\nVideo Mute est un outil en ligne de mise en sourdine de vidéos. Il permet de mettre en sourdine les fichiers vidéo téléchargés et de les télécharger à nouveau. Cet outil utilise les bibliothèques Vue.js et FFmpeg.\n\nScénarios d'utilisation :\n1. Utilisateurs qui ont besoin de mettre en sourdine des fichiers vidéo.\n2. Utilisateurs qui ont besoin de télécharger des fichiers vidéo mis en sourdine.\n\nMode d'utilisation :\n1. Téléchargez le fichier vidéo que vous souhaitez mettre en sourdine.\n2. L'outil mettra automatiquement le fichier en sourdine et affichera la vidéo mise en sourdine sur la page.\n3. Cliquez sur le bouton Télécharger pour télécharger la vidéo mise en sourdine.\n\nExplication des fichiers dépendants :\n1. video-mute.ts : Exporte le composant Video Mute.\n2. video-mute.vue : Fichier source du composant Video Mute, contenant la logique de téléchargement et de mise en sourdine de la vidéo.\n3. UploadVideoComponents.vue : Fichier source du composant de téléchargement de vidéo, contenant la logique de téléchargement et de prévisualisation de la vidéo.",
+            "$keywords": [
+                "mise en sourdine de vidéos en ligne",
+                "mise en sourdine",
+                "FFmpeg",
+                "vidéo",
+                "sourdine"
+            ]
+        },
+        "it": {
+            "$name": "Video Mute",
+            "$description": "Nome strumento: Video Mute\n\nDescrizione strumento:\nVideo Mute è uno strumento online per la disattivazione dell'audio dei video. Può disattivare l'audio dei file video caricati e fornisce la funzione di download. Questo strumento utilizza le librerie Vue.js e FFmpeg.\n\nScenari d'uso:\n1. Utenti che hanno bisogno di disattivare l'audio dei file video.\n2. Utenti che hanno bisogno di scaricare i file video disattivati.\n\nModalità d'uso:\n1. Caricare il file video che si desidera disattivare.\n2. Lo strumento disattiverà automaticamente l'audio e mostrerà il file video disattivato sulla pagina.\n3. Fare clic sul pulsante Download per scaricare il file video disattivato.\n\nSpiegazione dei file dipendenti:\n1. video-mute.ts: esporta il componente Video Mute.\n2. video-mute.vue: file sorgente del componente Video Mute, che include la logica di caricamento e disattivazione dell'audio del video.\n3. UploadVideoComponents.vue: file sorgente del componente di caricamento video, che include la logica di caricamento e anteprima del video.",
+            "$keywords": [
+                "disattivazione audio video online",
+                "disattivazione audio",
+                "FFmpeg",
+                "video",
+                "mute"
+            ]
+        },
+        "ru": {
+            "$name": "Video Mute",
+            "$description": "Название инструмента: Video Mute\n\nОписание инструмента:\nVideo Mute - это онлайн-инструмент для отключения звука в видео, который позволяет обрабатывать загруженные видеофайлы и предоставляет функцию загрузки. Этот инструмент использует библиотеки Vue.js и FFmpeg.\n\nСферы применения:\n1. Пользователи, которым нужно отключить звук в видеофайлах.\n2. Пользователи, которым нужно загрузить видеофайлы без звука.\n\nСпособ применения:\n1. Загрузите видеофайл, который нужно обработать.\n2. Инструмент автоматически отключит звук и отобразит обработанный видеофайл на странице.\n3. Нажмите кнопку «Скачать», чтобы загрузить обработанный видеофайл.\n\nОбъяснение зависимостей:\n1. video-mute.ts: экспортирует компонент Video Mute.\n2. video-mute.vue: исходный код компонента Video Mute, содержащий логику загрузки и обработки видео.\n3. UploadVideoComponents.vue: исходный код компонента загрузки видео, содержащий логику загрузки и предварительного просмотра.",
+            "$keywords": [
+                "онлайн-инструмент для отключения звука в видео",
+                "отключение звука",
+                "FFmpeg",
+                "видео",
+                "без звука"
+            ]
+        },
+        "pt": {
+            "$name": "Video Mute",
+            "$description": "Nome da ferramenta: Video Mute\n\nDescrição da ferramenta:\nVideo Mute é uma ferramenta online de mudo de vídeo que pode silenciar arquivos de vídeo enviados e fornecer a opção de download. Esta ferramenta utiliza as bibliotecas Vue.js e FFmpeg.\n\nCenários de uso:\n1. Usuários que precisam silenciar arquivos de vídeo.\n2. Usuários que precisam baixar arquivos de vídeo silenciados.\n\nInstruções de uso:\n1. Envie o arquivo de vídeo que precisa ser silenciado para a ferramenta.\n2. A ferramenta irá silenciar automaticamente o vídeo e exibir o arquivo silenciado na página.\n3. Clique no botão Download para baixar o arquivo de vídeo silenciado.\n\nDescrição dos arquivos dependentes:\n1. video-mute.ts: exporta o componente Video Mute.\n2. video-mute.vue: arquivo de código-fonte do componente Video Mute, que inclui a lógica de upload e silenciamento de vídeo.\n3. UploadVideoComponents.vue: arquivo de código-fonte do componente de upload de vídeo, que inclui a lógica de upload e visualização.",
+            "$keywords": [
+                "online video mute",
+                "silenciamento de vídeo",
+                "FFmpeg",
+                "vídeo",
+                "mudo"
+            ]
+        }
+    },
+    {
+        "id": "extract-audio-from-video",
+        "zh-cn": {
+            "$name": "提取视频中音频",
+            "$description": "从视频中提取音频 工具说明文档：\n\n功能描述：\n\n从视频中提取音频 工具是一个用于从视频文件中提取音频的工具。它可以将视频文件中的音频提取出来并保存为独立的音频文件，方便用户进行后续处理。\n\n使用场景：\n\n1. 音频提取：用户可以使用从视频中提取音频 工具从视频文件中提取音频，以便进行后续处理，如剪辑、转码等。\n\n2. 音频转换：用户可以使用从视频中提取音频 工具将提取出来的音频文件转换为其他格式，以便在不同的设备上播放。\n\n3. 音频编辑：用户可以使用从视频中提取音频 工具提取出来的音频文件进行编辑，如剪辑、混音等。\n\n使用方法：\n\n1. 打开从视频中提取音频 工具。\n\n2. 点击“选择文件”按钮，选择要提取音频的视频文件。\n\n3. 点击“提取音频”按钮，等待工具提取音频并保存为独立的音频文件。\n\n4. 可以选择“转换格式”按钮，将提取出来的音频文件转换为其他格式。\n\n5. 可以选择“编辑音频”按钮，对提取出来的音频文件进行编辑。\n\n注意事项：\n\n1. 从视频中提取音频 工具只支持提取视频文件中的音频，不支持提取视频文件中的视频。\n\n2. 提取音频的速度取决于视频文件的大小和计算机的性能。\n\n3. 转换格式和编辑音频功能需要用户自行安装相应的软件。\n\n4. 提取出来的音频文件保存在与视频文件相同的目录下。",
+            "$keywords": [
+                "提取音频",
+                "音频转换",
+                "音频编辑",
+                "视频文件",
+                "后续处理"
+            ]
+        },
+        "zh-tw": {
+            "$name": "從視頻中提取音頻",
+            "$description": "從視頻中提取音頻 工具說明：\n\n功能描述：\n\n從視頻中提取音頻 工具是一個用於從視頻文件中提取音頻的工具。它可以將視頻文件中的音頻提取出來並保存為獨立的音頻文件，方便用戶進行後續處理。\n\n使用場景：\n\n1. 音頻提取：用戶可以使用從視頻中提取音頻工具從視頻文件中提取音頻，以便進行後續處理，如剪輯、轉碼等。\n\n2. 音頻轉換：用戶可以使用從視頻中提取音頻工具將提取出來的音頻文件轉換為其他格式，以便在不同的設備上播放。\n\n3. 音頻編輯：用戶可以使用從視頻中提取音頻工具提取出來的音頻文件進行編輯，如剪輯、混音等。\n\n使用方法：\n\n1. 打開從視頻中提取音頻工具。\n\n2. 點擊“選擇文件”按鈕，選擇要提取音頻的視頻文件。\n\n3. 點擊“提取音頻”按鈕，等待工具提取音頻並保存為獨立的音頻文件。\n\n4. 可以選擇“轉換格式”按鈕，將提取出來的音頻文件轉換為其他格式。\n\n5. 可以選擇“編輯音頻”按鈕，對提取出來的音頻文件進行編輯。\n\n注意事項：\n\n1. 從視頻中提取音頻工具只支持提取視頻文件中的音頻，不支持提取視頻文件中的視頻。\n\n2. 提取音頻的速度取決於視頻文件的大小和計算機的性能。\n\n3. 轉換格式和編輯音頻功能需要用戶自行安裝相應的軟件。\n\n4. 提取出來的音頻文件保存在與視頻文件相同的目錄下。",
+            "$keywords": [
+                "提取音頻",
+                "音頻轉換",
+                "音頻編輯",
+                "視頻文件",
+                "後續處理"
+            ]
+        },
+        "en": {
+            "$name": "Extract Audio From Video",
+            "$description": "Tool Description:\n\nFunctionality:\n\nExtract Audio From Video is a tool used to extract audio from video files. It can extract the audio from a video file and save it as a separate audio file, making it convenient for users to perform further processing.\n\nUse Cases:\n\n1. Audio Extraction: Users can use the Extract Audio From Video tool to extract audio from video files for further processing, such as editing, transcoding, etc.\n\n2. Audio Conversion: Users can use the Extract Audio From Video tool to convert the extracted audio file to other formats for playback on different devices.\n\n3. Audio Editing: Users can use the Extract Audio From Video tool to edit the extracted audio file, such as cutting, mixing, etc.\n\nUsage:\n\n1. Open the Extract Audio From Video tool.\n\n2. Click the 'Select File' button to select the video file from which to extract audio.\n\n3. Click the 'Extract Audio' button and wait for the tool to extract the audio and save it as a separate audio file.\n\n4. Users can select the 'Convert Format' button to convert the extracted audio file to other formats.\n\n5. Users can select the 'Edit Audio' button to edit the extracted audio file.\n\nNotes:\n\n1. The Extract Audio From Video tool only supports extracting audio from video files, not video.\n\n2. The speed of audio extraction depends on the size of the video file and the performance of the computer.\n\n3. The format conversion and audio editing functions require users to install the corresponding software themselves.\n\n4. The extracted audio file is saved in the same directory as the video file.",
+            "$keywords": [
+                "audio extraction",
+                "audio conversion",
+                "audio editing",
+                "video files",
+                "further processing"
+            ]
+        },
+        "es": {
+            "$name": "Extraer Audio de Video",
+            "$description": "Extraer Audio de Video Descripción de la Herramienta:\n\nDescripción de la Función:\n\nExtraer Audio de Video es una herramienta que se utiliza para extraer el audio de un archivo de video. Puede extraer el audio del archivo de video y guardarlo como un archivo de audio independiente, lo que facilita el procesamiento posterior por parte del usuario.\n\nEscenarios de Uso:\n\n1. Extracción de Audio: Los usuarios pueden utilizar la herramienta Extraer Audio de Video para extraer el audio de un archivo de video para su posterior procesamiento, como la edición y la conversión.\n\n2. Conversión de Audio: Los usuarios pueden utilizar la herramienta Extraer Audio de Video para convertir el archivo de audio extraído a otros formatos para su reproducción en diferentes dispositivos.\n\n3. Edición de Audio: Los usuarios pueden utilizar la herramienta Extraer Audio de Video para editar el archivo de audio extraído, como la edición y la mezcla.\n\nInstrucciones de Uso:\n\n1. Abra la herramienta Extraer Audio de Video.\n\n2. Haga clic en el botón \"Seleccionar Archivo\" y seleccione el archivo de video del que desea extraer el audio.\n\n3. Haga clic en el botón \"Extraer Audio\" y espere a que la herramienta extraiga el audio y lo guarde como un archivo de audio independiente.\n\n4. Puede hacer clic en el botón \"Convertir Formato\" para convertir el archivo de audio extraído a otros formatos.\n\n5. Puede hacer clic en el botón \"Editar Audio\" para editar el archivo de audio extraído.\n\nNotas:\n\n1. La herramienta Extraer Audio de Video solo admite la extracción de audio de archivos de video, no la extracción de video de archivos de video.\n\n2. La velocidad de extracción de audio depende del tamaño del archivo de video y del rendimiento de la computadora.\n\n3. La función de conversión de formato y edición de audio requiere que el usuario instale el software correspondiente.\n\n4. El archivo de audio extraído se guarda en el mismo directorio que el archivo de video.",
+            "$keywords": [
+                "Extraer Audio",
+                "Conversión de Audio",
+                "Edición de Audio",
+                "Archivo de Video",
+                "Procesamiento Posterior"
+            ]
+        },
+        "ja": {
+            "$name": "ビデオからオーディオを抽出する",
+            "$description": "ビデオからオーディオを抽出するツールの説明書：\n\n機能説明：\n\nビデオからオーディオを抽出するツールは、ビデオファイルから音声を抽出するためのツールです。ビデオファイルから音声を抽出し、独立したオーディオファイルとして保存することができます。これにより、ユーザーは後続の処理を容易に行うことができます。\n\n使用シーン：\n\n1. 音声抽出：ユーザーはビデオからオーディオを抽出するツールを使用して、後続の処理（クリップ、トランスコードなど）のために音声を抽出することができます。\n\n2. 音声変換：ユーザーはビデオから抽出したオーディオファイルを他の形式に変換することができます。これにより、異なるデバイスで再生することができます。\n\n3. 音声編集：ユーザーはビデオから抽出したオーディオファイルを編集することができます。例えば、クリップ、ミキシングなどがあります。\n\n使用方法：\n\n1. ビデオからオーディオを抽出するツールを開きます。\n\n2. 「ファイルを選択」ボタンをクリックして、音声を抽出するビデオファイルを選択します。\n\n3. 「音声を抽出」ボタンをクリックして、ツールが音声を抽出し、独立したオーディオファイルとして保存するのを待ちます。\n\n4. 「形式を変換」ボタンを選択して、抽出したオーディオファイルを他の形式に変換することができます。\n\n5. 「音声を編集」ボタンを選択して、抽出したオーディオファイルを編集することができます。\n\n注意事項：\n\n1. ビデオからオーディオを抽出するツールは、ビデオファイルから音声のみを抽出することができます。ビデオファイルからビデオを抽出することはできません。\n\n2. 音声の抽出速度は、ビデオファイルのサイズとコンピュータの性能に依存します。\n\n3. 形式変換と音声編集の機能には、ユーザーが必要なソフトウェアをインストールする必要があります。\n\n4. 抽出したオーディオファイルは、ビデオファイルと同じディレクトリに保存されます。",
+            "$keywords": [
+                "音声抽出",
+                "音声変換",
+                "音声編集",
+                "ビデオファイル",
+                "後続処理"
+            ]
+        },
+        "ko": {
+            "$name": "비디오에서 오디오 추출",
+            "$description": "비디오에서 오디오 추출 도구 설명서:\n\n기능 설명:\n\n비디오에서 오디오 추출 도구는 비디오 파일에서 오디오를 추출하는 데 사용되는 도구입니다. 이 도구는 비디오 파일에서 오디오를 추출하여 독립적인 오디오 파일로 저장할 수 있으며, 사용자가 후속 처리를 수행할 수 있도록 합니다.\n\n사용 시나리오:\n\n1. 오디오 추출: 사용자는 비디오에서 오디오를 추출하기 위해 비디오에서 오디오 추출 도구를 사용할 수 있으며, 이를 통해 편집, 인코딩 등 후속 처리를 수행할 수 있습니다.\n\n2. 오디오 변환: 사용자는 추출된 오디오 파일을 다른 형식으로 변환하여 다른 장치에서 재생할 수 있도록 비디오에서 오디오 추출 도구를 사용할 수 있습니다.\n\n3. 오디오 편집: 사용자는 추출된 오디오 파일을 편집하여 편집, 믹싱 등을 수행할 수 있습니다.\n\n사용 방법:\n\n1. 비디오에서 오디오 추출 도구를 엽니다.\n\n2. '파일 선택' 버튼을 클릭하여 오디오를 추출할 비디오 파일을 선택합니다.\n\n3. '오디오 추출' 버튼을 클릭하여 도구가 오디오를 추출하고 독립적인 오디오 파일로 저장되도록 기다립니다.\n\n4. 추출된 오디오 파일을 다른 형식으로 변환하려면 '형식 변환' 버튼을 선택할 수 있습니다.\n\n5. 추출된 오디오 파일을 편집하려면 '오디오 편집' 버튼을 선택할 수 있습니다.\n\n주의 사항:\n\n1. 비디오에서 오디오 추출 도구는 비디오 파일에서 오디오만 추출할 수 있으며, 비디오 파일에서 비디오를 추출할 수 없습니다.\n\n2. 오디오 추출 속도는 비디오 파일의 크기와 컴퓨터 성능에 따라 달라집니다.\n\n3. 형식 변환 및 오디오 편집 기능은 사용자가 해당 소프트웨어를 직접 설치해야 합니다.\n\n4. 추출된 오디오 파일은 비디오 파일과 동일한 디렉토리에 저장됩니다.",
+            "$keywords": [
+                "오디오 추출",
+                "오디오 변환",
+                "오디오 편집",
+                "비디오 파일",
+                "후속 처리"
+            ]
+        },
+        "de": {
+            "$name": "Extrahieren von Audio aus Video",
+            "$description": "Extrahieren von Audio aus Video Tool Beschreibung:\n\nFunktionsbeschreibung:\n\nDas Extract Audio From Video Tool ist ein Tool zum Extrahieren von Audio aus Videodateien. Es kann das Audio aus Videodateien extrahieren und als eigenständige Audiodatei speichern, um es dem Benutzer für weitere Verarbeitung zur Verfügung zu stellen.\n\nAnwendungsbereiche:\n\n1. Audio-Extraktion: Benutzer können das Extract Audio From Video Tool verwenden, um Audio aus Videodateien zu extrahieren, um es für weitere Verarbeitung wie Schneiden, Transcodieren usw. zu verwenden.\n\n2. Audio-Konvertierung: Benutzer können das Extract Audio From Video Tool verwenden, um die extrahierte Audiodatei in andere Formate zu konvertieren, um sie auf verschiedenen Geräten abzuspielen.\n\n3. Audio-Bearbeitung: Benutzer können das mit dem Extract Audio From Video Tool extrahierte Audio bearbeiten, z.B. schneiden, mischen usw.\n\nVerwendung:\n\n1. Öffnen Sie das Extract Audio From Video Tool.\n\n2. Klicken Sie auf die Schaltfläche \"Datei auswählen\", um die Videodatei auszuwählen, aus der das Audio extrahiert werden soll.\n\n3. Klicken Sie auf die Schaltfläche \"Audio extrahieren\", um das Tool das Audio extrahieren und als eigenständige Audiodatei speichern zu lassen.\n\n4. Sie können die Schaltfläche \"Format konvertieren\" auswählen, um die extrahierte Audiodatei in andere Formate zu konvertieren.\n\n5. Sie können die Schaltfläche \"Audio bearbeiten\" auswählen, um das extrahierte Audio zu bearbeiten.\n\nHinweise:\n\n1. Das Extract Audio From Video Tool unterstützt nur das Extrahieren von Audio aus Videodateien und nicht das Extrahieren von Video aus Videodateien.\n\n2. Die Geschwindigkeit der Audio-Extraktion hängt von der Größe der Videodatei und der Leistung des Computers ab.\n\n3. Die Funktionen Formatkonvertierung und Audio-Bearbeitung erfordern, dass der Benutzer die entsprechende Software installiert.\n\n4. Die extrahierte Audiodatei wird im selben Verzeichnis wie die Videodatei gespeichert.",
+            "$keywords": [
+                "Audio extrahieren",
+                "Audio konvertieren",
+                "Audio bearbeiten",
+                "Videodatei",
+                "Weiterverarbeitung"
+            ]
+        },
+        "fr": {
+            "$name": "Extraire l'audio de la vidéo",
+            "$description": "Extraire l'audio de la vidéo Description de l'outil :\n\nDescription des fonctionnalités :\n\nL'outil Extract Audio From Video est un outil permettant d'extraire l'audio d'un fichier vidéo. Il peut extraire l'audio d'un fichier vidéo et le sauvegarder en tant que fichier audio indépendant, ce qui facilite le traitement ultérieur par l'utilisateur.\n\nScénarios d'utilisation :\n\n1. Extraction audio : les utilisateurs peuvent utiliser l'outil Extract Audio From Video pour extraire l'audio d'un fichier vidéo afin de le traiter ultérieurement, tel que le montage, la conversion, etc.\n\n2. Conversion audio : les utilisateurs peuvent utiliser l'outil Extract Audio From Video pour convertir le fichier audio extrait en d'autres formats pour une lecture sur différents appareils.\n\n3. Édition audio : les utilisateurs peuvent utiliser l'outil Extract Audio From Video pour éditer le fichier audio extrait, tel que le montage, le mixage, etc.\n\nMode d'emploi :\n\n1. Ouvrez l'outil Extract Audio From Video.\n\n2. Cliquez sur le bouton \"Sélectionner un fichier\" pour sélectionner le fichier vidéo à partir duquel extraire l'audio.\n\n3. Cliquez sur le bouton \"Extraire l'audio\" et attendez que l'outil extrait l'audio et le sauvegarde en tant que fichier audio indépendant.\n\n4. Vous pouvez sélectionner le bouton \"Convertir le format\" pour convertir le fichier audio extrait en d'autres formats.\n\n5. Vous pouvez sélectionner le bouton \"Éditer l'audio\" pour éditer le fichier audio extrait.\n\nRemarques :\n\n1. L'outil Extract Audio From Video ne prend en charge que l'extraction de l'audio des fichiers vidéo et non l'extraction de la vidéo des fichiers vidéo.\n\n2. La vitesse d'extraction audio dépend de la taille du fichier vidéo et des performances de l'ordinateur.\n\n3. Les fonctions de conversion de format et d'édition audio nécessitent que l'utilisateur installe le logiciel correspondant.\n\n4. Les fichiers audio extraits sont enregistrés dans le même répertoire que le fichier vidéo.",
+            "$keywords": [
+                "Extraction audio",
+                "Conversion audio",
+                "Édition audio",
+                "Fichier vidéo",
+                "Traitement ultérieur"
+            ]
+        },
+        "it": {
+            "$name": "Estrai Audio da Video",
+            "$description": "Estrai Audio da Video Descrizione dello Strumento:\n\nDescrizione delle Funzionalità:\n\nEstrai Audio da Video è uno strumento utilizzato per estrarre l'audio dai file video. Può estrarre l'audio dal file video e salvarlo come file audio indipendente, per facilitare l'elaborazione successiva dell'utente.\n\nScenari di Utilizzo:\n\n1. Estrazione Audio: gli utenti possono utilizzare lo strumento Estrai Audio da Video per estrarre l'audio dal file video, per l'elaborazione successiva, come il taglio, la conversione, ecc.\n\n2. Conversione Audio: gli utenti possono utilizzare lo strumento Estrai Audio da Video per convertire il file audio estratto in altri formati, per la riproduzione su diversi dispositivi.\n\n3. Modifica Audio: gli utenti possono utilizzare lo strumento Estrai Audio da Video per modificare il file audio estratto, come il taglio, il mixaggio, ecc.\n\nModalità di Utilizzo:\n\n1. Aprire lo strumento Estrai Audio da Video.\n\n2. Fare clic sul pulsante \"Seleziona File\" e selezionare il file video da cui estrarre l'audio.\n\n3. Fare clic sul pulsante \"Estrai Audio\" e attendere che lo strumento estragga l'audio e lo salvi come file audio indipendente.\n\n4. È possibile selezionare il pulsante \"Converti Formato\" per convertire il file audio estratto in altri formati.\n\n5. È possibile selezionare il pulsante \"Modifica Audio\" per modificare il file audio estratto.\n\nNote:\n\n1. Lo strumento Estrai Audio da Video supporta solo l'estrazione dell'audio dal file video e non l'estrazione del video dal file video.\n\n2. La velocità di estrazione dell'audio dipende dalle dimensioni del file video e dalle prestazioni del computer.\n\n3. La funzione di conversione del formato e di modifica dell'audio richiede all'utente di installare il software corrispondente.\n\n4. Il file audio estratto viene salvato nella stessa directory del file video.",
+            "$keywords": [
+                "Estrazione Audio",
+                "Conversione Audio",
+                "Modifica Audio",
+                "File Video",
+                "Elaborazione Successiva"
+            ]
+        },
+        "ru": {
+            "$name": "Извлечение аудио из видео",
+            "$description": "Извлечение аудио из видео Описание инструмента:\n\nОписание функций:\n\nИзвлечение аудио из видео - это инструмент для извлечения аудио из видеофайлов. Он может извлекать аудио из видеофайлов и сохранять его в отдельных аудиофайлах, что упрощает последующую обработку пользователем.\n\nСценарии использования:\n\n1. Извлечение аудио: пользователи могут использовать инструмент Извлечение аудио из видео для извлечения аудио из видеофайлов для последующей обработки, такой как обрезка, кодирование и т. д.\n\n2. Конвертация аудио: пользователи могут использовать инструмент Извлечение аудио из видео для конвертации извлеченных аудиофайлов в другие форматы для воспроизведения на разных устройствах.\n\n3. Редактирование аудио: пользователи могут использовать инструмент Извлечение аудио из видео для редактирования извлеченных аудиофайлов, таких как обрезка, микширование и т. д.\n\nИнструкция по использованию:\n\n1. Откройте инструмент Извлечение аудио из видео.\n\n2. Нажмите кнопку «Выбрать файл», чтобы выбрать видеофайл, из которого нужно извлечь аудио.\n\n3. Нажмите кнопку «Извлечь аудио» и дождитесь, пока инструмент извлечет аудио и сохранит его в отдельный аудиофайл.\n\n4. Вы можете нажать кнопку «Конвертировать формат», чтобы конвертировать извлеченный аудиофайл в другой формат.\n\n5. Вы можете нажать кнопку «Редактировать аудио», чтобы отредактировать извлеченный аудиофайл.\n\nПримечания:\n\n1. Инструмент Извлечение аудио из видео поддерживает только извлечение аудио из видеофайлов, не поддерживает извлечение видео из видеофайлов.\n\n2. Скорость извлечения аудио зависит от размера видеофайла и производительности компьютера.\n\n3. Функции конвертирования формата и редактирования аудио требуют установки соответствующего программного обеспечения пользователем.\n\n4. Извлеченный аудиофайл сохраняется в той же директории, что и видеофайл.",
+            "$keywords": [
+                "извлечение аудио",
+                "конвертация аудио",
+                "редактирование аудио",
+                "видеофайлы",
+                "обработка"
+            ]
+        },
+        "pt": {
+            "$name": "Extrair Áudio de Vídeo",
+            "$description": "Extrair Áudio de Vídeo Documento de Descrição da Ferramenta:\n\nDescrição da Funcionalidade:\n\nA ferramenta Extrair Áudio de Vídeo é uma ferramenta utilizada para extrair áudio de arquivos de vídeo. Ele pode extrair o áudio do arquivo de vídeo e salvá-lo como um arquivo de áudio independente, facilitando o processamento posterior pelo usuário.\n\nCenários de Uso:\n\n1. Extração de Áudio: O usuário pode usar a ferramenta Extrair Áudio de Vídeo para extrair áudio de arquivos de vídeo para processamento posterior, como edição, transcodificação, etc.\n\n2. Conversão de Áudio: O usuário pode usar a ferramenta Extrair Áudio de Vídeo para converter o arquivo de áudio extraído em outros formatos para reprodução em diferentes dispositivos.\n\n3. Edição de Áudio: O usuário pode usar a ferramenta Extrair Áudio de Vídeo para editar o arquivo de áudio extraído, como cortar, mixar, etc.\n\nInstruções de Uso:\n\n1. Abra a ferramenta Extrair Áudio de Vídeo.\n\n2. Clique no botão \"Selecionar Arquivo\" e selecione o arquivo de vídeo do qual deseja extrair o áudio.\n\n3. Clique no botão \"Extrair Áudio\" e aguarde a ferramenta extrair o áudio e salvá-lo como um arquivo de áudio independente.\n\n4. Você pode selecionar o botão \"Converter Formato\" para converter o arquivo de áudio extraído em outros formatos.\n\n5. Você pode selecionar o botão \"Editar Áudio\" para editar o arquivo de áudio extraído.\n\nObservações:\n\n1. A ferramenta Extrair Áudio de Vídeo suporta apenas a extração de áudio de arquivos de vídeo e não suporta a extração de vídeo de arquivos de vídeo.\n\n2. A velocidade de extração de áudio depende do tamanho do arquivo de vídeo e do desempenho do computador.\n\n3. A funcionalidade de conversão de formato e edição de áudio requer que o usuário instale o software correspondente.\n\n4. O arquivo de áudio extraído é salvo no mesmo diretório do arquivo de vídeo.",
+            "$keywords": [
+                "Extrair Áudio",
+                "Conversão de Áudio",
+                "Edição de Áudio",
+                "Arquivo de Vídeo",
+                "Processamento Posterior"
+            ]
+        }
+    },
+    {
+        "id": "loop-video",
+        "zh-cn": {
+            "$name": "循环视频",
+            "$description": "Loop Video 工具是一个用于循环播放视频的工具。它可以将视频循环播放，以便用户可以更好地观看视频内容。\n\n功能描述：\n\n1. 将视频文件导入到工具中。\n\n2. 工具会自动循环播放视频。\n\n3. 用户可以通过工具的控制面板控制视频的播放和暂停。\n\n使用场景：\n\n1. 视频制作：在视频制作过程中，制作人员需要反复观看视频以确保视频质量。使用 Loop Video 工具，他们可以轻松地循环播放视频，以便更好地观看视频内容。\n\n2. 视频编辑：在视频编辑过程中，编辑人员需要反复观看视频以确保视频质量。使用 Loop Video 工具，他们可以轻松地循环播放视频，以便更好地观看视频内容。\n\n3. 视频学习：在学习视频内容时，学习者需要反复观看视频以确保理解视频内容。使用 Loop Video 工具，他们可以轻松地循环播放视频，以便更好地理解视频内容。",
+            "$keywords": [
+                "循环播放",
+                "视频制作",
+                "视频编辑",
+                "循环",
+                "视频",
+                "MP4"
+            ]
+        },
+        "zh-tw": {
+            "$name": "循環播放",
+            "$description": "循環播放工具是一個用於循環播放視頻的工具。它可以將視頻循環播放，以便用戶可以更好地觀看視頻內容。\n\n功能描述：\n\n1. 將視頻文件導入到工具中。\n\n2. 工具會自動循環播放視頻。\n\n3. 用戶可以通過工具的控制面板控制視頻的播放和暫停。\n\n使用場景：\n\n1. 視頻製作：在視頻製作過程中，製作人員需要反復觀看視頻以確保視頻質量。使用循環播放工具，他們可以輕鬆地循環播放視頻，以便更好地觀看視頻內容。\n\n2. 視頻編輯：在視頻編輯過程中，編輯人員需要反復觀看視頻以確保視頻質量。使用循環播放工具，他們可以輕鬆地循環播放視頻，以便更好地觀看視頻內容。\n\n3. 視頻學習：在學習視頻內容時，學習者需要反復觀看視頻以確保理解視頻內容。使用循環播放工具，他們可以輕鬆地循環播放視頻，以便更好地理解視頻內容。",
+            "$keywords": [
+                "循環播放",
+                "視頻製作",
+                "視頻編輯",
+                "循環",
+                "視頻",
+                "MP4"
+            ]
+        },
+        "en": {
+            "$name": "Loop Video",
+            "$description": "Loop Video is a tool for looping videos. It can loop videos so that users can better watch the video content.\n\nFeatures:\n\n1. Import video files into the tool.\n\n2. The tool will automatically loop the video.\n\n3. Users can control the video playback and pause through the tool's control panel.\n\nUse cases:\n\n1. Video production: During the video production process, production staff need to watch the video repeatedly to ensure video quality. With Loop Video, they can easily loop the video to better watch the video content.\n\n2. Video editing: During the video editing process, editing staff need to watch the video repeatedly to ensure video quality. With Loop Video, they can easily loop the video to better watch the video content.\n\n3. Video learning: When learning video content, learners need to watch the video repeatedly to ensure understanding of the video content. With Loop Video, they can easily loop the video to better understand the video content.",
+            "$keywords": [
+                "looping",
+                "video production",
+                "video editing",
+                "loop",
+                "video",
+                "MP4"
+            ]
+        },
+        "es": {
+            "$name": "Loop Video",
+            "$description": "Loop Video es una herramienta para reproducir videos en bucle. Puede reproducir el video en bucle para que los usuarios puedan ver mejor el contenido del video.\n\nDescripción de la función:\n\n1. Importe el archivo de video a la herramienta.\n\n2. La herramienta reproducirá automáticamente el video en bucle.\n\n3. Los usuarios pueden controlar la reproducción y pausa del video a través del panel de control de la herramienta.\n\nEscenarios de uso:\n\n1. Producción de video: durante el proceso de producción de video, el personal de producción necesita ver el video repetidamente para asegurarse de la calidad del video. Con la herramienta Loop Video, pueden reproducir fácilmente el video en bucle para ver mejor el contenido del video.\n\n2. Edición de video: durante el proceso de edición de video, el personal de edición necesita ver el video repetidamente para asegurarse de la calidad del video. Con la herramienta Loop Video, pueden reproducir fácilmente el video en bucle para ver mejor el contenido del video.\n\n3. Aprendizaje de video: al aprender el contenido del video, los estudiantes necesitan ver el video repetidamente para asegurarse de que comprenden el contenido del video. Con la herramienta Loop Video, pueden reproducir fácilmente el video en bucle para comprender mejor el contenido del video.",
+            "$keywords": [
+                "reproducción en bucle",
+                "producción de video",
+                "edición de video",
+                "bucle",
+                "video",
+                "MP4"
+            ]
+        },
+        "ja": {
+            "$name": "ループビデオ",
+            "$description": "ループビデオは、ビデオを繰り返し再生するためのツールです。ビデオを繰り返し再生することで、ユーザーはビデオコンテンツをより良く視聴することができます。\n\n機能説明：\n\n1. ビデオファイルをツールにインポートします。\n\n2. ツールは自動的にビデオを繰り返し再生します。\n\n3. ユーザーはツールのコントロールパネルを使用してビデオの再生と一時停止を制御できます。\n\n使用シーン：\n\n1. ビデオ制作：ビデオ制作の過程で、制作者はビデオの品質を確認するためにビデオを繰り返し視聴する必要があります。ループビデオを使用すると、ビデオコンテンツをより良く視聴するためにビデオを簡単に繰り返し再生できます。\n\n2. ビデオ編集：ビデオ編集の過程で、編集者はビデオの品質を確認するためにビデオを繰り返し視聴する必要があります。ループビデオを使用すると、ビデオコンテンツをより良く視聴するためにビデオを簡単に繰り返し再生できます。\n\n3. ビデオ学習：ビデオコンテンツを学習する際に、学習者はビデオを繰り返し視聴して理解を深める必要があります。ループビデオを使用すると、ビデオコンテンツをより良く理解するためにビデオを簡単に繰り返し再生できます。",
+            "$keywords": [
+                "循環再生",
+                "ビデオ制作",
+                "ビデオ編集",
+                "ループ",
+                "ビデオ",
+                "MP4"
+            ]
+        },
+        "ko": {
+            "$name": "루프 비디오",
+            "$description": "루프 비디오는 비디오를 반복 재생하는 도구입니다. 이 도구를 사용하면 사용자가 비디오 콘텐츠를 더 잘 볼 수 있도록 비디오를 반복 재생할 수 있습니다.\n\n기능 설명:\n\n1. 비디오 파일을 도구에 가져옵니다.\n\n2. 도구는 비디오를 자동으로 반복 재생합니다.\n\n3. 사용자는 도구의 제어 패널을 통해 비디오 재생 및 일시 정지를 제어할 수 있습니다.\n\n사용 시나리오:\n\n1. 비디오 제작: 비디오 제작 과정에서 제작자는 비디오 품질을 보장하기 위해 비디오를 반복해서 볼 필요가 있습니다. 루프 비디오 도구를 사용하면 비디오를 반복 재생하여 비디오 콘텐츠를 더 잘 볼 수 있습니다.\n\n2. 비디오 편집: 비디오 편집 과정에서 편집자는 비디오 품질을 보장하기 위해 비디오를 반복해서 볼 필요가 있습니다. 루프 비디오 도구를 사용하면 비디오를 반복 재생하여 비디오 콘텐츠를 더 잘 볼 수 있습니다.\n\n3. 비디오 학습: 비디오 콘텐츠를 학습할 때 학습자는 비디오 콘텐츠를 이해하기 위해 비디오를 반복해서 볼 필요가 있습니다. 루프 비디오 도구를 사용하면 비디오를 반복 재생하여 비디오 콘텐츠를 더 잘 이해할 수 있습니다.",
+            "$keywords": [
+                "반복 재생",
+                "비디오 제작",
+                "비디오 편집",
+                "루프",
+                "비디오",
+                "MP4"
+            ]
+        },
+        "de": {
+            "$name": "Loop Video",
+            "$description": "Das Loop Video-Tool ist ein Tool zum kontinuierlichen Abspielen von Videos. Es kann Videos kontinuierlich abspielen, damit Benutzer den Inhalt des Videos besser sehen können.\n\nFunktionsbeschreibung:\n\n1. Importieren Sie Videodateien in das Tool.\n\n2. Das Tool spielt das Video automatisch in einer Schleife ab.\n\n3. Benutzer können das Abspielen und Anhalten des Videos über das Steuerungsfeld des Tools steuern.\n\nAnwendungsbereiche:\n\n1. Videoproduktion: Bei der Videoproduktion müssen die Mitarbeiter das Video wiederholt ansehen, um die Qualität des Videos zu gewährleisten. Mit dem Loop Video-Tool können sie das Video einfach in einer Schleife abspielen, um den Inhalt des Videos besser zu sehen.\n\n2. Video-Editing: Bei der Videobearbeitung müssen die Mitarbeiter das Video wiederholt ansehen, um die Qualität des Videos zu gewährleisten. Mit dem Loop Video-Tool können sie das Video einfach in einer Schleife abspielen, um den Inhalt des Videos besser zu sehen.\n\n3. Video-Lernen: Beim Lernen des Videoinhalts müssen die Lernenden das Video wiederholt ansehen, um den Inhalt des Videos zu verstehen. Mit dem Loop Video-Tool können sie das Video einfach in einer Schleife abspielen, um den Inhalt des Videos besser zu verstehen.",
+            "$keywords": [
+                "Schleife",
+                "Videoproduktion",
+                "Video-Editing",
+                "kontinuierlich",
+                "Video",
+                "MP4"
+            ]
+        },
+        "fr": {
+            "$name": "Loop Video",
+            "$description": "Loop Video est un outil pour lire en boucle des vidéos. Il permet de lire en boucle une vidéo pour que l'utilisateur puisse mieux comprendre le contenu de la vidéo.\n\nFonctionnalités :\n\n1. Importer des fichiers vidéo dans l'outil.\n\n2. L'outil lit automatiquement la vidéo en boucle.\n\n3. L'utilisateur peut contrôler la lecture et la pause de la vidéo à l'aide du panneau de contrôle de l'outil.\n\nScénarios d'utilisation :\n\n1. Production de vidéos : lors de la production de vidéos, les producteurs doivent regarder la vidéo à plusieurs reprises pour s'assurer de la qualité de la vidéo. Avec l'outil Loop Video, ils peuvent facilement lire en boucle la vidéo pour mieux comprendre le contenu de la vidéo.\n\n2. Montage vidéo : lors du montage vidéo, les monteurs doivent regarder la vidéo à plusieurs reprises pour s'assurer de la qualité de la vidéo. Avec l'outil Loop Video, ils peuvent facilement lire en boucle la vidéo pour mieux comprendre le contenu de la vidéo.\n\n3. Apprentissage vidéo : lors de l'apprentissage du contenu vidéo, les apprenants doivent regarder la vidéo à plusieurs reprises pour comprendre le contenu de la vidéo. Avec l'outil Loop Video, ils peuvent facilement lire en boucle la vidéo pour mieux comprendre le contenu de la vidéo.",
+            "$keywords": [
+                "lecture en boucle",
+                "production de vidéos",
+                "montage vidéo",
+                "boucle",
+                "vidéo",
+                "MP4"
+            ]
+        },
+        "it": {
+            "$name": "Loop Video",
+            "$description": "Loop Video è uno strumento per riprodurre in loop i video. Consente di riprodurre continuamente i video per consentire agli utenti di visualizzare meglio il contenuto del video.\n\nDescrizione delle funzionalità:\n\n1. Importare il file video nello strumento.\n\n2. Lo strumento riprodurrà automaticamente il video in loop.\n\n3. Gli utenti possono controllare la riproduzione e la pausa del video tramite il pannello di controllo dello strumento.\n\nScenari di utilizzo:\n\n1. Produzione video: durante il processo di produzione video, il personale di produzione deve visualizzare ripetutamente il video per garantire la qualità del video. Utilizzando lo strumento Loop Video, possono riprodurre facilmente il video in loop per visualizzare meglio il contenuto del video.\n\n2. Modifica video: durante il processo di modifica video, il personale di modifica deve visualizzare ripetutamente il video per garantire la qualità del video. Utilizzando lo strumento Loop Video, possono riprodurre facilmente il video in loop per visualizzare meglio il contenuto del video.\n\n3. Apprendimento video: durante l'apprendimento del contenuto video, gli studenti devono visualizzare ripetutamente il video per garantire la comprensione del contenuto video. Utilizzando lo strumento Loop Video, possono riprodurre facilmente il video in loop per comprendere meglio il contenuto del video.",
+            "$keywords": [
+                "Riproduzione in loop",
+                "Produzione video",
+                "Modifica video",
+                "Loop",
+                "Video",
+                "MP4"
+            ]
+        },
+        "ru": {
+            "$name": "Loop Video",
+            "$description": "Loop Video инструмент для циклического воспроизведения видео. Он может повторять воспроизведение видео, чтобы пользователи могли лучше просматривать содержимое видео.\n\nОписание функций:\n\n1. Импорт видеофайлов в инструмент.\n\n2. Инструмент автоматически повторяет воспроизведение видео.\n\n3. Пользователи могут управлять воспроизведением и паузой видео через панель управления инструмента.\n\nСферы применения:\n\n1. Создание видео: в процессе создания видео производственный персонал должен многократно просматривать видео, чтобы гарантировать качество видео. Используя инструмент Loop Video, они могут легко повторять воспроизведение видео, чтобы лучше просматривать содержимое видео.\n\n2. Редактирование видео: в процессе редактирования видео редакторы должны многократно просматривать видео, чтобы гарантировать качество видео. Используя инструмент Loop Video, они могут легко повторять воспроизведение видео, чтобы лучше просматривать содержимое видео.\n\n3. Обучение на видео: при изучении содержимого видео учащиеся должны многократно просматривать видео, чтобы гарантировать понимание содержимого видео. Используя инструмент Loop Video, они могут легко повторять воспроизведение видео, чтобы лучше понимать содержимое видео.",
+            "$keywords": [
+                "циклическое воспроизведение",
+                "создание видео",
+                "редактирование видео",
+                "цикл",
+                "видео",
+                "MP4"
+            ]
+        },
+        "pt": {
+            "$name": "Loop Video",
+            "$description": "Loop Video é uma ferramenta para reproduzir vídeos em loop. Ele permite que os usuários assistam ao conteúdo do vídeo de forma mais eficiente.\n\nDescrição das funcionalidades:\n\n1. Importe arquivos de vídeo para a ferramenta.\n\n2. A ferramenta reproduzirá automaticamente o vídeo em loop.\n\n3. Os usuários podem controlar a reprodução e pausa do vídeo através do painel de controle da ferramenta.\n\nCenários de uso:\n\n1. Produção de vídeo: Durante o processo de produção de vídeo, os produtores precisam assistir ao vídeo repetidamente para garantir a qualidade. Com a ferramenta Loop Video, eles podem facilmente reproduzir o vídeo em loop para assistir ao conteúdo de forma mais eficiente.\n\n2. Edição de vídeo: Durante o processo de edição de vídeo, os editores precisam assistir ao vídeo repetidamente para garantir a qualidade. Com a ferramenta Loop Video, eles podem facilmente reproduzir o vídeo em loop para assistir ao conteúdo de forma mais eficiente.\n\n3. Aprendizado de vídeo: Durante o processo de aprendizado de vídeo, os alunos precisam assistir ao vídeo repetidamente para garantir a compreensão do conteúdo. Com a ferramenta Loop Video, eles podem facilmente reproduzir o vídeo em loop para entender melhor o conteúdo.",
+            "$keywords": [
+                "reprodução em loop",
+                "produção de vídeo",
+                "edição de vídeo",
+                "loop",
+                "vídeo",
+                "MP4"
+            ]
+        }
+    },
+    {
+        "id": "flip-video",
+        "zh-cn": {
+            "$name": "翻转视频",
+            "$description": "Flip Video 工具是一个用于翻转视频的工具。它可以将视频水平或垂直翻转，以达到不同的效果。\n\n功能描述：\n\n1. 支持将视频水平或垂直翻转。\n\n2. 支持选择要翻转的视频文件。\n\n3. 支持预览翻转后的视频效果。\n\n4. 支持保存翻转后的视频文件。\n\n使用场景：\n\n1. 视频编辑：在视频编辑过程中，可能需要将视频翻转以达到特定的效果。使用 Flip Video 工具可以轻松地实现视频翻转功能。\n\n2. 视频制作：在视频制作过程中，可能需要将视频翻转以达到特定的效果。使用 Flip Video 工具可以轻松地实现视频翻转功能。\n\n3. 视频播放：在观看视频时，可能需要将视频翻转以达到更好的观看效果。使用 Flip Video 工具可以轻松地实现视频翻转功能。",
+            "$keywords": [
+                "翻转视频",
+                "水平翻转",
+                "垂直翻转",
+                "视频",
+                "翻转"
+            ]
+        },
+        "zh-tw": {
+            "$name": "Flip Video",
+            "$description": "Flip Video 工具是一個用於翻轉視頻的工具。它可以將視頻水平或垂直翻轉，以達到不同的效果。\n\n功能描述：\n\n1. 支持將視頻水平或垂直翻轉。\n\n2. 支持選擇要翻轉的視頻文件。\n\n3. 支持預覽翻轉後的視頻效果。\n\n4. 支持保存翻轉後的視頻文件。\n\n使用場景：\n\n1. 視頻編輯：在視頻編輯過程中，可能需要將視頻翻轉以達到特定的效果。使用 Flip Video 工具可以輕鬆地實現視頻翻轉功能。\n\n2. 視頻製作：在視頻製作過程中，可能需要將視頻翻轉以達到特定的效果。使用 Flip Video 工具可以輕鬆地實現視頻翻轉功能。\n\n3. 視頻播放：在觀看視頻時，可能需要將視頻翻轉以達到更好的觀看效果。使用 Flip Video 工具可以輕鬆地實現視頻翻轉功能。",
+            "$keywords": [
+                "翻轉視頻",
+                "水平翻轉",
+                "垂直翻轉",
+                "視頻",
+                "翻轉"
+            ]
+        },
+        "en": {
+            "$name": "Flip Video",
+            "$description": "Flip Video is a tool for flipping videos. It can flip videos horizontally or vertically to achieve different effects.\n\nFeatures:\n\n1. Supports flipping videos horizontally or vertically.\n\n2. Supports selecting the video file to be flipped.\n\n3. Supports previewing the flipped video effect.\n\n4. Supports saving the flipped video file.\n\nUse cases:\n\n1. Video editing: During video editing, it may be necessary to flip the video to achieve a specific effect. Flip Video tool can easily achieve video flipping function.\n\n2. Video production: During video production, it may be necessary to flip the video to achieve a specific effect. Flip Video tool can easily achieve video flipping function.\n\n3. Video playback: While watching videos, it may be necessary to flip the video to achieve a better viewing effect. Flip Video tool can easily achieve video flipping function.",
+            "$keywords": [
+                "Flip Video",
+                "flip",
+                "video",
+                "horizontal flip",
+                "vertical flip"
+            ]
+        },
+        "es": {
+            "$name": "Flip Video",
+            "$description": "Flip Video es una herramienta para voltear videos. Puede voltear el video horizontal o verticalmente para lograr diferentes efectos.\n\nDescripción de funciones:\n\n1. Soporta voltear el video horizontal o verticalmente.\n\n2. Soporta seleccionar el archivo de video a voltear.\n\n3. Soporta previsualizar el efecto del video volteado.\n\n4. Soporta guardar el archivo de video volteado.\n\nEscenarios de uso:\n\n1. Edición de video: Durante el proceso de edición de video, puede ser necesario voltear el video para lograr un efecto específico. Flip Video puede realizar fácilmente la función de voltear video.\n\n2. Producción de video: Durante el proceso de producción de video, puede ser necesario voltear el video para lograr un efecto específico. Flip Video puede realizar fácilmente la función de voltear video.\n\n3. Reproducción de video: Al ver un video, puede ser necesario voltear el video para lograr una mejor experiencia visual. Flip Video puede realizar fácilmente la función de voltear video.",
+            "$keywords": [
+                "voltear video",
+                "volteo horizontal",
+                "volteo vertical",
+                "video",
+                "voltear"
+            ]
+        },
+        "ja": {
+            "$name": "Flip Video",
+            "$description": "Flip Video 工具は、ビデオを翻訳するためのツールです。ビデオを水平または垂直に翻訳して、異なる効果を得ることができます。\n\n機能説明：\n\n1. ビデオを水平または垂直に翻訳することができます。\n\n2. 翻訳するビデオファイルを選択することができます。\n\n3. 翻訳後のビデオ効果をプレビューすることができます。\n\n4. 翻訳後のビデオファイルを保存することができます。\n\n使用シーン：\n\n1. ビデオ編集：ビデオ編集中に、特定の効果を得るためにビデオを翻訳する必要がある場合があります。Flip Video ツールを使用すると、簡単にビデオ翻訳機能を実現できます。\n\n2. ビデオ制作：ビデオ制作中に、特定の効果を得るためにビデオを翻訳する必要がある場合があります。Flip Video ツールを使用すると、簡単にビデオ翻訳機能を実現できます。\n\n3. ビデオ再生：ビデオを視聴する際に、より良い視聴効果を得るためにビデオを翻訳する必要がある場合があります。Flip Video ツールを使用すると、簡単にビデオ翻訳機能を実現できます。",
+            "$keywords": [
+                "翻訳ビデオ",
+                "水平翻訳",
+                "垂直翻訳",
+                "ビデオ",
+                "翻訳"
+            ]
+        },
+        "ko": {
+            "$name": "Flip Video",
+            "$description": "Flip Video 도구는 비디오를 뒤집는 데 사용되는 도구입니다. 비디오를 수평 또는 수직으로 뒤집어 다양한 효과를 얻을 수 있습니다.\n\n기능 설명:\n\n1. 비디오를 수평 또는 수직으로 뒤집을 수 있습니다.\n\n2. 뒤집을 비디오 파일을 선택할 수 있습니다.\n\n3. 뒤집은 후 비디오 효과를 미리 볼 수 있습니다.\n\n4. 뒤집은 비디오 파일을 저장할 수 있습니다.\n\n사용 시나리오:\n\n1. 비디오 편집: 비디오 편집 과정에서 특정 효과를 얻기 위해 비디오를 뒤집어야 할 수 있습니다. Flip Video 도구를 사용하면 쉽게 비디오 뒤집기 기능을 구현할 수 있습니다.\n\n2. 비디오 제작: 비디오 제작 과정에서 특정 효과를 얻기 위해 비디오를 뒤집어야 할 수 있습니다. Flip Video 도구를 사용하면 쉽게 비디오 뒤집기 기능을 구현할 수 있습니다.\n\n3. 비디오 재생: 비디오를 시청할 때 더 나은 시청 효과를 얻기 위해 비디오를 뒤집어야 할 수 있습니다. Flip Video 도구를 사용하면 쉽게 비디오 뒤집기 기능을 구현할 수 있습니다.",
+            "$keywords": [
+                "비디오 뒤집기",
+                "수평 뒤집기",
+                "수직 뒤집기",
+                "비디오",
+                "뒤집기"
+            ]
+        },
+        "de": {
+            "$name": "Flip Video",
+            "$description": "Flip Video ist ein Tool zum Drehen von Videos. Es kann Videos horizontal oder vertikal drehen, um verschiedene Effekte zu erzielen.\n\nFunktionsbeschreibung:\n\n1. Unterstützt das horizontale oder vertikale Drehen von Videos.\n\n2. Unterstützt die Auswahl der zu drehenden Videodatei.\n\n3. Unterstützt die Vorschau des gedrehten Videoeffekts.\n\n4. Unterstützt das Speichern der gedrehten Videodatei.\n\nAnwendungsbereiche:\n\n1. Video-Editing: Im Video-Editing-Prozess kann es erforderlich sein, das Video zu drehen, um bestimmte Effekte zu erzielen. Mit dem Flip Video-Tool kann dies einfach umgesetzt werden.\n\n2. Video-Produktion: Im Video-Produktionsprozess kann es erforderlich sein, das Video zu drehen, um bestimmte Effekte zu erzielen. Mit dem Flip Video-Tool kann dies einfach umgesetzt werden.\n\n3. Video-Wiedergabe: Beim Anschauen von Videos kann es erforderlich sein, das Video zu drehen, um eine bessere Betrachtung zu ermöglichen. Mit dem Flip Video-Tool kann dies einfach umgesetzt werden.",
+            "$keywords": [
+                "Video drehen",
+                "horizontal drehen",
+                "vertikal drehen",
+                "Video",
+                "Drehung"
+            ]
+        },
+        "fr": {
+            "$name": "Flip Video",
+            "$description": "Flip Video est un outil pour retourner des vidéos. Il peut retourner une vidéo horizontalement ou verticalement pour obtenir différents effets.\n\nFonctionnalités :\n\n1. Supporte le retournement horizontal ou vertical de la vidéo.\n\n2. Permet de sélectionner le fichier vidéo à retourner.\n\n3. Permet de prévisualiser l'effet de retournement de la vidéo.\n\n4. Permet de sauvegarder le fichier vidéo retourné.\n\nScénarios d'utilisation :\n\n1. Édition vidéo : lors de l'édition vidéo, il peut être nécessaire de retourner la vidéo pour obtenir un effet spécifique. L'utilisation de l'outil Flip Video permet de retourner facilement la vidéo.\n\n2. Production vidéo : lors de la production vidéo, il peut être nécessaire de retourner la vidéo pour obtenir un effet spécifique. L'utilisation de l'outil Flip Video permet de retourner facilement la vidéo.\n\n3. Lecture vidéo : lors de la lecture vidéo, il peut être nécessaire de retourner la vidéo pour obtenir un meilleur effet de visionnage. L'utilisation de l'outil Flip Video permet de retourner facilement la vidéo.",
+            "$keywords": [
+                "retournement de vidéo",
+                "retournement horizontal",
+                "retournement vertical",
+                "vidéo",
+                "retournement"
+            ]
+        },
+        "it": {
+            "$name": "Flip Video",
+            "$description": "Flip Video è uno strumento per capovolgere i video. Può capovolgere i video in orizzontale o in verticale per ottenere effetti diversi.\n\nDescrizione delle funzionalità:\n\n1. Supporta la capovolgimento dei video in orizzontale o in verticale.\n\n2. Supporta la selezione dei file video da capovolgere.\n\n3. Supporta la visualizzazione dell'anteprima degli effetti di capovolgimento del video.\n\n4. Supporta il salvataggio dei file video capovolti.\n\nScenari di utilizzo:\n\n1. Modifica video: durante la modifica video, potrebbe essere necessario capovolgere il video per ottenere un effetto specifico. Con Flip Video, è possibile capovolgere facilmente i video.\n\n2. Produzione video: durante la produzione video, potrebbe essere necessario capovolgere il video per ottenere un effetto specifico. Con Flip Video, è possibile capovolgere facilmente i video.\n\n3. Riproduzione video: durante la visualizzazione dei video, potrebbe essere necessario capovolgere il video per ottenere un effetto di visualizzazione migliore. Con Flip Video, è possibile capovolgere facilmente i video.",
+            "$keywords": [
+                "capovolgimento video",
+                "capovolgimento orizzontale",
+                "capovolgimento verticale",
+                "video",
+                "capovolgimento"
+            ]
+        },
+        "ru": {
+            "$name": "Flip Video",
+            "$description": "Flip Video инструмент для переворачивания видео. Он может перевернуть видео горизонтально или вертикально, чтобы достичь разных эффектов.\n\nОписание функций:\n\n1. Поддержка переворота видео горизонтально или вертикально.\n\n2. Поддержка выбора видеофайла для переворота.\n\n3. Поддержка предварительного просмотра эффекта переворота видео.\n\n4. Поддержка сохранения перевернутого видеофайла.\n\nСферы применения:\n\n1. Редактирование видео: в процессе редактирования видео может потребоваться перевернуть видео для достижения определенного эффекта. Использование инструмента Flip Video позволяет легко реализовать функцию переворота видео.\n\n2. Создание видео: в процессе создания видео может потребоваться перевернуть видео для достижения определенного эффекта. Использование инструмента Flip Video позволяет легко реализовать функцию переворота видео.\n\n3. Просмотр видео: при просмотре видео может потребоваться перевернуть видео для достижения лучшего эффекта просмотра. Использование инструмента Flip Video позволяет легко реализовать функцию переворота видео.",
+            "$keywords": [
+                "переворот видео",
+                "горизонтальный переворот",
+                "вертикальный переворот",
+                "видео",
+                "переворот"
+            ]
+        },
+        "pt": {
+            "$name": "Flip Video",
+            "$description": "A ferramenta Flip Video é uma ferramenta para virar vídeos. Ele pode virar o vídeo horizontal ou verticalmente para obter diferentes efeitos.\n\nDescrição das funcionalidades:\n\n1. Suporta virar o vídeo horizontal ou verticalmente.\n\n2. Suporta selecionar o arquivo de vídeo a ser virado.\n\n3. Suporta visualizar o efeito do vídeo virado.\n\n4. Suporta salvar o arquivo de vídeo virado.\n\nCenários de uso:\n\n1. Edição de vídeo: durante o processo de edição de vídeo, pode ser necessário virar o vídeo para obter um efeito específico. A ferramenta Flip Video pode facilmente realizar a função de virar o vídeo.\n\n2. Produção de vídeo: durante o processo de produção de vídeo, pode ser necessário virar o vídeo para obter um efeito específico. A ferramenta Flip Video pode facilmente realizar a função de virar o vídeo.\n\n3. Reprodução de vídeo: ao assistir a um vídeo, pode ser necessário virar o vídeo para obter uma melhor experiência de visualização. A ferramenta Flip Video pode facilmente realizar a função de virar o vídeo.",
+            "$keywords": [
+                "virar vídeo",
+                "virar horizontalmente",
+                "virar verticalmente",
+                "vídeo",
+                "virar"
+            ]
+        }
+    },
+    {
+        "id": "video-compress",
+        "zh-cn": {
+            "$name": "视频压缩",
+            "$description": "Our video compressor will make your video smaller automatically, and you don't need to download any program to your device.",
+            "$keywords": [
+                "online video compressor",
+                "compress video file",
+                "reduce video file size online",
+                "free",
+                "reduce video size mac",
+                "mp4",
+                "to smaller size",
+                "make video smaller",
+                "without losing quality"
+            ]
+        },
+        "zh-tw": {
+            "$name": "影片壓縮",
+            "$description": "我們的影片壓縮器會自動將您的影片縮小，您不需要下載任何程式到您的設備。",
+            "$keywords": [
+            "線上影片壓縮器",
+            "壓縮影片檔案",
+            "線上減少影片檔案大小",
+            "免費",
+            "減少 Mac 上的影片大小",
+            "mp4",
+            "讓影片更小",
+            "不會失去品質"
+            ]
+        },
+        "en": {
+            "$name": "Video Compress",
+            "$description": "Our video compressor will automatically reduce the size of your video without the need to download any programs to your device.",
+            "$keywords": [
+                "online video compressor",
+                "compress video file",
+                "reduce video file size online",
+                "free",
+                "reduce video size mac",
+                "mp4",
+                "to smaller size",
+                "make video smaller",
+                "without losing quality"
+            ]
+        },
+        "es": {
+            "$name": "Compresor de Video",
+            "$description": "Nuestro compresor de video reducirá automáticamente el tamaño de su video sin necesidad de descargar ningún programa en su dispositivo.",
+            "$keywords": [
+                "compresor de video en línea",
+                "comprimir archivo de video",
+                "reducir tamaño de archivo de video en línea",
+                "gratis",
+                "reducir tamaño de video en Mac",
+                "mp4",
+                "a un tamaño más pequeño",
+                "hacer el video más pequeño",
+                "sin perder calidad"
+            ]
+        },
+        "fr": {
+            "$name": "Compression Vidéo",
+            "$description": "Notre compresseur vidéo réduira automatiquement la taille de votre vidéo sans avoir besoin de télécharger des programmes sur votre appareil.",
+            "$keywords": [
+                "compresseur vidéo en ligne",
+                "compresser un fichier vidéo",
+                "réduire la taille d'un fichier vidéo en ligne",
+                "gratuit",
+                "réduire la taille d'une vidéo sur Mac",
+                "mp4",
+                "à une taille plus petite",
+                "rendre la vidéo plus petite",
+                "sans perte de qualité"
+            ]
+        },
+        "ja": {
+            "$name": "ビデオ圧縮",
+            "$description": "当社のビデオ圧縮機能を使用すると、デバイスにプログラムをダウンロードする必要なく、自動的にビデオのサイズを小さくできます。",
+            "$keywords": [
+                "オンラインビデオ圧縮",
+                "ビデオファイルの圧縮",
+                "オンラインでビデオファイルサイズを減らす",
+                "無料",
+                "Macでビデオサイズを減らす",
+                "mp4",
+                "小さなサイズにする",
+                "ビデオを小さくする",
+                "品質を落とさずに"
+            ]
+        },
+        "ko": {
+            "$name": "비디오 압축",
+            "$description": "저희 비디오 압축기를 사용하면 디바이스에 프로그램을 다운로드할 필요 없이 자동으로 비디오 크기를 줄일 수 있습니다.",
+            "$keywords": [
+                "온라인 비디오 압축",
+                "비디오 파일 압축",
+                "온라인에서 비디오 파일 크기 줄이기",
+                "무료",
+                "Mac에서 비디오 크기 줄이기",
+                "mp4",
+                "더 작은 크기로",
+                "비디오를 작게 만들기",
+                "품질 손실 없이"
+            ]
+        },
+        "pt": {
+            "$name": "Comprimir Vídeo",
+            "$description": "Nosso compressor de vídeo reduzirá automaticamente o tamanho do seu vídeo sem a necessidade de baixar programas para o seu dispositivo.",
+            "$keywords": [
+                "compressor de vídeo online",
+                "comprimir arquivo de vídeo",
+                "reduzir tamanho de arquivo de vídeo online",
+                "grátis",
+                "reduzir tamanho de vídeo no Mac",
+                "mp4",
+                "para tamanho menor",
+                "tornar vídeo menor",
+                "sem perder qualidade"
+            ]
+        },
+        "ru": {
+            "$name": "Сжатие Видео",
+            "$description": "Наш сжиматель видео автоматически уменьшит размер вашего видео без необходимости загружать программы на ваше устройство.",
+            "$keywords": [
+                "онлайн сжатие видео",
+                "сжатие видеофайла",
+                "уменьшение размера видеофайла онлайн",
+                "бесплатно",
+                "уменьшение размера видео на Mac",
+                "mp4",
+                "до меньшего размера",
+                "уменьшение размера видео",
+                "без потери качества"
+            ]
+            },
+        "de": {
+                "$name": "Video-Komprimierung",
+                "$description": "Unser Video-Kompressor wird automatisch die Größe Ihres Videos reduzieren, ohne dass Sie Programme auf Ihrem Gerät herunterladen müssen.",
+                "$keywords": [
+                    "Online-Video-Kompressor",
+                    "Komprimieren von Video-Dateien",
+                    "Reduzieren der Video-Dateigröße online",
+                    "kostenlos",
+                    "Video-Größe auf Mac reduzieren",
+                    "mp4",
+                    "auf kleinere Größe",
+                    "Video kleiner machen",
+                    "ohne Qualitätsverlust"
+                ]
+            },
+        "it": {
+                "$name": "Comprimi Video",
+                "$description": "Il nostro compressore video ridurrà automaticamente le dimensioni del tuo video senza la necessità di scaricare alcun programma sul tuo dispositivo.",
+                "$keywords": [
+                    "compressore video online",
+                    "comprimi file video",
+                    "riduci la dimensione del file video online",
+                    "gratuito",
+                    "riduci le dimensioni del video su Mac",
+                    "mp4",
+                    "a dimensioni più piccole",
+                    "riduci le dimensioni del video",
+                    "senza perdita di qualità"
+                ]
+            }
+    }
+    ]

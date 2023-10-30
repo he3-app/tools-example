@@ -1,0 +1,195 @@
+<template>
+  <VideoComponents @upload='upload' @remove="remove" :loading='loading'>
+    <h-card-box text='Setting'>
+      <div class='itemOption'>
+        <a-checkbox-group v-model:value='flip' :options='plainOptions' />
+        <a-typography-text style='margin-left: 20px;' strong>
+          {{ command == 'hflip, vflip' ? t('flipVideo.horizontalAndVertical') : command == '' ?
+          t('flipVideo.horizontalOrAndVertical') : command == 'hflip' ? t('flipVideo.horizontal') :
+            t('flipVideo.vertical') }}
+        </a-typography-text>
+      </div>
+    </h-card-box>
+    <div class='options'>
+      <div class='contentOption'>
+        <a-button type='primary' @click='convertFunction'>
+          <template #icon>
+            <swap-outlined />
+          </template>
+          {{ t('flipVideo.start') }}
+        </a-button>
+      </div>
+    </div>
+    <div class='video' v-if='videoFlag'>
+      <video :src='result.url' controls class='videoFile'></video>
+      <a-button type='primary' @click='handleDownload' v-if='saveFlag'>
+        <template #icon>
+          <download-outlined />
+        </template>
+        {{ t('download') }}
+      </a-button>
+    </div>
+  </VideoComponents>
+</template>
+
+<script setup lang='ts'>
+import { onMounted, ref, reactive, watch } from 'vue';
+import VideoComponents from './UploadVideoComponents.vue';
+import { createFFmpeg, fetchFile } from '@ffmpeg/ffmpeg';
+import { useI18n } from 'vue-i18n';
+import messages from './lang/lang.json';
+import { DownloadOutlined, SwapOutlined } from '@ant-design/icons-vue';
+
+const saveFlag = ref(false);//是否显示保存按钮
+const videoFlag = ref(false);
+const { t } = useI18n({
+  locale: window.$he3.lang,
+  messages,
+});
+
+const ffmpeg = createFFmpeg({ log: true });
+
+const video = ref(null);
+const upload = (file) => {
+  video.value = file;
+};
+const remove = () => {
+  saveFlag.value = false;
+  loading.value = false;
+  videoFlag.value = false;
+};
+
+onMounted(async () => {
+  await ffmpeg.load();
+});
+
+
+const handleDownload = () => {
+  const link = document.createElement('a');
+  link.href = result.url;
+  link.download = 'output.mp4';
+
+  // 触发下载
+  link.click();
+};
+const result = reactive({
+  url: '',
+  type: 'video',
+});
+
+
+const flip = ref([]);
+const command = ref('');
+
+const plainOptions = ['Horizon', 'Vertical'];
+watch(flip, (val) => {
+  if (video.value) {
+    if (val.includes('Horizon') && val.includes('Vertical')) {
+      command.value = 'hflip, vflip';
+    } else if (val.includes('Vertical') && !val.includes('Horizon')) {
+      command.value = 'vflip';
+    } else if (val.includes('Horizon') && !val.includes('Vertical')) {
+      command.value = 'hflip';
+    } else {
+      command.value = '';
+    }
+    console.log(command.value, 53663);
+  }
+});
+
+const loading = ref(false);
+
+//gif to video 
+const convertFunction = async () => {
+  const length = flip.value.length;
+  if (length === 0) {
+    window.$he3.message.warn(t('flipVideo.flipMode'));
+    return false;
+  }
+  loading.value = true;
+  const { name } = video.value;
+  ffmpeg.FS('writeFile', name, await fetchFile(video.value));
+
+  // Run the FFMpeg command
+  await ffmpeg.run('-i', name, `${command.value ? '-vf' : ''}`, `${command.value}`, 'output.mp4');
+
+  // Read the result
+  const data = ffmpeg.FS('readFile', 'output.mp4');
+
+  // Create a URL
+  const url = URL.createObjectURL(new Blob([data.buffer], { type: 'image/mp4' }));
+  result.url = url;
+  loading.value = false;
+  saveFlag.value = true;
+  videoFlag.value = true;
+  window.$he3.message.success(t('success'));
+};
+
+</script>
+<style scoped lang='less'>
+.itemOption {
+  margin: 15px 0 23px;
+  min-height: 54px;
+  min-width: 250px;
+
+  .format-wrap {
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
+
+    .icon {
+      padding-left: 6px;
+    }
+  }
+}
+
+.itemOption:nth-last-child(2) {
+  margin-bottom: 35px;
+}
+
+.options {
+  width: 100%;
+
+  .contentOption {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+  }
+
+  :deep(.ant-btn) {
+    margin-left: 2%;
+    padding: 12px 24px 35px;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.2px;
+  }
+}
+
+.video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 696px;
+  width: 100%;
+  margin-top: 60px;
+  padding-bottom: 10px;
+
+  .videoFile {
+    width: 100%; /* 设置宽度为100%，占据父容器的宽度 */
+    height: auto; /* 根据宽度自适应高度 */
+    max-height: 464px;
+    border-radius: 12px;
+    background: linear-gradient(357deg, #000 -21.67%, rgba(0, 0, 0, 0.00) 22.11%);
+  }
+
+  :deep(.ant-btn) {
+    padding: 12px 24px 35px;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.2px;
+    margin-top: 32px;
+  }
+}
+</style>
+
+  

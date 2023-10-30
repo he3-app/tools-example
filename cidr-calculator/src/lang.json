@@ -1,0 +1,114 @@
+{
+  "zh": {
+    "inputErrorCidrMsg": "请输入正确的 CIDR 地址",
+    "cidrAddress": "CIDR 地址",
+    "netmask": "子网掩码",
+    "ipRange": "IP 范围",
+    "network": "网络标识地址",
+    "broadcast": "广播地址",
+    "firstAddress": "第一个 IP 地址",
+    "lastAddress": "最后一个 IP 地址",
+    "calculate": "计算"
+  },
+  "en": {
+    "inputErrorCidrMsg": "Please enter a valid CIDR",
+    "cidrAddress": "CIDR Address",
+    "netmask": "Netmask",
+    "ipRange": "IP Range",
+    "network": "Network",
+    "broadcast": "Broadcast",
+    "firstAddress": "First Address",
+    "lastAddress": "Last Address",
+    "calculate": "Calculate"
+  },
+  "de": {
+    "inputErrorCidrMsg": "Bitte geben Sie die richtige CIDR -Adresse ein",
+    "cidrAddress": "CIDR -Adresse",
+    "netmask": "Sub -Web -Maske",
+    "ipRange": "IP-Bereich",
+    "network": "Netzwerkidentifikationsadresse",
+    "broadcast": "Broadcastadresse",
+    "firstAddress": "Die erste IP -Adresse",
+    "lastAddress": "Die letzte IP -Adresse"
+  },
+  "es": {
+    "inputErrorCidrMsg": "Ingrese la dirección CIDR correcta",
+    "cidrAddress": "Dirección CIDR",
+    "netmask": "Máscara sub -web",
+    "ipRange": "Rango de IP",
+    "network": "Dirección de identificación de red",
+    "broadcast": "Dirección de Difusión",
+    "firstAddress": "La primera dirección IP",
+    "lastAddress": "La última dirección IP"
+  },
+  "fr": {
+    "inputErrorCidrMsg": "Veuillez saisir l'adresse CIDR correcte",
+    "cidrAddress": "Adresse CIDR",
+    "netmask": "Masque sous-toile",
+    "ipRange": "Plage ip",
+    "network": "Adresse d'identification du réseau",
+    "broadcast": "Adresse de diffusion",
+    "firstAddress": "La première adresse IP",
+    "lastAddress": "La dernière adresse IP"
+  },
+  "it": {
+    "inputErrorCidrMsg": "Inserisci l'indirizzo CIDR corretto",
+    "cidrAddress": "Indirizzo CIDR",
+    "netmask": "Maschera sottoweb",
+    "ipRange": "Gamma IP",
+    "network": "Indirizzo di identificazione della rete",
+    "broadcast": "Indirizzo di trasmissione",
+    "firstAddress": "Il primo indirizzo IP",
+    "lastAddress": "L'ultimo indirizzo IP"
+  },
+  "ja": {
+    "inputErrorCidrMsg": "正しいCIDRアドレスを入力してください",
+    "cidrAddress": "CIDRアドレス",
+    "netmask": "サブウェブマスク",
+    "ipRange": "IP範囲",
+    "network": "ネットワーク識別アドレス",
+    "broadcast": "ブロードキャストアドレス",
+    "firstAddress": "最初のIPアドレス",
+    "lastAddress": "最後のIPアドレス"
+  },
+  "ko": {
+    "inputErrorCidrMsg": "올바른 CIDR 주소를 입력하십시오",
+    "cidrAddress": "CIDR 주소",
+    "netmask": "서브 와브 마스크",
+    "ipRange": "IP 범위",
+    "network": "네트워크 식별 주소",
+    "broadcast": "방송 주소",
+    "firstAddress": "첫 번째 IP 주소",
+    "lastAddress": "마지막 IP 주소"
+  },
+  "pt": {
+    "inputErrorCidrMsg": "Por favor, insira o endereço CIDR correto",
+    "cidrAddress": "Endereço CIDR",
+    "netmask": "Máscara sub -web",
+    "ipRange": "Intervalo de IP",
+    "network": "Endereço de identificação de rede",
+    "broadcast": "Endereço de transmissão",
+    "firstAddress": "O primeiro endereço IP",
+    "lastAddress": "O último endereço IP"
+  },
+  "ru": {
+    "inputErrorCidrMsg": "Пожалуйста, введите правильный адрес CIDR",
+    "cidrAddress": "CIDR -адрес",
+    "netmask": "Суб -ВЕБСКАЯ МАСКА",
+    "ipRange": "IP -диапазон",
+    "network": "Адрес идентификации сети",
+    "broadcast": "В трансляционном адресе",
+    "firstAddress": "Первый IP -адрес",
+    "lastAddress": "Последний IP -адрес"
+  },
+  "zh-tw": {
+    "inputErrorCidrMsg": "請輸入正確的 CIDR 地址",
+    "cidrAddress": "CIDR 地址",
+    "netmask": "子網掩碼",
+    "ipRange": "IP 範圍",
+    "network": "網絡標識地址",
+    "broadcast": "廣播地址",
+    "firstAddress": "第一個 IP 地址",
+    "lastAddress": "最後一個 IP 地址"
+  }
+}

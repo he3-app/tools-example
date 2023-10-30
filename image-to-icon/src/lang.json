@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "inputFileName": "请输入图标文件名",
+    "transform": "转换为图标",
+    "imageChoose": "请选择一张图片",
+    "chooseDevice": "请选择一个设备型号"
+  },
+  "en": {
+    "inputFileName": "Please enter an icon file name",
+    "transform": "convert to ICON",
+    "imageChoose": "Please choose an image",
+    "chooseDevice": "Please select a device model"
+  },
+  "de": {
+    "inputFileName": "Bitte geben Sie den Namen der Symboldatei ein",
+    "transform": "In Ikone konvertieren",
+    "imageChoose": "Bitte wählen Sie ein Bild aus",
+    "chooseDevice": "Bitte wählen Sie ein Gerätemodell aus"
+  },
+  "es": {
+    "inputFileName": "Ingrese el nombre del archivo de icono",
+    "transform": "Convertir al icono",
+    "imageChoose": "Seleccione una imagen",
+    "chooseDevice": "Por favor, seleccione un modelo de dispositivo"
+  },
+  "fr": {
+    "inputFileName": "Veuillez saisir le nom du fichier icône",
+    "imageChoose": "Veuillez sélectionner une image",
+    "transform": "Convertir en icon",
+    "chooseDevice": "Veuillez sélectionner un modèle de dispositif"
+  },
+  "it": {
+    "inputFileName": "Immettere il nome del file icona",
+    "imageChoose": "Seleziona un'immagine",
+    "transform": "Converti in icona",
+    "chooseDevice": "Selezionare un modello di dispositivo"
+  },
+  "ja": {
+    "inputFileName": "アイコンファイル名を入力してください",
+    "imageChoose": "写真を選択してください",
+    "transform": "アイコンに変換します",
+    "chooseDevice": "デバイスモデルを選択してください"
+  },
+  "ko": {
+    "inputFileName": "아이콘 파일 이름을 입력하십시오",
+    "imageChoose": "사진을 선택하십시오",
+    "transform": "아이콘으로 변환하십시오",
+    "chooseDevice": "장치 모델을 선택하세요"
+  },
+  "pt": {
+    "inputFileName": "Por favor, insira o nome do arquivo do ícone",
+    "imageChoose": "Selecione uma foto",
+    "transform": "Converter em ícone",
+    "chooseDevice": "Por favor, seleccione un modelo de dispositivo"
+  },
+  "ru": {
+    "inputFileName": "Пожалуйста, введите имя файла значка",
+    "imageChoose": "Пожалуйста, выберите изображение",
+    "transform": "Преобразовать в значок",
+    "chooseDevice": "Пожалуйста, выберите модель устройства"
+  },
+  "zh-tw": {
+    "inputFileName": "請輸入圖標文件名",
+    "imageChoose": "請選擇一張圖片",
+    "transform": "轉換為圖標",
+    "chooseDevice": "請選擇一個裝置型號。"
+  }
+}

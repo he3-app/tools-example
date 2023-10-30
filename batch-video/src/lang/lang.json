@@ -1,0 +1,1643 @@
+{
+  "zh": {
+    "wait": "等转换完毕之后才能返回",
+    "return": "返回",
+    "success": "转换成功",
+    "videoInformation": "视频信息",
+    "upload": {
+      "placeholder": "拖拽视频到这里",
+      "selectVideo": "选择视频",
+      "error": "上传失败"
+    },
+    "video": {
+      "name": "名字",
+      "size": "视频大小",
+      "resolution": "分辨率"
+    },
+    "videoConverter": {
+      "title": "改变视频的格式",
+      "start": "开始转换",
+      "convert": "转换中",
+      "promptMsg": "转换后的视频如下",
+      "warnMsg": "抱歉，请您提供正确格式的视频",
+      "previewVideo": "转换后视频预览区",
+      "format": "视频格式",
+      "formatPromptText": "某些格式的视频不支持在chrome上播放,请下载观看",
+      "videoEncoder": "视频编码器",
+      "frameRate": "视频帧数",
+      "videoSpeed": "视频播放速度",
+      "speedPrompt": " 200%相当于把原视频的播放时长增加一倍",
+      "resolution": "分辨率",
+      "selectTitle": "视频转换为"
+    },
+    "audioConverter": {
+      "title": "改变音频的格式",
+      "start": "开始转换",
+      "convert": "转换中...",
+      "promptMsg": "转换后的音频如下",
+      "warnMsg": "抱歉，请您提供正确格式的音频",
+      "previewAudio": "转换后音频预览区",
+      "format": "音频格式",
+      "formatPromptText": "某些格式的音频不支持在chrome上播放,请下载收听",
+      "samplingRate": "音频采样率",
+      "trackCount": "音频声道数",
+      "audioSpeed": "音频播放速度",
+      "speedPrompt": "例如选2,则播放速度为原来的2倍,播放时间缩短为原来的1/2"
+    },
+    "videoRotate": {
+      "title": "将垂直视频水平旋转，反之亦然",
+      "rotateTip": "使用上方的旋转按钮旋转视频",
+      "rotate": "视频旋转",
+      "degree": "度",
+      "start": "开始转换",
+      "convert": "转换中",
+      "zeroWarn": "0 度不需要进行转换"
+    },
+    "flipVideo": {
+      "title": "立即镜像您的视频",
+      "start": "开始镜像",
+      "convert": "转换中",
+      "flipMode": "请选择翻转方式",
+      "horizontal": "视频水平翻转",
+      "vertical": "视频垂直翻转",
+      "horizontalAndVertical": "视频水平翻转和垂直翻转",
+      "horizontalOrAndVertical": "视频水平或垂直翻转视频"
+    },
+    "videoMute": {
+      "title": "从视频中删除音频",
+      "start": "开始",
+      "processing": "进行中"
+    },
+    "changeVideoSpeed": {
+      "title": "加快或减慢任何视频",
+      "start": "开始",
+      "processing": "进行中"
+    },
+    "videoReverse": {
+      "title": "立即为任何视频添加反转效果",
+      "start": "开始反转",
+      "convert": "反转中"
+    },
+    "loopVideo": {
+      "title": "重复您的视频",
+      "start": "开始循环",
+      "convert": "转换中",
+      "count": "视频循环次数"
+    },
+    "videoToGifConvert": {
+      "title": "将视频转换成 GIF 图片",
+      "convert": "转换中",
+      "start": "开始转换"
+    },
+    "gifToVideoConvert": {
+      "title": "将 GIF 图片转换成视频",
+      "convert": "转换中",
+      "start": "开始转换"
+    },
+    "changeVideoVolume": {
+      "title": "调节视频音量大小",
+      "start": "开始调节",
+      "adjust": "调节中"
+    },
+    "videoCompress": {
+      "title": "减小视频文件大小",
+      "compression": "压缩中",
+      "startCompression": "开始压缩",
+      "processing": "压缩视频中：",
+      "compressionSettings": "压缩设置",
+      "compressedQuality": "压缩后质量",
+      "compressedinformation": "压缩后信息",
+      "ratio": "压缩比率",
+      "resolution": "分辨率",
+      "wait": "正在压缩中，请稍后再下载！",
+      "bitrate": "比率"
+    },
+    "extractAudioFromVideo": {
+      "title": "提取音频",
+      "start": "开始提取",
+      "extracting": "提取中",
+      "previewExtractedAudio": "提取后音频预览",
+      "ExtractedAudioFormat": "提取后音频格式",
+      "no": "该视频中没有音频",
+      "warnings": "您还未选择待添加音频"
+    },
+    "component": {
+      "videoResultText": "选择视频文件",
+      "drag": "拖拽视频到这里",
+      "or": "或者",
+      "resultTitle": "或拖放文件以添加视频文件",
+      "selectVideo": "选择视频",
+      "dragAudio": "拖拽音频到这里",
+      "selectAudio": "选择音频",
+      "warnPrompt": "该工具可能会消耗较多的本地资源，请在设备性能较好的情况下使用。"
+    },
+    "download": "保存",
+    "specification": "时间格式必须符合 00:00:00 这样的规范",
+    "symbolSpecification": "输入不能有 '-' 号",
+    "start": "开始时间不能大于终止时间",
+    "cutOff": "音频会存在截断!",
+    "AudioLengthLessThanVideo": "选取音频长度少于视频长度",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "音频选择的最大时间超过上传音频的最大值",
+      "title": "将音频添加到视频",
+      "button": "合并视频与音频",
+      "upload": "上传音频",
+      "cut": "剪切音频",
+      "startTime": "起始时间",
+      "endStart": "终止时间",
+      "trackVolume": "音轨音量",
+      "processing": "处理音频中："
+    }
+  },
+  "en": {
+    "wait": "Please wait until the conversion is complete before returning",
+    "return": "Return",
+    "success": "Conversion successful",
+    "videoInformation": "Video Information",
+    "upload": {
+      "placeholder": "Drag and drop video here",
+      "selectVideo": "Select Video",
+      "error": "Upload failed"
+    },
+    "video": {
+      "name": "Name",
+      "size": "Video Size",
+      "resolution": "Resolution"
+    },
+    "videoConverter": {
+      "title": "Change Video Format",
+      "start": "Start Conversion",
+      "convert": "Converting",
+      "promptMsg": "The converted video is shown below",
+      "warnMsg": "Sorry, please provide a video in the correct format",
+      "previewVideo": "Preview of Converted Video",
+      "format": "Video Format",
+      "formatPromptText": "Some video formats are not supported for playback on chrome, please download to view",
+      "videoEncoder": "Video Encoder",
+      "frameRate": "Frame Rate",
+      "videoSpeed": "Video Playback Speed",
+      "speedPrompt": "200% is equivalent to doubling the original video's playback duration",
+      "resolution": "Resolution",
+      "selectTitle": "Convert Video To"
+    },
+    "audioConverter": {
+      "title": "Change Audio Format",
+      "start": "Start Conversion",
+      "convert": "Converting...",
+      "promptMsg": "The converted audio is shown below",
+      "warnMsg": "Sorry, please provide audio in the correct format",
+      "previewAudio": "Preview of Converted Audio",
+      "format": "Audio Format",
+      "formatPromptText": "Some audio formats are not supported for playback on chrome, please download to listen",
+      "samplingRate": "Audio Sampling Rate",
+      "trackCount": "Audio Track Count",
+      "audioSpeed": "Audio Playback Speed",
+      "speedPrompt": "For example, selecting 2 will double the playback speed and halve the playback time"
+    },
+    "videoRotate": {
+      "title": "Rotate Vertical Videos Horizontally and Vice Versa",
+      "rotateTip": "Use the rotation button above to rotate the video",
+      "rotate": "Rotate Video",
+      "degree": "degrees",
+      "start": "Start Conversion",
+      "convert": "Converting",
+      "zeroWarn": "0 degrees does not require conversion"
+    },
+    "flipVideo": {
+      "title": "Mirror Your Video Instantly",
+      "start": "Start Mirroring",
+      "convert": "Converting",
+      "flipMode": "Please select flip mode",
+      "horizontal": "Horizontal Flip",
+      "vertical": "Vertical Flip",
+      "horizontalAndVertical": "Horizontal and Vertical Flip",
+      "horizontalOrAndVertical": "Flip video horizontally or vertically"
+    },
+    "videoMute": {
+      "title": "Remove Audio from Video",
+      "start": "Start",
+      "processing": "Processing"
+    },
+    "changeVideoSpeed": {
+      "title": "Speed Up or Slow Down Any Video",
+      "start": "Start",
+      "processing": "Processing"
+    },
+    "videoReverse": {
+      "title": "Add Reverse Effect to Any Video",
+      "start": "Start Reversing",
+      "convert": "Reversing"
+    },
+    "loopVideo": {
+      "title": "Loop Your Video",
+      "start": "Start Looping",
+      "convert": "Converting",
+      "count": "Video Loop Count"
+    },
+    "videoToGifConvert": {
+      "title": "Convert Video to GIF Image",
+      "convert": "Converting",
+      "start": "Start Conversion"
+    },
+    "gifToVideoConvert": {
+      "title": "Convert GIF Image to Video",
+      "convert": "Converting",
+      "start": "Start Conversion"
+    },
+    "changeVideoVolume": {
+      "title": "Adjust Video Volume",
+      "start": "Start Adjusting",
+      "adjust": "Adjusting"
+    },
+    "videoCompress": {
+      "title": "Reduce Video File Size",
+      "compression": "Compressing",
+      "startCompression": "Start Compression",
+      "processing": "Compressing Video: ",
+      "compressionSettings": "Compression Settings",
+      "compressedQuality": "Compressed Quality",
+      "compressedinformation": "Compressed Information",
+      "ratio": "Compression Ratio",
+      "resolution": "Resolution",
+      "wait": "Compressing, please wait before downloading!",
+      "bitrate": "Bitrate"
+    },
+    "extractAudioFromVideo": {
+      "title": "Extract Audio",
+      "start": "Start Extraction",
+      "extracting": "Extracting",
+      "previewExtractedAudio": "Preview of Extracted Audio",
+      "ExtractedAudioFormat": "Extracted Audio Format",
+      "no": "No audio in this video",
+      "warnings": "You have not selected the audio to be added yet"
+    },
+    "component": {
+      "videoResultText": "Select Video Files",
+      "audioResultText": "Select Audio Files",
+      "resultTitle": "or Drag-and-drop to add video files",
+      "loading": "Converting...",
+      "selectVideo": "Select Video",
+      "dragAudio": "Drag and drop audio here",
+      "selectAudio": "Select Audio",
+      "warnPrompt": "This tool may consume significant local resources. Please use it on a device with good performance."
+    },
+    "download": "Save",
+    "specification": "Time format must comply with format 00:00:00",
+    "symbolSpecification": "Input cannot have '-' symbol",
+    "start": "Start time must be earlier than end time",
+    "cutOff": "Audio will be truncated!",
+    "AudioLengthLessThanVideo": "Selected audio length is less than the video length",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "The maximum time selected for audio exceeds the maximum value of the uploaded audio",
+      "title": "Add Audio to Video",
+      "button": "Merge Video and Audio",
+      "upload": "Upload Audio",
+      "cut": "Cut Audio",
+      "startTime": "Start Time",
+      "endStart": "End Time",
+      "trackVolume": "Track Volume",
+      "processing": "Processing Audio: "
+    }
+  },
+  "zh-tw": {
+    "wait": "轉換完成後才能返回",
+    "return": "返回",
+    "success": "轉換成功",
+    "videoInformation": "影片資訊",
+    "upload": {
+      "placeholder": "拖放影片至此",
+      "selectVideo": "選擇影片",
+      "error": "上傳失敗"
+    },
+    "video": {
+      "name": "名稱",
+      "size": "影片大小",
+      "resolution": "解析度"
+    },
+    "videoConverter": {
+      "title": "更改影片格式",
+      "start": "開始轉換",
+      "convert": "轉換中",
+      "promptMsg": "轉換後的影片如下",
+      "warnMsg": "抱歉，請提供正確格式的影片",
+      "previewVideo": "轉換後影片預覽區",
+      "format": "影片格式",
+      "formatPromptText": "某些格式的影片不支援於chrome上播放，請下載觀看",
+      "videoEncoder": "影片編碼器",
+      "frameRate": "影片幀數",
+      "videoSpeed": "影片播放速度",
+      "speedPrompt": " 200% 相當於將原影片的播放時長增加一倍",
+      "resolution": "解析度",
+      "selectTitle": "將影片轉換為"
+    },
+    "audioConverter": {
+      "title": "更改音頻格式",
+      "start": "開始轉換",
+      "convert": "轉換中",
+      "promptMsg": "轉換後的音頻如下",
+      "warnMsg": "抱歉，請提供正確格式的音頻",
+      "previewAudio": "轉換後音頻預覽區",
+      "format": "音頻格式",
+      "formatPromptText": "某些格式的音頻不支援於chrome上播放，請下載收聽",
+      "samplingRate": "音頻採樣率",
+      "trackCount": "音頻聲道數",
+      "audioSpeed": "音頻播放速度",
+      "speedPrompt": "例如選2，則播放速度為原來的2倍，播放時間縮短為原來的1/2"
+    },
+    "videoRotate": {
+      "title": "將垂直影片水平旋轉，反之亦然",
+      "rotateTip": "使用上方的旋轉按鈕旋轉影片",
+      "rotate": "影片旋轉",
+      "degree": "度",
+      "start": "開始轉換",
+      "convert": "轉換中",
+      "zeroWarn": "0 度不需要進行轉換"
+    },
+    "flipVideo": {
+      "title": "立即鏡像您的影片",
+      "start": "開始鏡像",
+      "convert": "轉換中",
+      "flipMode": "請選擇翻轉方式",
+      "horizontal": "影片水平翻轉",
+      "vertical": "影片垂直翻轉",
+      "horizontalAndVertical": "影片水平翻轉和垂直翻轉",
+      "horizontalOrAndVertical": "影片或/和水平翻轉影片"
+    },
+    "videoMute": {
+      "title": "從影片中刪除音頻",
+      "start": "開始",
+      "processing": "進行中"
+    },
+    "changeVideoSpeed": {
+      "title": "加快或減慢任何影片",
+      "start": "開始",
+      "processing": "進行中"
+    },
+    "videoReverse": {
+      "title": "立即為任何影片添加反轉效果",
+      "start": "開始反轉",
+      "convert": "反轉中"
+    },
+    "loopVideo": {
+      "title": "重複您的視頻",
+      "start": "開始循環",
+      "convert": "轉換中",
+      "count": "視頻循環次數"
+    },
+    "videoToGifConvert": {
+      "title": "將影片轉換成 GIF 圖片",
+      "convert": "轉換中",
+      "start": "開始轉換"
+    },
+    "gifToVideoConvert": {
+      "title": "將 GIF 圖片轉換成影片",
+      "convert": "轉換中",
+      "start": "開始轉換"
+    },
+    "changeVideoVolume": {
+      "title": "調節影片音量大小",
+      "start": "開始調節",
+      "adjust": "調節中"
+    },
+    "videoCompress": {
+      "title": "減小影片檔案大小",
+      "compression": "壓縮中",
+      "startCompression": "開始壓縮",
+      "processing": "壓縮影片中：",
+      "compressionSettings": "壓縮設定",
+      "compressedQuality": "壓縮後品質",
+      "compressedinformation": "壓縮後資訊",
+      "ratio": "壓縮比率",
+      "resolution": "解析度",
+      "wait": "正在壓縮中，請稍後再下載！",
+      "bitrate": "比率"
+    },
+    "extractAudioFromVideo": {
+      "title": "提取音頻",
+      "start": "開始提取",
+      "extracting": "提取中",
+      "previewExtractedAudio": "提取後音頻預覽",
+      "ExtractedAudioFormat": "提取後音訊格式",
+      "no": "該影片中沒有音頻"
+    },
+    "component": {
+      "videoResultText": "選擇視頻文件",
+      "audioResultText": "選擇音頻文件",
+      "resultTitle": "或拖放文件以添加視訊檔案",
+      "loading": "轉換中...",
+      "selectVideo": "選擇視頻",
+      "dragAudio": "將音頻文件拖放至此處",
+      "selectAudio": "選擇音頻",
+      "warnPrompt": "此工具可能會消耗大量本地資源，請在性能良好的設備上使用。"
+    },
+    "download": "保存",
+    "specification": "時間格式必須符合 00:00:00 這樣的規範",
+    "symbolSpecification": "輸入不能有 '-' 號",
+    "start": "開始時間不能大於終止時間",
+    "cutOff": "音頻會存在截斷!",
+    "AudioLengthLessThanVideo": "選取音頻長度少於影片長度",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "音頻選擇的最大時間超過上傳音頻的最大值",
+      "title": "將音頻添加到影片",
+      "button": "合併影片與音頻",
+      "upload": "上傳音頻",
+      "cut": "剪切音訊",
+      "startTime": "起始時間",
+      "endStart": "終止時間",
+      "trackVolume": "音軌音量",
+      "processing": "處理音頻中："
+    }
+  },
+  "de": {
+    "wait": "Bitte warten Sie, bis die Konvertierung abgeschlossen ist, bevor Sie fortfahren",
+    "return": "Zurück",
+    "success": "Konvertierung erfolgreich",
+    "videoInformation": "Videoinformationen",
+    "upload": {
+      "placeholder": "Video hierhin ziehen",
+      "selectVideo": "Video auswählen",
+      "error": "Fehler beim Hochladen"
+    },
+    "video": {
+      "name": "Name",
+      "size": "Dateigröße",
+      "resolution": "Auflösung"
+    },
+    "videoConverter": {
+      "title": "Videoformat ändern",
+      "start": "Konvertierung starten",
+      "convert": "Konvertierung läuft",
+      "promptMsg": "Das konvertierte Video:",
+      "warnMsg": "Bitte geben Sie ein Video im richtigen Format an",
+      "previewVideo": "Vorschau des konvertierten Videos",
+      "format": "Videoformat",
+      "formatPromptText": "Einige Videoformate werden in Chrome nicht unterstützt. Bitte laden Sie das Video herunter, um es anzusehen.",
+      "videoEncoder": "Videoencoder",
+      "frameRate": "Bildrate",
+      "videoSpeed": "Wiedergabegeschwindigkeit",
+      "speedPrompt": "200 % entspricht einer Verdoppelung der Wiedergabedauer des Originalvideos",
+      "resolution": "Auflösung",
+      "selectTitle": "Video konvertieren in"
+    },
+    "audioConverter": {
+      "title": "Audioformat ändern",
+      "start": "Konvertierung starten",
+      "convert": "Konvertierung läuft",
+      "promptMsg": "Das konvertierte Audio:",
+      "warnMsg": "Bitte geben Sie ein Audio im richtigen Format an",
+      "previewAudio": "Vorschau des konvertierten Audios",
+      "format": "Audioformat",
+      "formatPromptText": "Einige Audioformate werden in Chrome nicht unterstützt. Bitte laden Sie es herunter, um es anzuhören.",
+      "samplingRate": "Abtastrate",
+      "trackCount": "Audiospuranzahl",
+      "audioSpeed": "Audio-Wiedergabegeschwindigkeit",
+      "speedPrompt": "Wenn z.B. 2 ausgewählt wird, beträgt die Wiedergabegeschwindigkeit das Doppelte der Originalgeschwindigkeit und die Wiedergabezeit wird halbiert."
+    },
+    "videoRotate": {
+      "title": "Vertikale Videos horizontal drehen und umgekehrt",
+      "rotateTip": "Verwenden Sie die oben stehende Schaltfläche, um das Video zu drehen",
+      "rotate": "Video drehen",
+      "degree": "Grad",
+      "start": "Drehung starten",
+      "convert": "Drehung läuft",
+      "zeroWarn": "Eine Drehung um 0 Grad ist nicht erforderlich"
+    },
+    "flipVideo": {
+      "title": "Ihr Video sofort spiegeln",
+      "start": "Spiegelung starten",
+      "convert": "Spiegelung läuft",
+      "flipMode": "Spiegelungsmodus auswählen",
+      "horizontal": "Video horizontal spiegeln",
+      "vertical": "Video vertikal spiegeln",
+      "horizontalAndVertical": "Video horizontal und vertikal spiegeln",
+      "horizontalOrAndVertical": "Video horizontal und/oder vertikal spiegeln"
+    },
+    "videoMute": {
+      "title": "Audio aus dem Video entfernen",
+      "start": "Starten",
+      "processing": "Bearbeitung läuft"
+    },
+    "changeVideoSpeed": {
+      "title": "Jedes Video beschleunigen oder verlangsamen",
+      "start": "Starten",
+      "processing": "Bearbeitung läuft"
+    },
+    "videoReverse": {
+      "title": "Jedes Video sofort umkehren",
+      "start": "Umkehrung starten",
+      "convert": "Umkehrung läuft"
+    },
+    "loopVideo": {
+      "title": "Video wiederholen",
+      "start": "Wiederholung starten",
+      "convert": "Konvertierung",
+      "count": "Video-Wiederholungsanzahl"
+    },
+    "videoToGifConvert": {
+      "title": "Video in GIF-Bild konvertieren",
+      "convert": "Konvertierung läuft",
+      "start": "Konvertierung starten"
+    },
+    "gifToVideoConvert": {
+      "title": "GIF-Bild in Video konvertieren",
+      "convert": "Konvertierung läuft",
+      "start": "Konvertierung starten"
+    },
+    "changeVideoVolume": {
+      "title": "Video-Lautstärke anpassen",
+      "start": "Anpassung starten",
+      "adjust": "Anpassung läuft"
+    },
+    "videoCompress": {
+      "title": "Videodateigröße reduzieren",
+      "compression": "Komprimierung läuft",
+      "startCompression": "Komprimierung starten",
+      "processing": "Video wird komprimiert:",
+      "compressionSettings": "Kompressionseinstellungen",
+      "compressedQuality": "Komprimierte Qualität",
+      "compressedinformation": "Nach der Komprimierung",
+      "ratio": "Kompressionsrate",
+      "resolution": "Auflösung",
+      "wait": "Komprimierung läuft. Bitte warten Sie, um es herunterzuladen!",
+      "bitrate": "Bitrate"
+    },
+    "extractAudioFromVideo": {
+      "title": "Audio extrahieren",
+      "start": "Extraktion starten",
+      "extracting": "Extraktion läuft",
+      "previewExtractedAudio": "Vorschau des extrahierten Audios",
+      "ExtractedAudioFormat": "Extrahiertes Audioformat",
+      "no": "Kein Audio in diesem Video vorhanden"
+    },
+    "component": {
+      "videoResultText": "Video-Dateien auswählen",
+      "audioResultText": "Audio-Dateien auswählen",
+      "resultTitle": "Oder per Drag & Drop Video-Dateien hinzufügen",
+      "loading": "Konvertierung...",
+      "selectVideo": "Video auswählen",
+      "dragAudio": "Audio hierhin ziehen und ablegen",
+      "selectAudio": "Audio auswählen",
+      "warnPrompt": "Dieses Tool kann erhebliche lokale Ressourcen verbrauchen. Bitte verwenden Sie es auf einem leistungsstarken Gerät."
+    },
+    "download": "Speichern",
+    "specification": "Die Zeit muss im Format 00:00:00 angegeben werden",
+    "symbolSpecification": "Eingabe darf kein '-' Zeichen enthalten",
+    "start": "Startzeit darf nicht größer als Endzeit sein",
+    "cutOff": "Das Audio wird abgeschnitten!",
+    "AudioLengthLessThanVideo": "Die ausgewählte Audiolänge ist kürzer als die Videolänge",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "Die maximale Zeit für die Audioauswahl überschreitet das Maximum des hochgeladenen Audios",
+      "title": "Fügen Sie Audio zu Video hinzu",
+      "button": "Video und Audio zusammenführen",
+      "upload": "Audio hochladen",
+      "cut": "Audio schneiden",
+      "startTime": "Startzeit",
+      "endStart": "Endzeit",
+      "trackVolume": "Audio-Track-Lautstärke",
+      "processing": "Audio wird bearbeitet:"
+    }
+  },
+  "es": {
+    "wait": "Espere hasta que se complete la conversión.",
+    "return": "Volver",
+    "success": "Conversión exitosa",
+    "videoInformation": "Información del video",
+    "upload": {
+      "placeholder": "Arrastre el video aquí",
+      "selectVideo": "Seleccionar video",
+      "error": "Error al subir"
+    },
+    "video": {
+      "name": "Nombre",
+      "size": "Tamaño del video",
+      "resolution": "Resolución"
+    },
+    "videoConverter": {
+      "title": "Cambiar el formato del video",
+      "start": "Comenzar la conversión",
+      "convert": "Convirtiendo",
+      "promptMsg": "Aquí está el video después de la conversión",
+      "warnMsg": "Lo siento, proporcione un video en el formato correcto",
+      "previewVideo": "Área de vista previa del video convertido",
+      "format": "Formato de video",
+      "formatPromptText": "Algunos formatos de video no son compatibles con la reproducción en Chrome, descárguelos para verlos",
+      "videoEncoder": "Codificador de video",
+      "frameRate": "Cuadros por segundo",
+      "videoSpeed": "Velocidad de reproducción del video",
+      "speedPrompt": "El 200% equivale a duplicar la duración del video original",
+      "resolution": "Resolución",
+      "selectTitle": "Convertir vídeo a"
+    },
+    "audioConverter": {
+      "title": "Cambiar el formato del audio",
+      "start": "Comenzar la conversión",
+      "convert": "Convirtiendo",
+      "promptMsg": "Aquí está el audio después de la conversión",
+      "warnMsg": "Lo siento, proporcione un audio en el formato correcto",
+      "previewAudio": "Área de vista previa del audio convertido",
+      "format": "Formato de audio",
+      "formatPromptText": "Algunos formatos de audio no son compatibles con la reproducción en Chrome, descárguelos para escucharlos",
+      "samplingRate": "Frecuencia de muestreo de audio",
+      "trackCount": "Número de canales de audio",
+      "audioSpeed": "Velocidad de reproducción del audio",
+      "speedPrompt": "Por ejemplo, seleccionar 2 duplicará la velocidad de reproducción, y se reducirá a la mitad la duración de reproducción original"
+    },
+    "videoRotate": {
+      "title": "Girar un video verticalmente a horizontal o viceversa",
+      "rotateTip": "Utilice los botones de rotación de arriba para girar el video",
+      "rotate": "Rotar el video",
+      "degree": "grado(s)",
+      "start": "Comenzar la conversión",
+      "convert": "Convirtiendo",
+      "zeroWarn": "No es necesario realizar una conversión si es de 0 grados"
+    },
+    "flipVideo": {
+      "title": "Voltear su video al instante",
+      "start": "Comenzar a voltear",
+      "convert": "Convirtiendo",
+      "flipMode": "Seleccione el modo de volteo",
+      "horizontal": "Volteo horizontal del video",
+      "vertical": "Volteo vertical del video",
+      "horizontalAndVertical": "Volteo horizontal y vertical del video",
+      "horizontalOrAndVertical": "Volteo horizontal y/o vertical del video"
+    },
+    "videoMute": {
+      "title": "Eliminar el audio del video",
+      "start": "Comenzar",
+      "processing": "Procesando"
+    },
+    "changeVideoSpeed": {
+      "title": "Acelerar o desacelerar cualquier video",
+      "start": "Comenzar",
+      "processing": "Procesando"
+    },
+    "videoReverse": {
+      "title": "Agregar efecto de reversa a cualquier video al instante",
+      "start": "Comenzar la reversa",
+      "convert": "Reversando"
+    },
+    "loopVideo": {
+      "title": "Video wiederholen",
+      "start": "Wiederholung starten",
+      "convert": "Konvertierung",
+      "count": "Video-Wiederholungsanzahl"
+    },
+    "videoToGifConvert": {
+      "title": "Convertir videos a imágenes GIF",
+      "convert": "Convirtiendo",
+      "start": "Comenzar la conversión"
+    },
+    "gifToVideoConvert": {
+      "title": "Convertir imágenes GIF a videos",
+      "convert": "Convirtiendo",
+      "start": "Comenzar la conversión"
+    },
+    "changeVideoVolume": {
+      "title": "Ajustar el volumen del video",
+      "start": "Comenzar ajuste",
+      "adjust": "Ajustando"
+    },
+    "videoCompress": {
+      "title": "Reducir el tamaño del archivo de video",
+      "compression": "Comprimiendo",
+      "startCompression": "Comenzar la compresión",
+      "processing": "Comprimiendo video:",
+      "compressionSettings": "Configuración de compresión",
+      "compressedQuality": "Calidad después de la compresión",
+      "compressedinformation": "Información después de la compresión",
+      "ratio": "Ratio de compresión",
+      "resolution": "Resolución",
+      "wait": "Comprimiendo, por favor espere para descargar",
+      "bitrate": "Bitrate"
+    },
+    "extractAudioFromVideo": {
+      "title": "Extraer audio",
+      "start": "Comenzar extracción",
+      "extracting": "Extrayendo",
+      "previewExtractedAudio": "Vista previa del audio extraído",
+      "ExtractedAudioFormat": "Formato de audio extraído",
+      "no": "No hay audio en este video"
+    },
+    "component": {
+      "videoResultText": "Seleccionar archivos de video",
+      "audioResultText": "Seleccionar archivos de audio",
+      "resultTitle": "O arrastra y suelta para agregar archivos de video",
+      "loading": "Convirtiendo...",
+      "selectVideo": "Seleccionar video",
+      "dragAudio": "Arrastrar audio aquí",
+      "selectAudio": "Seleccionar audio",
+      "warnPrompt": "Esta herramienta puede consumir recursos locales significativos. Úsala en un dispositivo con buen rendimiento."
+    },
+    "download": "Guardar",
+    "specification": "El formato de tiempo debe cumplir con el estándar 00:00:00",
+    "symbolSpecification": "No se permiten guiones '-' en la entrada",
+    "start": "El tiempo de inicio no puede ser mayor que el tiempo final",
+    "cutOff": "¡El audio se cortará!",
+    "AudioLengthLessThanVideo": "La duración seleccionada del audio es menor que la duración del video",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "El tiempo máximo del audio seleccionado excede el límite máximo del audio cargado",
+      "title": "Agregar audio al video",
+      "button": "Fusionar video y audio",
+      "upload": "Cargar audio",
+      "cut": "Cortar audio",
+      "startTime": "Tiempo de inicio",
+      "endStart": "Tiempo final",
+      "trackVolume": "Volumen de la pista de audio",
+      "processing": "Procesando audio:"
+    }
+  },
+  "fr": {
+    "wait": "Veuillez patienter jusqu'à la fin de la conversion",
+    "return": "Retour",
+    "success": "Conversion réussie",
+    "videoInformation": "Informations sur la vidéo",
+    "upload": {
+      "placeholder": "Déposez votre vidéo ici",
+      "selectVideo": "Sélectionner une vidéo",
+      "error": "Échec du téléchargement"
+    },
+    "video": {
+      "name": "Nom",
+      "size": "Taille de la vidéo",
+      "resolution": "Résolution"
+    },
+    "videoConverter": {
+      "title": "Changer le format de la vidéo",
+      "start": "Commencer la conversion",
+      "convert": "Conversion en cours",
+      "promptMsg": "Voici la vidéo convertie",
+      "warnMsg": "Veuillez fournir un format vidéo valide",
+      "previewVideo": "Zone d'aperçu de la vidéo convertie",
+      "format": "Format vidéo",
+      "formatPromptText": "Certains formats vidéo ne sont pas pris en charge par Chrome, veuillez les télécharger pour les visionner",
+      "videoEncoder": "Codec vidéo",
+      "frameRate": "Fréquence d'images de la vidéo",
+      "videoSpeed": "Vitesse de lecture de la vidéo",
+      "speedPrompt": "Une valeur de 200 % correspond à doubler la durée de lecture de la vidéo originale",
+      "resolution": "Résolution",
+      "selectTitle": "Convertir la vidéo en"
+    },
+    "audioConverter": {
+      "title": "Changer le format audio",
+      "start": "Commencer la conversion",
+      "convert": "Conversion en cours",
+      "promptMsg": "Voici l'audio converti",
+      "warnMsg": "Veuillez fournir un format audio valide",
+      "previewAudio": "Zone d'aperçu de l'audio converti",
+      "format": "Format audio",
+      "formatPromptText": "Certains formats audio ne sont pas pris en charge par Chrome, veuillez les télécharger pour les écouter",
+      "samplingRate": "Taux d'échantillonnage audio",
+      "trackCount": "Nombre de pistes audio",
+      "audioSpeed": "Vitesse de lecture audio",
+      "speedPrompt": "Par exemple, une valeur de 2 correspond à une vitesse de lecture deux fois plus rapide et une durée de lecture réduite de moitié"
+    },
+    "videoRotate": {
+      "title": "Faire pivoter une vidéo verticale horizontalement et vice versa",
+      "rotateTip": "Utilisez les boutons de rotation ci-dessus pour faire pivoter la vidéo",
+      "rotate": "Rotation de la vidéo",
+      "degree": "degrés",
+      "start": "Commencer la conversion",
+      "convert": "Conversion en cours",
+      "zeroWarn": "Aucune rotation nécessaire pour 0 degré"
+    },
+    "flipVideo": {
+      "title": "Miroir instantanément votre vidéo",
+      "start": "Commencer le miroir",
+      "convert": "Conversion en cours",
+      "flipMode": "Veuillez sélectionner le mode de retournement",
+      "horizontal": "Retournement horizontal de la vidéo",
+      "vertical": "Retournement vertical de la vidéo",
+      "horizontalAndVertical": "Retournement horizontal et vertical de la vidéo",
+      "horizontalOrAndVertical": "Retournement horizontal et/ou vertical de la vidéo"
+    },
+    "videoMute": {
+      "title": "Supprimer l'audio de la vidéo",
+      "start": "Commencer",
+      "processing": "Traitement en cours"
+    },
+    "changeVideoSpeed": {
+      "title": "Accélérer ou ralentir n'importe quelle vidéo",
+      "start": "Commencer",
+      "processing": "Traitement en cours"
+    },
+    "videoReverse": {
+      "title": "Ajouter instantanément un effet de retournement à n'importe quelle vidéo",
+      "start": "Commencer le retournement",
+      "convert": "Retournement en cours"
+    },
+    "loopVideo": {
+      "title": "Repetir tu video",
+      "start": "Iniciar repetición",
+      "convert": "Convirtiendo",
+      "count": "Cantidad de repeticiones"
+    },
+    "videoToGifConvert": {
+      "title": "Convertir une vidéo en image GIF",
+      "convert": "Conversion en cours",
+      "start": "Commencer la conversion"
+    },
+    "gifToVideoConvert": {
+      "title": "Convertir une image GIF en vidéo",
+      "convert": "Conversion en cours",
+      "start": "Commencer la conversion"
+    },
+    "changeVideoVolume": {
+      "title": "Ajuster le volume de la vidéo",
+      "start": "Commencer l'ajustement",
+      "adjust": "Ajustement en cours"
+    },
+    "videoCompress": {
+      "title": "Réduire la taille du fichier vidéo",
+      "compression": "Compression en cours",
+      "startCompression": "Commencer la compression",
+      "processing": "Compression de la vidéo en cours :",
+      "compressionSettings": "Paramètres de compression",
+      "compressedQuality": "Qualité après compression",
+      "compressedinformation": "Informations après compression",
+      "ratio": "Taux de compression",
+      "resolution": "Résolution",
+      "wait": "Compression en cours, veuillez patienter avant de télécharger !",
+      "bitrate": "Débit binaire"
+    },
+    "extractAudioFromVideo": {
+      "title": "Extraire l'audio",
+      "start": "Commencer l'extraction",
+      "extracting": "Extraction en cours",
+      "previewExtractedAudio": "Aperçu de l'audio extrait",
+      "ExtractedAudioFormat": "Format audio extrait",
+      "no": "Aucun audio dans cette vidéo"
+    },
+    "component": {
+      "videoResultText": "Sélectionner des fichiers vidéo",
+      "audioResultText": "Sélectionner des fichiers audio",
+      "resultTitle": "ou glissez-déposez pour ajouter des fichiers vidéo",
+      "loading": "Conversion en cours...",
+      "selectVideo": "Sélectionner une vidéo",
+      "dragAudio": "Déposer l'audio ici",
+      "selectAudio": "Sélectionner un audio",
+      "warnPrompt": "Cet outil peut consommer des ressources locales importantes. Veuillez l'utiliser sur un appareil performant."
+    },
+    "download": "Enregistrer",
+    "specification": "Le format de l'heure doit respecter le standard 00:00:00",
+    "symbolSpecification": "Les caractères '-' ne sont pas autorisés",
+    "start": "L'heure de début ne peut pas être supérieure à l'heure de fin",
+    "cutOff": "L'audio sera coupé !",
+    "AudioLengthLessThanVideo": "La durée de l'audio sélectionné est inférieure à celle de la vidéo",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "La durée maximale choisie pour l'audio dépasse la durée maximale de l'audio téléchargé",
+      "title": "Ajouter de l'audio à la vidéo",
+      "button": "Fusionner vidéo et audio",
+      "upload": "Télécharger un audio",
+      "cut": "Couper l'audio",
+      "startTime": "Heure de début",
+      "endStart": "Heure de fin",
+      "trackVolume": "Volume de la piste audio",
+      "processing": "Traitement de l'audio en cours :"
+    }
+  },
+  "it": {
+    "wait": "Attendere la conversione completa",
+    "return": "Torna",
+    "success": "Conversione riuscita",
+    "videoInformation": "Informazioni sul video",
+    "upload": {
+      "placeholder": "Trascina qui il video",
+      "selectVideo": "Seleziona video",
+      "error": "Caricamento fallito"
+    },
+    "video": {
+      "name": "Nome",
+      "size": "Dimensione del video",
+      "resolution": "Risoluzione"
+    },
+    "videoConverter": {
+      "title": "Cambia il formato del video",
+      "start": "Inizia la conversione",
+      "convert": "Conversione in corso",
+      "promptMsg": "Di seguito è riportato il video convertito",
+      "warnMsg": "Fornire un formato video valido",
+      "previewVideo": "Area di anteprima del video convertito",
+      "format": "Formato video",
+      "formatPromptText": "Alcuni formati video non sono supportati da Chrome, scaricali per visualizzarli",
+      "videoEncoder": "Codec video",
+      "frameRate": "Frame rate del video",
+      "videoSpeed": "Velocità di riproduzione del video",
+      "speedPrompt": "Il valore del 200% corrisponde al raddoppio della durata di riproduzione del video originale",
+      "resolution": "Risoluzione",
+      "selectTitle": "Converti Video In"
+    },
+    "audioConverter": {
+      "title": "Cambia il formato audio",
+      "start": "Inizia la conversione",
+      "convert": "Conversione in corso",
+      "promptMsg": "Di seguito è riportato l'audio convertito",
+      "warnMsg": "Fornire un formato audio valido",
+      "previewAudio": "Area di anteprima dell'audio convertito",
+      "format": "Formato audio",
+      "formatPromptText": "Alcuni formati audio non sono supportati da Chrome, scaricali per ascoltarli",
+      "samplingRate": "Frequenza di campionamento audio",
+      "trackCount": "Numero di tracce audio",
+      "audioSpeed": "Velocità di riproduzione dell'audio",
+      "speedPrompt": "Ad esempio, un valore di 2 equivale a una velocità di riproduzione due volte più veloce e una durata di riproduzione dimezzata"
+    },
+    "videoRotate": {
+      "title": "Ruota un video verticale in orizzontale e viceversa",
+      "rotateTip": "Utilizza i pulsanti di rotazione sopra per ruotare il video",
+      "rotate": "Rotazione del video",
+      "degree": "gradi",
+      "start": "Inizia la conversione",
+      "convert": "Conversione in corso",
+      "zeroWarn": "Nessuna rotazione necessaria per 0 gradi"
+    },
+    "flipVideo": {
+      "title": "即刻镜像您的视频",
+      "start": "开始镜像",
+      "convert": "转换中",
+      "flipMode": "请选择翻转模式",
+      "horizontal": "水平翻转视频",
+      "vertical": "垂直翻转视频",
+      "horizontalAndVertical": "水平和垂直翻转视频",
+      "horizontalOrAndVertical": "水平或垂直翻转视频"
+    },
+    "videoMute": {
+      "title": "删除视频中的音频",
+      "start": "开始",
+      "processing": "处理中"
+    },
+    "changeVideoSpeed": {
+      "title": "加速或减慢任何视频",
+      "start": "开始",
+      "processing": "处理中"
+    },
+    "videoReverse": {
+      "title": "为任何视频添加翻转效果",
+      "start": "开始翻转",
+      "convert": "翻转中"
+    },
+    "loopVideo": {
+      "title": "Répéter votre vidéo",
+      "start": "Démarrer la répétition",
+      "convert": "Conversion",
+      "count": "Nombre de répétitions de la vidéo"
+    },
+    "videoToGifConvert": {
+      "title": "将视频转换为 GIF 图片",
+      "convert": "转换中",
+      "start": "开始转换"
+    },
+    "gifToVideoConvert": {
+      "title": "将 GIF 图片转换为视频",
+      "convert": "转换中",
+      "start": "开始转换"
+    },
+    "changeVideoVolume": {
+      "title": "调整视频的音量",
+      "start": "开始调整",
+      "adjust": "调整中"
+    },
+    "videoCompress": {
+      "title": "压缩视频文件大小",
+      "compression": "压缩中",
+      "startCompression": "开始压缩",
+      "processing": "正在压缩视频：",
+      "compressionSettings": "压缩设置",
+      "compressedQuality": "压缩后的质量",
+      "compressedinformation": "压缩后的信息",
+      "ratio": "压缩比率",
+      "resolution": "分辨率",
+      "wait": "正在压缩，请等待下载完成！",
+      "bitrate": "码率"
+    },
+    "extractAudioFromVideo": {
+      "title": "提取音频",
+      "start": "开始提取",
+      "extracting": "提取中",
+      "previewExtractedAudio": "预览提取的音频",
+      "ExtractedAudioFormat": "Formato audio estratto",
+      "no": "此视频中没有音频"
+    },
+    "component": {
+      "videoResultText": "Seleziona file video",
+      "audioResultText": "Seleziona file audio",
+      "resultTitle": "oppure trascina e rilascia per aggiungere file video",
+      "loading": "Conversione in corso...",
+      "selectVideo": "Seleziona video",
+      "dragAudio": "Trascina l'audio qui",
+      "selectAudio": "Seleziona audio",
+      "warnPrompt": "Questo strumento potrebbe consumare risorse locali significative. Utilizzalo su un dispositivo con buone prestazioni."
+    },
+    "download": "保存",
+    "specification": "时间格式必须遵循 00:00:00 的标准",
+    "symbolSpecification": "不允许使用 '-' 字符",
+    "start": "开始时间不能大于结束时间",
+    "cutOff": "音频将会被剪切！",
+    "AudioLengthLessThanVideo": "所选音频的时长低于视频时长",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "所选择的音频最大时长超过上传的音频的最大时长",
+      "title": "将音频添加到视频",
+      "button": "合并视频和音频",
+      "upload": "上传音频",
+      "cut": "Taglia audio",
+      "startTime": "起始时间",
+      "endStart": "结束时间",
+      "trackVolume": "音轨音量",
+      "processing": "处理音频中："
+    }
+  },
+  "ja": {
+    "wait": "変換が完了するまでお待ちください",
+    "return": "戻る",
+    "success": "変換に成功しました",
+    "videoInformation": "ビデオ情報",
+    "upload": {
+      "placeholder": "ビデオをここにドラッグしてください",
+      "selectVideo": "ビデオを選択",
+      "error": "アップロードに失敗しました"
+    },
+    "video": {
+      "name": "名前",
+      "size": "ビデオサイズ",
+      "resolution": "解像度"
+    },
+    "videoConverter": {
+      "title": "ビデオの形式を変更する",
+      "start": "変換を開始",
+      "convert": "変換中",
+      "promptMsg": "変換後のビデオは以下の通りです",
+      "warnMsg": "申し訳ありませんが、正しい形式のビデオを提供してください",
+      "previewVideo": "変換後のビデオプレビューエリア",
+      "format": "ビデオフォーマット",
+      "formatPromptText": "一部のフォーマットのビデオはChromeで再生できません。ダウンロードしてご覧ください",
+      "videoEncoder": "ビデオエンコーダー",
+      "frameRate": "フレームレート",
+      "videoSpeed": "ビデオ再生速度",
+      "speedPrompt": "200％は元のビデオの再生時間を倍にします",
+      "resolution": "解像度",
+      "selectTitle": "ビデオを変換する"
+    },
+    "audioConverter": {
+      "title": "オーディオの形式を変更する",
+      "start": "変換を開始",
+      "convert": "変換中",
+      "promptMsg": "変換後のオーディオは以下の通りです",
+      "warnMsg": "申し訳ありませんが、正しい形式のオーディオを提供してください",
+      "previewAudio": "変換後のオーディオプレビューエリア",
+      "format": "オーディオフォーマット",
+      "formatPromptText": "一部のフォーマットのオーディオはChromeで再生できません。ダウンロードして聴くことができます",
+      "samplingRate": "オーディオサンプリングレート",
+      "trackCount": "オーディオトラック数",
+      "audioSpeed": "オーディオ再生速度",
+      "speedPrompt": "例えば2を選択すると、再生速度は元の2倍になり、再生時間は元の1/2になります"
+    },
+    "videoRotate": {
+      "title": "垂直ビデオを水平方向に回転、またはその逆にする",
+      "rotateTip": "上の回転ボタンを使用してビデオを回転させます",
+      "rotate": "ビデオを回転",
+      "degree": "度",
+      "start": "変換を開始",
+      "convert": "変換中",
+      "zeroWarn": "0度では変換する必要はありません"
+    },
+    "flipVideo": {
+      "title": "ビデオを即座に反転させます",
+      "start": "反転を開始",
+      "convert": "変換中",
+      "flipMode": "反転方法を選択してください",
+      "horizontal": "ビデオを水平方向に反転",
+      "vertical": "ビデオを垂直方向に反転",
+      "horizontalAndVertical": "ビデオを水平方向と垂直方向の両方に反転",
+      "horizontalOrAndVertical": "ビデオまたは/および水平方向に反転"
+    },
+    "videoMute": {
+      "title": "ビデオから音声を削除",
+      "start": "開始",
+      "processing": "処理中"
+    },
+    "changeVideoSpeed": {
+      "title": "任意のビデオの再生速度を速くまたは遅くします",
+      "start": "開始",
+      "processing": "処理中"
+    },
+    "videoReverse": {
+      "title": "任意のビデオに反転効果を追加",
+      "start": "反転を開始",
+      "convert": "反転中"
+    },
+    "loopVideo": {
+      "title": "ビデオをループ",
+      "start": "ループを開始",
+      "convert": "変換中",
+      "count": "ビデオループ回数"
+    },
+    "videoToGifConvert": {
+      "title": "ビデオをGIF画像に変換する",
+      "convert": "変換中",
+      "start": "変換を開始"
+    },
+    "gifToVideoConvert": {
+      "title": "GIF画像をビデオに変換する",
+      "convert": "変換中",
+      "start": "変換を開始"
+    },
+    "changeVideoVolume": {
+      "title": "ビデオの音量を調整する",
+      "start": "開始",
+      "adjust": "調整中"
+    },
+    "videoCompress": {
+      "title": "ビデオファイルサイズを小さくする",
+      "compression": "圧縮中",
+      "startCompression": "圧縮を開始",
+      "processing": "ビデオ圧縮中：",
+      "compressionSettings": "圧縮設定",
+      "compressedQuality": "圧縮後の品質",
+      "compressedinformation": "圧縮後の情報",
+      "ratio": "圧縮比率",
+      "resolution": "解像度",
+      "wait": "圧縮中です、しばらくお待ちください！",
+      "bitrate": "ビットレート"
+    },
+    "extractAudioFromVideo": {
+      "title": "音声を抽出する",
+      "start": "抽出を開始",
+      "extracting": "抽出中",
+      "previewExtractedAudio": "抽出後のオーディオプレビュー",
+      "ExtractedAudioFormat": "抽出されたオーディオ形式",
+      "no": "このビデオには音声がありません"
+    },
+    "component": {
+      "videoResultText": "ビデオファイルを選択",
+      "audioResultText": "オーディオファイルを選択",
+      "resultTitle": "またはドラッグアンドドロップでビデオファイルを追加",
+      "loading": "変換中...",
+      "selectVideo": "ビデオを選択",
+      "dragAudio": "ここにオーディオをドラッグ",
+      "selectAudio": "オーディオを選択",
+      "warnPrompt": "このツールは大量のローカルリソースを消費する場合があります。性能の良いデバイスで使用してください。"
+    },
+    "download": "保存",
+    "specification": "時間の形式は00:00:00の形式に準拠する必要があります",
+    "symbolSpecification": "入力にはハイフン'-'を含めることはできません",
+    "start": "開始時間は終了時間よりも大きくすることはできません",
+    "cutOff": "音声は切り取られます！",
+    "AudioLengthLessThanVideo": "選択した音声の長さがビデオの長さよりも短いです",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "音声の選択時間がアップロードした音声の最大値を超えています",
+      "title": "音声をビデオに追加する",
+      "button": "ビデオと音声をマージ",
+      "upload": "音声をアップロード",
+      "cut": "オーディオを切り取る",
+      "startTime": "開始時間",
+      "endStart": "終了時間",
+      "trackVolume": "トラックボリューム",
+      "processing": "オーディオ処理中："
+    }
+  },
+  "ko": {
+    "wait": "변환 완료 후에 반환됩니다",
+    "return": "돌아가기",
+    "success": "변환이 성공적으로 완료되었습니다",
+    "videoInformation": "비디오 정보",
+    "upload": {
+      "placeholder": "여기로 비디오를 드래그하세요",
+      "selectVideo": "비디오 선택",
+      "error": "업로드 실패"
+    },
+    "video": {
+      "name": "이름",
+      "size": "비디오 크기",
+      "resolution": "해상도"
+    },
+    "videoConverter": {
+      "title": "비디오 형식 변경",
+      "start": "변환 시작",
+      "convert": "변환 중",
+      "promptMsg": "다음은 변환된 비디오입니다",
+      "warnMsg": "죄송합니다. 올바른 형식의 비디오를 제공해주세요",
+      "previewVideo": "변환된 비디오 미리보기 영역",
+      "format": "비디오 형식",
+      "formatPromptText": "일부 형식의 비디오는 크롬에서 재생되지 않습니다. 다운로드하여 시청해주세요",
+      "videoEncoder": "비디오 인코더",
+      "frameRate": "비디오 프레임 속도",
+      "videoSpeed": "비디오 재생 속도",
+      "speedPrompt": "200%는 원본 비디오 재생 시간을 2배로 늘리는 것과 동일합니다",
+      "resolution": "해상도",
+      "selectTitle": "비디오를 변환하다"
+    },
+    "audioConverter": {
+      "title": "오디오 형식 변경",
+      "start": "변환 시작",
+      "convert": "변환 중",
+      "promptMsg": "다음은 변환된 오디오입니다",
+      "warnMsg": "죄송합니다. 올바른 형식의 오디오를 제공해주세요",
+      "previewAudio": "변환된 오디오 미리보기 영역",
+      "format": "오디오 형식",
+      "formatPromptText": "일부 형식의 오디오는 크롬에서 재생되지 않습니다. 다운로드하여 들으세요",
+      "samplingRate": "오디오 샘플링 속도",
+      "trackCount": "오디오 트랙 수",
+      "audioSpeed": "오디오 재생 속도",
+      "speedPrompt": "예를 들어 2를 선택하면 재생 속도가 원래의 2배가 되고 재생 시간이 원래의 1/2로 줄어듭니다"
+    },
+    "videoRotate": {
+      "title": "수직 비디오를 수평으로 회전 또는 그 반대로 회전합니다",
+      "rotateTip": "위의 회전 버튼을 사용하여 비디오를 회전하세요",
+      "rotate": "비디오 회전",
+      "degree": "도",
+      "start": "변환 시작",
+      "convert": "변환 중",
+      "zeroWarn": "0도는 변환이 필요하지 않습니다"
+    },
+    "flipVideo": {
+      "title": "비디오를 즉시 뒤집습니다",
+      "start": "뒤집기 시작",
+      "convert": "변환 중",
+      "flipMode": "뒤집기 모드 선택",
+      "horizontal": "비디오 수평 뒤집기",
+      "vertical": "비디오 수직 뒤집기",
+      "horizontalAndVertical": "비디오 수평 및 수직 뒤집기",
+      "horizontalOrAndVertical": "비디오 또는/및 수평 뒤집기"
+    },
+    "videoMute": {
+      "title": "비디오에서 오디오 제거",
+      "start": "시작",
+      "processing": "진행 중"
+    },
+    "changeVideoSpeed": {
+      "title": "모든 비디오의 재생 속도 증가 또는 감소",
+      "start": "시작",
+      "processing": "진행 중"
+    },
+    "videoReverse": {
+      "title": "어떤 비디오에도 반전 효과 추가",
+      "start": "반전 시작",
+      "convert": "반전 중"
+    },
+    "loopVideo": {
+      "title": "비디오 반복",
+      "start": "반복 시작",
+      "convert": "변환 중",
+      "count": "비디오 반복 횟수"
+    },
+    "videoToGifConvert": {
+      "title": "비디오를 GIF 이미지로 변환",
+      "convert": "변환 중",
+      "start": "변환 시작"
+    },
+    "gifToVideoConvert": {
+      "title": "GIF 이미지를 비디오로 변환",
+      "convert": "변환 중",
+      "start": "변환 시작"
+    },
+    "changeVideoVolume": {
+      "title": "비디오 볼륨 조절",
+      "start": "조절 시작",
+      "adjust": "조절 중"
+    },
+    "videoCompress": {
+      "title": "비디오 파일 크기 축소",
+      "compression": "압축 중",
+      "startCompression": "압축 시작",
+      "processing": "비디오 압축 중:",
+      "compressionSettings": "압축 설정",
+      "compressedQuality": "압축 후 품질",
+      "compressedinformation": "압축 후 정보",
+      "ratio": "압축 비율",
+      "resolution": "해상도",
+      "wait": "압축 중입니다. 잠시 후에 다운로드하세요!",
+      "bitrate": "비트레이트"
+    },
+    "extractAudioFromVideo": {
+      "title": "오디오 추출",
+      "start": "추출 시작",
+      "extracting": "추출 중",
+      "previewExtractedAudio": "추출된 오디오 미리보기",
+      "ExtractedAudioFormat": "추출된 오디오 형식",
+      "no": "이 비디오에는 오디오가 없습니다"
+    },
+    "component": {
+      "videoResultText": "비디오 파일 선택",
+      "audioResultText": "오디오 파일 선택",
+      "resultTitle": "또는 드래그 앤 드롭으로 비디오 파일 추가",
+      "loading": "변환 중...",
+      "selectVideo": "비디오 선택",
+      "dragAudio": "여기에 오디오 드래그",
+      "selectAudio": "오디오 선택",
+      "warnPrompt": "이 도구는 상당한 로컬 리소스를 소비할 수 있습니다. 성능이 좋은 장치에서 사용하십시오."
+    },
+    "download": "저장",
+    "specification": "시간 형식은 00:00:00과 같아야 합니다",
+    "symbolSpecification": "입력에 '-' 기호가 포함되어서는 안 됩니다",
+    "start": "시작 시간은 종료 시간보다 커야 합니다",
+    "cutOff": "오디오가 잘릴 수 있습니다!",
+    "AudioLengthLessThanVideo": "선택한 오디오 길이가 비디오 길이보다 짧습니다",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "오디오 선택의 최대 시간이 업로드된 오디오의 최대 값을 초과합니다",
+      "title": "오디오를 비디오에 추가",
+      "button": "비디오와 오디오 병합",
+      "upload": "오디오 업로드",
+      "cut": "오디오 자르기",
+      "startTime": "시작 시간",
+      "endStart": "종료 시간",
+      "trackVolume": "트랙 음량",
+      "processing": "오디오 처리 중:"
+    }
+  },
+  "pt": {
+    "wait": "Aguarde até a conversão ser concluída",
+    "return": "Retornar",
+    "success": "Conversão concluída com sucesso",
+    "videoInformation": "Informações do Vídeo",
+    "upload": {
+      "placeholder": "Arraste e solte o vídeo aqui",
+      "selectVideo": "Selecionar Vídeo",
+      "error": "Falha no envio"
+    },
+    "video": {
+      "name": "Nome",
+      "size": "Tamanho do Vídeo",
+      "resolution": "Resolução"
+    },
+    "videoConverter": {
+      "title": "Alterar Formato do Vídeo",
+      "start": "Iniciar Conversão",
+      "convert": "Convertendo",
+      "promptMsg": "Aqui está o vídeo convertido",
+      "warnMsg": "Desculpe, forneça um vídeo no formato correto",
+      "previewVideo": "Área de Pré-visualização do Vídeo Convertido",
+      "format": "Formato de Vídeo",
+      "formatPromptText": "Alguns formatos de vídeo não são reproduzidos no Chrome. Por favor, faça o download para assistir.",
+      "videoEncoder": "Codificador de Vídeo",
+      "frameRate": "Taxa de Quadros do Vídeo",
+      "videoSpeed": "Velocidade de Reprodução do Vídeo",
+      "speedPrompt": "200% é equivalente a dobrar o tempo de reprodução do vídeo original",
+      "resolution": "Resolução",
+      "selectTitle": "Converter Vídeo"
+    },
+    "audioConverter": {
+      "title": "Alterar Formato do Áudio",
+      "start": "Iniciar Conversão",
+      "convert": "Convertendo...",
+      "promptMsg": "Aqui está o áudio convertido",
+      "warnMsg": "Desculpe, forneça um áudio no formato correto",
+      "previewAudio": "Área de Pré-visualização do Áudio Convertido",
+      "format": "Formato de Áudio",
+      "formatPromptText": "Alguns formatos de áudio não são reproduzidos no Chrome. Por favor, faça o download para ouvir.",
+      "samplingRate": "Taxa de Amostragem de Áudio",
+      "trackCount": "Número de Canais de Áudio",
+      "audioSpeed": "Velocidade de Reprodução de Áudio",
+      "speedPrompt": "Por exemplo, selecionar 2 dobrará a velocidade de reprodução, encurtando o tempo de reprodução para metade"
+    },
+    "videoRotate": {
+      "title": "Rotação de Vídeo Vertical para Horizontal e Vice-versa",
+      "rotateTip": "Use os botões de rotação acima para girar o vídeo",
+      "rotate": "Rotação de Vídeo",
+      "degree": "graus",
+      "start": "Iniciar Conversão",
+      "convert": "Convertendo",
+      "zeroWarn": "0 graus não requer conversão"
+    },
+    "flipVideo": {
+      "title": "Espelhar o Seu Vídeo Imediatamente",
+      "start": "Iniciar Espelhamento",
+      "convert": "Convertendo",
+      "flipMode": "Escolha o Modo de Espelhamento",
+      "horizontal": "Espelhamento Horizontal do Vídeo",
+      "vertical": "Espelhamento Vertical do Vídeo",
+      "horizontalAndVertical": "Espelhamento Horizontal e Vertical do Vídeo",
+      "horizontalOrAndVertical": "Espelhamento Horizontal ou Vertical do Vídeo"
+    },
+    "videoMute": {
+      "title": "Remover Áudio do Vídeo",
+      "start": "Iniciar",
+      "processing": "Processando"
+    },
+    "changeVideoSpeed": {
+      "title": "Acelerar ou Desacelerar Qualquer Vídeo",
+      "start": "Iniciar",
+      "processing": "Processando"
+    },
+    "videoReverse": {
+      "title": "Adicionar Efeito de Reversão a Qualquer Vídeo Imediatamente",
+      "start": "Iniciar Reversão",
+      "convert": "Revertendo"
+    },
+    "loopVideo": {
+      "title": "Repetir Seu Vídeo",
+      "start": "Iniciar Repetição",
+      "convert": "Convertendo",
+      "count": "Número de Repetições do Vídeo"
+    },
+    "videoToGifConvert": {
+      "title": "Converter Vídeo em Imagem GIF",
+      "convert": "Convertendo",
+      "start": "Iniciar Conversão"
+    },
+    "gifToVideoConvert": {
+      "title": "Converter Imagem GIF em Vídeo",
+      "convert": "Convertendo",
+      "start": "Iniciar Conversão"
+    },
+    "changeVideoVolume": {
+      "title": "Ajustar o Volume de Áudio do Vídeo",
+      "start": "Iniciar",
+      "adjust": "Ajustando"
+    },
+    "videoCompress": {
+      "title": "Reduzir o Tamanho do Arquivo de Vídeo",
+      "compression": "Comprimindo",
+      "startCompression": "Iniciar Compressão",
+      "processing": "Comprimindo Vídeo...",
+      "compressionSettings": "Configurações de Compressão",
+      "compressedQuality": "Qualidade após Compressão",
+      "compressedinformation": "Informações após Compressão",
+      "ratio": "Taxa de Compressão",
+      "resolution": "Resolução",
+      "wait": "Comprimindo, por favor aguarde para fazer o download mais tarde!",
+      "bitrate": "Taxa de Bits"
+    },
+    "extractAudioFromVideo": {
+      "title": "Extrair Áudio",
+      "start": "Iniciar Extração",
+      "extracting": "Extraindo",
+      "previewExtractedAudio": "Pré-visualização de Áudio Extraído",
+      "ExtractedAudioFormat": "Formato de Áudio Extraído",
+      "no": "Não há áudio neste vídeo",
+      "warnings": "Você ainda não selecionou um áudio para adicionar"
+    },
+    "component": {
+      "videoResultText": "Selecionar Arquivo de Vídeo",
+      "drag": "Arraste e solte o vídeo aqui",
+      "or": "ou",
+      "resultTitle": "Arraste e solte um arquivo para adicionar ao vídeo",
+      "selectVideo": "Selecionar Vídeo",
+      "dragAudio": "Arraste e solte o áudio aqui",
+      "selectAudio": "Selecionar Áudio",
+      "warnPrompt": "Esta ferramenta pode exigir muitos recursos locais. Use-a em um dispositivo com bom desempenho."
+    },
+    "download": "Baixar",
+    "specification": "O formato de tempo deve seguir o padrão 00:00:00",
+    "symbolSpecification": "O campo não pode conter o símbolo '-'",
+    "start": "O tempo de início não pode ser maior que o tempo de término",
+    "cutOff": "Haverá corte no áudio!",
+    "AudioLengthLessThanVideo": "O comprimento do áudio selecionado é menor que o do vídeo",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "O tempo máximo selecionado do áudio ultrapassa o tempo máximo do áudio enviado",
+      "title": "Adicionar Áudio ao Vídeo",
+      "button": "Mesclar Vídeo e Áudio",
+      "upload": "Enviar Áudio",
+      "cut": "Cortar Áudio",
+      "startTime": "Hora de Início",
+      "endStart": "Hora de Término",
+      "trackVolume": "Volume da Faixa de Áudio",
+      "processing": "Processando Áudio..."
+    }
+  },
+  "ru": {
+    "wait": "Пожалуйста, дождитесь завершения конвертации",
+    "return": "Вернуться",
+    "success": "Конвертация успешно выполнена",
+    "videoInformation": "Информация о видео",
+    "upload": {
+      "placeholder": "Перетащите видео сюда",
+      "selectVideo": "Выбрать видео",
+      "error": "Ошибка загрузки"
+    },
+    "video": {
+      "name": "Название",
+      "size": "Размер видео",
+      "resolution": "Разрешение"
+    },
+    "videoConverter": {
+      "title": "Изменить формат видео",
+      "start": "Начать конвертацию",
+      "convert": "Конвертация...",
+      "promptMsg": "Видео после конвертации будет выглядеть так",
+      "warnMsg": "Извините, пожалуйста, предоставьте видео в правильном формате",
+      "previewVideo": "Область предварительного просмотра после конвертации видео",
+      "format": "Формат видео",
+      "formatPromptText": "Некоторые форматы видео не поддерживаются в Chrome, загрузите для просмотра",
+      "videoEncoder": "Кодек видео",
+      "frameRate": "Частота кадров видео",
+      "videoSpeed": "Скорость воспроизведения видео",
+      "speedPrompt": "200% соответствует удвоению продолжительности оригинального видео",
+      "resolution": "Разрешение",
+      "selectTitle": "Преобразовать видео в"
+    },
+    "audioConverter": {
+      "title": "Изменить формат аудио",
+      "start": "Начать конвертацию",
+      "convert": "Конвертация...",
+      "promptMsg": "Аудио после конвертации будет выглядеть так",
+      "warnMsg": "Извините, пожалуйста, предоставьте аудио в правильном формате",
+      "previewAudio": "Область предварительного просмотра после конвертации аудио",
+      "format": "Формат аудио",
+      "formatPromptText": "Некоторые форматы аудио не поддерживаются в Chrome, загрузите для прослушивания",
+      "samplingRate": "Частота дискретизации аудио",
+      "trackCount": "Число аудио каналов",
+      "audioSpeed": "Скорость воспроизведения аудио",
+      "speedPrompt": "Например, при выборе 2 скорость воспроизведения будет в 2 раза быстрее, время воспроизведения уменьшится в 2 раза"
+    },
+    "videoRotate": {
+      "title": "Повернуть вертикальное видео горизонтально и наоборот",
+      "rotateTip": "Используйте кнопку поворота видео вверху, чтобы повернуть видео",
+      "rotate": "Поворот видео",
+      "degree": "градусов",
+      "start": "Начать конвертацию",
+      "convert": "Конвертация..."
+    },
+    "flipVideo": {
+      "title": "Немедленно отразить ваше видео",
+      "start": "Начать отражение",
+      "convert": "Конвертация...",
+      "flipMode": "Выберите режим отражения",
+      "horizontal": "Горизонтальное отражение видео",
+      "vertical": "Вертикальное отражение видео",
+      "horizontalAndVertical": "Горизонтальное и вертикальное отражение видео",
+      "horizontalOrAndVertical": "Горизонтальное и/или вертикальное отражение видео"
+    },
+    "videoMute": {
+      "title": "Удалить звук из видео",
+      "start": "Начать",
+      "processing": "Обработка..."
+    },
+    "changeVideoSpeed": {
+      "title": "Ускорить или замедлить любое видео",
+      "start": "Начать",
+      "processing": "Обработка..."
+    },
+    "videoReverse": {
+      "title": "Добавить эффект перевернутого видео",
+      "start": "Начать переворот",
+      "convert": "Переворот..."
+    },
+    "loopVideo": {
+      "title": "Повторить ваше видео",
+      "start": "Начать повтор",
+      "convert": "Преобразование",
+      "count": "Количество повторений видео"
+    },
+    "videoToGifConvert": {
+      "title": "Конвертировать видео в GIF",
+      "convert": "Конвертация...",
+      "start": "Начать конвертацию"
+    },
+    "gifToVideoConvert": {
+      "title": "Конвертировать GIF в видео",
+      "convert": "Конвертация...",
+      "start": "Начать конвертацию"
+    },
+    "changeVideoVolume": {
+      "title": "Изменить громкость видео",
+      "start": "Начать",
+      "adjust": "Регулировка..."
+    },
+    "videoCompress": {
+      "title": "Уменьшить размер видео",
+      "compression": "Сжатие...",
+      "startCompression": "Начать сжатие",
+      "processing": "Сжатие видео...",
+      "compressionSettings": "Настройки сжатия",
+      "compressedQuality": "Качество после сжатия",
+      "compressedinformation": "Информация о сжатии",
+      "ratio": "Степень сжатия",
+      "resolution": "Разрешение",
+      "wait": "Идет сжатие, пожалуйста, подождите перед загрузкой!",
+      "bitrate": "Битрейт"
+    },
+    "extractAudioFromVideo": {
+      "title": "Извлечь аудио",
+      "start": "Начать извлечение",
+      "extracting": "Извлечение...",
+      "previewExtractedAudio": "Предпросмотр извлеченного аудио",
+      "ExtractedAudioFormat": "Формат извлеченного аудио",
+      "no": "В этом видео нет аудио"
+    },
+    "component": {
+      "videoResultText": "Выбрать видеофайлы",
+      "audioResultText": "Выбрать аудиофайлы",
+      "resultTitle": "или перетащите файлы для добавления видеофайлов",
+      "loading": "Конвертация...",
+      "selectVideo": "Выбрать видео",
+      "dragAudio": "Перетащите аудио сюда",
+      "selectAudio": "Выбрать аудио",
+      "warnPrompt": "Этот инструмент может потреблять значительные локальные ресурсы. Пожалуйста, используйте его на устройстве с хорошей производительностью."
+    },
+    "download": "Сохранить",
+    "specification": "Формат времени должен соответствовать шаблону 00:00:00",
+    "symbolSpecification": "Ввод не должен содержать символ '-'",
+    "start": "Начальное время не может быть больше конечного времени",
+    "cutOff": "Аудио будет обрезано!",
+    "AudioLengthLessThanVideo": "Длина выбранного аудио меньше длины видео",
+    "mergeVideoAndAudio": {
+      "maximumLimit": "Выбранное аудио имеет продолжительность превышающую максимально возможную",
+      "title": "Добавить аудио к видео",
+      "button": "Объединить видео и аудио",
+      "upload": "Загрузить аудио",
+      "cut": "Обрезать аудио",
+      "startTime": "Начальное время",
+      "endStart": "Конечное время",
+      "trackVolume": "Громкость дорожки",
+      "processing": "Обработка аудио..."
+    }
+  }
+}

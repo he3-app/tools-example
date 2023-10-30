@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "input_tip": "请在这里输入内容：",
+    "result_tip_no_colon": "在这里得到结果"
+  },
+  "en": {
+    "input_tip": "Please input your content here:",
+    "result_tip_no_colon": "Get result here:"
+  },
+  "de": {
+    "input_tip": "Bitte geben Sie den Inhalt hier ein:",
+    "result_tip_no_colon": "Holen Sie sich das Ergebnis hier"
+  },
+  "es": {
+    "input_tip": "Ingrese el contenido aquí:",
+    "result_tip_no_colon": "Obtenga el resultado aquí"
+  },
+  "fr": {
+    "input_tip": "Veuillez saisir le contenu ici:",
+    "result_tip_no_colon": "Obtenez le résultat ici"
+  },
+  "it": {
+    "input_tip": "Inserisci il contenuto qui:",
+    "result_tip_no_colon": "Ottieni il risultato qui"
+  },
+  "ja": {
+    "input_tip": "ここにコンテンツを入力してください：",
+    "result_tip_no_colon": "ここで結果を入手してください"
+  },
+  "ko": {
+    "input_tip": "여기에 내용을 입력하십시오.",
+    "result_tip_no_colon": "여기에서 결과를 얻으십시오"
+  },
+  "pt": {
+    "input_tip": "Por favor, insira o conteúdo aqui:",
+    "result_tip_no_colon": "Obtenha o resultado aqui"
+  },
+  "ru": {
+    "input_tip": "Пожалуйста, введите контент здесь:",
+    "result_tip_no_colon": "Получите результат здесь"
+  },
+  "zh-tw": {
+    "input_tip": "請在這裡輸入內容：",
+    "result_tip_no_colon": "在這裡得到結果"
+  }
+}

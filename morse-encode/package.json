@@ -1,0 +1,43 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "name": "Morse Code Encoding",
+    "id": "morse-encode",
+    "icon": "block-outlined",
+    "version": "1.0.5",
+    "isPublic": true,
+    "repository": "",
+    "category": [
+      "encode"
+    ],
+    "description": "Morse Code Encoding tool is a tool used to convert text into Morse code. It can convert the input text into Morse code and display the converted result in the output area.\n\nFeatures:\n\n1. Enter the text to be converted in the input area.\n\n2. The tool will automatically convert the text into Morse code and display the converted result in the output area.\n\n3. Users can copy the converted result to the clipboard for use in other applications.\n\n4. Users can also convert Morse code back to text and display the converted result in the input area.\n\nUse cases:\n\n1. Telegraph communication: In telegraph communication, Morse code is a commonly used encoding method. Using the Morse Code Encoding tool, users can convert the text they need to send into Morse code for transmission via telegraph.\n\n2. Radio communication: In radio communication, Morse code is also a commonly used encoding method. Using the Morse Code Encoding tool, users can convert the text they need to send into Morse code for transmission via radio.\n\n3. Learning Morse code: For users interested in Morse code, the Morse Code Encoding tool can help them learn the encoding method and rules of Morse code.\n\n4. Other applications: The Morse Code Encoding tool can also be used in other applications that require text to be converted into Morse code.",
+    "keywords": [
+      "morse",
+      "Encode",
+      "Morse Code",
+      "Encoding Tool",
+      "Telegraph Communication",
+      "Wireless Communication",
+      "Learning Tool"
+    ],
+    "relatedToolId": [
+      "morse-decode"
+    ]
+  },
+  "dependencies": {
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}
