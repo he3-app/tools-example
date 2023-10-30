@@ -1,0 +1,35 @@
+{
+  "zh": {
+    "input_tip": "请在这里输入内容："
+  },
+  "en": {
+    "input_tip": "Please input your content here:"
+  },
+  "de": {
+    "input_tip": "Bitte geben Sie den Inhalt hier ein:"
+  },
+  "es": {
+    "input_tip": "Ingrese el contenido aquí:"
+  },
+  "fr": {
+    "input_tip": "Veuillez saisir le contenu ici:"
+  },
+  "it": {
+    "input_tip": "Inserisci il contenuto qui:"
+  },
+  "ja": {
+    "input_tip": "ここにコンテンツを入力してください："
+  },
+  "ko": {
+    "input_tip": "여기에 내용을 입력하십시오."
+  },
+  "pt": {
+    "input_tip": "Por favor, insira o conteúdo aqui:"
+  },
+  "ru": {
+    "input_tip": "Пожалуйста, введите контент здесь:"
+  },
+  "zh-tw": {
+    "input_tip": "請在這裡輸入內容："
+  }
+}

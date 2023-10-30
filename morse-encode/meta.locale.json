@@ -1,0 +1,142 @@
+{
+  "zh-cn": {
+    "$name": "莫尔斯电码编码",
+    "$keywords": [
+      "莫尔斯电码",
+      "编码工具",
+      "电报通信",
+      "无线通信",
+      "学习工具"
+    ],
+    "$description": "摩尔斯电码编码工具是一种将文本转换为摩尔斯电码的工具。它可以将输入的文本转换为摩尔斯电码，并在输出区域显示转换后的结果。\n\n特点：\n\n1. 在输入区域输入要转换的文本。\n\n2. 工具会自动将文本转换为摩尔斯电码，并在输出区域显示转换后的结果。\n\n3. 用户可以将转换后的结果复制到剪贴板中，以便在其他应用程序中使用。\n\n4. 用户还可以将摩尔斯电码转换回文本，并在输入区域显示转换后的结果。\n\n用例：\n\n1. 电报通信：在电报通信中，摩尔斯电码是一种常用的编码方法。使用摩尔斯电码编码工具，用户可以将需要发送的文本转换为摩尔斯电码，以通过电报进行传输。\n\n2. 无线电通信：在无线电通信中，摩尔斯电码也是一种常用的编码方法。使用摩尔斯电码编码工具，用户可以将需要发送的文本转换为摩尔斯电码，以通过无线电进行传输。\n\n3. 学习摩尔斯电码：对于对摩尔斯电码感兴趣的用户，摩尔斯电码编码工具可以帮助他们学习摩尔斯电码的编码方法和规则。\n\n4. 其他应用程序：摩尔斯电码编码工具还可以用于其他需要将文本转换为摩尔斯电码的应用程序。"
+  },
+  "zh-tw": {
+    "$name": "摩斯電碼編碼",
+    "$keywords": [
+      "摩斯電碼",
+      "編碼",
+      "摩斯電碼編碼工具",
+      "電報通訊",
+      "無線通訊",
+      "學習工具"
+    ],
+    "$description": "摩斯電碼編碼工具是一種用於將文本轉換為摩斯電碼的工具。它可以將輸入的文本轉換為摩斯電碼並在輸出區域顯示轉換後的結果。\n\n功能：\n\n1. 在輸入區域輸入要轉換的文本。\n\n2. 工具會自動將文本轉換為摩斯電碼並在輸出區域顯示轉換後的結果。\n\n3. 用戶可以將轉換後的結果複製到剪貼板中，以在其他應用程序中使用。\n\n4. 用戶還可以將摩斯電碼轉換回文本並在輸入區域顯示轉換後的結果。\n\n用途：\n\n1. 電報通信：在電報通信中，摩斯電碼是一種常用的編碼方法。使用摩斯電碼編碼工具，用戶可以將需要發送的文本轉換為摩斯電碼，以通過電報進行傳輸。\n\n2. 無線電通信：在無線電通信中，摩斯電碼也是一種常用的編碼方法。使用摩斯電碼編碼工具，用戶可以將需要發送的文本轉換為摩斯電碼，以通過無線電進行傳輸。\n\n3. 學習摩斯電碼：對於對摩斯電碼感興趣的用戶，摩斯電碼編碼工具可以幫助他們學習摩斯電碼的編碼方法和規則。\n\n4. 其他應用：摩斯電碼編碼工具還可以用於其他需要將文本轉換為摩斯電碼的應用程序中。"
+  },
+  "es": {
+    "$name": "Codificación Morse",
+    "$keywords": [
+      "morse",
+      "codificación",
+      "código morse",
+      "herramienta de codificación",
+      "comunicación telegráfica",
+      "comunicación inalámbrica",
+      "herramienta de aprendizaje"
+    ],
+    "$description": "La herramienta de codificación de código Morse es una herramienta utilizada para convertir texto en código Morse. Puede convertir el texto de entrada en código Morse y mostrar el resultado convertido en el área de salida.\n\nCaracterísticas:\n\n1. Ingrese el texto a convertir en el área de entrada.\n\n2. La herramienta convertirá automáticamente el texto en código Morse y mostrará el resultado convertido en el área de salida.\n\n3. Los usuarios pueden copiar el resultado convertido al portapapeles para usar en otras aplicaciones.\n\n4. Los usuarios también pueden convertir código Morse de vuelta a texto y mostrar el resultado convertido en el área de entrada.\n\nCasos de uso:\n\n1. Comunicación telegráfica: En la comunicación telegráfica, el código Morse es un método de codificación comúnmente utilizado. Usando la herramienta de codificación de código Morse, los usuarios pueden convertir el texto que necesitan enviar en código Morse para su transmisión a través del telégrafo.\n\n2. Comunicación de radio: En la comunicación de radio, el código Morse también es un método de codificación comúnmente utilizado. Usando la herramienta de codificación de código Morse, los usuarios pueden convertir el texto que necesitan enviar en código Morse para su transmisión a través de la radio.\n\n3. Aprendizaje del código Morse: Para los usuarios interesados en el código Morse, la herramienta de codificación de código Morse puede ayudarles a aprender el método de codificación y las reglas del código Morse.\n\n4. Otras aplicaciones: La herramienta de codificación de código Morse también se puede utilizar en otras aplicaciones que requieren que el texto se convierta en código Morse."
+  },
+  "ja": {
+    "$name": "モールス符号エンコーディング",
+    "$keywords": [
+      "モールス",
+      "エンコード",
+      "モールス符号",
+      "エンコーディングツール",
+      "電信通信",
+      "無線通信",
+      "学習ツール"
+    ],
+    "$description": "モールス符号エンコーディングツールは、テキストをモールス符号に変換するために使用されるツールです。入力されたテキストをモールス符号に変換し、変換された結果を出力エリアに表示することができます。\n\n特徴：\n\n1. 入力エリアに変換するテキストを入力します。\n\n2. ツールは自動的にテキストをモールス符号に変換し、変換された結果を出力エリアに表示します。\n\n3. ユーザーは、変換された結果をクリップボードにコピーして他のアプリケーションで使用することができます。\n\n4. ユーザーはまた、モールス符号をテキストに戻して、変換された結果を入力エリアに表示することができます。\n\n使用例：\n\n1. 電信通信：電信通信では、モールス符号は一般的に使用される符号化方法です。モールス符号エンコーディングツールを使用することで、ユーザーは送信する必要があるテキストをモールス符号に変換して電信で送信することができます。\n\n2. ラジオ通信：ラジオ通信でも、モールス符号は一般的に使用される符号化方法です。モールス符号エンコーディングツールを使用することで、ユーザーは送信する必要があるテキストをモールス符号に変換してラジオで送信することができます。\n\n3. モールス符号の学習：モールス符号に興味を持つユーザーにとって、モールス符号エンコーディングツールは、モールス符号の符号化方法やルールを学ぶのに役立ちます。\n\n4. その他のアプリケーション：モールス符号エンコーディングツールは、テキストをモールス符号に変換する必要がある他のアプリケーションでも使用することができます。"
+  },
+  "ko": {
+    "$name": "모스 부호 인코딩",
+    "$keywords": [
+      "모스 부호",
+      "인코딩",
+      "모스 부호 인코딩",
+      "인코딩 도구",
+      "전신 통신",
+      "무선 통신",
+      "학습 도구"
+    ],
+    "$description": "모스 부호 인코딩 도구는 텍스트를 모스 부호로 변환하는 데 사용되는 도구입니다. 입력된 텍스트를 모스 부호로 변환하고 변환된 결과를 출력 영역에 표시할 수 있습니다.\n\n기능:\n\n1. 입력 영역에 변환할 텍스트를 입력합니다.\n\n2. 도구는 자동으로 텍스트를 모스 부호로 변환하고 출력 영역에 변환된 결과를 표시합니다.\n\n3. 사용자는 변환된 결과를 클립보드에 복사하여 다른 애플리케이션에서 사용할 수 있습니다.\n\n4. 사용자는 또한 모스 부호를 다시 텍스트로 변환하고 변환된 결과를 입력 영역에 표시할 수 있습니다.\n\n사용 사례:\n\n1. 전신 통신: 전신 통신에서 모스 부호는 일반적으로 사용되는 인코딩 방법입니다. 모스 부호 인코딩 도구를 사용하여 사용자는 전신 통신을 통해 전송하기 위해 필요한 텍스트를 모스 부호로 변환할 수 있습니다.\n\n2. 무선 통신: 무선 통신에서 모스 부호는 또한 일반적으로 사용되는 인코딩 방법입니다. 모스 부호 인코딩 도구를 사용하여 사용자는 무선 통신을 통해 전송하기 위해 필요한 텍스트를 모스 부호로 변환할 수 있습니다.\n\n3. 모스 부호 학습: 모스 부호에 관심이 있는 사용자는 모스 부호 인코딩 도구를 사용하여 모스 부호의 인코딩 방법과 규칙을 학습할 수 있습니다.\n\n4. 기타 애플리케이션: 모스 부호 인코딩 도구는 텍스트를 모스 부호로 변환해야 하는 다른 애플리케이션에서도 사용할 수 있습니다."
+  },
+  "de": {
+    "$name": "Morse-Code-Kodierung",
+    "$keywords": [
+      "Morse",
+      "Kodierung",
+      "Morse-Code",
+      "Kodierungswerkzeug",
+      "Telegrafenkommunikation",
+      "Funkkommunikation",
+      "Lernwerkzeug"
+    ],
+    "$description": "Morse-Code-Codierungstool ist ein Werkzeug, das verwendet wird, um Text in Morse-Code umzuwandeln. Es kann den eingegebenen Text in Morse-Code umwandeln und das konvertierte Ergebnis im Ausgabe-Bereich anzeigen.\n\nFunktionen:\n\n1. Geben Sie den zu konvertierenden Text im Eingabe-Bereich ein.\n\n2. Das Tool wandelt den Text automatisch in Morse-Code um und zeigt das konvertierte Ergebnis im Ausgabe-Bereich an.\n\n3. Benutzer können das konvertierte Ergebnis in die Zwischenablage kopieren, um es in anderen Anwendungen zu verwenden.\n\n4. Benutzer können auch Morse-Code zurück in Text umwandeln und das konvertierte Ergebnis im Eingabe-Bereich anzeigen.\n\nAnwendungsfälle:\n\n1. Telegraphenkommunikation: In der Telegraphenkommunikation ist Morse-Code eine häufig verwendete Codierungsmethode. Mit dem Morse-Code-Codierungstool können Benutzer den Text, den sie senden müssen, in Morse-Code umwandeln, um ihn über Telegraphen zu übertragen.\n\n2. Funkkommunikation: In der Funkkommunikation ist Morse-Code ebenfalls eine häufig verwendete Codierungsmethode. Mit dem Morse-Code-Codierungstool können Benutzer den Text, den sie senden müssen, in Morse-Code umwandeln, um ihn über Funk zu übertragen.\n\n3. Lernen von Morse-Code: Für Benutzer, die sich für Morse-Code interessieren, kann das Morse-Code-Codierungstool ihnen helfen, die Codierungsmethode und Regeln von Morse-Code zu lernen.\n\n4. Andere Anwendungen: Das Morse-Code-Codierungstool kann auch in anderen Anwendungen verwendet werden, die erfordern, dass Text in Morse-Code umgewandelt wird."
+  },
+  "fr": {
+    "$name": "Encodage du code Morse",
+    "$keywords": [
+      "morse",
+      "Encode",
+      "Code Morse",
+      "Outil d'encodage",
+      "Communication télégraphique",
+      "Communication sans fil",
+      "Outil d'apprentissage"
+    ],
+    "$description": "Outil de codage Morse est un outil utilisé pour convertir du texte en code Morse. Il peut convertir le texte d'entrée en code Morse et afficher le résultat converti dans la zone de sortie.\n\nFonctionnalités:\n\n1. Entrez le texte à convertir dans la zone d'entrée.\n\n2. L'outil convertira automatiquement le texte en code Morse et affichera le résultat converti dans la zone de sortie.\n\n3. Les utilisateurs peuvent copier le résultat converti dans le presse-papiers pour une utilisation dans d'autres applications.\n\n4. Les utilisateurs peuvent également convertir le code Morse en texte et afficher le résultat converti dans la zone d'entrée.\n\nCas d'utilisation:\n\n1. Communication télégraphique: En communication télégraphique, le code Morse est une méthode de codage couramment utilisée. En utilisant l'outil de codage Morse, les utilisateurs peuvent convertir le texte qu'ils doivent envoyer en code Morse pour la transmission via le télégraphe.\n\n2. Communication radio: En communication radio, le code Morse est également une méthode de codage couramment utilisée. En utilisant l'outil de codage Morse, les utilisateurs peuvent convertir le texte qu'ils doivent envoyer en code Morse pour la transmission via la radio.\n\n3. Apprentissage du code Morse: Pour les utilisateurs intéressés par le code Morse, l'outil de codage Morse peut les aider à apprendre la méthode de codage et les règles du code Morse.\n\n4. Autres applications: L'outil de codage Morse peut également être utilisé dans d'autres applications qui nécessitent la conversion de texte en code Morse."
+  },
+  "it": {
+    "$name": "Codifica Morse",
+    "$keywords": [
+      "morse",
+      "Codifica",
+      "Codice Morse",
+      "Strumento di Codifica",
+      "Comunicazione Telegrafica",
+      "Comunicazione Wireless",
+      "Strumento di Apprendimento"
+    ],
+    "$description": "Lo strumento di codifica Morse Code Encoding è uno strumento utilizzato per convertire il testo in codice Morse. Può convertire il testo di input in codice Morse e visualizzare il risultato convertito nell'area di output.\n\nCaratteristiche:\n\n1. Inserisci il testo da convertire nell'area di input.\n\n2. Lo strumento convertirà automaticamente il testo in codice Morse e visualizzerà il risultato convertito nell'area di output.\n\n3. Gli utenti possono copiare il risultato convertito negli appunti per usarlo in altre applicazioni.\n\n4. Gli utenti possono anche convertire il codice Morse in testo e visualizzare il risultato convertito nell'area di input.\n\nCasi d'uso:\n\n1. Comunicazione telegrafica: nella comunicazione telegrafica, il codice Morse è un metodo di codifica comunemente utilizzato. Utilizzando lo strumento di codifica Morse Code Encoding, gli utenti possono convertire il testo che devono inviare in codice Morse per la trasmissione tramite telegrafo.\n\n2. Comunicazione radio: nella comunicazione radio, il codice Morse è anche un metodo di codifica comunemente utilizzato. Utilizzando lo strumento di codifica Morse Code Encoding, gli utenti possono convertire il testo che devono inviare in codice Morse per la trasmissione via radio.\n\n3. Apprendimento del codice Morse: per gli utenti interessati al codice Morse, lo strumento di codifica Morse Code Encoding può aiutarli a imparare il metodo di codifica e le regole del codice Morse.\n\n4. Altre applicazioni: lo strumento di codifica Morse Code Encoding può anche essere utilizzato in altre applicazioni che richiedono la conversione del testo in codice Morse."
+  },
+  "ru": {
+    "$name": "Кодирование Морзе",
+    "$keywords": [
+      "морзе",
+      "код Морзе",
+      "кодирование",
+      "инструмент кодирования",
+      "телеграфная связь",
+      "беспроводная связь",
+      "учебный инструмент"
+    ],
+    "$description": "Инструмент кодирования Морзе - это инструмент, используемый для преобразования текста в код Морзе. Он может преобразовывать входной текст в код Морзе и отображать преобразованный результат в области вывода.\n\nОсобенности:\n\n1. Введите текст, который нужно преобразовать, в область ввода.\n\n2. Инструмент автоматически преобразует текст в код Морзе и отображает преобразованный результат в области вывода.\n\n3. Пользователи могут скопировать преобразованный результат в буфер обмена для использования в других приложениях.\n\n4. Пользователи также могут преобразовать код Морзе обратно в текст и отобразить преобразованный результат в области ввода.\n\nПрименение:\n\n1. Телеграфная связь: В телеграфной связи код Морзе является распространенным методом кодирования. Используя инструмент кодирования Морзе, пользователи могут преобразовать текст, который им нужно отправить, в код Морзе для передачи по телеграфу.\n\n2. Радиосвязь: В радиосвязи код Морзе также является распространенным методом кодирования. Используя инструмент кодирования Морзе, пользователи могут преобразовать текст, который им нужно отправить, в код Морзе для передачи по радио.\n\n3. Изучение кода Морзе: Для пользователей, интересующихся кодом Морзе, инструмент кодирования Морзе может помочь им изучить метод кодирования и правила кода Морзе.\n\n4. Другие приложения: Инструмент кодирования Морзе также может использоваться в других приложениях, которым требуется преобразование текста в код Морзе."
+  },
+  "pt": {
+    "$name": "Codificação em Código Morse",
+    "$keywords": [
+      "morse",
+      "Codificação",
+      "Código Morse",
+      "Ferramenta de Codificação",
+      "Comunicação por Telégrafo",
+      "Comunicação sem Fio",
+      "Ferramenta de Aprendizado"
+    ],
+    "$description": "A ferramenta de codificação em código Morse é usada para converter texto em código Morse. Ela pode converter o texto de entrada em código Morse e exibir o resultado convertido na área de saída.\n\nRecursos:\n\n1. Insira o texto a ser convertido na área de entrada.\n\n2. A ferramenta converterá automaticamente o texto em código Morse e exibirá o resultado convertido na área de saída.\n\n3. Os usuários podem copiar o resultado convertido para a área de transferência para uso em outras aplicações.\n\n4. Os usuários também podem converter código Morse de volta para texto e exibir o resultado convertido na área de entrada.\n\nCasos de uso:\n\n1. Comunicação telegráfica: Na comunicação telegráfica, o código Morse é um método de codificação comumente usado. Usando a ferramenta de codificação em código Morse, os usuários podem converter o texto que precisam enviar em código Morse para transmissão via telegrafo.\n\n2. Comunicação de rádio: Na comunicação de rádio, o código Morse também é um método de codificação comumente usado. Usando a ferramenta de codificação em código Morse, os usuários podem converter o texto que precisam enviar em código Morse para transmissão via rádio.\n\n3. Aprendendo código Morse: Para usuários interessados em código Morse, a ferramenta de codificação em código Morse pode ajudá-los a aprender o método de codificação e as regras do código Morse.\n\n4. Outras aplicações: A ferramenta de codificação em código Morse também pode ser usada em outras aplicações que exigem que o texto seja convertido em código Morse."
+  },
+  "en": {
+    "$name": "Morse Code Encoding",
+    "$keywords": [
+      "morse",
+      "Encode",
+      "Morse Code",
+      "Encoding Tool",
+      "Telegraph Communication",
+      "Wireless Communication",
+      "Learning Tool"
+    ],
+    "$description": "Morse Code Encoding tool is a tool used to convert text into Morse code. It can convert the input text into Morse code and display the converted result in the output area.\n\nFeatures:\n\n1. Enter the text to be converted in the input area.\n\n2. The tool will automatically convert the text into Morse code and display the converted result in the output area.\n\n3. Users can copy the converted result to the clipboard for use in other applications.\n\n4. Users can also convert Morse code back to text and display the converted result in the input area.\n\nUse cases:\n\n1. Telegraph communication: In telegraph communication, Morse code is a commonly used encoding method. Using the Morse Code Encoding tool, users can convert the text they need to send into Morse code for transmission via telegraph.\n\n2. Radio communication: In radio communication, Morse code is also a commonly used encoding method. Using the Morse Code Encoding tool, users can convert the text they need to send into Morse code for transmission via radio.\n\n3. Learning Morse code: For users interested in Morse code, the Morse Code Encoding tool can help them learn the encoding method and rules of Morse code.\n\n4. Other applications: The Morse Code Encoding tool can also be used in other applications that require text to be converted into Morse code."
+  }
+}

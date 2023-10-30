@@ -1,0 +1,222 @@
+{
+    "zh": {
+        "input": "请在这里输入内容:",
+        "result": "在这里得到结果:",
+        "input_tip": "请在这里输入内容：",
+        "outputStyle": "输出风格",
+        "styleOptions": {
+            "normal": "普通风格",
+            "tone": "声调风格",
+            "tone2": "音标风格(tone2)",
+            "to3ne": "音标风格(to3ne)",
+            "initials": "生母风格",
+            "first_letter": "首字母风格"
+        },
+        "outputMode": "输出模式",
+        "segment": "词语分词",
+        "group": "词语分组",
+        "heteronym": "输出多音字",
+        "compact": "输出紧凑格式",
+        "surnameMode": "人名模式"
+    },
+    "en": {
+        "input": "Please input content here:",
+        "result": "Get result here:",
+        "input_tip": "Please input content here:",
+        "outputStyle": "Output Style",
+        "styleOptions": {
+            "normal": "Normal Style",
+            "tone": "Tone Style",
+            "tone2": "Pinyin Style (tone2)",
+            "to3ne": "Pinyin Style (to3ne)",
+            "initials": "Mandarin Initials",
+            "first_letter": "First Letter Style"
+        },
+        "outputMode": "Output Mode",
+        "segment": "Word Segmentation",
+        "group": "Word Grouping",
+        "heteronym": "Output Heteronyms",
+        "compact": "Compact Output",
+        "surnameMode": "Person Name Mode"
+    },
+    "zh-tw": {
+        "input": "請在這裡輸入內容：",
+        "result": "在這裡獲得結果：",
+        "input_tip": "請在這裡輸入內容：",
+        "outputStyle": "輸出風格",
+        "styleOptions": {
+            "normal": "普通風格",
+            "tone": "聲調風格",
+            "tone2": "音標風格(tone2)",
+            "to3ne": "音標風格(to3ne)",
+            "initials": "生母風格",
+            "first_letter": "首字母風格"
+        },
+        "outputMode": "輸出模式",
+        "segment": "詞語分詞",
+        "group": "詞語分組",
+        "heteronym": "輸出多音字",
+        "compact": "緊湊格式輸出",
+        "surnameMode": "人名模式"
+    },
+    "de": {
+        "input": "Bitte geben Sie hier den Inhalt ein:",
+        "result": "Hier erhalten Sie das Ergebnis:",
+        "input_tip": "Bitte geben Sie hier den Inhalt ein:",
+        "outputStyle": "Ausgabestil",
+        "styleOptions": {
+            "normal": "Normaler Stil",
+            "tone": "Tonstil",
+            "tone2": "Pinyin-Stil (ton2)",
+            "to3ne": "Pinyin-Stil (to3ne)",
+            "initials": "Mandarin-Initialen",
+            "first_letter": "Erster Buchstabenstil"
+        },
+        "outputMode": "Ausgabemodus",
+        "segment": "Wortsegmentierung",
+        "group": "Wortgruppierung",
+        "heteronym": "Mehrere Aussprachen",
+        "compact": "Kompakte Ausgabe",
+        "surnameMode": "Personennamen-Modus"
+    },
+    "es": {
+        "input": "Por favor ingrese el contenido aquí:",
+        "result": "Obtenga el resultado aquí:",
+        "input_tip": "Por favor ingrese el contenido aquí:",
+        "outputStyle": "Estilo de salida",
+        "styleOptions": {
+            "normal": "Estilo normal",
+            "tone": "Estilo de tono",
+            "tone2": "Estilo Pinyin (tono2)",
+            "to3ne": "Estilo Pinyin (to3ne)",
+            "initials": "Iniciales en Mandarín",
+            "first_letter": "Estilo de primera letra"
+        },
+        "outputMode": "Modo de salida",
+        "segment": "Segmentación de palabras",
+        "group": "Agrupación de palabras",
+        "heteronym": "Salida de heterónimos",
+        "compact": "Salida compacta",
+        "surnameMode": "Modo de nombre propio"
+    },
+    "fr": {
+        "input": "Veuillez entrer le contenu ici:",
+        "result": "Obtenez le résultat ici:",
+        "input_tip": "Veuillez entrer le contenu ici:",
+        "outputStyle": "Style de sortie",
+        "styleOptions": {
+            "normal": "Style normal",
+            "tone": "Style tonal",
+            "tone2": "Style Pinyin (tone2)",
+            "to3ne": "Style Pinyin (to3ne)",
+            "initials": "Initiales mandarines",
+            "first_letter": "Style de première lettre"
+        },
+        "outputMode": "Mode de sortie",
+        "segment": "Segmentation des mots",
+        "group": "Regroupement des mots",
+        "heteronym": "Sortie des hétéronymes",
+        "compact": "Sortie compacte",
+        "surnameMode": "Mode nom de personne"
+    },
+    "it": {
+        "input": "Inserisci qui il contenuto:",
+        "result": "Ottieni qui il risultato:",
+        "input_tip": "Inserisci qui il contenuto:",
+        "outputStyle": "Stile di output",
+        "styleOptions": {
+            "normal": "Stile normale",
+            "tone": "Stile tonale",
+            "tone2": "Stile Pinyin (tone2)",
+            "to3ne": "Stile Pinyin (to3ne)",
+            "initials": "Iniziali mandarini",
+            "first_letter": "Stile della prima lettera"
+        },
+        "outputMode": "Modalità di output",
+        "segment": "Segmentazione delle parole",
+        "group": "Raggruppamento delle parole",
+        "heteronym": "Output degli eteronimi",
+        "compact": "Output compatto",
+        "surnameMode": "Modalità dei nomi di persona"
+    },
+    "ja": {
+        "input": "ここに内容を入力してください：",
+        "result": "ここで結果を得る：",
+        "input_tip": "ここに内容を入力してください：",
+        "outputStyle": "出力スタイル",
+        "styleOptions": {
+            "normal": "通常のスタイル",
+            "tone": "声調スタイル",
+            "tone2": "音声スタイル（tone2）",
+            "to3ne": "音声スタイル（to3ne）",
+            "initials": "中国語の子音",
+            "first_letter": "最初の文字スタイル"
+        },
+        "outputMode": "出力モード",
+        "segment": "単語分割",
+        "group": "単語グループ化",
+        "heteronym": "複数の発音を出力",
+        "compact": "コンパクト出力",
+        "surnameMode": "人名モード"
+    },
+    "ko": {
+        "input": "내용을 여기에 입력하세요:",
+        "result": "여기에서 결과를 얻으세요:",
+        "input_tip": "내용을 여기에 입력하세요:",
+        "outputStyle": "출력 스타일",
+        "styleOptions": {
+            "normal": "일반 스타일",
+            "tone": "음조 스타일",
+            "tone2": "Pinyin 스타일 (tone2)",
+            "to3ne": "Pinyin 스타일 (to3ne)",
+            "initials": "중국어 초성",
+            "first_letter": "첫 글자 스타일"
+        },
+        "outputMode": "출력 모드",
+        "segment": "단어 분할",
+        "group": "단어 그룹화",
+        "heteronym": "다음과 같은 여러 음가를 출력",
+        "compact": "간결한 출력",
+        "surnameMode": "사람 이름 모드"
+    },
+    "pt": {
+        "input": "Por favor, insira o conteúdo aqui:",
+        "result": "Obtenha o resultado aqui:",
+        "input_tip": "Por favor, insira o conteúdo aqui:",
+        "outputStyle": "Estilo de saída",
+        "styleOptions": {
+            "normal": "Estilo normal",
+            "tone": "Estilo de tom",
+            "tone2": "Estilo Pinyin (tone2)",
+            "to3ne": "Estilo Pinyin (to3ne)",
+            "initials": "Iniciais mandarins",
+            "first_letter": "Estilo da primeira letra"
+        },
+        "outputMode": "Modo de saída",
+        "segment": "Segmentação de palavras",
+        "group": "Agrupamento de palavras",
+        "heteronym": "Saída de heterônimos",
+        "compact": "Saída compacta",
+        "surnameMode": "Modo de nome próprio"
+    },
+    "ru": {
+        "input": "Пожалуйста, введите содержимое здесь:",
+        "result": "Получите результат здесь:",
+        "input_tip": "Пожалуйста, введите содержимое здесь:",
+        "outputStyle": "Стиль вывода",
+        "styleOptions": {
+            "normal": "Нормальный стиль",
+            "tone": "Стиль тона",
+            "tone2": "Стиль Пиньин (tone2)",
+            "to3ne": "Стиль Пиньин (to3ne)",
+            "initials": "Мандаринские начальные звуки",
+            "first_letter": "Стиль первой буквы"
+        },
+        "outputMode": "Режим вывода",
+        "segment": "Сегментация слов",
+        "group": "Группировка слов",
+        "heteronym": "Множественные произношения",
+        "compact": "Компактный вывод",
+        "surnameMode": "Режим имени"
+    }
+}

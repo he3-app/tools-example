@@ -1,0 +1,2356 @@
+[
+  {
+    "id": "xiaohongshu-generator",
+    "en": {
+      "$name": "Little Red Book",
+      "$description": " Infinite creativity, helping you create eye-catching copy on Little Red Book.",
+      "$keywords": [
+        "xiaohongshu",
+        "generator"
+      ]
+    },
+    "zh-cn": {
+      "$name": "小红书文案生成器",
+      "$description": "无限创意，助您在小红书上打造吸睛文案。",
+      "$keywords": [
+        "xiaohongshu",
+        "生成器"
+      ]
+    },
+    "ko": {
+      "$name": "작은 빨간 책",
+      "$description": "무한한 창의력으로 Little Red Book에서 눈길을 끄는 카피를 만들 수 있습니다.",
+      "$keywords": [
+        "샤오홍슈",
+        "발전기"
+      ]
+    },
+    "fr": {
+      "$name": "Petit livre rouge",
+      "$description": "Créativité infinie, vous aidant à créer une copie accrocheuse sur Little Red Book.",
+      "$keywords": [
+        "Xiaohongshu",
+        "Générateur"
+      ]
+    },
+    "ru": {
+      "$name": "Маленькая Красная Книга",
+      "$description": "Безграничное творчество, которое поможет вам создать привлекательный экземпляр «Маленькой красной книги».",
+      "$keywords": [
+        "Сяохуншу",
+        "генератор"
+      ]
+    },
+    "es": {
+      "$name": "Pequeño libro rojo",
+      "$description": "Creatividad infinita, ayudándote a crear copias llamativas en el Pequeño Libro Rojo.",
+      "$keywords": [
+        "xiaohongshu",
+        "generador"
+      ]
+    },
+    "de": {
+      "$name": "Kleines rotes Buch",
+      "$description": "Unendliche Kreativität, die Ihnen dabei hilft, auffällige Texte auf Little Red Book zu erstellen.",
+      "$keywords": [
+        "xiaohongshu",
+        "Generator"
+      ]
+    },
+    "pt": {
+      "$name": "Pequeno Livro Vermelho",
+      "$description": "Criatividade infinita, ajudando você a criar cópias atraentes no Little Red Book.",
+      "$keywords": [
+        "Xiaohongshu",
+        "gerador"
+      ]
+    },
+    "it": {
+      "$name": "Piccolo libro rosso",
+      "$description": "Creatività infinita, ti aiuta a creare testi accattivanti su Little Red Book.",
+      "$keywords": [
+        "xiaohongshu",
+        "Generatore"
+      ]
+    },
+    "ja": {
+      "$name": "小さな赤い本",
+      "$description": "無限の創造力で、Little Red Book で目を引くコピーを作成するのに役立ちます。",
+      "$keywords": [
+        "小紅書",
+        "発生器"
+      ]
+    },
+    "zh-tw": {
+      "$name": "小紅書",
+      "$description": "無限創意，幫助您在小紅書上打造吸睛文案。",
+      "$keywords": [
+        "xiaohongshu",
+        "發電機"
+      ]
+    }
+  },
+  {
+    "id": "programming-assistant",
+    "zh-cn": {
+      "$name": "编程助理",
+      "$description": "新颖的标题，简洁的讲解，实用的例子，帮助你解决编程问题。",
+      "$keywords": [
+        "编程",
+        "人工智能",
+        "助手"
+      ]
+    },
+    "zh-tw": {
+      "$name": "程式設計助理",
+      "$description": "新穎的標題，簡潔的講解，實用的例子，幫助你解決程式設計問題。",
+      "$keywords": [
+        "程式設計",
+        "人工智慧",
+        "助理"
+      ]
+    },
+    "en": {
+      "$name": "Programming Assistant",
+      "$description": "Innovative titles, concise explanations, practical examples, helping you solve programming problems.",
+      "$keywords": [
+        "programming",
+        "ai",
+        "assistant"
+      ]
+    },
+    "es": {
+      "$name": "Asistente de programación",
+      "$description": "Títulos innovadores, explicaciones concisas, ejemplos prácticos que le ayudarán a resolver problemas de programación.",
+      "$keywords": [
+        "programación",
+        "ai",
+        "asistente"
+      ]
+    },
+    "ja": {
+      "$name": "プログラミングアシスタント",
+      "$description": "革新的なタイトル、簡潔な説明、実践的な例が、プログラミングの問題の解決に役立ちます。",
+      "$keywords": [
+        "プログラミング",
+        "あい",
+        "アシスタント"
+      ]
+    },
+    "ko": {
+      "$name": "프로그래밍 어시스턴트",
+      "$description": "혁신적인 제목, 간결한 설명, 실제 예제를 통해 프로그래밍 문제를 해결하는 데 도움이 됩니다.",
+      "$keywords": [
+        "프로그램 작성",
+        "일체 포함",
+        "어시스턴트"
+      ]
+    },
+    "de": {
+      "$name": "Programmierassistent",
+      "$description": "Innovative Titel, prägnante Erklärungen, praktische Beispiele helfen Ihnen bei der Lösung von Programmierproblemen.",
+      "$keywords": [
+        "Programmierung",
+        "ai",
+        "Assistent"
+      ]
+    },
+    "fr": {
+      "$name": "Assistante de programmation",
+      "$description": "Des titres innovants, des explications concises, des exemples pratiques, vous aidant à résoudre des problèmes de programmation.",
+      "$keywords": [
+        "la programmation",
+        "ai",
+        "assistant"
+      ]
+    },
+    "it": {
+      "$name": "Assistente alla programmazione",
+      "$description": "Titoli innovativi, spiegazioni concise, esempi pratici, ti aiutano a risolvere problemi di programmazione.",
+      "$keywords": [
+        "programmazione",
+        "ai",
+        "assistente"
+      ]
+    },
+    "ru": {
+      "$name": "Помощник по программированию",
+      "$description": "Инновационные названия, краткие пояснения, практические примеры, помогающие решать проблемы программирования.",
+      "$keywords": [
+        "программирование",
+        "ай",
+        "помощник"
+      ]
+    },
+    "pt": {
+      "$name": "Assistente de programação",
+      "$description": "Títulos inovadores, explicações concisas, exemplos práticos, ajudando você a resolver problemas de programação.",
+      "$keywords": [
+        "programação",
+        "ai",
+        "assistente"
+      ]
+    }
+  },
+  {
+    "id": "writing-assistant",
+    "zh-cn": {
+      "$name": "写作助理",
+      "$description": "改进所提供文本的拼写、语法、清晰度、简洁性和整体可读性，并提供改进建议。",
+      "$keywords": [
+        "写作",
+        "人工智能",
+        "助手"
+      ]
+    },
+    "zh-tw": {
+      "$name": "寫作助理",
+      "$description": "改進所提供文字的拼字、文法、清晰度、簡潔性和整體可讀性，並提供改進建議。",
+      "$keywords": [
+        "寫作",
+        "人工智慧",
+        "助理"
+      ]
+    },
+    "en": {
+      "$name": "Writing Assistant",
+      "$description": "improves the spelling, grammar, clarity, conciseness, and overall readability of the provided text, and provides suggestions for improvement.",
+      "$keywords": [
+        "writing",
+        "ai",
+        "assistant"
+      ]
+    },
+    "es": {
+      "$name": "Asistente de redacción",
+      "$description": "mejora la ortografía, la gramática, la claridad, la concisión y la legibilidad general del texto proporcionado y proporciona sugerencias para mejorar.",
+      "$keywords": [
+        "escribiendo",
+        "ai",
+        "asistente"
+      ]
+    },
+    "ja": {
+      "$name": "ライティングアシスタント",
+      "$description": "提供されたテキストのスペル、文法、明瞭さ、簡潔さ、全体的な読みやすさを改善し、改善のための提案を提供します。",
+      "$keywords": [
+        "書き込み",
+        "あい",
+        "アシスタント"
+      ]
+    },
+    "ko": {
+      "$name": "작문 도우미",
+      "$description": "제공된 텍스트의 철자, 문법, 명확성, 간결성 및 전반적인 가독성을 향상시키고 개선을 위한 제안을 제공합니다.",
+      "$keywords": [
+        "글쓰기",
+        "일체 포함",
+        "어시스턴트"
+      ]
+    },
+    "de": {
+      "$name": "Schreibassistent",
+      "$description": "Verbessert die Rechtschreibung, Grammatik, Klarheit, Prägnanz und allgemeine Lesbarkeit des bereitgestellten Textes und bietet Verbesserungsvorschläge.",
+      "$keywords": [
+        "Schreiben",
+        "ai",
+        "Assistent"
+      ]
+    },
+    "fr": {
+      "$name": "Assistante de rédaction",
+      "$description": "améliore l'orthographe, la grammaire, la clarté, la concision et la lisibilité globale du texte fourni, et fournit des suggestions d'amélioration.",
+      "$keywords": [
+        "en écrivant",
+        "ai",
+        "assistant"
+      ]
+    },
+    "it": {
+      "$name": "Assistente alla scrittura",
+      "$description": "migliora l'ortografia, la grammatica, la chiarezza, la concisione e la leggibilità generale del testo fornito e fornisce suggerimenti per il miglioramento.",
+      "$keywords": [
+        "scrivere",
+        "ai",
+        "assistente"
+      ]
+    },
+    "ru": {
+      "$name": "Писательский помощник",
+      "$description": "улучшает орфографию, грамматику, ясность, краткость и общую читаемость предоставленного текста, а также дает предложения по улучшению.",
+      "$keywords": [
+        "письмо",
+        "ай",
+        "помощник"
+      ]
+    },
+    "pt": {
+      "$name": "Assistente de Redação",
+      "$description": "melhora a ortografia, gramática, clareza, concisão e legibilidade geral do texto fornecido e fornece sugestões para melhorias.",
+      "$keywords": [
+        "escrita",
+        "ai",
+        "assistente"
+      ]
+    }
+  },
+  {
+    "id": "summary-content",
+    "zh-cn": {
+      "$name": "总结内容",
+      "$description": "概括核心信息，概括文章的中心思想，提取要点。",
+      "$keywords": [
+        "总结",
+        "人工智能",
+        "内容"
+      ]
+    },
+    "en": {
+      "$name": "Summary Content",
+      "$description": "Summarize the core information, summarize the main idea of the article, and extract key points.",
+      "$keywords": [
+        "summarize",
+        "ai",
+        "content"
+      ]
+    },
+    "fr": {
+      "$name": "Contenu récapitulatif",
+      "$description": "Résumez les informations de base, résumez l’idée principale de l’article et extrayez les points clés.",
+      "$keywords": [
+        "résumer",
+        "ai",
+        "contenu"
+      ]
+    },
+    "es": {
+      "$name": "Contenido resumido",
+      "$description": "Resuma la información central, resuma la idea principal del artículo y extraiga los puntos clave.",
+      "$keywords": [
+        "resumir",
+        "ai",
+        "contenido"
+      ]
+    },
+    "zh-tw": {
+      "$name": "概要內容",
+      "$description": "概括核心訊息，概括文章的中心思想，提取要點。",
+      "$keywords": [
+        "總結",
+        "人工智慧",
+        "內容"
+      ]
+    },
+    "de": {
+      "$name": "Zusammenfassung des Inhalts",
+      "$description": "Fassen Sie die Kerninformationen zusammen, fassen Sie die Hauptidee des Artikels zusammen und extrahieren Sie die wichtigsten Punkte.",
+      "$keywords": [
+        "zusammenfassen",
+        "ai",
+        "Inhalt"
+      ]
+    },
+    "ko": {
+      "$name": "요약 내용",
+      "$description": "핵심 정보를 요약하고, 기사의 주요 아이디어를 요약하고, 요점을 추출합니다.",
+      "$keywords": [
+        "요약하다",
+        "일체 포함",
+        "콘텐츠"
+      ]
+    },
+    "ru": {
+      "$name": "Краткое содержание",
+      "$description": "Обобщите основную информацию, суммируйте основную идею статьи и выделите ключевые моменты.",
+      "$keywords": [
+        "подведем итог",
+        "ай",
+        "содержание"
+      ]
+    },
+    "pt": {
+      "$name": "Conteúdo resumido",
+      "$description": "Resuma as informações principais, resuma a ideia principal do artigo e extraia os pontos principais.",
+      "$keywords": [
+        "resumir",
+        "ai",
+        "contente"
+      ]
+    },
+    "it": {
+      "$name": "Contenuto riepilogativo",
+      "$description": "Riassumi le informazioni principali, riassumi l'idea principale dell'articolo ed estrai i punti chiave.",
+      "$keywords": [
+        "riassumere",
+        "ai",
+        "contenuto"
+      ]
+    },
+    "ja": {
+      "$name": "概要コンテンツ",
+      "$description": "核となる情報を要約し、記事の主なアイデアを要約し、重要なポイントを抽出します。",
+      "$keywords": [
+        "要約する",
+        "あい",
+        "コンテンツ"
+      ]
+    }
+  },
+  {
+    "id": "think-tank",
+    "zh-cn": {
+      "$name": "智库",
+      "$description": "多个人根据他们的个性、世界观和价值观对他们所表达的情况提出不同的意见和建议",
+      "$keywords": [
+        "人工智能",
+        "思考"
+      ]
+    },
+    "zh-tw": {
+      "$name": "智庫",
+      "$description": "多個人根據他們的個性、世界觀和價值觀對他們所表達的情況提出不同的意見和建議",
+      "$keywords": [
+        "人工智慧",
+        "思考"
+      ]
+    },
+    "en": {
+      "$name": "Think Tank",
+      "$description": "Multiple individuals have different opinions and suggestions based on their personalities, worldviews, and values regarding the situation they are expressing",
+      "$keywords": [
+        "ai",
+        "think"
+      ]
+    },
+    "es": {
+      "$name": "Grupo de expertos",
+      "$description": "Varios individuos tienen diferentes opiniones y sugerencias basadas en sus personalidades, visiones del mundo y valores con respecto a la situación que expresan.",
+      "$keywords": [
+        "ai",
+        "pensar"
+      ]
+    },
+    "ja": {
+      "$name": "シンクタンク",
+      "$description": "複数の個人が、表現している状況に関して、それぞれの性格、世界観、価値観に基づいて、異なる意見や提案を持っています。",
+      "$keywords": [
+        "あい",
+        "考える"
+      ]
+    },
+    "ko": {
+      "$name": "싱크 탱크",
+      "$description": "여러 개인은 자신이 표현하는 상황에 대해 자신의 성격, 세계관, 가치관에 따라 서로 다른 의견과 제안을 합니다.",
+      "$keywords": [
+        "일체 포함",
+        "생각하다"
+      ]
+    },
+    "de": {
+      "$name": "Denkfabrik",
+      "$description": "Mehrere Personen haben unterschiedliche Meinungen und Vorschläge, basierend auf ihrer Persönlichkeit, Weltanschauung und Werten in Bezug auf die Situation, die sie zum Ausdruck bringen",
+      "$keywords": [
+        "ai",
+        "denken"
+      ]
+    },
+    "fr": {
+      "$name": "Groupe de réflexion",
+      "$description": "Plusieurs individus ont des opinions et des suggestions différentes en fonction de leur personnalité, de leur vision du monde et de leurs valeurs concernant la situation qu'ils expriment.",
+      "$keywords": [
+        "ai",
+        "pense"
+      ]
+    },
+    "it": {
+      "$name": "Pensa al carro armato",
+      "$description": "Più individui hanno opinioni e suggerimenti diversi in base alla loro personalità, visione del mondo e valori riguardo alla situazione che stanno esprimendo",
+      "$keywords": [
+        "ai",
+        "pensare"
+      ]
+    },
+    "ru": {
+      "$name": "Мозговой центр",
+      "$description": "У нескольких людей разные мнения и предложения, основанные на их личностях, мировоззрении и ценностях относительно ситуации, которую они выражают.",
+      "$keywords": [
+        "ай",
+        "думать"
+      ]
+    },
+    "pt": {
+      "$name": "Grupo de reflexão",
+      "$description": "Vários indivíduos têm opiniões e sugestões diferentes com base em suas personalidades, visões de mundo e valores em relação à situação que expressam.",
+      "$keywords": [
+        "ai",
+        "pensar"
+      ]
+    }
+  },
+  {
+    "id": "writing-title-generator",
+    "es": {
+      "$name": "EscrituraGenerador de títulos",
+      "$description": "Genere automáticamente títulos atractivos y creativos basados ​​en el texto o tema ingresado.",
+      "$keywords": [
+        "ai",
+        "escribiendo",
+        "título"
+      ]
+    },
+    "ru": {
+      "$name": "Генератор заголовков",
+      "$description": "Автоматически создавайте привлекательные и креативные заголовки на основе введенного текста или темы.",
+      "$keywords": [
+        "ай",
+        "письмо",
+        "заголовок"
+      ]
+    },
+    "en": {
+      "$name": "WritingTitle Generator",
+      "$description": "Automatically generate attractive and creative titles based on the input text or theme",
+      "$keywords": [
+        "ai",
+        "writing",
+        "title"
+      ]
+    },
+    "zh-cn": {
+      "$name": "写作标题生成器",
+      "$description": "根据输入的文本或主题自动生成有吸引力且有创意的标题",
+      "$keywords": [
+        "人工智能",
+        "写作",
+        "标题"
+      ]
+    },
+    "pt": {
+      "$name": "Gerador de títulos de escrita",
+      "$description": "Gere automaticamente títulos atraentes e criativos com base no texto ou tema de entrada",
+      "$keywords": [
+        "ai",
+        "escrita",
+        "título"
+      ]
+    },
+    "ko": {
+      "$name": "쓰기제목 생성기",
+      "$description": "입력된 텍스트나 테마를 기반으로 매력적이고 창의적인 제목을 자동으로 생성합니다.",
+      "$keywords": [
+        "일체 포함",
+        "글쓰기",
+        "제목"
+      ]
+    },
+    "ja": {
+      "$name": "ライティングタイトルジェネレーター",
+      "$description": "入力されたテキストまたはテーマに基づいて、魅力的で創造的なタイトルを自動的に生成します",
+      "$keywords": [
+        "あい",
+        "書き込み",
+        "タイトル"
+      ]
+    },
+    "fr": {
+      "$name": "Générateur de titres d'écriture",
+      "$description": "Générez automatiquement des titres attrayants et créatifs en fonction du texte ou du thème saisi",
+      "$keywords": [
+        "ai",
+        "en écrivant",
+        "titre"
+      ]
+    },
+    "it": {
+      "$name": "Generatore di titoli di scrittura",
+      "$description": "Genera automaticamente titoli accattivanti e creativi in ​​base al testo o al tema immesso",
+      "$keywords": [
+        "ai",
+        "scrivere",
+        "titolo"
+      ]
+    },
+    "zh-tw": {
+      "$name": "寫作標題生成器",
+      "$description": "根據輸入的文字或主題自動產生有吸引力且有創意的標題",
+      "$keywords": [
+        "人工智慧",
+        "寫作",
+        "標題"
+      ]
+    },
+    "de": {
+      "$name": "WritingTitle Generator",
+      "$description": "Generieren Sie automatisch attraktive und kreative Titel basierend auf dem eingegebenen Text oder Thema",
+      "$keywords": [
+        "ai",
+        "Schreiben",
+        "Titel"
+      ]
+    }
+  },
+  {
+    "id": "perfect-programmer",
+    "zh-cn": {
+      "$name": "完美程序员",
+      "$description": "充分考虑前后端并提供部署策略。",
+      "$keywords": [
+        "人工智能",
+        "程序员",
+        "代码"
+      ]
+    },
+    "zh-tw": {
+      "$name": "完美程式設計師",
+      "$description": "充分考慮前後端並提供部署策略。",
+      "$keywords": [
+        "人工智慧",
+        "程式設計師",
+        "程式碼"
+      ]
+    },
+    "en": {
+      "$name": "Perfect Programmer",
+      "$description": "Fully consider the front and back ends and provide deployment strategies.",
+      "$keywords": [
+        "ai",
+        "programmer",
+        "code"
+      ]
+    },
+    "es": {
+      "$name": "Programador perfecto",
+      "$description": "Considere completamente el front-end y el back-end y proporcione estrategias de implementación.",
+      "$keywords": [
+        "ai",
+        "programador",
+        "código"
+      ]
+    },
+    "ja": {
+      "$name": "完璧なプログラマー",
+      "$description": "フロントエンドとバックエンドを十分に考慮し、導入戦略を提供します。",
+      "$keywords": [
+        "あい",
+        "プログラマー",
+        "コード"
+      ]
+    },
+    "ko": {
+      "$name": "완벽한 프로그래머",
+      "$description": "프런트엔드와 백엔드를 충분히 고려하고 배포 전략을 제공합니다.",
+      "$keywords": [
+        "일체 포함",
+        "프로그램 제작자",
+        "암호"
+      ]
+    },
+    "de": {
+      "$name": "Perfekter Programmierer",
+      "$description": "Berücksichtigen Sie das Front- und Back-End vollständig und stellen Sie Bereitstellungsstrategien bereit.",
+      "$keywords": [
+        "ai",
+        "Programmierer",
+        "Code"
+      ]
+    },
+    "fr": {
+      "$name": "Programmeur parfait",
+      "$description": "Tenez pleinement compte du front-end et du back-end et proposez des stratégies de déploiement.",
+      "$keywords": [
+        "ai",
+        "programmeur",
+        "code"
+      ]
+    },
+    "it": {
+      "$name": "Programmatore perfetto",
+      "$description": "Considerare pienamente il front-end e il back-end e fornire strategie di implementazione.",
+      "$keywords": [
+        "ai",
+        "programmatore",
+        "codice"
+      ]
+    },
+    "ru": {
+      "$name": "Идеальный программист",
+      "$description": "Полностью рассмотрите интерфейсную и серверную части и предложите стратегии развертывания.",
+      "$keywords": [
+        "ай",
+        "программист",
+        "код"
+      ]
+    },
+    "pt": {
+      "$name": "Programador Perfeito",
+      "$description": "Considere totalmente o front-end e o back-end e forneça estratégias de implantação.",
+      "$keywords": [
+        "ai",
+        "programador",
+        "código"
+      ]
+    }
+  },
+  {
+    "id": "database-expert",
+    "zh-cn": {
+      "$name": "数据库专家",
+      "$description": "智能SQL问题解决工具，轻松解决数据库问题",
+      "$keywords": [
+        "人工智能",
+        "sql",
+        "数据库"
+      ]
+    },
+    "zh-tw": {
+      "$name": "資料庫專家",
+      "$description": "智慧SQL問題解決工具，輕鬆解決資料庫問題",
+      "$keywords": [
+        "人工智慧",
+        "sql",
+        "資料庫"
+      ]
+    },
+    "en": {
+      "$name": "Database Expert",
+      "$description": "Intelligent SQL problem-solving tool, easy to solve database problems",
+      "$keywords": [
+        "ai",
+        "sql",
+        "database"
+      ]
+    },
+    "es": {
+      "$name": "Experto en bases de datos",
+      "$description": "Herramienta inteligente de resolución de problemas SQL, fácil de resolver problemas de bases de datos",
+      "$keywords": [
+        "ai",
+        "SQL",
+        "base de datos"
+      ]
+    },
+    "ja": {
+      "$name": "データベースエキスパート",
+      "$description": "インテリジェントな SQL 問題解決ツール、データベースの問題を簡単に解決",
+      "$keywords": [
+        "あい",
+        "SQL",
+        "データベース"
+      ]
+    },
+    "ko": {
+      "$name": "데이터베이스 전문가",
+      "$description": "데이터베이스 문제를 쉽게 해결할 수 있는 지능형 SQL 문제 해결 도구",
+      "$keywords": [
+        "일체 포함",
+        "SQL",
+        "데이터 베이스"
+      ]
+    },
+    "de": {
+      "$name": "Datenbankexperte",
+      "$description": "Intelligentes SQL-Problemlösungstool, einfach zu lösende Datenbankprobleme",
+      "$keywords": [
+        "ai",
+        "sql",
+        "Datenbank"
+      ]
+    },
+    "fr": {
+      "$name": "Expert en bases de données",
+      "$description": "Outil de résolution de problèmes SQL intelligent, facile à résoudre les problèmes de base de données",
+      "$keywords": [
+        "ai",
+        "SQL",
+        "base de données"
+      ]
+    },
+    "it": {
+      "$name": "Esperto di banche dati",
+      "$description": "Strumento intelligente per la risoluzione dei problemi SQL, problemi di database facili da risolvere",
+      "$keywords": [
+        "ai",
+        "mq",
+        "Banca dati"
+      ]
+    },
+    "ru": {
+      "$name": "Эксперт по базам данных",
+      "$description": "Интеллектуальный инструмент решения проблем SQL, позволяющий легко решать проблемы с базами данных.",
+      "$keywords": [
+        "ай",
+        "sql",
+        "база данных"
+      ]
+    },
+    "pt": {
+      "$name": "Especialista em banco de dados",
+      "$description": "Ferramenta inteligente de resolução de problemas SQL, fácil de resolver problemas de banco de dados",
+      "$keywords": [
+        "ai",
+        "SQL",
+        "base de dados"
+      ]
+    }
+  },
+  {
+    "id": "deep-thinking-assistant",
+    "zh-cn": {
+      "$name": "深度思考助手",
+      "$description": "指导思维并提供洞察力",
+      "$keywords": [
+        "人工智能",
+        "深度",
+        "思考",
+        "助手"
+      ]
+    },
+    "en": {
+      "$name": "Deep Thinking Assistant",
+      "$description": "Guide thinking and provide insights",
+      "$keywords": [
+        "artificial intelligence",
+        "deep",
+        "thinking",
+        "assistant"
+      ]
+    },
+    "zh-tw": {
+      "$name": "深度思考助手",
+      "$description": "指導思維並提供洞察力",
+      "$keywords": [
+        "人工智能",
+        "深度",
+        "思考",
+        "助手"
+      ]
+    },
+    "de": {
+      "$name": "Deep Thinking Assistant",
+      "$description": "Führt das Denken und bietet Einblicke",
+      "$keywords": [
+        "Künstliche Intelligenz",
+        "tief",
+        "Denken",
+        "Assistent"
+      ]
+    },
+    "es": {
+      "$name": "Asistente de Pensamiento Profundo",
+      "$description": "Guía el pensamiento y proporciona ideas",
+      "$keywords": [
+        "inteligencia artificial",
+        "profundo",
+        "pensar",
+        "asistente"
+      ]
+    },
+    "fr": {
+      "$name": "Assistant de Réflexion Profonde",
+      "$description": "Guide la pensée et fournit des perspectives",
+      "$keywords": [
+        "intelligence artificielle",
+        "profond",
+        "pensée",
+        "assistant"
+      ]
+    },
+    "it": {
+      "$name": "Assistente al Pensiero Profondo",
+      "$description": "Guida il pensiero e fornisce intuizioni",
+      "$keywords": [
+        "intelligenza artificiale",
+        "profondo",
+        "pensiero",
+        "assistente"
+      ]
+    },
+    "ja": {
+      "$name": "ディープシンキングアシスタント",
+      "$description": "思考を導き、洞察を提供します",
+      "$keywords": [
+        "人工知能",
+        "深い",
+        "考える",
+        "アシスタント"
+      ]
+    },
+    "ko": {
+      "$name": "딥 생각 도우미",
+      "$description": "생각을 안내하고 통찰력을 제공",
+      "$keywords": [
+        "인공 지능",
+        "깊은",
+        "생각",
+        "도우미"
+      ]
+    },
+    "pt": {
+      "$name": "Assistente de Pensamento Profundo",
+      "$description": "Orienta o pensamento e fornece insights",
+      "$keywords": [
+        "inteligência artificial",
+        "profundo",
+        "pensando",
+        "assistente"
+      ]
+    },
+    "ru": {
+      "$name": "Ассистент глубокого мышления",
+      "$description": "Управляет мышлением и предоставляет углубленные знания",
+      "$keywords": [
+        "искусственный интеллект",
+        "глубокий",
+        "думать",
+        "ассистент"
+      ]
+    }
+  },
+  {
+    "id": "seo-assistant",
+    "zh-cn": {
+      "$name": "搜索引擎优化助理",
+      "$description": "提供SEO优化建议",
+      "$keywords": [
+        "搜索引擎优化",
+        "搜索",
+        "网络"
+      ]
+    },
+    "ko": {
+      "$name": "SEO 도우미",
+      "$description": "SEO 최적화 제안 제공",
+      "$keywords": [
+        "SEO",
+        "찾다",
+        "편물"
+      ]
+    },
+    "en": {
+      "$name": "SEO Assistant",
+      "$description": "Provide SEO optimization suggestions",
+      "$keywords": [
+        "SEO",
+        "search",
+        "web"
+      ]
+    },
+    "fr": {
+      "$name": "Assistante SEO",
+      "$description": "Fournir des suggestions d’optimisation SEO",
+      "$keywords": [
+        "Référencement",
+        "recherche",
+        "la toile"
+      ]
+    },
+    "ja": {
+      "$name": "SEOアシスタント",
+      "$description": "SEO最適化の提案を提供する",
+      "$keywords": [
+        "SEO",
+        "検索",
+        "ウェブ"
+      ]
+    },
+    "de": {
+      "$name": "SEO-Assistent",
+      "$description": "Geben Sie Vorschläge zur SEO-Optimierung",
+      "$keywords": [
+        "SEO",
+        "suchen",
+        "Netz"
+      ]
+    },
+    "it": {
+      "$name": "Assistente SEO",
+      "$description": "Fornire suggerimenti per l'ottimizzazione SEO",
+      "$keywords": [
+        "SEO",
+        "ricerca",
+        "ragnatela"
+      ]
+    },
+    "es": {
+      "$name": "Asistente SEO",
+      "$description": "Proporcionar sugerencias de optimización SEO",
+      "$keywords": [
+        "SEO",
+        "buscar",
+        "web"
+      ]
+    },
+    "ru": {
+      "$name": "SEO-помощник",
+      "$description": "Предоставьте предложения по SEO-оптимизации",
+      "$keywords": [
+        "SEO",
+        "поиск",
+        "сеть"
+      ]
+    },
+    "zh-tw": {
+      "$name": "搜尋引擎優化助理",
+      "$description": "提供SEO優化建議",
+      "$keywords": [
+        "搜尋引擎優化",
+        "搜尋",
+        "網路"
+      ]
+    },
+    "pt": {
+      "$name": "Assistente de SEO",
+      "$description": "Forneça sugestões de otimização de SEO",
+      "$keywords": [
+        "SEO",
+        "procurar",
+        "rede"
+      ]
+    }
+  },
+  {
+    "id": "bug-finder",
+    "zh-cn": {
+      "$name": "Bug 猎人",
+      "$description": "查找代码中的错误。",
+      "$keywords": [
+        "漏洞",
+        "寻找",
+        "打猎",
+        "问题",
+        "缺点"
+      ]
+    },
+    "zh-tw": {
+      "$name": "bug 獵人",
+      "$description": "尋找程式碼中的錯誤。",
+      "$keywords": [
+        "漏洞",
+        "尋找",
+        "打獵",
+        "問題",
+        "缺點"
+      ]
+    },
+    "en": {
+      "$name": "Bug Hunter",
+      "$description": "Find bugs in codes.",
+      "$keywords": [
+        "bug",
+        "find",
+        "hunt",
+        "issue",
+        "defect"
+      ]
+    },
+    "es": {
+      "$name": "Cazador de insectos",
+      "$description": "Encuentra errores en los códigos.",
+      "$keywords": [
+        "bicho",
+        "encontrar",
+        "caza",
+        "asunto",
+        "defecto"
+      ]
+    },
+    "ja": {
+      "$name": "バグハンター",
+      "$description": "コード内のバグを見つけます。",
+      "$keywords": [
+        "バグ",
+        "探す",
+        "ハント",
+        "問題",
+        "欠陥"
+      ]
+    },
+    "ko": {
+      "$name": "버그 헌터",
+      "$description": "코드에서 버그를 찾아보세요.",
+      "$keywords": [
+        "벌레",
+        "찾다",
+        "사냥",
+        "문제",
+        "결함"
+      ]
+    },
+    "de": {
+      "$name": "Käferjäger",
+      "$description": "Finden Sie Fehler in Codes.",
+      "$keywords": [
+        "Insekt",
+        "finden",
+        "Jagd",
+        "Ausgabe",
+        "Defekt"
+      ]
+    },
+    "fr": {
+      "$name": "Chasseur d'insectes",
+      "$description": "Trouvez des bugs dans les codes.",
+      "$keywords": [
+        "bogue",
+        "trouver",
+        "chasse",
+        "problème",
+        "défaut"
+      ]
+    },
+    "it": {
+      "$name": "Cacciatore di insetti",
+      "$description": "Trova bug nei codici.",
+      "$keywords": [
+        "insetto",
+        "Trovare",
+        "caccia",
+        "problema",
+        "difetto"
+      ]
+    },
+    "ru": {
+      "$name": "Охотник за ошибками",
+      "$description": "Найдите ошибки в кодах.",
+      "$keywords": [
+        "ошибка",
+        "находить",
+        "охотиться",
+        "проблема",
+        "дефект"
+      ]
+    },
+    "pt": {
+      "$name": "Caçador de insetos",
+      "$description": "Encontre bugs em códigos.",
+      "$keywords": [
+        "erro",
+        "encontrar",
+        "caçar",
+        "emitir",
+        "defeito"
+      ]
+    }
+  },
+  {
+    "id": "code-writer",
+    "zh-cn": {
+      "$name": "代码编写者",
+      "$description": "给你写代码。",
+      "$keywords": [
+        "代码",
+        "写"
+      ]
+    },
+    "zh-tw": {
+      "$name": "程式碼編寫者",
+      "$description": "給你寫程式。",
+      "$keywords": [
+        "程式碼",
+        "寫"
+      ]
+    },
+    "en": {
+      "$name": "Code Writer",
+      "$description": "Write codes for you.",
+      "$keywords": [
+        "code",
+        "write"
+      ]
+    },
+    "es": {
+      "$name": "Escritor de código",
+      "$description": "Escribe códigos para ti.",
+      "$keywords": [
+        "código",
+        "escribir"
+      ]
+    },
+    "ja": {
+      "$name": "コードライター",
+      "$description": "コードを書いてください。",
+      "$keywords": [
+        "コード",
+        "書く"
+      ]
+    },
+    "ko": {
+      "$name": "코드 작성자",
+      "$description": "당신을 위한 코드를 작성해 보세요.",
+      "$keywords": [
+        "암호",
+        "쓰다"
+      ]
+    },
+    "de": {
+      "$name": "Code-Autor",
+      "$description": "Schreiben Sie Codes für Sie.",
+      "$keywords": [
+        "Code",
+        "schreiben"
+      ]
+    },
+    "fr": {
+      "$name": "Écrivain de code",
+      "$description": "Écrivez des codes pour vous.",
+      "$keywords": [
+        "code",
+        "écrire"
+      ]
+    },
+    "pt": {
+      "$name": "Escritor de código",
+      "$description": "Escreva códigos para você.",
+      "$keywords": [
+        "código",
+        "escrever"
+      ]
+    },
+    "ru": {
+      "$name": "Писатель кода",
+      "$description": "Напишите коды для вас.",
+      "$keywords": [
+        "код",
+        "писать"
+      ]
+    },
+    "it": {
+      "$name": "Scrittore di codici",
+      "$description": "Scrivi i codici per te.",
+      "$keywords": [
+        "codice",
+        "scrivere"
+      ]
+    }
+  },
+  {
+    "id": "comment-generator",
+    "zh-cn": {
+      "$name": "注释生成器",
+      "$description": "为您写代码注释。",
+      "$keywords": [
+        "注释",
+        "写"
+      ]
+    },
+    "zh-tw": {
+      "$name": "評論產生器",
+      "$description": "為您寫程式碼註釋。",
+      "$keywords": [
+        "評論",
+        "寫"
+      ]
+    },
+    "en": {
+      "$name": "Comment Generator",
+      "$description": "Write code comments for you.",
+      "$keywords": [
+        "comment",
+        "write"
+      ]
+    },
+    "ja": {
+      "$name": "コメントジェネレーター",
+      "$description": "コードのコメントを書いてください。",
+      "$keywords": [
+        "コメント",
+        "書く"
+      ]
+    },
+    "es": {
+      "$name": "Generador de comentarios",
+      "$description": "Escriba comentarios de código para usted.",
+      "$keywords": [
+        "comentario",
+        "escribir"
+      ]
+    },
+    "ko": {
+      "$name": "댓글 생성기",
+      "$description": "당신을 위해 코드 주석을 작성해 보세요.",
+      "$keywords": [
+        "논평",
+        "쓰다"
+      ]
+    },
+    "de": {
+      "$name": "Kommentargenerator",
+      "$description": "Schreiben Sie Codekommentare für Sie.",
+      "$keywords": [
+        "Kommentar",
+        "schreiben"
+      ]
+    },
+    "fr": {
+      "$name": "Générateur de commentaires",
+      "$description": "Écrivez des commentaires de code pour vous.",
+      "$keywords": [
+        "commentaire",
+        "écrire"
+      ]
+    },
+    "it": {
+      "$name": "Generatore di commenti",
+      "$description": "Scrivi commenti sul codice per te.",
+      "$keywords": [
+        "commento",
+        "scrivere"
+      ]
+    },
+    "ru": {
+      "$name": "Генератор комментариев",
+      "$description": "Пишите комментарии к коду за вас.",
+      "$keywords": [
+        "комментарий",
+        "писать"
+      ]
+    },
+    "pt": {
+      "$name": "Gerador de comentários",
+      "$description": "Escreva comentários de código para você.",
+      "$keywords": [
+        "Comente",
+        "escrever"
+      ]
+    }
+  },
+  {
+    "id": "test-data-generator",
+    "zh-cn": {
+      "$name": "测试数据生成器",
+      "$description": "生成测试/假数据。",
+      "$keywords": [
+        "测试",
+        "数据",
+        "伪造的"
+      ]
+    },
+    "zh-tw": {
+      "$name": "測試資料產生器",
+      "$description": "產生測試/假數據。",
+      "$keywords": [
+        "測試",
+        "數據",
+        "偽造的"
+      ]
+    },
+    "en": {
+      "$name": "Test Data Generator",
+      "$description": "Generate test/fake data.",
+      "$keywords": [
+        "test",
+        "data",
+        "fake"
+      ]
+    },
+    "es": {
+      "$name": "Generador de datos de prueba",
+      "$description": "Generar datos de prueba/falsos.",
+      "$keywords": [
+        "prueba",
+        "datos",
+        "falso"
+      ]
+    },
+    "ja": {
+      "$name": "テストデータジェネレーター",
+      "$description": "テスト/偽データを生成します。",
+      "$keywords": [
+        "テスト",
+        "データ",
+        "偽物"
+      ]
+    },
+    "ko": {
+      "$name": "테스트 데이터 생성기",
+      "$description": "테스트/가짜 데이터를 생성합니다.",
+      "$keywords": [
+        "시험",
+        "데이터",
+        "가짜"
+      ]
+    },
+    "de": {
+      "$name": "Testdatengenerator",
+      "$description": "Generieren Sie Test-/Fake-Daten.",
+      "$keywords": [
+        "prüfen",
+        "Daten",
+        "gefälscht"
+      ]
+    },
+    "fr": {
+      "$name": "Générateur de données de test",
+      "$description": "Générez des données de test/fausses.",
+      "$keywords": [
+        "test",
+        "données",
+        "faux"
+      ]
+    },
+    "it": {
+      "$name": "Generatore di dati di prova",
+      "$description": "Genera dati di prova/falsi.",
+      "$keywords": [
+        "test",
+        "dati",
+        "impostore"
+      ]
+    },
+    "ru": {
+      "$name": "Генератор тестовых данных",
+      "$description": "Генерация тестовых/поддельных данных.",
+      "$keywords": [
+        "тест",
+        "данные",
+        "фальшивый"
+      ]
+    },
+    "pt": {
+      "$name": "Gerador de dados de teste",
+      "$description": "Gere dados de teste/falsos.",
+      "$keywords": [
+        "teste",
+        "dados",
+        "falso"
+      ]
+    }
+  },
+  {
+    "id": "code-refactor",
+    "zh-cn": {
+      "$name": "代码重构",
+      "$description": "重构你的代码",
+      "$keywords": [
+        "重构",
+        "代码",
+        "优化"
+      ]
+    },
+    "zh-tw": {
+      "$name": "程式碼重構",
+      "$description": "重構你的程式碼",
+      "$keywords": [
+        "重構",
+        "程式碼",
+        "最佳化"
+      ]
+    },
+    "en": {
+      "$name": "Code Refactor",
+      "$description": "Refactor your codes",
+      "$keywords": [
+        "refactor",
+        "code",
+        "optimize"
+      ]
+    },
+    "es": {
+      "$name": "Refactorización de código",
+      "$description": "Refactoriza tus códigos",
+      "$keywords": [
+        "refactorizar",
+        "código",
+        "optimizar"
+      ]
+    },
+    "ja": {
+      "$name": "コードのリファクタリング",
+      "$description": "コードをリファクタリングする",
+      "$keywords": [
+        "リファクタリング",
+        "コード",
+        "最適化する"
+      ]
+    },
+    "de": {
+      "$name": "Code-Refaktor",
+      "$description": "Refaktorieren Sie Ihre Codes",
+      "$keywords": [
+        "Refaktor",
+        "Code",
+        "optimieren"
+      ]
+    },
+    "ko": {
+      "$name": "코드 리팩터링",
+      "$description": "코드를 리팩토링하세요",
+      "$keywords": [
+        "리팩터링",
+        "암호",
+        "최적화하다"
+      ]
+    },
+    "fr": {
+      "$name": "Refactorisation du code",
+      "$description": "Refactorisez vos codes",
+      "$keywords": [
+        "refactoriser",
+        "code",
+        "optimiser"
+      ]
+    },
+    "it": {
+      "$name": "Refactoring del codice",
+      "$description": "Rifattorizza i tuoi codici",
+      "$keywords": [
+        "refactoring",
+        "codice",
+        "ottimizzare"
+      ]
+    },
+    "ru": {
+      "$name": "Рефакторинг кода",
+      "$description": "Рефакторинг ваших кодов",
+      "$keywords": [
+        "рефакторить",
+        "код",
+        "оптимизировать"
+      ]
+    },
+    "pt": {
+      "$name": "Refatorador de código",
+      "$description": "Refatore seus códigos",
+      "$keywords": [
+        "refatorar",
+        "código",
+        "otimizar"
+      ]
+    }
+  },
+  {
+    "id": "error-analysis",
+    "zh-cn": {
+      "$name": "报错分析",
+      "$description": "分析错误并给出建议",
+      "$keywords": [
+        "错误",
+        "分析",
+        "优化",
+        "漏洞",
+        "解决方案",
+        "失败"
+      ]
+    },
+    "zh-tw": {
+      "$name": "漏洞分析",
+      "$description": "分析錯誤並給予建議",
+      "$keywords": [
+        "錯誤",
+        "分析",
+        "最佳化",
+        "漏洞",
+        "解決方案",
+        "失敗"
+      ]
+    },
+    "en": {
+      "$name": "Error Analysis",
+      "$description": "Analysis errors and give suggestions",
+      "$keywords": [
+        "error",
+        "analysis",
+        "optimize",
+        "bug",
+        "solution",
+        "fail"
+      ]
+    },
+    "es": {
+      "$name": "Análisis de errores",
+      "$description": "Analizar errores y dar sugerencias.",
+      "$keywords": [
+        "error",
+        "análisis",
+        "optimizar",
+        "bicho",
+        "solución",
+        "fallar"
+      ]
+    },
+    "ja": {
+      "$name": "エラー分析",
+      "$description": "分析エラーと提案の提供",
+      "$keywords": [
+        "エラー",
+        "分析",
+        "最適化する",
+        "バグ",
+        "解決",
+        "失敗"
+      ]
+    },
+    "ko": {
+      "$name": "오류 분석",
+      "$description": "오류 분석 및 제안 제공",
+      "$keywords": [
+        "오류",
+        "분석",
+        "최적화하다",
+        "벌레",
+        "해결책",
+        "실패하다"
+      ]
+    },
+    "de": {
+      "$name": "Fehleranalyse",
+      "$description": "Analysieren Sie Fehler und geben Sie Vorschläge",
+      "$keywords": [
+        "Fehler",
+        "Analyse",
+        "optimieren",
+        "Insekt",
+        "Lösung",
+        "scheitern"
+      ]
+    },
+    "fr": {
+      "$name": "Erreur d'analyse",
+      "$description": "Analyser les erreurs et donner des suggestions",
+      "$keywords": [
+        "erreur",
+        "analyse",
+        "optimiser",
+        "bogue",
+        "solution",
+        "échouer"
+      ]
+    },
+    "it": {
+      "$name": "Analisi degli errori",
+      "$description": "Errori di analisi e dare suggerimenti",
+      "$keywords": [
+        "errore",
+        "analisi",
+        "ottimizzare",
+        "insetto",
+        "soluzione",
+        "fallire"
+      ]
+    },
+    "ru": {
+      "$name": "Анализ ошибок",
+      "$description": "Анализ ошибок и предложения",
+      "$keywords": [
+        "ошибка",
+        "анализ",
+        "оптимизировать",
+        "ошибка",
+        "решение",
+        "неудача"
+      ]
+    },
+    "pt": {
+      "$name": "Erro de análise",
+      "$description": "Analise erros e dê sugestões",
+      "$keywords": [
+        "erro",
+        "análise",
+        "otimizar",
+        "erro",
+        "solução",
+        "falhar"
+      ]
+    }
+  },
+  {
+    "id": "code-optimizer",
+    "zh-tw": {
+      "$name": "程式碼優化器",
+      "$description": "最佳化程式碼",
+      "$keywords": [
+        "最佳化",
+        "程式碼",
+        "建議",
+        "漏洞"
+      ]
+    },
+    "ja": {
+      "$name": "コードオプティマイザー",
+      "$description": "コードを最適化する",
+      "$keywords": [
+        "最適化する",
+        "コード",
+        "提案",
+        "バグ"
+      ]
+    },
+    "zh-cn": {
+      "$name": "代码优化器",
+      "$description": "优化代码",
+      "$keywords": [
+        "优化",
+        "代码",
+        "建议",
+        "漏洞"
+      ]
+    },
+    "en": {
+      "$name": "Code Optimizer",
+      "$description": "Optimize codes",
+      "$keywords": [
+        "optimize",
+        "code",
+        "suggestion",
+        "bug"
+      ]
+    },
+    "es": {
+      "$name": "Optimizador de código",
+      "$description": "Optimizar códigos",
+      "$keywords": [
+        "optimizar",
+        "código",
+        "sugerencia",
+        "bicho"
+      ]
+    },
+    "it": {
+      "$name": "Ottimizzatore del codice",
+      "$description": "Ottimizza i codici",
+      "$keywords": [
+        "ottimizzare",
+        "codice",
+        "suggerimento",
+        "insetto"
+      ]
+    },
+    "pt": {
+      "$name": "Otimizador de código",
+      "$description": "Otimizar códigos",
+      "$keywords": [
+        "otimizar",
+        "código",
+        "sugestão",
+        "erro"
+      ]
+    },
+    "ru": {
+      "$name": "Оптимизатор кода",
+      "$description": "Оптимизировать коды",
+      "$keywords": [
+        "оптимизировать",
+        "код",
+        "предположение",
+        "ошибка"
+      ]
+    },
+    "de": {
+      "$name": "Code-Optimierer",
+      "$description": "Codes optimieren",
+      "$keywords": [
+        "optimieren",
+        "Code",
+        "Anregung",
+        "Insekt"
+      ]
+    },
+    "fr": {
+      "$name": "Optimiseur de code",
+      "$description": "Optimiser les codes",
+      "$keywords": [
+        "optimiser",
+        "code",
+        "suggestion",
+        "bogue"
+      ]
+    },
+    "ko": {
+      "$name": "코드 최적화 도구",
+      "$description": "코드 최적화",
+      "$keywords": [
+        "최적화하다",
+        "암호",
+        "제안",
+        "벌레"
+      ]
+    }
+  },
+  {
+    "id": "performance-optimizer",
+    "en": {
+      "$name": "Performance Optimizer",
+      "$description": "Code performance optimization",
+      "$keywords": [
+        "optimize",
+        "code",
+        "performance",
+        "complexity",
+        "time",
+        "space"
+      ]
+    },
+    "de": {
+      "$name": "Leistungsoptimierer",
+      "$description": "Optimierung der Codeleistung",
+      "$keywords": [
+        "optimieren",
+        "Code",
+        "Leistung",
+        "Komplexität",
+        "Zeit",
+        "Raum"
+      ]
+    },
+    "es": {
+      "$name": "Optimizador de rendimiento",
+      "$description": "Optimización del rendimiento del código",
+      "$keywords": [
+        "optimizar",
+        "código",
+        "actuación",
+        "complejidad",
+        "tiempo",
+        "espacio"
+      ]
+    },
+    "fr": {
+      "$name": "Optimiseur de performances",
+      "$description": "Optimisation des performances du code",
+      "$keywords": [
+        "optimiser",
+        "code",
+        "performance",
+        "complexité",
+        "temps",
+        "espace"
+      ]
+    },
+    "pt": {
+      "$name": "Otimizador de desempenho",
+      "$description": "Otimização de desempenho de código",
+      "$keywords": [
+        "otimizar",
+        "código",
+        "desempenho",
+        "complexidade",
+        "tempo",
+        "espaço"
+      ]
+    },
+    "ja": {
+      "$name": "パフォーマンスオプティマイザー",
+      "$description": "コードパフォーマンスの最適化",
+      "$keywords": [
+        "最適化する",
+        "コード",
+        "パフォーマンス",
+        "複雑",
+        "時間",
+        "空間"
+      ]
+    },
+    "zh-cn": {
+      "$name": "性能优化器",
+      "$description": "代码性能优化",
+      "$keywords": [
+        "优化",
+        "代码",
+        "表现",
+        "复杂",
+        "时间",
+        "空间"
+      ]
+    },
+    "it": {
+      "$name": "Ottimizzatore delle prestazioni",
+      "$description": "Ottimizzazione delle prestazioni del codice",
+      "$keywords": [
+        "ottimizzare",
+        "codice",
+        "prestazione",
+        "complessità",
+        "tempo",
+        "spazio"
+      ]
+    },
+    "zh-tw": {
+      "$name": "效能優化器",
+      "$description": "程式碼效能優化",
+      "$keywords": [
+        "最佳化",
+        "程式碼",
+        "表現",
+        "複雜",
+        "時間",
+        "空間"
+      ]
+    },
+    "ru": {
+      "$name": "Оптимизатор производительности",
+      "$description": "Оптимизация производительности кода",
+      "$keywords": [
+        "оптимизировать",
+        "код",
+        "производительность",
+        "сложность",
+        "время",
+        "космос"
+      ]
+    },
+    "ko": {
+      "$name": "성능 최적화 도구",
+      "$description": "코드 성능 최적화",
+      "$keywords": [
+        "최적화하다",
+        "암호",
+        "성능",
+        "복잡성",
+        "시간",
+        "공간"
+      ]
+    }
+  },
+  {
+    "id": "namer",
+    "zh-tw": {
+      "$name": "命名大師",
+      "$description": "命名大師，為人物、公司、產品和其他任何需要名字的東西命名",
+      "$keywords": [
+        "姓名",
+        "人",
+        "公司",
+        "產品",
+        "時間",
+        "空間"
+      ]
+    },
+    "en": {
+      "$name": "Naming Master",
+      "$description": "Naming master, name people, companies, products and anything else that needs a name",
+      "$keywords": [
+        "name",
+        "person",
+        "company",
+        "product",
+        "time",
+        "space"
+      ]
+    },
+    "zh-cn": {
+      "$name": "命名大师",
+      "$description": "命名大师，为人物、公司、产品和其他任何需要名字的东西命名",
+      "$keywords": [
+        "姓名",
+        "人",
+        "公司",
+        "产品",
+        "时间",
+        "空间"
+      ]
+    },
+    "es": {
+      "$name": "Maestro de nombres",
+      "$description": "Maestro de nombres, nombres de personas, empresas, productos y cualquier otra cosa que necesite un nombre.",
+      "$keywords": [
+        "nombre",
+        "persona",
+        "compañía",
+        "producto",
+        "tiempo",
+        "espacio"
+      ]
+    },
+    "ja": {
+      "$name": "ネーミングマスター",
+      "$description": "ネーミングマスター、人、会社、製品、その他名前が必要なものすべてに名前を付けます",
+      "$keywords": [
+        "名前",
+        "人",
+        "会社",
+        "製品",
+        "時間",
+        "空間"
+      ]
+    },
+    "ko": {
+      "$name": "네이밍 마스터",
+      "$description": "마스터 이름 지정, 사람, 회사, 제품 및 이름이 필요한 모든 것의 이름 지정",
+      "$keywords": [
+        "이름",
+        "사람",
+        "회사",
+        "제품",
+        "시간",
+        "공간"
+      ]
+    },
+    "de": {
+      "$name": "Namensgeber",
+      "$description": "Namensmeister, benennen Sie Personen, Firmen, Produkte und alles andere, was einen Namen braucht",
+      "$keywords": [
+        "Name",
+        "Person",
+        "Unternehmen",
+        "Produkt",
+        "Zeit",
+        "Raum"
+      ]
+    },
+    "it": {
+      "$name": "Maestro dei nomi",
+      "$description": "Naming master, nominare persone, aziende, prodotti e tutto ciò che necessita di un nome",
+      "$keywords": [
+        "nome",
+        "persona",
+        "azienda",
+        "Prodotto",
+        "tempo",
+        "spazio"
+      ]
+    },
+    "fr": {
+      "$name": "Nommer le maître",
+      "$description": "Nommer le maître, nommer des personnes, des entreprises, des produits et tout ce qui nécessite un nom",
+      "$keywords": [
+        "nom",
+        "personne",
+        "entreprise",
+        "produit",
+        "temps",
+        "espace"
+      ]
+    },
+    "ru": {
+      "$name": "Мастер именования",
+      "$description": "Мастер именования, называйте людей, компании, продукты и все остальное, что требует имени.",
+      "$keywords": [
+        "имя",
+        "человек",
+        "компания",
+        "продукт",
+        "время",
+        "космос"
+      ]
+    },
+    "pt": {
+      "$name": "Mestre de Nomeação",
+      "$description": "Nomear mestre, nomear pessoas, empresas, produtos e tudo mais que precise de nome",
+      "$keywords": [
+        "nome",
+        "pessoa",
+        "empresa",
+        "produtos",
+        "tempo",
+        "espaço"
+      ]
+    }
+  },
+  {
+    "id": "emoji-assistant",
+    "zh-cn": {
+      "$name": "表情助手",
+      "$description": "表情达人，为您推荐表情",
+      "$keywords": [
+        "表情符号",
+        "搜索",
+        "推荐",
+        "表达"
+      ]
+    },
+    "zh-tw": {
+      "$name": "表情助手",
+      "$description": "表情達人，為您推薦表情",
+      "$keywords": [
+        "表情符號",
+        "搜尋",
+        "推薦",
+        "表達"
+      ]
+    },
+    "en": {
+      "$name": "Emoji Assistant",
+      "$description": "Emoji master, recommend emojis for you",
+      "$keywords": [
+        "emoji",
+        "search",
+        "recommend",
+        "expression"
+      ]
+    },
+    "es": {
+      "$name": "Asistente de emojis",
+      "$description": "Maestro de emojis, te recomiendo emojis",
+      "$keywords": [
+        "emojis",
+        "buscar",
+        "recomendar",
+        "expresión"
+      ]
+    },
+    "ja": {
+      "$name": "絵文字アシスタント",
+      "$description": "絵文字マスター、あなたに絵文字をお勧めします",
+      "$keywords": [
+        "絵文字",
+        "検索",
+        "推薦する",
+        "表現"
+      ]
+    },
+    "ko": {
+      "$name": "이모티콘 도우미",
+      "$description": "이모티콘 마스터님, 이모티콘을 추천해 주세요",
+      "$keywords": [
+        "이모티콘",
+        "찾다",
+        "추천하다",
+        "표현"
+      ]
+    },
+    "de": {
+      "$name": "Emoji-Assistent",
+      "$description": "Emoji-Meister, empfehlen Sie Emojis für Sie",
+      "$keywords": [
+        "Emoji",
+        "suchen",
+        "empfehlen",
+        "Ausdruck"
+      ]
+    },
+    "fr": {
+      "$name": "Assistant Émoticônes",
+      "$description": "Maître Emoji, recommande des emojis pour vous",
+      "$keywords": [
+        "émoticône",
+        "recherche",
+        "recommander",
+        "expression"
+      ]
+    },
+    "it": {
+      "$name": "Assistente Emoji",
+      "$description": "Maestro emoji, consiglia emoji per te",
+      "$keywords": [
+        "emoji",
+        "ricerca",
+        "consigliare",
+        "espressione"
+      ]
+    },
+    "ru": {
+      "$name": "Эмодзи-помощник",
+      "$description": "Мастер смайликов, порекомендую вам смайлы",
+      "$keywords": [
+        "смайлик",
+        "поиск",
+        "рекомендовать",
+        "выражение"
+      ]
+    },
+    "pt": {
+      "$name": "Assistente de emojis",
+      "$description": "Mestre Emoji, recomendo emojis para você",
+      "$keywords": [
+        "emoticons",
+        "procurar",
+        "recomendar",
+        "expressão"
+      ]
+    }
+  },
+  {
+    "id": "i18n-trans",
+    "zh-cn": {
+      "$name": "国际化翻译助手",
+      "$description": "I18nTrans Assistant让处理i18n问题变得更简单",
+      "$keywords": [
+        "人工智能",
+        "国际化",
+        "翻译"
+      ]
+    },
+    "zh-tw": {
+      "$name": "國際化翻譯助手",
+      "$description": "I18nTrans Assistant讓處理i18n問題變得更簡單",
+      "$keywords": [
+        "人工智慧",
+        "國際化",
+        "翻譯"
+      ]
+    },
+    "en": {
+      "$name": "I18nTrans Assistant",
+      "$description": "I18nTrans Assistant makes it easier to deal with i18n problems",
+      "$keywords": [
+        "ai",
+        "i18n",
+        "translate"
+      ]
+    },
+    "es": {
+      "$name": "Asistente I18nTrans",
+      "$description": "I18nTrans Assistant facilita la resolución de problemas de i18n",
+      "$keywords": [
+        "ai",
+        "i18n",
+        "traducir"
+      ]
+    },
+    "ja": {
+      "$name": "I18nTrans アシスタント",
+      "$description": "I18nTrans Assistant により i18n の問題への対処が容易になります",
+      "$keywords": [
+        "あい",
+        "i18n",
+        "翻訳する"
+      ]
+    },
+    "ko": {
+      "$name": "I18nTrans 도우미",
+      "$description": "I18nTrans Assistant를 사용하면 i18n 문제를 더 쉽게 처리할 수 있습니다.",
+      "$keywords": [
+        "일체 포함",
+        "i18n",
+        "번역하다"
+      ]
+    },
+    "de": {
+      "$name": "I18nTrans-Assistent",
+      "$description": "I18nTrans Assistant erleichtert den Umgang mit i18n-Problemen",
+      "$keywords": [
+        "ai",
+        "i18n",
+        "übersetzen"
+      ]
+    },
+    "fr": {
+      "$name": "I18nTransAssistant",
+      "$description": "I18nTrans Assistant facilite la gestion des problèmes i18n",
+      "$keywords": [
+        "ai",
+        "i18n",
+        "traduire"
+      ]
+    },
+    "it": {
+      "$name": "Assistente I18nTrans",
+      "$description": "I18nTrans Assistant semplifica la gestione dei problemi i18n",
+      "$keywords": [
+        "ai",
+        "i18n",
+        "tradurre"
+      ]
+    },
+    "ru": {
+      "$name": "I18nTrans Ассистент",
+      "$description": "I18nTrans Assistant упрощает решение проблем с i18n",
+      "$keywords": [
+        "ай",
+        "i18n",
+        "переводить"
+      ]
+    },
+    "pt": {
+      "$name": "Assistente I18nTrans",
+      "$description": "O I18nTrans Assistant torna mais fácil lidar com problemas do i18n",
+      "$keywords": [
+        "ai",
+        "i18n",
+        "traduzir"
+      ]
+    }
+  },
+  {
+    "id": "swagger-doc-helper",
+    "zh-cn": {
+      "$name": "Swagger 文档助手",
+      "$description": "Swagger Doc Helper 帮助您消除无聊的注释会话，专注于业务代码",
+      "$keywords": [
+        "人工智能",
+        "swagger",
+        "评论"
+      ]
+    },
+    "zh-tw": {
+      "$name": "Swagger 文件助手",
+      "$description": "Swagger Doc Helper 幫助您消除無聊的註釋會話，專注於業務代碼",
+      "$keywords": [
+        "人工智慧",
+        "swagger",
+        "評論"
+      ]
+    },
+    "en": {
+      "$name": "Swagger Doc Helper",
+      "$description": "Swagger Doc Helper helps you eliminate boring commenting sessions and focus on business code",
+      "$keywords": [
+        "ai",
+        "swagger",
+        "comment"
+      ]
+    },
+    "es": {
+      "$name": "Ayudante de Doc Swagger",
+      "$description": "Swagger Doc Helper le ayuda a eliminar las aburridas sesiones de comentarios y centrarse en el código empresarial",
+      "$keywords": [
+        "ai",
+        "pavonearse",
+        "comentario"
+      ]
+    },
+    "ja": {
+      "$name": "Swagger ドキュメント ヘルパー",
+      "$description": "Swagger Doc Helper は、退屈なコメント セッションを排除し、ビジネス コードに集中するのに役立ちます",
+      "$keywords": [
+        "あい",
+        "闊歩する",
+        "コメント"
+      ]
+    },
+    "ko": {
+      "$name": "Swagger 문서 도우미",
+      "$description": "Swagger Doc Helper는 지루한 주석 세션을 없애고 비즈니스 코드에 집중할 수 있도록 도와줍니다.",
+      "$keywords": [
+        "일체 포함",
+        "멋진",
+        "논평"
+      ]
+    },
+    "de": {
+      "$name": "Swagger Doc Helper",
+      "$description": "Swagger Doc Helper hilft Ihnen, langweilige Kommentarsitzungen zu vermeiden und sich auf den Geschäftscode zu konzentrieren",
+      "$keywords": [
+        "ai",
+        "stolzieren",
+        "Kommentar"
+      ]
+    },
+    "fr": {
+      "$name": "Swagger Doc Helper",
+      "$description": "Swagger Doc Helper vous aide à éliminer les sessions de commentaires ennuyeuses et à vous concentrer sur le code métier",
+      "$keywords": [
+        "ai",
+        "fanfaronnade",
+        "commentaire"
+      ]
+    },
+    "it": {
+      "$name": "Spavaldo Doc Helper",
+      "$description": "Swagger Doc Helper ti aiuta a eliminare le noiose sessioni di commenti e a concentrarti sul codice aziendale",
+      "$keywords": [
+        "ai",
+        "spavalderia",
+        "commento"
+      ]
+    },
+    "ru": {
+      "$name": "Помощник доктора Swagger",
+      "$description": "Swagger Doc Helper помогает вам избежать скучных сеансов комментирования и сосредоточиться на бизнес-коде.",
+      "$keywords": [
+        "ай",
+        "развязность",
+        "комментарий"
+      ]
+    },
+    "pt": {
+      "$name": "Ajudante de documento Swagger",
+      "$description": "Swagger Doc Helper ajuda a eliminar sessões chatas de comentários e focar no código comercial",
+      "$keywords": [
+        "ai",
+        "arrogância",
+        "Comente"
+      ]
+    }
+  }
+]

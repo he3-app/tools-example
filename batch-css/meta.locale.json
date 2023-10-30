@@ -1,0 +1,2264 @@
+[
+  {
+  "id": "css-to-js-object",
+  "zh-cn": {
+    "$name": "CSS 转 Javascript 对象",
+    "$description": "CSS转Javascript对象工具是一种Web开发实用程序，可将CSS样式转换为JavaScript对象格式，使开发人员能够轻松地以编程方式操作和应用样式到HTML元素。该工具可以通过自动化将CSS样式转换为可轻松集成到JavaScript代码中的格式来节省时间和精力。",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Object",
+      "CSS to JS",
+      "CSS to Object",
+      "CSS to JS Object",
+      "CSS to Javascript",
+      "CSS to Javascript Object",
+      "CSS to JS Converter",
+      "CSS to Object Converter",
+      "CSS to JS Object Converter"
+    ]
+  },
+  "zh-tw": {
+    "$name": "CSS 轉換為 Javascript 物件",
+    "$description": "CSS 轉換為 Javascript 物件工具是一個網頁開發實用程式，將 CSS 樣式轉換為 JavaScript 物件格式，讓開發人員能夠輕鬆地以程式方式操作和應用樣式於 HTML 元素。此工具可透過自動化將 CSS 樣式轉換為易於整合至 JavaScript 代碼的格式，節省時間和精力。",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Object",
+      "CSS to JS",
+      "CSS to Object",
+      "CSS to JS Object",
+      "CSS to Javascript",
+      "CSS to Javascript Object",
+      "CSS to JS 轉換器",
+      "CSS to Object 轉換器",
+      "CSS to JS Object 轉換器"
+    ]
+  },
+  "es": {
+    "$name": "CSS a Objeto Javascript",
+    "$description": "La herramienta CSS a Objeto Javascript es una utilidad de desarrollo web que convierte estilos CSS en un formato de objeto Javascript, permitiendo a los desarrolladores manipular y aplicar estilos a elementos HTML de manera programática. Esta herramienta puede ahorrar tiempo y esfuerzo automatizando el proceso de conversión de estilos CSS en un formato que se puede integrar fácilmente en el código Javascript.",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Objeto",
+      "CSS a JS",
+      "CSS a Objeto",
+      "CSS a Objeto JS",
+      "CSS a Javascript",
+      "CSS a Objeto Javascript",
+      "Convertidor CSS a JS",
+      "Convertidor CSS a Objeto",
+      "Convertidor CSS a Objeto JS"
+    ]
+  },
+  "ja": {
+    "$name": "CSSからJavascriptオブジェクトへ",
+    "$description": "CSSからJavascriptオブジェクトへのツールは、CSSスタイルをJavaScriptオブジェクト形式に変換するWeb開発ユーティリティであり、開発者がHTML要素にスタイルをプログラム的に簡単に操作および適用できるようにします。このツールは、CSSスタイルをJavaScriptコードに簡単に統合できる形式に変換するプロセスを自動化することにより、時間と労力を節約できます。",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Object",
+      "CSS to JS",
+      "CSS to Object",
+      "CSS to JS Object",
+      "CSS to Javascript",
+      "CSS to Javascript Object",
+      "CSS to JS Converter",
+      "CSS to Object Converter",
+      "CSS to JS Object Converter"
+    ]
+  },
+  "ko": {
+    "$name": "CSS를 Javascript 객체로 변환",
+    "$description": "CSS를 Javascript 객체로 변환하는 도구는 CSS 스타일을 JavaScript 객체 형식으로 변환하여 개발자가 HTML 요소에 스타일을 프로그래밍 방식으로 쉽게 조작하고 적용할 수 있도록하는 웹 개발 유틸리티입니다. 이 도구는 CSS 스타일을 JavaScript 코드에 쉽게 통합할 수있는 형식으로 자동 변환하는 프로세스를 자동화하여 시간과 노력을 절약 할 수 있습니다.",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Object",
+      "CSS to JS",
+      "CSS to Object",
+      "CSS to JS Object",
+      "CSS to Javascript",
+      "CSS to Javascript Object",
+      "CSS to JS Converter",
+      "CSS to Object Converter",
+      "CSS to JS Object Converter"
+    ]
+  },
+  "de": {
+    "$name": "CSS zu Javascript-Objekt",
+    "$description": "Das CSS zu Javascript-Objekt-Tool ist ein Webentwicklungs-Dienstprogramm, das CSS-Styles in ein JavaScript-Objektformat konvertiert. Dadurch können Entwickler Stile programmgesteuert leicht manipulieren und anwenden. Dieses Tool kann Zeit und Mühe sparen, indem es den Prozess der Konvertierung von CSS-Styles in ein Format automatisiert, das leicht in JavaScript-Code integriert werden kann.",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Object",
+      "CSS zu JS",
+      "CSS zu Object",
+      "CSS zu JS Object",
+      "CSS zu Javascript",
+      "CSS zu Javascript Object",
+      "CSS zu JS Converter",
+      "CSS zu Object Converter",
+      "CSS zu JS Object Converter"
+    ]
+  },
+  "fr": {
+    "$name": "CSS vers Objet Javascript",
+    "$description": "L'outil CSS vers Objet Javascript est une utilité de développement web qui convertit les styles CSS en un format d'objet JavaScript, permettant aux développeurs de manipuler et d'appliquer facilement des styles aux éléments HTML de manière programmable. Cet outil peut faire gagner du temps et des efforts en automatisant le processus de conversion des styles CSS en un format facilement intégrable dans le code JavaScript.",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Objet",
+      "CSS vers JS",
+      "CSS vers Objet",
+      "CSS vers Objet JS",
+      "CSS vers Javascript",
+      "CSS vers Objet Javascript",
+      "Convertisseur CSS vers JS",
+      "Convertisseur CSS vers Objet",
+      "Convertisseur CSS vers Objet JS"
+    ]
+  },
+  "it": {
+    "$name": "CSS to Javascript Object",
+    "$description": "Lo strumento CSS to Javascript Object è un'utilità di sviluppo web che converte gli stili CSS in un formato di oggetto JavaScript, consentendo agli sviluppatori di manipolare e applicare facilmente gli stili agli elementi HTML in modo programmato. Questo strumento può risparmiare tempo ed efforti automatizzando il processo di conversione degli stili CSS in un formato che può essere facilmente integrato nel codice JavaScript.",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Object",
+      "CSS to JS",
+      "CSS to Object",
+      "CSS to JS Object",
+      "CSS to Javascript",
+      "CSS to Javascript Object",
+      "CSS to JS Converter",
+      "CSS to Object Converter",
+      "CSS to JS Object Converter"
+    ]
+  },
+  "ru": {
+    "$name": "CSS в объект JavaScript",
+    "$description": "Инструмент CSS в объект JavaScript - это утилита для веб-разработки, которая преобразует стили CSS в формат объекта JavaScript, позволяя разработчикам легко манипулировать и применять стили к элементам HTML программно. Этот инструмент может сэкономить время и усилия, автоматизируя процесс преобразования стилей CSS в формат, который можно легко интегрировать в код JavaScript.",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Object",
+      "CSS в JS",
+      "CSS в объект",
+      "CSS в объект JS",
+      "CSS в Javascript",
+      "CSS в объект JavaScript",
+      "CSS в JS конвертер",
+      "CSS в объект конвертер",
+      "CSS в объект JS конвертер"
+    ]
+  },
+  "pt": {
+    "$name": "CSS para Objeto Javascript",
+    "$description": "A ferramenta CSS para Objeto Javascript é uma utilidade de desenvolvimento web que converte estilos CSS em um formato de objeto Javascript, permitindo que os desenvolvedores manipulem e apliquem estilos a elementos HTML programaticamente. Esta ferramenta pode economizar tempo e esforço automatizando o processo de conversão de estilos CSS em um formato que pode ser facilmente integrado ao código Javascript.",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Objeto",
+      "CSS para JS",
+      "CSS para Objeto",
+      "CSS para Objeto JS",
+      "CSS para Javascript",
+      "CSS para Objeto Javascript",
+      "Conversor CSS para JS",
+      "Conversor CSS para Objeto",
+      "Conversor CSS para Objeto JS"
+    ]
+  },
+  "en": {
+    "$name": "CSS to Javascript Object",
+    "$description": "The CSS to Javascript Object tool is a web development utility that converts CSS styles into a JavaScript object format, allowing developers to easily manipulate and apply styles to HTML elements programmatically. This tool can save time and effort by automating the process of converting CSS styles into a format that can be easily integrated into JavaScript code.",
+    "$keywords": [
+      "CSS",
+      "Javascript",
+      "Object",
+      "CSS to JS",
+      "CSS to Object",
+      "CSS to JS Object",
+      "CSS to Javascript",
+      "CSS to Javascript Object",
+      "CSS to JS Converter",
+      "CSS to Object Converter",
+      "CSS to JS Object Converter"
+    ]
+  }
+},
+{
+  "id": "css-to-react-native-stylesheet-object",
+  "zh": {
+    "$name": "将 CSS 转换成 React Native 样式对象",
+    "$description": "将 CSS 转换成 React Native 样式对象。",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "en": {
+    "$name": "CSS to React Native Stylesheet Objects",
+    "$description": "Convert CSS to React Native Stylesheet Objects.",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "zh-tw": {
+    "$name": "將 CSS 轉換成 React Native 樣式物件",
+    "$description": "將 CSS 轉換成 React Native 樣式物件。",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "de": {
+    "$name": "CSS in React Native Stylesheet-Objekte umwandeln",
+    "$description": "Konvertiere CSS in React Native Stylesheet-Objekte.",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "es": {
+    "$name": "Convertir CSS a Objetos de Hojas de Estilos de React Native",
+    "$description": "Convierte CSS a Objetos de Hojas de Estilos de React Native.",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "fr": {
+    "$name": "Convertir CSS en Objets de Feuille de Style React Native",
+    "$description": "Convertir CSS en Objets de Feuille de Style React Native.",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "it": {
+    "$name": "Convertire CSS in Oggetti di Foglio di Stile React Native",
+    "$description": "Convertire CSS in Oggetti di Foglio di Stile React Native.",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "ja": {
+    "$name": "CSS を React Native のスタイルシート オブジェクトに変換",
+    "$description": "CSS を React Native のスタイルシート オブジェクトに変換します。",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "ko": {
+    "$name": "CSS를 React Native 스타일시트 객체로 변환",
+    "$description": "CSS를 React Native 스타일시트 객체로 변환합니다.",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "pt": {
+    "$name": "Converter CSS para Objetos de Estilo do React Native",
+    "$description": "Converter CSS para Objetos de Estilo do React Native.",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  },
+  "ru": {
+    "$name": "Преобразование CSS в объекты стилей React Native",
+    "$description": "Преобразование CSS в объекты стилей React Native.",
+    "$keywords":[
+        "css",
+        "React Native",
+        "object",
+        "stylesheet"
+      ]
+  }
+},
+    {
+        "zh-cn": {
+          "$name": "Base64 转 CSS",
+          "$description": "Base64转CSS是一款Web开发工具，可将Base64编码的图像转换为CSS代码，从而实现更快的加载时间和改进的网站性能。该工具特别适用于希望优化网站速度并减少HTTP请求数量的开发人员。",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "编码",
+            "解码",
+            "数据URI",
+            "Web开发",
+            "前端开发"
+          ]
+        },
+        "zh-tw": {
+          "$name": "Base64 轉 CSS",
+          "$description": "Base64 轉 CSS 是一個網頁開發工具，將 Base64 編碼的圖像轉換為 CSS 代碼，可加快加載時間並改善網站性能。此工具對於想要優化網站速度並減少 HTTP 請求數量的開發人員特別有用。",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "編碼",
+            "解碼",
+            "數據 URI",
+            "網頁開發",
+            "前端開發"
+          ]
+        },
+        "es": {
+          "$name": "Base64 a CSS",
+          "$description": "Base64 a CSS es una herramienta de desarrollo web que convierte imágenes codificadas en Base64 en código CSS, lo que permite tiempos de carga más rápidos y un mejor rendimiento del sitio web. Esta herramienta es particularmente útil para desarrolladores que desean optimizar la velocidad de su sitio web y reducir el número de solicitudes HTTP.",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "codificación",
+            "decodificación",
+            "URI de datos",
+            "desarrollo web",
+            "desarrollo front-end"
+          ]
+        },
+        "ja": {
+          "$name": "Base64からCSSへ",
+          "$description": "Base64からCSSは、Base64エンコードされた画像をCSSコードに変換し、より高速な読み込み時間と改善されたウェブサイトのパフォーマンスを実現するWeb開発ツールです。このツールは、ウェブサイトの速度を最適化し、HTTPリクエストの数を減らしたい開発者に特に役立ちます。",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "エンコード",
+            "デコード",
+            "データURI",
+            "Web開発",
+            "フロントエンド開発"
+          ]
+        },
+        "ko": {
+          "$name": "Base64를 CSS로 변환",
+          "$description": "Base64를 CSS로 변환하는 웹 개발 도구로, Base64로 인코딩된 이미지를 CSS 코드로 변환하여 더 빠른 로딩 시간과 웹 사이트 성능을 개선할 수 있습니다. 이 도구는 웹 사이트 속도를 최적화하고 HTTP 요청 수를 줄이려는 개발자에게 특히 유용합니다.",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "인코딩",
+            "디코딩",
+            "데이터 URI",
+            "웹 개발",
+            "프론트엔드 개발"
+          ]
+        },
+        "de": {
+          "$name": "Base64 zu CSS",
+          "$description": "Base64 zu CSS ist ein Webentwicklungstool, das Base64-kodierte Bilder in CSS-Code umwandelt und dadurch schnellere Ladezeiten und verbesserte Website-Performance ermöglicht. Dieses Tool ist besonders nützlich für Entwickler, die die Geschwindigkeit ihrer Website optimieren und die Anzahl der HTTP-Anfragen reduzieren möchten.",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "Kodierung",
+            "Dekodierung",
+            "Daten-URI",
+            "Webentwicklung",
+            "Front-End-Entwicklung"
+          ]
+        },
+        "fr": {
+          "$name": "Base64 vers CSS",
+          "$description": "Base64 vers CSS est un outil de développement web qui convertit les images encodées en Base64 en code CSS, permettant des temps de chargement plus rapides et une meilleure performance du site web. Cet outil est particulièrement utile pour les développeurs qui souhaitent optimiser la vitesse de leur site web et réduire le nombre de requêtes HTTP.",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "encodage",
+            "décodage",
+            "URI de données",
+            "développement web",
+            "développement front-end"
+          ]
+        },
+        "it": {
+          "$name": "Base64 in CSS",
+          "$description": "Base64 in CSS è uno strumento di sviluppo web che converte le immagini codificate in Base64 in codice CSS, consentendo tempi di caricamento più veloci e un miglioramento delle prestazioni del sito web. Questo strumento è particolarmente utile per gli sviluppatori che desiderano ottimizzare la velocità del loro sito web e ridurre il numero di richieste HTTP.",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "codifica",
+            "decodifica",
+            "URI dati",
+            "sviluppo web",
+            "sviluppo front-end"
+          ]
+        },
+        "ru": {
+          "$name": "Base64 в CSS",
+          "$description": "Base64 в CSS - это инструмент веб-разработки, который преобразует изображения, закодированные в Base64, в код CSS, что позволяет ускорить время загрузки и улучшить производительность веб-сайта. Этот инструмент особенно полезен для разработчиков, которые хотят оптимизировать скорость своего веб-сайта и уменьшить количество запросов HTTP.",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "кодирование",
+            "декодирование",
+            "data URI",
+            "веб-разработка",
+            "фронтенд-разработка"
+          ]
+        },
+        "pt": {
+          "$name": "Base64 para CSS",
+          "$description": "Base64 para CSS é uma ferramenta de desenvolvimento web que converte imagens codificadas em Base64 em código CSS, permitindo tempos de carregamento mais rápidos e melhor desempenho do site. Esta ferramenta é particularmente útil para desenvolvedores que desejam otimizar a velocidade de seus sites e reduzir o número de solicitações HTTP.",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "codificação",
+            "decodificação",
+            "URI de dados",
+            "desenvolvimento web",
+            "desenvolvimento front-end"
+          ]
+        },
+        "en": {
+          "$name": "Base64 to CSS",
+          "$description": "Base64 to CSS is a web development tool that converts Base64-encoded images into CSS code, allowing for faster loading times and improved website performance. This tool is particularly useful for developers who want to optimize their website's speed and reduce the number of HTTP requests.",
+          "$keywords": [
+            "Base64",
+            "CSS",
+            "encoding",
+            "decoding",
+            "data URI",
+            "web development",
+            "front-end development"
+          ]
+        },
+        "id": "base64-to-css"
+      },
+      {
+        "zh-cn": {
+          "$name": "CSS 转 Base64",
+          "$description": "CSS转Base64是一款Web开发工具，可将CSS代码转换为Base64编码字符串，可用于直接嵌入图像和其他资源到CSS文件中。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "CSS 轉 Base64",
+          "$description": "CSS 轉 Base64 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "CSS a Base64",
+          "$description": "CSS a Base64 es una herramienta de desarrollo web que convierte código CSS en una cadena codificada en Base64, la cual puede ser utilizada para incrustar imágenes y otros recursos directamente en el archivo CSS. Esto puede mejorar el rendimiento del sitio web al reducir el número de solicitudes HTTP necesarias para cargar la página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificación",
+            "decodificación",
+            "desarrollo web",
+            "desarrollo front-end",
+            "URI de datos",
+            "optimización de imágenes"
+          ]
+        },
+        "ja": {
+          "$name": "CSS to Base64",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールです。これにより、画像やその他のリソースを直接CSSファイルに埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上します。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "CSS를 Base64로 변환",
+          "$description": "CSS를 Base64로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 삽입할 수 있는 Base64 인코딩 된 문자열로 변환할 수 있습니다. 이를 통해 HTTP 요청 수를 줄여 웹 사이트 성능을 향상시킬 수 있습니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "CSS zu Base64",
+          "$description": "CSS zu Base64 ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dies kann die Leistung der Website verbessern, indem die Anzahl der HTTP-Anforderungen reduziert wird, die zum Laden der Seite benötigt werden.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "CSS vers Base64",
+          "$description": "CSS vers Base64 est un outil de développement web qui convertit le code CSS en une chaîne encodée en Base64, qui peut être utilisée pour intégrer des images et d'autres ressources directement dans le fichier CSS. Cela peut améliorer les performances du site en réduisant le nombre de requêtes HTTP nécessaires pour charger la page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encodage",
+            "décodage",
+            "développement web",
+            "développement front-end",
+            "URI de données",
+            "optimisation d'image"
+          ]
+        },
+        "it": {
+          "$name": "CSS to Base64",
+          "$description": "CSS to Base64 è uno strumento di sviluppo web che converte il codice CSS in una stringa codificata in Base64, che può essere utilizzata per incorporare immagini e altre risorse direttamente nel file CSS. Ciò può migliorare le prestazioni del sito web riducendo il numero di richieste HTTP necessarie per caricare la pagina.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codifica",
+            "decodifica",
+            "sviluppo web",
+            "sviluppo front-end",
+            "URI dati",
+            "ottimizzazione delle immagini"
+          ]
+        },
+        "ru": {
+          "$name": "CSS в Base64",
+          "$description": "CSS в Base64 - это инструмент веб-разработки, который преобразует код CSS в закодированную строку Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "кодирование",
+            "декодирование",
+            "веб-разработка",
+            "разработка фронт-энда",
+            "URI данных",
+            "оптимизация изображений"
+          ]
+        },
+        "pt": {
+          "$name": "CSS para Base64",
+          "$description": "CSS para Base64 é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "CSS to Base64",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        },
+        "id": "css-to-base64"
+      },
+      {
+        "zh-cn": {
+          "$name": "CSS 转 Less",
+          "$description": "CSS转Base64是一款Web开发工具，可将CSS代码转换为Base64编码字符串，可用于直接嵌入图像和其他资源到CSS文件中。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "CSS 轉 Less",
+          "$description": "CSS 轉 Base64 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "CSS a Less",
+          "$description": "CSS a Base64 es una herramienta de desarrollo web que convierte código CSS en una cadena codificada en Base64, la cual puede ser utilizada para incrustar imágenes y otros recursos directamente en el archivo CSS. Esto puede mejorar el rendimiento del sitio web al reducir el número de solicitudes HTTP necesarias para cargar la página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificación",
+            "decodificación",
+            "desarrollo web",
+            "desarrollo front-end",
+            "URI de datos",
+            "optimización de imágenes"
+          ]
+        },
+        "ja": {
+          "$name": "CSS to Less",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールです。これにより、画像やその他のリソースを直接CSSファイルに埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "CSS to Less",
+          "$description": "CSS to Base64는 CSS 코드를 Base64 인코딩 된 문자열로 변환하는 웹 개발 도구입니다. 이를 사용하여 이미지 및 기타 리소스를 CSS 파일에 직접 포함시킬 수 있습니다. 이를 통해 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄여 웹 사이트 성능을 향상시킬 수 있습니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "CSS zu Less",
+          "$description": "CSS zu Base64 ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dies kann die Leistung der Website verbessern, indem die Anzahl der HTTP-Anforderungen reduziert wird, die zum Laden der Seite benötigt werden.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "CSS vers Less",
+          "$description": "CSS vers Base64 est un outil de développement web qui convertit le code CSS en une chaîne encodée en Base64, qui peut être utilisée pour intégrer des images et d'autres ressources directement dans le fichier CSS. Cela peut améliorer les performances du site en réduisant le nombre de requêtes HTTP nécessaires pour charger la page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encodage",
+            "décodage",
+            "développement web",
+            "développement front-end",
+            "URI de données",
+            "optimisation d'image"
+          ]
+        },
+        "it": {
+          "$name": "CSS to Less",
+          "$description": "CSS to Base64 è uno strumento di sviluppo web che converte il codice CSS in una stringa codificata in Base64, che può essere utilizzata per incorporare immagini e altre risorse direttamente nel file CSS. Ciò può migliorare le prestazioni del sito web riducendo il numero di richieste HTTP necessarie per caricare la pagina.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codifica",
+            "decodifica",
+            "sviluppo web",
+            "sviluppo front-end",
+            "URI dati",
+            "ottimizzazione delle immagini"
+          ]
+        },
+        "ru": {
+          "$name": "CSS в Less",
+          "$description": "CSS в Base64 - это инструмент веб-разработки, который преобразует код CSS в закодированную строку Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "кодирование",
+            "декодирование",
+            "веб-разработка",
+            "разработка фронт-энда",
+            "URI данных",
+            "оптимизация изображений"
+          ]
+        },
+        "pt": {
+          "$name": "CSS para Less",
+          "$description": "CSS para Base64 é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "CSS to Less",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        },
+        "id": "css-to-less"
+      },
+      {
+        "id": "less-minify",
+        "zh-cn": {
+          "$name": "Less Minify",
+          "$description": "Less Minify是一款Web开发工具，它将CSS代码转换为Base64编码字符串，可用于直接嵌入图像和其他资源到CSS文件中。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "Less Minify",
+          "$description": "Less Minify 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "Less Minify",
+          "$description": "Less Minify es una herramienta de desarrollo web que convierte código CSS en una cadena codificada en Base64, la cual puede ser utilizada para incrustar imágenes y otros recursos directamente en el archivo CSS. Esto puede mejorar el rendimiento del sitio web al reducir el número de solicitudes HTTP necesarias para cargar la página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificación",
+            "decodificación",
+            "desarrollo web",
+            "desarrollo front-end",
+            "URI de datos",
+            "optimización de imágenes"
+          ]
+        },
+        "ja": {
+          "$name": "Less Minify",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールであり、画像やその他のリソースをCSSファイルに直接埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "Less Minify",
+          "$description": "CSS를 Base64로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이는 데 도움이 됩니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "Less Minify",
+          "$description": "Less Minify ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dies kann die Leistung der Website verbessern, indem die Anzahl der HTTP-Anforderungen reduziert wird, die zum Laden der Seite benötigt werden.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "Less Minify",
+          "$description": "Less Minify est un outil de développement web qui permet de compresser les fichiers CSS en réduisant leur taille. Cela permet d'améliorer les performances du site en réduisant le temps de chargement des pages.",
+          "$keywords": [
+            "CSS",
+            "compression",
+            "optimisation",
+            "web development",
+            "front-end development"
+          ]
+        },
+        "it": {
+          "$name": "Less Minify",
+          "$description": "Less Minify è uno strumento di sviluppo web che riduce le dimensioni dei file CSS eliminando spazi vuoti, commenti e altre informazioni non necessarie. Ciò può migliorare le prestazioni del sito web, riducendo il tempo di caricamento della pagina.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "sviluppo web",
+            "sviluppo front-end",
+            "data URI",
+            "ottimizzazione immagine"
+          ]
+        },
+        "ru": {
+          "$name": "Минификатор Less",
+          "$description": "CSS to Base64 - это инструмент веб-разработки, который преобразует код CSS в строку, закодированную в Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "кодирование",
+            "декодирование",
+            "веб-разработка",
+            "разработка фронт-энда",
+            "URI данных",
+            "оптимизация изображений"
+          ]
+        },
+        "pt": {
+          "$name": "Less Minify",
+          "$description": "Less Minify é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "Less Minify",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "less-prettify",
+        "zh-cn": {
+          "$name": "Less Prettify",
+          "$description": "CSS to Base64是一款Web开发工具，可将CSS代码转换为Base64编码字符串，可用于直接嵌入CSS文件中的图像和其他资源。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "Less Prettify",
+          "$description": "CSS to Base64 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "Less Prettify",
+          "$description": "Less Prettify es una herramienta de desarrollo web que convierte código CSS en una cadena codificada en Base64, la cual puede ser utilizada para incrustar imágenes y otros recursos directamente en el archivo CSS. Esto puede mejorar el rendimiento del sitio web al reducir el número de solicitudes HTTP necesarias para cargar la página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificación",
+            "decodificación",
+            "desarrollo web",
+            "desarrollo front-end",
+            "URI de datos",
+            "optimización de imágenes"
+          ]
+        },
+        "ja": {
+          "$name": "Less Prettify",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールであり、これにより画像やその他のリソースを直接CSSファイルに埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "Less Prettify",
+          "$description": "CSS to Base64은 CSS 코드를 Base64로 인코딩된 문자열로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이는 데 도움이 됩니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "Less Prettify",
+          "$description": "Less Prettify ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dies kann die Leistung der Website verbessern, indem die Anzahl der HTTP-Anforderungen reduziert wird, die zum Laden der Seite benötigt werden.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "Less Prettify",
+          "$description": "Less Prettify est un outil de développement web qui convertit le code CSS en une chaîne encodée en Base64, qui peut être utilisée pour intégrer des images et d'autres ressources directement dans le fichier CSS. Cela peut améliorer les performances du site en réduisant le nombre de requêtes HTTP nécessaires pour charger la page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encodage",
+            "décodage",
+            "développement web",
+            "développement front-end",
+            "URI de données",
+            "optimisation d'image"
+          ]
+        },
+        "it": {
+          "$name": "Less Prettify",
+          "$description": "Less Prettify è uno strumento di sviluppo web che converte il codice CSS in una stringa codificata in Base64, che può essere utilizzata per incorporare immagini e altre risorse direttamente nel file CSS. Ciò può migliorare le prestazioni del sito web riducendo il numero di richieste HTTP necessarie per caricare la pagina.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codifica",
+            "decodifica",
+            "sviluppo web",
+            "sviluppo front-end",
+            "URI dati",
+            "ottimizzazione immagini"
+          ]
+        },
+        "ru": {
+          "$name": "Less Prettify",
+          "$description": "Less Prettify - это инструмент веб-разработки, который преобразует код CSS в строку, закодированную в Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        },
+        "pt": {
+          "$name": "Less Prettify",
+          "$description": "Less Prettify é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "Less Prettify",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "less-to-stylus",
+        "zh-cn": {
+          "$name": "Less to Stylus",
+          "$description": "Less to Stylus是一款Web开发工具，可将Less代码转换为Stylus代码。它可以帮助开发人员快速地将现有的Less代码转换为Stylus代码，从而提高开发效率。",
+          "$keywords": [
+            "Less",
+            "Stylus",
+            "CSS",
+            "前端开发",
+            "Web开发"
+          ]
+        },
+        "zh-tw": {
+          "$name": "Less to Stylus",
+          "$description": "CSS to Base64 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "Less a Stylus",
+          "$description": "Less a Stylus es una herramienta de desarrollo web que convierte código Less en código Stylus. Esto puede ser útil para desarrolladores que prefieren trabajar con Stylus o que necesitan convertir su código para trabajar con una biblioteca o marco de trabajo que solo admite Stylus.",
+          "$keywords": [
+            "Less",
+            "Stylus",
+            "desarrollo web",
+            "front-end development"
+          ]
+        },
+        "ja": {
+          "$name": "Less to Stylus",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールであり、これにより画像やその他のリソースをCSSファイルに直接埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "Less to Stylus",
+          "$description": "CSS to Base64는 CSS 코드를 Base64 인코딩 된 문자열로 변환하는 웹 개발 도구입니다. 이를 사용하여 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이므로 웹 사이트 성능을 향상시킬 수 있습니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트 엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "Less zu Stylus",
+          "$description": "Less zu Stylus ist ein Webentwicklungstool, das Less-Code in Stylus-Code konvertiert. Dies kann die Effizienz der Front-End-Entwicklung verbessern.",
+          "$keywords": [
+            "Less",
+            "Stylus",
+            "Webentwicklung",
+            "Front-End-Entwicklung"
+          ]
+        },
+        "fr": {
+          "$name": "Less vers Stylus",
+          "$description": "Less to Stylus est un outil de développement web qui convertit le code Less en code Stylus. Cela permet aux développeurs de travailler avec leur préprocesseur CSS préféré. Les fonctionnalités incluent la conversion de variables, de mixins et de fonctions.",
+          "$keywords": [
+            "Less",
+            "Stylus",
+            "CSS",
+            "préprocesseur",
+            "développement web",
+            "développement front-end"
+          ]
+        },
+        "it": {
+          "$name": "Less to Stylus",
+          "$description": "Less to Stylus è uno strumento di sviluppo web che converte il codice Less in codice Stylus. Questo strumento può aiutare gli sviluppatori a risparmiare tempo e migliorare l'efficienza del loro lavoro.",
+          "$keywords": [
+            "Less",
+            "Stylus",
+            "sviluppo web",
+            "front-end development"
+          ]
+        },
+        "ru": {
+          "$name": "Less в Stylus",
+          "$description": "Less в Stylus - это инструмент веб-разработки, который преобразует код CSS в закодированную строку Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "кодирование",
+            "декодирование",
+            "веб-разработка",
+            "фронтенд-разработка",
+            "URI данных",
+            "оптимизация изображений"
+          ]
+        },
+        "pt": {
+          "$name": "Less para Stylus",
+          "$description": "Less to Stylus é uma ferramenta de desenvolvimento web que converte código Less em código Stylus. Isso pode ajudar desenvolvedores a migrar seus projetos de Less para Stylus de forma mais fácil e rápida.",
+          "$keywords": [
+            "Less",
+            "Stylus",
+            "web development",
+            "front-end development"
+          ]
+        },
+        "en": {
+          "$name": "Less to Stylus",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "stylus-minify",
+        "zh-cn": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64是一种Web开发工具，它将CSS代码转换为Base64编码字符串，可用于直接嵌入图像和其他资源到CSS文件中。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64 es una herramienta de desarrollo web que convierte código CSS en una cadena codificada en Base64, la cual puede ser utilizada para incrustar imágenes y otros recursos directamente en el archivo CSS. Esto puede mejorar el rendimiento del sitio web al reducir el número de solicitudes HTTP necesarias para cargar la página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificación",
+            "decodificación",
+            "desarrollo web",
+            "desarrollo front-end",
+            "URI de datos",
+            "optimización de imágenes"
+          ]
+        },
+        "ja": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールであり、画像やその他のリソースをCSSファイルに直接埋め込むために使用できます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、Webサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64은 CSS 코드를 Base64로 인코딩된 문자열로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이는 데 도움이 됩니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64 ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dies kann die Leistung der Website verbessern, indem die Anzahl der für das Laden der Seite benötigten HTTP-Anforderungen reduziert wird.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "Stylus Minify",
+          "$description": "Stylus Minify est un outil de développement web qui permet de compresser le code CSS en une chaîne encodée en Base64, qui peut être utilisée pour intégrer des images et d'autres ressources directement dans le fichier CSS. Cela peut améliorer les performances du site en réduisant le nombre de requêtes HTTP nécessaires pour charger la page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encodage",
+            "décodage",
+            "développement web",
+            "développement front-end",
+            "URI de données",
+            "optimisation d'image"
+          ]
+        },
+        "it": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64 è uno strumento di sviluppo web che converte il codice CSS in una stringa codificata in Base64, che può essere utilizzata per incorporare immagini e altre risorse direttamente nel file CSS. Ciò può migliorare le prestazioni del sito web riducendo il numero di richieste HTTP necessarie per caricare la pagina.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codifica",
+            "decodifica",
+            "sviluppo web",
+            "sviluppo front-end",
+            "URI dati",
+            "ottimizzazione immagine"
+          ]
+        },
+        "ru": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64 - это инструмент веб-разработки, который преобразует код CSS в строку, закодированную в Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        },
+        "pt": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64 é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "Stylus Minify",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "css-to-stylus",
+        "zh-cn": {
+          "$name": "CSS 转 Stylus",
+          "$description": "CSS转Base64是一款Web开发工具，可将CSS代码转换为Base64编码字符串，可用于直接嵌入图像和其他资源到CSS文件中。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "CSS to Stylus",
+          "$description": "CSS to Base64 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "CSS a Stylus",
+          "$description": "CSS a Base64 es una herramienta de desarrollo web que convierte código CSS en una cadena codificada en Base64, la cual puede ser utilizada para incrustar imágenes y otros recursos directamente en el archivo CSS. Esto puede mejorar el rendimiento del sitio web al reducir el número de solicitudes HTTP necesarias para cargar la página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificación",
+            "decodificación",
+            "desarrollo web",
+            "desarrollo front-end",
+            "URI de datos",
+            "optimización de imágenes"
+          ]
+        },
+        "ja": {
+          "$name": "CSS to Stylus",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールです。これにより、画像やその他のリソースをCSSファイルに直接埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "CSS to Stylus",
+          "$description": "CSS to Base64는 CSS 코드를 Base64 인코딩 된 문자열로 변환하는 웹 개발 도구입니다. 이를 사용하여 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이므로 웹 사이트 성능을 향상시킬 수 있습니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트 엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "CSS zu Stylus",
+          "$description": "CSS zu Base64 ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dies kann die Leistung der Website verbessern, indem die Anzahl der HTTP-Anforderungen reduziert wird, die zum Laden der Seite benötigt werden.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "CSS vers Stylus",
+          "$description": "CSS to Base64 est un outil de développement web qui convertit le code CSS en une chaîne encodée en Base64, qui peut être utilisée pour intégrer des images et d'autres ressources directement dans le fichier CSS. Cela peut améliorer les performances du site en réduisant le nombre de requêtes HTTP nécessaires pour charger la page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encodage",
+            "décodage",
+            "développement web",
+            "développement front-end",
+            "URI de données",
+            "optimisation d'image"
+          ]
+        },
+        "it": {
+          "$name": "CSS a Stylus",
+          "$description": "CSS to Base64 è uno strumento di sviluppo web che converte il codice CSS in una stringa codificata in Base64, che può essere utilizzata per incorporare immagini e altre risorse direttamente nel file CSS. Ciò può migliorare le prestazioni del sito web riducendo il numero di richieste HTTP necessarie per caricare la pagina.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codifica",
+            "decodifica",
+            "sviluppo web",
+            "sviluppo front-end",
+            "URI dati",
+            "ottimizzazione delle immagini"
+          ]
+        },
+        "ru": {
+          "$name": "CSS в Stylus",
+          "$description": "CSS в Base64 - это инструмент веб-разработки, который преобразует код CSS в закодированную строку Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "кодирование",
+            "декодирование",
+            "веб-разработка",
+            "разработка фронт-энда",
+            "URI данных",
+            "оптимизация изображений"
+          ]
+        },
+        "pt": {
+          "$name": "CSS para Stylus",
+          "$description": "CSS para Base64 é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "CSS to Stylus",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "sass-to-css",
+        "zh-cn": {
+          "$name": "SASS 转 CSS",
+          "$description": "CSS to Base64是一款Web开发工具，可将CSS代码转换为Base64编码字符串，可用于直接嵌入CSS文件中的图像和其他资源。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "SASS 轉 CSS",
+          "$description": "CSS to Base64 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "SASS a CSS",
+          "$description": "SASS a CSS es una herramienta de desarrollo web que convierte código SASS en código CSS. Esto permite a los desarrolladores escribir código más eficiente y fácil de mantener. Además, SASS a CSS también puede ayudar a mejorar el rendimiento del sitio web al reducir el tamaño de los archivos CSS.",
+          "$keywords": [
+            "SASS",
+            "CSS",
+            "desarrollo web",
+            "front-end development",
+            "optimización de código"
+          ]
+        },
+        "ja": {
+          "$name": "SASSからCSSへ",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールです。これにより、画像やその他のリソースをCSSファイルに直接埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "SASS to CSS",
+          "$description": "CSS to Base64은 CSS 코드를 Base64로 인코딩된 문자열로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이는 데 도움이 됩니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "SASS zu CSS",
+          "$description": "SASS zu CSS ist ein Webentwicklungstool, das SASS-Code in CSS-Code konvertiert. Dies kann die Website-Performance verbessern, indem die Anzahl der HTTP-Anfragen reduziert wird, die benötigt werden, um die Seite zu laden.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Data-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "SASS vers CSS",
+          "$description": "SASS vers CSS est un outil de développement web qui convertit le code SASS en code CSS. Cela permet de simplifier le processus de développement et d'améliorer les performances du site web.",
+          "$keywords": [
+            "SASS",
+            "CSS",
+            "développement web",
+            "front-end",
+            "optimisation d'image"
+          ]
+        },
+        "it": {
+          "$name": "SASS a CSS",
+          "$description": "SASS a CSS è uno strumento di sviluppo web che converte il codice SASS in CSS. Questo strumento può migliorare le prestazioni del sito web riducendo il numero di richieste HTTP necessarie per caricare la pagina.",
+          "$keywords": [
+            "SASS",
+            "CSS",
+            "sviluppo web",
+            "sviluppo front-end",
+            "data URI",
+            "ottimizzazione immagine"
+          ]
+        },
+        "ru": {
+          "$name": "SASS в CSS",
+          "$description": "CSS to Base64 - это инструмент веб-разработки, который преобразует код CSS в закодированную строку Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "кодирование",
+            "декодирование",
+            "веб-разработка",
+            "фронт-энд разработка",
+            "data URI",
+            "оптимизация изображений"
+          ]
+        },
+        "pt": {
+          "$name": "SASS para CSS",
+          "$description": "SASS para CSS é uma ferramenta de desenvolvimento web que converte código SASS em CSS. Isso pode melhorar o desempenho do site ao reduzir o tamanho do arquivo CSS e o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "SASS",
+            "CSS",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "SASS to CSS",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "css-minify",
+        "zh-cn": {
+          "$name": "CSS 压缩",
+          "$description": "CSS转Base64是一种Web开发工具，它将CSS代码转换为Base64编码字符串，可用于直接嵌入图像和其他资源到CSS文件中。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "CSS 壓縮",
+          "$description": "CSS to Base64 是一個網頁開發工具，將 CSS 代碼轉換為 Base64 編碼字符串，可用於直接嵌入圖像和其他資源到 CSS 文件中。這可以通過減少加載頁面所需的 HTTP 請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據 URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "Compresión CSS",
+          "$description": "CSS a Base64 es una herramienta de desarrollo web que convierte código CSS en una cadena codificada en Base64, la cual puede ser utilizada para incrustar imágenes y otros recursos directamente en el archivo CSS. Esto puede mejorar el rendimiento del sitio web al reducir el número de solicitudes HTTP necesarias para cargar la página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificación",
+            "decodificación",
+            "desarrollo web",
+            "desarrollo front-end",
+            "URI de datos",
+            "optimización de imágenes"
+          ]
+        },
+        "ja": {
+          "$name": "CSS圧縮",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールであり、画像やその他のリソースを直接CSSファイルに埋め込むために使用できます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、Webサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "CSS 압축",
+          "$description": "CSS를 Base64로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 삽입할 수 있습니다. 이를 통해 HTTP 요청 수를 줄여 웹 사이트 성능을 향상시킬 수 있습니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "CSS-Komprimierung",
+          "$description": "CSS to Base64 ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dadurch kann die Leistung der Website verbessert werden, indem die Anzahl der für das Laden der Seite benötigten HTTP-Anforderungen reduziert wird.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "Compression CSS",
+          "$description": "CSS to Base64 est un outil de développement web qui convertit le code CSS en une chaîne encodée en Base64, qui peut être utilisée pour intégrer des images et d'autres ressources directement dans le fichier CSS. Cela peut améliorer les performances du site web en réduisant le nombre de requêtes HTTP nécessaires pour charger la page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encodage",
+            "décodage",
+            "développement web",
+            "développement front-end",
+            "URI de données",
+            "optimisation d'image"
+          ]
+        },
+        "it": {
+          "$name": "Compressione CSS",
+          "$description": "CSS to Base64 è uno strumento di sviluppo web che converte il codice CSS in una stringa codificata in Base64, che può essere utilizzata per incorporare immagini e altre risorse direttamente nel file CSS. Ciò può migliorare le prestazioni del sito web riducendo il numero di richieste HTTP necessarie per caricare la pagina.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codifica",
+            "decodifica",
+            "sviluppo web",
+            "sviluppo front-end",
+            "URI dati",
+            "ottimizzazione immagini"
+          ]
+        },
+        "ru": {
+          "$name": "Сжатие CSS",
+          "$description": "CSS to Base64 - это инструмент веб-разработки, который преобразует код CSS в закодированную строку Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "кодирование",
+            "декодирование",
+            "веб-разработка",
+            "разработка фронт-энда",
+            "URI данных",
+            "оптимизация изображений"
+          ]
+        },
+        "pt": {
+          "$name": "Compressão CSS",
+          "$description": "CSS para Base64 é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "CSS Compression",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "css-prettify",
+        "zh-cn": {
+          "$name": "CSS 格式化",
+          "$description": "CSS转Base64是一种Web开发工具，可将CSS代码转换为Base64编码字符串，可用于直接嵌入图像和其他资源到CSS文件中。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "CSS格式化",
+          "$description": "CSS to Base64是一個網頁開發工具，將CSS代碼轉換為Base64編碼字符串，可用於直接嵌入圖像和其他資源到CSS文件中。這可以通過減少加載頁面所需的HTTP請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "數據URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "Formateo de CSS",
+          "$description": "CSS a Base64 es una herramienta de desarrollo web que convierte código CSS en una cadena codificada en Base64, la cual puede ser utilizada para incrustar imágenes y otros recursos directamente en el archivo CSS. Esto puede mejorar el rendimiento del sitio web al reducir el número de solicitudes HTTP necesarias para cargar la página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificación",
+            "decodificación",
+            "desarrollo web",
+            "desarrollo front-end",
+            "URI de datos",
+            "optimización de imágenes"
+          ]
+        },
+        "ja": {
+          "$name": "CSSフォーマット",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールであり、これにより画像やその他のリソースを直接CSSファイルに埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、Webサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "CSS 포맷팅",
+          "$description": "CSS to Base64은 CSS 코드를 Base64 인코딩 된 문자열로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이므로 웹 사이트 성능을 향상시킬 수 있습니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트 엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "CSS-Formatierung",
+          "$description": "CSS to Base64 ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dies kann die Leistung der Website verbessern, indem die Anzahl der HTTP-Anforderungen reduziert wird, die zum Laden der Seite benötigt werden.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "Formatage CSS",
+          "$description": "CSS to Base64 est un outil de développement web qui convertit le code CSS en une chaîne encodée en Base64, qui peut être utilisée pour intégrer des images et d'autres ressources directement dans le fichier CSS. Cela peut améliorer les performances du site web en réduisant le nombre de requêtes HTTP nécessaires pour charger la page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encodage",
+            "décodage",
+            "développement web",
+            "développement front-end",
+            "URI de données",
+            "optimisation d'image"
+          ]
+        },
+        "it": {
+          "$name": "Formattazione CSS",
+          "$description": "CSS to Base64 è uno strumento di sviluppo web che converte il codice CSS in una stringa codificata in Base64, che può essere utilizzata per incorporare immagini e altre risorse direttamente nel file CSS. Ciò può migliorare le prestazioni del sito web riducendo il numero di richieste HTTP necessarie per caricare la pagina.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codifica",
+            "decodifica",
+            "sviluppo web",
+            "sviluppo front-end",
+            "URI dati",
+            "ottimizzazione immagini"
+          ]
+        },
+        "ru": {
+          "$name": "Форматирование CSS",
+          "$description": "CSS to Base64 - это инструмент веб-разработки, который преобразует код CSS в закодированную строку Base64, которую можно использовать для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "кодирование",
+            "декодирование",
+            "веб-разработка",
+            "разработка фронт-энда",
+            "URI данных",
+            "оптимизация изображений"
+          ]
+        },
+        "pt": {
+          "$name": "Formatação CSS",
+          "$description": "CSS para Base64 é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "CSS Formatting",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "less-to-css",
+        "zh-cn": {
+          "$name": "Less to CSS",
+          "$description": "Less to CSS是一种Web开发工具，它将Less代码转换为CSS代码，使得网站的样式更加美观。它可以帮助前端开发人员更快地编写CSS代码，提高网站的性能。",
+          "$keywords": [
+            "Less",
+            "CSS",
+            "Web开发",
+            "前端开发",
+            "样式"
+          ]
+        },
+        "zh-tw": {
+          "$name": "Less to CSS",
+          "$description": "Less to CSS 是一個網頁開發工具，將 Less 代碼轉換為 CSS 代碼。這可以幫助開發人員更有效地管理和維護 CSS 代碼。",
+          "$keywords": [
+            "Less",
+            "CSS",
+            "網頁開發",
+            "前端開發"
+          ]
+        },
+        "es": {
+          "$name": "Less to CSS",
+          "$description": "Less to CSS es una herramienta de desarrollo web que convierte código Less en CSS. Less es un preprocesador de CSS que permite escribir código CSS de manera más eficiente y organizada. Con Less to CSS, puedes convertir tu código Less en CSS válido para su uso en tu sitio web.",
+          "$keywords": [
+            "Less",
+            "CSS",
+            "preprocesador",
+            "desarrollo web",
+            "front-end development"
+          ]
+        },
+        "ja": {
+          "$name": "Less to CSS",
+          "$description": "Less to CSSは、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールです。これにより、画像やその他のリソースをCSSファイルに直接埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上します。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "Less to CSS",
+          "$description": "CSS to Base64은 CSS 코드를 Base64 인코딩 된 문자열로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이는 데 도움이 됩니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트 엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "Less zu CSS",
+          "$description": "Less zu CSS ist ein Webentwicklungstool, das Less-Code in CSS-Code konvertiert. Dies kann die Website-Performance verbessern, indem die Größe der CSS-Datei reduziert wird.",
+          "$keywords": [
+            "Less",
+            "CSS",
+            "Webentwicklung",
+            "Front-End-Entwicklung"
+          ]
+        },
+        "fr": {
+          "$name": "Less vers CSS",
+          "$description": "Less to CSS est un outil de développement web qui convertit le code Less en code CSS. Cela permet de simplifier la gestion du code CSS et d'améliorer les performances du site web.",
+          "$keywords": [
+            "CSS",
+            "Less",
+            "développement web",
+            "front-end development"
+          ]
+        },
+        "it": {
+          "$name": "Less to CSS",
+          "$description": "Less to CSS è uno strumento di sviluppo web che converte il codice Less in codice CSS. Questo strumento semplifica la scrittura di codice CSS e lo rende più facile da gestire.",
+          "$keywords": [
+            "Less",
+            "CSS",
+            "sviluppo web",
+            "front-end development"
+          ]
+        },
+        "ru": {
+          "$name": "Less в CSS",
+          "$description": "Less в CSS - это инструмент веб-разработки, который преобразует код Less в CSS. Это позволяет упростить процесс создания стилей для веб-сайтов и улучшить их производительность.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        },
+        "pt": {
+          "$name": "Less para CSS",
+          "$description": "Less para CSS é uma ferramenta de desenvolvimento web que converte código Less em CSS. Isso pode melhorar o desempenho do site, reduzindo o tamanho do arquivo CSS e o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "Less",
+            "CSS",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "Less to CSS",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      },
+      {
+        "id": "js-object-to-css",
+        "zh-cn": {
+          "$name": "Javascript 对象转 CSS",
+          "$description": "CSS to Base64是一款Web开发工具，可将CSS代码转换为Base64编码字符串，可用于直接嵌入CSS文件中的图像和其他资源。这可以通过减少加载页面所需的HTTP请求数量来提高网站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "编码",
+            "解码",
+            "Web开发",
+            "前端开发",
+            "数据URI",
+            "图像优化"
+          ]
+        },
+        "zh-tw": {
+          "$name": "Javascript物件轉CSS",
+          "$description": "CSS to Base64是一個網頁開發工具，將CSS代碼轉換為Base64編碼字符串，可用於直接嵌入圖像和其他資源到CSS文件中。這可以通過減少加載頁面所需的HTTP請求數量來提高網站性能。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "編碼",
+            "解碼",
+            "網頁開發",
+            "前端開發",
+            "資料URI",
+            "圖像優化"
+          ]
+        },
+        "es": {
+          "$name": "Javascript Object to CSS",
+          "$description": "Javascript Object to CSS es una herramienta de desarrollo web que convierte código Javascript en código CSS. Esto permite a los desarrolladores crear estilos dinámicos y personalizados para sus sitios web.",
+          "$keywords": [
+            "Javascript",
+            "CSS",
+            "desarrollo web",
+            "front-end development",
+            "estilos personalizados"
+          ]
+        },
+        "ja": {
+          "$name": "Javascript Object to CSS",
+          "$description": "CSS to Base64は、CSSコードをBase64エンコードされた文字列に変換するWeb開発ツールであり、これにより画像やその他のリソースを直接CSSファイルに埋め込むことができます。これにより、ページを読み込むために必要なHTTPリクエストの数が減少し、ウェブサイトのパフォーマンスが向上することができます。",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "エンコード",
+            "デコード",
+            "Web開発",
+            "フロントエンド開発",
+            "データURI",
+            "画像最適化"
+          ]
+        },
+        "ko": {
+          "$name": "Javascript Object to CSS",
+          "$description": "CSS to Base64은 CSS 코드를 Base64로 인코딩된 문자열로 변환하는 웹 개발 도구입니다. 이를 통해 이미지 및 기타 리소스를 CSS 파일에 직접 포함시켜 웹 사이트 성능을 향상시킬 수 있습니다. 이는 페이지를 로드하는 데 필요한 HTTP 요청 수를 줄이는 데 도움이 됩니다.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "인코딩",
+            "디코딩",
+            "웹 개발",
+            "프론트엔드 개발",
+            "데이터 URI",
+            "이미지 최적화"
+          ]
+        },
+        "de": {
+          "$name": "Javascript-Objekt zu CSS",
+          "$description": "CSS to Base64 ist ein Webentwicklungstool, das CSS-Code in eine Base64-kodierte Zeichenfolge umwandelt, die verwendet werden kann, um Bilder und andere Ressourcen direkt in die CSS-Datei einzubetten. Dadurch kann die Leistung der Website verbessert werden, indem die Anzahl der für das Laden der Seite benötigten HTTP-Anforderungen reduziert wird.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "Kodierung",
+            "Dekodierung",
+            "Webentwicklung",
+            "Front-End-Entwicklung",
+            "Daten-URI",
+            "Bildoptimierung"
+          ]
+        },
+        "fr": {
+          "$name": "Javascript Object to CSS",
+          "$description": "Javascript Object to CSS est un outil de développement web qui convertit du code Javascript en code CSS. Cela permet de créer des styles dynamiques pour les pages web.",
+          "$keywords": [
+            "Javascript",
+            "CSS",
+            "développement web",
+            "front-end development"
+          ]
+        },
+        "it": {
+          "$name": "Javascript Object to CSS",
+          "$description": "Javascript Object to CSS è uno strumento di sviluppo web che converte il codice Javascript in codice CSS. Questo strumento può essere utilizzato per creare stili personalizzati per le pagine web.",
+          "$keywords": [
+            "Javascript",
+            "CSS",
+            "sviluppo web",
+            "front-end development"
+          ]
+        },
+        "ru": {
+          "$name": "Javascript Object to CSS",
+          "$description": "Javascript Object to CSS - это инструмент веб-разработки, который преобразует код CSS в закодированную строку Base64, которая может быть использована для встраивания изображений и других ресурсов непосредственно в файл CSS. Это может улучшить производительность веб-сайта, уменьшив количество запросов HTTP, необходимых для загрузки страницы.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        },
+        "pt": {
+          "$name": "Javascript Object to CSS",
+          "$description": "Javascript Object to CSS é uma ferramenta de desenvolvimento web que converte código CSS em uma string codificada em Base64, que pode ser usada para incorporar imagens e outros recursos diretamente no arquivo CSS. Isso pode melhorar o desempenho do site, reduzindo o número de solicitações HTTP necessárias para carregar a página.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "codificação",
+            "decodificação",
+            "desenvolvimento web",
+            "desenvolvimento front-end",
+            "URI de dados",
+            "otimização de imagem"
+          ]
+        },
+        "en": {
+          "$name": "Javascript Object to CSS",
+          "$description": "CSS to Base64 is a web development tool that converts CSS code into a Base64 encoded string, which can be used to embed images and other resources directly into the CSS file. This can improve website performance by reducing the number of HTTP requests needed to load the page.",
+          "$keywords": [
+            "CSS",
+            "Base64",
+            "encoding",
+            "decoding",
+            "web development",
+            "front-end development",
+            "data URI",
+            "image optimization"
+          ]
+        }
+      }
+]

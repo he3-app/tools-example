@@ -1,0 +1,83 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "id": "image-to-icon",
+    "name": "Image to Icon",
+    "icon": "file-image-outlined",
+    "version": "1.0.5",
+    "isPublic": true,
+    "repository": "",
+    "category": [
+      "image"
+    ],
+    "description": "The Image to Icon tool is a tool used to convert images into icons. Users can select different device types and icon sizes to convert images into corresponding icons, and download all icons as a package.\n\nFeatures:\n\n1. Users can upload images to the tool.\n\n2. The tool supports different device types and icon sizes for iPhone, iPad, macOS, watchOS, and Android.\n\n3. Users can select the device type and icon size they want to convert.\n\n4. Users can name the generated icons.\n\n5. The tool packages all generated icons into a zip file and provides a download link.\n\nUse cases:\n\n1. Mobile app development: In the process of mobile app development, developers need to generate icons of different sizes for different device types. Using the Image to Icon tool can quickly generate all the required icons.\n\n2. Designers: Designers need to generate icons of different sizes for different device types. Using the Image to Icon tool can quickly generate all the required icons and name them.\n\n3. Icon creation: When creating icons, using the Image to Icon tool can quickly generate all the required icons and download them as a package.",
+    "keywords": [
+      "icon",
+      "generate",
+      "scale",
+      "resize",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp",
+      "16x16",
+      "20x20",
+      "29x29",
+      "32x32",
+      "40x40",
+      "48x48",
+      "50x50",
+      "55x55",
+      "57x57",
+      "58x58",
+      "60x60",
+      "66x66",
+      "64x64",
+      "72x72",
+      "76x76",
+      "80x80",
+      "87x87",
+      "88x88",
+      "92x92",
+      "96x96",
+      "100x100",
+      "102x102",
+      "114x114",
+      "120x120",
+      "128x128",
+      "144x144",
+      "152x152",
+      "167x167",
+      "172x172",
+      "180x180",
+      "196x196",
+      "216x216",
+      "256x256",
+      "512x512",
+      "1024x1024"
+    ],
+    "relatedToolId": []
+  },
+  "dependencies": {
+    "@shockpkg/icon-encoder": "^2.1.3",
+    "jszip": "^3.10.1",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

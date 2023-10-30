@@ -1,0 +1,231 @@
+{
+  "zh-cn": {
+    "$name": "条形码生成器",
+    "$keywords": [
+      "条形码",
+      "码",
+      "生成",
+      "生成器",
+      "格式",
+      "宽度",
+      "高度",
+      "颜色",
+      "文本",
+      "对齐",
+      "字体",
+      "大小",
+      "边距",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "条形码生成工具用户手册\n\n概述：\n条形码生成工具是一种用于生成条形码的工具。它可以根据用户的输入和设置生成不同格式、大小和颜色的条形码，并提供下载为PNG和SVG格式的选项。\n\n功能描述：\n1. 用户可以在工具中输入生成条形码所需的数据。\n2. 该工具支持多种条形码格式，用户可以选择要生成的格式。\n3. 用户可以设置条形码的宽度、高度、颜色和其他属性。\n4. 该工具支持在条形码上显示文本，并提供文本对齐、字体、大小、边距等设置。\n5. 用户可以选择下载PNG或SVG格式的条形码。\n\n使用场景：\n1. 商家需要在其产品上贴上条形码，以在销售时识别产品信息。\n2. 物流公司需要在其运输标签上打印条形码，以在运输过程中跟踪运输信息。\n3. 个人需要在其名片上添加条形码，以便他人扫描并获取其联系信息。\n\n使用说明：\n1. 在输入框中输入生成条形码所需的数据。\n2. 选择要生成的条形码格式。\n3. 根据需要设置条形码的宽度、高度、颜色和其他属性。\n4. 如果需要在条形码上显示文本，可以设置文本对齐、字体、大小、边距等属性。\n5. 选择要下载的条形码格式，然后点击保存按钮进行下载。\n\n注意事项：\n1. 输入的数据必须符合所选条形码格式的要求。\n2. 设置的属性值必须在所选条形码格式的允许范围内。\n3. 下载的条形码文件名默认为“barcode”，可以在下载前更改。"
+  },
+  "zh-tw": {
+    "$name": "條碼產生器",
+    "$keywords": [
+      "條碼",
+      "生成",
+      "產生器",
+      "格式",
+      "寬度",
+      "高度",
+      "顏色",
+      "文字",
+      "對齊",
+      "字體",
+      "大小",
+      "邊距",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "條碼生成器工具使用手冊\n\n概述：\n條碼生成器工具是一個用於生成條碼的工具。它可以根據用戶輸入和設置生成不同格式、大小和顏色的條碼，並提供下載為PNG和SVG格式的選項。\n\n功能描述：\n1. 用戶可以在工具中輸入生成條碼所需的數據。\n2. 該工具支持多種條碼格式，用戶可以選擇要生成的格式。\n3. 用戶可以設置條碼的寬度、高度、顏色和其他屬性。\n4. 該工具支持在條碼上顯示文本，並提供文本對齊、字體、大小、邊距等設置。\n5. 用戶可以選擇下載PNG或SVG格式的條碼。\n\n使用場景：\n1. 商家需要在產品上貼上條碼，以在銷售時識別產品信息。\n2. 物流公司需要在運輸標籤上打印條碼，以跟踪運輸信息。\n3. 個人需要在名片上添加條碼，以便他人掃描並獲取其聯繫信息。\n\n使用說明：\n1. 在輸入框中輸入生成條碼所需的數據。\n2. 選擇要生成的條碼格式。\n3. 根據需要設置條碼的寬度、高度、顏色和其他屬性。\n4. 如果需要在條碼上顯示文本，可以設置文本對齊、字體、大小、邊距等屬性。\n5. 選擇要下載的條碼格式，然後點擊保存按鈕進行下載。\n\n注意事項：\n1. 輸入的數據必須符合所選條碼格式的要求。\n2. 設置的屬性值必須在所選條碼格式的允許範圍內。\n3. 下載的條碼文件名默認為“barcode”，可以在下載之前更改。"
+  },
+  "es": {
+    "$name": "Generador de códigos de barras",
+    "$keywords": [
+      "código",
+      "de",
+      "barras",
+      "generar",
+      "generador",
+      "formato",
+      "ancho",
+      "alto",
+      "color",
+      "texto",
+      "alineación",
+      "fuente",
+      "tamaño",
+      "margen",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "Generador de Códigos de Barras - Manual de Usuario\n\nResumen:\nEl Generador de Códigos de Barras es una herramienta utilizada para generar códigos de barras. Puede generar códigos de barras en diferentes formatos, tamaños y colores según la entrada y configuración del usuario, y proporciona opciones para descargar en formatos PNG y SVG.\n\nDescripción de la Función:\n1. Los usuarios pueden ingresar los datos necesarios para generar el código de barras en la herramienta.\n2. La herramienta admite múltiples formatos de código de barras, y los usuarios pueden elegir el formato que desean generar.\n3. Los usuarios pueden establecer el ancho, alto, color y otras propiedades del código de barras.\n4. La herramienta admite la visualización de texto en el código de barras, y proporciona configuraciones para la alineación del texto, fuente, tamaño, margen, etc.\n5. Los usuarios pueden elegir descargar el código de barras en formato PNG o SVG.\n\nEscenarios de Uso:\n1. Los comerciantes necesitan pegar códigos de barras en sus productos para identificar la información del producto al vender.\n2. Las empresas de logística necesitan imprimir códigos de barras en sus etiquetas de envío para rastrear la información de envío durante el transporte.\n3. Las personas necesitan agregar códigos de barras a sus tarjetas de presentación para permitir que otros escaneen y obtengan su información de contacto.\n\nInstrucciones:\n1. Ingrese los datos necesarios para generar el código de barras en el cuadro de entrada.\n2. Elija el formato de código de barras que desea generar.\n3. Establezca el ancho, alto, color y otras propiedades del código de barras según sea necesario.\n4. Si necesita mostrar texto en el código de barras, puede establecer la alineación del texto, fuente, tamaño, margen y otras propiedades.\n5. Elija el formato de código de barras que desea descargar y haga clic en el botón de guardar para descargar.\n\nNotas:\n1. Los datos de entrada deben cumplir con los requisitos del formato de código de barras seleccionado.\n2. Los valores de propiedad establecidos deben estar dentro del rango permitido del formato de código de barras seleccionado.\n3. El nombre del archivo de código de barras descargado se establece por defecto en \"barcode\" y se puede cambiar antes de descargar."
+  },
+  "ja": {
+    "$name": "バーコードジェネレーター",
+    "$keywords": [
+      "バーコード",
+      "生成",
+      "ジェネレーター",
+      "フォーマット",
+      "幅",
+      "高さ",
+      "色",
+      "テキスト",
+      "配置",
+      "フォント",
+      "サイズ",
+      "余白",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "バーコード生成ツールのユーザーマニュアル\n\n概要：\nバーコード生成ツールは、バーコードを生成するためのツールです。ユーザーの入力と設定に基づいて、異なる形式、サイズ、色のバーコードを生成することができ、PNGおよびSVG形式でダウンロードするオプションを提供します。\n\n機能の説明：\n1. ユーザーは、ツールに必要なデータを入力することができます。\n2. ツールは複数のバーコード形式をサポートしており、ユーザーは生成したい形式を選択することができます。\n3. ユーザーは、バーコードの幅、高さ、色などのプロパティを設定することができます。\n4. ツールは、バーコードにテキストを表示することができ、テキストの配置、フォント、サイズ、余白などの設定を提供します。\n5. ユーザーは、PNGまたはSVG形式でバーコードをダウンロードすることができます。\n\n使用シナリオ：\n1. 商人は、販売時に製品情報を識別するために製品にバーコードを貼る必要があります。\n2. ロジスティクス会社は、輸送中に配送ラベルにバーコードを印刷して、配送情報を追跡する必要があります。\n3. 個人は、ビジネスカードにバーコードを追加して、他の人がスキャンして連絡先情報を取得できるようにする必要があります。\n\n手順：\n1. 入力ボックスにバーコードを生成するために必要なデータを入力します。\n2. 生成したいバーコード形式を選択します。\n3. 必要に応じて、バーコードの幅、高さ、色などのプロパティを設定します。\n4. バーコードにテキストを表示する必要がある場合は、テキストの配置、フォント、サイズ、余白などのプロパティを設定することができます。\n5. ダウンロードしたいバーコード形式を選択し、保存ボタンをクリックしてダウンロードします。\n\n注意事項：\n1. 入力データは、選択したバーコード形式の要件を満たす必要があります。\n2. 設定されたプロパティ値は、選択したバーコード形式の許容範囲内である必要があります。\n3. ダウンロードされるバーコードファイル名はデフォルトで「barcode」となっており、ダウンロード前に変更することができます。"
+  },
+  "ko": {
+    "$name": "바코드 생성기",
+    "$keywords": [
+      "바코드",
+      "생성",
+      "생성기",
+      "형식",
+      "너비",
+      "높이",
+      "색상",
+      "텍스트",
+      "정렬",
+      "글꼴",
+      "크기",
+      "여백",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "바코드 생성기 도구 사용 설명서\n\n개요:\n바코드 생성기 도구는 바코드를 생성하는 데 사용되는 도구입니다. 사용자 입력 및 설정에 따라 다른 형식, 크기 및 색상의 바코드를 생성할 수 있으며, PNG 및 SVG 형식으로 다운로드할 수 있는 옵션을 제공합니다.\n\n기능 설명:\n1. 사용자는 도구에서 바코드를 생성하는 데 필요한 데이터를 입력할 수 있습니다.\n2. 도구는 다양한 바코드 형식을 지원하며, 사용자는 생성하려는 형식을 선택할 수 있습니다.\n3. 사용자는 바코드의 너비, 높이, 색상 및 기타 속성을 설정할 수 있습니다.\n4. 도구는 바코드에 텍스트를 표시하는 것을 지원하며, 텍스트 정렬, 글꼴, 크기, 여백 등의 설정을 제공합니다.\n5. 사용자는 PNG 또는 SVG 형식으로 바코드를 다운로드할 수 있습니다.\n\n사용 시나리오:\n1. 판매자는 제품 정보를 식별하기 위해 제품에 바코드를 붙여야 합니다.\n2. 물류 회사는 운송 중 배송 정보를 추적하기 위해 운송 라벨에 바코드를 인쇄해야 합니다.\n3. 개인은 비즈니스 카드에 바코드를 추가하여 다른 사람이 스캔하여 연락처 정보를 얻을 수 있도록 해야 합니다.\n\n사용 방법:\n1. 입력 상자에 바코드를 생성하는 데 필요한 데이터를 입력합니다.\n2. 생성하려는 바코드 형식을 선택합니다.\n3. 필요에 따라 바코드의 너비, 높이, 색상 및 기타 속성을 설정합니다.\n4. 바코드에 텍스트를 표시해야 하는 경우, 텍스트 정렬, 글꼴, 크기, 여백 등의 속성을 설정할 수 있습니다.\n5. 바코드를 다운로드하려는 형식을 선택하고, 저장 버튼을 클릭하여 다운로드합니다.\n\n참고 사항:\n1. 입력 데이터는 선택한 바코드 형식의 요구 사항을 충족해야 합니다.\n2. 설정한 속성 값은 선택한 바코드 형식의 허용 범위 내에 있어야 합니다.\n3. 다운로드된 바코드 파일 이름은 기본적으로 \"barcode\"로 설정되며, 다운로드하기 전에 변경할 수 있습니다."
+  },
+  "de": {
+    "$name": "Barcode-Generator",
+    "$keywords": [
+      "Barcode",
+      "Generieren",
+      "Format",
+      "Breite",
+      "Höhe",
+      "Farbe",
+      "Text",
+      "Ausrichtung",
+      "Schriftart",
+      "Größe",
+      "Rand",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "Barcode Generator Tool Benutzerhandbuch\n\nÜberblick:\nDas Barcode Generator Tool ist ein Tool, das zur Erzeugung von Barcodes verwendet wird. Es kann Barcodes in verschiedenen Formaten, Größen und Farben generieren, basierend auf Benutzereingaben und Einstellungen, und bietet Optionen zum Herunterladen in PNG- und SVG-Formaten.\n\nFunktionsbeschreibung:\n1. Benutzer können die Daten, die zur Generierung des Barcodes benötigt werden, in das Tool eingeben.\n2. Das Tool unterstützt mehrere Barcode-Formate, und Benutzer können das gewünschte Format auswählen.\n3. Benutzer können die Breite, Höhe, Farbe und andere Eigenschaften des Barcodes festlegen.\n4. Das Tool unterstützt die Anzeige von Text auf dem Barcode und bietet Einstellungen für Textausrichtung, Schriftart, Größe, Rand usw.\n5. Benutzer können wählen, ob sie den Barcode im PNG- oder SVG-Format herunterladen möchten.\n\nAnwendungsszenarien:\n1. Händler müssen Barcodes auf ihren Produkten anbringen, um Produktinformationen beim Verkauf zu identifizieren.\n2. Logistikunternehmen müssen Barcodes auf ihren Versandetiketten drucken, um Versandinformationen während des Transports zu verfolgen.\n3. Einzelpersonen müssen Barcodes auf ihre Visitenkarten hinzufügen, um anderen das Scannen und Abrufen ihrer Kontaktdaten zu ermöglichen.\n\nAnweisungen:\n1. Geben Sie die Daten ein, die zur Generierung des Barcodes im Eingabefeld benötigt werden.\n2. Wählen Sie das Barcode-Format aus, das Sie generieren möchten.\n3. Legen Sie die Breite, Höhe, Farbe und andere Eigenschaften des Barcodes nach Bedarf fest.\n4. Wenn Sie Text auf dem Barcode anzeigen möchten, können Sie die Textausrichtung, Schriftart, Größe, Rand und andere Eigenschaften festlegen.\n5. Wählen Sie das Barcode-Format aus, das Sie herunterladen möchten, und klicken Sie auf die Schaltfläche \"Speichern\", um es herunterzuladen.\n\nHinweise:\n1. Die Eingabedaten müssen den Anforderungen des ausgewählten Barcode-Formats entsprechen.\n2. Die festgelegten Eigenschaftswerte müssen innerhalb des zulässigen Bereichs des ausgewählten Barcode-Formats liegen.\n3. Der heruntergeladene Barcode-Dateiname ist standardmäßig \"barcode\" und kann vor dem Herunterladen geändert werden."
+  },
+  "fr": {
+    "$name": "Générateur de codes-barres",
+    "$keywords": [
+      "barre",
+      "code",
+      "générer",
+      "générateur",
+      "code-barres",
+      "format",
+      "largeur",
+      "hauteur",
+      "couleur",
+      "texte",
+      "alignement",
+      "police",
+      "taille",
+      "marge",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "Générateur de codes-barres - Manuel d'utilisation\n\nAperçu :\nLe Générateur de codes-barres est un outil utilisé pour générer des codes-barres. Il peut générer des codes-barres dans différents formats, tailles et couleurs en fonction des paramètres et des entrées de l'utilisateur, et offre des options de téléchargement en formats PNG et SVG.\n\nDescription des fonctions :\n1. Les utilisateurs peuvent entrer les données nécessaires pour générer le code-barres dans l'outil.\n2. L'outil prend en charge plusieurs formats de codes-barres, et les utilisateurs peuvent choisir le format qu'ils souhaitent générer.\n3. Les utilisateurs peuvent définir la largeur, la hauteur, la couleur et d'autres propriétés du code-barres.\n4. L'outil prend en charge l'affichage de texte sur le code-barres, et offre des paramètres pour l'alignement du texte, la police, la taille, la marge, etc.\n5. Les utilisateurs peuvent choisir de télécharger le code-barres en format PNG ou SVG.\n\nScénarios d'utilisation :\n1. Les commerçants ont besoin de coller des codes-barres sur leurs produits pour identifier les informations du produit lors de la vente.\n2. Les entreprises de logistique doivent imprimer des codes-barres sur leurs étiquettes d'expédition pour suivre les informations d'expédition pendant le transport.\n3. Les particuliers ont besoin d'ajouter des codes-barres à leurs cartes de visite pour permettre aux autres de scanner et d'obtenir leurs coordonnées.\n\nInstructions :\n1. Entrez les données nécessaires pour générer le code-barres dans la zone de saisie.\n2. Choisissez le format de code-barres que vous souhaitez générer.\n3. Définissez la largeur, la hauteur, la couleur et d'autres propriétés du code-barres selon vos besoins.\n4. Si vous avez besoin d'afficher du texte sur le code-barres, vous pouvez définir l'alignement du texte, la police, la taille, la marge, et d'autres propriétés.\n5. Choisissez le format de code-barres que vous souhaitez télécharger, et cliquez sur le bouton de sauvegarde pour télécharger.\n\nNotes :\n1. Les données d'entrée doivent répondre aux exigences du format de code-barres sélectionné.\n2. Les valeurs de propriété définies doivent être dans la plage autorisée du format de code-barres sélectionné.\n3. Le nom du fichier de code-barres téléchargé est par défaut \"code-barres\" et peut être modifié avant le téléchargement."
+  },
+  "it": {
+    "$name": "Generatore di codici a barre",
+    "$keywords": [
+      "bar",
+      "codice",
+      "genera",
+      "generatore",
+      "Barcode",
+      "formato",
+      "larghezza",
+      "altezza",
+      "colore",
+      "testo",
+      "allineamento",
+      "font",
+      "dimensione",
+      "margine",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "Manuale Utente del Generatore di Codici a Barre\n\nPanoramica:\nIl Generatore di Codici a Barre è uno strumento utilizzato per generare codici a barre. Può generare codici a barre in diversi formati, dimensioni e colori in base all'input e alle impostazioni dell'utente, e fornisce opzioni per il download in formato PNG e SVG.\n\nDescrizione delle funzioni:\n1. Gli utenti possono inserire i dati necessari per generare il codice a barre nello strumento.\n2. Lo strumento supporta diversi formati di codice a barre e gli utenti possono scegliere il formato che desiderano generare.\n3. Gli utenti possono impostare la larghezza, l'altezza, il colore e altre proprietà del codice a barre.\n4. Lo strumento supporta la visualizzazione del testo sul codice a barre e fornisce impostazioni per l'allineamento del testo, il carattere, la dimensione, il margine, ecc.\n5. Gli utenti possono scegliere di scaricare il codice a barre in formato PNG o SVG.\n\nScenari d'uso:\n1. I commercianti devono attaccare codici a barre sui loro prodotti per identificare le informazioni del prodotto durante la vendita.\n2. Le aziende di logistica devono stampare codici a barre sulle loro etichette di spedizione per tracciare le informazioni di spedizione durante il trasporto.\n3. Le persone devono aggiungere codici a barre alle loro carte da visita per consentire agli altri di scannerizzare e ottenere le loro informazioni di contatto.\n\nIstruzioni:\n1. Inserire i dati necessari per generare il codice a barre nella casella di input.\n2. Scegliere il formato del codice a barre che si desidera generare.\n3. Impostare la larghezza, l'altezza, il colore e altre proprietà del codice a barre come necessario.\n4. Se è necessario visualizzare il testo sul codice a barre, è possibile impostare l'allineamento del testo, il carattere, la dimensione, il margine e altre proprietà.\n5. Scegliere il formato del codice a barre che si desidera scaricare e fare clic sul pulsante Salva per scaricare.\n\nNote:\n1. I dati di input devono soddisfare i requisiti del formato di codice a barre selezionato.\n2. I valori delle proprietà impostate devono essere all'interno del range consentito del formato di codice a barre selezionato.\n3. Il nome del file del codice a barre scaricato è predefinito come \"barcode\" e può essere modificato prima del download."
+  },
+  "ru": {
+    "$name": "Генератор штрих-кодов",
+    "$keywords": [
+      "штрих-код",
+      "генератор",
+      "формат",
+      "ширина",
+      "высота",
+      "цвет",
+      "текст",
+      "выравнивание",
+      "шрифт",
+      "размер",
+      "отступ",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "Инструкция пользователя для инструмента генерации штрих-кодов\n\nОбзор:\nИнструмент генерации штрих-кодов используется для создания штрих-кодов. Он может генерировать штрих-коды в разных форматах, размерах и цветах на основе ввода и настроек пользователя, а также предоставляет возможность загрузки в форматах PNG и SVG.\n\nОписание функций:\n1. Пользователи могут ввести данные, необходимые для генерации штрих-кода в инструменте.\n2. Инструмент поддерживает несколько форматов штрих-кодов, и пользователи могут выбрать формат, который им нужен.\n3. Пользователи могут установить ширину, высоту, цвет и другие свойства штрих-кода.\n4. Инструмент поддерживает отображение текста на штрих-коде и предоставляет настройки для выравнивания текста, шрифта, размера, отступа и т.д.\n5. Пользователи могут выбрать формат штрих-кода, который им нужен для загрузки в форматах PNG или SVG.\n\nСценарии использования:\n1. Торговцы должны наклеивать штрих-коды на свои товары, чтобы идентифицировать информацию о продукте при продаже.\n2. Логистические компании должны печатать штрих-коды на своих этикетках для отслеживания информации о доставке во время транспортировки.\n3. Люди должны добавлять штрих-коды на свои визитные карточки, чтобы другие могли сканировать и получать их контактную информацию.\n\nИнструкции:\n1. Введите данные, необходимые для генерации штрих-кода в поле ввода.\n2. Выберите формат штрих-кода, который вы хотите создать.\n3. Установите ширину, высоту, цвет и другие свойства штрих-кода по мере необходимости.\n4. Если вам нужно отобразить текст на штрих-коде, вы можете установить выравнивание текста, шрифт, размер, отступ и другие свойства.\n5. Выберите формат штрих-кода, который вы хотите загрузить, и нажмите кнопку сохранить для загрузки.\n\nПримечания:\n1. Входные данные должны соответствовать требованиям выбранного формата штрих-кода.\n2. Установленные значения свойств должны находиться в допустимом диапазоне выбранного формата штрих-кода.\n3. Имя загруженного файла штрих-кода по умолчанию \"штрих-код\" и может быть изменено перед загрузкой."
+  },
+  "pt": {
+    "$name": "Gerador de Código de Barras",
+    "$keywords": [
+      "código",
+      "de",
+      "barras",
+      "gerar",
+      "gerador",
+      "formato",
+      "largura",
+      "altura",
+      "cor",
+      "texto",
+      "alinhamento",
+      "fonte",
+      "tamanho",
+      "margem",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "Manual do Usuário da Ferramenta Geradora de Código de Barras\n\nVisão Geral:\nA Ferramenta Geradora de Código de Barras é uma ferramenta usada para gerar códigos de barras. Ela pode gerar códigos de barras em diferentes formatos, tamanhos e cores com base nas configurações e entrada do usuário, e fornece opções para download em formatos PNG e SVG.\n\nDescrição da Função:\n1. Os usuários podem inserir os dados necessários para gerar o código de barras na ferramenta.\n2. A ferramenta suporta vários formatos de código de barras, e os usuários podem escolher o formato que desejam gerar.\n3. Os usuários podem definir a largura, altura, cor e outras propriedades do código de barras.\n4. A ferramenta suporta a exibição de texto no código de barras e fornece configurações para alinhamento de texto, fonte, tamanho, margem, etc.\n5. Os usuários podem escolher fazer o download do código de barras em formato PNG ou SVG.\n\nCenários de Uso:\n1. Os comerciantes precisam colar códigos de barras em seus produtos para identificar informações do produto durante a venda.\n2. As empresas de logística precisam imprimir códigos de barras em suas etiquetas de envio para rastrear informações de envio durante o transporte.\n3. Indivíduos precisam adicionar códigos de barras em seus cartões de visita para permitir que outros escaneiem e obtenham suas informações de contato.\n\nInstruções:\n1. Insira os dados necessários para gerar o código de barras na caixa de entrada.\n2. Escolha o formato de código de barras que deseja gerar.\n3. Defina a largura, altura, cor e outras propriedades do código de barras conforme necessário.\n4. Se você precisar exibir texto no código de barras, poderá definir o alinhamento de texto, fonte, tamanho, margem e outras propriedades.\n5. Escolha o formato de código de barras que deseja fazer o download e clique no botão salvar para fazer o download.\n\nObservações:\n1. Os dados de entrada devem atender aos requisitos do formato de código de barras selecionado.\n2. Os valores de propriedade definidos devem estar dentro da faixa permitida do formato de código de barras selecionado.\n3. O nome do arquivo de código de barras baixado é padrão \"barcode\" e pode ser alterado antes do download."
+  },
+  "en": {
+    "$name": "Barcode Generator",
+    "$keywords": [
+      "bar",
+      "code",
+      "generate",
+      "generator",
+      "Barcode",
+      "format",
+      "width",
+      "height",
+      "color",
+      "text",
+      "alignment",
+      "font",
+      "size",
+      "margin",
+      "PNG",
+      "SVG"
+    ],
+    "$description": "Barcode Generator Tool User Manual\n\nOverview:\nThe Barcode Generator Tool is a tool used to generate barcodes. It can generate barcodes in different formats, sizes, and colors based on user input and settings, and provides options to download in PNG and SVG formats.\n\nFunction Description:\n1. Users can input the data needed to generate the barcode in the tool.\n2. The tool supports multiple barcode formats, and users can choose the format they want to generate.\n3. Users can set the width, height, color, and other properties of the barcode.\n4. The tool supports displaying text on the barcode, and provides settings for text alignment, font, size, margin, etc.\n5. Users can choose to download the barcode in PNG or SVG format.\n\nUsage Scenarios:\n1. Merchants need to stick barcodes on their products to identify product information when selling.\n2. Logistics companies need to print barcodes on their shipping labels to track shipping information during transportation.\n3. Individuals need to add barcodes to their business cards to allow others to scan and obtain their contact information.\n\nInstructions:\n1. Input the data needed to generate the barcode in the input box.\n2. Choose the barcode format you want to generate.\n3. Set the width, height, color, and other properties of the barcode as needed.\n4. If you need to display text on the barcode, you can set the text alignment, font, size, margin, and other properties.\n5. Choose the barcode format you want to download, and click the save button to download.\n\nNotes:\n1. The input data must meet the requirements of the selected barcode format.\n2. The set property values must be within the allowable range of the selected barcode format.\n3. The downloaded barcode file name defaults to \"barcode\" and can be changed before downloading."
+  }
+}

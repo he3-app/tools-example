@@ -1,0 +1,156 @@
+{
+  "zh-cn": {
+    "$name": "Websocket测试工具",
+    "$keywords": [
+      "WebSocket",
+      "onmessage",
+      "测试",
+      "连接",
+      "测试工具",
+      "实时通信",
+      "数据传输",
+      "连接状态"
+    ],
+    "$description": "WebSocket测试工具是用于测试WebSocket连接的工具。它允许用户输入WebSocket URL，连接到WebSocket服务器，并发送和接收消息。\n\n功能：\n\n1. 用户可以输入WebSocket URL并通过单击“连接”按钮连接到WebSocket服务器。\n\n2. 当连接成功或失败时，该工具会自动检测连接状态并显示相应的状态。\n\n3. 用户可以在工具中输入消息，并通过单击“发送”按钮将其发送到WebSocket服务器。\n\n4. 该工具会自动从WebSocket服务器接收消息，并在工具的消息接收区域中显示它们。\n\n用例：\n\n1. WebSocket开发和测试：在开发或测试WebSocket时，开发人员经常需要测试WebSocket连接和消息传输。使用WebSocket测试工具可以轻松测试WebSocket连接和消息传输。\n\n2. 实时通信应用程序开发：WebSocket是实时通信应用程序开发中常用的通信协议。使用WebSocket测试工具可以轻松测试实时通信应用程序中的WebSocket连接和消息传输。\n\n3. WebSocket数据检查：在代码审查期间，审查人员可以使用WebSocket测试工具测试WebSocket连接和消息传输，从而更轻松地查看和理解WebSocket数据传输。"
+  },
+  "zh-tw": {
+    "$name": "Websocket 測試器",
+    "$keywords": [
+      "WebSocket",
+      "onmessage",
+      "測試",
+      "連接",
+      "測試工具",
+      "即時通訊",
+      "數據傳輸",
+      "連接狀態"
+    ],
+    "$description": "WebSocket 測試器是一個用於測試 WebSocket 連接的工具。它允許用戶輸入 WebSocket URL，連接到 WebSocket 服務器，並發送和接收消息。\n\n功能：\n\n1. 用戶可以輸入 WebSocket URL，通過點擊連接按鈕連接到 WebSocket 服務器。\n\n2. 當連接成功或失敗時，該工具會自動檢測連接狀態並顯示相應的狀態。\n\n3. 用戶可以在工具中輸入消息，並通過點擊發送按鈕將它們發送到 WebSocket 服務器。\n\n4. 該工具會自動從 WebSocket 服務器接收消息並在工具的消息接收區域中顯示它們。\n\n用例：\n\n1. WebSocket 開發和測試：在開發或測試 WebSocket 時，開發人員經常需要測試 WebSocket 連接和消息傳輸。使用 WebSocket 測試器可以輕鬆測試 WebSocket 連接和消息傳輸。\n\n2. 實時通信應用程序開發：WebSocket 是實時通信應用程序開發中常用的通信協議。使用 WebSocket 測試器可以輕鬆測試實時通信應用程序中的 WebSocket 連接和消息傳輸。\n\n3. WebSocket 數據檢查：在代碼審查期間，審查人員可以使用 WebSocket 測試器測試 WebSocket 連接和消息傳輸，從而更輕鬆地查看和理解 WebSocket 數據傳輸。"
+  },
+  "es": {
+    "$name": "Probador de Websocket",
+    "$keywords": [
+      "websocket",
+      "onmessage",
+      "test",
+      "conectar",
+      "herramienta de prueba",
+      "comunicación en tiempo real",
+      "transmisión de datos",
+      "estado de conexión"
+    ],
+    "$description": "El probador de WebSocket es una herramienta utilizada para probar conexiones WebSocket. Permite a los usuarios ingresar una URL de WebSocket, conectarse al servidor WebSocket y enviar y recibir mensajes.\n\nCaracterísticas:\n\n1. Los usuarios pueden ingresar una URL de WebSocket y conectarse al servidor WebSocket haciendo clic en el botón Conectar.\n\n2. La herramienta detecta automáticamente el estado de la conexión y muestra el estado correspondiente cuando la conexión es exitosa o falla.\n\n3. Los usuarios pueden ingresar mensajes en la herramienta y enviarlos al servidor WebSocket haciendo clic en el botón Enviar.\n\n4. La herramienta recibe automáticamente mensajes del servidor WebSocket y los muestra en el área de recepción de mensajes de la herramienta.\n\nCasos de uso:\n\n1. Desarrollo y prueba de WebSocket: al desarrollar o probar WebSocket, los desarrolladores a menudo necesitan probar conexiones WebSocket y la transmisión de mensajes. El uso de WebSocket Tester facilita la prueba de conexiones WebSocket y la transmisión de mensajes.\n\n2. Desarrollo de aplicaciones de comunicación en tiempo real: WebSocket es un protocolo de comunicación comúnmente utilizado en el desarrollo de aplicaciones de comunicación en tiempo real. El uso de WebSocket Tester facilita la prueba de conexiones WebSocket y la transmisión de mensajes en aplicaciones de comunicación en tiempo real.\n\n3. Inspección de datos de WebSocket: durante la revisión de código, los revisores pueden usar WebSocket Tester para probar conexiones WebSocket y la transmisión de mensajes, lo que facilita la visualización y comprensión de la transmisión de datos de WebSocket."
+  },
+  "ja": {
+    "$name": "Websocket Tester",
+    "$keywords": [
+      "websocket",
+      "onmessage",
+      "テスト",
+      "接続",
+      "テストツール",
+      "リアルタイム通信",
+      "データ転送",
+      "接続状態"
+    ],
+    "$description": "WebSocket Testerは、WebSocket接続をテストするために使用されるツールです。ユーザーはWebSocket URLを入力し、WebSocketサーバーに接続し、メッセージを送受信することができます。\n\n機能：\n\n1. ユーザーはWebSocket URLを入力し、ConnectボタンをクリックすることでWebSocketサーバーに接続できます。\n\n2. ツールは接続状態を自動的に検出し、接続が成功または失敗した場合に対応する状態を表示します。\n\n3. ユーザーはツール内でメッセージを入力し、SendボタンをクリックしてWebSocketサーバーに送信することができます。\n\n4. ツールは自動的にWebSocketサーバーからメッセージを受信し、ツールのメッセージ受信エリアに表示します。\n\n使用例：\n\n1. WebSocketの開発とテスト：WebSocketを開発またはテストする際、開発者はしばしばWebSocket接続とメッセージの送受信をテストする必要があります。WebSocket Testerを使用すると、WebSocket接続とメッセージの送受信を簡単にテストできます。\n\n2. リアルタイム通信アプリケーションの開発：WebSocketはリアルタイム通信アプリケーションの開発でよく使用される通信プロトコルです。WebSocket Testerを使用すると、リアルタイム通信アプリケーションでのWebSocket接続とメッセージの送受信を簡単にテストできます。\n\n3. WebSocketデータの検査：コードレビュー中、レビュアーはWebSocket Testerを使用してWebSocket接続とメッセージの送受信をテストし、WebSocketデータの送信を表示して理解することができます。"
+  },
+  "ko": {
+    "$name": "웹소켓 테스터",
+    "$keywords": [
+      "웹소켓",
+      "onmessage",
+      "테스트",
+      "연결",
+      "테스팅 도구",
+      "실시간 통신",
+      "데이터 전송",
+      "연결 상태"
+    ],
+    "$description": "WebSocket Tester는 WebSocket 연결을 테스트하는 데 사용되는 도구입니다. 사용자는 WebSocket URL을 입력하고 WebSocket 서버에 연결하며, 메시지를 보내고 받을 수 있습니다.\n\n기능:\n\n1. 사용자는 WebSocket URL을 입력하고 Connect 버튼을 클릭하여 WebSocket 서버에 연결할 수 있습니다.\n\n2. 도구는 연결 상태를 자동으로 감지하고 연결이 성공하거나 실패할 때 해당 상태를 표시합니다.\n\n3. 사용자는 도구에서 메시지를 입력하고 Send 버튼을 클릭하여 WebSocket 서버로 보낼 수 있습니다.\n\n4. 도구는 WebSocket 서버에서 자동으로 메시지를 수신하고 도구의 메시지 수신 영역에 표시합니다.\n\n사용 사례:\n\n1. WebSocket 개발 및 테스트: WebSocket을 개발하거나 테스트할 때, 개발자는 WebSocket 연결 및 메시지 전송을 테스트해야 합니다. WebSocket Tester를 사용하면 WebSocket 연결 및 메시지 전송을 쉽게 테스트할 수 있습니다.\n\n2. 실시간 통신 애플리케이션 개발: WebSocket은 실시간 통신 애플리케이션 개발에서 자주 사용되는 통신 프로토콜입니다. WebSocket Tester를 사용하면 실시간 통신 애플리케이션에서 WebSocket 연결 및 메시지 전송을 쉽게 테스트할 수 있습니다.\n\n3. WebSocket 데이터 검사: 코드 검토 중에 리뷰어는 WebSocket Tester를 사용하여 WebSocket 연결 및 메시지 전송을 테스트할 수 있으며, WebSocket 데이터 전송을 보고 이해하기 쉬워집니다."
+  },
+  "de": {
+    "$name": "Websocket Tester",
+    "$keywords": [
+      "Websocket",
+      "onmessage",
+      "Test",
+      "Verbinden",
+      "Testwerkzeug",
+      "Echtzeitkommunikation",
+      "Datenübertragung",
+      "Verbindungsstatus"
+    ],
+    "$description": "WebSocket Tester ist ein Tool, das zur Überprüfung von WebSocket-Verbindungen verwendet wird. Es ermöglicht Benutzern, eine WebSocket-URL einzugeben, sich mit dem WebSocket-Server zu verbinden und Nachrichten zu senden und zu empfangen.\n\nFunktionen:\n\n1. Benutzer können eine WebSocket-URL eingeben und sich durch Klicken auf die Schaltfläche \"Verbinden\" mit dem WebSocket-Server verbinden.\n\n2. Das Tool erkennt automatisch den Verbindungsstatus und zeigt den entsprechenden Status an, wenn die Verbindung erfolgreich oder fehlgeschlagen ist.\n\n3. Benutzer können Nachrichten im Tool eingeben und sie an den WebSocket-Server senden, indem sie auf die Schaltfläche \"Senden\" klicken.\n\n4. Das Tool empfängt automatisch Nachrichten vom WebSocket-Server und zeigt sie im Nachrichtenempfangsbereich des Tools an.\n\nAnwendungsfälle:\n\n1. WebSocket-Entwicklung und -Test: Bei der Entwicklung oder dem Testen von WebSocket müssen Entwickler oft WebSocket-Verbindungen und die Übertragung von Nachrichten testen. Mit WebSocket Tester ist es einfach, WebSocket-Verbindungen und die Übertragung von Nachrichten zu testen.\n\n2. Entwicklung von Echtzeitkommunikationsanwendungen: WebSocket ist ein häufig verwendetes Kommunikationsprotokoll bei der Entwicklung von Echtzeitkommunikationsanwendungen. Mit WebSocket Tester ist es einfach, WebSocket-Verbindungen und die Übertragung von Nachrichten in Echtzeitkommunikationsanwendungen zu testen.\n\n3. Inspektion von WebSocket-Daten: Während der Codeüberprüfung können Prüfer WebSocket Tester verwenden, um WebSocket-Verbindungen und die Übertragung von Nachrichten zu testen, um die Übertragung von WebSocket-Daten besser zu verstehen und zu betrachten."
+  },
+  "fr": {
+    "$name": "Testeur de Websocket",
+    "$keywords": [
+      "websocket",
+      "onmessage",
+      "test",
+      "connect",
+      "outil de test",
+      "communication en temps réel",
+      "transmission de données",
+      "état de la connexion"
+    ],
+    "$description": "Le testeur WebSocket est un outil utilisé pour tester les connexions WebSocket. Il permet aux utilisateurs de saisir une URL WebSocket, de se connecter au serveur WebSocket, et d'envoyer et de recevoir des messages.\n\nFonctionnalités :\n\n1. Les utilisateurs peuvent saisir une URL WebSocket et se connecter au serveur WebSocket en cliquant sur le bouton Connecter.\n\n2. L'outil détecte automatiquement l'état de la connexion et affiche l'état correspondant lorsque la connexion est réussie ou échoue.\n\n3. Les utilisateurs peuvent saisir des messages dans l'outil et les envoyer au serveur WebSocket en cliquant sur le bouton Envoyer.\n\n4. L'outil reçoit automatiquement des messages du serveur WebSocket et les affiche dans la zone de réception de messages de l'outil.\n\nCas d'utilisation :\n\n1. Développement et test de WebSocket : Lors du développement ou du test de WebSocket, les développeurs ont souvent besoin de tester les connexions WebSocket et la transmission de messages. L'utilisation du testeur WebSocket facilite le test des connexions WebSocket et la transmission de messages.\n\n2. Développement d'applications de communication en temps réel : WebSocket est un protocole de communication couramment utilisé dans le développement d'applications de communication en temps réel. L'utilisation du testeur WebSocket facilite le test des connexions WebSocket et la transmission de messages dans les applications de communication en temps réel.\n\n3. Inspection des données WebSocket : Lors de l'examen du code, les examinateurs peuvent utiliser le testeur WebSocket pour tester les connexions WebSocket et la transmission de messages, ce qui facilite la visualisation et la compréhension de la transmission de données WebSocket."
+  },
+  "it": {
+    "$name": "Websocket Tester",
+    "$keywords": [
+      "websocket",
+      "onmessage",
+      "test",
+      "connessione",
+      "strumento di test",
+      "comunicazione in tempo reale",
+      "trasmissione dati",
+      "stato della connessione"
+    ],
+    "$description": "WebSocket Tester è uno strumento utilizzato per testare le connessioni WebSocket. Consente agli utenti di inserire un URL WebSocket, connettersi al server WebSocket, e inviare e ricevere messaggi.\n\nCaratteristiche:\n\n1. Gli utenti possono inserire un URL WebSocket e connettersi al server WebSocket cliccando sul pulsante Connetti.\n\n2. Lo strumento rileva automaticamente lo stato della connessione e visualizza lo stato corrispondente quando la connessione ha successo o fallisce.\n\n3. Gli utenti possono inserire messaggi nello strumento e inviarli al server WebSocket cliccando sul pulsante Invia.\n\n4. Lo strumento riceve automaticamente i messaggi dal server WebSocket e li visualizza nell'area di ricezione messaggi dello strumento.\n\nCasi d'uso:\n\n1. Sviluppo e test di WebSocket: durante lo sviluppo o il test di WebSocket, gli sviluppatori spesso devono testare le connessioni WebSocket e la trasmissione dei messaggi. L'utilizzo di WebSocket Tester rende facile testare le connessioni WebSocket e la trasmissione dei messaggi.\n\n2. Sviluppo di applicazioni di comunicazione in tempo reale: WebSocket è un protocollo di comunicazione comunemente utilizzato nello sviluppo di applicazioni di comunicazione in tempo reale. L'utilizzo di WebSocket Tester rende facile testare le connessioni WebSocket e la trasmissione dei messaggi in applicazioni di comunicazione in tempo reale.\n\n3. Ispezione dei dati WebSocket: durante la revisione del codice, i revisori possono utilizzare WebSocket Tester per testare le connessioni WebSocket e la trasmissione dei messaggi, rendendo più facile visualizzare e comprendere la trasmissione dei dati WebSocket."
+  },
+  "ru": {
+    "$name": "Тестер Websocket",
+    "$keywords": [
+      "websocket",
+      "onmessage",
+      "test",
+      "connect",
+      "testing tool",
+      "real-time communication",
+      "data transmission",
+      "connection status"
+    ],
+    "$description": "WebSocket Tester - это инструмент, используемый для тестирования WebSocket-соединений. Он позволяет пользователям вводить URL WebSocket, подключаться к серверу WebSocket, отправлять и получать сообщения.\n\nОсобенности:\n\n1. Пользователи могут вводить URL WebSocket и подключаться к серверу WebSocket, нажимая кнопку Подключиться.\n\n2. Инструмент автоматически определяет статус соединения и отображает соответствующий статус при успешном или неудачном подключении.\n\n3. Пользователи могут вводить сообщения в инструмент и отправлять их на сервер WebSocket, нажимая кнопку Отправить.\n\n4. Инструмент автоматически получает сообщения от сервера WebSocket и отображает их в области получения сообщений инструмента.\n\nВарианты использования:\n\n1. Разработка и тестирование WebSocket: при разработке или тестировании WebSocket разработчики часто должны тестировать соединения WebSocket и передачу сообщений. Использование WebSocket Tester позволяет легко тестировать соединения WebSocket и передачу сообщений.\n\n2. Разработка приложений для реального времени: WebSocket - это часто используемый протокол связи при разработке приложений для реального времени. Использование WebSocket Tester позволяет легко тестировать соединения WebSocket и передачу сообщений в приложениях для реального времени.\n\n3. Инспектирование данных WebSocket: при проверке кода рецензенты могут использовать WebSocket Tester для тестирования соединений WebSocket и передачи сообщений, что упрощает просмотр и понимание передачи данных WebSocket."
+  },
+  "pt": {
+    "$name": "Testador de Websocket",
+    "$keywords": [
+      "websocket",
+      "onmessage",
+      "test",
+      "conectar",
+      "ferramenta de teste",
+      "comunicação em tempo real",
+      "transmissão de dados",
+      "status de conexão"
+    ],
+    "$description": "O testador de WebSocket é uma ferramenta usada para testar conexões WebSocket. Ele permite que os usuários insiram um URL WebSocket, conectem-se ao servidor WebSocket e enviem e recebam mensagens.\n\nRecursos:\n\n1. Os usuários podem inserir um URL WebSocket e se conectar ao servidor WebSocket clicando no botão Conectar.\n\n2. A ferramenta detecta automaticamente o status da conexão e exibe o status correspondente quando a conexão é bem-sucedida ou falha.\n\n3. Os usuários podem inserir mensagens na ferramenta e enviá-las para o servidor WebSocket clicando no botão Enviar.\n\n4. A ferramenta recebe automaticamente mensagens do servidor WebSocket e as exibe na área de recebimento de mensagens da ferramenta.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de WebSocket: ao desenvolver ou testar WebSocket, os desenvolvedores frequentemente precisam testar conexões WebSocket e a transmissão de mensagens. Usar o testador de WebSocket torna fácil testar conexões WebSocket e a transmissão de mensagens.\n\n2. Desenvolvimento de aplicativos de comunicação em tempo real: WebSocket é um protocolo de comunicação comumente usado no desenvolvimento de aplicativos de comunicação em tempo real. Usar o testador de WebSocket torna fácil testar conexões WebSocket e a transmissão de mensagens em aplicativos de comunicação em tempo real.\n\n3. Inspeção de dados WebSocket: durante a revisão de código, os revisores podem usar o testador de WebSocket para testar conexões WebSocket e a transmissão de mensagens, tornando mais fácil visualizar e entender a transmissão de dados WebSocket."
+  },
+  "en": {
+    "$name": "Websocket Tester",
+    "$keywords": [
+      "websocket",
+      "onmessage",
+      "test",
+      "connect",
+      "testing tool",
+      "real-time communication",
+      "data transmission",
+      "connection status"
+    ],
+    "$description": "WebSocket Tester is a tool used to test WebSocket connections. It allows users to input a WebSocket URL, connect to the WebSocket server, and send and receive messages.\n\nFeatures:\n\n1. Users can input a WebSocket URL and connect to the WebSocket server by clicking the Connect button.\n\n2. The tool automatically detects the connection status and displays the corresponding status when the connection is successful or fails.\n\n3. Users can input messages in the tool and send them to the WebSocket server by clicking the Send button.\n\n4. The tool automatically receives messages from the WebSocket server and displays them in the tool's message receiving area.\n\nUse cases:\n\n1. WebSocket development and testing: When developing or testing WebSocket, developers often need to test WebSocket connections and message transmission. Using WebSocket Tester makes it easy to test WebSocket connections and message transmission.\n\n2. Real-time communication application development: WebSocket is a commonly used communication protocol in real-time communication application development. Using WebSocket Tester makes it easy to test WebSocket connections and message transmission in real-time communication applications.\n\n3. WebSocket data inspection: During code review, reviewers can use WebSocket Tester to test WebSocket connections and message transmission, making it easier to view and understand WebSocket data transmission."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "generate": "he3 generate",
+    "version": "he3 version"
+  },
+  "he3": [
+    {
+      "id": "coffeescript-to-javascript",
+      "name": "CoffeeScript to Javascript",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.2",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "CoffeeScript to Javascript is a powerful tool that allows developers to easily convert and compile CoffeeScript code into JavaScript code. With this tool, developers can seamlessly transition between the two languages, ensuring that their code is always optimized and efficient.",
+      "keywords": [
+        "coffeescript",
+        "javascript",
+        "convert",
+        "compile"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "js-escape",
+      "name": "JavaScript Escape",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.7",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "JavaScript Escape is a tool that allows developers to encode special characters in JavaScript code, such as quotes and backslashes, to prevent syntax errors and ensure proper functionality of the code. This tool is essential for creating secure and error-free JavaScript applications.",
+      "keywords": [
+        "escape",
+        "javascript"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "js-unescape",
+      "name": "JavaScript Unescape",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.6",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "JavaScript Unescape is a tool that allows users to convert escaped characters in JavaScript code back to their original form. This can be useful for debugging or modifying existing code that contains escaped characters.",
+      "keywords": [
+        "unescape",
+        "javascript"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "javascript-minify",
+      "name": "JavaScript Compressor",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.6",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "JavaScript Compressor is a powerful tool that helps developers to minify, compress, and uglify their JavaScript code, reducing its size and improving its performance. With this tool, developers can easily optimize their code for faster loading times and better user experience.",
+      "keywords": [
+        "JavaScript",
+        "JS",
+        "minify",
+        "compress",
+        "uglify"
+      ],
+      "relatedToolId": [
+        "javascript-prettify"
+      ]
+    },
+    {
+      "id": "javascript-prettify",
+      "name": "JavaScript Formatting",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "The JavaScript Formatting tool is designed to help developers format and prettify their JavaScript code, making it easier to read and understand. With features such as formatting, validation, and keyword highlighting, this tool is a must-have for any JavaScript developer looking to improve their code quality.",
+      "keywords": [
+        "JavaScript",
+        "JS",
+        "beautify",
+        "pretty",
+        "prettify",
+        "fmt",
+        "format",
+        "formatter",
+        "validate",
+        "validator"
+      ],
+      "relatedToolId": [
+        "javascript-minify"
+      ]
+    },
+    {
+      "id": "ts-to-js",
+      "name": "TypeScript to Javascript",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "programming"
+      ],
+      "description": "TypeScript to Javascript is a powerful tool that allows developers to easily convert and compile TypeScript code into JavaScript code. With this tool, developers can seamlessly transition between the two languages, ensuring that their code is always optimized and efficient.",
+      "keywords": [
+        "typescript",
+        "javascript",
+        "convert",
+        "compile"
+      ],
+      "relatedToolId": []
+    }
+  ],
+  "dependencies": {
+    "@he3-kit/utils": "latest",
+    "coffeescript": "2.7.0",
+    "csj": "^1.0.0",
+    "iced-coffee-script": "^108.0.14",
+    "js-beautify": "^1.14.7",
+    "js2coffee": "^2.2.0",
+    "json-stringify-pretty-compact": "^4.0.0",
+    "terser": "^5.16.6",
+    "unescape-js": "^1.1.4",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@types/coffeescript": "^2.5.2",
+    "@types/js-beautify": "^1.13.3",
+    "@types/js2coffee": "^2.2.1",
+    "@types/unescape-js": "^1.0.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "coffeescript": "^2.7.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

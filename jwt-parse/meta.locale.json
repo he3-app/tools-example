@@ -1,0 +1,221 @@
+{
+  "zh-cn": {
+    "$name": "JWT解析器",
+    "$keywords": [
+      "jwt",
+      "解析",
+      "令牌",
+      "JavaScript",
+      "Web",
+      "HS256",
+      "HS384",
+      "HS512",
+      "解析",
+      "JSON",
+      "开发",
+      "测试",
+      "数据分析",
+      "数据审查"
+    ],
+    "$description": "JWT解析器工具是一种用于解析JWT（JSON Web Token）字符串的工具。它可以将JWT字符串解析为头部和负载部分，并在工具的输出区域以JSON格式显示它们。\n\n功能描述：\n\n1. 将JWT字符串粘贴或输入到工具中。\n\n2. 工具将自动解析JWT字符串，并在工具的输出区域以JSON格式显示头部和负载部分。\n\n3. 如果无法解析JWT字符串，工具将提示错误消息。\n\n使用场景：\n\n1. JWT开发和测试：在开发或测试JWT时，开发人员经常需要查看JWT字符串的头部和负载部分。使用JWT解析器工具可以将JWT字符串解析为可读的JSON格式，使得快速检查数据结构和内容变得容易。\n\n2. JWT数据分析：数据分析师需要处理和分析各种JWT数据。使用此工具，他们可以轻松地将JWT字符串解析为可读的JSON格式，这有助于他们更好地理解数据结构和内容。\n\n3. JWT数据审查：在代码审查期间，审查人员可以使用JWT解析器工具解析JWT字符串，使得查看和理解数据结构变得更加容易。"
+  },
+  "zh-tw": {
+    "$name": "JWT 解析器",
+    "$keywords": [
+      "jwt",
+      "解析",
+      "令牌",
+      "JavaScript",
+      "網頁",
+      "HS256",
+      "HS384",
+      "HS512",
+      "解析",
+      "JSON",
+      "開發",
+      "測試",
+      "數據分析",
+      "數據審查"
+    ],
+    "$description": "JWT解析器工具是一個用於解析JWT（JSON Web Token）字符串的工具。它可以將JWT字符串解析為標頭和有效載荷部分，並在工具的輸出區域中以JSON格式顯示它們。\n\n功能描述：\n\n1. 將JWT字符串粘貼或輸入到工具中。\n\n2. 工具將自動解析JWT字符串，並在工具的輸出區域中以JSON格式顯示標頭和有效載荷部分。\n\n3. 如果無法解析JWT字符串，工具將提示錯誤消息。\n\n使用情況：\n\n1. JWT開發和測試：在開發或測試JWT時，開發人員經常需要查看JWT字符串的標頭和有效載荷部分。使用JWT解析器工具可以將JWT字符串解析為可讀的JSON格式，使得快速檢查數據結構和內容變得容易。\n\n2. JWT數據分析：數據分析師需要處理和分析各種JWT數據。使用這個工具，他們可以輕鬆地將JWT字符串解析為可讀的JSON格式，這有助於他們更好地理解數據結構和內容。\n\n3. JWT數據審查：在代碼審查期間，審查人員可以使用JWT解析器工具解析JWT字符串，這使得查看和理解數據結構變得更加容易。"
+  },
+  "es": {
+    "$name": "Analizador de JWT",
+    "$keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "javascript",
+      "web",
+      "hs256",
+      "hs384",
+      "hs512",
+      "parsing",
+      "JSON",
+      "desarrollo",
+      "pruebas",
+      "análisis de datos",
+      "revisión de datos"
+    ],
+    "$description": "La herramienta JWT Parser es una herramienta utilizada para analizar cadenas JWT (JSON Web Token). Puede analizar la cadena JWT en secciones de Encabezado y Carga útil y mostrarlas en formato JSON en el área de salida de la herramienta.\n\nDescripción de la función:\n\n1. Pegue o ingrese la cadena JWT en la herramienta.\n\n2. La herramienta analizará automáticamente la cadena JWT y mostrará las secciones de Encabezado y Carga útil en formato JSON en el área de salida de la herramienta.\n\n3. Si la cadena JWT no se puede analizar, la herramienta mostrará un mensaje de error.\n\nCasos de uso:\n\n1. Desarrollo y prueba de JWT: al desarrollar o probar JWT, los desarrolladores a menudo necesitan ver las secciones de Encabezado y Carga útil de la cadena JWT. Usando la herramienta JWT Parser, se puede analizar la cadena JWT en un formato JSON legible, lo que facilita la verificación rápida de la estructura y el contenido de los datos.\n\n2. Análisis de datos JWT: los analistas de datos necesitan procesar y analizar varios datos JWT. Usando esta herramienta, pueden analizar fácilmente la cadena JWT en un formato JSON legible, lo que les ayuda a comprender mejor la estructura y el contenido de los datos.\n\n3. Revisión de datos JWT: durante la revisión de código, los revisores pueden usar la herramienta JWT Parser para analizar la cadena JWT, lo que facilita la visualización y comprensión de la estructura de datos."
+  },
+  "ja": {
+    "$name": "JWTパーサー",
+    "$keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "javascript",
+      "web",
+      "hs256",
+      "hs384",
+      "hs512",
+      "parsing",
+      "JSON",
+      "開発",
+      "テスト",
+      "データ分析",
+      "データレビュー"
+    ],
+    "$description": "JWTパーサーツールは、JWT（JSON Web Token）文字列を解析するために使用されるツールです。このツールは、JWT文字列をヘッダーとペイロードのセクションに解析し、それらをJSON形式でツールの出力エリアに表示することができます。\n\n機能の説明：\n\n1. JWT文字列をツールに貼り付けるか入力します。\n\n2. ツールは自動的にJWT文字列を解析し、ヘッダーとペイロードのセクションをJSON形式でツールの出力エリアに表示します。\n\n3. JWT文字列が解析できない場合、ツールはエラーメッセージを表示します。\n\n使用例：\n\n1. JWTの開発とテスト：JWTを開発またはテストする際、開発者はしばしばJWT文字列のヘッダーとペイロードのセクションを表示する必要があります。JWTパーサーツールを使用すると、JWT文字列を読みやすいJSON形式に解析できるため、データ構造と内容を素早く確認することができます。\n\n2. JWTデータ分析：データアナリストは、さまざまなJWTデータを処理および分析する必要があります。このツールを使用すると、JWT文字列を読みやすいJSON形式に簡単に解析できるため、データ構造と内容をより理解しやすくなります。\n\n3. JWTデータレビュー：コードレビュー中、レビュアーはJWTパーサーツールを使用してJWT文字列を解析し、データ構造を表示しやすくすることができます。"
+  },
+  "ko": {
+    "$name": "JWT 파서",
+    "$keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "자바스크립트",
+      "웹",
+      "hs256",
+      "hs384",
+      "hs512",
+      "파싱",
+      "JSON",
+      "개발",
+      "테스트",
+      "데이터 분석",
+      "데이터 검토"
+    ],
+    "$description": "JWT 파서 도구는 JWT (JSON Web Token) 문자열을 파싱하는 데 사용되는 도구입니다. 이 도구는 JWT 문자열을 헤더와 페이로드 섹션으로 파싱하고 도구의 출력 영역에서 JSON 형식으로 표시할 수 있습니다.\n\n기능 설명:\n\n1. JWT 문자열을 도구에 붙여넣거나 입력합니다.\n\n2. 도구는 자동으로 JWT 문자열을 파싱하고 헤더와 페이로드 섹션을 JSON 형식으로 도구의 출력 영역에 표시합니다.\n\n3. JWT 문자열을 파싱할 수 없는 경우, 도구는 오류 메시지를 표시합니다.\n\n사용 사례:\n\n1. JWT 개발 및 테스트: JWT를 개발하거나 테스트할 때, 개발자는 종종 JWT 문자열의 헤더와 페이로드 섹션을 볼 필요가 있습니다. JWT 파서 도구를 사용하면 JWT 문자열을 읽기 쉬운 JSON 형식으로 파싱하여 데이터 구조와 내용을 빠르게 확인할 수 있습니다.\n\n2. JWT 데이터 분석: 데이터 분석가는 다양한 JWT 데이터를 처리하고 분석해야 합니다. 이 도구를 사용하면 JWT 문자열을 읽기 쉬운 JSON 형식으로 파싱하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다.\n\n3. JWT 데이터 검토: 코드 검토 중에 리뷰어는 JWT 파서 도구를 사용하여 JWT 문자열을 파싱하여 데이터 구조를 더 쉽게 볼 수 있습니다."
+  },
+  "de": {
+    "$name": "JWT Parser",
+    "$keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "javascript",
+      "web",
+      "hs256",
+      "hs384",
+      "hs512",
+      "parsing",
+      "JSON",
+      "Entwicklung",
+      "Testen",
+      "Datenanalyse",
+      "Datenüberprüfung"
+    ],
+    "$description": "Der JWT Parser ist ein Werkzeug, das verwendet wird, um JWT (JSON Web Token) Strings zu analysieren. Es kann den JWT String in Header- und Payload-Sektionen analysieren und sie im JSON-Format im Ausgabe-Bereich des Werkzeugs anzeigen.\n\nFunktionsbeschreibung:\n\n1. Fügen Sie den JWT-String in das Werkzeug ein oder geben Sie ihn ein.\n\n2. Das Werkzeug analysiert automatisch den JWT-String und zeigt die Header- und Payload-Sektionen im JSON-Format im Ausgabe-Bereich des Werkzeugs an.\n\n3. Wenn der JWT-String nicht analysiert werden kann, gibt das Werkzeug eine Fehlermeldung aus.\n\nAnwendungsfälle:\n\n1. JWT-Entwicklung und -Test: Bei der Entwicklung oder dem Testen von JWT müssen Entwickler oft die Header- und Payload-Sektionen des JWT-Strings anzeigen. Mit dem JWT Parser kann der JWT-String in ein lesbares JSON-Format analysiert werden, was es einfach macht, die Datenstruktur und den Inhalt schnell zu überprüfen.\n\n2. JWT-Datenanalyse: Datenanalysten müssen verschiedene JWT-Daten verarbeiten und analysieren. Mit diesem Werkzeug können sie den JWT-String leicht in ein lesbares JSON-Format analysieren, was ihnen hilft, die Datenstruktur und den Inhalt besser zu verstehen.\n\n3. Überprüfung von JWT-Daten: Während der Code-Überprüfung können Prüfer das JWT Parser-Werkzeug verwenden, um den JWT-String zu analysieren, was es einfacher macht, die Datenstruktur zu betrachten und zu verstehen."
+  },
+  "fr": {
+    "$name": "Analyseur JWT",
+    "$keywords": [
+      "jwt",
+      "analyse",
+      "jeton",
+      "javascript",
+      "web",
+      "hs256",
+      "hs384",
+      "hs512",
+      "analyse",
+      "JSON",
+      "développement",
+      "test",
+      "analyse de données",
+      "revue de données"
+    ],
+    "$description": "L'outil JWT Parser est utilisé pour analyser les chaînes JWT (JSON Web Token). Il peut analyser la chaîne JWT en sections Header et Payload et les afficher en format JSON dans la zone de sortie de l'outil.\n\nDescription de la fonction :\n\n1. Collez ou entrez la chaîne JWT dans l'outil.\n\n2. L'outil analysera automatiquement la chaîne JWT et affichera les sections Header et Payload en format JSON dans la zone de sortie de l'outil.\n\n3. Si la chaîne JWT ne peut pas être analysée, l'outil affichera un message d'erreur.\n\nCas d'utilisation :\n\n1. Développement et test de JWT : lors du développement ou du test de JWT, les développeurs ont souvent besoin de visualiser les sections Header et Payload de la chaîne JWT. En utilisant l'outil JWT Parser, la chaîne JWT peut être analysée en un format JSON lisible, ce qui permet de vérifier rapidement la structure et le contenu des données.\n\n2. Analyse de données JWT : les analystes de données doivent traiter et analyser diverses données JWT. En utilisant cet outil, ils peuvent facilement analyser la chaîne JWT en un format JSON lisible, ce qui les aide à mieux comprendre la structure et le contenu des données.\n\n3. Révision de données JWT : lors de la révision de code, les examinateurs peuvent utiliser l'outil JWT Parser pour analyser la chaîne JWT, ce qui facilite la visualisation et la compréhension de la structure des données."
+  },
+  "it": {
+    "$name": "Analizzatore JWT",
+    "$keywords": [
+      "jwt",
+      "analisi dati",
+      "sviluppo",
+      "test",
+      "JSON",
+      "parsing",
+      "token",
+      "web",
+      "javascript",
+      "hs256",
+      "hs384",
+      "hs512",
+      "revisione dati"
+    ],
+    "$description": "Il tool JWT Parser è uno strumento utilizzato per analizzare le stringhe JWT (JSON Web Token). Può analizzare la stringa JWT in sezioni Header e Payload e visualizzarle in formato JSON nell'area di output dello strumento.\n\nDescrizione della funzione:\n\n1. Incolla o inserisci la stringa JWT nello strumento.\n\n2. Lo strumento analizzerà automaticamente la stringa JWT e visualizzerà le sezioni Header e Payload in formato JSON nell'area di output dello strumento.\n\n3. Se la stringa JWT non può essere analizzata, lo strumento mostrerà un messaggio di errore.\n\nCasi d'uso:\n\n1. Sviluppo e testing JWT: Quando si sviluppa o si testa JWT, gli sviluppatori spesso hanno bisogno di visualizzare le sezioni Header e Payload della stringa JWT. Utilizzando lo strumento JWT Parser, è possibile analizzare la stringa JWT in un formato JSON leggibile, rendendo facile controllare rapidamente la struttura dei dati e il contenuto.\n\n2. Analisi dei dati JWT: Gli analisti dei dati devono elaborare e analizzare vari dati JWT. Utilizzando questo strumento, possono facilmente analizzare la stringa JWT in un formato JSON leggibile, il che li aiuta a comprendere meglio la struttura dei dati e il contenuto.\n\n3. Revisione dei dati JWT: Durante la revisione del codice, i revisori possono utilizzare lo strumento JWT Parser per analizzare la stringa JWT, rendendo più facile visualizzare e comprendere la struttura dei dati."
+  },
+  "ru": {
+    "$name": "JWT Парсер",
+    "$keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "javascript",
+      "web",
+      "hs256",
+      "hs384",
+      "hs512",
+      "parsing",
+      "JSON",
+      "development",
+      "testing",
+      "data analysis",
+      "data review"
+    ],
+    "$description": "Инструмент парсера JWT (JSON Web Token) используется для разбора строк JWT. Он может разобрать строку JWT на секции Header и Payload и отобразить их в формате JSON в области вывода инструмента.\n\nОписание функции:\n\n1. Вставьте или введите строку JWT в инструмент.\n\n2. Инструмент автоматически разберет строку JWT и отобразит секции Header и Payload в формате JSON в области вывода инструмента.\n\n3. Если строку JWT невозможно разобрать, инструмент выдаст сообщение об ошибке.\n\nПрименение:\n\n1. Разработка и тестирование JWT: При разработке или тестировании JWT разработчики часто нуждаются в просмотре секций Header и Payload строки JWT. Использование инструмента парсера JWT позволяет разобрать строку JWT в читаемый формат JSON, что упрощает проверку структуры данных и содержимого.\n\n2. Анализ данных JWT: Аналитики данных должны обрабатывать и анализировать различные данные JWT. Используя этот инструмент, они могут легко разобрать строку JWT в читаемый формат JSON, что помогает им лучше понимать структуру данных и содержимое.\n\n3. Обзор данных JWT: Во время проверки кода рецензенты могут использовать инструмент парсера JWT для разбора строки JWT, что упрощает просмотр и понимание структуры данных."
+  },
+  "pt": {
+    "$name": "Analizador de JWT",
+    "$keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "javascript",
+      "web",
+      "hs256",
+      "hs384",
+      "hs512",
+      "parsing",
+      "JSON",
+      "desenvolvimento",
+      "teste",
+      "análise de dados",
+      "revisão de dados"
+    ],
+    "$description": "A ferramenta JWT Parser é usada para analisar strings JWT (JSON Web Token). Ela pode analisar a string JWT em seções de Cabeçalho e Carga Útil e exibi-las em formato JSON na área de saída da ferramenta.\n\nDescrição da função:\n\n1. Cole ou insira a string JWT na ferramenta.\n\n2. A ferramenta analisará automaticamente a string JWT e exibirá as seções de Cabeçalho e Carga Útil em formato JSON na área de saída da ferramenta.\n\n3. Se a string JWT não puder ser analisada, a ferramenta exibirá uma mensagem de erro.\n\nCasos de uso:\n\n1. Desenvolvimento e teste de JWT: Ao desenvolver ou testar JWT, os desenvolvedores frequentemente precisam visualizar as seções de Cabeçalho e Carga Útil da string JWT. Usando a ferramenta JWT Parser, é possível analisar a string JWT em um formato JSON legível, tornando fácil verificar rapidamente a estrutura e o conteúdo dos dados.\n\n2. Análise de dados JWT: Analistas de dados precisam processar e analisar vários dados JWT. Usando esta ferramenta, eles podem facilmente analisar a string JWT em um formato JSON legível, o que os ajuda a entender melhor a estrutura e o conteúdo dos dados.\n\n3. Revisão de dados JWT: Durante a revisão de código, os revisores podem usar a ferramenta JWT Parser para analisar a string JWT, tornando mais fácil visualizar e entender a estrutura dos dados."
+  },
+  "en": {
+    "$name": "JWT Parser",
+    "$keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "javascript",
+      "web",
+      "hs256",
+      "hs384",
+      "hs512",
+      "parsing",
+      "JSON",
+      "development",
+      "testing",
+      "data analysis",
+      "data review"
+    ],
+    "$description": "The JWT Parser tool is a tool used to parse JWT (JSON Web Token) strings. It can parse the JWT string into Header and Payload sections and display them in JSON format in the tool's output area.\n\nFunction description:\n\n1. Paste or enter the JWT string into the tool.\n\n2. The tool will automatically parse the JWT string and display the Header and Payload sections in JSON format in the tool's output area.\n\n3. If the JWT string cannot be parsed, the tool will prompt an error message.\n\nUse cases:\n\n1. JWT development and testing: When developing or testing JWT, developers often need to view the Header and Payload sections of the JWT string. Using the JWT Parser tool can parse the JWT string into a readable JSON format, making it easy to quickly check the data structure and content.\n\n2. JWT data analysis: Data analysts need to process and analyze various JWT data. Using this tool, they can easily parse the JWT string into a readable JSON format, which helps them better understand the data structure and content.\n\n3. JWT data review: During code review, reviewers can use the JWT Parser tool to parse the JWT string, making it easier to view and understand the data structure."
+  }
+}

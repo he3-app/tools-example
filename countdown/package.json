@@ -1,0 +1,47 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "id": "countdown",
+    "name": "Countdown",
+    "icon": "field-time-outlined",
+    "version": "1.0.7",
+    "isPublic": true,
+    "repository": "",
+    "category": [
+      "datetime",
+      "miscellaneous"
+    ],
+    "description": "Countdown Tool User Guide\n\nThe Countdown Tool is a countdown tool based on Vue.js and Ant Design Vue. It can be used to set multiple countdowns and control and manage them.\n\nFeatures:\n\n1. Add Countdown: You can click the \"Add Countdown\" button and set the name and duration of the countdown in the pop-up dialog box.\n\n2. Edit Countdown: You can click the \"Edit\" button behind the countdown item to modify the name, duration, and notification switch of the countdown.\n\n3. Delete Countdown: You can click the \"Delete\" button behind the countdown item to delete the corresponding countdown.\n\n4. Control Countdown: You can start, pause, resume, and reset a single countdown, or control all countdowns uniformly.\n\n5. Multilingual Support: Supports multiple languages and can automatically switch languages based on the user's language environment.\n\nUsage Scenarios:\n\n1. Countdown Management: Can be used to manage multiple countdowns, such as meeting countdowns, exam countdowns, etc.\n\n2. Time Management: Can be used to manage personal time, such as setting a countdown to remind yourself of the time to exercise every day.\n\n3. Task Management: Can be used to manage the time of tasks, such as setting a countdown to remind yourself of the time to complete a task.\n\nInstructions:\n\n1. Open the Countdown Tool page.\n\n2. Click the \"Add Countdown\" button and set the name and duration of the countdown in the pop-up dialog box.\n\n3. Click the \"Edit\" button behind the countdown item to modify the name, duration, and notification switch of the countdown.\n\n4. Click the \"Delete\" button behind the countdown item to delete the corresponding countdown.\n\n5. Click the \"Start\" button behind the countdown item to start the corresponding countdown.\n\n6. Click the \"Pause\" button behind the countdown item to pause the corresponding countdown.\n\n7. Click the \"Resume\" button behind the countdown item to resume the corresponding countdown.\n\n8. Click the \"Reset\" button behind the countdown item to reset the corresponding countdown.\n\n9. Click the \"Start All\" button to start all countdowns.\n\n10. Click the \"Pause All\" button to pause all countdowns.\n\n11. Click the \"Resume All\" button to resume all countdowns.\n\n12. Click the \"Reset All\" button to reset all countdowns.\n\nNotes:\n\n1. The duration unit is hours, minutes, and seconds, and the maximum duration is 23 hours 59 minutes 59 seconds.\n\n2. The notification switch is off by default and needs to be manually turned on.\n\n3. The start, pause, resume, and reset operations only affect a single countdown and will not affect other countdowns.\n\n4. The start, pause, resume, and reset operations for all countdowns will affect all countdowns and should be used with caution.\n\n5. Deleted countdowns cannot be recovered, so please use caution.\n\n6. This tool is for personal use only and cannot be used for commercial purposes.",
+    "keywords": [
+      "countdown",
+      "timers",
+      "time",
+      "time management",
+      "task management",
+      "multi-language support",
+      "control countdown"
+    ],
+    "relatedToolId": [
+      "stopwatch"
+    ]
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "dayjs": "^1.11.7",
+    "tiny-timer": "^1.6.0",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

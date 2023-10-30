@@ -1,0 +1,56 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "id": "bar-code-generator",
+    "name": "Barcode Generator",
+    "icon": "block-outlined",
+    "version": "1.0.4",
+    "isPublic": true,
+    "repository": "",
+    "category": [
+      "encode"
+    ],
+    "description": "Barcode Generator Tool User Manual\n\nOverview:\nThe Barcode Generator Tool is a tool used to generate barcodes. It can generate barcodes in different formats, sizes, and colors based on user input and settings, and provides options to download in PNG and SVG formats.\n\nFunction Description:\n1. Users can input the data needed to generate the barcode in the tool.\n2. The tool supports multiple barcode formats, and users can choose the format they want to generate.\n3. Users can set the width, height, color, and other properties of the barcode.\n4. The tool supports displaying text on the barcode, and provides settings for text alignment, font, size, margin, etc.\n5. Users can choose to download the barcode in PNG or SVG format.\n\nUsage Scenarios:\n1. Merchants need to stick barcodes on their products to identify product information when selling.\n2. Logistics companies need to print barcodes on their shipping labels to track shipping information during transportation.\n3. Individuals need to add barcodes to their business cards to allow others to scan and obtain their contact information.\n\nInstructions:\n1. Input the data needed to generate the barcode in the input box.\n2. Choose the barcode format you want to generate.\n3. Set the width, height, color, and other properties of the barcode as needed.\n4. If you need to display text on the barcode, you can set the text alignment, font, size, margin, and other properties.\n5. Choose the barcode format you want to download, and click the save button to download.\n\nNotes:\n1. The input data must meet the requirements of the selected barcode format.\n2. The set property values must be within the allowable range of the selected barcode format.\n3. The downloaded barcode file name defaults to \"barcode\" and can be changed before downloading.",
+    "keywords": [
+      "bar",
+      "code",
+      "generate",
+      "generator",
+      "Barcode",
+      "format",
+      "width",
+      "height",
+      "color",
+      "text",
+      "alignment",
+      "font",
+      "size",
+      "margin",
+      "PNG",
+      "SVG"
+    ],
+    "relatedToolId": [
+      "bar-code-scanner"
+    ]
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "@types/xmldom": "^0.1.31",
+    "jsbarcode": "^3.11.5",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2",
+    "xmldom": "^0.6.0"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

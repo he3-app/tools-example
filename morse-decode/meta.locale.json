@@ -1,0 +1,154 @@
+{
+  "zh-cn": {
+    "$name": "莫尔斯电码解码",
+    "$keywords": [
+      "莫尔斯电码",
+      "解码",
+      "编码",
+      "电报通信",
+      "电子邮件",
+      "短信"
+    ],
+    "$description": "概述：\n莫尔斯电码解码工具是一种用于将莫尔斯电码转换为文本或将文本转换为莫尔斯电码的工具。用户可以在输入框中输入莫尔斯电码或文本，工具将自动将其转换为另一种形式并在输出框中显示。\n\n特点：\n1. 用户可以在输入框中输入莫尔斯电码或文本。\n2. 工具将自动将输入内容转换为另一种形式并在输出框中显示。\n3. 用户可以选择保存输入框中的内容以便在下次使用时自动填充。\n\n用途：\n1. 学习和使用莫尔斯电码：用户可以使用莫尔斯电码解码工具将莫尔斯电码转换为文本，以更好地学习和理解莫尔斯电码的编码规则和用法。\n2. 电报通信：在电报通信中，莫尔斯电码用于编码和解码。用户可以使用莫尔斯电码解码工具将电报中的莫尔斯电码转换为文本，以更好地理解电报内容。\n3. 电子邮件和短信的编码：在电子邮件和短信中，有时会使用莫尔斯电码进行编码。用户可以使用莫尔斯电码解码工具将文本转换为莫尔斯电码，以在电子邮件和短信中使用。\n\n使用说明：\n1. 在输入框中输入莫尔斯电码或文本。\n2. 工具将自动将输入内容转换为另一种形式并在输出框中显示。\n3. 用户可以选择保存输入框中的内容以便在下次使用时自动填充。\n\n注意事项：\n1. 莫尔斯电码解码工具仅支持标准莫尔斯电码编码规则。\n2. 莫尔斯电码解码工具仅支持ASCII范围内的字符编码。\n3. 莫尔斯电码解码工具不支持非ASCII字符（如中文）的编码和解码。"
+  },
+  "zh-tw": {
+    "$name": "莫爾斯電碼解碼",
+    "$keywords": [
+      "莫爾斯電碼",
+      "解碼",
+      "莫爾斯電碼",
+      "編碼",
+      "解碼",
+      "電報通訊",
+      "電子郵件",
+      "短信"
+    ],
+    "$description": "概述：\n摩尔斯电码解码工具是一种用于将摩尔斯电码转换为文本或将文本转换为摩尔斯电码的工具。用户可以在输入框中输入摩尔斯电码或文本，工具将自动将其转换为另一种形式并在输出框中显示。\n\n特点：\n1. 用户可以在输入框中输入摩尔斯电码或文本。\n2. 工具将自动将输入内容转换为另一种形式并在输出框中显示。\n3. 用户可以选择保存输入框中的内容以便在下次使用时自动填充。\n\n使用场景：\n1. 学习和使用摩尔斯电码：用户可以使用摩尔斯电码解码工具将摩尔斯电码转换为文本，以更好地学习和理解摩尔斯电码的编码规则和用法。\n2. 电报通信：在电报通信中，摩尔斯电码用于编码和解码。用户可以使用摩尔斯电码解码工具将电报中的摩尔斯电码转换为文本，以更好地理解电报内容。\n3. 电子邮件和短信的编码：在电子邮件和短信中，有时会使用摩尔斯电码进行编码。用户可以使用摩尔斯电码解码工具将文本转换为摩尔斯电码，以在电子邮件和短信中使用。\n\n使用说明：\n1. 在输入框中输入摩尔斯电码或文本。\n2. 工具将自动将输入内容转换为另一种形式并在输出框中显示。\n3. 用户可以选择保存输入框中的内容以便在下次使用时自动填充。\n\n注意事项：\n1. 摩尔斯电码解码工具仅支持标准的摩尔斯电码编码规则。\n2. 摩尔斯电码解码工具仅支持ASCII范围内的字符编码。\n3. 摩尔斯电码解码工具不支持非ASCII字符（如中文）的编码和解码。"
+  },
+  "es": {
+    "$name": "Decodificador de Código Morse",
+    "$keywords": [
+      "MORSE",
+      "Decodificar",
+      "Código Morse",
+      "codificación",
+      "decodificación",
+      "comunicación telegráfica",
+      "correo electrónico",
+      "SMS"
+    ],
+    "$description": "Resumen:\nLa herramienta de decodificación de código Morse es una herramienta utilizada para convertir código Morse a texto o texto a código Morse. Los usuarios pueden ingresar código Morse o texto en el cuadro de entrada, y la herramienta lo convertirá automáticamente a la otra forma y lo mostrará en el cuadro de salida.\n\nCaracterísticas:\n1. Los usuarios pueden ingresar código Morse o texto en el cuadro de entrada.\n2. La herramienta convertirá automáticamente el contenido de entrada a la otra forma y lo mostrará en el cuadro de salida.\n3. Los usuarios pueden optar por guardar el contenido en el cuadro de entrada para rellenar automáticamente en el próximo uso.\n\nCasos de uso:\n1. Aprendizaje y uso del código Morse: Los usuarios pueden utilizar la herramienta de decodificación de código Morse para convertir código Morse a texto para una mejor comprensión de las reglas de codificación y el uso del código Morse.\n2. Comunicación telegráfica: En la comunicación telegráfica, se utiliza el código Morse para la codificación y decodificación. Los usuarios pueden utilizar la herramienta de decodificación de código Morse para convertir el código Morse en telegramas a texto para una mejor comprensión del contenido del telegrama.\n3. Codificación de correos electrónicos y mensajes de texto: En los correos electrónicos y mensajes de texto, a veces se utiliza el código Morse para la codificación. Los usuarios pueden utilizar la herramienta de decodificación de código Morse para convertir texto a código Morse para su uso en correos electrónicos y mensajes de texto.\n\nInstrucciones:\n1. Ingrese código Morse o texto en el cuadro de entrada.\n2. La herramienta convertirá automáticamente el contenido de entrada a la otra forma y lo mostrará en el cuadro de salida.\n3. Los usuarios pueden optar por guardar el contenido en el cuadro de entrada para rellenar automáticamente en el próximo uso.\n\nNotas:\n1. La herramienta de decodificación de código Morse solo admite reglas de codificación de código Morse estándar.\n2. La herramienta de decodificación de código Morse solo admite la codificación de caracteres dentro del rango ASCII.\n3. La herramienta de decodificación de código Morse no admite la codificación y decodificación de caracteres no ASCII como el chino."
+  },
+  "ja": {
+    "$name": "モールス符号の解読",
+    "$keywords": [
+      "モールス",
+      "デコード",
+      "モールス符号",
+      "エンコーディング",
+      "デコーディング",
+      "電信通信",
+      "電子メール",
+      "SMS"
+    ],
+    "$description": "概要：\nモールス信号デコードツールは、モールス信号をテキストに変換するためのツールであり、また、テキストをモールス信号に変換することもできます。ユーザーは入力ボックスにモールス信号またはテキストを入力し、ツールは自動的にそれを他の形式に変換して出力ボックスに表示します。\n\n特徴：\n1. ユーザーは入力ボックスにモールス信号またはテキストを入力できます。\n2. ツールは入力内容を自動的に他の形式に変換して出力ボックスに表示します。\n3. ユーザーは、次回使用時に自動的に入力ボックスに内容を保存することができます。\n\n使用例：\n1. モールス信号の学習と使用：ユーザーは、モールス信号デコードツールを使用して、モールス信号をテキストに変換し、モールス信号の符号化規則と使用方法をより良く学習し理解することができます。\n2. 電信通信：電信通信では、モールス信号が符号化と復号に使用されます。ユーザーは、モールス信号デコードツールを使用して、電報のモールス信号をテキストに変換し、電報の内容をより良く理解することができます。\n3. メールやテキストメッセージの符号化：メールやテキストメッセージでは、モールス信号が時に符号化に使用されます。ユーザーは、モールス信号デコードツールを使用して、テキストをモールス信号に変換し、メールやテキストメッセージで使用することができます。\n\n手順：\n1. モールス信号またはテキストを入力してください。\n2. ツールは入力内容を自動的に他の形式に変換して出力ボックスに表示します。\n3. ユーザーは、次回使用時に自動的に入力ボックスに内容を保存することができます。\n\n注意事項：\n1. モールス信号デコードツールは、標準的なモールス信号の符号化規則のみをサポートしています。\n2. モールス信号デコードツールは、ASCII範囲内の文字のみをサポートしています。\n3. モールス信号デコードツールは、中国語などの非ASCII文字の符号化と復号をサポートしていません。"
+  },
+  "ko": {
+    "$name": "모스 부호 해독기",
+    "$keywords": [
+      "모스부호",
+      "해독",
+      "모스부호 해독",
+      "인코딩",
+      "디코딩",
+      "전신 통신",
+      "이메일",
+      "문자 메시지"
+    ],
+    "$description": "개요:\n모스 부호 디코딩 도구는 모스 부호를 텍스트로 또는 텍스트를 모스 부호로 변환하는 데 사용되는 도구입니다. 사용자는 입력 상자에 모스 부호 또는 텍스트를 입력하면 도구가 자동으로 다른 형식으로 변환하여 출력 상자에 표시합니다.\n\n특징:\n1. 사용자는 입력 상자에 모스 부호 또는 텍스트를 입력할 수 있습니다.\n2. 도구는 입력 내용을 자동으로 다른 형식으로 변환하여 출력 상자에 표시합니다.\n3. 사용자는 다음 사용 시 자동으로 채우기 위해 입력 상자의 내용을 저장할 수 있습니다.\n\n사용 사례:\n1. 모스 부호 학습 및 사용: 사용자는 모스 부호 디코딩 도구를 사용하여 모스 부호를 텍스트로 변환하여 모스 부호의 인코딩 규칙과 사용 방법을 더 잘 이해하고 학습할 수 있습니다.\n2. 전신 통신: 전신 통신에서 모스 부호는 인코딩 및 디코딩에 사용됩니다. 사용자는 모스 부호 디코딩 도구를 사용하여 전신 통신에서 모스 부호를 텍스트로 변환하여 전신 통신의 내용을 더 잘 이해할 수 있습니다.\n3. 이메일 및 문자 메시지 인코딩: 이메일 및 문자 메시지에서는 때로 모스 부호가 인코딩에 사용됩니다. 사용자는 모스 부호 디코딩 도구를 사용하여 텍스트를 모스 부호로 변환하여 이메일 및 문자 메시지에서 사용할 수 있습니다.\n\n사용 방법:\n1. 입력 상자에 모스 부호 또는 텍스트를 입력합니다.\n2. 도구는 입력 내용을 자동으로 다른 형식으로 변환하여 출력 상자에 표시합니다.\n3. 사용자는 다음 사용 시 자동으로 채우기 위해 입력 상자의 내용을 저장할 수 있습니다.\n\n참고:\n1. 모스 부호 디코딩 도구는 표준 모스 부호 인코딩 규칙만 지원합니다.\n2. 모스 부호 디코딩 도구는 ASCII 범위 내의 문자 인코딩만 지원합니다.\n3. 모스 부호 디코딩 도구는 중국어와 같은 비 ASCII 문자의 인코딩 및 디코딩을 지원하지 않습니다."
+  },
+  "de": {
+    "$name": "Morse-Code-Entschlüsselung",
+    "$keywords": [
+      "MORSE",
+      "Decode",
+      "Morse-Code",
+      "Kodierung",
+      "Dekodierung",
+      "Telegrafenkommunikation",
+      "E-Mail",
+      "SMS"
+    ],
+    "$description": "Übersicht:\nDas Morse-Code-Decodierungstool ist ein Werkzeug, das verwendet wird, um Morse-Code in Text oder Text in Morse-Code umzuwandeln. Benutzer können Morse-Code oder Text in das Eingabefeld eingeben und das Tool wird es automatisch in die andere Form umwandeln und im Ausgabefeld anzeigen.\n\nFunktionen:\n1. Benutzer können Morse-Code oder Text in das Eingabefeld eingeben.\n2. Das Tool wird den Inhalt automatisch in die andere Form umwandeln und im Ausgabefeld anzeigen.\n3. Benutzer können wählen, den Inhalt im Eingabefeld zu speichern, um ihn automatisch beim nächsten Gebrauch auszufüllen.\n\nAnwendungsfälle:\n1. Lernen und Verwenden von Morse-Code: Benutzer können das Morse-Code-Decodierungstool verwenden, um Morse-Code in Text umzuwandeln, um die Kodierungsregeln und die Verwendung von Morse-Code besser zu verstehen und zu lernen.\n2. Telegrafenkommunikation: In der Telegrafenkommunikation wird Morse-Code zur Kodierung und Dekodierung verwendet. Benutzer können das Morse-Code-Decodierungstool verwenden, um Morse-Code in Telegrammen in Text umzuwandeln, um den Inhalt der Telegramme besser zu verstehen.\n3. Kodierung von E-Mails und Textnachrichten: In E-Mails und Textnachrichten wird Morse-Code manchmal zur Kodierung verwendet. Benutzer können das Morse-Code-Decodierungstool verwenden, um Text in Morse-Code umzuwandeln, um ihn in E-Mails und Textnachrichten zu verwenden.\n\nAnweisungen:\n1. Geben Sie Morse-Code oder Text in das Eingabefeld ein.\n2. Das Tool wird den Inhalt automatisch in die andere Form umwandeln und im Ausgabefeld anzeigen.\n3. Benutzer können wählen, den Inhalt im Eingabefeld zu speichern, um ihn automatisch beim nächsten Gebrauch auszufüllen.\n\nHinweise:\n1. Das Morse-Code-Decodierungstool unterstützt nur die Standard-Morse-Code-Kodierungsregeln.\n2. Das Morse-Code-Decodierungstool unterstützt nur die Zeichenkodierung im ASCII-Bereich.\n3. Das Morse-Code-Decodierungstool unterstützt keine Kodierung und Dekodierung von Nicht-ASCII-Zeichen wie Chinesisch."
+  },
+  "fr": {
+    "$name": "Déchiffrement du code Morse",
+    "$keywords": [
+      "MORSE",
+      "Décodeur",
+      "Code Morse",
+      "encodage",
+      "décodage",
+      "communication télégraphique",
+      "email",
+      "SMS"
+    ],
+    "$description": "Aperçu:\nL'outil de décodage du code Morse est un outil utilisé pour convertir le code Morse en texte ou le texte en code Morse. Les utilisateurs peuvent entrer du code Morse ou du texte dans la zone de saisie, et l'outil le convertira automatiquement en l'autre forme et l'affichera dans la zone de sortie.\n\nFonctionnalités:\n1. Les utilisateurs peuvent entrer du code Morse ou du texte dans la zone de saisie.\n2. L'outil convertira automatiquement le contenu de l'entrée en l'autre forme et l'affichera dans la zone de sortie.\n3. Les utilisateurs peuvent choisir de sauvegarder le contenu dans la zone de saisie pour un remplissage automatique lors de la prochaine utilisation.\n\nCas d'utilisation:\n1. Apprentissage et utilisation du code Morse: Les utilisateurs peuvent utiliser l'outil de décodage du code Morse pour convertir le code Morse en texte pour une meilleure compréhension des règles de codage et de l'utilisation du code Morse.\n2. Communication télégraphique: En communication télégraphique, le code Morse est utilisé pour le codage et le décodage. Les utilisateurs peuvent utiliser l'outil de décodage du code Morse pour convertir le code Morse dans les télégrammes en texte pour une meilleure compréhension du contenu du télégramme.\n3. Codage des e-mails et des messages texte: Dans les e-mails et les messages texte, le code Morse est parfois utilisé pour le codage. Les utilisateurs peuvent utiliser l'outil de décodage du code Morse pour convertir le texte en code Morse pour une utilisation dans les e-mails et les messages texte.\n\nInstructions:\n1. Entrez du code Morse ou du texte dans la zone de saisie.\n2. L'outil convertira automatiquement le contenu de l'entrée en l'autre forme et l'affichera dans la zone de sortie.\n3. Les utilisateurs peuvent choisir de sauvegarder le contenu dans la zone de saisie pour un remplissage automatique lors de la prochaine utilisation.\n\nNotes:\n1. L'outil de décodage du code Morse ne prend en charge que les règles de codage standard du code Morse.\n2. L'outil de décodage du code Morse ne prend en charge que le codage de caractères dans la plage ASCII.\n3. L'outil de décodage du code Morse ne prend pas en charge le codage et le décodage de caractères non-ASCII tels que le chinois."
+  },
+  "it": {
+    "$name": "Decodifica del Codice Morse",
+    "$keywords": [
+      "MORSE",
+      "Decodifica",
+      "codice Morse",
+      "codifica",
+      "decodifica",
+      "comunicazione telegrafica",
+      "email",
+      "SMS"
+    ],
+    "$description": "Panoramica:\nLo strumento di decodifica del codice Morse è uno strumento utilizzato per convertire il codice Morse in testo o il testo in codice Morse. Gli utenti possono inserire il codice Morse o il testo nella casella di input e lo strumento lo convertirà automaticamente nell'altro formato e lo visualizzerà nella casella di output.\n\nCaratteristiche:\n1. Gli utenti possono inserire il codice Morse o il testo nella casella di input.\n2. Lo strumento convertirà automaticamente il contenuto di input nell'altro formato e lo visualizzerà nella casella di output.\n3. Gli utenti possono scegliere di salvare il contenuto nella casella di input per il riempimento automatico nella prossima utilizzazione.\n\nCasi d'uso:\n1. Apprendimento e utilizzo del codice Morse: gli utenti possono utilizzare lo strumento di decodifica del codice Morse per convertire il codice Morse in testo per una migliore comprensione delle regole di codifica e dell'utilizzo del codice Morse.\n2. Comunicazione telegrafica: nella comunicazione telegrafica, il codice Morse viene utilizzato per la codifica e la decodifica. Gli utenti possono utilizzare lo strumento di decodifica del codice Morse per convertire il codice Morse nei telegrammi in testo per una migliore comprensione del contenuto del telegramma.\n3. Codifica di e-mail e messaggi di testo: nelle e-mail e nei messaggi di testo, il codice Morse viene talvolta utilizzato per la codifica. Gli utenti possono utilizzare lo strumento di decodifica del codice Morse per convertire il testo in codice Morse per l'utilizzo nelle e-mail e nei messaggi di testo.\n\nIstruzioni:\n1. Inserire il codice Morse o il testo nella casella di input.\n2. Lo strumento convertirà automaticamente il contenuto di input nell'altro formato e lo visualizzerà nella casella di output.\n3. Gli utenti possono scegliere di salvare il contenuto nella casella di input per il riempimento automatico nella prossima utilizzazione.\n\nNote:\n1. Lo strumento di decodifica del codice Morse supporta solo le regole di codifica standard del codice Morse.\n2. Lo strumento di decodifica del codice Morse supporta solo la codifica dei caratteri nell'intervallo ASCII.\n3. Lo strumento di decodifica del codice Morse non supporta la codifica e la decodifica di caratteri non ASCII come il cinese."
+  },
+  "ru": {
+    "$name": "Декодирование Морзе",
+    "$keywords": [
+      "MORSE",
+      "Декодирование",
+      "Код Морзе",
+      "кодирование",
+      "декодирование",
+      "телеграфная связь",
+      "электронная почта",
+      "SMS"
+    ],
+    "$description": "Обзор:\nИнструмент декодирования кода Морзе - это инструмент, используемый для преобразования кода Морзе в текст или текста в код Морзе. Пользователи могут вводить код Морзе или текст в поле ввода, и инструмент автоматически преобразует его в другую форму и отображает в поле вывода.\n\nОсобенности:\n1. Пользователи могут вводить код Морзе или текст в поле ввода.\n2. Инструмент автоматически преобразует входное содержимое в другую форму и отображает его в поле вывода.\n3. Пользователи могут выбрать сохранение содержимого в поле ввода для автоматического заполнения при следующем использовании.\n\nВарианты использования:\n1. Изучение и использование кода Морзе: пользователи могут использовать инструмент декодирования кода Морзе для преобразования кода Морзе в текст для лучшего изучения и понимания правил кодирования и использования кода Морзе.\n2. Телеграфная связь: в телеграфной связи код Морзе используется для кодирования и декодирования. Пользователи могут использовать инструмент декодирования кода Морзе для преобразования кода Морзе в телеграммах в текст для лучшего понимания содержания телеграммы.\n3. Кодирование электронных писем и текстовых сообщений: в электронных письмах и текстовых сообщениях иногда используется код Морзе для кодирования. Пользователи могут использовать инструмент декодирования кода Морзе для преобразования текста в код Морзе для использования в электронных письмах и текстовых сообщениях.\n\nИнструкции:\n1. Введите код Морзе или текст в поле ввода.\n2. Инструмент автоматически преобразует входное содержимое в другую форму и отображает его в поле вывода.\n3. Пользователи могут выбрать сохранение содержимого в поле ввода для автоматического заполнения при следующем использовании.\n\nПримечания:\n1. Инструмент декодирования кода Морзе поддерживает только стандартные правила кодирования Морзе.\n2. Инструмент декодирования кода Морзе поддерживает только кодирование символов в диапазоне ASCII.\n3. Инструмент декодирования кода Морзе не поддерживает кодирование и декодирование не-ASCII символов, таких как китайские."
+  },
+  "pt": {
+    "$name": "Decodificador de Código Morse",
+    "$keywords": [
+      "MORSE",
+      "Decodificar",
+      "Código Morse",
+      "codificação",
+      "decodificação",
+      "comunicação telegráfica",
+      "e-mail",
+      "SMS"
+    ],
+    "$description": "Visão geral:\nA ferramenta de decodificação de código Morse é uma ferramenta usada para converter código Morse em texto ou texto em código Morse. Os usuários podem inserir código Morse ou texto na caixa de entrada, e a ferramenta converterá automaticamente para a outra forma e exibirá na caixa de saída.\n\nRecursos:\n1. Os usuários podem inserir código Morse ou texto na caixa de entrada.\n2. A ferramenta converterá automaticamente o conteúdo de entrada para a outra forma e exibirá na caixa de saída.\n3. Os usuários podem optar por salvar o conteúdo na caixa de entrada para preenchimento automático na próxima utilização.\n\nCasos de uso:\n1. Aprendizado e uso do código Morse: Os usuários podem usar a ferramenta de decodificação de código Morse para converter código Morse em texto para melhor aprendizado e compreensão das regras de codificação e uso do código Morse.\n2. Comunicação telegráfica: Na comunicação telegráfica, o código Morse é usado para codificação e decodificação. Os usuários podem usar a ferramenta de decodificação de código Morse para converter código Morse em telegramas para texto para melhor compreensão do conteúdo do telegrama.\n3. Codificação de e-mails e mensagens de texto: Em e-mails e mensagens de texto, o código Morse é às vezes usado para codificação. Os usuários podem usar a ferramenta de decodificação de código Morse para converter texto em código Morse para uso em e-mails e mensagens de texto.\n\nInstruções:\n1. Insira código Morse ou texto na caixa de entrada.\n2. A ferramenta converterá automaticamente o conteúdo de entrada para a outra forma e exibirá na caixa de saída.\n3. Os usuários podem optar por salvar o conteúdo na caixa de entrada para preenchimento automático na próxima utilização.\n\nObservações:\n1. A ferramenta de decodificação de código Morse suporta apenas as regras de codificação padrão do código Morse.\n2. A ferramenta de decodificação de código Morse suporta apenas a codificação de caracteres dentro do intervalo ASCII.\n3. A ferramenta de decodificação de código Morse não suporta a codificação e decodificação de caracteres não ASCII, como o chinês."
+  },
+  "en": {
+    "$name": "Morse Code Decoding",
+    "$keywords": [
+      "MORSE",
+      "Decode",
+      "Morse code",
+      "encoding",
+      "decoding",
+      "telegraph communication",
+      "email",
+      "SMS"
+    ],
+    "$description": "Overview:\nThe Morse Code Decoding tool is a tool used to convert Morse code to text or text to Morse code. Users can input Morse code or text in the input box, and the tool will automatically convert it to the other form and display it in the output box.\n\nFeatures:\n1. Users can input Morse code or text in the input box.\n2. The tool will automatically convert the input content to the other form and display it in the output box.\n3. Users can choose to save the content in the input box for automatic filling in the next use.\n\nUse Cases:\n1. Learning and using Morse code: Users can use the Morse Code Decoding tool to convert Morse code to text for better learning and understanding of the encoding rules and usage of Morse code.\n2. Telegraph communication: In telegraph communication, Morse code is used for encoding and decoding. Users can use the Morse Code Decoding tool to convert Morse code in telegrams to text for better understanding of the telegram content.\n3. Encoding of emails and text messages: In emails and text messages, Morse code is sometimes used for encoding. Users can use the Morse Code Decoding tool to convert text to Morse code for use in emails and text messages.\n\nInstructions:\n1. Input Morse code or text in the input box.\n2. The tool will automatically convert the input content to the other form and display it in the output box.\n3. Users can choose to save the content in the input box for automatic filling in the next use.\n\nNotes:\n1. The Morse Code Decoding tool only supports standard Morse code encoding rules.\n2. The Morse Code Decoding tool only supports character encoding within the ASCII range.\n3. The Morse Code Decoding tool does not support encoding and decoding of non-ASCII characters such as Chinese."
+  }
+}

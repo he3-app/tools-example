@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "send": "发送",
+    "body": "该请求没有 Body 体",
+    "history": "历史记录",
+    "Today": "今天",
+    "Yesterday": "昨天"
+  },
+  "en": {
+    "send": "Send",
+    "body": "The request has no body",
+    "history": "History",
+    "Today": "Today",
+    "Yesterday": "Yesterday"
+  },
+  "zh-tw": {
+    "send": "發送",
+    "body": "該請求沒有 Body 體",
+    "history": "歷史記錄",
+    "Today": "今天",
+    "Yesterday": "昨天"
+  },
+  "de": {
+    "send": "Senden",
+    "body": "Die Anfrage hat keinen Body",
+    "history": "Verlauf",
+    "Today": "Heute",
+    "Yesterday": "Gestern"
+  },
+  "es": {
+    "send": "Enviar",
+    "body": "La solicitud no tiene cuerpo",
+    "history": "Historial",
+    "Today": "Hoy",
+    "Yesterday": "Ayer"
+  },
+  "fr": {
+    "send": "Envoyer",
+    "body": "La requête n'a pas de corps",
+    "history": "Histoire",
+    "Today": "Aujourd'hui",
+    "Yesterday": "Hier"
+  },
+  "it": {
+    "send": "Invia",
+    "body": "La richiesta non ha un corpo",
+    "history": "Cronologia",
+    "Today": "Oggi",
+    "Yesterday": "Ieri"
+  },
+  "ja": {
+    "send": "送信",
+    "body": "このリクエストには本文がありません",
+    "history": "履歴",
+    "Today": "今日",
+    "Yesterday": "昨日"
+  },
+  "ko": {
+    "send": "보내기",
+    "body": "요청에는 본문이 없습니다",
+    "history": "기록",
+    "Today": "오늘",
+    "Yesterday": "어제"
+  },
+  "pt": {
+    "send": "Enviar",
+    "body": "A solicitação não possui corpo",
+    "history": "Histórico",
+    "Today": "Hoje",
+    "Yesterday": "Ontem"
+  },
+  "ru": {
+    "send": "Отправить",
+    "body": "Запрос не имеет тела",
+    "history": "История",
+    "Today": "Сегодня",
+    "Yesterday": "Вчера"
+  }
+}

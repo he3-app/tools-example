@@ -1,0 +1,48 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "name": "HTTP Request Sender",
+    "id": "request-sender",
+    "icon": "wifi-outlined",
+    "version": "1.1.0",
+    "description": "The HTTP Request Sender is a powerful tool that allows users to send HTTP requests for testing purposes. With support for various request methods such as GET, POST, DELETE, PATCH, and PUT, users can easily test their APIs and web services. This tool is ideal for developers and testers who need to verify the functionality and performance of their web applications.",
+    "isPublic": true,
+    "category": [
+      "network"
+    ],
+    "keywords": [
+      "http",
+      "request",
+      "send",
+      "test",
+      "get",
+      "post",
+      "delete",
+      "patch",
+      "put"
+    ],
+    "relatedToolId": []
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
+    "axios": "^1.5.1",
+    "js-beautify": "^1.14.7",
+    "json-stringify-pretty-compact": "^4.0.0",
+    "splitpanes": "^3.1.5",
+    "uuidv4": "^6.2.13",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "name": "CIDR Calculator",
+    "id": "cidr-calculator",
+    "icon": "wifi-outlined",
+    "version": "1.0.3",
+    "description": "CIDR Calculator is a tool used to calculate CIDR addresses. It can convert CIDR addresses into IP addresses, subnet masks, IP address ranges, network addresses, broadcast addresses, first and last addresses, and other information.\n\nFeatures:\n\n1. Enter the CIDR address in the input box and click the \"Calculate\" button. The tool will automatically calculate the relevant information of the CIDR address.\n\n2. The tool will automatically detect whether the input CIDR address is valid. If it is not valid, an error message will be displayed.\n\n3. The tool will convert the CIDR address into IP address, subnet mask, IP address range, network address, broadcast address, first and last address, and display them in the output area.\n\nUse cases:\n\n1. Network administrators: Network administrators can use the CIDR Calculator tool to calculate the relevant information of CIDR addresses, in order to better manage the network.\n\n2. Network engineers: Network engineers can use the CIDR Calculator tool to calculate the relevant information of CIDR addresses, in order to better design and implement the network.\n\n3. Students and teachers: Students and teachers can use the CIDR Calculator tool to learn and understand the relevant knowledge of CIDR addresses.",
+    "isPublic": true,
+    "category": [
+      "network"
+    ],
+    "keywords": [
+      "cidr",
+      "calculator",
+      "network",
+      "subnet",
+      "CIDR address",
+      "IP address",
+      "subnet mask",
+      "network address",
+      "broadcast address",
+      "first address",
+      "last address",
+      "network management",
+      "network engineering"
+    ],
+    "repository": "",
+    "relatedToolId": [
+      "vpc-planner"
+    ]
+  },
+  "dependencies": {
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "ip-address": "^8.1.0",
+    "ip-cidr": "^3.0.11",
+    "jsbn": "^1.1.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

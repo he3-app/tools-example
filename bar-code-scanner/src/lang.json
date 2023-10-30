@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "select": "选择文件",
+    "content": "内容"
+  },
+  "en": {
+    "select": "Select File",
+    "content": "Content"
+  },
+  "de": {
+    "select": "Wählen Sie ein Dokument aus",
+    "content": "Inhalt"
+  },
+  "es": {
+    "select": "Seleccione un documento",
+    "content": "contenido"
+  },
+  "fr": {
+    "select": "Sélectionnez un document",
+    "content": "contenu"
+  },
+  "it": {
+    "select": "Seleziona un documento",
+    "content": "contenuto"
+  },
+  "ja": {
+    "select": "ドキュメントを選択します",
+    "content": "コンテンツ"
+  },
+  "ko": {
+    "select": "문서를 선택하십시오",
+    "content": "콘텐츠"
+  },
+  "pt": {
+    "select": "Selecione um documento",
+    "content": "contente"
+  },
+  "ru": {
+    "select": "Выберите документ",
+    "content": "содержание"
+  },
+  "zh-tw": {
+    "select": "選擇文件",
+    "content": "內容"
+  }
+}

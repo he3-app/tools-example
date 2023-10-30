@@ -1,0 +1,49 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "id": "bar-code-scanner",
+    "name": "Barcode Scanning",
+    "icon": "block-outlined",
+    "version": "1.0.4",
+    "isPublic": true,
+    "repository": "",
+    "category": [
+      "encode"
+    ],
+    "description": "Barcode Scanning Tool is a tool used to scan barcodes. It can recognize barcodes in images by uploading the image and display the recognition results in the output area of the tool.\n\nFunction description:\n\n1. Click the \"Select File\" button to choose the image to upload.\n\n2. The tool will automatically recognize the barcode in the image and display the recognition results in the output area of the tool.\n\n3. The output area supports multi-line display, making it easy to view longer recognition results.\n\nUse scenarios:\n\n1. Warehouse management: In warehouse management, barcode scanning is often required to better manage inventory and inbound and outbound records.\n\n2. Logistics and distribution: In logistics and distribution, barcode scanning can help couriers quickly identify package information and improve delivery efficiency.\n\n3. Product sales: In product sales, barcode scanning can help cashiers quickly scan product barcodes and reduce waiting time in line.",
+    "keywords": [
+      "bar",
+      "code",
+      "scan",
+      "scanner",
+      "recognize",
+      "Barcode",
+      "Scanning",
+      "Recognition",
+      "Warehouse Management",
+      "Logistics Distribution",
+      "Product Sales"
+    ],
+    "relatedToolId": [
+      "bar-code-generator"
+    ]
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.2.15",
+    "html5-qrcode": "^2.3.7",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

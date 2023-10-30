@@ -1,0 +1,451 @@
+{
+  "name": "batch-ai",
+  "version": "1.0.1",
+  "description": "BATCH AI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "generate": "he3 generate",
+    "version": "he3 version"
+  },
+  "he3": [
+    {
+      "id": "xiaohongshu-generator",
+      "name": "Little Red Book",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.12",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": " Infinite creativity, helping you create eye-catching copy on Little Red Book.",
+      "keywords": [
+        "xiaohongshu",
+        "generator"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "programming-assistant",
+      "name": "Programming Assistant",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.13",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Innovative titles, concise explanations, practical examples, helping you solve programming problems.",
+      "keywords": [
+        "programming",
+        "ai",
+        "assistant"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "writing-assistant",
+      "name": "Writing Assistant",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.12",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "improves the spelling, grammar, clarity, conciseness, and overall readability of the provided text, and provides suggestions for improvement.",
+      "keywords": [
+        "writing",
+        "ai",
+        "assistant"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "summary-content",
+      "name": "Summary Content",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.12",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Summarize the core information, summarize the main idea of the article, and extract key points.",
+      "keywords": [
+        "summarize",
+        "ai",
+        "content"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "think-tank",
+      "name": "Think Tank",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.12",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Multiple individuals have different opinions and suggestions based on their personalities, worldviews, and values regarding the situation they are expressing",
+      "keywords": [
+        "ai",
+        "think"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "writing-title-generator",
+      "name": "WritingTitle Generator",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.13",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "text"
+      ],
+      "description": "Automatically generate attractive and creative titles based on the input text or theme",
+      "keywords": [
+        "ai",
+        "writing",
+        "title"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "perfect-programmer",
+      "name": "Perfect Programmer",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.12",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Fully consider the front and back ends and provide deployment strategies.",
+      "keywords": [
+        "ai",
+        "programmer",
+        "code"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "database-expert",
+      "name": "Database Expert",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.12",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Intelligent SQL problem-solving tool, easy to solve database problems",
+      "keywords": [
+        "ai",
+        "sql",
+        "database"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "deep-thinking-assistant",
+      "name": "DeepThinking Assistant",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.13",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Guide thinking and provide insight",
+      "keywords": [
+        "ai",
+        "sql",
+        "database"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "seo-assistant",
+      "name": "SEO Assistant",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "web"
+      ],
+      "description": "Provide SEO optimization suggestions",
+      "keywords": [
+        "SEO",
+        "search",
+        "web"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "bug-finder",
+      "name": "Bug Hunter",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.2",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Find bugs in codes.",
+      "keywords": [
+        "bug",
+        "find",
+        "hunt",
+        "issue",
+        "defect"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "code-writer",
+      "name": "Code Writer",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Write codes for you.",
+      "keywords": [
+        "code",
+        "write"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "comment-generator",
+      "name": "Comment Generator",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Write code comments for you.",
+      "keywords": [
+        "comment",
+        "write"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "test-data-generator",
+      "name": "Test Data Generator",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Generate test/fake data.",
+      "keywords": [
+        "test",
+        "data",
+        "fake"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "code-refactor",
+      "name": "Code Refactor",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Refactor your codes",
+      "keywords": [
+        "refactor",
+        "code",
+        "optimize"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "error-analysis",
+      "name": "Error Analysis",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.2",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Analysis errors and give suggestions",
+      "keywords": [
+        "error",
+        "analysis",
+        "optimize",
+        "bug",
+        "solution",
+        "fail"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "code-optimizer",
+      "name": "Code Optimizer",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Optimize codes",
+      "keywords": [
+        "optimize",
+        "code",
+        "suggestion",
+        "bug"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "performance-optimizer",
+      "name": "Performance Optimizer",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "programming"
+      ],
+      "description": "Code performance optimization",
+      "keywords": [
+        "optimize",
+        "code",
+        "performance",
+        "complexity",
+        "time",
+        "space"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "namer",
+      "name": "Naming Master",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Naming master, name people, companies, products and anything else that needs a name",
+      "keywords": [
+        "name",
+        "person",
+        "company",
+        "product",
+        "time",
+        "space"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "emoji-assistant",
+      "name": "Emoji Assistant",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.1",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai",
+        "text"
+      ],
+      "description": "Emoji master, recommend emojis for you",
+      "keywords": [
+        "emoji",
+        "search",
+        "recommend",
+        "expression"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "i18n-trans",
+      "name": "I18nTrans Assistant",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.12",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "I18nTrans Assistant makes it easier to deal with i18n problems",
+      "keywords": [
+        "ai",
+        "i18n",
+        "translate"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "swagger-doc-helper",
+      "name": "Swagger Doc Helper",
+      "icon": "thunderbolt-outlined",
+      "version": "1.1.12",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Swagger Doc Helper helps you eliminate boring commenting sessions and focus on business code",
+      "keywords": [
+        "ai",
+        "swagger",
+        "comment"
+      ],
+      "relatedToolId": []
+    }
+  ],
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "@ffmpeg/core": "^0.11.0",
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "@he3-kit/utils": "^0.0.24",
+    "@vueuse/core": "^10.2.0",
+    "ant-design-vue": "^3.2.20",
+    "lodash-es": "^4.17.21",
+    "vue": "^3.2.47",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.1.4"
+  }
+}

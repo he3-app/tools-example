@@ -1,0 +1,211 @@
+{
+  "zh-cn": {
+    "$name": "CIDR 计算器",
+    "$keywords": [
+      "CIDR",
+      "计算器",
+      "网络",
+      "子网",
+      "CIDR地址",
+      "IP地址",
+      "子网掩码",
+      "网络地址",
+      "广播地址",
+      "第一个地址",
+      "最后一个地址",
+      "网络管理",
+      "网络工程"
+    ],
+    "$description": "CIDR计算器是一种用于计算CIDR地址的工具。它可以将CIDR地址转换为IP地址、子网掩码、IP地址范围、网络地址、广播地址、第一个和最后一个地址等信息。\n\n特点：\n\n1. 在输入框中输入CIDR地址，然后点击“计算”按钮。该工具将自动计算CIDR地址的相关信息。\n\n2. 该工具将自动检测输入的CIDR地址是否有效。如果无效，将显示错误消息。\n\n3. 该工具将把CIDR地址转换为IP地址、子网掩码、IP地址范围、网络地址、广播地址、第一个和最后一个地址，并在输出区域显示它们。\n\n用例：\n\n1. 网络管理员：网络管理员可以使用CIDR计算器工具计算CIDR地址的相关信息，以更好地管理网络。\n\n2. 网络工程师：网络工程师可以使用CIDR计算器工具计算CIDR地址的相关信息，以更好地设计和实现网络。\n\n3. 学生和教师：学生和教师可以使用CIDR计算器工具学习和理解CIDR地址的相关知识。"
+  },
+  "zh-tw": {
+    "$name": "CIDR 計算機",
+    "$keywords": [
+      "CIDR",
+      "計算機",
+      "網路",
+      "子網路",
+      "CIDR位址",
+      "IP位址",
+      "子網路遮罩",
+      "網路位址",
+      "廣播位址",
+      "第一個位址",
+      "最後一個位址",
+      "網路管理",
+      "網路工程"
+    ],
+    "$description": "CIDR計算機是一個用於計算CIDR地址的工具。它可以將CIDR地址轉換為IP地址、子網掩碼、IP地址範圍、網絡地址、廣播地址、第一個和最後一個地址等信息。\n\n功能：\n\n1. 在輸入框中輸入CIDR地址，然後點擊“計算”按鈕。該工具將自動計算CIDR地址的相關信息。\n\n2. 該工具將自動檢測輸入的CIDR地址是否有效。如果無效，將顯示錯誤消息。\n\n3. 該工具將把CIDR地址轉換為IP地址、子網掩碼、IP地址範圍、網絡地址、廣播地址、第一個和最後一個地址，並在輸出區域顯示它們。\n\n用例：\n\n1. 網絡管理員：網絡管理員可以使用CIDR計算機工具計算CIDR地址的相關信息，以更好地管理網絡。\n\n2. 網絡工程師：網絡工程師可以使用CIDR計算機工具計算CIDR地址的相關信息，以更好地設計和實施網絡。\n\n3. 學生和教師：學生和教師可以使用CIDR計算機工具學習和理解CIDR地址的相關知識。"
+  },
+  "es": {
+    "$name": "Calculadora CIDR",
+    "$keywords": [
+      "cidr",
+      "calculadora",
+      "red",
+      "subred",
+      "dirección CIDR",
+      "dirección IP",
+      "máscara de subred",
+      "dirección de red",
+      "dirección de difusión",
+      "primera dirección",
+      "última dirección",
+      "gestión de redes",
+      "ingeniería de redes"
+    ],
+    "$description": "Calculadora CIDR es una herramienta utilizada para calcular direcciones CIDR. Puede convertir direcciones CIDR en direcciones IP, máscaras de subred, rangos de direcciones IP, direcciones de red, direcciones de difusión, primeras y últimas direcciones, y otra información.\n\nCaracterísticas:\n\n1. Ingrese la dirección CIDR en el cuadro de entrada y haga clic en el botón \"Calcular\". La herramienta calculará automáticamente la información relevante de la dirección CIDR.\n\n2. La herramienta detectará automáticamente si la dirección CIDR de entrada es válida. Si no es válida, se mostrará un mensaje de error.\n\n3. La herramienta convertirá la dirección CIDR en dirección IP, máscara de subred, rango de direcciones IP, dirección de red, dirección de difusión, primera y última dirección, y las mostrará en el área de salida.\n\nCasos de uso:\n\n1. Administradores de red: Los administradores de red pueden utilizar la herramienta Calculadora CIDR para calcular la información relevante de las direcciones CIDR, con el fin de gestionar mejor la red.\n\n2. Ingenieros de red: Los ingenieros de red pueden utilizar la herramienta Calculadora CIDR para calcular la información relevante de las direcciones CIDR, con el fin de diseñar e implementar mejor la red.\n\n3. Estudiantes y profesores: Los estudiantes y profesores pueden utilizar la herramienta Calculadora CIDR para aprender y comprender el conocimiento relevante de las direcciones CIDR."
+  },
+  "ja": {
+    "$name": "CIDR計算機",
+    "$keywords": [
+      "CIDR",
+      "計算機",
+      "ネットワーク",
+      "サブネット",
+      "CIDRアドレス",
+      "IPアドレス",
+      "サブネットマスク",
+      "ネットワークアドレス",
+      "ブロードキャストアドレス",
+      "最初のアドレス",
+      "最後のアドレス",
+      "ネットワーク管理",
+      "ネットワークエンジニアリング"
+    ],
+    "$description": "CIDR計算機は、CIDRアドレスを計算するために使用されるツールです。CIDRアドレスをIPアドレス、サブネットマスク、IPアドレス範囲、ネットワークアドレス、ブロードキャストアドレス、最初のアドレス、最後のアドレスなどに変換することができます。\n\n特徴：\n\n1. 入力ボックスにCIDRアドレスを入力し、「計算」ボタンをクリックすると、ツールはCIDRアドレスの関連情報を自動的に計算します。\n\n2. ツールは、入力されたCIDRアドレスが有効かどうかを自動的に検出します。無効な場合は、エラーメッセージが表示されます。\n\n3. ツールはCIDRアドレスをIPアドレス、サブネットマスク、IPアドレス範囲、ネットワークアドレス、ブロードキャストアドレス、最初のアドレス、最後のアドレスに変換し、出力エリアに表示します。\n\n使用例：\n\n1. ネットワーク管理者：ネットワーク管理者は、CIDR計算機ツールを使用してCIDRアドレスの関連情報を計算し、ネットワークをより効果的に管理することができます。\n\n2. ネットワークエンジニア：ネットワークエンジニアは、CIDR計算機ツールを使用してCIDRアドレスの関連情報を計算し、ネットワークをより効果的に設計・実装することができます。\n\n3. 学生や教師：学生や教師は、CIDR計算機ツールを使用してCIDRアドレスの関連知識を学び、理解することができます。"
+  },
+  "ko": {
+    "$name": "CIDR 계산기",
+    "$keywords": [
+      "CIDR",
+      "계산기",
+      "네트워크",
+      "서브넷",
+      "CIDR 주소",
+      "IP 주소",
+      "서브넷 마스크",
+      "네트워크 주소",
+      "브로드캐스트 주소",
+      "첫 번째 주소",
+      "마지막 주소",
+      "네트워크 관리",
+      "네트워크 엔지니어링"
+    ],
+    "$description": "CIDR 계산기는 CIDR 주소를 계산하는 데 사용되는 도구입니다. 이 도구는 CIDR 주소를 IP 주소, 서브넷 마스크, IP 주소 범위, 네트워크 주소, 브로드캐스트 주소, 첫 번째와 마지막 주소 등으로 변환할 수 있습니다.\n\n기능:\n\n1. 입력 상자에 CIDR 주소를 입력하고 \"계산\" 버튼을 클릭하면, 도구는 자동으로 CIDR 주소의 관련 정보를 계산합니다.\n\n2. 도구는 입력된 CIDR 주소가 유효한지 자동으로 감지합니다. 유효하지 않은 경우 오류 메시지가 표시됩니다.\n\n3. 도구는 CIDR 주소를 IP 주소, 서브넷 마스크, IP 주소 범위, 네트워크 주소, 브로드캐스트 주소, 첫 번째와 마지막 주소로 변환하고 출력 영역에 표시합니다.\n\n사용 사례:\n\n1. 네트워크 관리자: 네트워크 관리자는 CIDR 계산기 도구를 사용하여 CIDR 주소의 관련 정보를 계산하여 네트워크를 더 잘 관리할 수 있습니다.\n\n2. 네트워크 엔지니어: 네트워크 엔지니어는 CIDR 계산기 도구를 사용하여 CIDR 주소의 관련 정보를 계산하여 네트워크를 더 잘 설계하고 구현할 수 있습니다.\n\n3. 학생 및 교사: 학생 및 교사는 CIDR 계산기 도구를 사용하여 CIDR 주소의 관련 지식을 학습하고 이해할 수 있습니다."
+  },
+  "de": {
+    "$name": "CIDR Rechner",
+    "$keywords": [
+      "CIDR",
+      "Rechner",
+      "Netzwerk",
+      "Subnetz",
+      "CIDR-Adresse",
+      "IP-Adresse",
+      "Subnetzmaske",
+      "Netzwerkadresse",
+      "Broadcast-Adresse",
+      "erste Adresse",
+      "letzte Adresse",
+      "Netzwerkmanagement",
+      "Netzwerktechnik"
+    ],
+    "$description": "CIDR-Rechner ist ein Werkzeug, das zur Berechnung von CIDR-Adressen verwendet wird. Es kann CIDR-Adressen in IP-Adressen, Subnetzmasken, IP-Adressbereiche, Netzwerkadressen, Broadcast-Adressen, erste und letzte Adressen und andere Informationen umwandeln.\n\nFunktionen:\n\n1. Geben Sie die CIDR-Adresse in das Eingabefeld ein und klicken Sie auf die Schaltfläche \"Berechnen\". Das Tool berechnet automatisch die relevanten Informationen der CIDR-Adresse.\n\n2. Das Tool erkennt automatisch, ob die eingegebene CIDR-Adresse gültig ist. Wenn sie ungültig ist, wird eine Fehlermeldung angezeigt.\n\n3. Das Tool wandelt die CIDR-Adresse in IP-Adresse, Subnetzmaske, IP-Adressbereich, Netzwerkadresse, Broadcast-Adresse, erste und letzte Adresse um und zeigt sie im Ausgabe-Bereich an.\n\nAnwendungsfälle:\n\n1. Netzwerkadministratoren: Netzwerkadministratoren können das CIDR-Rechner-Tool verwenden, um die relevanten Informationen von CIDR-Adressen zu berechnen, um das Netzwerk besser zu verwalten.\n\n2. Netzwerktechniker: Netzwerktechniker können das CIDR-Rechner-Tool verwenden, um die relevanten Informationen von CIDR-Adressen zu berechnen, um das Netzwerk besser zu entwerfen und zu implementieren.\n\n3. Schüler und Lehrer: Schüler und Lehrer können das CIDR-Rechner-Tool verwenden, um die relevanten Kenntnisse von CIDR-Adressen zu lernen und zu verstehen."
+  },
+  "fr": {
+    "$name": "Calculateur CIDR",
+    "$keywords": [
+      "cidr",
+      "calculatrice",
+      "réseau",
+      "sous-réseau",
+      "adresse CIDR",
+      "adresse IP",
+      "masque de sous-réseau",
+      "adresse de réseau",
+      "adresse de diffusion",
+      "première adresse",
+      "dernière adresse",
+      "gestion de réseau",
+      "ingénierie de réseau"
+    ],
+    "$description": "Calculateur CIDR est un outil utilisé pour calculer les adresses CIDR. Il peut convertir les adresses CIDR en adresses IP, masques de sous-réseau, plages d'adresses IP, adresses de réseau, adresses de diffusion, premières et dernières adresses, ainsi que d'autres informations.\n\nFonctionnalités :\n\n1. Entrez l'adresse CIDR dans la zone de saisie et cliquez sur le bouton \"Calculer\". L'outil calculera automatiquement les informations pertinentes de l'adresse CIDR.\n\n2. L'outil détectera automatiquement si l'adresse CIDR saisie est valide. Si elle n'est pas valide, un message d'erreur sera affiché.\n\n3. L'outil convertira l'adresse CIDR en adresse IP, masque de sous-réseau, plage d'adresses IP, adresse de réseau, adresse de diffusion, première et dernière adresse, et les affichera dans la zone de sortie.\n\nCas d'utilisation :\n\n1. Administrateurs réseau : Les administrateurs réseau peuvent utiliser l'outil Calculateur CIDR pour calculer les informations pertinentes des adresses CIDR, afin de mieux gérer le réseau.\n\n2. Ingénieurs réseau : Les ingénieurs réseau peuvent utiliser l'outil Calculateur CIDR pour calculer les informations pertinentes des adresses CIDR, afin de mieux concevoir et mettre en œuvre le réseau.\n\n3. Étudiants et enseignants : Les étudiants et les enseignants peuvent utiliser l'outil Calculateur CIDR pour apprendre et comprendre les connaissances pertinentes des adresses CIDR."
+  },
+  "it": {
+    "$name": "Calcolatore CIDR",
+    "$keywords": [
+      "cidr",
+      "calcolatrice",
+      "rete",
+      "sottorete",
+      "indirizzo CIDR",
+      "indirizzo IP",
+      "maschera di sottorete",
+      "indirizzo di rete",
+      "indirizzo di broadcast",
+      "primo indirizzo",
+      "ultimo indirizzo",
+      "gestione di rete",
+      "ingegneria di rete"
+    ],
+    "$description": "Il Calcolatore CIDR è uno strumento utilizzato per calcolare gli indirizzi CIDR. Può convertire gli indirizzi CIDR in indirizzi IP, maschere di sottorete, intervalli di indirizzi IP, indirizzi di rete, indirizzi di broadcast, primo e ultimo indirizzo e altre informazioni.\n\nCaratteristiche:\n\n1. Inserisci l'indirizzo CIDR nella casella di input e clicca sul pulsante \"Calcola\". Lo strumento calcolerà automaticamente le informazioni rilevanti dell'indirizzo CIDR.\n\n2. Lo strumento rileverà automaticamente se l'indirizzo CIDR inserito è valido. Se non è valido, verrà visualizzato un messaggio di errore.\n\n3. Lo strumento convertirà l'indirizzo CIDR in indirizzo IP, maschera di sottorete, intervallo di indirizzi IP, indirizzo di rete, indirizzo di broadcast, primo e ultimo indirizzo e li visualizzerà nell'area di output.\n\nCasi d'uso:\n\n1. Amministratori di rete: gli amministratori di rete possono utilizzare lo strumento Calcolatore CIDR per calcolare le informazioni rilevanti degli indirizzi CIDR, al fine di gestire meglio la rete.\n\n2. Ingegneri di rete: gli ingegneri di rete possono utilizzare lo strumento Calcolatore CIDR per calcolare le informazioni rilevanti degli indirizzi CIDR, al fine di progettare e implementare meglio la rete.\n\n3. Studenti e insegnanti: gli studenti e gli insegnanti possono utilizzare lo strumento Calcolatore CIDR per apprendere e comprendere le conoscenze rilevanti degli indirizzi CIDR."
+  },
+  "ru": {
+    "$name": "Калькулятор CIDR",
+    "$keywords": [
+      "cidr",
+      "калькулятор",
+      "сеть",
+      "подсеть",
+      "CIDR адрес",
+      "IP адрес",
+      "маска подсети",
+      "адрес сети",
+      "широковещательный адрес",
+      "первый адрес",
+      "последний адрес",
+      "управление сетью",
+      "сетевая инженерия"
+    ],
+    "$description": "Калькулятор CIDR - это инструмент, используемый для расчета адресов CIDR. Он может преобразовывать адреса CIDR в IP-адреса, маски подсети, диапазоны IP-адресов, сетевые адреса, широковещательные адреса, первый и последний адреса и другую информацию.\n\nОсобенности:\n\n1. Введите адрес CIDR в поле ввода и нажмите кнопку \"Рассчитать\". Инструмент автоматически рассчитает соответствующую информацию адреса CIDR.\n\n2. Инструмент автоматически определит, является ли введенный адрес CIDR допустимым. Если он недопустим, будет выведено сообщение об ошибке.\n\n3. Инструмент преобразует адрес CIDR в IP-адрес, маску подсети, диапазон IP-адресов, сетевой адрес, широковещательный адрес, первый и последний адреса и отобразит их в области вывода.\n\nПрименение:\n\n1. Сетевые администраторы: Сетевые администраторы могут использовать инструмент Калькулятор CIDR для расчета соответствующей информации адресов CIDR, чтобы лучше управлять сетью.\n\n2. Сетевые инженеры: Сетевые инженеры могут использовать инструмент Калькулятор CIDR для расчета соответствующей информации адресов CIDR, чтобы лучше проектировать и реализовывать сеть.\n\n3. Студенты и преподаватели: Студенты и преподаватели могут использовать инструмент Калькулятор CIDR для изучения и понимания соответствующих знаний об адресах CIDR."
+  },
+  "pt": {
+    "$name": "Calculadora CIDR",
+    "$keywords": [
+      "cidr",
+      "calculadora",
+      "rede",
+      "sub-rede",
+      "endereço CIDR",
+      "endereço IP",
+      "máscara de sub-rede",
+      "endereço de rede",
+      "endereço de broadcast",
+      "primeiro endereço",
+      "último endereço",
+      "gerenciamento de rede",
+      "engenharia de rede"
+    ],
+    "$description": "Calculadora CIDR é uma ferramenta usada para calcular endereços CIDR. Ela pode converter endereços CIDR em endereços IP, máscaras de sub-rede, intervalos de endereços IP, endereços de rede, endereços de broadcast, primeiro e último endereços, e outras informações.\n\nRecursos:\n\n1. Insira o endereço CIDR na caixa de entrada e clique no botão \"Calcular\". A ferramenta calculará automaticamente as informações relevantes do endereço CIDR.\n\n2. A ferramenta detectará automaticamente se o endereço CIDR inserido é válido. Se não for válido, uma mensagem de erro será exibida.\n\n3. A ferramenta converterá o endereço CIDR em endereço IP, máscara de sub-rede, intervalo de endereços IP, endereço de rede, endereço de broadcast, primeiro e último endereço, e os exibirá na área de saída.\n\nCasos de uso:\n\n1. Administradores de rede: Os administradores de rede podem usar a ferramenta Calculadora CIDR para calcular as informações relevantes dos endereços CIDR, a fim de gerenciar melhor a rede.\n\n2. Engenheiros de rede: Os engenheiros de rede podem usar a ferramenta Calculadora CIDR para calcular as informações relevantes dos endereços CIDR, a fim de projetar e implementar melhor a rede.\n\n3. Estudantes e professores: Estudantes e professores podem usar a ferramenta Calculadora CIDR para aprender e entender o conhecimento relevante dos endereços CIDR."
+  },
+  "en": {
+    "$name": "CIDR Calculator",
+    "$keywords": [
+      "cidr",
+      "calculator",
+      "network",
+      "subnet",
+      "CIDR address",
+      "IP address",
+      "subnet mask",
+      "network address",
+      "broadcast address",
+      "first address",
+      "last address",
+      "network management",
+      "network engineering"
+    ],
+    "$description": "CIDR Calculator is a tool used to calculate CIDR addresses. It can convert CIDR addresses into IP addresses, subnet masks, IP address ranges, network addresses, broadcast addresses, first and last addresses, and other information.\n\nFeatures:\n\n1. Enter the CIDR address in the input box and click the \"Calculate\" button. The tool will automatically calculate the relevant information of the CIDR address.\n\n2. The tool will automatically detect whether the input CIDR address is valid. If it is not valid, an error message will be displayed.\n\n3. The tool will convert the CIDR address into IP address, subnet mask, IP address range, network address, broadcast address, first and last address, and display them in the output area.\n\nUse cases:\n\n1. Network administrators: Network administrators can use the CIDR Calculator tool to calculate the relevant information of CIDR addresses, in order to better manage the network.\n\n2. Network engineers: Network engineers can use the CIDR Calculator tool to calculate the relevant information of CIDR addresses, in order to better design and implement the network.\n\n3. Students and teachers: Students and teachers can use the CIDR Calculator tool to learn and understand the relevant knowledge of CIDR addresses."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "name": "Morse Code Decoding",
+    "id": "morse-decode",
+    "icon": "block-outlined",
+    "version": "1.0.5",
+    "description": "Overview:\nThe Morse Code Decoding tool is a tool used to convert Morse code to text or text to Morse code. Users can input Morse code or text in the input box, and the tool will automatically convert it to the other form and display it in the output box.\n\nFeatures:\n1. Users can input Morse code or text in the input box.\n2. The tool will automatically convert the input content to the other form and display it in the output box.\n3. Users can choose to save the content in the input box for automatic filling in the next use.\n\nUse Cases:\n1. Learning and using Morse code: Users can use the Morse Code Decoding tool to convert Morse code to text for better learning and understanding of the encoding rules and usage of Morse code.\n2. Telegraph communication: In telegraph communication, Morse code is used for encoding and decoding. Users can use the Morse Code Decoding tool to convert Morse code in telegrams to text for better understanding of the telegram content.\n3. Encoding of emails and text messages: In emails and text messages, Morse code is sometimes used for encoding. Users can use the Morse Code Decoding tool to convert text to Morse code for use in emails and text messages.\n\nInstructions:\n1. Input Morse code or text in the input box.\n2. The tool will automatically convert the input content to the other form and display it in the output box.\n3. Users can choose to save the content in the input box for automatic filling in the next use.\n\nNotes:\n1. The Morse Code Decoding tool only supports standard Morse code encoding rules.\n2. The Morse Code Decoding tool only supports character encoding within the ASCII range.\n3. The Morse Code Decoding tool does not support encoding and decoding of non-ASCII characters such as Chinese.",
+    "isPublic": true,
+    "category": [
+      "encode"
+    ],
+    "keywords": [
+      "MORSE",
+      "Decode",
+      "Morse code",
+      "encoding",
+      "decoding",
+      "telegraph communication",
+      "email",
+      "SMS"
+    ],
+    "relatedToolId": [
+      "morse-encode"
+    ]
+  },
+  "dependencies": {
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}
