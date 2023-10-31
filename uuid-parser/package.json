@@ -10,7 +10,7 @@
     "id": "uuid-parser",
     "name": "UUID Parser",
     "icon": "thunderbolt-outlined",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "isPublic": true,
     "repository": "",
     "category": [
