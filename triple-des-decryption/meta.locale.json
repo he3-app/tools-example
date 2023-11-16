@@ -1,0 +1,232 @@
+{
+  "zh-cn": {
+    "$name": "TripleDES解密",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "解密",
+      "解密",
+      "对称",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "对称加密"
+    ],
+    "$description": "TripleDES解密工具是一种用于解密TripleDES加密数据的工具。它可以解密使用TripleDES加密的数据并将其转换回其原始形式。\n\n特点：\n\n1. 支持TripleDES加密数据的解密。\n\n2. 支持选择加密模式和填充方法。\n\n3. 支持从文件读取数据和将解密后的数据保存到文件。\n\n4. 支持自动保存选项，以便快速加载先前的设置。\n\n用例：\n\n1. 数据解密：在数据传输过程中，可能需要加密敏感数据以进行保护。使用TripleDES加密算法加密数据后，可以使用TripleDES解密工具将其解密回其原始形式。\n\n2. 数据恢复：在数据备份或迁移过程中，可能需要将加密数据恢复到其原始形式。TripleDES解密工具可以轻松解密数据。\n\n3. 数据分析：在数据分析过程中，可能需要解密加密数据以更好地理解数据结构和内容。TripleDES解密工具可以轻松解密数据。\n\n4. 数据转换：在数据转换过程中，可能需要将加密数据解密为其原始形式。TripleDES解密工具可以轻松完成数据转换。"
+  },
+  "zh-tw": {
+    "$name": "TripleDES 解密",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "解密",
+      "對稱",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "對稱加密"
+    ],
+    "$description": "TripleDES 解密工具是一個用於解密 TripleDES 加密數據的工具。它可以解密使用 TripleDES 加密的數據並將其轉換回原始形式。\n\n功能：\n\n1. 支持解密 TripleDES 加密數據。\n\n2. 支持選擇加密模式和填充方法。\n\n3. 支持從文件讀取數據並將解密後的數據保存到文件。\n\n4. 支持自動保存選項，以便快速加載先前的設置。\n\n用例：\n\n1. 數據解密：在數據傳輸期間，可能需要加密敏感數據以進行保護。使用 TripleDES 加密算法加密數據後，可以使用 TripleDES 解密工具將其解密回原始形式。\n\n2. 數據恢復：在數據備份或遷移期間，可能需要將加密數據恢復到其原始形式。TripleDES 解密工具可以輕鬆解密數據。\n\n3. 數據分析：在數據分析期間，可能需要解密加密數據以更好地理解數據結構和內容。TripleDES 解密工具可以輕鬆解密數據。\n\n4. 數據轉換：在數據轉換期間，可能需要將加密數據解密為其原始形式。TripleDES 解密工具可以輕鬆完成數據轉換。"
+  },
+  "es": {
+    "$name": "Descifrado TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "descifrado",
+      "descifrar",
+      "simétrico",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "Cifrado Simétrico"
+    ],
+    "$description": "Herramienta de descifrado TripleDES es una herramienta utilizada para descifrar datos cifrados con TripleDES. Puede descifrar datos cifrados con TripleDES y convertirlos de vuelta a su forma original.\n\nCaracterísticas:\n\n1. Admite el descifrado de datos cifrados con TripleDES.\n\n2. Admite la selección del modo de cifrado y el método de relleno.\n\n3. Admite la lectura de datos desde archivos y la guardado de datos descifrados en archivos.\n\n4. Admite la opción de guardado automático para cargar rápidamente configuraciones anteriores.\n\nCasos de uso:\n\n1. Descifrado de datos: Durante la transmisión de datos, los datos sensibles pueden necesitar ser cifrados para protección. Después de cifrar los datos con el algoritmo de cifrado TripleDES, se puede utilizar la herramienta de descifrado TripleDES para descifrarlos de vuelta a su forma original.\n\n2. Recuperación de datos: Durante la copia de seguridad o migración de datos, los datos cifrados pueden necesitar ser recuperados a su forma original. La herramienta de descifrado TripleDES puede descifrar fácilmente los datos.\n\n3. Análisis de datos: Durante el análisis de datos, los datos cifrados pueden necesitar ser descifrados para una mejor comprensión de la estructura y contenido de los datos. La herramienta de descifrado TripleDES puede descifrar fácilmente los datos.\n\n4. Conversión de datos: Durante la conversión de datos, los datos cifrados pueden necesitar ser descifrados a su forma original. La herramienta de descifrado TripleDES puede completar fácilmente la conversión de datos."
+  },
+  "ja": {
+    "$name": "TripleDES 復号化",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "復号化",
+      "復号",
+      "対称",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "対称暗号化"
+    ],
+    "$description": "TripleDES Decryption Toolは、TripleDESで暗号化されたデータを復号化するためのツールです。TripleDESで暗号化されたデータを復号化し、元の形式に変換することができます。\n\n特徴：\n\n1. TripleDESで暗号化されたデータの復号化をサポートしています。\n\n2. 暗号化モードとパディング方法の選択をサポートしています。\n\n3. ファイルからデータを読み込み、復号化されたデータをファイルに保存することができます。\n\n4. 前回の設定を素早く読み込むための自動保存オプションをサポートしています。\n\n使用例：\n\n1. データの復号化：データの送信中に、機密データを保護するために暗号化する必要がある場合があります。TripleDES暗号化アルゴリズムでデータを暗号化した後、TripleDES Decryption Toolを使用して元の形式に復号化することができます。\n\n2. データの回復：データのバックアップや移行中に、暗号化されたデータを元の形式に回復する必要がある場合があります。TripleDES Decryption Toolを使用することで、データを簡単に復号化できます。\n\n3. データの分析：データの分析中に、暗号化されたデータを復号化してデータの構造や内容をより良く理解する必要がある場合があります。TripleDES Decryption Toolを使用することで、データを簡単に復号化できます。\n\n4. データの変換：データの変換中に、暗号化されたデータを元の形式に復号化する必要がある場合があります。TripleDES Decryption Toolを使用することで、データの変換を簡単に完了できます。"
+  },
+  "ko": {
+    "$name": "TripleDES 복호화",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "복호화",
+      "복호화하다",
+      "대칭키",
+      "CBC",
+      "ECB",
+      "CFB",
+      "CTR",
+      "OFB",
+      "PKCS7",
+      "ISO10126",
+      "ANSIX923",
+      "대칭키 암호화"
+    ],
+    "$description": "TripleDES 복호화 도구는 TripleDES로 암호화된 데이터를 복호화하는 데 사용되는 도구입니다. TripleDES로 암호화된 데이터를 복호화하고 원래 형태로 변환할 수 있습니다.\n\n기능:\n\n1. TripleDES로 암호화된 데이터의 복호화를 지원합니다.\n\n2. 암호화 모드 및 패딩 방법 선택을 지원합니다.\n\n3. 파일에서 데이터를 읽고, 복호화된 데이터를 파일에 저장하는 기능을 지원합니다.\n\n4. 이전 설정을 빠르게 불러오기 위한 자동 저장 옵션을 지원합니다.\n\n사용 사례:\n\n1. 데이터 복호화: 데이터 전송 중에 민감한 데이터를 보호하기 위해 암호화가 필요할 수 있습니다. TripleDES 암호화 알고리즘으로 데이터를 암호화한 후, TripleDES 복호화 도구를 사용하여 원래 형태로 복호화할 수 있습니다.\n\n2. 데이터 복구: 데이터 백업 또는 이전 중에 암호화된 데이터를 원래 형태로 복구해야 할 수 있습니다. TripleDES 복호화 도구를 사용하여 데이터를 쉽게 복호화할 수 있습니다.\n\n3. 데이터 분석: 데이터 분석 중에 암호화된 데이터를 복호화하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다. TripleDES 복호화 도구를 사용하여 데이터를 쉽게 복호화할 수 있습니다.\n\n4. 데이터 변환: 데이터 변환 중에 암호화된 데이터를 원래 형태로 복호화해야 할 수 있습니다. TripleDES 복호화 도구를 사용하여 데이터 변환을 쉽게 완료할 수 있습니다."
+  },
+  "de": {
+    "$name": "TripleDES Entschlüsselung",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "Entschlüsselung",
+      "entschlüsseln",
+      "symmetrisch",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "Symmetrische Verschlüsselung"
+    ],
+    "$description": "TripleDES Entschlüsselungstool ist ein Werkzeug, das zur Entschlüsselung von TripleDES verschlüsselten Daten verwendet wird. Es kann Daten entschlüsseln, die mit TripleDES verschlüsselt wurden, und sie in ihre ursprüngliche Form zurückkonvertieren.\n\nFunktionen:\n\n1. Unterstützt die Entschlüsselung von TripleDES verschlüsselten Daten.\n\n2. Unterstützt die Auswahl des Verschlüsselungsmodus und der Padding-Methode.\n\n3. Unterstützt das Lesen von Daten aus Dateien und das Speichern entschlüsselter Daten in Dateien.\n\n4. Unterstützt die automatische Speicheroption für schnelles Laden früherer Einstellungen.\n\nAnwendungsfälle:\n\n1. Datenentschlüsselung: Während der Datenübertragung müssen möglicherweise sensible Daten zum Schutz verschlüsselt werden. Nach der Verschlüsselung von Daten mit dem TripleDES-Verschlüsselungsalgorithmus kann das TripleDES Entschlüsselungstool verwendet werden, um sie in ihre ursprüngliche Form zu entschlüsseln.\n\n2. Datenwiederherstellung: Während der Datensicherung oder -migration müssen verschlüsselte Daten möglicherweise in ihre ursprüngliche Form zurückgewonnen werden. Das TripleDES Entschlüsselungstool kann die Daten problemlos entschlüsseln.\n\n3. Datenanalyse: Während der Datenanalyse müssen verschlüsselte Daten möglicherweise zur besseren Verständnis der Datenstruktur und des Inhalts entschlüsselt werden. Das TripleDES Entschlüsselungstool kann die Daten problemlos entschlüsseln.\n\n4. Datenkonvertierung: Während der Datenkonvertierung müssen verschlüsselte Daten möglicherweise in ihre ursprüngliche Form entschlüsselt werden. Das TripleDES Entschlüsselungstool kann die Daten problemlos konvertieren."
+  },
+  "fr": {
+    "$name": "Déchiffrement TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "décryptage",
+      "décrypter",
+      "symétrique",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "chiffrement symétrique"
+    ],
+    "$description": "Outil de décryptage TripleDES est un outil utilisé pour décrypter des données chiffrées avec TripleDES. Il peut décrypter des données chiffrées avec TripleDES et les convertir en leur forme originale.\n\nFonctionnalités :\n\n1. Prise en charge du décryptage de données chiffrées avec TripleDES.\n\n2. Prise en charge de la sélection du mode de chiffrement et de la méthode de remplissage.\n\n3. Prise en charge de la lecture de données à partir de fichiers et de la sauvegarde des données décryptées dans des fichiers.\n\n4. Prise en charge de l'option de sauvegarde automatique pour un chargement rapide des paramètres précédents.\n\nCas d'utilisation :\n\n1. Décryptage de données : Pendant la transmission de données, des données sensibles peuvent avoir besoin d'être chiffrées pour les protéger. Après avoir chiffré les données avec l'algorithme de chiffrement TripleDES, l'outil de décryptage TripleDES peut être utilisé pour les décrypter en leur forme originale.\n\n2. Récupération de données : Pendant la sauvegarde ou la migration de données, des données chiffrées peuvent avoir besoin d'être récupérées en leur forme originale. L'outil de décryptage TripleDES peut facilement décrypter les données.\n\n3. Analyse de données : Pendant l'analyse de données, des données chiffrées peuvent avoir besoin d'être décryptées pour une meilleure compréhension de la structure et du contenu des données. L'outil de décryptage TripleDES peut facilement décrypter les données.\n\n4. Conversion de données : Pendant la conversion de données, des données chiffrées peuvent avoir besoin d'être décryptées en leur forme originale. L'outil de décryptage TripleDES peut facilement effectuer la conversion de données."
+  },
+  "it": {
+    "$name": "Decrittografia TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "decryption",
+      "decrittografia",
+      "simmetrica",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "Crittografia Simmetrica"
+    ],
+    "$description": "Strumento di decrittografia TripleDES è uno strumento utilizzato per decrittografare dati criptati con TripleDES. Può decrittografare dati criptati con TripleDES e convertirli nella loro forma originale.\n\nCaratteristiche:\n\n1. Supporta la decrittografia di dati criptati con TripleDES.\n\n2. Supporta la selezione della modalità di crittografia e del metodo di riempimento.\n\n3. Supporta la lettura dei dati da file e il salvataggio dei dati decrittografati su file.\n\n4. Supporta l'opzione di salvataggio automatico per il caricamento rapido delle impostazioni precedenti.\n\nCasi d'uso:\n\n1. Decrittografia dei dati: Durante la trasmissione dei dati, i dati sensibili potrebbero dover essere criptati per proteggerli. Dopo aver criptato i dati con l'algoritmo di crittografia TripleDES, lo strumento di decrittografia TripleDES può essere utilizzato per decrittografarli nella loro forma originale.\n\n2. Recupero dei dati: Durante il backup o la migrazione dei dati, i dati criptati potrebbero dover essere recuperati nella loro forma originale. Lo strumento di decrittografia TripleDES può facilmente decrittografare i dati.\n\n3. Analisi dei dati: Durante l'analisi dei dati, i dati criptati potrebbero dover essere decrittografati per una migliore comprensione della struttura e del contenuto dei dati. Lo strumento di decrittografia TripleDES può facilmente decrittografare i dati.\n\n4. Conversione dei dati: Durante la conversione dei dati, i dati criptati potrebbero dover essere decrittografati nella loro forma originale. Lo strumento di decrittografia TripleDES può facilmente completare la conversione dei dati."
+  },
+  "ru": {
+    "$name": "Расшифровка TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "дешифрование",
+      "расшифровка",
+      "симметричное",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "Симметричное шифрование"
+    ],
+    "$description": "Инструмент дешифрования TripleDES - это инструмент, используемый для расшифровки данных, зашифрованных с помощью TripleDES. Он может расшифровывать данные, зашифрованные с помощью TripleDES, и преобразовывать их обратно в исходную форму.\n\nОсобенности:\n\n1. Поддерживает расшифровку данных, зашифрованных с помощью TripleDES.\n\n2. Поддерживает выбор режима шифрования и метода заполнения.\n\n3. Поддерживает чтение данных из файлов и сохранение расшифрованных данных в файлы.\n\n4. Поддерживает автоматическую опцию сохранения для быстрой загрузки предыдущих настроек.\n\nВарианты использования:\n\n1. Расшифровка данных: Во время передачи данных может потребоваться защита конфиденциальных данных путем их шифрования. После шифрования данных с помощью алгоритма шифрования TripleDES, инструмент дешифрования TripleDES может использоваться для расшифровки данных обратно в их исходную форму.\n\n2. Восстановление данных: Во время резервного копирования или миграции данных зашифрованные данные могут потребоваться восстановить в их исходную форму. Инструмент дешифрования TripleDES может легко расшифровать данные.\n\n3. Анализ данных: Во время анализа данных зашифрованные данные могут потребоваться расшифровать для лучшего понимания структуры и содержания данных. Инструмент дешифрования TripleDES может легко расшифровать данные.\n\n4. Конвертация данных: Во время конвертации данных зашифрованные данные могут потребоваться расшифровать в их исходную форму. Инструмент дешифрования TripleDES может легко выполнить конвертацию данных."
+  },
+  "pt": {
+    "$name": "Descriptografia TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "decryption",
+      "decrypt",
+      "simétrica",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "Criptografia Simétrica"
+    ],
+    "$description": "Ferramenta de Descriptografia TripleDES é uma ferramenta usada para descriptografar dados criptografados com TripleDES. Ela pode descriptografar dados criptografados com TripleDES e convertê-los de volta para sua forma original.\n\nRecursos:\n\n1. Suporta descriptografia de dados criptografados com TripleDES.\n\n2. Suporta seleção de modo de criptografia e método de preenchimento.\n\n3. Suporta leitura de dados de arquivos e salvamento de dados descriptografados em arquivos.\n\n4. Suporta opção de salvamento automático para carregamento rápido de configurações anteriores.\n\nCasos de uso:\n\n1. Descriptografia de dados: Durante a transmissão de dados, dados sensíveis podem precisar ser criptografados para proteção. Após criptografar dados com o algoritmo de criptografia TripleDES, a Ferramenta de Descriptografia TripleDES pode ser usada para descriptografá-los de volta para sua forma original.\n\n2. Recuperação de dados: Durante o backup ou migração de dados, dados criptografados podem precisar ser recuperados para sua forma original. A Ferramenta de Descriptografia TripleDES pode facilmente descriptografar os dados.\n\n3. Análise de dados: Durante a análise de dados, dados criptografados podem precisar ser descriptografados para melhor compreensão da estrutura e conteúdo dos dados. A Ferramenta de Descriptografia TripleDES pode facilmente descriptografar os dados.\n\n4. Conversão de dados: Durante a conversão de dados, dados criptografados podem precisar ser descriptografados para sua forma original. A Ferramenta de Descriptografia TripleDES pode facilmente completar a conversão de dados."
+  },
+  "en": {
+    "$name": "TripleDES Decryption",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "decryption",
+      "decrypt",
+      "symmetric",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "Symmetric Encryption"
+    ],
+    "$description": "TripleDES Decryption Tool is a tool used to decrypt TripleDES encrypted data. It can decrypt data encrypted with TripleDES and convert it back to its original form.\n\nFeatures:\n\n1. Supports decryption of TripleDES encrypted data.\n\n2. Supports selection of encryption mode and padding method.\n\n3. Supports reading data from files and saving decrypted data to files.\n\n4. Supports automatic save option for quick loading of previous settings.\n\nUse cases:\n\n1. Data decryption: During data transmission, sensitive data may need to be encrypted for protection. After encrypting data with TripleDES encryption algorithm, TripleDES Decryption Tool can be used to decrypt it back to its original form.\n\n2. Data recovery: During data backup or migration, encrypted data may need to be recovered to its original form. TripleDES Decryption Tool can easily decrypt the data.\n\n3. Data analysis: During data analysis, encrypted data may need to be decrypted for better understanding of data structure and content. TripleDES Decryption Tool can easily decrypt the data.\n\n4. Data conversion: During data conversion, encrypted data may need to be decrypted to its original form. TripleDES Decryption Tool can easily complete the data conversion."
+  }
+}

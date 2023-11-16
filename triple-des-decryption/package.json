@@ -1,0 +1,54 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "userId": "3e696ac5-0721-4558-8c21-5b501c27115e",
+    "name": "TripleDES Decryption",
+    "id": "tripledes-decryption",
+    "isPublic": true,
+    "relatedToolId": [
+      "tripledes-encryption"
+    ],
+    "version": "1.0.4",
+    "description": "TripleDES Decryption Tool is a tool used to decrypt TripleDES encrypted data. It can decrypt data encrypted with TripleDES and convert it back to its original form.\n\nFeatures:\n\n1. Supports decryption of TripleDES encrypted data.\n\n2. Supports selection of encryption mode and padding method.\n\n3. Supports reading data from files and saving decrypted data to files.\n\n4. Supports automatic save option for quick loading of previous settings.\n\nUse cases:\n\n1. Data decryption: During data transmission, sensitive data may need to be encrypted for protection. After encrypting data with TripleDES encryption algorithm, TripleDES Decryption Tool can be used to decrypt it back to its original form.\n\n2. Data recovery: During data backup or migration, encrypted data may need to be recovered to its original form. TripleDES Decryption Tool can easily decrypt the data.\n\n3. Data analysis: During data analysis, encrypted data may need to be decrypted for better understanding of data structure and content. TripleDES Decryption Tool can easily decrypt the data.\n\n4. Data conversion: During data conversion, encrypted data may need to be decrypted to its original form. TripleDES Decryption Tool can easily complete the data conversion.",
+    "repository": "",
+    "icon": "unlock-outlined",
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "decryption",
+      "decrypt",
+      "symmetric",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "Symmetric Encryption"
+    ]
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "unescape-js": "^1.1.4",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

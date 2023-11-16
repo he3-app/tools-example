@@ -1,0 +1,149 @@
+{
+  "zh-cn": {
+    "$name": "TripleDES 加密",
+    "$keywords": [
+      "TripleDES",
+      "3DES",
+      "DES3",
+      "加密",
+      "加密",
+      "对称",
+      "CBC",
+      "ECB",
+      "CFB",
+      "CTR",
+      "OFB",
+      "PKCS7",
+      "ISO10126",
+      "ANSIX923",
+      "TripleDES 加密",
+      "数据恢复",
+      "数据分析",
+      "对称加密",
+      "CBC 模式",
+      "ECB 模式",
+      "CFB 模式",
+      "CTR 模式",
+      "OFB 模式",
+      "PKCS7 填充",
+      "ISO10126 填充",
+      "ANSIX923 填充"
+    ],
+    "$description": "TripleDES加密工具是一种用于加密TripleDES加密数据的工具。"
+  },
+  
+  "zh-tw": {
+    "$name": "三重DES加密",
+    "$keywords": [
+      "三重DES",
+      "加密",
+      "加密"
+    ],
+    "$description": "三重DES加密工具。"
+  },
+  "de": {
+    "$name": "TripleDES-Verschlüsselung",
+    "$keywords": [
+      "TripleDES",
+      "Verschlüsselung",
+      "Verschlüsseln"
+    ],
+    "$description": "TripleDES-Verschlüsselungstool."
+  },
+  "es": {
+    "$name": "Cifrado TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "cifrado",
+      "cifrar"
+    ],
+    "$description": "Herramienta de cifrado TripleDES."
+  },
+  "fr": {
+    "$name": "Cryptage TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "cryptage",
+      "crypter"
+    ],
+    "$description": "Outil de cryptage TripleDES."
+  },
+  "it": {
+    "$name": "Crittografia TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "crittografia",
+      "crittografare"
+    ],
+    "$description": "Strumento di crittografia TripleDES."
+  },
+  "ja": {
+    "$name": "TripleDES暗号化",
+    "$keywords": [
+      "TripleDES",
+      "暗号化",
+      "暗号化する"
+    ],
+    "$description": "TripleDES暗号化ツール。"
+  },
+  "ko": {
+    "$name": "TripleDES 암호화",
+    "$keywords": [
+      "TripleDES",
+      "암호화",
+      "암호화하다"
+    ],
+    "$description": "TripleDES 암호화 도구."
+  },
+  "pt": {
+    "$name": "Criptografia TripleDES",
+    "$keywords": [
+      "TripleDES",
+      "criptografia",
+      "criptografar"
+    ],
+    "$description": "Ferramenta de criptografia TripleDES."
+  },
+  "ru": {
+    "$name": "TripleDES шифрование",
+    "$keywords": [
+      "TripleDES",
+      "шифрование",
+      "шифровать"
+    ],
+    "$description": "Инструмент шифрования TripleDES."
+  },
+  "en": {
+    "$name": "TripleDES Encryption",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "encryption",
+      "encrypt",
+      "symmetric",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "TripleDES encryption",
+      "data decryption",
+      "data recovery",
+      "data analysis",
+      "symmetric encryption",
+      "CBC mode",
+      "ECB mode",
+      "CFB mode",
+      "CTR mode",
+      "OFB mode",
+      "PKCS7 padding",
+      "ISO10126 padding",
+      "ANSIX923 padding"
+    ],
+    "$description": "TripleDES Encryption Tool."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "userId": "3e696ac5-0721-4558-8c21-5b501c27115e",
+    "name": "TripleDES Encryption",
+    "id": "tripledes-encryption",
+    "isPublic": true,
+    "relatedToolId": [
+      "tripledes-decryption"
+    ],
+    "version": "1.0.5",
+    "description": "TripleDES Encryption Tool",
+    "repository": "",
+    "icon": "unlock-outlined",
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "encryption",
+      "encrypt",
+      "symmetric",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923",
+      "TripleDES decryption",
+      "data decryption",
+      "data recovery",
+      "data analysis",
+      "symmetric encryption",
+      "CBC mode",
+      "ECB mode",
+      "CFB mode",
+      "CTR mode",
+      "OFB mode",
+      "PKCS7 padding",
+      "ISO10126 padding",
+      "ANSIX923 padding"
+    ]
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}
