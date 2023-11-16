@@ -1,0 +1,123 @@
+{
+  "zh-cn": {
+    "$name": "RC4解密",
+    "$keywords": [
+      "RC4",
+      "解密",
+      "解密",
+      "对称",
+      "对称加密"
+    ],
+    "$description": "RC4解密工具是一种用于解密RC4加密数据的工具。它可以解密输入的密文并输出明文。\n\n特点：\n\n1. 支持解密密文输入。\n\n2. 支持使用输入密钥进行解密。\n\n3. 支持选择是否使用RC4 Drop算法进行解密。\n\n4. 支持输入RC4 Drop算法的dropWords参数。\n\n5. 支持文件输入和输出。\n\n用例：\n\n1. 数据解密：当需要解密RC4加密数据时，可以使用此工具进行解密。\n\n2. 数据恢复：在数据丢失或损坏的情况下，如果有RC4加密数据的备份，则可以使用此工具进行解密和恢复原始数据。\n\n3. 数据传输：当需要传输敏感数据时，可以使用RC4加密算法进行加密，然后使用此工具进行解密以确保数据安全。\n\n4. 数据存储：当需要存储敏感数据时，可以使用RC4加密算法进行加密，然后使用此工具进行解密以确保数据安全。"
+  },
+  "zh-tw": {
+    "$name": "RC4 解密",
+    "$keywords": [
+      "RC4",
+      "解密",
+      "解碼",
+      "對稱式",
+      "對稱式加密"
+    ],
+    "$description": "RC4解密工具是一款用於解密RC4加密數據的工具。它可以解密輸入的密文並輸出明文。\n\n特點：\n\n1. 支持解密密文輸入。\n\n2. 支持使用輸入密鑰進行解密。\n\n3. 支持選擇是否使用RC4 Drop算法進行解密。\n\n4. 支持輸入RC4 Drop算法的dropWords參數。\n\n5. 支持文件輸入和輸出。\n\n使用情況：\n\n1. 數據解密：當需要解密RC4加密數據時，可以使用此工具進行解密。\n\n2. 數據恢復：在數據丟失或損壞的情況下，如果有RC4加密數據的備份，可以使用此工具進行解密和恢復原始數據。\n\n3. 數據傳輸：當需要傳輸敏感數據時，可以使用RC4加密算法進行加密，然後使用此工具進行解密，以確保數據安全。\n\n4. 數據存儲：當需要存儲敏感數據時，可以使用RC4加密算法進行加密，然後使用此工具進行解密，以確保數據安全。"
+  },
+  "es": {
+    "$name": "Descifrado RC4",
+    "$keywords": [
+      "rc4",
+      "descifrado",
+      "descifrar",
+      "simétrico",
+      "Cifrado Simétrico"
+    ],
+    "$description": "Herramienta de descifrado RC4 es una herramienta utilizada para descifrar datos cifrados con RC4. Puede descifrar el texto cifrado de entrada y producir el texto plano de salida.\n\nCaracterísticas:\n\n1. Admite descifrar la entrada de texto cifrado.\n\n2. Admite descifrar con clave de entrada.\n\n3. Admite seleccionar si se utiliza el algoritmo RC4 Drop para el descifrado.\n\n4. Admite la entrada del parámetro dropWords del algoritmo RC4 Drop.\n\n5. Admite entrada y salida de archivos.\n\nCasos de uso:\n\n1. Descifrado de datos: Esta herramienta se puede utilizar para descifrar datos cifrados con RC4 cuando sea necesario.\n\n2. Recuperación de datos: En caso de pérdida o daño de datos, si hay una copia de seguridad de los datos cifrados con RC4, esta herramienta se puede utilizar para descifrar y recuperar los datos originales.\n\n3. Transmisión de datos: Cuando se necesite transmitir datos sensibles, se puede utilizar el algoritmo de cifrado RC4 para el cifrado, y luego esta herramienta se puede utilizar para el descifrado para garantizar la seguridad de los datos.\n\n4. Almacenamiento de datos: Cuando se necesite almacenar datos sensibles, se puede utilizar el algoritmo de cifrado RC4 para el cifrado, y luego esta herramienta se puede utilizar para el descifrado para garantizar la seguridad de los datos."
+  },
+  "ja": {
+    "$name": "RC4復号化",
+    "$keywords": [
+      "rc4",
+      "復号化",
+      "復号",
+      "対称鍵暗号",
+      "対称鍵暗号化"
+    ],
+    "$description": "RC4復号ツールは、RC4で暗号化されたデータを復号化するために使用されるツールです。入力された暗号文を復号化し、平文を出力することができます。\n\n特徴：\n\n1. 暗号文の入力に対応しています。\n\n2. 入力された鍵で復号化することができます。\n\n3. 復号化にRC4ドロップアルゴリズムを使用するかどうかを選択することができます。\n\n4. RC4ドロップアルゴリズムのdropWordsパラメータを入力することができます。\n\n5. ファイルの入出力に対応しています。\n\n使用例：\n\n1. データの復号化：必要に応じて、このツールを使用してRC4で暗号化されたデータを復号化することができます。\n\n2. データの回復：データの損失や損傷の場合、RC4で暗号化されたデータのバックアップがある場合、このツールを使用して元のデータを復号化して回復することができます。\n\n3. データの送信：機密データを送信する必要がある場合、RC4暗号化アルゴリズムを使用して暗号化し、このツールを使用して復号化してデータのセキュリティを確保することができます。\n\n4. データの保存：機密データを保存する必要がある場合、RC4暗号化アルゴリズムを使用して暗号化し、このツールを使用して復号化してデータのセキュリティを確保することができます。"
+  },
+  "ko": {
+    "$name": "RC4 복호화",
+    "$keywords": [
+      "rc4",
+      "복호화",
+      "복호화",
+      "대칭",
+      "대칭 암호화"
+    ],
+    "$description": "RC4 복호화 도구는 RC4로 암호화된 데이터를 복호화하는 데 사용되는 도구입니다. 입력 암호문을 복호화하고 평문을 출력할 수 있습니다.\n\n기능:\n\n1. 암호문 입력 복호화 지원\n\n2. 입력 키로 복호화 지원\n\n3. RC4 Drop 알고리즘을 사용할지 여부 선택 지원\n\n4. RC4 Drop 알고리즘의 dropWords 매개변수 입력 지원\n\n5. 파일 입력 및 출력 지원\n\n사용 사례:\n\n1. 데이터 복호화: 필요할 때 RC4로 암호화된 데이터를 복호화하는 데 이 도구를 사용할 수 있습니다.\n\n2. 데이터 복구: 데이터 손실 또는 손상이 발생한 경우, RC4로 암호화된 데이터의 백업이 있다면 이 도구를 사용하여 원래 데이터를 복호화하고 복구할 수 있습니다.\n\n3. 데이터 전송: 민감한 데이터를 전송해야 할 때, RC4 암호화 알고리즘을 사용하여 암호화한 후 이 도구를 사용하여 복호화하여 데이터 보안을 보장할 수 있습니다.\n\n4. 데이터 저장: 민감한 데이터를 저장해야 할 때, RC4 암호화 알고리즘을 사용하여 암호화한 후 이 도구를 사용하여 복호화하여 데이터 보안을 보장할 수 있습니다."
+  },
+  "de": {
+    "$name": "RC4 Entschlüsselung",
+    "$keywords": [
+      "RC4",
+      "Entschlüsselung",
+      "entschlüsseln",
+      "symmetrisch",
+      "symmetrische Verschlüsselung"
+    ],
+    "$description": "RC4 Decryption Tool ist ein Werkzeug, das zur Entschlüsselung von RC4-verschlüsselten Daten verwendet wird. Es kann den Eingabe-Ciphertext entschlüsseln und den Klartext ausgeben.\n\nFunktionen:\n\n1. Unterstützt die Entschlüsselung von Ciphertext-Eingabe.\n\n2. Unterstützt die Entschlüsselung mit Eingabe-Schlüssel.\n\n3. Unterstützt die Auswahl, ob der RC4-Drop-Algorithmus zur Entschlüsselung verwendet werden soll.\n\n4. Unterstützt die Eingabe des dropWords-Parameters des RC4-Drop-Algorithmus.\n\n5. Unterstützt die Eingabe und Ausgabe von Dateien.\n\nAnwendungsfälle:\n\n1. Datenentschlüsselung: Dieses Werkzeug kann zur Entschlüsselung von RC4-verschlüsselten Daten verwendet werden, wenn dies erforderlich ist.\n\n2. Datenwiederherstellung: Im Falle von Datenverlust oder -beschädigung, wenn es eine Sicherungskopie von RC4-verschlüsselten Daten gibt, kann dieses Werkzeug zur Entschlüsselung und Wiederherstellung der ursprünglichen Daten verwendet werden.\n\n3. Datentransmission: Wenn sensible Daten übertragen werden müssen, kann der RC4-Verschlüsselungsalgorithmus zur Verschlüsselung verwendet werden, und dann kann dieses Werkzeug zur Entschlüsselung verwendet werden, um die Datensicherheit zu gewährleisten.\n\n4. Datenspeicherung: Wenn sensible Daten gespeichert werden müssen, kann der RC4-Verschlüsselungsalgorithmus zur Verschlüsselung verwendet werden, und dann kann dieses Werkzeug zur Entschlüsselung verwendet werden, um die Datensicherheit zu gewährleisten."
+  },
+  "fr": {
+    "$name": "Déchiffrement RC4",
+    "$keywords": [
+      "rc4",
+      "décryptage",
+      "décrypter",
+      "symétrique",
+      "chiffrement symétrique"
+    ],
+    "$description": "Outil de décryptage RC4 est un outil utilisé pour décrypter des données chiffrées en RC4. Il peut décrypter le texte chiffré en entrée et produire le texte en clair en sortie.\n\nFonctionnalités :\n\n1. Prise en charge du décryptage de texte chiffré en entrée.\n\n2. Prise en charge du décryptage avec une clé d'entrée.\n\n3. Prise en charge de la sélection de l'utilisation de l'algorithme RC4 Drop pour le décryptage.\n\n4. Prise en charge de la saisie du paramètre dropWords de l'algorithme RC4 Drop.\n\n5. Prise en charge de l'entrée et de la sortie de fichiers.\n\nCas d'utilisation :\n\n1. Décryptage de données : Cet outil peut être utilisé pour décrypter des données chiffrées en RC4 lorsque cela est nécessaire.\n\n2. Récupération de données : En cas de perte ou de dommage de données, s'il existe une sauvegarde de données chiffrées en RC4, cet outil peut être utilisé pour décrypter et récupérer les données d'origine.\n\n3. Transmission de données : Lorsque des données sensibles doivent être transmises, l'algorithme de chiffrement RC4 peut être utilisé pour le chiffrement, puis cet outil peut être utilisé pour le décryptage afin d'assurer la sécurité des données.\n\n4. Stockage de données : Lorsque des données sensibles doivent être stockées, l'algorithme de chiffrement RC4 peut être utilisé pour le chiffrement, puis cet outil peut être utilisé pour le décryptage afin d'assurer la sécurité des données."
+  },
+  "it": {
+    "$name": "Decrittografia RC4",
+    "$keywords": [
+      "rc4",
+      "decrittografia",
+      "decrittografare",
+      "simmetrico",
+      "crittografia simmetrica"
+    ],
+    "$description": "Lo strumento di decrittografia RC4 è uno strumento utilizzato per decrittografare dati crittografati con RC4. Può decrittografare il testo cifrato in input e produrre il testo in chiaro in output.\n\nCaratteristiche:\n\n1. Supporta la decrittografia del testo cifrato in input.\n\n2. Supporta la decrittografia con la chiave in input.\n\n3. Supporta la selezione dell'algoritmo RC4 Drop per la decrittografia.\n\n4. Supporta l'immissione del parametro dropWords dell'algoritmo RC4 Drop.\n\n5. Supporta l'input e l'output di file.\n\nCasi d'uso:\n\n1. Decrittografia dei dati: questo strumento può essere utilizzato per decrittografare dati crittografati con RC4 quando necessario.\n\n2. Recupero dei dati: in caso di perdita o danneggiamento dei dati, se esiste un backup dei dati crittografati con RC4, questo strumento può essere utilizzato per decrittografare e recuperare i dati originali.\n\n3. Trasmissione dei dati: quando è necessario trasmettere dati sensibili, l'algoritmo di crittografia RC4 può essere utilizzato per la crittografia, e quindi questo strumento può essere utilizzato per la decrittografia per garantire la sicurezza dei dati.\n\n4. Archiviazione dei dati: quando è necessario archiviare dati sensibili, l'algoritmo di crittografia RC4 può essere utilizzato per la crittografia, e quindi questo strumento può essere utilizzato per la decrittografia per garantire la sicurezza dei dati."
+  },
+  "ru": {
+    "$name": "Расшифровка RC4",
+    "$keywords": [
+      "rc4",
+      "дешифрование",
+      "расшифровка",
+      "симметричное",
+      "Симметричное шифрование"
+    ],
+    "$description": "Инструмент RC4 Decryption Tool используется для расшифровки данных, зашифрованных алгоритмом RC4. Он может расшифровать входной шифротекст и вывести открытый текст.\n\nОсобенности:\n\n1. Поддерживает расшифровку входного шифротекста.\n\n2. Поддерживает расшифровку с помощью входного ключа.\n\n3. Поддерживает выбор использования алгоритма RC4 Drop для расшифровки.\n\n4. Поддерживает ввод параметра dropWords алгоритма RC4 Drop.\n\n5. Поддерживает ввод и вывод файлов.\n\nПрименение:\n\n1. Расшифровка данных: Этот инструмент может использоваться для расшифровки данных, зашифрованных алгоритмом RC4, когда это необходимо.\n\n2. Восстановление данных: В случае потери или повреждения данных, если есть резервная копия зашифрованных данных RC4, этот инструмент может использоваться для расшифровки и восстановления исходных данных.\n\n3. Передача данных: Когда необходимо передавать конфиденциальные данные, можно использовать алгоритм шифрования RC4, а затем этот инструмент для расшифровки, чтобы обеспечить безопасность данных.\n\n4. Хранение данных: Когда необходимо хранить конфиденциальные данные, можно использовать алгоритм шифрования RC4, а затем этот инструмент для расшифровки, чтобы обеспечить безопасность данных."
+  },
+  "pt": {
+    "$name": "Descriptografia RC4",
+    "$keywords": [
+      "rc4",
+      "decryption",
+      "descriptografar",
+      "simétrico",
+      "criptografia simétrica"
+    ],
+    "$description": "A ferramenta RC4 Decryption Tool é usada para descriptografar dados criptografados com RC4. Ela pode descriptografar o texto cifrado de entrada e produzir o texto simples de saída.\n\nRecursos:\n\n1. Suporta descriptografar texto cifrado de entrada.\n\n2. Suporta descriptografar com chave de entrada.\n\n3. Suporta selecionar se deseja usar o algoritmo RC4 Drop para descriptografia.\n\n4. Suporta entrada do parâmetro dropWords do algoritmo RC4 Drop.\n\n5. Suporta entrada e saída de arquivos.\n\nCasos de uso:\n\n1. Descriptografia de dados: Esta ferramenta pode ser usada para descriptografar dados criptografados com RC4 quando necessário.\n\n2. Recuperação de dados: Em caso de perda ou dano de dados, se houver um backup de dados criptografados com RC4, esta ferramenta pode ser usada para descriptografar e recuperar os dados originais.\n\n3. Transmissão de dados: Quando dados sensíveis precisam ser transmitidos, o algoritmo de criptografia RC4 pode ser usado para criptografar e, em seguida, esta ferramenta pode ser usada para descriptografar e garantir a segurança dos dados.\n\n4. Armazenamento de dados: Quando dados sensíveis precisam ser armazenados, o algoritmo de criptografia RC4 pode ser usado para criptografar e, em seguida, esta ferramenta pode ser usada para descriptografar e garantir a segurança dos dados."
+  },
+  "en": {
+    "$name": "RC4 Decryption",
+    "$keywords": [
+      "rc4",
+      "decryption",
+      "decrypt",
+      "symmetric",
+      "Symmetric Encryption"
+    ],
+    "$description": "RC4 Decryption Tool is a tool used to decrypt RC4 encrypted data. It can decrypt the input ciphertext and output plaintext.\n\nFeatures:\n\n1. Supports decrypting ciphertext input.\n\n2. Supports decrypting with input key.\n\n3. Supports selecting whether to use the RC4 Drop algorithm for decryption.\n\n4. Supports inputting the dropWords parameter of the RC4 Drop algorithm.\n\n5. Supports file input and output.\n\nUse cases:\n\n1. Data decryption: This tool can be used to decrypt RC4 encrypted data when needed.\n\n2. Data recovery: In case of data loss or damage, if there is a backup of RC4 encrypted data, this tool can be used to decrypt and recover the original data.\n\n3. Data transmission: When sensitive data needs to be transmitted, RC4 encryption algorithm can be used for encryption, and then this tool can be used for decryption to ensure data security.\n\n4. Data storage: When sensitive data needs to be stored, RC4 encryption algorithm can be used for encryption, and then this tool can be used for decryption to ensure data security."
+  }
+}

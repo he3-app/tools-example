@@ -1,0 +1,181 @@
+{
+  "zh-cn": {
+    "$name": "从RSA私钥中提取公钥",
+    "$keywords": [
+      "RSA",
+      "公钥",
+      "私钥",
+      "提取",
+      "openssl",
+      "公钥",
+      "私钥",
+      "加密算法",
+      "PEM格式",
+      "密码保护"
+    ],
+    "$description": "工具名称：从RSA私钥中提取公钥\n\n工具功能：从RSA私钥中提取公钥\n\n使用场景：在使用RSA加密算法时，有时需要将私钥转换为公钥。这个工具可以轻松地将RSA私钥转换为公钥，用于加密和解密过程。\n\n使用说明：\n\n1. 将RSA私钥复制粘贴或输入到工具中。\n\n2. 输入私钥的密码（如果有）。\n\n3. 点击“提取公钥”按钮。\n\n4. 工具将自动提取RSA公钥并在输出区域显示。\n\n注意事项：\n\n1. 私钥必须采用PEM格式。\n\n2. 如果私钥受密码保护，则必须输入密码才能提取公钥。\n\n3. 提取公钥的过程可能需要一些时间，具体取决于私钥的长度和计算机性能。\n\n4. 提取公钥的过程在本地完成，不会将私钥上传到服务器。\n\n5. 该工具仅支持RSA加密算法，不支持其他加密算法。\n\n6. 该工具仅提取公钥，不以任何方式修改或操作私钥。\n\n7. 使用此工具时，请确保私钥的安全性并避免任何潜在泄漏。"
+  },
+  "zh-tw": {
+    "$name": "從RSA私鑰中提取公鑰",
+    "$keywords": [
+      "RSA",
+      "公鑰",
+      "私鑰",
+      "提取",
+      "OpenSSL",
+      "公鑰",
+      "私鑰",
+      "加密演算法",
+      "PEM 格式",
+      "密碼保護"
+    ],
+    "$description": "工具名稱：從RSA私鑰中提取公鑰\n\n工具功能：從RSA私鑰中提取公鑰\n\n使用情境：在使用RSA加密演算法時，有時需要將私鑰轉換為公鑰。這個工具可以輕鬆地將RSA私鑰轉換為公鑰，以用於加密和解密過程。\n\n使用說明：\n\n1. 將RSA私鑰複製並貼上或輸入到工具中。\n\n2. 輸入私鑰的密碼（如果有）。\n\n3. 點擊「提取公鑰」按鈕。\n\n4. 工具將自動提取RSA公鑰並在輸出區域顯示。\n\n注意事項：\n\n1. 私鑰必須是PEM格式。\n\n2. 如果私鑰受密碼保護，必須輸入密碼才能提取公鑰。\n\n3. 提取公鑰的過程可能需要一些時間，取決於私鑰的長度和計算機的性能。\n\n4. 提取公鑰的過程在本地完成，不會將私鑰上傳到服務器。\n\n5. 這個工具僅支援RSA加密演算法，不支援其他加密演算法。\n\n6. 這個工具僅提取公鑰，不會修改或操作私鑰。\n\n7. 在使用這個工具時，請確保私鑰的安全，避免任何潛在的洩漏。"
+  },
+  "es": {
+    "$name": "Extraer clave pública de clave privada RSA",
+    "$keywords": [
+      "rsa",
+      "pública",
+      "privada",
+      "clave",
+      "extraer",
+      "openssl",
+      "clave pública",
+      "clave privada",
+      "algoritmo de cifrado",
+      "formato PEM",
+      "protección de contraseña"
+    ],
+    "$description": "Nombre de la herramienta: Extraer clave pública de una clave privada RSA\n\nFunción de la herramienta: Extrae la clave pública de una clave privada RSA\n\nCasos de uso: Cuando se utiliza el algoritmo de cifrado RSA, a veces es necesario convertir una clave privada en una clave pública. Esta herramienta puede convertir fácilmente una clave privada RSA en una clave pública para su uso en el proceso de cifrado y descifrado.\n\nInstrucciones:\n\n1. Copie y pegue o ingrese la clave privada RSA en la herramienta.\n\n2. Ingrese la contraseña de la clave privada (si la hay).\n\n3. Haga clic en el botón \"Extraer clave pública\".\n\n4. La herramienta extraerá automáticamente la clave pública RSA y la mostrará en el área de salida.\n\nNotas:\n\n1. La clave privada debe estar en formato PEM.\n\n2. Si la clave privada está protegida con contraseña, se debe ingresar la contraseña para extraer la clave pública.\n\n3. El proceso de extracción de la clave pública puede llevar algún tiempo, dependiendo de la longitud de la clave privada y del rendimiento del ordenador.\n\n4. El proceso de extracción de la clave pública se realiza localmente y no cargará la clave privada en un servidor.\n\n5. La herramienta solo admite el algoritmo de cifrado RSA y no admite otros algoritmos de cifrado.\n\n6. La herramienta solo extrae la clave pública y no modifica ni opera sobre la clave privada de ninguna manera.\n\n7. Al utilizar esta herramienta, asegúrese de la seguridad de la clave privada y evite posibles fugas."
+  },
+  "ja": {
+    "$name": "RSAプライベートキーから公開鍵を抽出する",
+    "$keywords": [
+      "RSA",
+      "公開鍵",
+      "秘密鍵",
+      "鍵",
+      "抽出",
+      "OpenSSL",
+      "公開鍵",
+      "秘密鍵",
+      "暗号化アルゴリズム",
+      "PEM形式",
+      "パスワード保護"
+    ],
+    "$description": "ツール名：RSAプライベートキーから公開鍵を抽出する\n\nツールの機能：RSAプライベートキーから公開鍵を抽出します。\n\n使用例：RSA暗号アルゴリズムを使用する場合、プライベートキーを公開鍵に変換する必要がある場合があります。このツールは、RSAプライベートキーを簡単に公開鍵に変換し、暗号化および復号化プロセスで使用することができます。\n\n手順：\n\n1. RSAプライベートキーをツールにコピー＆ペーストまたは入力します。\n\n2. プライベートキーのパスワードを入力します（ある場合）。\n\n3. 「公開鍵を抽出」ボタンをクリックします。\n\n4. ツールは自動的にRSA公開鍵を抽出し、出力エリアに表示します。\n\n注意事項：\n\n1. プライベートキーはPEM形式である必要があります。\n\n2. プライベートキーがパスワードで保護されている場合、公開鍵を抽出するためにパスワードを入力する必要があります。\n\n3. 公開鍵を抽出するプロセスは、プライベートキーの長さとコンピュータのパフォーマンスに応じて、時間がかかる場合があります。\n\n4. 公開鍵を抽出するプロセスはローカルで行われ、プライベートキーはサーバーにアップロードされません。\n\n5. このツールはRSA暗号アルゴリズムのみをサポートし、他の暗号アルゴリズムには対応していません。\n\n6. このツールは公開鍵のみを抽出し、プライベートキーを修正または操作しません。\n\n7. このツールを使用する際には、プライベートキーのセキュリティを確保し、潜在的な漏洩を避けてください。"
+  },
+  "ko": {
+    "$name": "RSA 개인 키에서 공개 키 추출",
+    "$keywords": [
+      "RSA",
+      "공개",
+      "개인",
+      "키",
+      "추출",
+      "openssl",
+      "공개 키",
+      "개인 키",
+      "암호화 알고리즘",
+      "PEM 형식",
+      "암호 보호"
+    ],
+    "$description": "도구 이름: RSA 개인 키에서 공개 키 추출\n\n도구 기능: RSA 개인 키에서 공개 키를 추출합니다.\n\n사용 사례: RSA 암호화 알고리즘을 사용할 때, 때로는 개인 키를 공개 키로 변환해야 할 필요가 있습니다. 이 도구는 RSA 개인 키를 쉽게 공개 키로 변환하여 암호화 및 복호화 과정에서 사용할 수 있습니다.\n\n사용 방법:\n\n1. RSA 개인 키를 도구에 복사하여 붙여넣거나 입력합니다.\n\n2. 개인 키의 비밀번호를 입력합니다(있는 경우).\n\n3. \"공개 키 추출\" 버튼을 클릭합니다.\n\n4. 도구는 자동으로 RSA 공개 키를 추출하고 출력 영역에 표시합니다.\n\n참고 사항:\n\n1. 개인 키는 PEM 형식이어야 합니다.\n\n2. 개인 키가 비밀번호로 보호되어 있는 경우, 공개 키를 추출하려면 비밀번호를 입력해야 합니다.\n\n3. 공개 키 추출 과정은 개인 키의 길이와 컴퓨터 성능에 따라 시간이 걸릴 수 있습니다.\n\n4. 공개 키 추출 과정은 로컬에서 수행되며, 개인 키를 서버에 업로드하지 않습니다.\n\n5. 이 도구는 RSA 암호화 알고리즘만 지원하며, 다른 암호화 알고리즘은 지원하지 않습니다.\n\n6. 이 도구는 공개 키만 추출하며, 개인 키를 수정하거나 조작하지 않습니다.\n\n7. 이 도구를 사용할 때, 개인 키의 보안을 보장하고 잠재적인 유출을 피하도록 주의해야 합니다."
+  },
+  "de": {
+    "$name": "Extrahieren Sie den öffentlichen Schlüssel aus dem RSA-Privatschlüssel",
+    "$keywords": [
+      "RSA",
+      "öffentlicher",
+      "privater",
+      "Schlüssel",
+      "extrahieren",
+      "OpenSSL",
+      "öffentlicher Schlüssel",
+      "privater Schlüssel",
+      "Verschlüsselungsalgorithmus",
+      "PEM-Format",
+      "Passwortschutz"
+    ],
+    "$description": "Werkzeugname: Öffentlichen Schlüssel aus RSA-Privatschlüssel extrahieren\n\nFunktionsweise des Werkzeugs: Extrahiert den öffentlichen Schlüssel aus einem RSA-Privatschlüssel.\n\nAnwendungsfall: Bei Verwendung des RSA-Verschlüsselungsalgorithmus ist es manchmal notwendig, einen privaten Schlüssel in einen öffentlichen Schlüssel umzuwandeln. Mit diesem Werkzeug kann ein RSA-Privatschlüssel einfach in einen öffentlichen Schlüssel umgewandelt werden, um ihn im Verschlüsselungs- und Entschlüsselungsprozess zu verwenden.\n\nAnleitung:\n\n1. Kopieren Sie den RSA-Privatschlüssel in das Werkzeug oder geben Sie ihn ein.\n\n2. Geben Sie das Passwort für den privaten Schlüssel ein (falls vorhanden).\n\n3. Klicken Sie auf die Schaltfläche \"Öffentlichen Schlüssel extrahieren\".\n\n4. Das Werkzeug extrahiert automatisch den RSA-Öffentlichen Schlüssel und zeigt ihn im Ausgabe-Bereich an.\n\nHinweise:\n\n1. Der private Schlüssel muss im PEM-Format vorliegen.\n\n2. Wenn der private Schlüssel passwortgeschützt ist, muss das Passwort eingegeben werden, um den öffentlichen Schlüssel zu extrahieren.\n\n3. Der Vorgang des Extrahierens des öffentlichen Schlüssels kann je nach Länge des privaten Schlüssels und der Leistung des Computers einige Zeit in Anspruch nehmen.\n\n4. Der Vorgang des Extrahierens des öffentlichen Schlüssels erfolgt lokal und lädt den privaten Schlüssel nicht auf einen Server hoch.\n\n5. Das Werkzeug unterstützt nur den RSA-Verschlüsselungsalgorithmus und unterstützt keine anderen Verschlüsselungsalgorithmen.\n\n6. Das Werkzeug extrahiert nur den öffentlichen Schlüssel und modifiziert oder bearbeitet den privaten Schlüssel in keiner Weise.\n\n7. Bei Verwendung dieses Werkzeugs stellen Sie bitte sicher, dass die Sicherheit des privaten Schlüssels gewährleistet ist und vermeiden Sie mögliche Lecks."
+  },
+  "fr": {
+    "$name": "Extraire la clé publique à partir de la clé privée RSA",
+    "$keywords": [
+      "rsa",
+      "clé publique",
+      "clé privée",
+      "extraire",
+      "openssl",
+      "algorithme de chiffrement",
+      "format PEM",
+      "protection par mot de passe"
+    ],
+    "$description": "Nom de l'outil : Extraire la clé publique à partir de la clé privée RSA\n\nFonction de l'outil : Extrait la clé publique à partir d'une clé privée RSA\n\nCas d'utilisation : Lors de l'utilisation de l'algorithme de chiffrement RSA, il est parfois nécessaire de convertir une clé privée en clé publique. Cet outil peut facilement convertir une clé privée RSA en clé publique pour une utilisation dans le processus de chiffrement et de déchiffrement.\n\nInstructions :\n\n1. Copiez et collez ou entrez la clé privée RSA dans l'outil.\n\n2. Entrez le mot de passe de la clé privée (si applicable).\n\n3. Cliquez sur le bouton \"Extraire la clé publique\".\n\n4. L'outil extraira automatiquement la clé publique RSA et l'affichera dans la zone de sortie.\n\nNotes :\n\n1. La clé privée doit être au format PEM.\n\n2. Si la clé privée est protégée par mot de passe, le mot de passe doit être entré pour extraire la clé publique.\n\n3. Le processus d'extraction de la clé publique peut prendre du temps, en fonction de la longueur de la clé privée et des performances de l'ordinateur.\n\n4. Le processus d'extraction de la clé publique est effectué localement et n'envoie pas la clé privée à un serveur.\n\n5. L'outil ne prend en charge que l'algorithme de chiffrement RSA et ne prend pas en charge d'autres algorithmes de chiffrement.\n\n6. L'outil ne fait que extraire la clé publique et ne modifie ni n'opère sur la clé privée de quelque manière que ce soit.\n\n7. Lors de l'utilisation de cet outil, veuillez assurer la sécurité de la clé privée et éviter toute fuite potentielle."
+  },
+  "it": {
+    "$name": "Estrai Chiave Pubblica da Chiave Privata RSA",
+    "$keywords": [
+      "rsa",
+      "chiave pubblica",
+      "chiave privata",
+      "estrazione",
+      "openssl",
+      "algoritmo di crittografia",
+      "formato PEM",
+      "protezione password"
+    ],
+    "$description": "Nome dello strumento: Estrarre la chiave pubblica dalla chiave privata RSA\n\nFunzione dello strumento: Estrae la chiave pubblica da una chiave privata RSA\n\nCaso d'uso: Quando si utilizza l'algoritmo di crittografia RSA, talvolta è necessario convertire una chiave privata in una chiave pubblica. Questo strumento può facilmente convertire una chiave privata RSA in una chiave pubblica per l'uso nel processo di crittografia e decrittografia.\n\nIstruzioni:\n\n1. Copiare e incollare o inserire la chiave privata RSA nello strumento.\n\n2. Inserire la password per la chiave privata (se presente).\n\n3. Fare clic sul pulsante \"Estrai chiave pubblica\".\n\n4. Lo strumento estrarrà automaticamente la chiave pubblica RSA e la visualizzerà nell'area di output.\n\nNote:\n\n1. La chiave privata deve essere in formato PEM.\n\n2. Se la chiave privata è protetta da password, la password deve essere inserita per estrarre la chiave pubblica.\n\n3. Il processo di estrazione della chiave pubblica potrebbe richiedere del tempo, a seconda della lunghezza della chiave privata e delle prestazioni del computer.\n\n4. Il processo di estrazione della chiave pubblica viene eseguito localmente e non carica la chiave privata su un server.\n\n5. Lo strumento supporta solo l'algoritmo di crittografia RSA e non supporta altri algoritmi di crittografia.\n\n6. Lo strumento estrae solo la chiave pubblica e non modifica o opera sulla chiave privata in alcun modo.\n\n7. Quando si utilizza questo strumento, assicurarsi della sicurezza della chiave privata e evitare eventuali perdite di dati."
+  },
+  "ru": {
+    "$name": "Извлечение открытого ключа из закрытого RSA ключа",
+    "$keywords": [
+      "rsa",
+      "публичный",
+      "частный",
+      "ключ",
+      "извлечение",
+      "openssl",
+      "публичный ключ",
+      "частный ключ",
+      "алгоритм шифрования",
+      "PEM формат",
+      "защита паролем"
+    ],
+    "$description": "Название инструмента: Извлечение открытого ключа из закрытого ключа RSA\n\nФункция инструмента: Извлекает открытый ключ из закрытого ключа RSA\n\nПрименение: При использовании алгоритма шифрования RSA иногда необходимо преобразовать закрытый ключ в открытый ключ. Этот инструмент может легко преобразовать закрытый ключ RSA в открытый ключ для использования в процессе шифрования и дешифрования.\n\nИнструкции:\n\n1. Скопируйте и вставьте или введите закрытый ключ RSA в инструмент.\n\n2. Введите пароль для закрытого ключа (если есть).\n\n3. Нажмите кнопку \"Извлечь открытый ключ\".\n\n4. Инструмент автоматически извлечет открытый ключ RSA и отобразит его в области вывода.\n\nПримечания:\n\n1. Закрытый ключ должен быть в формате PEM.\n\n2. Если закрытый ключ защищен паролем, необходимо ввести пароль для извлечения открытого ключа.\n\n3. Процесс извлечения открытого ключа может занять некоторое время в зависимости от длины закрытого ключа и производительности компьютера.\n\n4. Процесс извлечения открытого ключа выполняется локально и не загружает закрытый ключ на сервер.\n\n5. Инструмент поддерживает только алгоритм шифрования RSA и не поддерживает другие алгоритмы шифрования.\n\n6. Инструмент только извлекает открытый ключ и не изменяет или не работает с закрытым ключом никаким образом.\n\n7. При использовании этого инструмента, пожалуйста, обеспечьте безопасность закрытого ключа и избегайте возможных утечек."
+  },
+  "pt": {
+    "$name": "Extrair Chave Pública de Chave Privada RSA",
+    "$keywords": [
+      "rsa",
+      "pública",
+      "privada",
+      "chave",
+      "extrair",
+      "openssl",
+      "chave pública",
+      "chave privada",
+      "algoritmo de criptografia",
+      "formato PEM",
+      "proteção por senha"
+    ],
+    "$description": "Nome da Ferramenta: Extrair Chave Pública de uma Chave Privada RSA\n\nFunção da Ferramenta: Extrai a chave pública de uma chave privada RSA\n\nCaso de Uso: Ao utilizar o algoritmo de criptografia RSA, às vezes é necessário converter uma chave privada em uma chave pública. Esta ferramenta pode facilmente converter uma chave privada RSA em uma chave pública para uso no processo de criptografia e descriptografia.\n\nInstruções:\n\n1. Copie e cole ou insira a chave privada RSA na ferramenta.\n\n2. Insira a senha da chave privada (se houver).\n\n3. Clique no botão \"Extrair Chave Pública\".\n\n4. A ferramenta extrairá automaticamente a chave pública RSA e a exibirá na área de saída.\n\nObservações:\n\n1. A chave privada deve estar no formato PEM.\n\n2. Se a chave privada estiver protegida por senha, a senha deve ser inserida para extrair a chave pública.\n\n3. O processo de extração da chave pública pode levar algum tempo, dependendo do comprimento da chave privada e do desempenho do computador.\n\n4. O processo de extração da chave pública é feito localmente e não enviará a chave privada para um servidor.\n\n5. A ferramenta suporta apenas o algoritmo de criptografia RSA e não suporta outros algoritmos de criptografia.\n\n6. A ferramenta apenas extrai a chave pública e não modifica ou opera na chave privada de nenhuma forma.\n\n7. Ao usar esta ferramenta, certifique-se da segurança da chave privada e evite possíveis vazamentos."
+  },
+  "en": {
+    "$name": "Extract Public Key from RSA Private Key",
+    "$keywords": [
+      "rsa",
+      "public",
+      "private",
+      "key",
+      "extract",
+      "openssl",
+      "public key",
+      "private key",
+      "encryption algorithm",
+      "PEM format",
+      "password protection"
+    ],
+    "$description": "Tool Name: Extract Public Key from RSA Private Key\n\nTool Function: Extracts the public key from an RSA private key\n\nUse Case: When using the RSA encryption algorithm, sometimes it is necessary to convert a private key to a public key. This tool can easily convert an RSA private key to a public key for use in the encryption and decryption process.\n\nInstructions:\n\n1. Copy and paste or input the RSA private key into the tool.\n\n2. Enter the password for the private key (if any).\n\n3. Click the \"Extract Public Key\" button.\n\n4. The tool will automatically extract the RSA public key and display it in the output area.\n\nNotes:\n\n1. The private key must be in PEM format.\n\n2. If the private key is password-protected, the password must be entered to extract the public key.\n\n3. The process of extracting the public key may take some time, depending on the length of the private key and the computer's performance.\n\n4. The process of extracting the public key is done locally and will not upload the private key to a server.\n\n5. The tool only supports the RSA encryption algorithm and does not support other encryption algorithms.\n\n6. The tool only extracts the public key and does not modify or operate on the private key in any way.\n\n7. When using this tool, please ensure the security of the private key and avoid any potential leaks."
+  }
+}

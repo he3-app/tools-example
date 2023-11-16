@@ -1,0 +1,200 @@
+{
+  "zh-cn": {
+    "$name": "Base64 图像/文件编码",
+    "$description": "Base64 图像/文件编码是一种将二进制数据转换为易于通过互联网传输的文本格式的工具。这种编码方法通常用于将图像或其他文件嵌入到 HTML 或 CSS 代码中。",
+    "$keywords": [
+      "Base64",
+      "图像",
+      "文件",
+      "编码",
+      "数据",
+      "转换",
+      "二进制",
+      "ASCII",
+      "文本",
+      "传输",
+      "MIME",
+      "格式"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Base64 圖片/檔案編碼",
+    "$description": "Base64 圖片/檔案編碼是一個將二進制數據轉換為易於在互聯網上傳輸的文本格式的工具。這種編碼方法通常用於將圖像或其他文件嵌入到 HTML 或 CSS 代碼中。",
+    "$keywords": [
+      "Base64",
+      "圖片",
+      "檔案",
+      "編碼",
+      "數據",
+      "轉換",
+      "二進制",
+      "ASCII",
+      "文本",
+      "傳輸",
+      "MIME",
+      "格式"
+    ]
+  },
+  "es": {
+    "$name": "Codificación de Imagen/Archivo Base64",
+    "$description": "La Codificación de Imagen/Archivo Base64 es una herramienta que convierte datos binarios en un formato de texto que puede ser fácilmente transmitido por internet. Este método de codificación es comúnmente utilizado para incrustar imágenes u otros archivos en código HTML o CSS.",
+    "$keywords": [
+      "Base64",
+      "Imagen",
+      "Archivo",
+      "Codificación",
+      "Datos",
+      "Conversión",
+      "Binario",
+      "ASCII",
+      "Texto",
+      "Transferencia",
+      "MIME",
+      "Formato"
+    ]
+  },
+  "ja": {
+    "$name": "Base64画像/ファイルエンコーディング",
+    "$description": "Base64画像/ファイルエンコーディングは、バイナリデータをインターネット上で簡単に転送できるテキスト形式に変換するツールです。このエンコーディング方法は、HTMLやCSSコードに画像や他のファイルを埋め込むために一般的に使用されています。",
+    "$keywords": [
+      "Base64",
+      "画像",
+      "ファイル",
+      "エンコーディング",
+      "データ",
+      "変換",
+      "バイナリ",
+      "ASCII",
+      "テキスト",
+      "転送",
+      "MIME",
+      "形式"
+    ]
+  },
+  "ko": {
+    "$name": "Base64 이미지/파일 인코딩",
+    "$description": "Base64 이미지/파일 인코딩은 이진 데이터를 인터넷에서 쉽게 전송할 수 있는 텍스트 형식으로 변환하는 도구입니다. 이 인코딩 방법은 주로 HTML 또는 CSS 코드에 이미지나 다른 파일을 삽입하는 데 사용됩니다.",
+    "$keywords": [
+      "Base64",
+      "이미지",
+      "파일",
+      "인코딩",
+      "데이터",
+      "변환",
+      "이진",
+      "ASCII",
+      "텍스트",
+      "전송",
+      "MIME",
+      "형식"
+    ]
+  },
+  "de": {
+    "$name": "Base64 Bild-/Dateicodierung",
+    "$description": "Die Base64 Bild-/Dateicodierung ist ein Tool, das binäre Daten in ein Textformat umwandelt, das einfach über das Internet übertragen werden kann. Diese Codierungsmethode wird häufig verwendet, um Bilder oder andere Dateien in HTML- oder CSS-Code einzubetten.",
+    "$keywords": [
+      "Base64",
+      "Bild",
+      "Datei",
+      "Codierung",
+      "Daten",
+      "Umwandlung",
+      "Binär",
+      "ASCII",
+      "Text",
+      "Übertragung",
+      "MIME",
+      "Format"
+    ]
+  },
+  "fr": {
+    "$name": "Encodage d'image/fichier Base64",
+    "$description": "L'encodage d'image/fichier Base64 est un outil qui convertit des données binaires en un format texte pouvant être facilement transmis sur Internet. Cette méthode d'encodage est couramment utilisée pour intégrer des images ou d'autres fichiers dans du code HTML ou CSS.",
+    "$keywords": [
+      "Base64",
+      "Image",
+      "Fichier",
+      "Encodage",
+      "Données",
+      "Conversion",
+      "Binaire",
+      "ASCII",
+      "Texte",
+      "Transfert",
+      "MIME",
+      "Format"
+    ]
+  },
+  "it": {
+    "$name": "Codifica Base64 di Immagini/Files",
+    "$description": "La Codifica Base64 di Immagini/Files è uno strumento che converte i dati binari in un formato di testo che può essere facilmente trasmesso su internet. Questo metodo di codifica è comunemente utilizzato per incorporare immagini o altri file nel codice HTML o CSS.",
+    "$keywords": [
+      "Base64",
+      "Immagine",
+      "File",
+      "Codifica",
+      "Dati",
+      "Conversione",
+      "Binario",
+      "ASCII",
+      "Testo",
+      "Trasferimento",
+      "MIME",
+      "Formato"
+    ]
+  },
+  "ru": {
+    "$name": "Кодирование изображений/файлов в Base64",
+    "$description": "Кодирование изображений/файлов в Base64 - это инструмент, который преобразует двоичные данные в текстовый формат, который может быть легко передан через интернет. Этот метод кодирования обычно используется для встраивания изображений или других файлов в HTML или CSS код.",
+    "$keywords": [
+      "Base64",
+      "Изображение",
+      "Файл",
+      "Кодирование",
+      "Данные",
+      "Преобразование",
+      "Двоичный",
+      "ASCII",
+      "Текст",
+      "Передача",
+      "MIME",
+      "Формат"
+    ]
+  },
+  "pt": {
+    "$name": "Codificação de Imagem/Arquivo Base64",
+    "$description": "A Codificação de Imagem/Arquivo Base64 é uma ferramenta que converte dados binários em um formato de texto que pode ser facilmente transmitido pela internet. Este método de codificação é comumente usado para incorporar imagens ou outros arquivos em código HTML ou CSS.",
+    "$keywords": [
+      "Base64",
+      "Imagem",
+      "Arquivo",
+      "Codificação",
+      "Dados",
+      "Conversão",
+      "Binário",
+      "ASCII",
+      "Texto",
+      "Transferência",
+      "MIME",
+      "Formato"
+    ]
+  },
+  "en": {
+    "$name": "Base64 Image/File Encoding",
+    "$description": "Base64 Image/File Encoding is a tool that converts binary data into a text format that can be easily transmitted over the internet. This encoding method is commonly used for embedding images or other files into HTML or CSS code.",
+    "$keywords": [
+      "Base64",
+      "Image",
+      "File",
+      "Encoding",
+      "Data",
+      "Conversion",
+      "Binary",
+      "ASCII",
+      "Text",
+      "Transfer",
+      "MIME",
+      "Format"
+    ]
+  }
+}

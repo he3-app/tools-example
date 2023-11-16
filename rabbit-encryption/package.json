@@ -1,0 +1,42 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "userId": "3e696ac5-0721-4558-8c21-5b501c27115e",
+    "name": "Rabbit Encryption",
+    "id": "rabbit-encryption",
+    "isPublic": true,
+    "relatedToolId": [
+      "rabbit-decryption"
+    ],
+    "version": "1.0.4",
+    "description": "Rabbit Encryption is a symmetric encryption tool that uses the Rabbit stream cipher algorithm to encrypt data. It is a fast and secure method of encrypting data, making it ideal for use in applications where data security is a top priority.",
+    "repository": "",
+    "icon": "lock-outlined",
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "rabbit",
+      "encryption",
+      "encrypt",
+      "symmetric"
+    ]
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

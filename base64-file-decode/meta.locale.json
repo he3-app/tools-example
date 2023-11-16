@@ -1,0 +1,208 @@
+{
+  "zh-cn": {
+    "$name": "Base64 图片/文件解码",
+    "$description": "Base64 图片/文件解码工具是一款软件应用程序，允许用户解码 Base64 编码的图片和文件。该工具特别适用于需要解码和分析编码数据的开发人员和安全分析师。",
+    "$keywords": [
+      "Base64",
+      "图片",
+      "文件",
+      "解码",
+      "转换",
+      "二进制",
+      "数据",
+      "ASCII",
+      "编码",
+      "解码 Base64",
+      "解码图片",
+      "解码文件"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Base64 圖片/檔案解碼工具",
+    "$description": "Base64 圖片/檔案解碼工具是一款軟體應用程式，允許使用者解碼 Base64 編碼的圖片和檔案。這個工具對於需要解碼和分析編碼數據的開發人員和安全分析師特別有用。",
+    "$keywords": [
+      "Base64",
+      "圖片",
+      "檔案",
+      "解碼",
+      "轉換",
+      "二進制",
+      "數據",
+      "ASCII",
+      "編碼",
+      "解碼 Base64",
+      "解碼圖片",
+      "解碼檔案"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación de Imagen/Archivo Base64",
+    "$description": "La herramienta de Decodificación de Imagen/Archivo Base64 es una aplicación de software que permite a los usuarios decodificar imágenes y archivos codificados en Base64. Esta herramienta es particularmente útil para desarrolladores y analistas de seguridad que necesitan decodificar y analizar datos codificados.",
+    "$keywords": [
+      "Base64",
+      "Imagen",
+      "Archivo",
+      "Decodificación",
+      "Decodificar",
+      "Convertir",
+      "Binario",
+      "Datos",
+      "ASCII",
+      "Codificación",
+      "Decodificar Base64",
+      "Decodificar Imagen",
+      "Decodificar Archivo"
+    ]
+  },
+  "ja": {
+    "$name": "Base64画像/ファイルのデコード",
+    "$description": "Base64画像/ファイルのデコードツールは、ユーザーがBase64でエンコードされた画像やファイルをデコードできるソフトウェアアプリケーションです。このツールは、エンコードされたデータを解析する必要がある開発者やセキュリティアナリストに特に役立ちます。",
+    "$keywords": [
+      "Base64",
+      "画像",
+      "ファイル",
+      "デコード",
+      "変換",
+      "バイナリ",
+      "データ",
+      "ASCII",
+      "エンコード",
+      "Base64デコード",
+      "画像デコード",
+      "ファイルデコード"
+    ]
+  },
+  "ko": {
+    "$name": "Base64 이미지/파일 디코딩",
+    "$description": "Base64 이미지/파일 디코딩 도구는 사용자가 Base64로 인코딩된 이미지와 파일을 디코딩할 수 있는 소프트웨어 응용 프로그램입니다. 이 도구는 특히 인코딩된 데이터를 디코딩하고 분석해야 하는 개발자와 보안 분석가에게 유용합니다.",
+    "$keywords": [
+      "Base64",
+      "이미지",
+      "파일",
+      "디코딩",
+      "디코드",
+      "변환",
+      "바이너리",
+      "데이터",
+      "ASCII",
+      "인코딩",
+      "Base64 디코드",
+      "이미지 디코드",
+      "파일 디코드"
+    ]
+  },
+  "de": {
+    "$name": "Base64 Bild-/Datei-Decodierung",
+    "$description": "Das Base64 Bild-/Datei-Decodierungstool ist eine Softwareanwendung, die es Benutzern ermöglicht, Base64-kodierte Bilder und Dateien zu decodieren. Dieses Tool ist besonders nützlich für Entwickler und Sicherheitsanalysten, die codierte Daten decodieren und analysieren müssen.",
+    "$keywords": [
+      "Base64",
+      "Bild",
+      "Datei",
+      "Decodierung",
+      "Decodieren",
+      "Konvertieren",
+      "Binär",
+      "Daten",
+      "ASCII",
+      "Kodierung",
+      "Base64 decodieren",
+      "Bild decodieren",
+      "Datei decodieren"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage d'image/fichier Base64",
+    "$description": "L'outil de décryptage d'image/fichier Base64 est une application logicielle qui permet aux utilisateurs de décoder des images et des fichiers encodés en Base64. Cet outil est particulièrement utile pour les développeurs et les analystes de sécurité qui ont besoin de décoder et d'analyser des données encodées.",
+    "$keywords": [
+      "Base64",
+      "Image",
+      "Fichier",
+      "Décodage",
+      "Décoder",
+      "Convertir",
+      "Binaire",
+      "Données",
+      "ASCII",
+      "Encodage",
+      "Décoder Base64",
+      "Décoder Image",
+      "Décoder Fichier"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica di immagini/file Base64",
+    "$description": "Lo strumento di decodifica di immagini/file Base64 è un'applicazione software che consente agli utenti di decodificare immagini e file codificati in Base64. Questo strumento è particolarmente utile per sviluppatori e analisti di sicurezza che devono decodificare e analizzare dati codificati.",
+    "$keywords": [
+      "Base64",
+      "Immagine",
+      "File",
+      "Decodifica",
+      "Decodificare",
+      "Convertire",
+      "Binario",
+      "Dati",
+      "ASCII",
+      "Codifica",
+      "Decodifica Base64",
+      "Decodifica Immagine",
+      "Decodifica File"
+    ]
+  },
+  "ru": {
+    "$name": "Декодирование изображений/файлов Base64",
+    "$description": "Инструмент декодирования изображений/файлов Base64 - это приложение, которое позволяет пользователям декодировать изображения и файлы, закодированные в формате Base64. Этот инструмент особенно полезен для разработчиков и аналитиков безопасности, которым необходимо декодировать и анализировать закодированные данные.",
+    "$keywords": [
+      "Base64",
+      "Изображение",
+      "Файл",
+      "Декодирование",
+      "Декодировать",
+      "Преобразовать",
+      "Двоичные",
+      "Данные",
+      "ASCII",
+      "Кодирование",
+      "Декодировать Base64",
+      "Декодировать изображение",
+      "Декодировать файл"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação de Imagem/Arquivo Base64",
+    "$description": "A ferramenta de decodificação de imagem/arquivo Base64 é um aplicativo de software que permite aos usuários decodificar imagens e arquivos codificados em Base64. Essa ferramenta é particularmente útil para desenvolvedores e analistas de segurança que precisam decodificar e analisar dados codificados.",
+    "$keywords": [
+      "Base64",
+      "Imagem",
+      "Arquivo",
+      "Decodificação",
+      "Decodificar",
+      "Converter",
+      "Binário",
+      "Dados",
+      "ASCII",
+      "Codificação",
+      "Decodificar Base64",
+      "Decodificar Imagem",
+      "Decodificar Arquivo"
+    ]
+  },
+  "en": {
+    "$name": "Base64 Image/File Decoding",
+    "$description": "The Base64 Image/File Decoding tool is a software application that allows users to decode Base64-encoded images and files. This tool is particularly useful for developers and security analysts who need to decode and analyze encoded data.",
+    "$keywords": [
+      "Base64",
+      "Image",
+      "File",
+      "Decoding",
+      "Decode",
+      "Convert",
+      "Binary",
+      "Data",
+      "ASCII",
+      "Encoding",
+      "Decode Base64",
+      "Decode Image",
+      "Decode File"
+    ]
+  }
+}

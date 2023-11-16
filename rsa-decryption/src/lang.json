@@ -1,0 +1,112 @@
+{
+  "zh": {
+    "inputKey": "请在此处输入密钥:",
+    "enc": "文件加密成功，点击按钮输出文件",
+    "dec": "文件解密成功，点击按钮输出文件",
+    "publicKey": "公钥验证签名",
+    "privateKey": "私钥解密",
+    "originalText": "原文本:",
+    "verify_true": "签名验证成功!",
+    "verify_false": "签名验证失败!"
+  },
+  "en": {
+    "inputKey": "Please enter your key here:",
+    "enc": "The file is encrypted successfully. Click the button to output the file",
+    "dec": "The file is decrypted successfully. Click the button to output the file",
+    "publicKey": "Public Key Signature Verification",
+    "privateKey": "Private Key Decryption",
+    "originalText": "Original Text:",
+    "verify_true": "Signature verification successful!",
+    "verify_false": "Signature verification failed!"
+  },
+  "de": {
+    "inputKey": "Bitte geben Sie hier den Schlüssel ein:",
+    "enc": "Die Dateiverschlüsselung ist erfolgreich. Klicken Sie auf die Schaltfläche, um die Datei auszugeben",
+    "dec": "Die Dateientschlüsselung ist erfolgreich. Klicken Sie auf die Schaltfläche, um die Datei auszugeben",
+    "publicKey": "Öffentliche Schlüssel Signaturverifikation",
+    "privateKey": "Private Schlüssel Entschlüsselung",
+    "originalText": "Ursprünglicher Text:",
+    "verify_true": "Signaturüberprüfung erfolgreich!",
+    "verify_false": "Signaturüberprüfung fehlgeschlagen!"
+  },
+  "es": {
+    "inputKey": "Ingrese la clave aquí:",
+    "enc": "El cifrado de archivo es exitoso, haga clic en el botón para emitir el archivo",
+    "dec": "El descifrado del archivo es exitoso, haga clic en el botón para emitir el archivo",
+    "publicKey": "Verificación de firma de clave pública",
+    "privateKey": "Desencriptación de clave privada",
+    "originalText": "Texto original:",
+    "verify_true": "¡Verificación de firma exitosa!",
+    "verify_false": "¡Verificación de firma fallida!"
+  },
+  "fr": {
+    "inputKey": "Veuillez saisir la clé ici:",
+    "enc": "Le chiffrement du fichier est réussi, cliquez sur le bouton pour sortir le fichier",
+    "dec": "Le décryptage du fichier réussit, cliquez sur le bouton pour sortir le fichier",
+    "publicKey": "Vérification de signature à clé publique",
+    "privateKey": "Déchiffrement à clé privée",
+    "originalText": "Texte original:",
+    "verify_true": "Vérification de signature réussie !",
+    "verify_false": "La vérification de signature a échoué !"
+  },
+  "it": {
+    "inputKey": "Inserisci la chiave qui:",
+    "enc": "La crittografia del file ha esito positivo, fare clic sul pulsante per emettere il file",
+    "dec": "La decryption del file ha esito positivo, fai clic sul pulsante per output del file",
+    "publicKey": "Verifica firma a chiave pubblica",
+    "privateKey": "Decrittografia a chiave privata",
+    "originalText": "Testo originale:",
+    "verify_true": "Verifica della firma riuscita!",
+    "verify_false": "Verifica della firma fallita!"
+  },
+  "ja": {
+    "inputKey": "ここにキーを入力してください：",
+    "enc": "ファイルの暗号化が成功しました。ボタンをクリックしてファイルを出力します。",
+    "dec": "ファイルの復号化が成功しました。ボタンをクリックしてファイルを出力します。",
+    "publicKey": "公開鍵署名の検証",
+    "privateKey": "秘密鍵復号",
+    "originalText": "元のテキスト：",
+    "verify_true": "署名の検証に成功しました！",
+    "verify_false": "署名の検証に失敗しました！"
+  },
+  "ko": {
+    "inputKey": "여기에 키를 입력하십시오.",
+    "enc": "파일 암호화가 성공적이면 버튼을 클릭하여 파일을 출력합니다.",
+    "dec": "파일 암호 해독이 성공적이면 버튼을 클릭하여 파일을 출력합니다.",
+    "publicKey": "공개 키 서명 확인",
+    "privateKey": "개인 키 복호화",
+    "originalText": "원본 텍스트:",
+    "verify_true": "서명 확인 성공!",
+    "verify_false": "서명 확인 실패!"
+  },
+  "pt": {
+    "inputKey": "Por favor, insira a chave aqui:",
+    "enc": "A criptografia de arquivo é bem-sucedida, clique no botão para emitir o arquivo",
+    "dec": "A descriptografia do arquivo é bem-sucedida, clique no botão para emitir o arquivo",
+    "publicKey": "Verificação da assinatura de chave pública",
+    "privateKey": "Descriptografia com chave privada",
+    "originalText": "Texto original:",
+    "verify_true": "Verificação de assinatura bem-sucedida!",
+    "verify_false": "Verificação de assinatura falhou!"
+  },
+  "ru": {
+    "inputKey": "Пожалуйста, введите ключ здесь:",
+    "enc": "Шифрование файла успешно, нажмите кнопку, чтобы вывести файл",
+    "dec": "Дешифрование файла успешно, нажмите кнопку, чтобы вывести файл",
+    "publicKey": "Проверка подписи открытого ключа",
+    "privateKey": "Расшифровка закрытым ключом",
+    "originalText": "Оригинальный текст:",
+    "verify_true": "Проверка подписи прошла успешно!",
+    "verify_false": "Проверка подписи не удалась!"
+  },
+  "zh-tw": {
+    "inputKey": "請在此處輸入密鑰:",
+    "enc": "文件加密成功，點擊按鈕輸出文件",
+    "dec": "文件解密成功，點擊按鈕輸出文件",
+    "publicKey": "公鑰驗證簽名",
+    "privateKey": "私鑰解密",
+    "originalText": "原始文本：",
+    "verify_true": "簽名驗證成功！",
+    "verify_false": "簽名驗證失敗！"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "zh-cn": {
+    "$name": "RC4加密",
+    "$keywords": [
+      "RC4",
+      "对称加密",
+      "加密",
+      "加密算法"
+    ],
+    "$description": "RC4加密工具是一种用于加密文本的工具。它使用RC4算法来加密输入的文本，并提供一些选项来定制加密过程。\n\n特点：\n\n1. 输入要加密的文本。\n\n2. 输入加密密钥。\n\n3. 选择是否使用RC4 Drop算法。\n\n4. 如果选择使用RC4 Drop算法，则可以输入一个数字作为“drop”参数。\n\n5. 点击“加密”按钮，工具将使用RC4算法来加密输入的文本，并在输出区域显示加密结果。\n\n用途：\n\n1. 保护敏感信息：使用RC4加密工具可以加密敏感信息以保护其安全性。\n\n2. 保护通信：在网络通信中，使用RC4加密工具可以加密数据以防止窃听或篡改。\n\n3. 加密文件：使用RC4加密工具可以加密文件以保护文件的机密性。\n\n4. 学习加密算法：使用RC4加密工具可以了解RC4算法的工作原理和用法。"
+  },
+  "zh-tw": {
+    "$name": "RC4加密",
+    "$keywords": [
+      "RC4",
+      "對稱加密",
+      "加密",
+      "加密演算法"
+    ],
+    "$description": "RC4加密工具是一個用於加密文本的工具。它使用RC4算法對輸入的文本進行加密，並提供一些選項來自定義加密過程。\n\n功能：\n\n1. 輸入要加密的文本。\n\n2. 輸入加密密鑰。\n\n3. 選擇是否使用RC4 Drop算法。\n\n4. 如果選擇使用RC4 Drop算法，可以輸入一個數字作為“drop”參數。\n\n5. 點擊“加密”按鈕，工具將使用RC4算法對輸入的文本進行加密，並在輸出區域顯示加密結果。\n\n用途：\n\n1. 保護敏感信息：使用RC4加密工具可以對敏感信息進行加密，以保護其安全性。\n\n2. 保護通信：在網絡通信中，使用RC4加密工具可以加密數據，以防止竊聽或篡改。\n\n3. 加密文件：使用RC4加密工具可以加密文件，以保護文件的機密性。\n\n4. 學習加密算法：使用RC4加密工具可以了解RC4算法的工作原理和使用方法。"
+  },
+  "es": {
+    "$name": "Cifrado RC4",
+    "$keywords": [
+      "rc4",
+      "simétrico",
+      "encriptación",
+      "encriptar",
+      "Encriptación Simétrica",
+      "Algoritmo de Encriptación"
+    ],
+    "$description": "La herramienta de cifrado RC4 es una herramienta utilizada para cifrar texto. Utiliza el algoritmo RC4 para cifrar el texto de entrada y proporciona algunas opciones para personalizar el proceso de cifrado.\n\nCaracterísticas:\n\n1. Ingrese el texto que se va a cifrar.\n\n2. Ingrese la clave de cifrado.\n\n3. Elija si desea utilizar el algoritmo RC4 Drop.\n\n4. Si elige utilizar el algoritmo RC4 Drop, puede ingresar un número como parámetro \"drop\".\n\n5. Haga clic en el botón \"Cifrar\", y la herramienta utilizará el algoritmo RC4 para cifrar el texto de entrada y mostrará el resultado cifrado en el área de salida.\n\nCasos de uso:\n\n1. Proteger información confidencial: utilizando la herramienta de cifrado RC4 se puede cifrar información confidencial para proteger su seguridad.\n\n2. Proteger la comunicación: en la comunicación de red, utilizando la herramienta de cifrado RC4 se puede cifrar datos para evitar el espionaje o la manipulación.\n\n3. Cifrar archivos: utilizando la herramienta de cifrado RC4 se pueden cifrar archivos para proteger la confidencialidad de los mismos.\n\n4. Aprender algoritmos de cifrado: utilizando la herramienta de cifrado RC4 se puede comprender el principio de funcionamiento y el uso del algoritmo RC4."
+  },
+  "ja": {
+    "$name": "RC4暗号化",
+    "$keywords": [
+      "rc4",
+      "対称鍵暗号",
+      "暗号化",
+      "暗号化する",
+      "対称鍵暗号化",
+      "暗号化アルゴリズム"
+    ],
+    "$description": "RC4暗号化ツールは、テキストを暗号化するために使用されるツールです。入力されたテキストをRC4アルゴリズムを使用して暗号化し、暗号化プロセスをカスタマイズするためのいくつかのオプションを提供します。\n\n機能：\n\n1. 暗号化するテキストを入力します。\n\n2. 暗号化キーを入力します。\n\n3. RC4ドロップアルゴリズムを使用するかどうかを選択します。\n\n4. RC4ドロップアルゴリズムを使用する場合、\"ドロップ\"パラメータとして数値を入力できます。\n\n5. 「暗号化」ボタンをクリックすると、ツールはRC4アルゴリズムを使用して入力されたテキストを暗号化し、暗号化された結果を出力エリアに表示します。\n\n使用例：\n\n1. 機密情報の保護：RC4暗号化ツールを使用することで、機密情報を暗号化してセキュリティを保護することができます。\n\n2. 通信の保護：ネットワーク通信において、RC4暗号化ツールを使用することで、データを暗号化して盗聴や改ざんを防止することができます。\n\n3. ファイルの暗号化：RC4暗号化ツールを使用することで、ファイルの機密性を保護するためにファイルを暗号化することができます。\n\n4. 暗号化アルゴリズムの学習：RC4暗号化ツールを使用することで、RC4アルゴリズムの動作原理や使用方法を理解することができます。"
+  },
+  "ko": {
+    "$name": "RC4 암호화",
+    "$keywords": [
+      "rc4",
+      "대칭",
+      "암호화",
+      "암호화",
+      "대칭 암호화",
+      "암호화 알고리즘"
+    ],
+    "$description": "RC4 암호화 도구는 텍스트를 암호화하는 데 사용되는 도구입니다. 입력된 텍스트를 RC4 알고리즘을 사용하여 암호화하고 암호화 프로세스를 사용자 정의하는 몇 가지 옵션을 제공합니다.\n\n기능:\n\n1. 암호화할 텍스트를 입력합니다.\n\n2. 암호화 키를 입력합니다.\n\n3. RC4 Drop 알고리즘을 사용할지 여부를 선택합니다.\n\n4. RC4 Drop 알고리즘을 사용하려면 \"drop\" 매개 변수로 숫자를 입력할 수 있습니다.\n\n5. \"암호화\" 버튼을 클릭하면 도구가 RC4 알고리즘을 사용하여 입력된 텍스트를 암호화하고 출력 영역에 암호화된 결과를 표시합니다.\n\n사용 사례:\n\n1. 민감한 정보 보호: RC4 암호화 도구를 사용하여 민감한 정보를 암호화하여 보안을 유지할 수 있습니다.\n\n2. 통신 보호: 네트워크 통신에서 RC4 암호화 도구를 사용하여 데이터를 암호화하여 도청이나 변경을 방지할 수 있습니다.\n\n3. 파일 암호화: RC4 암호화 도구를 사용하여 파일을 암호화하여 파일의 기밀성을 보호할 수 있습니다.\n\n4. 암호화 알고리즘 학습: RC4 암호화 도구를 사용하여 RC4 알고리즘의 작동 원리와 사용법을 이해할 수 있습니다."
+  },
+  "de": {
+    "$name": "RC4-Verschlüsselung",
+    "$keywords": [
+      "rc4",
+      "symmetrisch",
+      "Verschlüsselung",
+      "verschlüsseln",
+      "symmetrische Verschlüsselung",
+      "Verschlüsselungsalgorithmus"
+    ],
+    "$description": "RC4-Verschlüsselungstool ist ein Tool, das zur Verschlüsselung von Text verwendet wird. Es verwendet den RC4-Algorithmus zur Verschlüsselung des Eingabetextes und bietet einige Optionen zur Anpassung des Verschlüsselungsprozesses.\n\nFunktionen:\n\n1. Geben Sie den zu verschlüsselnden Text ein.\n\n2. Geben Sie den Verschlüsselungsschlüssel ein.\n\n3. Wählen Sie, ob der RC4-Drop-Algorithmus verwendet werden soll.\n\n4. Wenn Sie sich für die Verwendung des RC4-Drop-Algorithmus entscheiden, können Sie eine Zahl als \"Drop\"-Parameter eingeben.\n\n5. Klicken Sie auf die Schaltfläche \"Verschlüsseln\", und das Tool verwendet den RC4-Algorithmus zur Verschlüsselung des Eingabetextes und zeigt das verschlüsselte Ergebnis im Ausgabegebiet an.\n\nAnwendungsfälle:\n\n1. Schutz sensibler Informationen: Die Verwendung des RC4-Verschlüsselungstools kann sensible Informationen verschlüsseln, um deren Sicherheit zu schützen.\n\n2. Schutz der Kommunikation: Bei der Netzwerkkommunikation kann die Verwendung des RC4-Verschlüsselungstools Daten verschlüsseln, um Abhören oder Manipulation zu verhindern.\n\n3. Verschlüsselung von Dateien: Die Verwendung des RC4-Verschlüsselungstools kann Dateien verschlüsseln, um die Vertraulichkeit der Dateien zu schützen.\n\n4. Erlernen von Verschlüsselungsalgorithmen: Die Verwendung des RC4-Verschlüsselungstools kann das Verständnis für das Funktionsprinzip und die Verwendung des RC4-Algorithmus fördern."
+  },
+  "fr": {
+    "$name": "Chiffrement RC4",
+    "$keywords": [
+      "rc4",
+      "symétrique",
+      "chiffrement",
+      "chiffrer",
+      "chiffrement symétrique",
+      "algorithme de chiffrement"
+    ],
+    "$description": "L'outil de chiffrement RC4 est un outil utilisé pour chiffrer du texte. Il utilise l'algorithme RC4 pour chiffrer le texte d'entrée et offre des options pour personnaliser le processus de chiffrement.\n\nFonctionnalités :\n\n1. Entrer le texte à chiffrer.\n\n2. Entrer la clé de chiffrement.\n\n3. Choisir d'utiliser ou non l'algorithme RC4 Drop.\n\n4. Si vous choisissez d'utiliser l'algorithme RC4 Drop, vous pouvez entrer un nombre en tant que paramètre \"drop\".\n\n5. Cliquez sur le bouton \"Chiffrer\", et l'outil utilisera l'algorithme RC4 pour chiffrer le texte d'entrée et afficher le résultat chiffré dans la zone de sortie.\n\nUtilisations :\n\n1. Protéger des informations sensibles : En utilisant l'outil de chiffrement RC4, vous pouvez chiffrer des informations sensibles pour protéger leur sécurité.\n\n2. Protéger la communication : Dans la communication réseau, en utilisant l'outil de chiffrement RC4, vous pouvez chiffrer les données pour empêcher l'écoute ou la manipulation.\n\n3. Chiffrer des fichiers : En utilisant l'outil de chiffrement RC4, vous pouvez chiffrer des fichiers pour protéger la confidentialité des fichiers.\n\n4. Apprendre les algorithmes de chiffrement : En utilisant l'outil de chiffrement RC4, vous pouvez comprendre le principe de fonctionnement et l'utilisation de l'algorithme RC4."
+  },
+  "it": {
+    "$name": "Crittografia RC4",
+    "$keywords": [
+      "rc4",
+      "simmetrica",
+      "crittografia",
+      "crittografare",
+      "Crittografia Simmetrica",
+      "Algoritmo di Crittografia"
+    ],
+    "$description": "Lo strumento di crittografia RC4 è uno strumento utilizzato per crittografare il testo. Utilizza l'algoritmo RC4 per crittografare il testo di input e fornisce alcune opzioni per personalizzare il processo di crittografia.\n\nCaratteristiche:\n\n1. Inserisci il testo da crittografare.\n\n2. Inserisci la chiave di crittografia.\n\n3. Scegli se utilizzare l'algoritmo RC4 Drop.\n\n4. Se scegli di utilizzare l'algoritmo RC4 Drop, puoi inserire un numero come parametro \"drop\".\n\n5. Fai clic sul pulsante \"Crittografa\" e lo strumento utilizzerà l'algoritmo RC4 per crittografare il testo di input e visualizzare il risultato crittografato nell'area di output.\n\nCasi d'uso:\n\n1. Proteggere informazioni sensibili: utilizzando lo strumento di crittografia RC4 è possibile crittografare informazioni sensibili per proteggere la loro sicurezza.\n\n2. Proteggere la comunicazione: nella comunicazione di rete, utilizzando lo strumento di crittografia RC4 è possibile crittografare i dati per prevenire intercettazioni o manomissioni.\n\n3. Crittografare file: utilizzando lo strumento di crittografia RC4 è possibile crittografare i file per proteggere la riservatezza dei file.\n\n4. Apprendere gli algoritmi di crittografia: utilizzando lo strumento di crittografia RC4 è possibile comprendere il principio di funzionamento e l'utilizzo dell'algoritmo RC4."
+  },
+  "ru": {
+    "$name": "Шифрование RC4",
+    "$keywords": [
+      "rc4",
+      "симметричное",
+      "шифрование",
+      "шифровать",
+      "Симметричное шифрование",
+      "Алгоритм шифрования"
+    ],
+    "$description": "Инструмент шифрования RC4 - это инструмент, используемый для шифрования текста. Он использует алгоритм RC4 для шифрования входного текста и предоставляет несколько опций для настройки процесса шифрования.\n\nОсобенности:\n\n1. Введите текст, который нужно зашифровать.\n\n2. Введите ключ шифрования.\n\n3. Выберите, хотите ли вы использовать алгоритм RC4 Drop.\n\n4. Если вы выберете использовать алгоритм RC4 Drop, вы можете ввести число в качестве параметра \"drop\".\n\n5. Нажмите кнопку \"Зашифровать\", и инструмент будет использовать алгоритм RC4 для шифрования входного текста и отобразит зашифрованный результат в области вывода.\n\nВарианты использования:\n\n1. Защита конфиденциальной информации: Использование инструмента шифрования RC4 может зашифровать конфиденциальную информацию для защиты ее безопасности.\n\n2. Защита связи: В сетевой связи использование инструмента шифрования RC4 может зашифровать данные, чтобы предотвратить прослушивание или подмену.\n\n3. Шифрование файлов: Использование инструмента шифрования RC4 может зашифровать файлы для защиты конфиденциальности файлов.\n\n4. Изучение алгоритмов шифрования: Использование инструмента шифрования RC4 может помочь понять принцип работы и использование алгоритма RC4."
+  },
+  "pt": {
+    "$name": "Criptografia RC4",
+    "$keywords": [
+      "rc4",
+      "simétrico",
+      "criptografia",
+      "criptografar",
+      "Criptografia Simétrica",
+      "Algoritmo de Criptografia"
+    ],
+    "$description": "A ferramenta de criptografia RC4 é uma ferramenta usada para criptografar texto. Ela usa o algoritmo RC4 para criptografar o texto de entrada e fornece algumas opções para personalizar o processo de criptografia.\n\nRecursos:\n\n1. Insira o texto a ser criptografado.\n\n2. Insira a chave de criptografia.\n\n3. Escolha se deseja usar o algoritmo RC4 Drop.\n\n4. Se você escolher usar o algoritmo RC4 Drop, poderá inserir um número como parâmetro \"drop\".\n\n5. Clique no botão \"Criptografar\" e a ferramenta usará o algoritmo RC4 para criptografar o texto de entrada e exibir o resultado criptografado na área de saída.\n\nCasos de uso:\n\n1. Proteger informações confidenciais: Usar a ferramenta de criptografia RC4 pode criptografar informações confidenciais para proteger sua segurança.\n\n2. Proteger a comunicação: Na comunicação em rede, usar a ferramenta de criptografia RC4 pode criptografar dados para evitar a interceptação ou adulteração.\n\n3. Criptografar arquivos: Usar a ferramenta de criptografia RC4 pode criptografar arquivos para proteger a confidencialidade dos arquivos.\n\n4. Aprender algoritmos de criptografia: Usar a ferramenta de criptografia RC4 pode entender o princípio de funcionamento e o uso do algoritmo RC4."
+  },
+  "en": {
+    "$name": "RC4 Encryption",
+    "$keywords": [
+      "rc4",
+      "symmetric",
+      "encryption",
+      "encrypt",
+      "Symmetric Encryption",
+      "Encryption Algorithm"
+    ],
+    "$description": "RC4 Encryption tool is a tool used to encrypt text. It uses the RC4 algorithm to encrypt the input text and provides some options to customize the encryption process.\n\nFeatures:\n\n1. Input the text to be encrypted.\n\n2. Input the encryption key.\n\n3. Choose whether to use the RC4 Drop algorithm.\n\n4. If you choose to use the RC4 Drop algorithm, you can input a number as the \"drop\" parameter.\n\n5. Click the \"Encrypt\" button, and the tool will use the RC4 algorithm to encrypt the input text and display the encrypted result in the output area.\n\nUse cases:\n\n1. Protect sensitive information: Using the RC4 Encryption tool can encrypt sensitive information to protect its security.\n\n2. Protect communication: In network communication, using the RC4 Encryption tool can encrypt data to prevent eavesdropping or tampering.\n\n3. Encrypt files: Using the RC4 Encryption tool can encrypt files to protect the confidentiality of the files.\n\n4. Learn encryption algorithms: Using the RC4 Encryption tool can understand the working principle and usage of the RC4 algorithm."
+  }
+}

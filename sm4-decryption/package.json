@@ -1,0 +1,49 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "userId": "3e696ac5-0721-4558-8c21-5b501c27115e",
+    "name": "SM4 Decryption",
+    "id": "sm4-decryption",
+    "isPublic": true,
+    "relatedToolId": [
+      "sm4-encryption"
+    ],
+    "version": "1.0.5",
+    "description": "SM4 Decryption Tool is a tool used to decrypt SM4 encrypted data. It can decrypt the encrypted data and output the decrypted plaintext data.\n\nFeatures:\n\n1. Supports input of encrypted data, automatically decrypts and outputs plaintext data.\n\n2. Supports selection of encryption mode (ECB or CBC).\n\n3. Supports selection of input data type (Base64 or Hex).\n\n4. Supports selection of output data type (Utf8, Base64 or Hex).\n\n5. Supports selection of key type (Hex, Base64 or Utf8).\n\n6. Supports selection of whether to perform padding.\n\nUse cases:\n\n1. Data decryption: During data transmission, it may be necessary to encrypt the data for protection. Using the SM4 Decryption Tool, encrypted data can be easily decrypted to view the data content.\n\n2. Data encryption: During data transmission, it may be necessary to encrypt the data for protection. Using the SM4 Decryption Tool, data can be easily encrypted to protect data security.\n\n3. Data format conversion: During data transmission, it may be necessary to convert the data format. Using the SM4 Decryption Tool, data format can be easily converted to meet different data transmission needs.",
+    "repository": "",
+    "icon": "unlock-outlined",
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "sm4",
+      "decryption",
+      "Encryption Protection",
+      "Data Format Conversion",
+      "Encryption Mode",
+      "Input Data Type",
+      "Output Data Type",
+      "Key Type",
+      "Padding"
+    ]
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "gm-crypto": "^0.1.8",
+    "utf8": "^3.0.0",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

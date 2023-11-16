@@ -1,0 +1,145 @@
+{
+  "zh-cn": {
+    "$name": "SM2解密",
+    "$keywords": [
+      "sm2",
+      "解密",
+      "SM2解密",
+      "加密数据解密",
+      "数据安全",
+      "数据备份",
+      "数据分析"
+    ],
+    "$description": "SM2解密工具是一种用于解密SM2加密数据的工具。用户可以输入或粘贴加密数据，选择加密模式并输入私钥。该工具将自动解密数据并输出明文。同时，用户还可以选择上传加密文件进行解密。\n\n特点：\n\n1. 支持输入或粘贴加密数据进行解密。\n\n2. 支持上传加密文件进行解密。\n\n3. 支持选择加密模式（C1C2C3或C1C3C2）。\n\n4. 支持输入私钥进行解密。\n\n5. 支持自动保存私钥和加密模式。\n\n6. 支持输出解密后的明文。\n\n用例：\n\n1. SM2加密数据解密：使用SM2加密数据后，用户可以使用此工具解密以获取明文数据。\n\n2. 数据安全：在数据传输过程中，使用SM2加密可以确保数据的安全性。使用此工具可以轻松解密加密数据以确保数据的完整性和安全性。\n\n3. 数据备份：用户可以将加密数据备份到文件中。使用此工具可以轻松解密备份数据以进行数据恢复。\n\n4. 数据分析：在数据分析过程中，使用此工具可以轻松解密加密数据以更好地了解数据结构和内容。"
+  },
+  "zh-tw": {
+    "$name": "SM2 解密",
+    "$keywords": [
+      "sm2",
+      "解密",
+      "SM2 解密",
+      "加密數據解密",
+      "數據安全",
+      "數據備份",
+      "數據分析"
+    ],
+    "$description": "SM2解密工具是一種用於解密SM2加密數據的工具。用戶可以輸入或粘貼加密數據，選擇加密模式，並輸入私鑰。該工具將自動解密數據並輸出明文。同時，用戶還可以選擇上傳加密文件進行解密。\n\n特點：\n\n1. 支持輸入或粘貼加密數據進行解密。\n\n2. 支持上傳加密文件進行解密。\n\n3. 支持選擇加密模式（C1C2C3或C1C3C2）。\n\n4. 支持輸入私鑰進行解密。\n\n5. 支持自動保存私鑰和加密模式。\n\n6. 支持輸出解密後的明文。\n\n用例：\n\n1. SM2加密數據解密：使用SM2加密數據後，用戶可以使用此工具解密以獲取明文數據。\n\n2. 數據安全：在數據傳輸期間，使用SM2加密可以確保數據的安全。使用此工具可以輕鬆解密加密數據以確保數據的完整性和安全性。\n\n3. 數據備份：用戶可以將加密數據備份到文件中。使用此工具可以輕鬆解密備份數據以進行數據恢復。\n\n4. 數據分析：在數據分析期間，使用此工具可以輕鬆解密加密數據以更好地了解數據結構和內容。"
+  },
+  "es": {
+    "$name": "Descifrado SM2",
+    "$keywords": [
+      "sm2",
+      "descifrado",
+      "descifrado SM2",
+      "descifrado de datos cifrados",
+      "seguridad de datos",
+      "respaldo de datos",
+      "análisis de datos"
+    ],
+    "$description": "La herramienta de descifrado SM2 es una herramienta utilizada para descifrar datos cifrados con SM2. Los usuarios pueden ingresar o pegar los datos cifrados, seleccionar el modo de cifrado e ingresar la clave privada. La herramienta descifrará automáticamente los datos y mostrará el texto plano. Al mismo tiempo, los usuarios también pueden optar por cargar el archivo cifrado para descifrarlo.\n\nCaracterísticas:\n\n1. Soporte para ingresar o pegar datos cifrados para descifrar.\n\n2. Soporte para cargar archivos cifrados para descifrar.\n\n3. Soporte para seleccionar el modo de cifrado (C1C2C3 o C1C3C2).\n\n4. Soporte para ingresar la clave privada para descifrar.\n\n5. Soporte para guardar automáticamente la clave privada y el modo de cifrado.\n\n6. Soporte para mostrar el texto plano descifrado.\n\nCasos de uso:\n\n1. Descifrado de datos cifrados con SM2: después de cifrar datos con SM2, los usuarios pueden usar esta herramienta para descifrarlos y obtener los datos en texto plano.\n\n2. Seguridad de datos: durante la transmisión de datos, el cifrado con SM2 puede garantizar la seguridad de los datos. El uso de esta herramienta puede descifrar fácilmente los datos cifrados para garantizar la integridad y seguridad de los datos.\n\n3. Copia de seguridad de datos: los usuarios pueden hacer una copia de seguridad de los datos cifrados en archivos. El uso de esta herramienta puede descifrar fácilmente los datos de copia de seguridad para recuperar los datos.\n\n4. Análisis de datos: durante el análisis de datos, el uso de esta herramienta puede descifrar fácilmente los datos cifrados para comprender mejor la estructura y el contenido de los datos."
+  },
+  "ja": {
+    "$name": "SM2復号",
+    "$keywords": [
+      "sm2",
+      "復号化",
+      "SM2復号化",
+      "暗号化されたデータの復号化",
+      "データセキュリティ",
+      "データバックアップ",
+      "データ分析"
+    ],
+    "$description": "SM2復号ツールは、SM2で暗号化されたデータを復号化するために使用されるツールです。ユーザーは暗号化されたデータを入力または貼り付け、暗号化モードを選択し、秘密鍵を入力することができます。ツールは自動的にデータを復号化し、平文を出力します。同時に、ユーザーは暗号化されたファイルをアップロードして復号化することも選択できます。\n\n特徴：\n\n1. 復号化のために入力または貼り付けられた暗号化されたデータをサポートします。\n\n2. 暗号化されたファイルをアップロードして復号化することをサポートします。\n\n3. 暗号化モード（C1C2C3またはC1C3C2）の選択をサポートします。\n\n4. 復号化のために秘密鍵を入力することをサポートします。\n\n5. 秘密鍵と暗号化モードの自動保存をサポートします。\n\n6. 復号化された平文の出力をサポートします。\n\n使用例：\n\n1. SM2で暗号化されたデータの復号化：SM2を使用してデータを暗号化した後、このツールを使用して平文データを取得することができます。\n\n2. データセキュリティ：データ伝送中、SM2暗号化を使用することでデータのセキュリティを確保できます。このツールを使用することで、暗号化されたデータを簡単に復号化してデータの完全性とセキュリティを確保できます。\n\n3. データバックアップ：ユーザーは暗号化されたデータをファイルにバックアップすることができます。このツールを使用することで、バックアップデータを簡単に復号化してデータの復旧ができます。\n\n4. データ分析：データ分析中、このツールを使用することで、暗号化されたデータを簡単に復号化して、データの構造と内容をよりよく理解することができます。"
+  },
+  "ko": {
+    "$name": "SM2 복호화",
+    "$keywords": [
+      "SM2",
+      "복호화",
+      "SM2 복호화",
+      "암호화된 데이터 복호화",
+      "데이터 보안",
+      "데이터 백업",
+      "데이터 분석"
+    ],
+    "$description": "SM2 복호화 도구는 SM2로 암호화된 데이터를 복호화하는 데 사용되는 도구입니다. 사용자는 암호화된 데이터를 입력하거나 붙여넣을 수 있으며, 암호화 모드를 선택하고 개인 키를 입력할 수 있습니다. 이 도구는 자동으로 데이터를 복호화하고 평문을 출력합니다. 동시에 사용자는 암호화된 파일을 업로드하여 복호화할 수도 있습니다.\n\n특징:\n\n1. 복호화를 위해 입력 또는 붙여넣기된 암호화된 데이터를 지원합니다.\n\n2. 복호화를 위해 암호화된 파일을 업로드하는 것을 지원합니다.\n\n3. 암호화 모드(C1C2C3 또는 C1C3C2) 선택을 지원합니다.\n\n4. 복호화를 위해 개인 키를 입력하는 것을 지원합니다.\n\n5. 개인 키와 암호화 모드의 자동 저장을 지원합니다.\n\n6. 복호화된 평문을 출력하는 것을 지원합니다.\n\n사용 사례:\n\n1. SM2로 암호화된 데이터 복호화: SM2를 사용하여 데이터를 암호화한 후, 이 도구를 사용하여 평문 데이터를 얻을 수 있습니다.\n\n2. 데이터 보안: 데이터 전송 중 SM2 암호화를 사용하면 데이터의 보안을 보장할 수 있습니다. 이 도구를 사용하여 암호화된 데이터를 쉽게 복호화하여 데이터 무결성과 보안을 보장할 수 있습니다.\n\n3. 데이터 백업: 사용자는 암호화된 데이터를 파일로 백업할 수 있습니다. 이 도구를 사용하여 백업 데이터를 쉽게 복호화하여 데이터 복구를 수행할 수 있습니다.\n\n4. 데이터 분석: 데이터 분석 중에는 이 도구를 사용하여 암호화된 데이터를 쉽게 복호화하여 데이터 구조와 내용을 더 잘 이해할 수 있습니다."
+  },
+  "de": {
+    "$name": "SM2 Entschlüsselung",
+    "$keywords": [
+      "sm2",
+      "Entschlüsselung",
+      "SM2 Entschlüsselung",
+      "verschlüsselte Daten Entschlüsselung",
+      "Datensicherheit",
+      "Daten-Backup",
+      "Datenanalyse"
+    ],
+    "$description": "Das SM2-Entschlüsselungswerkzeug ist ein Werkzeug, das zur Entschlüsselung von SM2-verschlüsselten Daten verwendet wird. Benutzer können die verschlüsselten Daten eingeben oder einfügen, den Verschlüsselungsmodus auswählen und den privaten Schlüssel eingeben. Das Werkzeug entschlüsselt automatisch die Daten und gibt den Klartext aus. Gleichzeitig können Benutzer auch wählen, die verschlüsselte Datei zur Entschlüsselung hochzuladen.\n\nFunktionen:\n\n1. Unterstützung der Eingabe oder des Einfügens von verschlüsselten Daten zur Entschlüsselung.\n\n2. Unterstützung des Hochladens von verschlüsselten Dateien zur Entschlüsselung.\n\n3. Unterstützung der Auswahl des Verschlüsselungsmodus (C1C2C3 oder C1C3C2).\n\n4. Unterstützung der Eingabe des privaten Schlüssels zur Entschlüsselung.\n\n5. Unterstützung der automatischen Speicherung des privaten Schlüssels und des Verschlüsselungsmodus.\n\n6. Unterstützung der Ausgabe des entschlüsselten Klartexts.\n\nAnwendungsfälle:\n\n1. Entschlüsselung von SM2-verschlüsselten Daten: Nach der Verwendung von SM2 zur Verschlüsselung von Daten können Benutzer dieses Werkzeug verwenden, um Klartextdaten zu erhalten.\n\n2. Datensicherheit: Während der Datenübertragung kann die Verwendung von SM2-Verschlüsselung die Sicherheit der Daten gewährleisten. Die Verwendung dieses Werkzeugs kann verschlüsselte Daten leicht entschlüsseln, um die Integrität und Sicherheit der Daten zu gewährleisten.\n\n3. Datensicherung: Benutzer können verschlüsselte Daten in Dateien sichern. Mit diesem Werkzeug können Sicherungsdaten leicht entschlüsselt werden, um Datenwiederherstellung zu ermöglichen.\n\n4. Datenanalyse: Während der Datenanalyse kann die Verwendung dieses Werkzeugs verschlüsselte Daten leicht entschlüsseln, um die Datenstruktur und den Inhalt besser zu verstehen."
+  },
+  "fr": {
+    "$name": "Déchiffrement SM2",
+    "$keywords": [
+      "sm2",
+      "décryptage",
+      "décryptage SM2",
+      "décryptage de données chiffrées",
+      "sécurité des données",
+      "sauvegarde de données",
+      "analyse de données"
+    ],
+    "$description": "L'outil de déchiffrement SM2 est un outil utilisé pour déchiffrer des données chiffrées avec SM2. Les utilisateurs peuvent entrer ou coller les données chiffrées, sélectionner le mode de chiffrement et entrer la clé privée. L'outil déchiffrera automatiquement les données et produira le texte en clair. En même temps, les utilisateurs peuvent également choisir de télécharger le fichier chiffré pour le déchiffrer.\n\nFonctionnalités :\n\n1. Prise en charge de l'entrée ou du collage de données chiffrées pour le déchiffrement.\n\n2. Prise en charge du téléchargement de fichiers chiffrés pour le déchiffrement.\n\n3. Prise en charge de la sélection du mode de chiffrement (C1C2C3 ou C1C3C2).\n\n4. Prise en charge de l'entrée de la clé privée pour le déchiffrement.\n\n5. Prise en charge de la sauvegarde automatique de la clé privée et du mode de chiffrement.\n\n6. Prise en charge de la production de texte en clair déchiffré.\n\nCas d'utilisation :\n\n1. Déchiffrement de données chiffrées avec SM2 : après avoir utilisé SM2 pour chiffrer des données, les utilisateurs peuvent utiliser cet outil pour les déchiffrer et obtenir des données en texte clair.\n\n2. Sécurité des données : lors de la transmission de données, l'utilisation du chiffrement SM2 peut assurer la sécurité des données. L'utilisation de cet outil peut facilement déchiffrer les données chiffrées pour assurer l'intégrité et la sécurité des données.\n\n3. Sauvegarde de données : les utilisateurs peuvent sauvegarder des données chiffrées dans des fichiers. L'utilisation de cet outil peut facilement déchiffrer les données de sauvegarde pour la récupération de données.\n\n4. Analyse de données : lors de l'analyse de données, l'utilisation de cet outil peut facilement déchiffrer les données chiffrées pour mieux comprendre la structure et le contenu des données."
+  },
+  "it": {
+    "$name": "Decrittografia SM2",
+    "$keywords": [
+      "sm2",
+      "decrittografia",
+      "decrittografia SM2",
+      "decrittografia dati criptati",
+      "sicurezza dei dati",
+      "backup dei dati",
+      "analisi dei dati"
+    ],
+    "$description": "Lo strumento di decrittografia SM2 è uno strumento utilizzato per decrittografare dati crittografati con SM2. Gli utenti possono inserire o incollare i dati crittografati, selezionare la modalità di crittografia e inserire la chiave privata. Lo strumento decrittograferà automaticamente i dati e produrrà il testo in chiaro. Allo stesso tempo, gli utenti possono anche scegliere di caricare il file crittografato per la decrittografia.\n\nCaratteristiche:\n\n1. Supporto all'input o all'incollaggio di dati crittografati per la decrittografia.\n\n2. Supporto al caricamento di file crittografati per la decrittografia.\n\n3. Supporto alla selezione della modalità di crittografia (C1C2C3 o C1C3C2).\n\n4. Supporto all'input della chiave privata per la decrittografia.\n\n5. Supporto al salvataggio automatico della chiave privata e della modalità di crittografia.\n\n6. Supporto alla produzione di testo in chiaro decrittografato.\n\nCasi d'uso:\n\n1. Decrittografia di dati crittografati con SM2: dopo aver utilizzato SM2 per crittografare i dati, gli utenti possono utilizzare questo strumento per decrittografarli e ottenere i dati in chiaro.\n\n2. Sicurezza dei dati: durante la trasmissione dei dati, l'utilizzo della crittografia SM2 può garantire la sicurezza dei dati. Utilizzando questo strumento, è possibile decrittografare facilmente i dati crittografati per garantire l'integrità e la sicurezza dei dati.\n\n3. Backup dei dati: gli utenti possono eseguire il backup dei dati crittografati su file. Utilizzando questo strumento, è possibile decrittografare facilmente i dati di backup per il ripristino dei dati.\n\n4. Analisi dei dati: durante l'analisi dei dati, utilizzando questo strumento, è possibile decrittografare facilmente i dati crittografati per comprendere meglio la struttura e il contenuto dei dati."
+  },
+  "ru": {
+    "$name": "SM2 Расшифровка",
+    "$keywords": [
+      "sm2",
+      "дешифрование",
+      "SM2 дешифрование",
+      "дешифрование зашифрованных данных",
+      "безопасность данных",
+      "резервное копирование данных",
+      "анализ данных"
+    ],
+    "$description": "Инструмент дешифрования SM2 - это инструмент, используемый для расшифровки данных, зашифрованных с помощью SM2. Пользователи могут ввести или вставить зашифрованные данные, выбрать режим шифрования и ввести личный ключ. Инструмент автоматически расшифрует данные и выведет открытый текст. При этом пользователи также могут выбрать загрузку зашифрованного файла для расшифровки.\n\nОсобенности:\n\n1. Поддержка ввода или вставки зашифрованных данных для расшифровки.\n\n2. Поддержка загрузки зашифрованных файлов для расшифровки.\n\n3. Поддержка выбора режима шифрования (C1C2C3 или C1C3C2).\n\n4. Поддержка ввода личного ключа для расшифровки.\n\n5. Поддержка автоматического сохранения личного ключа и режима шифрования.\n\n6. Поддержка вывода расшифрованного открытого текста.\n\nПрименение:\n\n1. Расшифровка данных, зашифрованных с помощью SM2: После использования SM2 для шифрования данных пользователи могут использовать этот инструмент для расшифровки и получения открытых данных.\n\n2. Безопасность данных: Во время передачи данных использование шифрования SM2 может обеспечить безопасность данных. Использование этого инструмента позволяет легко расшифровать зашифрованные данные для обеспечения целостности и безопасности данных.\n\n3. Резервное копирование данных: Пользователи могут создавать резервные копии зашифрованных данных в файлах. Использование этого инструмента позволяет легко расшифровать резервные данные для восстановления данных.\n\n4. Анализ данных: Во время анализа данных использование этого инструмента позволяет легко расшифровать зашифрованные данные для лучшего понимания структуры и содержания данных."
+  },
+  "pt": {
+    "$name": "Descriptografia SM2",
+    "$keywords": [
+      "sm2",
+      "decryption",
+      "descriptografia SM2",
+      "descriptografia de dados criptografados",
+      "segurança de dados",
+      "backup de dados",
+      "análise de dados"
+    ],
+    "$description": "A ferramenta de descriptografia SM2 é uma ferramenta usada para descriptografar dados criptografados com SM2. Os usuários podem inserir ou colar os dados criptografados, selecionar o modo de criptografia e inserir a chave privada. A ferramenta irá automaticamente descriptografar os dados e produzir o texto simples. Ao mesmo tempo, os usuários também podem optar por fazer upload do arquivo criptografado para descriptografia.\n\nRecursos:\n\n1. Suporte para inserir ou colar dados criptografados para descriptografia.\n\n2. Suporte para fazer upload de arquivos criptografados para descriptografia.\n\n3. Suporte para selecionar o modo de criptografia (C1C2C3 ou C1C3C2).\n\n4. Suporte para inserir a chave privada para descriptografia.\n\n5. Suporte para salvar automaticamente a chave privada e o modo de criptografia.\n\n6. Suporte para produzir o texto simples descriptografado.\n\nCasos de uso:\n\n1. Descriptografia de dados criptografados com SM2: Após criptografar dados com SM2, os usuários podem usar esta ferramenta para descriptografá-los e obter os dados em texto simples.\n\n2. Segurança de dados: Durante a transmissão de dados, o uso de criptografia SM2 pode garantir a segurança dos dados. Usando esta ferramenta, é possível descriptografar facilmente dados criptografados para garantir a integridade e segurança dos dados.\n\n3. Backup de dados: Os usuários podem fazer backup de dados criptografados em arquivos. Usando esta ferramenta, é possível descriptografar facilmente dados de backup para recuperação de dados.\n\n4. Análise de dados: Durante a análise de dados, o uso desta ferramenta pode facilitar a descriptografia de dados criptografados para melhor compreensão da estrutura e conteúdo dos dados."
+  },
+  "en": {
+    "$name": "SM2 Decryption",
+    "$keywords": [
+      "sm2",
+      "decryption",
+      "SM2 decryption",
+      "encrypted data decryption",
+      "data security",
+      "data backup",
+      "data analysis"
+    ],
+    "$description": "The SM2 Decryption tool is a tool used to decrypt SM2 encrypted data. Users can input or paste the encrypted data, select the encryption mode, and input the private key. The tool will automatically decrypt the data and output the plaintext. At the same time, users can also choose to upload the encrypted file for decryption.\n\nFeatures:\n\n1. Support input or paste encrypted data for decryption.\n\n2. Support uploading encrypted files for decryption.\n\n3. Support selecting encryption mode (C1C2C3 or C1C3C2).\n\n4. Support inputting private key for decryption.\n\n5. Support automatic saving of private key and encryption mode.\n\n6. Support outputting decrypted plaintext.\n\nUse cases:\n\n1. SM2 encrypted data decryption: After using SM2 to encrypt data, users can use this tool to decrypt it to obtain plaintext data.\n\n2. Data security: During data transmission, using SM2 encryption can ensure the security of data. Using this tool can easily decrypt encrypted data to ensure data integrity and security.\n\n3. Data backup: Users can back up encrypted data to files. Using this tool can easily decrypt backup data for data recovery.\n\n4. Data analysis: During data analysis, using this tool can easily decrypt encrypted data to better understand data structure and content."
+  }
+}

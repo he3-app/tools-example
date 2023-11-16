@@ -1,0 +1,167 @@
+{
+  "zh-cn": {
+    "$name": "SM4解密",
+    "$keywords": [
+      "SM4",
+      "解密",
+      "加密保护",
+      "数据格式转换",
+      "加密模式",
+      "输入数据类型",
+      "输出数据类型",
+      "密钥类型",
+      "填充"
+    ],
+    "$description": "SM4解密工具是一种用于解密SM4加密数据的工具。它可以解密加密数据并输出解密后的明文数据。\n\n特点：\n\n1. 支持输入加密数据，自动解密并输出明文数据。\n\n2. 支持选择加密模式（ECB或CBC）。\n\n3. 支持选择输入数据类型（Base64或Hex）。\n\n4. 支持选择输出数据类型（Utf8、Base64或Hex）。\n\n5. 支持选择密钥类型（Hex、Base64或Utf8）。\n\n6. 支持选择是否执行填充。\n\n用例：\n\n1. 数据解密：在数据传输过程中，可能需要加密数据以进行保护。使用SM4解密工具，可以轻松解密加密数据以查看数据内容。\n\n2. 数据加密：在数据传输过程中，可能需要加密数据以进行保护。使用SM4解密工具，可以轻松加密数据以保护数据安全。\n\n3. 数据格式转换：在数据传输过程中，可能需要转换数据格式。使用SM4解密工具，可以轻松转换数据格式以满足不同的数据传输需求。"
+  },
+  "zh-tw": {
+    "$name": "SM4 解密",
+    "$keywords": [
+      "sm4",
+      "解密",
+      "加密保護",
+      "數據格式轉換",
+      "加密模式",
+      "輸入數據類型",
+      "輸出數據類型",
+      "密鑰類型",
+      "填充"
+    ],
+    "$description": "SM4 解密工具是一個用於解密 SM4 加密數據的工具。它可以解密加密數據並輸出解密後的明文數據。\n\n功能：\n\n1. 支持輸入加密數據，自動解密並輸出明文數據。\n\n2. 支持選擇加密模式（ECB 或 CBC）。\n\n3. 支持選擇輸入數據類型（Base64 或 Hex）。\n\n4. 支持選擇輸出數據類型（Utf8、Base64 或 Hex）。\n\n5. 支持選擇密鑰類型（Hex、Base64 或 Utf8）。\n\n6. 支持選擇是否執行填充。\n\n使用場景：\n\n1. 數據解密：在數據傳輸過程中，可能需要對數據進行加密以保護數據。使用 SM4 解密工具，可以輕鬆解密加密數據以查看數據內容。\n\n2. 數據加密：在數據傳輸過程中，可能需要對數據進行加密以保護數據。使用 SM4 解密工具，可以輕鬆加密數據以保護數據安全。\n\n3. 數據格式轉換：在數據傳輸過程中，可能需要將數據格式進行轉換。使用 SM4 解密工具，可以輕鬆轉換數據格式以滿足不同的數據傳輸需求。"
+  },
+  "es": {
+    "$name": "Descifrado SM4",
+    "$keywords": [
+      "sm4",
+      "descifrado",
+      "Protección de cifrado",
+      "Conversión de formato de datos",
+      "Modo de cifrado",
+      "Tipo de datos de entrada",
+      "Tipo de datos de salida",
+      "Tipo de clave",
+      "Relleno"
+    ],
+    "$description": "La herramienta de descifrado SM4 es una herramienta utilizada para descifrar datos cifrados con SM4. Puede descifrar los datos cifrados y producir los datos de texto plano descifrados.\n\nCaracterísticas:\n\n1. Admite la entrada de datos cifrados, descifra automáticamente y produce los datos de texto plano.\n\n2. Admite la selección del modo de cifrado (ECB o CBC).\n\n3. Admite la selección del tipo de datos de entrada (Base64 o Hex).\n\n4. Admite la selección del tipo de datos de salida (Utf8, Base64 o Hex).\n\n5. Admite la selección del tipo de clave (Hex, Base64 o Utf8).\n\n6. Admite la selección de si se debe realizar el relleno.\n\nCasos de uso:\n\n1. Descifrado de datos: Durante la transmisión de datos, puede ser necesario cifrar los datos para protegerlos. Usando la herramienta de descifrado SM4, los datos cifrados pueden ser fácilmente descifrados para ver el contenido de los datos.\n\n2. Cifrado de datos: Durante la transmisión de datos, puede ser necesario cifrar los datos para protegerlos. Usando la herramienta de descifrado SM4, los datos pueden ser fácilmente cifrados para proteger la seguridad de los datos.\n\n3. Conversión de formato de datos: Durante la transmisión de datos, puede ser necesario convertir el formato de los datos. Usando la herramienta de descifrado SM4, el formato de los datos puede ser fácilmente convertido para satisfacer diferentes necesidades de transmisión de datos."
+  },
+  "ja": {
+    "$name": "SM4復号化",
+    "$keywords": [
+      "sm4",
+      "復号化",
+      "暗号化保護",
+      "データ形式変換",
+      "暗号化モード",
+      "入力データタイプ",
+      "出力データタイプ",
+      "キータイプ",
+      "パディング"
+    ],
+    "$description": "SM4復号ツールは、SM4で暗号化されたデータを復号化するために使用されるツールです。暗号化されたデータを復号化し、復号化された平文データを出力することができます。\n\n特徴：\n\n1. 暗号化されたデータの入力をサポートし、自動的に平文データを復号化して出力します。\n\n2. 暗号化モード（ECBまたはCBC）の選択をサポートします。\n\n3. 入力データタイプ（Base64またはHex）の選択をサポートします。\n\n4. 出力データタイプ（Utf8、Base64またはHex）の選択をサポートします。\n\n5. キータイプ（Hex、Base64またはUtf8）の選択をサポートします。\n\n6. パディングを実行するかどうかの選択をサポートします。\n\n使用例：\n\n1. データの復号化：データの送信中に、保護のためにデータを暗号化する必要がある場合があります。SM4復号ツールを使用すると、暗号化されたデータを簡単に復号化してデータ内容を表示できます。\n\n2. データの暗号化：データの送信中に、保護のためにデータを暗号化する必要がある場合があります。SM4復号ツールを使用すると、データを簡単に暗号化してデータのセキュリティを保護できます。\n\n3. データ形式の変換：データの送信中に、データ形式を変換する必要がある場合があります。SM4復号ツールを使用すると、データ形式を簡単に変換して、さまざまなデータ送信ニーズに対応できます。"
+  },
+  "ko": {
+    "$name": "SM4 복호화",
+    "$keywords": [
+      "SM4",
+      "복호화",
+      "암호화 보호",
+      "데이터 형식 변환",
+      "암호화 모드",
+      "입력 데이터 유형",
+      "출력 데이터 유형",
+      "키 유형",
+      "패딩"
+    ],
+    "$description": "SM4 복호화 도구는 SM4로 암호화된 데이터를 복호화하는 데 사용되는 도구입니다. 암호화된 데이터를 복호화하고, 복호화된 평문 데이터를 출력할 수 있습니다.\n\n기능:\n\n1. 암호화된 데이터 입력을 지원하며, 자동으로 복호화하여 평문 데이터를 출력합니다.\n\n2. 암호화 모드 선택을 지원합니다(ECB 또는 CBC).\n\n3. 입력 데이터 유형 선택을 지원합니다(Base64 또는 Hex).\n\n4. 출력 데이터 유형 선택을 지원합니다(Utf8, Base64 또는 Hex).\n\n5. 키 유형 선택을 지원합니다(Hex, Base64 또는 Utf8).\n\n6. 패딩 수행 여부 선택을 지원합니다.\n\n사용 사례:\n\n1. 데이터 복호화: 데이터 전송 중에 데이터 보호를 위해 데이터를 암호화해야 할 필요가 있을 수 있습니다. SM4 복호화 도구를 사용하여 암호화된 데이터를 쉽게 복호화하여 데이터 내용을 확인할 수 있습니다.\n\n2. 데이터 암호화: 데이터 전송 중에 데이터 보호를 위해 데이터를 암호화해야 할 필요가 있을 수 있습니다. SM4 복호화 도구를 사용하여 데이터를 쉽게 암호화하여 데이터 보안을 보호할 수 있습니다.\n\n3. 데이터 형식 변환: 데이터 전송 중에 데이터 형식을 변환해야 할 필요가 있을 수 있습니다. SM4 복호화 도구를 사용하여 데이터 형식을 쉽게 변환하여 다양한 데이터 전송 요구 사항을 충족시킬 수 있습니다."
+  },
+  "de": {
+    "$name": "SM4 Entschlüsselung",
+    "$keywords": [
+      "SM4",
+      "Entschlüsselung",
+      "Verschlüsselungsschutz",
+      "Datenformatkonvertierung",
+      "Verschlüsselungsmodus",
+      "Eingabedatentyp",
+      "Ausgabedatentyp",
+      "Schlüsseltyp",
+      "Polsterung"
+    ],
+    "$description": "SM4 Decryption Tool ist ein Werkzeug, das zur Entschlüsselung von SM4-verschlüsselten Daten verwendet wird. Es kann die verschlüsselten Daten entschlüsseln und die entschlüsselten Klartextdaten ausgeben.\n\nFunktionen:\n\n1. Unterstützt die Eingabe von verschlüsselten Daten, entschlüsselt automatisch und gibt Klartextdaten aus.\n\n2. Unterstützt die Auswahl des Verschlüsselungsmodus (ECB oder CBC).\n\n3. Unterstützt die Auswahl des Eingabetyp (Base64 oder Hex).\n\n4. Unterstützt die Auswahl des Ausgabetyp (Utf8, Base64 oder Hex).\n\n5. Unterstützt die Auswahl des Schlüsseltyps (Hex, Base64 oder Utf8).\n\n6. Unterstützt die Auswahl, ob Padding durchgeführt werden soll.\n\nAnwendungsfälle:\n\n1. Datenentschlüsselung: Während der Datenübertragung kann es notwendig sein, die Daten zum Schutz zu verschlüsseln. Mit dem SM4 Decryption Tool können verschlüsselte Daten einfach entschlüsselt werden, um den Inhalt der Daten anzuzeigen.\n\n2. Datenverschlüsselung: Während der Datenübertragung kann es notwendig sein, die Daten zum Schutz zu verschlüsseln. Mit dem SM4 Decryption Tool können Daten einfach verschlüsselt werden, um die Datensicherheit zu schützen.\n\n3. Datenformatkonvertierung: Während der Datenübertragung kann es notwendig sein, das Datenformat zu konvertieren. Mit dem SM4 Decryption Tool kann das Datenformat einfach konvertiert werden, um verschiedenen Anforderungen der Datenübertragung gerecht zu werden."
+  },
+  "fr": {
+    "$name": "Déchiffrement SM4",
+    "$keywords": [
+      "sm4",
+      "décryptage",
+      "protection de chiffrement",
+      "conversion de format de données",
+      "mode de chiffrement",
+      "type de données d'entrée",
+      "type de données de sortie",
+      "type de clé",
+      "remplissage"
+    ],
+    "$description": "Outil de décryptage SM4 est un outil utilisé pour décrypter les données chiffrées avec SM4. Il peut décrypter les données chiffrées et produire les données en clair décryptées.\n\nFonctionnalités :\n\n1. Prend en charge l'entrée de données chiffrées, décrypte automatiquement et produit les données en clair.\n\n2. Prend en charge la sélection du mode de chiffrement (ECB ou CBC).\n\n3. Prend en charge la sélection du type de données d'entrée (Base64 ou Hex).\n\n4. Prend en charge la sélection du type de données de sortie (Utf8, Base64 ou Hex).\n\n5. Prend en charge la sélection du type de clé (Hex, Base64 ou Utf8).\n\n6. Prend en charge la sélection de l'ajout de remplissage.\n\nCas d'utilisation :\n\n1. Décryptage de données : Pendant la transmission de données, il peut être nécessaire de chiffrer les données pour les protéger. En utilisant l'outil de décryptage SM4, les données chiffrées peuvent être facilement décryptées pour visualiser le contenu des données.\n\n2. Chiffrement de données : Pendant la transmission de données, il peut être nécessaire de chiffrer les données pour les protéger. En utilisant l'outil de décryptage SM4, les données peuvent être facilement chiffrées pour protéger la sécurité des données.\n\n3. Conversion de format de données : Pendant la transmission de données, il peut être nécessaire de convertir le format de données. En utilisant l'outil de décryptage SM4, le format de données peut être facilement converti pour répondre aux différents besoins de transmission de données."
+  },
+  "it": {
+    "$name": "Decrittografia SM4",
+    "$keywords": [
+      "sm4",
+      "decrittografia",
+      "Protezione crittografia",
+      "Conversione formato dati",
+      "Modalità crittografia",
+      "Tipo di dati di input",
+      "Tipo di dati di output",
+      "Tipo di chiave",
+      "Riempimento"
+    ],
+    "$description": "Lo strumento di decrittografia SM4 è uno strumento utilizzato per decrittografare dati crittografati con SM4. Può decrittografare i dati crittografati e produrre i dati di testo normale decrittografati.\n\nCaratteristiche:\n\n1. Supporta l'input di dati crittografati, decrittografa automaticamente e produce dati di testo normale.\n\n2. Supporta la selezione della modalità di crittografia (ECB o CBC).\n\n3. Supporta la selezione del tipo di dati di input (Base64 o Hex).\n\n4. Supporta la selezione del tipo di dati di output (Utf8, Base64 o Hex).\n\n5. Supporta la selezione del tipo di chiave (Hex, Base64 o Utf8).\n\n6. Supporta la selezione di eseguire il padding.\n\nCasi d'uso:\n\n1. Decrittografia dei dati: durante la trasmissione dei dati, può essere necessario crittografare i dati per proteggerli. Utilizzando lo strumento di decrittografia SM4, i dati crittografati possono essere facilmente decrittografati per visualizzare il contenuto dei dati.\n\n2. Crittografia dei dati: durante la trasmissione dei dati, può essere necessario crittografare i dati per proteggerli. Utilizzando lo strumento di decrittografia SM4, i dati possono essere facilmente crittografati per proteggere la sicurezza dei dati.\n\n3. Conversione del formato dei dati: durante la trasmissione dei dati, può essere necessario convertire il formato dei dati. Utilizzando lo strumento di decrittografia SM4, il formato dei dati può essere facilmente convertito per soddisfare le diverse esigenze di trasmissione dei dati."
+  },
+  "ru": {
+    "$name": "SM4 Расшифровка",
+    "$keywords": [
+      "sm4",
+      "дешифрование",
+      "защита шифрования",
+      "конвертация формата данных",
+      "режим шифрования",
+      "тип входных данных",
+      "тип выходных данных",
+      "тип ключа",
+      "добавление заполнения"
+    ],
+    "$description": "Инструмент SM4 Decryption Tool используется для расшифровки данных, зашифрованных с помощью SM4. Он может расшифровать зашифрованные данные и вывести расшифрованные данные в виде обычного текста.\n\nОсобенности:\n\n1. Поддерживает ввод зашифрованных данных, автоматически расшифровывает и выводит данные в виде обычного текста.\n\n2. Поддерживает выбор режима шифрования (ECB или CBC).\n\n3. Поддерживает выбор типа входных данных (Base64 или Hex).\n\n4. Поддерживает выбор типа выходных данных (Utf8, Base64 или Hex).\n\n5. Поддерживает выбор типа ключа (Hex, Base64 или Utf8).\n\n6. Поддерживает выбор необходимости выполнения дополнения.\n\nВозможные сценарии использования:\n\n1. Расшифровка данных: Во время передачи данных может потребоваться зашифровать данные для защиты. Используя инструмент SM4 Decryption Tool, зашифрованные данные могут быть легко расшифрованы для просмотра содержимого данных.\n\n2. Шифрование данных: Во время передачи данных может потребоваться зашифровать данные для защиты. Используя инструмент SM4 Decryption Tool, данные могут быть легко зашифрованы для обеспечения безопасности данных.\n\n3. Преобразование формата данных: Во время передачи данных может потребоваться преобразовать формат данных. Используя инструмент SM4 Decryption Tool, формат данных может быть легко преобразован для удовлетворения различных потребностей передачи данных."
+  },
+  "pt": {
+    "$name": "Descriptografia SM4",
+    "$keywords": [
+      "sm4",
+      "descriptografia",
+      "Proteção de Criptografia",
+      "Conversão de Formato de Dados",
+      "Modo de Criptografia",
+      "Tipo de Dados de Entrada",
+      "Tipo de Dados de Saída",
+      "Tipo de Chave",
+      "Preenchimento"
+    ],
+    "$description": "A ferramenta de descriptografia SM4 é uma ferramenta usada para descriptografar dados criptografados com SM4. Ela pode descriptografar os dados criptografados e produzir os dados de texto simples descriptografados.\n\nRecursos:\n\n1. Suporta entrada de dados criptografados, descriptografa automaticamente e produz dados de texto simples.\n\n2. Suporta seleção do modo de criptografia (ECB ou CBC).\n\n3. Suporta seleção do tipo de dados de entrada (Base64 ou Hex).\n\n4. Suporta seleção do tipo de dados de saída (Utf8, Base64 ou Hex).\n\n5. Suporta seleção do tipo de chave (Hex, Base64 ou Utf8).\n\n6. Suporta seleção de se deve ser realizada a preenchimento.\n\nCasos de uso:\n\n1. Descriptografia de dados: Durante a transmissão de dados, pode ser necessário criptografar os dados para proteção. Usando a ferramenta de descriptografia SM4, os dados criptografados podem ser facilmente descriptografados para visualizar o conteúdo dos dados.\n\n2. Criptografia de dados: Durante a transmissão de dados, pode ser necessário criptografar os dados para proteção. Usando a ferramenta de descriptografia SM4, os dados podem ser facilmente criptografados para proteger a segurança dos dados.\n\n3. Conversão de formato de dados: Durante a transmissão de dados, pode ser necessário converter o formato dos dados. Usando a ferramenta de descriptografia SM4, o formato dos dados pode ser facilmente convertido para atender às diferentes necessidades de transmissão de dados."
+  },
+  "en": {
+    "$name": "SM4 Decryption",
+    "$keywords": [
+      "sm4",
+      "decryption",
+      "Encryption Protection",
+      "Data Format Conversion",
+      "Encryption Mode",
+      "Input Data Type",
+      "Output Data Type",
+      "Key Type",
+      "Padding"
+    ],
+    "$description": "SM4 Decryption Tool is a tool used to decrypt SM4 encrypted data. It can decrypt the encrypted data and output the decrypted plaintext data.\n\nFeatures:\n\n1. Supports input of encrypted data, automatically decrypts and outputs plaintext data.\n\n2. Supports selection of encryption mode (ECB or CBC).\n\n3. Supports selection of input data type (Base64 or Hex).\n\n4. Supports selection of output data type (Utf8, Base64 or Hex).\n\n5. Supports selection of key type (Hex, Base64 or Utf8).\n\n6. Supports selection of whether to perform padding.\n\nUse cases:\n\n1. Data decryption: During data transmission, it may be necessary to encrypt the data for protection. Using the SM4 Decryption Tool, encrypted data can be easily decrypted to view the data content.\n\n2. Data encryption: During data transmission, it may be necessary to encrypt the data for protection. Using the SM4 Decryption Tool, data can be easily encrypted to protect data security.\n\n3. Data format conversion: During data transmission, it may be necessary to convert the data format. Using the SM4 Decryption Tool, data format can be easily converted to meet different data transmission needs."
+  }
+}

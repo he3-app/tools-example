@@ -1,0 +1,165 @@
+{
+  "zh-cn": {
+    "$name": "PGP加密",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "加密",
+      "加密",
+      "PGP加密",
+      "OpenPGP库",
+      "信息保护",
+      "安全通信",
+      "数据传输"
+    ],
+    "$description": "PGP加密是一种用于加密信息的工具。用户可以输入他们想要加密的信息和公钥。该工具将使用OpenPGP库来加密信息并输出加密后的消息。\n\n特点：\n\n1. 用户可以输入他们想要加密的信息和公钥。\n\n2. 该工具将使用OpenPGP库来加密信息。\n\n3. 加密后的消息将显示在工具的输出区域中。\n\n用例：\n\n1. 保护隐私：用户可以使用PGP加密来加密敏感信息以保护他们的隐私。\n\n2. 安全通信：用户可以使用PGP加密来加密通信内容以确保通信的安全性。\n\n3. 数据传输：用户可以使用PGP加密来加密数据以确保数据传输的安全性。"
+  },
+  "zh-tw": {
+    "$name": "PGP加密",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "加密",
+      "加密",
+      "PGP加密",
+      "OpenPGP庫",
+      "信息保護",
+      "安全通信",
+      "數據傳輸"
+    ],
+    "$description": "PGP加密是一種用於加密信息的工具。用戶可以輸入他們想要加密的信息和公鑰。該工具將使用OpenPGP庫來加密信息並輸出加密消息。\n\n特點：\n\n1. 用戶可以輸入他們想要加密的信息和公鑰。\n\n2. 該工具將使用OpenPGP庫來加密信息。\n\n3. 加密後的消息將顯示在工具的輸出區域中。\n\n用例：\n\n1. 保護隱私：用戶可以使用PGP加密來加密敏感信息以保護他們的隱私。\n\n2. 安全通信：用戶可以使用PGP加密來加密通信內容，以確保通信的安全性。\n\n3. 數據傳輸：用戶可以使用PGP加密來加密數據，以確保數據傳輸的安全性。"
+  },
+  "es": {
+    "$name": "Cifrado PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "encriptar",
+      "encriptación",
+      "encriptación PGP",
+      "biblioteca OpenPGP",
+      "protección de información",
+      "comunicación segura",
+      "transmisión de datos"
+    ],
+    "$description": "La encriptación PGP es una herramienta utilizada para encriptar información. Los usuarios pueden ingresar la información que desean encriptar y una clave pública. La herramienta utilizará la biblioteca OpenPGP para encriptar la información y mostrará el mensaje encriptado.\n\nCaracterísticas:\n\n1. Los usuarios pueden ingresar la información que desean encriptar y una clave pública.\n\n2. La herramienta utilizará la biblioteca OpenPGP para encriptar la información.\n\n3. El mensaje encriptado se mostrará en el área de salida de la herramienta.\n\nCasos de uso:\n\n1. Protección de la privacidad: Los usuarios pueden utilizar la encriptación PGP para encriptar información sensible y proteger su privacidad.\n\n2. Comunicación segura: Los usuarios pueden utilizar la encriptación PGP para encriptar el contenido de su comunicación y garantizar la seguridad de la misma.\n\n3. Transmisión de datos: Los usuarios pueden utilizar la encriptación PGP para encriptar datos y garantizar la seguridad de su transmisión."
+  },
+  "ja": {
+    "$name": "PGP暗号化",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "暗号化",
+      "暗号化",
+      "PGP暗号化",
+      "OpenPGPライブラリ",
+      "情報保護",
+      "安全な通信",
+      "データ転送"
+    ],
+    "$description": "PGP暗号化は情報を暗号化するために使用されるツールです。ユーザーは暗号化したい情報と公開鍵を入力することができます。このツールはOpenPGPライブラリを使用して情報を暗号化し、暗号化されたメッセージを出力します。\n\n特徴：\n\n1. ユーザーは暗号化したい情報と公開鍵を入力することができます。\n\n2. このツールはOpenPGPライブラリを使用して情報を暗号化します。\n\n3. 暗号化されたメッセージは、このツールの出力エリアに表示されます。\n\n用途：\n\n1. プライバシー保護：ユーザーは、プライバシーを保護するために、PGB暗号化を使用して機密情報を暗号化することができます。\n\n2. セキュアな通信：ユーザーは、通信内容を暗号化して通信のセキュリティを確保するために、PGP暗号化を使用することができます。\n\n3. データ伝送：ユーザーは、データ伝送のセキュリティを確保するために、PGP暗号化を使用してデータを暗号化することができます。"
+  },
+  "ko": {
+    "$name": "PGP 암호화",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "암호화",
+      "암호화",
+      "PGP 암호화",
+      "OpenPGP 라이브러리",
+      "정보 보호",
+      "안전한 통신",
+      "데이터 전송"
+    ],
+    "$description": "PGP 암호화는 정보를 암호화하는 데 사용되는 도구입니다. 사용자는 암호화하려는 정보와 공개 키를 입력할 수 있습니다. 이 도구는 OpenPGP 라이브러리를 사용하여 정보를 암호화하고 암호화된 메시지를 출력합니다.\n\n특징:\n\n1. 사용자는 암호화하려는 정보와 공개 키를 입력할 수 있습니다.\n\n2. 이 도구는 OpenPGP 라이브러리를 사용하여 정보를 암호화합니다.\n\n3. 암호화된 메시지는 도구의 출력 영역에 표시됩니다.\n\n사용 사례:\n\n1. 개인 정보 보호: 사용자는 PGP 암호화를 사용하여 민감한 정보를 암호화하여 개인 정보를 보호할 수 있습니다.\n\n2. 안전한 통신: 사용자는 PGP 암호화를 사용하여 통신 콘텐츠를 암호화하여 통신의 보안을 보장할 수 있습니다.\n\n3. 데이터 전송: 사용자는 PGP 암호화를 사용하여 데이터를 암호화하여 데이터 전송의 보안을 보장할 수 있습니다."
+  },
+  "de": {
+    "$name": "PGP-Verschlüsselung",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "verschlüsseln",
+      "Verschlüsselung",
+      "PGP-Verschlüsselung",
+      "OpenPGP-Bibliothek",
+      "Informationsschutz",
+      "sichere Kommunikation",
+      "Datenübertragung"
+    ],
+    "$description": "PGP-Verschlüsselung ist ein Werkzeug, das zur Verschlüsselung von Informationen verwendet wird. Benutzer können die Informationen, die sie verschlüsseln möchten, sowie einen öffentlichen Schlüssel eingeben. Das Werkzeug verwendet die OpenPGP-Bibliothek, um die Informationen zu verschlüsseln und gibt die verschlüsselte Nachricht aus.\n\nFunktionen:\n\n1. Benutzer können die Informationen, die sie verschlüsseln möchten, sowie einen öffentlichen Schlüssel eingeben.\n\n2. Das Werkzeug verwendet die OpenPGP-Bibliothek, um die Informationen zu verschlüsseln.\n\n3. Die verschlüsselte Nachricht wird im Ausgabe-Bereich des Werkzeugs angezeigt.\n\nAnwendungsfälle:\n\n1. Schutz der Privatsphäre: Benutzer können PGP-Verschlüsselung verwenden, um sensible Informationen zu verschlüsseln und ihre Privatsphäre zu schützen.\n\n2. Sichere Kommunikation: Benutzer können PGP-Verschlüsselung verwenden, um Kommunikationsinhalte zu verschlüsseln und die Sicherheit ihrer Kommunikation zu gewährleisten.\n\n3. Datenübertragung: Benutzer können PGP-Verschlüsselung verwenden, um Daten zu verschlüsseln und die Sicherheit ihrer Datenübertragung zu gewährleisten."
+  },
+  "fr": {
+    "$name": "Chiffrement PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "chiffrer",
+      "chiffrement",
+      "chiffrement PGP",
+      "bibliothèque OpenPGP",
+      "protection des informations",
+      "communication sécurisée",
+      "transmission de données"
+    ],
+    "$description": "La cryptographie PGP est un outil utilisé pour crypter des informations. Les utilisateurs peuvent entrer les informations qu'ils souhaitent crypter et une clé publique. L'outil utilisera la bibliothèque OpenPGP pour crypter les informations et afficher le message crypté.\n\nFonctionnalités:\n\n1. Les utilisateurs peuvent entrer les informations qu'ils souhaitent crypter et une clé publique.\n\n2. L'outil utilisera la bibliothèque OpenPGP pour crypter les informations.\n\n3. Le message crypté sera affiché dans la zone de sortie de l'outil.\n\nCas d'utilisation:\n\n1. Protection de la vie privée: Les utilisateurs peuvent utiliser la cryptographie PGP pour crypter des informations sensibles afin de protéger leur vie privée.\n\n2. Communication sécurisée: Les utilisateurs peuvent utiliser la cryptographie PGP pour crypter le contenu de leur communication afin d'assurer la sécurité de leur communication.\n\n3. Transmission de données: Les utilisateurs peuvent utiliser la cryptographie PGP pour crypter des données afin d'assurer la sécurité de leur transmission de données."
+  },
+  "it": {
+    "$name": "Crittografia PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "crittografia",
+      "crittografia PGP",
+      "libreria OpenPGP",
+      "protezione delle informazioni",
+      "comunicazione sicura",
+      "trasmissione dati"
+    ],
+    "$description": "La crittografia PGP è uno strumento utilizzato per criptare le informazioni. Gli utenti possono inserire le informazioni che desiderano criptare e una chiave pubblica. Lo strumento utilizzerà la libreria OpenPGP per criptare le informazioni e produrre il messaggio criptato.\n\nCaratteristiche:\n\n1. Gli utenti possono inserire le informazioni che desiderano criptare e una chiave pubblica.\n\n2. Lo strumento utilizzerà la libreria OpenPGP per criptare le informazioni.\n\n3. Il messaggio criptato verrà visualizzato nell'area di output dello strumento.\n\nCasi d'uso:\n\n1. Protezione della privacy: gli utenti possono utilizzare la crittografia PGP per criptare informazioni sensibili per proteggere la loro privacy.\n\n2. Comunicazione sicura: gli utenti possono utilizzare la crittografia PGP per criptare il contenuto della comunicazione per garantire la sicurezza della loro comunicazione.\n\n3. Trasmissione di dati: gli utenti possono utilizzare la crittografia PGP per criptare i dati per garantire la sicurezza della loro trasmissione di dati."
+  },
+  "ru": {
+    "$name": "Шифрование PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "шифрование",
+      "шифрование PGP",
+      "библиотека OpenPGP",
+      "защита информации",
+      "безопасное общение",
+      "передача данных"
+    ],
+    "$description": "Шифрование PGP - это инструмент, используемый для шифрования информации. Пользователи могут ввести информацию, которую они хотят зашифровать, и открытый ключ. Инструмент будет использовать библиотеку OpenPGP для шифрования информации и вывода зашифрованного сообщения.\n\nОсобенности:\n\n1. Пользователи могут ввести информацию, которую они хотят зашифровать, и открытый ключ.\n\n2. Инструмент будет использовать библиотеку OpenPGP для шифрования информации.\n\n3. Зашифрованное сообщение будет отображаться в области вывода инструмента.\n\nВарианты использования:\n\n1. Защита конфиденциальности: пользователи могут использовать шифрование PGP для шифрования конфиденциальной информации, чтобы защитить свою конфиденциальность.\n\n2. Безопасная коммуникация: пользователи могут использовать шифрование PGP для шифрования содержимого своей коммуникации, чтобы обеспечить безопасность своей коммуникации.\n\n3. Передача данных: пользователи могут использовать шифрование PGP для шифрования данных, чтобы обеспечить безопасность передачи своих данных."
+  },
+  "pt": {
+    "$name": "Criptografia PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "criptografia",
+      "encriptação",
+      "criptografia PGP",
+      "biblioteca OpenPGP",
+      "proteção de informações",
+      "comunicação segura",
+      "transmissão de dados"
+    ],
+    "$description": "A criptografia PGP é uma ferramenta usada para criptografar informações. Os usuários podem inserir as informações que desejam criptografar e uma chave pública. A ferramenta usará a biblioteca OpenPGP para criptografar as informações e exibirá a mensagem criptografada.\n\nRecursos:\n\n1. Os usuários podem inserir as informações que desejam criptografar e uma chave pública.\n\n2. A ferramenta usará a biblioteca OpenPGP para criptografar as informações.\n\n3. A mensagem criptografada será exibida na área de saída da ferramenta.\n\nCasos de uso:\n\n1. Proteção da privacidade: os usuários podem usar a criptografia PGP para criptografar informações confidenciais e proteger sua privacidade.\n\n2. Comunicação segura: os usuários podem usar a criptografia PGP para criptografar o conteúdo da comunicação e garantir a segurança de sua comunicação.\n\n3. Transmissão de dados: os usuários podem usar a criptografia PGP para criptografar dados e garantir a segurança de sua transmissão de dados."
+  },
+  "en": {
+    "$name": "PGP Encryption",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "encrypt",
+      "encryption",
+      "PGP encryption",
+      "OpenPGP library",
+      "information protection",
+      "secure communication",
+      "data transmission"
+    ],
+    "$description": "PGP Encryption is a tool used for encrypting information. Users can input the information they want to encrypt and a public key. The tool will use the OpenPGP library to encrypt the information and output the encrypted message.\n\nFeatures:\n\n1. Users can input the information they want to encrypt and a public key.\n\n2. The tool will use the OpenPGP library to encrypt the information.\n\n3. The encrypted message will be displayed in the output area of the tool.\n\nUse cases:\n\n1. Protecting privacy: Users can use PGP Encryption to encrypt sensitive information to protect their privacy.\n\n2. Secure communication: Users can use PGP Encryption to encrypt communication content to ensure the security of their communication.\n\n3. Data transmission: Users can use PGP Encryption to encrypt data to ensure the security of their data transmission."
+  }
+}

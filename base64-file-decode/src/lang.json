@@ -1,0 +1,123 @@
+{
+  "zh": {
+    "encode": {
+      "chooseFile": "选择文件",
+      "resultTitle": "Base64 编码后的文件"
+    },
+    "decode": {
+      "title": "Base64 编码后的文件",
+      "button": "解码",
+      "download": "下载"
+    }
+  },
+  "en": {
+    "encode": {
+      "chooseFile": "Choose File",
+      "resultTitle": "Base64 Encoded File"
+    },
+    "decode": {
+      "title": "Base64 Encoded File",
+      "button": "Decode",
+      "download": "Download"
+    }
+  },
+  "de": {
+    "encode": {
+      "chooseFile": "Wählen Sie ein Dokument aus",
+      "resultTitle": "Base64 codierte Datei"
+    },
+    "decode": {
+      "title": "Base64 codierte Datei",
+      "button": "Dekodierung",
+      "download": "herunterladen"
+    }
+  },
+  "es": {
+    "encode": {
+      "chooseFile": "Seleccione un documento",
+      "resultTitle": "Archivo codificado Base64"
+    },
+    "decode": {
+      "title": "Archivo codificado Base64",
+      "button": "descodificación",
+      "download": "descargar"
+    }
+  },
+  "fr": {
+    "encode": {
+      "chooseFile": "Sélectionnez un document",
+      "resultTitle": "Fichier codé de base64"
+    },
+    "decode": {
+      "title": "Fichier codé de base64",
+      "button": "décodage",
+      "download": "télécharger"
+    }
+  },
+  "it": {
+    "encode": {
+      "chooseFile": "Seleziona un documento",
+      "resultTitle": "Base64 File codificato"
+    },
+    "decode": {
+      "title": "Base64 File codificato",
+      "button": "decodifica",
+      "download": "scaricamento"
+    }
+  },
+  "ja": {
+    "encode": {
+      "chooseFile": "ドキュメントを選択します",
+      "resultTitle": "base64エンコードされたファイル"
+    },
+    "decode": {
+      "title": "base64エンコードされたファイル",
+      "button": "デコード",
+      "download": "ダウンロード"
+    }
+  },
+  "ko": {
+    "encode": {
+      "chooseFile": "문서를 선택하십시오",
+      "resultTitle": "Base64 인코딩 된 파일"
+    },
+    "decode": {
+      "title": "Base64 인코딩 된 파일",
+      "button": "디코딩",
+      "download": "다운로드"
+    }
+  },
+  "pt": {
+    "encode": {
+      "chooseFile": "Selecione um documento",
+      "resultTitle": "Arquivo codificado BASE64"
+    },
+    "decode": {
+      "title": "Arquivo codificado BASE64",
+      "button": "decodificação",
+      "download": "download"
+    }
+  },
+  "ru": {
+    "encode": {
+      "chooseFile": "Выберите документ",
+      "resultTitle": "BASE64 Кодированный файл"
+    },
+    "decode": {
+      "title": "BASE64 Кодированный файл",
+      "button": "декодирование",
+      "download": "скачать"
+    }
+  },
+  "zh-tw": {
+    "encode": {
+      "chooseFile": "選擇文件",
+      "resultTitle": "Base64 編碼後的文件"
+    },
+    "decode": {
+      "title": "Base64 編碼後的文件",
+      "button": "解碼",
+      "download": "下載"
+    }
+  }
+}

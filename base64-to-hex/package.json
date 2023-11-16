@@ -1,0 +1,43 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "id": "base64-to-hex",
+    "name": "Base64 to Hex",
+    "icon": "block-outlined",
+    "version": "1.0.7",
+    "isPublic": true,
+    "repository": "",
+    "category": [
+      "encode"
+    ],
+    "description": "Base64 to Hex tool is a tool that can convert Base64 encoding to hexadecimal encoding. Users can use this tool by entering or pasting Base64 encoded strings, and the converted hexadecimal encoded string will be displayed in the output area of the tool.\n\nFunction description:\n\n1. Enter or paste Base64 encoded string.\n\n2. The tool decodes the input string into binary data and then converts it to a hexadecimal encoded string.\n\n3. Users can choose different separators and case formats to customize the conversion results.\n\nUsage scenarios:\n\n1. Data encryption and decryption: Base64 encoding is often used to securely transmit binary data, such as encryption keys and sensitive information, in network transmission. This tool can convert Base64 encoding to hexadecimal encoding, making it easier to decrypt data.\n\n2. Debugging network requests: When debugging network requests, the response returned by the server may be Base64 encoded. Using this tool can convert Base64 encoding to hexadecimal encoding for better understanding of the response content.",
+    "keywords": [
+      "Base64",
+      "Hex",
+      "Encoding",
+      "Decoding",
+      "Encryption",
+      "Decryption"
+    ],
+    "relatedToolId": [
+      "hex-to-base64"
+    ]
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

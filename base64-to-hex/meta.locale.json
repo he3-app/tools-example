@@ -1,0 +1,133 @@
+{
+  "en": {
+    "$name": "Base64 to Hex",
+    "$description": "Base64 to Hex tool is a tool that can convert Base64 encoding to hexadecimal encoding. Users can use this tool by entering or pasting Base64 encoded strings, and the converted hexadecimal encoded string will be displayed in the output area of the tool.\n\nFunction description:\n\n1. Enter or paste Base64 encoded string.\n\n2. The tool decodes the input string into binary data and then converts it to a hexadecimal encoded string.\n\n3. Users can choose different separators and case formats to customize the conversion results.\n\nUsage scenarios:\n\n1. Data encryption and decryption: Base64 encoding is often used to securely transmit binary data, such as encryption keys and sensitive information, in network transmission. This tool can convert Base64 encoding to hexadecimal encoding, making it easier to decrypt data.\n\n2. Debugging network requests: When debugging network requests, the response returned by the server may be Base64 encoded. Using this tool can convert Base64 encoding to hexadecimal encoding for better understanding of the response content.",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "Encoding",
+      "Decoding",
+      "Encryption",
+      "Decryption"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Base64 轉換成十六進位",
+    "$description": "Base64 to Hex 工具是一種可以將 Base64 編碼轉換為十六進制編碼的工具。用戶可以通過輸入或粘貼 Base64 編碼字符串來使用此工具，並將轉換後的十六進制編碼字符串顯示在工具的輸出區域中。\n\n功能描述：\n\n1. 輸入或粘貼 Base64 編碼字符串。\n\n2. 工具會將輸入的字符串解碼為二進制數據，然後將其轉換為十六進制編碼字符串。\n\n3. 用戶可以選擇不同的分隔符和大小寫格式，以定制化轉換結果。\n\n使用場景：\n\n1. 數據加密和解密：Base64 編碼通常用於在網絡傳輸中安全地傳輸二進制數據，例如加密密鑰和敏感信息等。此工具可以將 Base64 編碼轉換為十六進制編碼，從而方便對數據進行解密。\n\n2. 調試網絡請求：在調試網絡請求時，服務器返回的響應可能是 Base64 編碼的。使用此工具可以將 Base64 編碼轉換為十六進制編碼，以便更好地理解響應內容。",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "編碼",
+      "解碼",
+      "加密",
+      "解密"
+    ]
+  },
+  "es": {
+    "$name": "Base64 a Hex",
+    "$description": "La herramienta Base64 a Hex es una herramienta que convierte la codificación Base64 en codificación hexadecimal. Los usuarios pueden utilizar esta herramienta ingresando o pegando una cadena de codificación Base64 y la cadena de codificación hexadecimal convertida se mostrará en el área de salida de la herramienta.\n\nDescripción de la función:\n\n1. Ingrese o pegue una cadena de codificación Base64.\n\n2. La herramienta decodificará la cadena de entrada en datos binarios y luego la convertirá en una cadena de codificación hexadecimal.\n\n3. Los usuarios pueden elegir diferentes separadores y formatos de mayúsculas y minúsculas para personalizar los resultados de conversión.\n\nEscenarios de uso:\n\n1. Cifrado y descifrado de datos: la codificación Base64 se utiliza comúnmente para transmitir datos binarios de manera segura en la transmisión de red, como claves de cifrado e información confidencial. Esta herramienta puede convertir la codificación Base64 en codificación hexadecimal para facilitar el descifrado de datos.\n\n2. Depuración de solicitudes de red: al depurar solicitudes de red, la respuesta devuelta por el servidor puede estar codificada en Base64. El uso de esta herramienta puede convertir la codificación Base64 en codificación hexadecimal para comprender mejor el contenido de la respuesta.",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "codificación",
+      "decodificación",
+      "cifrado",
+      "descifrado"
+    ]
+  },
+  "ja": {
+    "$name": "Base64からHexへ",
+    "$description": "Base64からHexへは、Base64エンコードを16進数エンコードに変換することができるツールです。ユーザーは、Base64エンコード文字列を入力または貼り付けてこのツールを使用し、変換された16進数エンコード文字列をツールの出力領域に表示することができます。\n\n機能説明：\n\n1. Base64エンコード文字列を入力または貼り付けます。\n\n2. ツールは入力された文字列をバイナリデータにデコードし、それを16進数エンコード文字列に変換します。\n\n3. ユーザーは、カスタマイズされた変換結果を得るために、異なる区切り文字と大文字/小文字の形式を選択できます。\n\n使用シーン：\n\n1. データの暗号化と復号化：Base64エンコードは、通常、暗号化キーや機密情報などのバイナリデータを安全にネットワーク転送するために使用されます。このツールを使用すると、Base64エンコードを16進数エンコードに変換して、データを復号化することができます。\n\n2. ネットワークリクエストのデバッグ：ネットワークリクエストをデバッグする際、サーバーからのレスポンスはBase64エンコードされている場合があります。このツールを使用すると、Base64エンコードを16進数エンコードに変換して、レスポンス内容をより理解しやすくすることができます。",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "エンコード",
+      "デコード",
+      "暗号化",
+      "復号化"
+    ]
+  },
+  "ko": {
+    "$name": "Base64 to Hex",
+    "$description": "Base64 to Hex 도구는 Base64 인코딩을 16진수 인코딩으로 변환할 수 있는 도구입니다. 사용자는 Base64 인코딩 문자열을 입력하거나 붙여넣어 이 도구를 사용할 수 있으며, 변환된 16진수 인코딩 문자열은 도구의 출력 영역에 표시됩니다.\n\n기능 설명:\n\n1. Base64 인코딩 문자열을 입력하거나 붙여넣습니다.\n\n2. 도구는 입력된 문자열을 이진 데이터로 디코딩한 다음 16진수 인코딩 문자열로 변환합니다.\n\n3. 사용자는 다른 구분 기호와 대소문자 형식을 선택하여 변환 결과를 사용자 정의할 수 있습니다.\n\n사용 시나리오:\n\n1. 데이터 암호화 및 복호화: Base64 인코딩은 일반적으로 이진 데이터를 안전하게 전송하기 위해 네트워크 전송에 사용됩니다. 예를 들어 암호화 키 및 민감한 정보 등이 있습니다. 이 도구를 사용하여 Base64 인코딩을 16진수 인코딩으로 변환하여 데이터를 복호화할 수 있습니다.\n\n2. 네트워크 요청 디버깅: 네트워크 요청을 디버깅할 때 서버에서 반환된 응답이 Base64 인코딩일 수 있습니다. 이 도구를 사용하여 Base64 인코딩을 16진수 인코딩으로 변환하여 응답 내용을 더 잘 이해할 수 있습니다.",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "인코딩",
+      "디코딩",
+      "암호화",
+      "복호화"
+    ]
+  },
+  "de": {
+    "$name": "Base64 zu Hex",
+    "$description": "Das Base64 zu Hex-Tool ist ein Tool, mit dem Base64-Codierung in Hexadezimalcodierung umgewandelt werden kann. Benutzer können dieses Tool verwenden, indem sie eine Base64-Codierungszeichenfolge eingeben oder einfügen und die konvertierte Hexadezimalcodierungszeichenfolge im Ausgabegebiet des Tools anzeigen lassen.\n\nFunktionsbeschreibung:\n\n1. Geben Sie eine Base64-Codierungszeichenfolge ein oder fügen Sie sie ein.\n\n2. Das Tool dekodiert die eingegebene Zeichenfolge in Binärdaten und wandelt sie dann in eine Hexadezimalcodierungszeichenfolge um.\n\n3. Benutzer können verschiedene Trennzeichen und Groß- / Kleinschreibungsoptionen auswählen, um das Konvertierungsergebnis anzupassen.\n\nVerwendungsszenarien:\n\n1. Datenverschlüsselung und -entschlüsselung: Base64-Codierung wird häufig verwendet, um binäre Daten sicher über das Netzwerk zu übertragen, z. B. Verschlüsselungsschlüssel und vertrauliche Informationen. Mit diesem Tool kann Base64-Codierung in Hexadezimalcodierung umgewandelt werden, um die Entschlüsselung von Daten zu erleichtern.\n\n2. Debuggen von Netzwerkanforderungen: Bei der Debugging von Netzwerkanforderungen kann die vom Server zurückgegebene Antwort Base64-codiert sein. Mit diesem Tool kann Base64-Codierung in Hexadezimalcodierung umgewandelt werden, um den Inhalt der Antwort besser zu verstehen.",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "Codierung",
+      "Entschlüsselung",
+      "Verschlüsselung"
+    ]
+  },
+  "fr": {
+    "$name": "Base64 vers Hex",
+    "$description": "L'outil Base64 vers Hex est un outil qui permet de convertir un encodage Base64 en encodage hexadécimal. Les utilisateurs peuvent utiliser cet outil en entrant ou en collant une chaîne d'encodage Base64, et la chaîne d'encodage hexadécimal convertie sera affichée dans la zone de sortie de l'outil.\n\nDescription des fonctionnalités :\n\n1. Entrez ou collez une chaîne d'encodage Base64.\n\n2. L'outil décode la chaîne d'entrée en données binaires, puis la convertit en chaîne d'encodage hexadécimal.\n\n3. Les utilisateurs peuvent choisir différents séparateurs et formats de casse pour personnaliser les résultats de la conversion.\n\nScénarios d'utilisation :\n\n1. Cryptage et décryptage de données : L'encodage Base64 est souvent utilisé pour transmettre des données binaires en toute sécurité lors de la transmission sur le réseau, telles que des clés de cryptage et des informations sensibles. Cet outil peut convertir l'encodage Base64 en encodage hexadécimal, ce qui facilite le décryptage des données.\n\n2. Débogage des requêtes réseau : Lors du débogage des requêtes réseau, la réponse renvoyée par le serveur peut être encodée en Base64. En utilisant cet outil, vous pouvez convertir l'encodage Base64 en encodage hexadécimal pour mieux comprendre le contenu de la réponse.",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "encodage",
+      "décodage",
+      "cryptage",
+      "décryptage"
+    ]
+  },
+  "it": {
+    "$name": "Base64 to Hex",
+    "$description": "Lo strumento Base64 to Hex è uno strumento che consente di convertire il codice Base64 in codice esadecimale. L'utente può utilizzare questo strumento inserendo o incollando una stringa di codifica Base64 e visualizzando la stringa di codice esadecimale convertita nell'area di output dello strumento.\n\nDescrizione delle funzioni:\n\n1. Inserisci o incolla una stringa di codifica Base64.\n\n2. Lo strumento decodificherà la stringa di input in dati binari e quindi la convertirà in una stringa di codice esadecimale.\n\n3. L'utente può scegliere diversi separatori e formati di maiuscole e minuscole per personalizzare i risultati della conversione.\n\nScenari di utilizzo:\n\n1. Crittografia e decrittografia dei dati: la codifica Base64 viene spesso utilizzata per trasmettere in modo sicuro dati binari come chiavi di crittografia e informazioni sensibili tramite la rete. Questo strumento consente di convertire la codifica Base64 in codice esadecimale per facilitare la decrittografia dei dati.\n\n2. Debug delle richieste di rete: durante il debug delle richieste di rete, la risposta restituita dal server potrebbe essere codificata in Base64. Utilizzando questo strumento, è possibile convertire la codifica Base64 in codice esadecimale per comprendere meglio il contenuto della risposta.",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "codifica",
+      "decodifica",
+      "crittografia",
+      "decrittografia"
+    ]
+  },
+  "ru": {
+    "$name": "Base64 в Hex",
+    "$description": "Инструмент Base64 to Hex - это инструмент, который позволяет преобразовывать кодировку Base64 в шестнадцатеричную кодировку. Пользователи могут использовать этот инструмент, вводя или вставляя строку кодировки Base64, и преобразованную строку шестнадцатеричной кодировки будет отображаться в области вывода инструмента.\n\nОписание функций:\n\n1. Введите или вставьте строку кодировки Base64.\n\n2. Инструмент декодирует введенную строку в двоичные данные, а затем преобразует ее в строку шестнадцатеричной кодировки.\n\n3. Пользователи могут выбирать различные разделители и форматы регистра, чтобы настроить результаты преобразования.\n\nСценарии использования:\n\n1. Шифрование и дешифрование данных: кодировка Base64 обычно используется для безопасной передачи двоичных данных в сети, таких как ключи шифрования и конфиденциальная информация. Этот инструмент может преобразовывать кодировку Base64 в шестнадцатеричную кодировку, что упрощает дешифрование данных.\n\n2. Отладка сетевых запросов: при отладке сетевых запросов ответ, полученный от сервера, может быть закодирован в кодировку Base64. Использование этого инструмента позволяет преобразовывать кодировку Base64 в шестнадцатеричную кодировку, чтобы лучше понимать содержание ответа.",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "кодировка",
+      "декодирование",
+      "шифрование",
+      "дешифрование"
+    ]
+  },
+  "pt": {
+    "$name": "Base64 para Hex",
+    "$description": "A ferramenta Base64 para Hex é uma ferramenta que converte codificação Base64 em codificação hexadecimal. Os usuários podem usar esta ferramenta digitando ou colando uma string de codificação Base64 e a string de codificação hexadecimal convertida será exibida na área de saída da ferramenta.\n\nDescrição das funções:\n\n1. Digite ou cole a string de codificação Base64.\n\n2. A ferramenta decodifica a string de entrada em dados binários e, em seguida, converte-a em uma string de codificação hexadecimal.\n\n3. Os usuários podem escolher diferentes separadores e formatos de maiúsculas e minúsculas para personalizar o resultado da conversão.\n\nCenários de uso:\n\n1. Criptografia e descriptografia de dados: A codificação Base64 é comumente usada para transmitir dados binários com segurança na rede, como chaves de criptografia e informações confidenciais. Esta ferramenta pode converter codificação Base64 em codificação hexadecimal para facilitar a descriptografia de dados.\n\n2. Depuração de solicitações de rede: Ao depurar solicitações de rede, a resposta do servidor pode estar em codificação Base64. Usando esta ferramenta, a codificação Base64 pode ser convertida em codificação hexadecimal para melhor entender o conteúdo da resposta.",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "codificação",
+      "decodificação",
+      "criptografia",
+      "descriptografia"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Base64转十六进制",
+    "$description": "Base64 to Hex 工具是一种可以将 Base64 编码转换为十六进制编码的工具。用户可以通过输入或粘贴 Base64 编码字符串来使用此工具，并将转换后的十六进制编码字符串显示在工具的输出区域中。\n\n功能描述：\n\n1. 输入或粘贴 Base64 编码字符串。\n\n2. 工具会将输入的字符串解码为二进制数据，然后将其转换为十六进制编码字符串。\n\n3. 用户可以选择不同的分隔符和大小写格式，以定制化转换结果。\n\n使用场景：\n\n1. 数据加密和解密：Base64 编码通常用于在网络传输中安全地传输二进制数据，例如加密密钥和敏感信息等。此工具可以将 Base64 编码转换为十六进制编码，从而方便对数据进行解密。\n\n2. 调试网络请求：在调试网络请求时，服务器返回的响应可能是 Base64 编码的。使用此工具可以将 Base64 编码转换为十六进制编码，以便更好地理解响应内容。",
+    "$keywords": [
+      "Base64",
+      "Hex",
+      "编码",
+      "解码",
+      "加密",
+      "解密"
+    ]
+  }
+}

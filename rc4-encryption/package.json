@@ -1,0 +1,44 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "userId": "3e696ac5-0721-4558-8c21-5b501c27115e",
+    "name": "RC4 Encryption",
+    "id": "rc4-encryption",
+    "isPublic": true,
+    "relatedToolId": [
+      "rc4-decryption"
+    ],
+    "version": "1.0.4",
+    "description": "RC4 Encryption tool is a tool used to encrypt text. It uses the RC4 algorithm to encrypt the input text and provides some options to customize the encryption process.\n\nFeatures:\n\n1. Input the text to be encrypted.\n\n2. Input the encryption key.\n\n3. Choose whether to use the RC4 Drop algorithm.\n\n4. If you choose to use the RC4 Drop algorithm, you can input a number as the \"drop\" parameter.\n\n5. Click the \"Encrypt\" button, and the tool will use the RC4 algorithm to encrypt the input text and display the encrypted result in the output area.\n\nUse cases:\n\n1. Protect sensitive information: Using the RC4 Encryption tool can encrypt sensitive information to protect its security.\n\n2. Protect communication: In network communication, using the RC4 Encryption tool can encrypt data to prevent eavesdropping or tampering.\n\n3. Encrypt files: Using the RC4 Encryption tool can encrypt files to protect the confidentiality of the files.\n\n4. Learn encryption algorithms: Using the RC4 Encryption tool can understand the working principle and usage of the RC4 algorithm.",
+    "repository": "",
+    "icon": "lock-outlined",
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "rc4",
+      "symmetric",
+      "encryption",
+      "encrypt",
+      "Symmetric Encryption",
+      "Encryption Algorithm"
+    ]
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

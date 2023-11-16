@@ -1,0 +1,915 @@
+{
+  "zh": {
+    "sign": {
+      "title": {
+        "message": "输入信息或者选择文件",
+        "private": "提供您的私钥",
+        "passphrase": "密码",
+        "result": "签名后的信息"
+      },
+      "button": "签名这条信息"
+    },
+    "verify": {
+      "message": {
+        "success": "签名验证通过",
+        "fail": "验证未通过"
+      },
+      "title": {
+        "message": "PGP 签名过的信息",
+        "public": "签名者的公钥",
+        "result": "原始信息"
+      },
+      "button": "验证签名"
+    },
+    "encrypt": {
+      "title": {
+        "message": "待加密的信息",
+        "public": "接收者的公钥",
+        "encrypted": "加密后的信息"
+      },
+      "button": "加密这条信息"
+    },
+    "decrypt": {
+      "title": {
+        "message": "待解密的信息",
+        "private": "接收者的私钥 (解密用)",
+        "passphrase": "密码",
+        "result": "解密后的信息"
+      },
+      "button": "解密这条信息"
+    },
+    "generator": {
+      "label": {
+        "username": "用户名",
+        "email": "电子邮箱",
+        "comment": "(可选) 备注",
+        "algorithm": "算法",
+        "bits": "位",
+        "expiration": "过期时间",
+        "passphrase": "密码"
+      },
+      "placeholder": {
+        "username": "用户名",
+        "email": "电子邮箱",
+        "comment": "(可选) 备注",
+        "passphrase": "密码"
+      },
+      "prompt": {
+        "username": "请输入用户名",
+        "email": "请输入邮箱",
+        "passphrase": "请输入密码"
+      },
+      "alg": {
+        "rsa": "RSA (推荐)",
+        "ecc": "ECC (椭圆曲线加密)"
+      },
+      "bits": {
+        "b2k": "2048 位 (稳定)",
+        "b4k": "4096 位 (更稳定) [推荐]",
+        "b8k": "8192 位 (非常稳定, 非常慢)"
+      },
+      "expiration": {
+        "never": "永不",
+        "y1": "1 年",
+        "y2": "2 年",
+        "y4": "4 年",
+        "y8": "8 年"
+      },
+      "output": {
+        "private": "私钥",
+        "public": "公钥"
+      },
+      "generate": "生成密钥"
+    }
+  },
+  "en": {
+    "sign": {
+      "title": {
+        "message": "Input your message or select a file",
+        "private": "Provide your private key here",
+        "passphrase": "Passphrase",
+        "result": "Signed Message"
+      },
+      "button": "Sign the message"
+    },
+    "verify": {
+      "message": {
+        "success": "Message signature is verified",
+        "fail": "Message failed to verify"
+      },
+      "title": {
+        "message": "PGP-signed Message",
+        "public": "Signer's Public Key",
+        "result": "Raw Message"
+      },
+      "button": "Verify signature"
+    },
+    "encrypt": {
+      "title": {
+        "message": "Message to Encrypt",
+        "public": "Receiver's Public Key",
+        "encrypted": "Encrypted Message"
+      },
+      "button": "Encrypt the message"
+    },
+    "decrypt": {
+      "title": {
+        "message": "Message to Decrypt",
+        "private": "Receiver's Private Key (For decryption purpose)",
+        "passphrase": "Passphrase",
+        "result": "Decrypted Message"
+      },
+      "button": "Decrypt the message"
+    },
+    "generator": {
+      "label": {
+        "username": "Username",
+        "email": "Email",
+        "comment": "(Optional) Comment",
+        "algorithm": "Algorithm",
+        "bits": "Bits",
+        "expiration": "Expiration Time",
+        "passphrase": "Passphrase"
+      },
+      "placeholder": {
+        "username": "Username",
+        "email": "Email",
+        "comment": "(Optional) Comment",
+        "passphrase": "Passphrase"
+      },
+      "prompt": {
+        "username": "Please input username!",
+        "email": "Please input email!",
+        "passphrase": "Please input passphrase!"
+      },
+      "alg": {
+        "rsa": "RSA (Recommended)",
+        "ecc": "ECC (Elliptic Curve Cryptography)"
+      },
+      "bits": {
+        "b2k": "2048 bits (secure)",
+        "b4k": "4096 bits (more secure) [Recommended]",
+        "b8k": "8192 bits (super secure, super slow)"
+      },
+      "expiration": {
+        "never": "Never",
+        "y1": "1 year",
+        "y2": "2 years",
+        "y4": "4 years",
+        "y8": "8 years"
+      },
+      "output": {
+        "private": "Private Key",
+        "public": "Public Key"
+      },
+      "generate": "Generate Keys"
+    }
+  },
+  "de": {
+    "sign": {
+      "title": {
+        "message": "Informationen eingeben oder Dateien auswählen",
+        "private": "Geben Sie Ihren privaten Schlüssel an",
+        "passphrase": "Passwort",
+        "result": "Signaturinformationen"
+      },
+      "button": "Unterschrift Diese Informationen"
+    },
+    "verify": {
+      "message": {
+        "success": "Unterschriftenüberprüfung bestanden",
+        "fail": "Versagen überprüfen"
+      },
+      "title": {
+        "message": "PGP -Signaturinformationen",
+        "public": "Signaturers öffentlicher Schlüssel",
+        "result": "Originalinformationen"
+      },
+      "button": "Überprüfungssignatur"
+    },
+    "encrypt": {
+      "title": {
+        "message": "Die zu verschlüsselten Informationen",
+        "public": "Der öffentliche Schlüssel des Empfängers",
+        "encrypted": "Bezaubernde Informationen"
+      },
+      "button": "Verschlüsseln Sie diese Informationen"
+    },
+    "decrypt": {
+      "title": {
+        "message": "Informationen zu entschlüsseln",
+        "private": "Der private Schlüssel des Empfängers (zur Entschlüsselung)",
+        "passphrase": "Passwort",
+        "result": "Informationen nach der Entschlüsselung"
+      },
+      "button": "Diese Informationen dekollieren"
+    },
+    "generator": {
+      "label": {
+        "username": "Nutzername",
+        "email": "Email",
+        "comment": "(Optionale) Bemerkungen",
+        "algorithm": "Algorithmus",
+        "bits": "bits",
+        "expiration": "Ablauf",
+        "passphrase": "Passwort"
+      },
+      "placeholder": {
+        "username": "Nutzername",
+        "email": "Email",
+        "comment": "(Optionale) Bemerkungen",
+        "passphrase": "Passwort"
+      },
+      "prompt": {
+        "username": "Bitte geben sie einen Benutzernamen ein",
+        "email": "Bitte geben Sie Ihre E -Mail ein",
+        "passphrase": "Bitte geben Sie das Passwort ein"
+      },
+      "alg": {
+        "rsa": "RSA (empfohlen)",
+        "ecc": "ECC (Ellipse -Kurvenverschlüsselung)"
+      },
+      "bits": {
+        "b2k": "2048 -bit (stabil)",
+        "b4k": "4096 -bit (stabiler) [Empfohlen]",
+        "b8k": "8192 (sehr stabil, sehr langsam)"
+      },
+      "expiration": {
+        "never": "Niemals",
+        "y1": "1 Jahr",
+        "y2": "2 Jahre",
+        "y4": "4 Jahre",
+        "y8": "8 Jahre"
+      },
+      "output": {
+        "private": "Privat Schlüssel",
+        "public": "Öffentlicher Schlüssel"
+      },
+      "generate": "Schlüssel generieren"
+    }
+  },
+  "es": {
+    "sign": {
+      "title": {
+        "message": "Ingrese información o seleccione Archivos",
+        "private": "Proporcione su clave privada",
+        "passphrase": "contraseña",
+        "result": "Información de la firma"
+      },
+      "button": "Firma esta información"
+    },
+    "verify": {
+      "message": {
+        "success": "Se aprobó la verificación de la firma",
+        "fail": "Verificar la falla"
+      },
+      "title": {
+        "message": "Información de firma PGP",
+        "public": "Clave pública del firmante",
+        "result": "Información original"
+      },
+      "button": "Firma de verificación"
+    },
+    "encrypt": {
+      "title": {
+        "message": "La información para estar encriptada",
+        "public": "La clave pública del destinatario",
+        "encrypted": "Información encantadora"
+      },
+      "button": "Cifrar esta información"
+    },
+    "decrypt": {
+      "title": {
+        "message": "Información para descifrar",
+        "private": "La clave privada del receptor (para descifrado)",
+        "passphrase": "contraseña",
+        "result": "Información después del descifrado"
+      },
+      "button": "Describiendo esta información"
+    },
+    "generator": {
+      "label": {
+        "username": "nombre de usuario",
+        "email": "Correo electrónico",
+        "comment": "(Opcional) Observaciones",
+        "algorithm": "algoritmo",
+        "bits": "bits",
+        "expiration": "Vencimiento",
+        "passphrase": "contraseña"
+      },
+      "placeholder": {
+        "username": "nombre de usuario",
+        "email": "Correo electrónico",
+        "comment": "(Opcional) Observaciones",
+        "passphrase": "contraseña"
+      },
+      "prompt": {
+        "username": "Ingrese el nombre de usuario",
+        "email": "Ingrese su correo electrónico",
+        "passphrase": "Por favor introduzca la contraseña"
+      },
+      "alg": {
+        "rsa": "RSA (recomendado)",
+        "ecc": "ECC (cifrado de la curva de ellipse)"
+      },
+      "bits": {
+        "b2k": "2048 -bit (estable)",
+        "b4k": "4096 -bit (más estable) [recomendado]",
+        "b8k": "8192 (muy estable, muy lento)"
+      },
+      "expiration": {
+        "never": "Nunca",
+        "y1": "1 año",
+        "y2": "2 años",
+        "y4": "4 años",
+        "y8": "8 años"
+      },
+      "output": {
+        "private": "Llave privada",
+        "public": "Llave pública"
+      },
+      "generate": "Generar clave"
+    }
+  },
+  "fr": {
+    "sign": {
+      "title": {
+        "message": "Entrez des informations ou sélectionnez des fichiers",
+        "private": "Fournissez votre clé privée",
+        "passphrase": "mot de passe",
+        "result": "Informations de signature"
+      },
+      "button": "Signature ces informations"
+    },
+    "verify": {
+      "message": {
+        "success": "La vérification de la signature est passée",
+        "fail": "Vérifier l'échec"
+      },
+      "title": {
+        "message": "Informations sur la signature PGP",
+        "public": "Clé publique de Signaturer",
+        "result": "Informations originales"
+      },
+      "button": "Signature de vérification"
+    },
+    "encrypt": {
+      "title": {
+        "message": "Les informations à crypter",
+        "public": "La clé publique du destinataire",
+        "encrypted": "Informations enchanteresses"
+      },
+      "button": "Crypter ces informations"
+    },
+    "decrypt": {
+      "title": {
+        "message": "Informations à décrypter",
+        "private": "La clé privée du récepteur (pour décryptage)",
+        "passphrase": "mot de passe",
+        "result": "Informations après décryptage"
+      },
+      "button": "Décoller ces informations"
+    },
+    "generator": {
+      "label": {
+        "username": "nom d'utilisateur",
+        "email": "E-mail",
+        "comment": "Remarques (facultatives)",
+        "algorithm": "algorithme",
+        "bits": "bits",
+        "expiration": "Expiration",
+        "passphrase": "mot de passe"
+      },
+      "placeholder": {
+        "username": "nom d'utilisateur",
+        "email": "E-mail",
+        "comment": "Remarques (facultatives)",
+        "passphrase": "mot de passe"
+      },
+      "prompt": {
+        "username": "Veuillez saisir le nom d'utilisateur",
+        "email": "Veuillez saisir votre e-mail",
+        "passphrase": "S'il vous plaît entrer le mot de passe"
+      },
+      "alg": {
+        "rsa": "RSA (recommandé)",
+        "ecc": "ECC (chiffrement de la courbe ellipse)"
+      },
+      "bits": {
+        "b2k": "2048 -BIT (stable)",
+        "b4k": "4096 -BIT (plus stable) [recommandé]",
+        "b8k": "8192 (très stable, très lent)"
+      },
+      "expiration": {
+        "never": "Jamais",
+        "y1": "1 an",
+        "y2": "2 années",
+        "y4": "4 années",
+        "y8": "8 années"
+      },
+      "output": {
+        "private": "Clé privée",
+        "public": "Clé publique"
+      },
+      "generate": "Générer une clé"
+    }
+  },
+  "it": {
+    "sign": {
+      "title": {
+        "message": "Immettere informazioni o selezionare i file",
+        "private": "Fornisci la tua chiave privata",
+        "passphrase": "parola d'ordine",
+        "result": "Informazioni sulla firma"
+      },
+      "button": "Firma queste informazioni"
+    },
+    "verify": {
+      "message": {
+        "success": "Verifica della firma passata",
+        "fail": "Verificare il fallimento"
+      },
+      "title": {
+        "message": "Informazioni sulla firma PGP",
+        "public": "Chiave pubblica di Signaturer",
+        "result": "Informazioni originali"
+      },
+      "button": "Firma di verifica"
+    },
+    "encrypt": {
+      "title": {
+        "message": "Le informazioni da crittografare",
+        "public": "La chiave pubblica del destinatario",
+        "encrypted": "Informazioni incantevoli"
+      },
+      "button": "Crittografare queste informazioni"
+    },
+    "decrypt": {
+      "title": {
+        "message": "Informazioni da decrittare",
+        "private": "La chiave privata del ricevitore (per decrittografia)",
+        "passphrase": "parola d'ordine",
+        "result": "Informazioni dopo la decrittazione"
+      },
+      "button": "Decolling queste informazioni"
+    },
+    "generator": {
+      "label": {
+        "username": "nome utente",
+        "email": "E-mail",
+        "comment": "Osservazioni (opzionali)",
+        "algorithm": "algoritmo",
+        "bits": "bits",
+        "expiration": "Scadenza",
+        "passphrase": "parola d'ordine"
+      },
+      "placeholder": {
+        "username": "nome utente",
+        "email": "E-mail",
+        "comment": "Osservazioni (opzionali)",
+        "passphrase": "parola d'ordine"
+      },
+      "prompt": {
+        "username": "Immettere il nome utente",
+        "email": "Si prega di inserire la tua email",
+        "passphrase": "Inserisci la password"
+      },
+      "alg": {
+        "rsa": "RSA (consigliato)",
+        "ecc": "ECC (Ellisse Curve Critty)"
+      },
+      "bits": {
+        "b2k": "2048 -bit (stabile)",
+        "b4k": "4096 -bit (più stabile) [consigliato]",
+        "b8k": "8192 (molto stabile, molto lento)"
+      },
+      "expiration": {
+        "never": "Mai",
+        "y1": "1 anno",
+        "y2": "2 anni",
+        "y4": "4 anni",
+        "y8": "8 anni"
+      },
+      "output": {
+        "private": "Chiave privata",
+        "public": "Chiave pubblica"
+      },
+      "generate": "Generare la chiave"
+    }
+  },
+  "ja": {
+    "sign": {
+      "title": {
+        "message": "情報を入力するか、ファイルを選択します",
+        "private": "あなたの秘密鍵を提供します",
+        "passphrase": "パスワード",
+        "result": "署名情報"
+      },
+      "button": "この情報に署名します"
+    },
+    "verify": {
+      "message": {
+        "success": "署名検証が合格しました",
+        "fail": "障害を確認します"
+      },
+      "title": {
+        "message": "PGP署名情報",
+        "public": "署名者の公開鍵",
+        "result": "元の情報"
+      },
+      "button": "検証署名"
+    },
+    "encrypt": {
+      "title": {
+        "message": "暗号化される情報",
+        "public": "受信者の公開鍵",
+        "encrypted": "魅惑的な情報"
+      },
+      "button": "この情報を暗号化します"
+    },
+    "decrypt": {
+      "title": {
+        "message": "復号化される情報",
+        "private": "レシーバーの秘密鍵（復号化用）",
+        "passphrase": "パスワード",
+        "result": "復号化後の情報"
+      },
+      "button": "この情報を脱カッティングします"
+    },
+    "generator": {
+      "label": {
+        "username": "ユーザー名",
+        "email": "Eメール",
+        "comment": "（オプション）備考",
+        "algorithm": "アルゴリズム",
+        "bits": "bits",
+        "expiration": "有効期限",
+        "passphrase": "パスワード"
+      },
+      "placeholder": {
+        "username": "ユーザー名",
+        "email": "Eメール",
+        "comment": "（オプション）備考",
+        "passphrase": "パスワード"
+      },
+      "prompt": {
+        "username": "ユーザー名を入力してください",
+        "email": "メールを入力してください",
+        "passphrase": "パスワードを入力してください"
+      },
+      "alg": {
+        "rsa": "RSA（推奨）",
+        "ecc": "ECC（楕円曲線暗号化）"
+      },
+      "bits": {
+        "b2k": "2048-ビット（安定）",
+        "b4k": "4096-ビット（より安定）[推奨]",
+        "b8k": "8192（非常に安定して、非常に遅い）"
+      },
+      "expiration": {
+        "never": "一度もない",
+        "y1": "1年",
+        "y2": "2年",
+        "y4": "4年",
+        "y8": "8年"
+      },
+      "output": {
+        "private": "秘密鍵",
+        "public": "公開鍵"
+      },
+      "generate": "キーを生成します"
+    }
+  },
+  "ko": {
+    "sign": {
+      "title": {
+        "message": "정보를 입력하거나 파일을 선택하십시오",
+        "private": "개인 키를 제공하십시오",
+        "passphrase": "비밀번호",
+        "result": "서명 정보"
+      },
+      "button": "이 정보 서명"
+    },
+    "verify": {
+      "message": {
+        "success": "서명 검증이 통과되었습니다",
+        "fail": "실패를 확인하십시오"
+      },
+      "title": {
+        "message": "PGP 서명 정보",
+        "public": "Signaturer의 공개 키",
+        "result": "원본 정보"
+      },
+      "button": "확인 서명"
+    },
+    "encrypt": {
+      "title": {
+        "message": "암호화 할 정보",
+        "public": "수령인의 공개 키",
+        "encrypted": "매혹적인 정보"
+      },
+      "button": "이 정보를 암호화합니다"
+    },
+    "decrypt": {
+      "title": {
+        "message": "해독 될 정보",
+        "private": "수신기의 개인 키 (암호 해독 용)",
+        "passphrase": "비밀번호",
+        "result": "암호 해독 후 정보"
+      },
+      "button": "이 정보를 정리합니다"
+    },
+    "generator": {
+      "label": {
+        "username": "사용자 이름",
+        "email": "이메일",
+        "comment": "(선택 사항) 비고",
+        "algorithm": "연산",
+        "bits": "bits",
+        "expiration": "만료",
+        "passphrase": "비밀번호"
+      },
+      "placeholder": {
+        "username": "사용자 이름",
+        "email": "이메일",
+        "comment": "(선택 사항) 비고",
+        "passphrase": "비밀번호"
+      },
+      "prompt": {
+        "username": "사용자 이름을 입력하십시오",
+        "email": "이메일을 입력하십시오",
+        "passphrase": "비밀번호를 입력하십시오"
+      },
+      "alg": {
+        "rsa": "RSA (권장)",
+        "ecc": "ECC (타원 곡선 암호화)"
+      },
+      "bits": {
+        "b2k": "2048 -BIT (안정)",
+        "b4k": "4096 -BIT (더 안정된) [권장]",
+        "b8k": "8192 (매우 안정적이고 매우 느립니다)"
+      },
+      "expiration": {
+        "never": "절대",
+        "y1": "일년",
+        "y2": "2 년",
+        "y4": "4 년",
+        "y8": "8 년"
+      },
+      "output": {
+        "private": "개인 키",
+        "public": "공개 키"
+      },
+      "generate": "키를 생성하십시오"
+    }
+  },
+  "pt": {
+    "sign": {
+      "title": {
+        "message": "Digite informações ou selecione arquivos",
+        "private": "Forneça sua chave privada",
+        "passphrase": "senha",
+        "result": "Informações de assinatura"
+      },
+      "button": "Assinatura esta informação"
+    },
+    "verify": {
+      "message": {
+        "success": "Verificação de assinatura aprovada",
+        "fail": "Verifique a falha"
+      },
+      "title": {
+        "message": "Informações de assinatura PGP",
+        "public": "Chave pública do signaturador",
+        "result": "Informações originais"
+      },
+      "button": "Assinatura de verificação"
+    },
+    "encrypt": {
+      "title": {
+        "message": "As informações a serem criptografadas",
+        "public": "A chave pública do destinatário",
+        "encrypted": "Informações encantadoras"
+      },
+      "button": "Criptografar essas informações"
+    },
+    "decrypt": {
+      "title": {
+        "message": "Informações a serem descriptografadas",
+        "private": "A chave privada do receptor (para descriptografia)",
+        "passphrase": "senha",
+        "result": "Informações após descriptografia"
+      },
+      "button": "Decolando essas informações"
+    },
+    "generator": {
+      "label": {
+        "username": "nome de usuário",
+        "email": "E-mail",
+        "comment": "(Opcional) Comentários",
+        "algorithm": "algoritmo",
+        "bits": "bits",
+        "expiration": "Expiração",
+        "passphrase": "senha"
+      },
+      "placeholder": {
+        "username": "nome de usuário",
+        "email": "E-mail",
+        "comment": "(Opcional) Comentários",
+        "passphrase": "senha"
+      },
+      "prompt": {
+        "username": "Por favor, insira o nome de usuário",
+        "email": "Insira seu e -mail",
+        "passphrase": "Por favor insira a senha"
+      },
+      "alg": {
+        "rsa": "RSA (recomendado)",
+        "ecc": "ECC (criptografia de curva Ellipse)"
+      },
+      "bits": {
+        "b2k": "2048 -BIT (estável)",
+        "b4k": "4096 -BIT (mais estável) [recomendado]",
+        "b8k": "8192 (muito estável, muito lento)"
+      },
+      "expiration": {
+        "never": "Nunca",
+        "y1": "1 ano",
+        "y2": "2 anos",
+        "y4": "4 anos",
+        "y8": "8 anos"
+      },
+      "output": {
+        "private": "Chave privada",
+        "public": "Chave pública"
+      },
+      "generate": "Gerar chave"
+    }
+  },
+  "ru": {
+    "sign": {
+      "title": {
+        "message": "Введите информацию или выберите файлы",
+        "private": "Предоставьте свой личный ключ",
+        "passphrase": "пароль",
+        "result": "Информация о подписи"
+      },
+      "button": "Подпись этой информации"
+    },
+    "verify": {
+      "message": {
+        "success": "Проверка подписи прошла",
+        "fail": "Проверьте неудачу"
+      },
+      "title": {
+        "message": "Информация о подписи PGP",
+        "public": "Открытый ключ для подписчика",
+        "result": "Оригинальная информация"
+      },
+      "button": "Подпись проверки"
+    },
+    "encrypt": {
+      "title": {
+        "message": "Информация, которая должна быть зашифрована",
+        "public": "Открытый ключ получателя",
+        "encrypted": "Очаровательная информация"
+      },
+      "button": "Зашифруйте эту информацию"
+    },
+    "decrypt": {
+      "title": {
+        "message": "Информация, которая должна быть расшифрована",
+        "private": "Частный ключ получателя (для дешифрования)",
+        "passphrase": "пароль",
+        "result": "Информация после расшифровки"
+      },
+      "button": "Обезвреживание этой информации"
+    },
+    "generator": {
+      "label": {
+        "username": "имя пользователя",
+        "email": "Электронная почта",
+        "comment": "(Необязательно) Замечания",
+        "algorithm": "алгоритм",
+        "bits": "bits",
+        "expiration": "Срок годности",
+        "passphrase": "пароль"
+      },
+      "placeholder": {
+        "username": "имя пользователя",
+        "email": "Электронная почта",
+        "comment": "(Необязательно) Замечания",
+        "passphrase": "пароль"
+      },
+      "prompt": {
+        "username": "Пожалуйста, введите имя пользователя",
+        "email": "Пожалуйста, введите свою электронную почту",
+        "passphrase": "Пожалуйста, введите пароль"
+      },
+      "alg": {
+        "rsa": "RSA (рекомендуется)",
+        "ecc": "ECC (шифрование кривой эллипса)"
+      },
+      "bits": {
+        "b2k": "2048 -bit (стабильная)",
+        "b4k": "4096 -bit (более стабильный) [рекомендуется]",
+        "b8k": "8192 (очень стабильный, очень медленный)"
+      },
+      "expiration": {
+        "never": "Никогда",
+        "y1": "1 год",
+        "y2": "2 года",
+        "y4": "4 года",
+        "y8": "8 лет"
+      },
+      "output": {
+        "private": "Частный ключ",
+        "public": "Открытый ключ"
+      },
+      "generate": "Генерировать ключ"
+    }
+  },
+  "zh-tw": {
+    "sign": {
+      "title": {
+        "message": "輸入信息或者選擇文件",
+        "private": "提供您的私鑰",
+        "passphrase": "密碼",
+        "result": "簽名後的信息"
+      },
+      "button": "簽名這條信息"
+    },
+    "verify": {
+      "message": {
+        "success": "簽名驗證通過",
+        "fail": "驗證未通過"
+      },
+      "title": {
+        "message": "PGP 簽名過的信息",
+        "public": "簽名者的公鑰",
+        "result": "原始信息"
+      },
+      "button": "驗證簽名"
+    },
+    "encrypt": {
+      "title": {
+        "message": "待加密的信息",
+        "public": "接收者的公鑰",
+        "encrypted": "加密後的信息"
+      },
+      "button": "加密這條信息"
+    },
+    "decrypt": {
+      "title": {
+        "message": "待解密的信息",
+        "private": "接收者的私鑰 (解密用)",
+        "passphrase": "密碼",
+        "result": "解密後的信息"
+      },
+      "button": "解密這條信息"
+    },
+    "generator": {
+      "label": {
+        "username": "用戶名",
+        "email": "電子郵箱",
+        "comment": "(可選) 備註",
+        "algorithm": "算法",
+        "bits": "位",
+        "expiration": "過期時間",
+        "passphrase": "密碼"
+      },
+      "placeholder": {
+        "username": "用戶名",
+        "email": "電子郵箱",
+        "comment": "(可選) 備註",
+        "passphrase": "密碼"
+      },
+      "prompt": {
+        "username": "請輸入用戶名",
+        "email": "請輸入郵箱",
+        "passphrase": "請輸入密碼"
+      },
+      "alg": {
+        "rsa": "RSA (推薦)",
+        "ecc": "ECC (橢圓曲線加密)"
+      },
+      "bits": {
+        "b2k": "2048 位 (穩定)",
+        "b4k": "4096 位 (更穩定) [推薦]",
+        "b8k": "8192 位 (非常穩定, 非常慢)"
+      },
+      "expiration": {
+        "never": "永不",
+        "y1": "1 年",
+        "y2": "2 年",
+        "y4": "4 年",
+        "y8": "8 年"
+      },
+      "output": {
+        "private": "私鑰",
+        "public": "公鑰"
+      },
+      "generate": "生成密鑰"
+    }
+  }
+}

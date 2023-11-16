@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "private": "私钥",
+    "passphrase": "密码",
+    "button": "提取公钥",
+    "public": "公钥"
+  },
+  "en": {
+    "private": "Private Key",
+    "passphrase": "Passphrase",
+    "button": "Extract Public Key",
+    "public": "Public Key"
+  },
+  "de": {
+    "private": "Privat Schlüssel",
+    "passphrase": "Passwort",
+    "button": "Den öffentlichen Schlüssel extrahieren",
+    "public": "Öffentlicher Schlüssel"
+  },
+  "es": {
+    "private": "Llave privada",
+    "passphrase": "contraseña",
+    "button": "Extraer la clave pública",
+    "public": "Llave pública"
+  },
+  "fr": {
+    "private": "Clé privée",
+    "passphrase": "mot de passe",
+    "button": "Extraire la clé publique",
+    "public": "Clé publique"
+  },
+  "it": {
+    "private": "Chiave privata",
+    "passphrase": "parola d'ordine",
+    "button": "Estrai la chiave pubblica",
+    "public": "Chiave pubblica"
+  },
+  "ja": {
+    "private": "秘密鍵",
+    "passphrase": "パスワード",
+    "button": "公開キーを抽出します",
+    "public": "公開鍵"
+  },
+  "ko": {
+    "private": "개인 키",
+    "passphrase": "비밀번호",
+    "button": "공개 키를 추출하십시오",
+    "public": "공개 키"
+  },
+  "pt": {
+    "private": "Chave privada",
+    "passphrase": "senha",
+    "button": "Extrair a chave pública",
+    "public": "Chave pública"
+  },
+  "ru": {
+    "private": "Частный ключ",
+    "passphrase": "пароль",
+    "button": "Извлечь открытый ключ",
+    "public": "Открытый ключ"
+  },
+  "zh-tw": {
+    "private": "私鑰",
+    "passphrase": "密碼",
+    "button": "提取公鑰",
+    "public": "公鑰"
+  }
+}

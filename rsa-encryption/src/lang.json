@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "inputKey": "请在此处输入密钥:",
+    "enc": "文件加密成功，点击按钮输出文件",
+    "dec": "文件解密成功，点击按钮输出文件",
+    "publicKey": "公钥加密",
+    "privateKey": "私钥签名"
+  },
+  "en": {
+    "inputKey": "Please enter your key here:",
+    "enc": "The file is encrypted successfully. Click the button to output the file",
+    "dec": "The file is decrypted successfully. Click the button to output the file",
+    "publicKey": "Public Key Encryption",
+    "privateKey": "Private Key Signing"
+  },
+  "de": {
+    "inputKey": "Bitte geben Sie hier den Schlüssel ein:",
+    "enc": "Die Dateiverschlüsselung ist erfolgreich. Klicken Sie auf die Schaltfläche, um die Datei auszugeben",
+    "dec": "Die Dateientschlüsselung ist erfolgreich. Klicken Sie auf die Schaltfläche, um die Datei auszugeben",
+    "publicKey": "Öffentliche Schlüsselverschlüsselung",
+    "privateKey": "Private Schlüssel Signierung"
+  },
+  "es": {
+    "inputKey": "Ingrese la clave aquí:",
+    "enc": "El cifrado de archivo es exitoso, haga clic en el botón para emitir el archivo",
+    "dec": "El descifrado del archivo es exitoso, haga clic en el botón para emitir el archivo",
+    "publicKey": "Cifrado de llave pública",
+    "privateKey": "Firma con llave privada"
+  },
+  "fr": {
+    "inputKey": "Veuillez saisir la clé ici:",
+    "enc": "Le chiffrement du fichier est réussi, cliquez sur le bouton pour sortir le fichier",
+    "dec": "Le décryptage du fichier réussit, cliquez sur le bouton pour sortir le fichier",
+    "publicKey": "Chiffrement à clé publique",
+    "privateKey": "Signature à clé privée"
+  },
+  "it": {
+    "inputKey": "Inserisci la chiave qui:",
+    "enc": "La crittografia del file ha esito positivo, fare clic sul pulsante per emettere il file",
+    "dec": "La decryption del file ha esito positivo, fai clic sul pulsante per output del file",
+    "publicKey": "Crittografia a chiave pubblica",
+    "privateKey": "Firma con chiave privata"
+  },
+  "ja": {
+    "inputKey": "ここにキーを入力してください：",
+    "enc": "ファイルの暗号化が成功しました。ボタンをクリックしてファイルを出力します。",
+    "dec": "ファイルの復号化が成功しました。ボタンをクリックしてファイルを出力します。",
+    "publicKey": "公開鍵暗号",
+    "privateKey": "秘密鍵署名"
+  },
+  "ko": {
+    "inputKey": "여기에 키를 입력하십시오.",
+    "enc": "파일 암호화가 성공적이면 버튼을 클릭하여 파일을 출력합니다.",
+    "dec": "파일 암호 해독이 성공적이면 버튼을 클릭하여 파일을 출력합니다.",
+    "publicKey": "공개키 암호화",
+    "privateKey": "개인키 서명"
+  },
+  "pt": {
+    "inputKey": "Por favor, insira a chave aqui:",
+    "enc": "A criptografia de arquivo é bem-sucedida, clique no botão para emitir o arquivo",
+    "dec": "A descriptografia do arquivo é bem-sucedida, clique no botão para emitir o arquivo",
+    "publicKey": "Criptografia de chave pública",
+    "privateKey": "Assinatura com chave privada"
+  },
+  "ru": {
+    "inputKey": "Пожалуйста, введите ключ здесь:",
+    "enc": "Шифрование файла успешно, нажмите кнопку, чтобы вывести файл",
+    "dec": "Дешифрование файла успешно, нажмите кнопку, чтобы вывести файл",
+    "publicKey": "Шифрование открытым ключом",
+    "privateKey": "Подпись закрытым ключом"
+  },
+  "zh-tw": {
+    "inputKey": "請在此處輸入密鑰:",
+    "enc": "文件加密成功，點擊按鈕輸出文件",
+    "dec": "文件解密成功，點擊按鈕輸出文件",
+    "publicKey": "公鑰加密",
+    "privateKey": "私鑰簽名"
+  }
+}

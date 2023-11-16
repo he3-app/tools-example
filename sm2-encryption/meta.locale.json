@@ -1,0 +1,145 @@
+{
+  "zh-cn": {
+    "$name": "SM2加密",
+    "$keywords": [
+      "sm2",
+      "加密",
+      "SM2算法",
+      "加密工具",
+      "数据加密",
+      "算法学习",
+      "密钥管理"
+    ],
+    "$description": "SM2加密工具是一种基于SM2算法的加密工具。它可以加密输入的文本并输出加密结果。以下是该工具的详细说明：\n\n特点：\n\n1. 支持加密输入文本。\n\n2. 支持选择加密模式，包括C1C2C3和C1C3C2模式。\n\n3. 支持选择加密密钥，可以手动输入或自动生成。\n\n4. 支持将加密结果保存为文件。\n\n用途：\n\n1. 数据加密：在需要加密敏感数据的场景中，可以使用SM2加密工具来加密和保护数据安全。\n\n2. 算法学习：对于学习SM2算法的人员，可以使用该工具进行练习和验证，深入了解算法。\n\n3. 密钥管理：在需要密钥管理的场景中，该工具可以生成密钥对并保存私钥以备后用。\n\n说明：\n\n1. 输入的文本不能为空。\n\n2. 密钥不能为空。\n\n3. 保存加密结果的文件名为原始文件名加上.enc后缀。\n\n4. 该工具仅支持SM2算法加密，不支持其他加密算法。\n\n5. 加密结果仅供参考，不代表绝对安全。"
+  },
+  "zh-tw": {
+    "$name": "SM2 加密",
+    "$keywords": [
+      "sm2",
+      "加密",
+      "SM2算法",
+      "加密工具",
+      "資料加密",
+      "算法學習",
+      "密鑰管理"
+    ],
+    "$description": "SM2加密工具是一款基于SM2算法的加密工具。它可以加密输入的文本并输出加密结果。以下是该工具的详细说明：\n\n特点：\n\n1. 支持加密输入文本。\n\n2. 支持选择加密模式，包括C1C2C3和C1C3C2模式。\n\n3. 支持选择加密密钥，可以手动输入或自动生成。\n\n4. 支持将加密结果保存为文件。\n\n用途：\n\n1. 数据加密：在需要加密敏感数据的场景中，SM2加密工具可以用于加密和保护数据安全。\n\n2. 算法学习：对于学习SM2算法的人员，该工具可以用于练习和验证，深化他们对算法的理解。\n\n3. 密钥管理：在需要密钥管理的场景中，该工具可以生成密钥对并保存私钥以备后用。\n\n说明：\n\n1. 输入文本不能为空。\n\n2. 密钥不能为空。\n\n3. 保存加密结果的文件名为原始文件名加上.enc后缀。\n\n4. 该工具仅支持SM2算法加密，不支持其他加密算法。\n\n5. 加密结果仅供参考，不代表绝对安全。"
+  },
+  "es": {
+    "$name": "Cifrado SM2",
+    "$keywords": [
+      "sm2",
+      "encriptación",
+      "algoritmo SM2",
+      "herramienta de encriptación",
+      "encriptación de datos",
+      "aprendizaje de algoritmos",
+      "gestión de claves"
+    ],
+    "$description": "La herramienta de cifrado SM2 es una herramienta de cifrado basada en el algoritmo SM2. Puede cifrar texto de entrada y producir el resultado cifrado. Aquí están las instrucciones detalladas para esta herramienta:\n\nCaracterísticas:\n\n1. Admite el cifrado de texto de entrada.\n\n2. Admite la selección del modo de cifrado, incluyendo los modos C1C2C3 y C1C3C2.\n\n3. Admite la selección de claves de cifrado, que pueden ser ingresadas manualmente o generadas automáticamente.\n\n4. Admite guardar el resultado cifrado como un archivo.\n\nCasos de uso:\n\n1. Cifrado de datos: En escenarios donde se necesita cifrar datos sensibles, la herramienta de cifrado SM2 se puede utilizar para cifrar y proteger la seguridad de los datos.\n\n2. Aprendizaje del algoritmo: Para el personal que aprende el algoritmo SM2, esta herramienta se puede utilizar para práctica y verificación, profundizando su comprensión del algoritmo.\n\n3. Gestión de claves: En escenarios donde se requiere la gestión de claves, esta herramienta puede generar pares de claves y guardar claves privadas para su uso posterior.\n\nInstrucciones:\n\n1. Ingrese el texto que necesita ser cifrado.\n\n2. Seleccione el modo de cifrado y la clave.\n\n3. Haga clic en el botón de cifrado para obtener el resultado cifrado.\n\n4. Puede elegir guardar el resultado cifrado como un archivo.\n\nNotas:\n\n1. El texto de entrada no puede estar vacío.\n\n2. La clave no puede estar vacía.\n\n3. El nombre del archivo del resultado cifrado guardado es el nombre del archivo original más el sufijo .enc.\n\n4. Esta herramienta solo admite el cifrado del algoritmo SM2 y no admite otros algoritmos de cifrado.\n\n5. El resultado cifrado es solo de referencia y no representa una seguridad absoluta."
+  },
+  "ja": {
+    "$name": "SM2暗号化",
+    "$keywords": [
+      "sm2",
+      "暗号化",
+      "SM2アルゴリズム",
+      "暗号化ツール",
+      "データ暗号化",
+      "アルゴリズム学習",
+      "鍵管理"
+    ],
+    "$description": "SM2暗号化ツールは、SM2アルゴリズムに基づく暗号化ツールです。入力テキストを暗号化し、暗号化された結果を出力することができます。このツールの詳細な手順は以下の通りです。\n\n特徴：\n\n1. 入力テキストの暗号化をサポートします。\n\n2. C1C2C3およびC1C3C2モードを含む暗号化モードの選択をサポートします。\n\n3. 手動で入力するか、自動的に生成することができる暗号化キーの選択をサポートします。\n\n4. 暗号化された結果をファイルとして保存することができます。\n\n使用例：\n\n1. データの暗号化：機密データを暗号化して保護する必要があるシナリオでは、SM2暗号化ツールを使用してデータのセキュリティを確保することができます。\n\n2. アルゴリズムの学習：SM2アルゴリズムを学習する人員にとって、このツールは練習や検証に使用することができ、アルゴリズムの理解を深めることができます。\n\n3. キー管理：キー管理が必要なシナリオでは、このツールを使用してキーペアを生成し、プライベートキーを保存することができます。\n\n手順：\n\n1. 暗号化するテキストを入力します。\n\n2. 暗号化モードとキーを選択します。\n\n3. 暗号化ボタンをクリックして、暗号化された結果を取得します。\n\n4. 暗号化された結果をファイルとして保存することができます。\n\n注意事項：\n\n1. 入力テキストは空にできません。\n\n2. キーは空にできません。\n\n3. 保存された暗号化された結果のファイル名は、元のファイル名に.encの接尾辞が付いたものになります。\n\n4. このツールはSM2アルゴリズムの暗号化のみをサポートし、他の暗号化アルゴリズムはサポートしていません。\n\n5. 暗号化された結果は参考のためであり、絶対的なセキュリティを表すものではありません。"
+  },
+  "ko": {
+    "$name": "SM2 암호화",
+    "$keywords": [
+      "sm2",
+      "암호화",
+      "SM2 알고리즘",
+      "암호화 도구",
+      "데이터 암호화",
+      "알고리즘 학습",
+      "키 관리"
+    ],
+    "$description": "SM2 알고리즘을 기반으로 한 암호화 도구인 SM2 암호화 도구는 입력 텍스트를 암호화하고 암호화된 결과를 출력할 수 있습니다. 이 도구에 대한 자세한 지침은 다음과 같습니다:\n\n기능:\n\n1. 입력 텍스트를 암호화하는 기능을 지원합니다.\n\n2. C1C2C3 및 C1C3C2 모드를 포함한 암호화 모드를 선택할 수 있습니다.\n\n3. 수동으로 입력하거나 자동으로 생성할 수 있는 암호화 키를 선택할 수 있습니다.\n\n4. 암호화된 결과를 파일로 저장할 수 있습니다.\n\n사용 사례:\n\n1. 데이터 암호화: 민감한 데이터를 암호화하고 보안을 유지해야 하는 시나리오에서 SM2 암호화 도구를 사용하여 데이터 보안을 보호할 수 있습니다.\n\n2. 알고리즘 학습: SM2 알고리즘을 학습하는 인원들은 이 도구를 연습 및 검증에 사용하여 알고리즘에 대한 이해를 깊이 있게 할 수 있습니다.\n\n3. 키 관리: 키 관리가 필요한 시나리오에서 이 도구를 사용하여 키 쌍을 생성하고 개인 키를 나중에 사용할 수 있도록 저장할 수 있습니다.\n\n지침:\n\n1. 암호화해야 할 텍스트를 입력합니다.\n\n2. 암호화 모드와 키를 선택합니다.\n\n3. 암호화 버튼을 클릭하여 암호화된 결과를 얻습니다.\n\n4. 암호화된 결과를 파일로 저장할 수 있습니다.\n\n참고:\n\n1. 입력 텍스트는 비어 있을 수 없습니다.\n\n2. 키는 비어 있을 수 없습니다.\n\n3. 저장된 암호화된 결과의 파일 이름은 원래 파일 이름에 .enc 접미사가 추가된 것입니다.\n\n4. 이 도구는 SM2 알고리즘 암호화만 지원하며 다른 암호화 알고리즘은 지원하지 않습니다.\n\n5. 암호화된 결과는 참고용이며 절대적인 보안을 나타내지 않습니다."
+  },
+  "de": {
+    "$name": "SM2-Verschlüsselung",
+    "$keywords": [
+      "SM2",
+      "Verschlüsselung",
+      "SM2-Algorithmus",
+      "Verschlüsselungswerkzeug",
+      "Datenverschlüsselung",
+      "Algorithmus-Lernen",
+      "Schlüsselverwaltung"
+    ],
+    "$description": "SM2-Verschlüsselungstool ist ein Verschlüsselungstool, das auf dem SM2-Algorithmus basiert. Es kann Eingabetext verschlüsseln und das verschlüsselte Ergebnis ausgeben. Hier sind die detaillierten Anweisungen für dieses Tool:\n\nFunktionen:\n\n1. Unterstützt die Verschlüsselung von Eingabetext.\n\n2. Unterstützt die Auswahl des Verschlüsselungsmodus, einschließlich C1C2C3- und C1C3C2-Modi.\n\n3. Unterstützt die Auswahl von Verschlüsselungsschlüsseln, die manuell eingegeben oder automatisch generiert werden können.\n\n4. Unterstützt das Speichern des verschlüsselten Ergebnisses als Datei.\n\nAnwendungsfälle:\n\n1. Datenverschlüsselung: In Szenarien, in denen sensible Daten verschlüsselt werden müssen, kann das SM2-Verschlüsselungstool verwendet werden, um Daten sicher zu verschlüsseln und zu schützen.\n\n2. Algorithmuslernen: Für Personen, die den SM2-Algorithmus lernen, kann dieses Tool für Übung und Verifikation verwendet werden, um ihr Verständnis des Algorithmus zu vertiefen.\n\n3. Schlüsselverwaltung: In Szenarien, in denen eine Schlüsselverwaltung erforderlich ist, kann dieses Tool Schlüsselpaare generieren und private Schlüssel für späteren Gebrauch speichern.\n\nAnweisungen:\n\n1. Geben Sie den Text ein, der verschlüsselt werden soll.\n\n2. Wählen Sie den Verschlüsselungsmodus und den Schlüssel aus.\n\n3. Klicken Sie auf die Schaltfläche \"Verschlüsseln\", um das verschlüsselte Ergebnis zu erhalten.\n\n4. Sie können wählen, das verschlüsselte Ergebnis als Datei zu speichern.\n\nHinweise:\n\n1. Der Eingabetext darf nicht leer sein.\n\n2. Der Schlüssel darf nicht leer sein.\n\n3. Der Dateiname des gespeicherten verschlüsselten Ergebnisses ist der ursprüngliche Dateiname plus der Erweiterung \".enc\".\n\n4. Dieses Tool unterstützt nur die SM2-Algorithmusverschlüsselung und unterstützt keine anderen Verschlüsselungsalgorithmen.\n\n5. Das verschlüsselte Ergebnis dient nur als Referenz und stellt keine absolute Sicherheit dar."
+  },
+  "fr": {
+    "$name": "Chiffrement SM2",
+    "$keywords": [
+      "sm2",
+      "chiffrement",
+      "algorithme SM2",
+      "outil de chiffrement",
+      "chiffrement de données",
+      "apprentissage d'algorithme",
+      "gestion de clés"
+    ],
+    "$description": "L'outil de chiffrement SM2 est un outil de chiffrement basé sur l'algorithme SM2. Il peut chiffrer du texte en entrée et produire le résultat chiffré en sortie. Voici les instructions détaillées pour cet outil :\n\nFonctionnalités :\n\n1. Prise en charge du chiffrement de texte en entrée.\n\n2. Prise en charge de la sélection du mode de chiffrement, y compris les modes C1C2C3 et C1C3C2.\n\n3. Prise en charge de la sélection des clés de chiffrement, qui peuvent être saisies manuellement ou générées automatiquement.\n\n4. Prise en charge de l'enregistrement du résultat chiffré sous forme de fichier.\n\nCas d'utilisation :\n\n1. Chiffrement de données : Dans les scénarios où des données sensibles doivent être chiffrées, l'outil de chiffrement SM2 peut être utilisé pour chiffrer et protéger la sécurité des données.\n\n2. Apprentissage de l'algorithme : Pour les personnes apprenant l'algorithme SM2, cet outil peut être utilisé pour la pratique et la vérification, approfondissant leur compréhension de l'algorithme.\n\n3. Gestion des clés : Dans les scénarios où la gestion des clés est requise, cet outil peut générer des paires de clés et enregistrer les clés privées pour une utilisation ultérieure.\n\nInstructions :\n\n1. Entrez le texte qui doit être chiffré.\n\n2. Sélectionnez le mode de chiffrement et la clé.\n\n3. Cliquez sur le bouton de chiffrement pour obtenir le résultat chiffré.\n\n4. Vous pouvez choisir d'enregistrer le résultat chiffré sous forme de fichier.\n\nNotes :\n\n1. Le texte en entrée ne peut pas être vide.\n\n2. La clé ne peut pas être vide.\n\n3. Le nom de fichier du résultat chiffré enregistré est le nom de fichier d'origine plus le suffixe .enc.\n\n4. Cet outil ne prend en charge que le chiffrement avec l'algorithme SM2 et ne prend pas en charge d'autres algorithmes de chiffrement.\n\n5. Le résultat chiffré est fourni à titre indicatif uniquement et ne représente pas une sécurité absolue."
+  },
+  "it": {
+    "$name": "Crittografia SM2",
+    "$keywords": [
+      "sm2",
+      "crittografia",
+      "algoritmo SM2",
+      "strumento di crittografia",
+      "crittografia dei dati",
+      "apprendimento degli algoritmi",
+      "gestione delle chiavi"
+    ],
+    "$description": "Lo strumento di crittografia SM2 è uno strumento di crittografia basato sull'algoritmo SM2. Può crittografare il testo di input e restituire il risultato crittografato. Ecco le istruzioni dettagliate per questo strumento:\n\nCaratteristiche:\n\n1. Supporta la crittografia del testo di input.\n\n2. Supporta la selezione della modalità di crittografia, tra cui le modalità C1C2C3 e C1C3C2.\n\n3. Supporta la selezione delle chiavi di crittografia, che possono essere inserite manualmente o generate automaticamente.\n\n4. Supporta il salvataggio del risultato crittografato come file.\n\nCasi d'uso:\n\n1. Crittografia dei dati: In scenari in cui è necessario crittografare dati sensibili, lo strumento di crittografia SM2 può essere utilizzato per crittografare e proteggere la sicurezza dei dati.\n\n2. Apprendimento dell'algoritmo: Per il personale che apprende l'algoritmo SM2, questo strumento può essere utilizzato per la pratica e la verifica, approfondendo la comprensione dell'algoritmo.\n\n3. Gestione delle chiavi: In scenari in cui è richiesta la gestione delle chiavi, questo strumento può generare coppie di chiavi e salvare le chiavi private per un uso successivo.\n\nIstruzioni:\n\n1. Inserire il testo che deve essere crittografato.\n\n2. Selezionare la modalità di crittografia e la chiave.\n\n3. Fare clic sul pulsante di crittografia per ottenere il risultato crittografato.\n\n4. È possibile scegliere di salvare il risultato crittografato come file.\n\nNote:\n\n1. Il testo di input non può essere vuoto.\n\n2. La chiave non può essere vuota.\n\n3. Il nome del file del risultato crittografato salvato è il nome del file originale più il suffisso .enc.\n\n4. Questo strumento supporta solo la crittografia dell'algoritmo SM2 e non supporta altri algoritmi di crittografia.\n\n5. Il risultato crittografato è solo a scopo di riferimento e non rappresenta una sicurezza assoluta."
+  },
+  "ru": {
+    "$name": "Шифрование SM2",
+    "$keywords": [
+      "sm2",
+      "шифрование",
+      "алгоритм SM2",
+      "инструмент шифрования",
+      "шифрование данных",
+      "обучение алгоритмам",
+      "управление ключами"
+    ],
+    "$description": "Инструмент шифрования SM2 - это инструмент шифрования, основанный на алгоритме SM2. Он может шифровать входной текст и выводить зашифрованный результат. Вот подробные инструкции по использованию этого инструмента:\n\nОсобенности:\n\n1. Поддерживает шифрование входного текста.\n\n2. Поддерживает выбор режима шифрования, включая режимы C1C2C3 и C1C3C2.\n\n3. Поддерживает выбор ключей шифрования, которые могут быть введены вручную или сгенерированы автоматически.\n\n4. Поддерживает сохранение зашифрованного результата в файл.\n\nПрименение:\n\n1. Шифрование данных: В сценариях, где необходимо зашифровать конфиденциальные данные, инструмент шифрования SM2 может быть использован для шифрования и защиты безопасности данных.\n\n2. Изучение алгоритма: Для персонала, изучающего алгоритм SM2, этот инструмент может быть использован для практики и проверки, углубляя их понимание алгоритма.\n\n3. Управление ключами: В сценариях, где требуется управление ключами, этот инструмент может генерировать ключевые пары и сохранять личные ключи для последующего использования.\n\nИнструкции:\n\n1. Введите текст, который нужно зашифровать.\n\n2. Выберите режим шифрования и ключ.\n\n3. Нажмите кнопку \"Зашифровать\", чтобы получить зашифрованный результат.\n\n4. Вы можете выбрать сохранить зашифрованный результат в файл.\n\nПримечания:\n\n1. Входной текст не может быть пустым.\n\n2. Ключ не может быть пустым.\n\n3. Имя файла сохраненного зашифрованного результата - это исходное имя файла плюс суффикс .enc.\n\n4. Этот инструмент поддерживает только шифрование алгоритмом SM2 и не поддерживает другие алгоритмы шифрования.\n\n5. Зашифрованный результат предназначен только для ознакомления и не представляет абсолютной безопасности."
+  },
+  "pt": {
+    "$name": "Criptografia SM2",
+    "$keywords": [
+      "sm2",
+      "criptografia",
+      "algoritmo SM2",
+      "ferramenta de criptografia",
+      "criptografia de dados",
+      "aprendizado de algoritmo",
+      "gerenciamento de chaves"
+    ],
+    "$description": "A ferramenta de criptografia SM2 é uma ferramenta de criptografia baseada no algoritmo SM2. Ela pode criptografar texto de entrada e produzir o resultado criptografado. Aqui estão as instruções detalhadas para esta ferramenta:\n\nRecursos:\n\n1. Suporta criptografar texto de entrada.\n\n2. Suporta selecionar o modo de criptografia, incluindo os modos C1C2C3 e C1C3C2.\n\n3. Suporta selecionar chaves de criptografia, que podem ser inseridas manualmente ou geradas automaticamente.\n\n4. Suporta salvar o resultado criptografado como um arquivo.\n\nCasos de uso:\n\n1. Criptografia de dados: Em cenários onde dados sensíveis precisam ser criptografados, a ferramenta de criptografia SM2 pode ser usada para criptografar e proteger a segurança dos dados.\n\n2. Aprendizado de algoritmo: Para pessoal que está aprendendo o algoritmo SM2, esta ferramenta pode ser usada para prática e verificação, aprofundando sua compreensão do algoritmo.\n\n3. Gerenciamento de chaves: Em cenários onde o gerenciamento de chaves é necessário, esta ferramenta pode gerar pares de chaves e salvar chaves privadas para uso posterior.\n\nInstruções:\n\n1. Insira o texto que precisa ser criptografado.\n\n2. Selecione o modo de criptografia e a chave.\n\n3. Clique no botão de criptografar para obter o resultado criptografado.\n\n4. Você pode escolher salvar o resultado criptografado como um arquivo.\n\nObservações:\n\n1. O texto de entrada não pode estar vazio.\n\n2. A chave não pode estar vazia.\n\n3. O nome do arquivo do resultado criptografado salvo é o nome do arquivo original mais o sufixo .enc.\n\n4. Esta ferramenta suporta apenas criptografia com o algoritmo SM2 e não suporta outros algoritmos de criptografia.\n\n5. O resultado criptografado é apenas para referência e não representa segurança absoluta."
+  },
+  "en": {
+    "$name": "SM2 Encryption",
+    "$keywords": [
+      "sm2",
+      "encryption",
+      "SM2 algorithm",
+      "encryption tool",
+      "data encryption",
+      "algorithm learning",
+      "key management"
+    ],
+    "$description": "SM2 Encryption tool is an encryption tool based on the SM2 algorithm. It can encrypt input text and output the encrypted result. Here are the detailed instructions for this tool:\n\nFeatures:\n\n1. Supports encrypting input text.\n\n2. Supports selecting encryption mode, including C1C2C3 and C1C3C2 modes.\n\n3. Supports selecting encryption keys, which can be manually entered or automatically generated.\n\n4. Supports saving the encrypted result as a file.\n\nUse cases:\n\n1. Data encryption: In scenarios where sensitive data needs to be encrypted, SM2 Encryption tool can be used to encrypt and protect data security.\n\n2. Algorithm learning: For personnel learning the SM2 algorithm, this tool can be used for practice and verification, deepening their understanding of the algorithm.\n\n3. Key management: In scenarios where key management is required, this tool can generate key pairs and save private keys for later use.\n\nInstructions:\n\n1. Enter the text that needs to be encrypted.\n\n2. Select the encryption mode and key.\n\n3. Click the encrypt button to obtain the encrypted result.\n\n4. You can choose to save the encrypted result as a file.\n\nNotes:\n\n1. The input text cannot be empty.\n\n2. The key cannot be empty.\n\n3. The file name of the saved encrypted result is the original file name plus the .enc suffix.\n\n4. This tool only supports SM2 algorithm encryption and does not support other encryption algorithms.\n\n5. The encrypted result is for reference only and does not represent absolute security."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "zh-cn": {
+    "$name": "RSA密钥对生成器",
+    "$keywords": [
+      "RSA",
+      "SSH",
+      "密钥",
+      "对",
+      "生成器",
+      "OpenSSH",
+      "PuTTY",
+      "1024",
+      "2048",
+      "4096",
+      "密钥对",
+      "加密",
+      "解密",
+      "PEM",
+      "数据传输",
+      "身份验证"
+    ],
+    "$description": "RSA密钥对生成器工具文档\n\n概述：\nRSA密钥对生成器工具是用于生成RSA密钥对的工具。用户可以选择不同的密钥长度和密钥格式来生成相应的公钥和私钥。该工具支持的密钥格式包括OpenSSH、Putty和PEM。\n\n使用场景：\nRSA密钥对生成器工具适用于需要使用RSA密钥对进行加密和解密的场景，例如数据传输和身份验证。\n\n使用说明：\n1. 打开RSA密钥对生成器工具页面。\n2. 选择密钥长度和密钥格式。\n3. 如果所选密钥格式需要密码，请输入密码。\n4. 如果所选密钥格式需要注释，请输入注释。\n5. 点击“生成”按钮生成相应的公钥和私钥。\n6. 复制公钥和私钥以进行加密和解密。\n\n注意事项：\n1. 密钥长度越长，密钥越安全，但生成时间越长。\n2. 不同的密钥格式会导致生成的公钥和私钥格式不同。\n3. 如果所选密钥格式需要密码，则密码应足够复杂以确保密钥的安全性。\n4. 如果所选密钥格式需要注释，则注释应清晰简洁，以便将来使用。"
+  },
+  "zh-tw": {
+    "$name": "RSA 金鑰對產生器",
+    "$keywords": [
+      "RSA",
+      "SSH",
+      "金鑰",
+      "配對",
+      "產生器",
+      "OpenSSH",
+      "PuTTY",
+      "1024",
+      "2048",
+      "4096",
+      "金鑰配對",
+      "加密",
+      "解密",
+      "PEM",
+      "資料傳輸",
+      "驗證"
+    ],
+    "$description": "RSA 密鑰對生成器工具文檔\n\n概述：\nRSA 密鑰對生成器工具是一個用於生成 RSA 密鑰對的工具。用戶可以選擇不同的密鑰長度和密鑰格式來生成相應的公鑰和私鑰。該工具支持的密鑰格式包括 OpenSSH、Putty 和 PEM。\n\n使用案例：\nRSA 密鑰對生成器工具適用於需要使用 RSA 密鑰對進行加密和解密的場景，例如數據傳輸和身份驗證。\n\n操作指南：\n1. 打開 RSA 密鑰對生成器工具頁面。\n2. 選擇密鑰長度和密鑰格式。\n3. 如果所選的密鑰格式需要密碼，請輸入密碼。\n4. 如果所選的密鑰格式需要注釋，請輸入注釋。\n5. 點擊“生成”按鈕生成相應的公鑰和私鑰。\n6. 複製公鑰和私鑰進行加密和解密。\n\n注意事項：\n1. 密鑰長度越長，密鑰越安全，但生成時間越長。\n2. 不同的密鑰格式會導致生成的公鑰和私鑰格式不同。\n3. 如果所選的密鑰格式需要密碼，密碼應足夠複雜，以確保密鑰的安全性。\n4. 如果所選的密鑰格式需要注釋，注釋應清晰簡潔，以便未來使用。"
+  },
+  "es": {
+    "$name": "Generador de pares de claves RSA",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "clave",
+      "par",
+      "generador",
+      "openssh",
+      "putty",
+      "1024",
+      "2048",
+      "4096",
+      "par de claves",
+      "encriptación",
+      "desencriptación",
+      "PEM",
+      "transmisión de datos",
+      "autenticación"
+    ],
+    "$description": "Generador de pares de claves RSA - Documentación de la herramienta\n\nResumen:\nLa herramienta Generador de pares de claves RSA se utiliza para generar pares de claves RSA. Los usuarios pueden elegir diferentes longitudes y formatos de clave para generar las claves públicas y privadas correspondientes. La herramienta admite formatos de clave como OpenSSH, Putty y PEM.\n\nCasos de uso:\nLa herramienta Generador de pares de claves RSA es adecuada para escenarios que requieren el uso de pares de claves RSA para la encriptación y desencriptación, como la transmisión de datos y la autenticación de identidad.\n\nInstrucciones:\n1. Abra la página de la herramienta Generador de pares de claves RSA.\n2. Seleccione la longitud y el formato de la clave.\n3. Si el formato de clave seleccionado requiere una contraseña, ingrese la contraseña.\n4. Si el formato de clave seleccionado requiere un comentario, ingrese el comentario.\n5. Haga clic en el botón \"Generar\" para generar las claves públicas y privadas correspondientes.\n6. Copie las claves públicas y privadas para la encriptación y desencriptación.\n\nNotas:\n1. Cuanto mayor sea la longitud de la clave, más segura será la clave, pero más tiempo tardará en generarse.\n2. Diferentes formatos de clave dan como resultado diferentes formatos de claves públicas y privadas generadas.\n3. Si el formato de clave seleccionado requiere una contraseña, la contraseña debe ser lo suficientemente compleja como para garantizar la seguridad de la clave.\n4. Si el formato de clave seleccionado requiere un comentario, el comentario debe ser claro y conciso para su uso futuro."
+  },
+  "ja": {
+    "$name": "RSA鍵ペアジェネレーター",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "キー",
+      "ペア",
+      "ジェネレーター",
+      "openssh",
+      "putty",
+      "1024",
+      "2048",
+      "4096",
+      "キーペア",
+      "暗号化",
+      "復号化",
+      "PEM",
+      "データ伝送",
+      "認証"
+    ],
+    "$description": "RSA鍵ペアジェネレーターツールのドキュメンテーション\n\n概要：\nRSA鍵ペアジェネレーターツールは、RSA鍵ペアを生成するためのツールです。ユーザーは、異なる鍵長と鍵形式を選択して、対応する公開鍵と秘密鍵を生成することができます。ツールは、OpenSSH、Putty、PEMなどの鍵形式をサポートしています。\n\n使用例：\nRSA鍵ペアジェネレーターツールは、データの送信や身元認証など、RSA鍵ペアを使用するシナリオに適しています。\n\n手順：\n1. RSA鍵ペアジェネレーターツールページを開きます。\n2. 鍵長と鍵形式を選択します。\n3. 選択した鍵形式にパスワードが必要な場合は、パスワードを入力します。\n4. 選択した鍵形式にコメントが必要な場合は、コメントを入力します。\n5. 「生成」ボタンをクリックして、対応する公開鍵と秘密鍵を生成します。\n6. 暗号化や復号化に使用するために、公開鍵と秘密鍵をコピーします。\n\n注意事項：\n1. 鍵長が長いほど、鍵はより安全になりますが、生成時間が長くなります。\n2. 異なる鍵形式によって、生成される公開鍵と秘密鍵の形式が異なります。\n3. 選択した鍵形式にパスワードが必要な場合、パスワードは鍵のセキュリティを確保するために十分に複雑である必要があります。\n4. 選択した鍵形式にコメントが必要な場合、コメントは将来の使用のために明確で簡潔である必要があります。"
+  },
+  "ko": {
+    "$name": "RSA 키 쌍 생성기",
+    "$keywords": [
+      "RSA",
+      "SSH",
+      "키",
+      "쌍",
+      "생성기",
+      "OpenSSH",
+      "PuTTY",
+      "1024",
+      "2048",
+      "4096",
+      "키 쌍",
+      "암호화",
+      "복호화",
+      "PEM",
+      "데이터 전송",
+      "인증"
+    ],
+    "$description": "RSA 키 쌍 생성기 도구 문서\n\n개요:\nRSA 키 쌍 생성기 도구는 RSA 키 쌍을 생성하는 데 사용되는 도구입니다. 사용자는 다른 키 길이와 키 형식을 선택하여 해당하는 공개 및 개인 키를 생성할 수 있습니다. 이 도구는 OpenSSH, Putty 및 PEM과 같은 키 형식을 지원합니다.\n\n사용 사례:\nRSA 키 쌍 생성기 도구는 데이터 전송 및 신원 인증과 같은 RSA 키 쌍을 사용해야 하는 시나리오에 적합합니다.\n\n사용 방법:\n1. RSA 키 쌍 생성기 도구 페이지를 엽니다.\n2. 키 길이와 키 형식을 선택합니다.\n3. 선택한 키 형식이 비밀번호를 필요로 하는 경우, 비밀번호를 입력합니다.\n4. 선택한 키 형식이 코멘트를 필요로 하는 경우, 코멘트를 입력합니다.\n5. \"생성\" 버튼을 클릭하여 해당하는 공개 및 개인 키를 생성합니다.\n6. 공개 및 개인 키를 복사하여 암호화 및 복호화에 사용합니다.\n\n참고 사항:\n1. 키 길이가 길수록 키는 보안이 더 강화되지만 생성 시간이 더 오래 걸립니다.\n2. 다른 키 형식은 생성된 공개 및 개인 키의 형식이 다릅니다.\n3. 선택한 키 형식이 비밀번호를 필요로 하는 경우, 비밀번호는 키의 보안을 보장하기 위해 충분히 복잡해야 합니다.\n4. 선택한 키 형식이 코멘트를 필요로 하는 경우, 코멘트는 미래 사용을 위해 명확하고 간결해야 합니다."
+  },
+  "de": {
+    "$name": "RSA-Schlüsselpaar-Generator",
+    "$keywords": [
+      "RSA",
+      "SSH",
+      "Schlüssel",
+      "Paar",
+      "Generator",
+      "OpenSSH",
+      "PuTTY",
+      "1024",
+      "2048",
+      "4096",
+      "Schlüsselpaar",
+      "Verschlüsselung",
+      "Entschlüsselung",
+      "PEM",
+      "Datenübertragung",
+      "Authentifizierung"
+    ],
+    "$description": "RSA-Schlüsselpaar-Generator-Tool Dokumentation\n\nÜberblick:\nDas RSA-Schlüsselpaar-Generator-Tool ist ein Tool, das zur Generierung von RSA-Schlüsselpaaren verwendet wird. Benutzer können verschiedene Schlüssellängen und Schlüsselformate auswählen, um entsprechende öffentliche und private Schlüssel zu generieren. Das Tool unterstützt Schlüsselformate wie OpenSSH, Putty und PEM.\n\nAnwendungsfälle:\nDas RSA-Schlüsselpaar-Generator-Tool eignet sich für Szenarien, die die Verwendung von RSA-Schlüsselpaaren für Verschlüsselung und Entschlüsselung erfordern, wie z.B. Datenübertragung und Identitätsauthentifizierung.\n\nAnweisungen:\n1. Öffnen Sie die Seite des RSA-Schlüsselpaar-Generator-Tools.\n2. Wählen Sie die Schlüssellänge und das Schlüsselformat aus.\n3. Wenn das ausgewählte Schlüsselformat ein Passwort erfordert, geben Sie das Passwort ein.\n4. Wenn das ausgewählte Schlüsselformat einen Kommentar erfordert, geben Sie den Kommentar ein.\n5. Klicken Sie auf die Schaltfläche \"Generieren\", um die entsprechenden öffentlichen und privaten Schlüssel zu generieren.\n6. Kopieren Sie die öffentlichen und privaten Schlüssel zur Verschlüsselung und Entschlüsselung.\n\nHinweise:\n1. Je länger die Schlüssellänge, desto sicherer der Schlüssel, aber desto länger die Generierungszeit.\n2. Unterschiedliche Schlüsselformate führen zu unterschiedlichen Formaten der generierten öffentlichen und privaten Schlüssel.\n3. Wenn das ausgewählte Schlüsselformat ein Passwort erfordert, sollte das Passwort komplex genug sein, um die Sicherheit des Schlüssels zu gewährleisten.\n4. Wenn das ausgewählte Schlüsselformat einen Kommentar erfordert, sollte der Kommentar klar und prägnant für zukünftige Verwendung sein."
+  },
+  "fr": {
+    "$name": "Générateur de paires de clés RSA",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "clé",
+      "paire",
+      "générateur",
+      "openssh",
+      "putty",
+      "1024",
+      "2048",
+      "4096",
+      "paire de clés",
+      "chiffrement",
+      "déchiffrement",
+      "PEM",
+      "transmission de données",
+      "authentification"
+    ],
+    "$description": "Générateur de paires de clés RSA - Documentation de l'outil\n\nAperçu :\nL'outil Générateur de paires de clés RSA est utilisé pour générer des paires de clés RSA. Les utilisateurs peuvent choisir différentes longueurs de clé et formats de clé pour générer les clés publiques et privées correspondantes. L'outil prend en charge les formats de clé, y compris OpenSSH, Putty et PEM.\n\nCas d'utilisation :\nL'outil Générateur de paires de clés RSA convient aux scénarios qui nécessitent l'utilisation de paires de clés RSA pour le chiffrement et le déchiffrement, tels que la transmission de données et l'authentification d'identité.\n\nInstructions :\n1. Ouvrez la page de l'outil Générateur de paires de clés RSA.\n2. Sélectionnez la longueur de clé et le format de clé.\n3. Si le format de clé sélectionné nécessite un mot de passe, entrez le mot de passe.\n4. Si le format de clé sélectionné nécessite un commentaire, entrez le commentaire.\n5. Cliquez sur le bouton \"Générer\" pour générer les clés publiques et privées correspondantes.\n6. Copiez les clés publiques et privées pour le chiffrement et le déchiffrement.\n\nNotes :\n1. Plus la longueur de la clé est grande, plus la clé est sécurisée, mais plus le temps de génération est long.\n2. Différents formats de clé entraînent différents formats de clés publiques et privées générées.\n3. Si le format de clé sélectionné nécessite un mot de passe, le mot de passe doit être suffisamment complexe pour assurer la sécurité de la clé.\n4. Si le format de clé sélectionné nécessite un commentaire, le commentaire doit être clair et concis pour une utilisation future."
+  },
+  "it": {
+    "$name": "Generatore di Coppie di Chiavi RSA",
+    "$keywords": [
+      "generatore",
+      "coppia di chiavi",
+      "RSA",
+      "SSH",
+      "OpenSSH",
+      "Putty",
+      "1024",
+      "2048",
+      "4096",
+      "crittografia",
+      "decrittografia",
+      "PEM",
+      "trasmissione dati",
+      "autenticazione"
+    ],
+    "$description": "Generatore di coppie di chiavi RSA - Documentazione\n\nPanoramica:\nIl generatore di coppie di chiavi RSA è uno strumento utilizzato per generare coppie di chiavi RSA. Gli utenti possono scegliere diverse lunghezze e formati di chiave per generare le corrispondenti chiavi pubbliche e private. Lo strumento supporta formati di chiave tra cui OpenSSH, Putty e PEM.\n\nCasi d'uso:\nIl generatore di coppie di chiavi RSA è adatto per scenari che richiedono l'uso di coppie di chiavi RSA per la crittografia e la decrittografia, come la trasmissione di dati e l'autenticazione dell'identità.\n\nIstruzioni:\n1. Aprire la pagina del generatore di coppie di chiavi RSA.\n2. Selezionare la lunghezza e il formato della chiave.\n3. Se il formato di chiave selezionato richiede una password, inserire la password.\n4. Se il formato di chiave selezionato richiede un commento, inserire il commento.\n5. Fare clic sul pulsante \"Genera\" per generare le corrispondenti chiavi pubbliche e private.\n6. Copiare le chiavi pubbliche e private per la crittografia e la decrittografia.\n\nNote:\n1. Più lunga è la lunghezza della chiave, più sicura è la chiave, ma più lungo è il tempo di generazione.\n2. Diversi formati di chiave producono diversi formati di chiavi pubbliche e private generate.\n3. Se il formato di chiave selezionato richiede una password, la password deve essere abbastanza complessa per garantire la sicurezza della chiave.\n4. Se il formato di chiave selezionato richiede un commento, il commento deve essere chiaro e conciso per un uso futuro."
+  },
+  "ru": {
+    "$name": "Генератор пар ключей RSA",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "ключ",
+      "пара",
+      "генератор",
+      "openssh",
+      "putty",
+      "1024",
+      "2048",
+      "4096",
+      "ключевая пара",
+      "шифрование",
+      "дешифрование",
+      "PEM",
+      "передача данных",
+      "аутентификация"
+    ],
+    "$description": "Документация инструмента генерации пар ключей RSA\n\nОбзор:\nИнструмент генерации пар ключей RSA используется для создания пар ключей RSA. Пользователи могут выбирать различные длины и форматы ключей для генерации соответствующих открытых и закрытых ключей. Инструмент поддерживает форматы ключей, включая OpenSSH, Putty и PEM.\n\nПрименение:\nИнструмент генерации пар ключей RSA подходит для сценариев, которые требуют использования пар ключей RSA для шифрования и дешифрования, таких как передача данных и аутентификация личности.\n\nИнструкции:\n1. Откройте страницу инструмента генерации пар ключей RSA.\n2. Выберите длину и формат ключа.\n3. Если выбранный формат ключа требует пароль, введите пароль.\n4. Если выбранный формат ключа требует комментарий, введите комментарий.\n5. Нажмите кнопку \"Сгенерировать\", чтобы создать соответствующие открытый и закрытый ключи.\n6. Скопируйте открытый и закрытый ключи для шифрования и дешифрования.\n\nПримечания:\n1. Чем длиннее длина ключа, тем безопаснее ключ, но дольше время генерации.\n2. Различные форматы ключей приводят к различным форматам созданных открытых и закрытых ключей.\n3. Если выбранный формат ключа требует пароль, пароль должен быть достаточно сложным, чтобы обеспечить безопасность ключа.\n4. Если выбранный формат ключа требует комментарий, комментарий должен быть ясным и кратким для будущего использования."
+  },
+  "pt": {
+    "$name": "Gerador de Par de Chaves RSA",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "chave",
+      "par",
+      "gerador",
+      "openssh",
+      "putty",
+      "1024",
+      "2048",
+      "4096",
+      "par de chaves",
+      "criptografia",
+      "descriptografia",
+      "PEM",
+      "transmissão de dados",
+      "autenticação"
+    ],
+    "$description": "Gerador de Par de Chaves RSA - Documentação da Ferramenta\n\nVisão Geral:\nA ferramenta Gerador de Par de Chaves RSA é utilizada para gerar pares de chaves RSA. Os usuários podem escolher diferentes comprimentos e formatos de chave para gerar as chaves pública e privada correspondentes. A ferramenta suporta formatos de chave, incluindo OpenSSH, Putty e PEM.\n\nCasos de Uso:\nA ferramenta Gerador de Par de Chaves RSA é adequada para cenários que requerem o uso de pares de chaves RSA para criptografia e descriptografia, como transmissão de dados e autenticação de identidade.\n\nInstruções:\n1. Abra a página da ferramenta Gerador de Par de Chaves RSA.\n2. Selecione o comprimento e formato da chave.\n3. Se o formato de chave selecionado exigir uma senha, insira a senha.\n4. Se o formato de chave selecionado exigir um comentário, insira o comentário.\n5. Clique no botão \"Gerar\" para gerar as chaves pública e privada correspondentes.\n6. Copie as chaves pública e privada para criptografia e descriptografia.\n\nObservações:\n1. Quanto maior o comprimento da chave, mais segura será a chave, mas maior será o tempo de geração.\n2. Diferentes formatos de chave resultam em diferentes formatos de chaves pública e privada geradas.\n3. Se o formato de chave selecionado exigir uma senha, a senha deve ser complexa o suficiente para garantir a segurança da chave.\n4. Se o formato de chave selecionado exigir um comentário, o comentário deve ser claro e conciso para uso futuro."
+  },
+  "en": {
+    "$name": "RSA Key Pair Generator",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "key",
+      "pair",
+      "generator",
+      "openssh",
+      "putty",
+      "1024",
+      "2048",
+      "4096",
+      "key pair",
+      "encryption",
+      "decryption",
+      "PEM",
+      "data transmission",
+      "authentication"
+    ],
+    "$description": "RSA Key Pair Generator Tool Documentation\n\nOverview:\nThe RSA Key Pair Generator tool is a tool used to generate RSA key pairs. Users can choose different key lengths and key formats to generate corresponding public and private keys. The tool supports key formats including OpenSSH, Putty, and PEM.\n\nUse cases:\nThe RSA Key Pair Generator tool is suitable for scenarios that require the use of RSA key pairs for encryption and decryption, such as data transmission and identity authentication.\n\nInstructions:\n1. Open the RSA Key Pair Generator tool page.\n2. Select the key length and key format.\n3. If the selected key format requires a password, enter the password.\n4. If the selected key format requires a comment, enter the comment.\n5. Click the \"Generate\" button to generate the corresponding public and private keys.\n6. Copy the public and private keys for encryption and decryption.\n\nNotes:\n1. The longer the key length, the more secure the key, but the longer the generation time.\n2. Different key formats result in different formats of generated public and private keys.\n3. If the selected key format requires a password, the password should be complex enough to ensure the security of the key.\n4. If the selected key format requires a comment, the comment should be clear and concise for future use."
+  }
+}

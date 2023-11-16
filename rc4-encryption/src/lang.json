@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "streamDrop": "密码流丢弃:",
+    "dropWord": "丢弃字数:",
+    "key": "密钥:",
+    "enc": "文件加密成功，点击按钮输出文件",
+    "dec": "文件解密成功，点击按钮输出文件"
+  },
+  "en": {
+    "streamDrop": "Keystream Drop:",
+    "dropWord": "Drop words:",
+    "key": "Passphrase:",
+    "enc": "The file is encrypted successfully. Click the button to output the file",
+    "dec": "The file is decrypted successfully. Click the button to output the file"
+  },
+  "de": {
+    "streamDrop": "Kennwortflussabwerfen:",
+    "dropWord": "Verwerfen Sie die Anzahl der Wörter:",
+    "key": "Taste:",
+    "enc": "Die Dateiverschlüsselung ist erfolgreich. Klicken Sie auf die Schaltfläche, um die Datei auszugeben",
+    "dec": "Die Dateientschlüsselung ist erfolgreich. Klicken Sie auf die Schaltfläche, um die Datei auszugeben"
+  },
+  "es": {
+    "streamDrop": "Descarte el flujo de contraseña:",
+    "dropWord": "Deseche el número de palabras:",
+    "key": "Llave:",
+    "enc": "El cifrado de archivo es exitoso, haga clic en el botón para emitir el archivo",
+    "dec": "El descifrado del archivo es exitoso, haga clic en el botón para emitir el archivo"
+  },
+  "fr": {
+    "streamDrop": "Défense de flux de mot de passe:",
+    "dropWord": "Jetez le nombre de mots:",
+    "key": "Clé:",
+    "enc": "Le chiffrement du fichier est réussi, cliquez sur le bouton pour sortir le fichier",
+    "dec": "Le décryptage du fichier réussit, cliquez sur le bouton pour sortir le fichier"
+  },
+  "it": {
+    "streamDrop": "Scardo del flusso di password:",
+    "dropWord": "Scartare il numero di parole:",
+    "key": "Chiave:",
+    "enc": "La crittografia del file ha esito positivo, fare clic sul pulsante per emettere il file",
+    "dec": "La decryption del file ha esito positivo, fai clic sul pulsante per output del file"
+  },
+  "ja": {
+    "streamDrop": "パスワードフロー廃棄：",
+    "dropWord": "単語の数を破棄します：",
+    "key": "鍵：",
+    "enc": "ファイルの暗号化が成功しました。ボタンをクリックしてファイルを出力します。",
+    "dec": "ファイルの復号化が成功しました。ボタンをクリックしてファイルを出力します。"
+  },
+  "ko": {
+    "streamDrop": "비밀번호 흐름 폐기 :",
+    "dropWord": "단어 수를 버립니다.",
+    "key": "열쇠:",
+    "enc": "파일 암호화가 성공적이면 버튼을 클릭하여 파일을 출력합니다.",
+    "dec": "파일 암호 해독이 성공적이면 버튼을 클릭하여 파일을 출력합니다."
+  },
+  "pt": {
+    "streamDrop": "Descarte de fluxo de senha:",
+    "dropWord": "Descarte o número de palavras:",
+    "key": "Chave:",
+    "enc": "A criptografia de arquivo é bem -sucedida, clique no botão para emitir o arquivo",
+    "dec": "A descriptografia do arquivo é bem -sucedida, clique no botão para emitir o arquivo"
+  },
+  "ru": {
+    "streamDrop": "Отбросьте по потоку пароля:",
+    "dropWord": "Отбросьте количество слов:",
+    "key": "Ключ:",
+    "enc": "Шифрование файла успешно, нажмите кнопку, чтобы вывести файл",
+    "dec": "Дешифрование файла успешно, нажмите кнопку, чтобы вывести файл"
+  },
+  "zh-tw": {
+    "streamDrop": "密碼流丟棄:",
+    "dropWord": "丟棄字數:",
+    "key": "密鑰:",
+    "enc": "文件加密成功，點擊按鈕輸出文件",
+    "dec": "文件解密成功，點擊按鈕輸出文件"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "zh-cn": {
+    "$name": "RSA解密",
+    "$keywords": [
+      "RSA",
+      "解密",
+      "非对称",
+      "RSA解密",
+      "公钥解密",
+      "私钥解密",
+      "数据传输安全",
+      "数据备份和恢复",
+      "数据加密和解密",
+      "安全审计"
+    ],
+    "$description": "RSA解密工具是一种用于解密RSA加密数据的工具。它可以使用公钥或私钥解密加密数据，并输出解密后的明文数据。\n\n特点：\n\n1. 支持使用公钥或私钥进行解密。\n\n2. 支持输入加密数据和密钥。\n\n3. 支持输出解密后的明文数据。\n\n4. 支持自动保存输入的密钥和明文数据。\n\n用例：\n\n1. 数据传输：在数据传输过程中，使用RSA加密可以确保数据的安全性。使用RSA解密工具可以轻松解密加密数据以查看数据内容。\n\n2. 数据备份：在数据备份过程中，使用RSA加密可以确保备份数据的安全性。使用RSA解密工具可以轻松解密备份数据以恢复数据。\n\n3. 数据加密：在数据加密过程中，使用RSA加密可以确保数据的安全性。使用RSA解密工具可以轻松解密加密数据以查看数据内容。\n\n4. 安全审计：在安全审计过程中，审计员可以使用RSA解密工具解密加密数据以查看数据内容。"
+  },
+  "zh-tw": {
+    "$name": "RSA 解密",
+    "$keywords": [
+      "RSA",
+      "解密",
+      "非對稱",
+      "RSA解密",
+      "公鑰解密",
+      "私鑰解密",
+      "資料傳輸安全",
+      "資料備份和恢復",
+      "資料加密和解密",
+      "安全稽核"
+    ],
+    "$description": "RSA 解密工具是一個用於解密 RSA 加密數據的工具。它可以使用公鑰或私鑰解密加密數據，並輸出解密後的明文數據。\n\n功能：\n\n1. 支持使用公鑰或私鑰進行解密。\n\n2. 支持輸入加密數據和密鑰。\n\n3. 支持輸出解密後的明文數據。\n\n4. 支持自動保存輸入的密鑰和明文數據。\n\n使用場景：\n\n1. 數據傳輸：在數據傳輸過程中，使用 RSA 加密可以確保數據的安全。使用 RSA 解密工具可以輕鬆解密加密數據以查看數據內容。\n\n2. 數據備份：在數據備份過程中，使用 RSA 加密可以確保備份數據的安全。使用 RSA 解密工具可以輕鬆解密備份數據以恢復數據。\n\n3. 數據加密：在數據加密過程中，使用 RSA 加密可以確保數據的安全。使用 RSA 解密工具可以輕鬆解密加密數據以查看數據內容。\n\n4. 安全審計：在安全審計過程中，審計員可以使用 RSA 解密工具解密加密數據以查看數據內容。"
+  },
+  "es": {
+    "$name": "Descifrado RSA",
+    "$keywords": [
+      "rsa",
+      "descifrado",
+      "descifrar",
+      "asimétrico",
+      "descifrado RSA",
+      "descifrado de clave pública",
+      "descifrado de clave privada",
+      "seguridad en la transmisión de datos",
+      "respaldo y recuperación de datos",
+      "encriptación y descifrado de datos",
+      "auditoría de seguridad"
+    ],
+    "$description": "La herramienta de descifrado RSA es una herramienta utilizada para descifrar datos cifrados con RSA. Puede descifrar datos cifrados utilizando una clave pública o privada, y producir los datos de texto plano descifrados.\n\nCaracterísticas:\n\n1. Admite descifrado utilizando una clave pública o privada.\n\n2. Admite la entrada de datos cifrados y clave.\n\n3. Admite la salida de datos de texto plano descifrados.\n\n4. Admite el guardado automático de la clave de entrada y los datos de texto plano.\n\nCasos de uso:\n\n1. Transmisión de datos: Durante la transmisión de datos, el uso de cifrado RSA puede garantizar la seguridad de los datos. El uso de la herramienta de descifrado RSA puede descifrar fácilmente los datos cifrados para ver el contenido de los datos.\n\n2. Copia de seguridad de datos: Durante la copia de seguridad de datos, el uso de cifrado RSA puede garantizar la seguridad de los datos de copia de seguridad. El uso de la herramienta de descifrado RSA puede descifrar fácilmente los datos de copia de seguridad para restaurar los datos.\n\n3. Cifrado de datos: Durante el cifrado de datos, el uso de cifrado RSA puede garantizar la seguridad de los datos. El uso de la herramienta de descifrado RSA puede descifrar fácilmente los datos cifrados para ver el contenido de los datos.\n\n4. Auditoría de seguridad: Durante una auditoría de seguridad, los auditores pueden utilizar la herramienta de descifrado RSA para descifrar datos cifrados y ver el contenido de los datos."
+  },
+  "ja": {
+    "$name": "RSA復号",
+    "$keywords": [
+      "rsa",
+      "復号化",
+      "復号",
+      "非対称",
+      "RSA復号化",
+      "公開鍵復号化",
+      "秘密鍵復号化",
+      "データ伝送のセキュリティ",
+      "データのバックアップと復旧",
+      "データの暗号化と復号化",
+      "セキュリティ監査"
+    ],
+    "$description": "RSA復号ツールは、RSAで暗号化されたデータを復号化するために使用されるツールです。公開鍵または秘密鍵を使用して暗号化されたデータを復号化し、復号化された平文データを出力することができます。\n\n特徴：\n\n1. 公開鍵または秘密鍵を使用した復号化をサポートしています。\n\n2. 暗号化されたデータと鍵の入力をサポートしています。\n\n3. 復号化された平文データの出力をサポートしています。\n\n4. 入力鍵と平文データの自動保存をサポートしています。\n\n使用例：\n\n1. データ伝送：データ伝送中にRSA暗号化を使用することで、データのセキュリティを確保できます。RSA復号ツールを使用することで、簡単に暗号化されたデータを復号化してデータ内容を表示できます。\n\n2. データバックアップ：データバックアップ中にRSA暗号化を使用することで、バックアップデータのセキュリティを確保できます。RSA復号ツールを使用することで、簡単にバックアップデータを復号化してデータを復元できます。\n\n3. データ暗号化：データ暗号化中にRSA暗号化を使用することで、データのセキュリティを確保できます。RSA復号ツールを使用することで、簡単に暗号化されたデータを復号化してデータ内容を表示できます。\n\n4. セキュリティ監査：セキュリティ監査中に、監査人はRSA復号ツールを使用して暗号化されたデータを復号化してデータ内容を表示することができます。"
+  },
+  "ko": {
+    "$name": "RSA 복호화",
+    "$keywords": [
+      "rsa",
+      "복호화",
+      "복호화",
+      "비대칭",
+      "RSA 복호화",
+      "공개키 복호화",
+      "개인키 복호화",
+      "데이터 전송 보안",
+      "데이터 백업 및 복구",
+      "데이터 암호화 및 복호화",
+      "보안 감사"
+    ],
+    "$description": "RSA 복호화 도구는 RSA로 암호화된 데이터를 복호화하는 데 사용되는 도구입니다. 공개 키 또는 개인 키를 사용하여 암호화된 데이터를 복호화하고, 복호화된 평문 데이터를 출력할 수 있습니다.\n\n기능:\n\n1. 공개 키 또는 개인 키를 사용한 복호화 지원.\n\n2. 암호화된 데이터 및 키 입력 지원.\n\n3. 복호화된 평문 데이터 출력 지원.\n\n4. 입력 키 및 평문 데이터의 자동 저장 지원.\n\n사용 사례:\n\n1. 데이터 전송: 데이터 전송 중 RSA 암호화를 사용하면 데이터의 보안을 보장할 수 있습니다. RSA 복호화 도구를 사용하여 암호화된 데이터를 쉽게 복호화하여 데이터 내용을 볼 수 있습니다.\n\n2. 데이터 백업: 데이터 백업 중 RSA 암호화를 사용하면 백업 데이터의 보안을 보장할 수 있습니다. RSA 복호화 도구를 사용하여 백업 데이터를 쉽게 복호화하여 데이터를 복원할 수 있습니다.\n\n3. 데이터 암호화: 데이터 암호화 중 RSA 암호화를 사용하면 데이터의 보안을 보장할 수 있습니다. RSA 복호화 도구를 사용하여 암호화된 데이터를 쉽게 복호화하여 데이터 내용을 볼 수 있습니다.\n\n4. 보안 감사: 보안 감사 중 감사인은 RSA 복호화 도구를 사용하여 암호화된 데이터를 복호화하여 데이터 내용을 볼 수 있습니다."
+  },
+  "de": {
+    "$name": "RSA Entschlüsselung",
+    "$keywords": [
+      "RSA",
+      "Entschlüsselung",
+      "entschlüsseln",
+      "asymmetrisch",
+      "RSA Entschlüsselung",
+      "Entschlüsselung mit öffentlichem Schlüssel",
+      "Entschlüsselung mit privatem Schlüssel",
+      "Datentransmissionssicherheit",
+      "Datensicherung und Wiederherstellung",
+      "Datenverschlüsselung und -entschlüsselung",
+      "Sicherheitsaudit"
+    ],
+    "$description": "RSA Entschlüsselungswerkzeug ist ein Werkzeug, das zur Entschlüsselung von RSA-verschlüsselten Daten verwendet wird. Es kann verschlüsselte Daten mithilfe eines öffentlichen oder privaten Schlüssels entschlüsseln und die entschlüsselten Klartextdaten ausgeben.\n\nFunktionen:\n\n1. Unterstützt die Entschlüsselung mithilfe eines öffentlichen oder privaten Schlüssels.\n\n2. Unterstützt die Eingabe von verschlüsselten Daten und Schlüsseln.\n\n3. Unterstützt die Ausgabe von entschlüsselten Klartextdaten.\n\n4. Unterstützt das automatische Speichern von Eingabe-Schlüsseln und Klartextdaten.\n\nAnwendungsfälle:\n\n1. Datenübertragung: Während der Datenübertragung kann die Verwendung von RSA-Verschlüsselung die Sicherheit der Daten gewährleisten. Mit dem RSA Entschlüsselungswerkzeug können verschlüsselte Daten leicht entschlüsselt werden, um den Inhalt der Daten anzuzeigen.\n\n2. Datensicherung: Während der Datensicherung kann die Verwendung von RSA-Verschlüsselung die Sicherheit der Backup-Daten gewährleisten. Mit dem RSA Entschlüsselungswerkzeug können Backup-Daten leicht entschlüsselt werden, um die Daten wiederherzustellen.\n\n3. Datenverschlüsselung: Während der Datenverschlüsselung kann die Verwendung von RSA-Verschlüsselung die Sicherheit der Daten gewährleisten. Mit dem RSA Entschlüsselungswerkzeug können verschlüsselte Daten leicht entschlüsselt werden, um den Inhalt der Daten anzuzeigen.\n\n4. Sicherheitsaudit: Während eines Sicherheitsaudits können Prüfer das RSA Entschlüsselungswerkzeug verwenden, um verschlüsselte Daten zu entschlüsseln und den Inhalt der Daten anzuzeigen."
+  },
+  "fr": {
+    "$name": "Déchiffrement RSA",
+    "$keywords": [
+      "rsa",
+      "décryptage",
+      "décrypter",
+      "asymétrique",
+      "décryptage RSA",
+      "décryptage de clé publique",
+      "décryptage de clé privée",
+      "sécurité de transmission de données",
+      "sauvegarde et récupération de données",
+      "chiffrement et déchiffrement de données",
+      "audit de sécurité"
+    ],
+    "$description": "L'outil de décryptage RSA est un outil utilisé pour décrypter des données chiffrées en RSA. Il peut décrypter des données chiffrées en utilisant une clé publique ou privée, et produire les données en clair décryptées.\n\nFonctionnalités :\n\n1. Supporte le décryptage en utilisant une clé publique ou privée.\n\n2. Supporte l'entrée de données chiffrées et de clé.\n\n3. Supporte la sortie de données en clair décryptées.\n\n4. Supporte la sauvegarde automatique de la clé d'entrée et des données en clair.\n\nCas d'utilisation :\n\n1. Transmission de données : Pendant la transmission de données, l'utilisation du chiffrement RSA peut assurer la sécurité des données. L'utilisation de l'outil de décryptage RSA peut facilement décrypter les données chiffrées pour visualiser le contenu des données.\n\n2. Sauvegarde de données : Pendant la sauvegarde de données, l'utilisation du chiffrement RSA peut assurer la sécurité des données de sauvegarde. L'utilisation de l'outil de décryptage RSA peut facilement décrypter les données de sauvegarde pour restaurer les données.\n\n3. Chiffrement de données : Pendant le chiffrement de données, l'utilisation du chiffrement RSA peut assurer la sécurité des données. L'utilisation de l'outil de décryptage RSA peut facilement décrypter les données chiffrées pour visualiser le contenu des données.\n\n4. Audit de sécurité : Pendant un audit de sécurité, les auditeurs peuvent utiliser l'outil de décryptage RSA pour décrypter les données chiffrées et visualiser le contenu des données."
+  },
+  "it": {
+    "$name": "Decrittografia RSA",
+    "$keywords": [
+      "rsa",
+      "decrittografia",
+      "decrittografare",
+      "asimmetrico",
+      "decrittografia RSA",
+      "decrittografia chiave pubblica",
+      "decrittografia chiave privata",
+      "sicurezza della trasmissione dei dati",
+      "backup e ripristino dei dati",
+      "crittografia e decrittografia dei dati",
+      "audit di sicurezza"
+    ],
+    "$description": "Lo strumento di decrittografia RSA è uno strumento utilizzato per decrittografare dati crittografati con RSA. Può decrittografare dati crittografati utilizzando una chiave pubblica o privata e produrre i dati di testo in chiaro decrittografati.\n\nCaratteristiche:\n\n1. Supporta la decrittografia utilizzando una chiave pubblica o privata.\n\n2. Supporta l'input di dati crittografati e chiave.\n\n3. Supporta l'output di dati di testo in chiaro decrittografati.\n\n4. Supporta il salvataggio automatico di chiave di input e dati di testo in chiaro.\n\nCasi d'uso:\n\n1. Trasmissione di dati: durante la trasmissione di dati, l'utilizzo della crittografia RSA può garantire la sicurezza dei dati. Utilizzando lo strumento di decrittografia RSA è possibile decrittografare facilmente i dati crittografati per visualizzare il contenuto dei dati.\n\n2. Backup dei dati: durante il backup dei dati, l'utilizzo della crittografia RSA può garantire la sicurezza dei dati di backup. Utilizzando lo strumento di decrittografia RSA è possibile decrittografare facilmente i dati di backup per ripristinare i dati.\n\n3. Crittografia dei dati: durante la crittografia dei dati, l'utilizzo della crittografia RSA può garantire la sicurezza dei dati. Utilizzando lo strumento di decrittografia RSA è possibile decrittografare facilmente i dati crittografati per visualizzare il contenuto dei dati.\n\n4. Audit di sicurezza: durante un audit di sicurezza, gli auditor possono utilizzare lo strumento di decrittografia RSA per decrittografare i dati crittografati per visualizzare il contenuto dei dati."
+  },
+  "ru": {
+    "$name": "Расшифровка RSA",
+    "$keywords": [
+      "rsa",
+      "дешифрование",
+      "расшифровка",
+      "асимметричное",
+      "дешифрование с использованием открытого ключа",
+      "дешифрование с использованием закрытого ключа",
+      "безопасность передачи данных",
+      "резервное копирование и восстановление данных",
+      "шифрование и дешифрование данных",
+      "аудит безопасности"
+    ],
+    "$description": "Инструмент RSA Decryption Tool используется для расшифровки данных, зашифрованных с помощью RSA. Он может расшифровывать зашифрованные данные с использованием открытого или закрытого ключа и выводить расшифрованные данные в виде обычного текста.\n\nОсобенности:\n\n1. Поддерживает расшифровку с использованием открытого или закрытого ключа.\n\n2. Поддерживает ввод зашифрованных данных и ключа.\n\n3. Поддерживает вывод расшифрованных данных в виде обычного текста.\n\n4. Поддерживает автоматическое сохранение входных ключей и расшифрованных данных.\n\nПрименение:\n\n1. Передача данных: Во время передачи данных использование RSA-шифрования может обеспечить безопасность данных. Использование инструмента RSA Decryption Tool позволяет легко расшифровать зашифрованные данные для просмотра содержимого данных.\n\n2. Резервное копирование данных: Во время резервного копирования данных использование RSA-шифрования может обеспечить безопасность резервных данных. Использование инструмента RSA Decryption Tool позволяет легко расшифровать резервные данные для восстановления данных.\n\n3. Шифрование данных: Во время шифрования данных использование RSA-шифрования может обеспечить безопасность данных. Использование инструмента RSA Decryption Tool позволяет легко расшифровать зашифрованные данные для просмотра содержимого данных.\n\n4. Аудит безопасности: Во время аудита безопасности аудиторы могут использовать инструмент RSA Decryption Tool для расшифровки зашифрованных данных для просмотра содержимого данных."
+  },
+  "pt": {
+    "$name": "Descriptografia RSA",
+    "$keywords": [
+      "rsa",
+      "decifração",
+      "decifrar",
+      "assimétrico",
+      "decifração RSA",
+      "decifração de chave pública",
+      "decifração de chave privada",
+      "segurança na transmissão de dados",
+      "backup e recuperação de dados",
+      "criptografia e decifragem de dados",
+      "auditoria de segurança"
+    ],
+    "$description": "A Ferramenta de Decodificação RSA é uma ferramenta usada para decodificar dados criptografados com RSA. Ela pode decodificar dados criptografados usando uma chave pública ou privada e produzir os dados de texto simples decodificados.\n\nRecursos:\n\n1. Suporta decodificação usando uma chave pública ou privada.\n\n2. Suporta entrada de dados criptografados e chave.\n\n3. Suporta saída de dados de texto simples decodificados.\n\n4. Suporta salvamento automático da chave de entrada e dos dados de texto simples.\n\nCasos de uso:\n\n1. Transmissão de dados: Durante a transmissão de dados, o uso de criptografia RSA pode garantir a segurança dos dados. Usando a Ferramenta de Decodificação RSA, é possível decodificar facilmente os dados criptografados para visualizar o conteúdo dos dados.\n\n2. Backup de dados: Durante o backup de dados, o uso de criptografia RSA pode garantir a segurança dos dados de backup. Usando a Ferramenta de Decodificação RSA, é possível decodificar facilmente os dados de backup para restaurar os dados.\n\n3. Criptografia de dados: Durante a criptografia de dados, o uso de criptografia RSA pode garantir a segurança dos dados. Usando a Ferramenta de Decodificação RSA, é possível decodificar facilmente os dados criptografados para visualizar o conteúdo dos dados.\n\n4. Auditoria de segurança: Durante uma auditoria de segurança, os auditores podem usar a Ferramenta de Decodificação RSA para decodificar dados criptografados e visualizar o conteúdo dos dados."
+  },
+  "en": {
+    "$name": "RSA Decryption",
+    "$keywords": [
+      "rsa",
+      "decryption",
+      "decrypt",
+      "asymmetric",
+      "RSA decryption",
+      "public key decryption",
+      "private key decryption",
+      "data transmission security",
+      "data backup and recovery",
+      "data encryption and decryption",
+      "security audit"
+    ],
+    "$description": "RSA Decryption Tool is a tool used to decrypt RSA encrypted data. It can decrypt encrypted data using a public key or private key, and output the decrypted plaintext data.\n\nFeatures:\n\n1. Supports decryption using a public key or private key.\n\n2. Supports input of encrypted data and key.\n\n3. Supports output of decrypted plaintext data.\n\n4. Supports automatic saving of input key and plaintext data.\n\nUse cases:\n\n1. Data transmission: During data transmission, using RSA encryption can ensure the security of the data. Using the RSA Decryption Tool can easily decrypt the encrypted data to view the data content.\n\n2. Data backup: During data backup, using RSA encryption can ensure the security of the backup data. Using the RSA Decryption Tool can easily decrypt the backup data to restore the data.\n\n3. Data encryption: During data encryption, using RSA encryption can ensure the security of the data. Using the RSA Decryption Tool can easily decrypt the encrypted data to view the data content.\n\n4. Security audit: During a security audit, auditors can use the RSA Decryption Tool to decrypt encrypted data to view the data content."
+  }
+}

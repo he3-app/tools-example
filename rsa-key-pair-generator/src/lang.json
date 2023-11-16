@@ -1,0 +1,180 @@
+{
+  "zh": {
+    "generate": "生成",
+    "private": {
+      "format": "私钥格式",
+      "passphrase": "私钥密码",
+      "comment": "私钥备注 ",
+      "result": "私钥"
+    },
+    "public": {
+      "format": "公钥格式",
+      "comment": "公钥备注",
+      "result": "公钥"
+    },
+    "advance": "高级选项",
+    "keyLength": "密钥长度"
+  },
+  "en": {
+
+    "generate": "Generate",
+
+    "private": {
+      "format": "Private Key Format",
+      "passphrase": "Private Key Passphrase",
+      "comment": "Private Key Comment",
+      "result": "Private Key"
+    },
+    "public": {
+      "format": "Public Key Format",
+      "comment": "Public Key Comment",
+      "result": "Public Key"
+    },
+    "advance": "Advance Options",
+    "keyLength": "Key Length"
+  },
+  "de": {
+    "generate": "generieren",
+    "private": {
+      "format": "Privates Schlüsselformat",
+      "passphrase": "Privates Schlüsselkennwort",
+      "comment": "Private Key Bemerkung",
+      "result": "Privat Schlüssel"
+    },
+    "public": {
+      "format": "Öffentliches Schlüsselformat",
+      "comment": "Öffentlicher Schlüssel",
+      "result": "Öffentlicher Schlüssel"
+    },
+    "advance": "erweiterte Optionen",
+    "keyLength": "Schlüssellänge"
+  },
+  "es": {
+    "generate": "generar",
+    "private": {
+      "format": "Formato de clave privada",
+      "passphrase": "Contraseña de clave privada",
+      "comment": "Comentario de la clave privada",
+      "result": "Llave privada"
+    },
+    "public": {
+      "format": "Formato de clave pública",
+      "comment": "Llave pública",
+      "result": "Llave pública"
+    },
+    "advance": "opciones avanzadas",
+    "keyLength": "Longitud de llave"
+  },
+  "fr": {
+    "generate": "générer",
+    "private": {
+      "format": "Format de clé privée",
+      "passphrase": "Mot de passe de clé privée",
+      "comment": "Remarque de clé privée",
+      "result": "Clé privée"
+    },
+    "public": {
+      "format": "Format clé public",
+      "comment": "Clé publique",
+      "result": "Clé publique"
+    },
+    "advance": "options avancées",
+    "keyLength": "Longueur de clé"
+  },
+  "it": {
+    "generate": "creare",
+    "private": {
+      "format": "Formato chiave privato",
+      "passphrase": "Password a chiave privata",
+      "comment": "Nota chiave privata",
+      "result": "Chiave privata"
+    },
+    "public": {
+      "format": "Formato chiave pubblica",
+      "comment": "Chiave pubblica",
+      "result": "Chiave pubblica"
+    },
+    "advance": "opzioni avanzate",
+    "keyLength": "Lunghezza chiave"
+  },
+  "ja": {
+    "generate": "生成",
+    "private": {
+      "format": "秘密キー形式",
+      "passphrase": "秘密キーパスワード",
+      "comment": "秘密キーの発言",
+      "result": "秘密鍵"
+    },
+    "public": {
+      "format": "公開キー形式",
+      "comment": "公開鍵",
+      "result": "公開鍵"
+    },
+    "advance": "高度なオプション",
+    "keyLength": "キー長"
+  },
+  "ko": {
+    "generate": "생성하다",
+    "private": {
+      "format": "개인 키 형식",
+      "passphrase": "개인 키 비밀번호",
+      "comment": "개인 키 비고",
+      "result": "개인 키"
+    },
+    "public": {
+      "format": "공개 키 형식",
+      "comment": "공개 키",
+      "result": "공개 키"
+    },
+    "advance": "고급 옵션",
+    "keyLength": "키 길이"
+  },
+  "pt": {
+    "generate": "gerar",
+    "private": {
+      "format": "Formato de chave privada",
+      "passphrase": "Senha de chave privada",
+      "comment": "Observação chave privada",
+      "result": "Chave privada"
+    },
+    "public": {
+      "format": "Formato de chave pública",
+      "comment": "Chave pública",
+      "result": "Chave pública"
+    },
+    "advance": "opções avançadas",
+    "keyLength": "Comprimento da chave"
+  },
+  "ru": {
+    "generate": "генерировать",
+    "private": {
+      "format": "Частный ключевой формат",
+      "passphrase": "Пароль закрытого ключа",
+      "comment": "Замечание личного ключа",
+      "result": "Частный ключ"
+    },
+    "public": {
+      "format": "Формат открытого ключа",
+      "comment": "Открытый ключ",
+      "result": "Открытый ключ"
+    },
+    "advance": "Расширенные опции",
+    "keyLength": "Длина ключа"
+  },
+  "zh-tw": {
+    "generate": "生成",
+    "private": {
+      "format": "私鑰格式",
+      "passphrase": "私鑰密碼",
+      "comment": "私鑰備註",
+      "result": "私鑰"
+    },
+    "public": {
+      "format": "公鑰格式",
+      "comment": "公鑰備註",
+      "result": "公鑰"
+    },
+    "advance": "高級選項",
+    "keyLength": "密鑰長度"
+  }
+}

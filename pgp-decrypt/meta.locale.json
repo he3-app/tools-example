@@ -1,0 +1,167 @@
+{
+  "zh-cn": {
+    "$name": "PGP解密",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "解密",
+      "解密文件",
+      "PGP解密",
+      "解密PGP加密的消息",
+      "安全通信",
+      "数据备份",
+      "私钥解密"
+    ],
+    "$description": "PGP解密工具用户指南\n\n概述：\nPGP解密工具是一种用于解密PGP加密消息的工具。用户可以输入加密消息、私钥和密码，工具将自动解密消息并在输出区域显示。\n\n特点：\n1. 用户可以输入PGP加密消息、私钥和密码。\n2. 工具将自动解密消息并在输出区域显示。\n3. 用户可以保存输入的消息、私钥和密码，以便下次使用时自动填充。\n\n用例：\n1. PGP加密消息解密：用户可以使用PGP解密工具解密接收到的PGP加密消息。\n2. 安全通信：用户可以使用PGP加密消息保护敏感信息的安全，并使用PGP解密工具解密消息。\n3. 数据备份：用户可以使用PGP加密消息保护备份数据的安全，并使用PGP解密工具解密备份数据。\n\n说明：\n1. 在消息输入框中输入要解密的PGP加密消息。\n2. 在私钥输入框中输入用于解密消息的私钥。\n3. 在密码输入框中输入用于解密私钥的密码。\n4. 单击“解密”按钮，工具将自动解密消息并在输出区域显示。\n5. 用户可以保存输入的消息、私钥和密码，以便下次使用时自动填充。"
+  },
+  "zh-tw": {
+    "$name": "PGP 解密",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "解密",
+      "解密PGP",
+      "PGP解密",
+      "解密PGP加密的訊息",
+      "安全通訊",
+      "資料備份",
+      "私鑰解密"
+    ],
+    "$description": "PGP 解密工具使用指南\n\n概述：\nPGP 解密工具是一款用于解密 PGP 加密信息的工具。用户可以输入加密信息、私钥和密码，工具将自动解密信息并在输出区域显示。\n\n特点：\n1. 用户可以输入 PGP 加密信息、私钥和密码。\n2. 工具将自动解密信息并在输出区域显示。\n3. 用户可以保存输入的信息、私钥和密码，以便下次使用时自动填充。\n\n使用场景：\n1. PGP 加密信息解密：用户可以使用 PGP 解密工具解密接收到的 PGP 加密信息。\n2. 安全通信：用户可以使用 PGP 加密信息保护敏感信息的安全，并使用 PGP 解密工具解密信息。\n3. 数据备份：用户可以使用 PGP 加密信息保护备份数据的安全，并使用 PGP 解密工具解密备份数据。\n\n使用说明：\n1. 在信息输入框中输入要解密的 PGP 加密信息。\n2. 在私钥输入框中输入用于解密信息的私钥。\n3. 在密码输入框中输入用于解密私钥的密码。\n4. 点击“解密”按钮，工具将自动解密信息并在输出区域显示。\n5. 用户可以保存输入的信息、私钥和密码，以便下次使用时自动填充。"
+  },
+  "es": {
+    "$name": "Descifrado PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "descifrar",
+      "descifrado",
+      "descifrado PGP",
+      "Descifrar mensajes encriptados con PGP",
+      "Comunicación segura",
+      "Copia de seguridad de datos",
+      "Descifrado de clave privada"
+    ],
+    "$description": "Guía del usuario de la herramienta de descifrado PGP\n\nResumen:\nLa herramienta de descifrado PGP es una herramienta utilizada para descifrar mensajes cifrados con PGP. Los usuarios pueden ingresar el mensaje cifrado, la clave privada y la contraseña, y la herramienta automáticamente descifrará el mensaje y lo mostrará en el área de salida.\n\nCaracterísticas:\n1. Los usuarios pueden ingresar mensajes cifrados con PGP, claves privadas y contraseñas.\n2. La herramienta automáticamente descifrará el mensaje y lo mostrará en el área de salida.\n3. Los usuarios pueden guardar el mensaje de entrada, la clave privada y la contraseña para rellenar automáticamente en el próximo uso.\n\nCasos de uso:\n1. Descifrado de mensajes cifrados con PGP: los usuarios pueden utilizar la herramienta de descifrado PGP para descifrar mensajes cifrados con PGP recibidos.\n2. Comunicación segura: los usuarios pueden utilizar mensajes cifrados con PGP para proteger la seguridad de la información sensible y utilizar la herramienta de descifrado PGP para descifrar mensajes.\n3. Copia de seguridad de datos: los usuarios pueden utilizar mensajes cifrados con PGP para proteger la seguridad de los datos de copia de seguridad y utilizar la herramienta de descifrado PGP para descifrar los datos de copia de seguridad.\n\nInstrucciones:\n1. Ingrese el mensaje cifrado con PGP que se va a descifrar en el cuadro de entrada de mensaje.\n2. Ingrese la clave privada utilizada para descifrar el mensaje en el cuadro de entrada de clave privada.\n3. Ingrese la contraseña utilizada para descifrar la clave privada en el cuadro de entrada de contraseña.\n4. Haga clic en el botón \"Descifrar\" y la herramienta automáticamente descifrará el mensaje y lo mostrará en el área de salida.\n5. Los usuarios pueden guardar el mensaje de entrada, la clave privada y la contraseña para rellenar automáticamente en el próximo uso."
+  },
+  "ja": {
+    "$name": "PGP復号化",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "復号化",
+      "複合化",
+      "PGP復号化",
+      "PGP暗号化されたメッセージの復号化",
+      "安全な通信",
+      "データバックアップ",
+      "秘密鍵の復号化"
+    ],
+    "$description": "PGP復号ツールユーザーガイド\n\n概要：\nPGP復号ツールは、PGPで暗号化されたメッセージを復号化するためのツールです。ユーザーは暗号化されたメッセージ、秘密鍵、パスワードを入力することができ、ツールは自動的にメッセージを復号化し、出力エリアに表示します。\n\n特徴：\n1. ユーザーはPGPで暗号化されたメッセージ、秘密鍵、パスワードを入力することができます。\n2. ツールは自動的にメッセージを復号化し、出力エリアに表示します。\n3. ユーザーは、次回使用時に自動的に入力メッセージ、秘密鍵、パスワードを保存することができます。\n\n使用例：\n1. PGPで暗号化されたメッセージの復号化：ユーザーは、受信したPGPで暗号化されたメッセージを復号化するためにPGP復号ツールを使用することができます。\n2. セキュアな通信：ユーザーは、機密情報のセキュリティを保護するためにPGPで暗号化されたメッセージを使用し、PGP復号ツールを使用してメッセージを復号化することができます。\n3. データのバックアップ：ユーザーは、バックアップデータのセキュリティを保護するためにPGPで暗号化されたメッセージを使用し、PGP復号ツールを使用してバックアップデータを復号化することができます。\n\n手順：\n1. 復号化するPGPで暗号化されたメッセージをメッセージ入力ボックスに入力します。\n2. メッセージを復号化するために使用する秘密鍵を秘密鍵入力ボックスに入力します。\n3. 秘密鍵を復号化するために使用するパスワードをパスワード入力ボックスに入力します。\n4. 「復号化」ボタンをクリックすると、ツールは自動的にメッセージを復号化し、出力エリアに表示します。\n5. ユーザーは、次回使用時に自動的に入力メッセージ、秘密鍵、パスワードを保存することができます。"
+  },
+  "ko": {
+    "$name": "PGP 복호화",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "복호화",
+      "암호 해독",
+      "PGP 복호화",
+      "PGP 암호화된 메시지 복호화",
+      "보안 통신",
+      "데이터 백업",
+      "개인 키 복호화"
+    ],
+    "$description": "PGP 복호화 도구 사용자 가이드\n\n개요:\nPGP 복호화 도구는 PGP 암호화된 메시지를 복호화하는 데 사용되는 도구입니다. 사용자는 암호화된 메시지, 개인 키 및 비밀번호를 입력하면 도구가 자동으로 메시지를 복호화하고 출력 영역에 표시합니다.\n\n특징:\n1. 사용자는 PGP 암호화된 메시지, 개인 키 및 비밀번호를 입력할 수 있습니다.\n2. 도구는 자동으로 메시지를 복호화하고 출력 영역에 표시합니다.\n3. 사용자는 입력 메시지, 개인 키 및 비밀번호를 저장하여 다음 사용 시 자동으로 채울 수 있습니다.\n\n사용 사례:\n1. PGP 암호화된 메시지 복호화: 사용자는 PGP 복호화 도구를 사용하여 수신한 PGP 암호화된 메시지를 복호화할 수 있습니다.\n2. 안전한 통신: 사용자는 PGP 암호화된 메시지를 사용하여 민감한 정보의 보안을 보호하고 PGP 복호화 도구를 사용하여 메시지를 복호화할 수 있습니다.\n3. 데이터 백업: 사용자는 PGP 암호화된 메시지를 사용하여 백업 데이터의 보안을 보호하고 PGP 복호화 도구를 사용하여 백업 데이터를 복호화할 수 있습니다.\n\n사용 방법:\n1. 복호화할 PGP 암호화된 메시지를 메시지 입력 상자에 입력합니다.\n2. 메시지를 복호화하는 데 사용되는 개인 키를 개인 키 입력 상자에 입력합니다.\n3. 개인 키를 복호화하는 데 사용되는 비밀번호를 비밀번호 입력 상자에 입력합니다.\n4. \"복호화\" 버튼을 클릭하면 도구가 자동으로 메시지를 복호화하고 출력 영역에 표시합니다.\n5. 사용자는 입력 메시지, 개인 키 및 비밀번호를 저장하여 다음 사용 시 자동으로 채울 수 있습니다."
+  },
+  "de": {
+    "$name": "PGP Entschlüsselung",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "entschlüsseln",
+      "Entschlüsselung",
+      "PGP Entschlüsselung",
+      "Entschlüsselung von PGP-verschlüsselten Nachrichten",
+      "Sichere Kommunikation",
+      "Daten-Backup",
+      "Entschlüsselung des privaten Schlüssels"
+    ],
+    "$description": "PGP Entschlüsselungswerkzeug Benutzerhandbuch\n\nÜberblick:\nDas PGP Entschlüsselungswerkzeug ist ein Werkzeug, das zur Entschlüsselung von PGP-verschlüsselten Nachrichten verwendet wird. Benutzer können die verschlüsselte Nachricht, den privaten Schlüssel und das Passwort eingeben, und das Werkzeug wird die Nachricht automatisch entschlüsseln und im Ausgabegebiet anzeigen.\n\nFunktionen:\n1. Benutzer können PGP-verschlüsselte Nachrichten, private Schlüssel und Passwörter eingeben.\n2. Das Werkzeug wird die Nachricht automatisch entschlüsseln und im Ausgabegebiet anzeigen.\n3. Benutzer können die Eingabe der Nachricht, des privaten Schlüssels und des Passworts speichern, um sie automatisch beim nächsten Gebrauch auszufüllen.\n\nAnwendungsfälle:\n1. Entschlüsselung von PGP-verschlüsselten Nachrichten: Benutzer können das PGP Entschlüsselungswerkzeug verwenden, um empfangene PGP-verschlüsselte Nachrichten zu entschlüsseln.\n2. Sichere Kommunikation: Benutzer können PGP-verschlüsselte Nachrichten verwenden, um die Sicherheit sensibler Informationen zu schützen, und das PGP Entschlüsselungswerkzeug verwenden, um Nachrichten zu entschlüsseln.\n3. Datensicherung: Benutzer können PGP-verschlüsselte Nachrichten verwenden, um die Sicherheit von Backup-Daten zu schützen, und das PGP Entschlüsselungswerkzeug verwenden, um Backup-Daten zu entschlüsseln.\n\nAnweisungen:\n1. Geben Sie die zu entschlüsselnde PGP-verschlüsselte Nachricht in das Nachrichteneingabefeld ein.\n2. Geben Sie den privaten Schlüssel ein, der zur Entschlüsselung der Nachricht verwendet wird, in das Eingabefeld für den privaten Schlüssel ein.\n3. Geben Sie das Passwort ein, das zur Entschlüsselung des privaten Schlüssels verwendet wird, in das Passworteingabefeld ein.\n4. Klicken Sie auf die Schaltfläche \"Entschlüsseln\", und das Werkzeug wird die Nachricht automatisch entschlüsseln und im Ausgabegebiet anzeigen.\n5. Benutzer können die Eingabe der Nachricht, des privaten Schlüssels und des Passworts speichern, um sie automatisch beim nächsten Gebrauch auszufüllen."
+  },
+  "fr": {
+    "$name": "Déchiffrement PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "décrypter",
+      "décryptage",
+      "décryptage PGP",
+      "décrypter des messages chiffrés PGP",
+      "communication sécurisée",
+      "sauvegarde de données",
+      "décryptage de clé privée"
+    ],
+    "$description": "Guide de l'utilisateur de l'outil de déchiffrement PGP\n\nAperçu :\nL'outil de déchiffrement PGP est un outil utilisé pour déchiffrer des messages chiffrés PGP. Les utilisateurs peuvent entrer le message chiffré, la clé privée et le mot de passe, et l'outil déchiffrera automatiquement le message et l'affichera dans la zone de sortie.\n\nFonctionnalités :\n1. Les utilisateurs peuvent entrer des messages chiffrés PGP, des clés privées et des mots de passe.\n2. L'outil déchiffrera automatiquement le message et l'affichera dans la zone de sortie.\n3. Les utilisateurs peuvent enregistrer le message d'entrée, la clé privée et le mot de passe pour un remplissage automatique lors de la prochaine utilisation.\n\nCas d'utilisation :\n1. Déchiffrement de messages chiffrés PGP : Les utilisateurs peuvent utiliser l'outil de déchiffrement PGP pour déchiffrer les messages chiffrés PGP reçus.\n2. Communication sécurisée : Les utilisateurs peuvent utiliser des messages chiffrés PGP pour protéger la sécurité des informations sensibles et utiliser l'outil de déchiffrement PGP pour déchiffrer les messages.\n3. Sauvegarde de données : Les utilisateurs peuvent utiliser des messages chiffrés PGP pour protéger la sécurité des données de sauvegarde et utiliser l'outil de déchiffrement PGP pour déchiffrer les données de sauvegarde.\n\nInstructions :\n1. Entrez le message chiffré PGP à déchiffrer dans la zone de saisie du message.\n2. Entrez la clé privée utilisée pour déchiffrer le message dans la zone de saisie de la clé privée.\n3. Entrez le mot de passe utilisé pour déchiffrer la clé privée dans la zone de saisie du mot de passe.\n4. Cliquez sur le bouton \"Déchiffrer\", et l'outil déchiffrera automatiquement le message et l'affichera dans la zone de sortie.\n5. Les utilisateurs peuvent enregistrer le message d'entrée, la clé privée et le mot de passe pour un remplissage automatique lors de la prochaine utilisation."
+  },
+  "it": {
+    "$name": "Decrittografia PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "decrittografia",
+      "decodifica",
+      "decodifica PGP",
+      "decodifica messaggi crittografati PGP",
+      "comunicazione sicura",
+      "backup dei dati",
+      "decodifica chiave privata"
+    ],
+    "$description": "Guida per l'utente del tool di decrittografia PGP\n\nPanoramica:\nIl tool di decrittografia PGP viene utilizzato per decrittografare messaggi criptati con PGP. Gli utenti possono inserire il messaggio criptato, la chiave privata e la password, e il tool decrittograferà automaticamente il messaggio e lo visualizzerà nell'area di output.\n\nCaratteristiche:\n1. Gli utenti possono inserire messaggi criptati con PGP, chiavi private e password.\n2. Il tool decrittograferà automaticamente il messaggio e lo visualizzerà nell'area di output.\n3. Gli utenti possono salvare il messaggio di input, la chiave privata e la password per il riempimento automatico nella prossima utilizzazione.\n\nCasi d'uso:\n1. Decrittografia di messaggi criptati con PGP: gli utenti possono utilizzare il tool di decrittografia PGP per decrittografare i messaggi criptati con PGP ricevuti.\n2. Comunicazione sicura: gli utenti possono utilizzare messaggi criptati con PGP per proteggere la sicurezza delle informazioni sensibili e utilizzare il tool di decrittografia PGP per decrittografare i messaggi.\n3. Backup dei dati: gli utenti possono utilizzare messaggi criptati con PGP per proteggere la sicurezza dei dati di backup e utilizzare il tool di decrittografia PGP per decrittografare i dati di backup.\n\nIstruzioni:\n1. Inserire il messaggio criptato con PGP da decrittografare nella casella di input del messaggio.\n2. Inserire la chiave privata utilizzata per decrittografare il messaggio nella casella di input della chiave privata.\n3. Inserire la password utilizzata per decrittografare la chiave privata nella casella di input della password.\n4. Fare clic sul pulsante \"Decrittografa\", e il tool decrittograferà automaticamente il messaggio e lo visualizzerà nell'area di output.\n5. Gli utenti possono salvare il messaggio di input, la chiave privata e la password per il riempimento automatico nella prossima utilizzazione."
+  },
+  "ru": {
+    "$name": "Расшифровка PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "расшифровка",
+      "дешифрование",
+      "расшифровка PGP",
+      "Расшифровка зашифрованных сообщений PGP",
+      "Безопасное общение",
+      "Резервное копирование данных",
+      "Расшифровка закрытого ключа"
+    ],
+    "$description": "Руководство пользователя для инструмента дешифрования PGP\n\nОбзор:\nИнструмент дешифрования PGP используется для расшифровки зашифрованных сообщений PGP. Пользователи могут ввести зашифрованное сообщение, личный ключ и пароль, и инструмент автоматически расшифрует сообщение и отобразит его в выходной области.\n\nОсобенности:\n1. Пользователи могут вводить зашифрованные сообщения PGP, личные ключи и пароли.\n2. Инструмент автоматически расшифрует сообщение и отобразит его в выходной области.\n3. Пользователи могут сохранить входное сообщение, личный ключ и пароль для автоматического заполнения при следующем использовании.\n\nВарианты использования:\n1. Расшифровка зашифрованных сообщений PGP: пользователи могут использовать инструмент дешифрования PGP для расшифровки полученных зашифрованных сообщений PGP.\n2. Безопасная коммуникация: пользователи могут использовать зашифрованные сообщения PGP для защиты конфиденциальной информации и использовать инструмент дешифрования PGP для расшифровки сообщений.\n3. Резервное копирование данных: пользователи могут использовать зашифрованные сообщения PGP для защиты безопасности резервных копий данных и использовать инструмент дешифрования PGP для расшифровки резервных копий данных.\n\nИнструкции:\n1. Введите зашифрованное сообщение PGP, которое нужно расшифровать, в поле ввода сообщения.\n2. Введите личный ключ, используемый для расшифровки сообщения, в поле ввода личного ключа.\n3. Введите пароль, используемый для расшифровки личного ключа, в поле ввода пароля.\n4. Нажмите кнопку \"Расшифровать\", и инструмент автоматически расшифрует сообщение и отобразит его в выходной области.\n5. Пользователи могут сохранить входное сообщение, личный ключ и пароль для автоматического заполнения при следующем использовании."
+  },
+  "pt": {
+    "$name": "Descriptografia PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "descriptografar",
+      "descriptografia",
+      "descriptografia PGP",
+      "Descriptografar mensagens criptografadas PGP",
+      "Comunicação segura",
+      "Backup de dados",
+      "Descriptografia de chave privada"
+    ],
+    "$description": "Guia do Usuário da Ferramenta de Descriptografia PGP\n\nVisão geral:\nA Ferramenta de Descriptografia PGP é uma ferramenta usada para descriptografar mensagens criptografadas com PGP. Os usuários podem inserir a mensagem criptografada, a chave privada e a senha, e a ferramenta irá automaticamente descriptografar a mensagem e exibi-la na área de saída.\n\nRecursos:\n1. Os usuários podem inserir mensagens criptografadas com PGP, chaves privadas e senhas.\n2. A ferramenta irá automaticamente descriptografar a mensagem e exibi-la na área de saída.\n3. Os usuários podem salvar a mensagem de entrada, a chave privada e a senha para preenchimento automático na próxima utilização.\n\nCasos de uso:\n1. Descriptografia de mensagens criptografadas com PGP: Os usuários podem usar a Ferramenta de Descriptografia PGP para descriptografar mensagens criptografadas com PGP recebidas.\n2. Comunicação segura: Os usuários podem usar mensagens criptografadas com PGP para proteger a segurança de informações sensíveis e usar a Ferramenta de Descriptografia PGP para descriptografar mensagens.\n3. Backup de dados: Os usuários podem usar mensagens criptografadas com PGP para proteger a segurança de dados de backup e usar a Ferramenta de Descriptografia PGP para descriptografar dados de backup.\n\nInstruções:\n1. Insira a mensagem criptografada com PGP a ser descriptografada na caixa de entrada de mensagem.\n2. Insira a chave privada usada para descriptografar a mensagem na caixa de entrada de chave privada.\n3. Insira a senha usada para descriptografar a chave privada na caixa de entrada de senha.\n4. Clique no botão \"Descriptografar\" e a ferramenta irá automaticamente descriptografar a mensagem e exibi-la na área de saída.\n5. Os usuários podem salvar a mensagem de entrada, a chave privada e a senha para preenchimento automático na próxima utilização."
+  },
+  "en": {
+    "$name": "PGP Decryption",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "decrypt",
+      "decryption",
+      "PGP decryption",
+      "Decrypt PGP encrypted messages",
+      "Secure communication",
+      "Data backup",
+      "Private key decryption"
+    ],
+    "$description": "PGP Decryption Tool User Guide\n\nOverview:\nPGP Decryption Tool is a tool used to decrypt PGP encrypted messages. Users can input the encrypted message, private key, and password, and the tool will automatically decrypt the message and display it in the output area.\n\nFeatures:\n1. Users can input PGP encrypted messages, private keys, and passwords.\n2. The tool will automatically decrypt the message and display it in the output area.\n3. Users can save the input message, private key, and password for automatic filling in the next use.\n\nUse Cases:\n1. PGP encrypted message decryption: Users can use the PGP Decryption Tool to decrypt received PGP encrypted messages.\n2. Secure communication: Users can use PGP encrypted messages to protect the security of sensitive information and use the PGP Decryption Tool to decrypt messages.\n3. Data backup: Users can use PGP encrypted messages to protect the security of backup data and use the PGP Decryption Tool to decrypt backup data.\n\nInstructions:\n1. Input the PGP encrypted message to be decrypted in the message input box.\n2. Input the private key used to decrypt the message in the private key input box.\n3. Input the password used to decrypt the private key in the password input box.\n4. Click the \"Decrypt\" button, and the tool will automatically decrypt the message and display it in the output area.\n5. Users can save the input message, private key, and password for automatic filling in the next use."
+  }
+}

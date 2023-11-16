@@ -1,0 +1,47 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "userId": "3e696ac5-0721-4558-8c21-5b501c27115e",
+    "name": "SM2 Decryption",
+    "id": "sm2-decryption",
+    "isPublic": true,
+    "relatedToolId": [
+      "sm2-encryption"
+    ],
+    "version": "1.0.4",
+    "description": "The SM2 Decryption tool is a tool used to decrypt SM2 encrypted data. Users can input or paste the encrypted data, select the encryption mode, and input the private key. The tool will automatically decrypt the data and output the plaintext. At the same time, users can also choose to upload the encrypted file for decryption.\n\nFeatures:\n\n1. Support input or paste encrypted data for decryption.\n\n2. Support uploading encrypted files for decryption.\n\n3. Support selecting encryption mode (C1C2C3 or C1C3C2).\n\n4. Support inputting private key for decryption.\n\n5. Support automatic saving of private key and encryption mode.\n\n6. Support outputting decrypted plaintext.\n\nUse cases:\n\n1. SM2 encrypted data decryption: After using SM2 to encrypt data, users can use this tool to decrypt it to obtain plaintext data.\n\n2. Data security: During data transmission, using SM2 encryption can ensure the security of data. Using this tool can easily decrypt encrypted data to ensure data integrity and security.\n\n3. Data backup: Users can back up encrypted data to files. Using this tool can easily decrypt backup data for data recovery.\n\n4. Data analysis: During data analysis, using this tool can easily decrypt encrypted data to better understand data structure and content.",
+    "repository": "",
+    "icon": "unlock-outlined",
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "sm2",
+      "decryption",
+      "SM2 decryption",
+      "encrypted data decryption",
+      "data security",
+      "data backup",
+      "data analysis"
+    ]
+  },
+  "dependencies": {
+    "gm-crypto": "^0.1.8",
+    "sm-crypto": "^0.3.12",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@types/sm-crypto": "^0.3.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "name": "PGP Decryption",
+    "id": "pgp-decrypt",
+    "icon": "thunderbolt-outlined",
+    "version": "1.0.4",
+    "description": "PGP Decryption Tool User Guide\n\nOverview:\nPGP Decryption Tool is a tool used to decrypt PGP encrypted messages. Users can input the encrypted message, private key, and password, and the tool will automatically decrypt the message and display it in the output area.\n\nFeatures:\n1. Users can input PGP encrypted messages, private keys, and passwords.\n2. The tool will automatically decrypt the message and display it in the output area.\n3. Users can save the input message, private key, and password for automatic filling in the next use.\n\nUse Cases:\n1. PGP encrypted message decryption: Users can use the PGP Decryption Tool to decrypt received PGP encrypted messages.\n2. Secure communication: Users can use PGP encrypted messages to protect the security of sensitive information and use the PGP Decryption Tool to decrypt messages.\n3. Data backup: Users can use PGP encrypted messages to protect the security of backup data and use the PGP Decryption Tool to decrypt backup data.\n\nInstructions:\n1. Input the PGP encrypted message to be decrypted in the message input box.\n2. Input the private key used to decrypt the message in the private key input box.\n3. Input the password used to decrypt the private key in the password input box.\n4. Click the \"Decrypt\" button, and the tool will automatically decrypt the message and display it in the output area.\n5. Users can save the input message, private key, and password for automatic filling in the next use.",
+    "isPublic": true,
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "GPG",
+      "PGP",
+      "decrypt",
+      "decryption",
+      "PGP decryption",
+      "Decrypt PGP encrypted messages",
+      "Secure communication",
+      "Data backup",
+      "Private key decryption"
+    ],
+    "repository": "",
+    "relatedToolId": [
+      "pgp-encrypt",
+      "pgp-key-pair-generator",
+      "pgp-sign",
+      "pgp-verify"
+    ]
+  },
+  "dependencies": {
+    "openpgp": "^5.7.0",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

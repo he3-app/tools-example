@@ -1,0 +1,178 @@
+{
+  "zh-cn": {
+    "$name": "PGP签名",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "签名",
+      "数字签名",
+      "签名文件",
+      "PGP签名",
+      "PGP消息签名",
+      "数据完整性保护",
+      "PGP加密",
+      "PGP数字签名"
+    ],
+    "$description": "PGP签名工具文档\n\n概述：\nPGP签名工具是一种用于签名PGP消息的工具。用户可以输入消息、私钥和密码，工具将签署消息并输出已签署的消息。\n\n功能描述：\n1. 用户可以输入需要签名的消息。\n2. 用户可以输入私钥和密码以签署消息。\n3. 工具将签署输入的消息并输出已签署的消息。\n\n用例：\n1. PGP消息签名：用户可以使用PGP签名工具签署PGP消息，以确保消息的完整性和真实性。\n2. 数据传输：在数据传输期间，用户可以使用PGP签名工具签署数据，以确保数据的完整性和真实性。\n3. 数据存储：在数据存储期间，用户可以使用PGP签名工具签署数据，以确保数据的完整性和真实性。\n\n说明：\n1. 输入需要签名的消息。\n2. 输入私钥和密码。\n3. 点击“签名”按钮，工具将签署消息。\n4. 签署的消息将显示在工具的输出区域中。"
+  },
+  "zh-tw": {
+    "$name": "PGP 簽署",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "簽名",
+      "簽署",
+      "簽章",
+      "PGP 簽署",
+      "PGP 訊息簽署",
+      "資料完整性保護",
+      "PGP 加密",
+      "PGP 數位簽章"
+    ],
+    "$description": "PGP 簽名工具文件說明\n\n概述：\nPGP 簽名工具是一個用於簽署 PGP 消息的工具。用戶可以輸入消息、私鑰和密碼，工具將簽署消息並輸出已簽署的消息。\n\n功能描述：\n1. 用戶可以輸入需要簽署的消息。\n2. 用戶可以輸入私鑰和密碼以簽署消息。\n3. 工具將簽署輸入的消息並輸出已簽署的消息。\n\n使用案例：\n1. PGP 消息簽署：用戶可以使用 PGP 簽名工具簽署 PGP 消息，以確保消息的完整性和真實性。\n2. 數據傳輸：在數據傳輸期間，用戶可以使用 PGP 簽名工具簽署數據，以確保數據的完整性和真實性。\n3. 數據存儲：在數據存儲期間，用戶可以使用 PGP 簽名工具簽署數據，以確保數據的完整性和真實性。\n\n操作說明：\n1. 輸入需要簽署的消息。\n2. 輸入私鑰和密碼。\n3. 點擊“簽署”按鈕，工具將簽署消息。\n4. 簽署後的消息將顯示在工具的輸出區域。"
+  },
+  "es": {
+    "$name": "Firma PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "firmar",
+      "firma",
+      "sig",
+      "firmado PGP",
+      "firma de mensajes PGP",
+      "protección de integridad de datos",
+      "encriptación PGP",
+      "firma digital PGP"
+    ],
+    "$description": "Herramienta de Documentación de Firma PGP\n\nResumen:\nLa herramienta de firma PGP es una herramienta utilizada para firmar mensajes PGP. Los usuarios pueden ingresar mensajes, claves privadas y contraseñas, y la herramienta firmará el mensaje y producirá el mensaje firmado.\n\nDescripción de la función:\n1. Los usuarios pueden ingresar el mensaje que necesita ser firmado.\n2. Los usuarios pueden ingresar la clave privada y la contraseña para firmar el mensaje.\n3. La herramienta firmará el mensaje de entrada y producirá el mensaje firmado.\n\nCasos de uso:\n1. Firma de mensajes PGP: Los usuarios pueden utilizar la herramienta de firma PGP para firmar mensajes PGP para garantizar la integridad y autenticidad del mensaje.\n2. Transmisión de datos: Durante la transmisión de datos, los usuarios pueden utilizar la herramienta de firma PGP para firmar datos para garantizar la integridad y autenticidad de los datos.\n3. Almacenamiento de datos: Durante el almacenamiento de datos, los usuarios pueden utilizar la herramienta de firma PGP para firmar datos para garantizar la integridad y autenticidad de los datos.\n\nInstrucciones:\n1. Ingrese el mensaje que necesita ser firmado.\n2. Ingrese la clave privada y la contraseña.\n3. Haga clic en el botón \"Firmar\", y la herramienta firmará el mensaje.\n4. El mensaje firmado se mostrará en el área de salida de la herramienta."
+  },
+  "ja": {
+    "$name": "PGP署名",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "署名",
+      "シグネチャ",
+      "sig",
+      "PGP署名",
+      "PGPメッセージ署名",
+      "データの整合性保護",
+      "PGP暗号化",
+      "PGPデジタル署名"
+    ],
+    "$description": "PGP署名ツールのドキュメンテーション\n\n概要：\nPGP署名ツールは、PGPメッセージに署名するためのツールです。ユーザーはメッセージ、秘密鍵、パスワードを入力し、ツールはメッセージに署名して署名済みメッセージを出力します。\n\n機能説明：\n1. ユーザーは署名する必要のあるメッセージを入力できます。\n2. ユーザーはメッセージに署名するための秘密鍵とパスワードを入力できます。\n3. ツールは入力されたメッセージに署名し、署名済みメッセージを出力します。\n\n使用例：\n1. PGPメッセージの署名：ユーザーはPGP署名ツールを使用して、メッセージの完全性と信頼性を確保するためにPGPメッセージに署名できます。\n2. データ伝送：データ伝送中、ユーザーはデータの完全性と信頼性を確保するために、PGP署名ツールを使用してデータに署名できます。\n3. データの保存：データの保存中、ユーザーはデータの完全性と信頼性を確保するために、PGP署名ツールを使用してデータに署名できます。\n\n手順：\n1. 署名する必要のあるメッセージを入力します。\n2. 秘密鍵とパスワードを入力します。\n3. 「署名」ボタンをクリックすると、ツールはメッセージに署名します。\n4. 署名済みメッセージは、ツールの出力エリアに表示されます。"
+  },
+  "ko": {
+    "$name": "PGP 서명",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "서명",
+      "서명",
+      "서명",
+      "PGP 서명",
+      "PGP 메시지 서명",
+      "데이터 무결성 보호",
+      "PGP 암호화",
+      "PGP 디지털 서명"
+    ],
+    "$description": "PGP 서명 도구 문서\n\n개요:\nPGP 서명 도구는 PGP 메시지에 서명하는 데 사용되는 도구입니다. 사용자는 메시지, 개인 키 및 비밀번호를 입력하면 도구가 메시지에 서명하고 서명된 메시지를 출력합니다.\n\n기능 설명:\n1. 사용자는 서명해야 할 메시지를 입력할 수 있습니다.\n2. 사용자는 메시지에 서명하기 위해 개인 키와 비밀번호를 입력할 수 있습니다.\n3. 도구는 입력된 메시지에 서명하고 서명된 메시지를 출력합니다.\n\n사용 사례:\n1. PGP 메시지 서명: 사용자는 PGP 서명 도구를 사용하여 메시지의 무결성과 신뢰성을 보장하기 위해 PGP 메시지에 서명할 수 있습니다.\n2. 데이터 전송: 데이터 전송 중에 사용자는 데이터의 무결성과 신뢰성을 보장하기 위해 PGP 서명 도구를 사용하여 데이터에 서명할 수 있습니다.\n3. 데이터 저장: 데이터 저장 중에 사용자는 데이터의 무결성과 신뢰성을 보장하기 위해 PGP 서명 도구를 사용하여 데이터에 서명할 수 있습니다.\n\n사용 방법:\n1. 서명해야 할 메시지를 입력합니다.\n2. 개인 키와 비밀번호를 입력합니다.\n3. \"서명\" 버튼을 클릭하면 도구가 메시지에 서명합니다.\n4. 서명된 메시지는 도구의 출력 영역에 표시됩니다."
+  },
+  "de": {
+    "$name": "PGP-Signatur",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "Signatur",
+      "Unterschrift",
+      "Sig",
+      "PGP-Signierung",
+      "PGP-Nachrichten-Signierung",
+      "Datenschutz",
+      "PGP-Verschlüsselung",
+      "PGP-Digitale Signatur"
+    ],
+    "$description": "PGP-Signatur-Tool-Dokumentation\n\nÜberblick:\nDas PGP-Signatur-Tool ist ein Tool, das zum Signieren von PGP-Nachrichten verwendet wird. Benutzer können Nachrichten, private Schlüssel und Passwörter eingeben, und das Tool signiert die Nachricht und gibt die signierte Nachricht aus.\n\nFunktionsbeschreibung:\n1. Benutzer können die Nachricht eingeben, die signiert werden soll.\n2. Benutzer können den privaten Schlüssel und das Passwort eingeben, um die Nachricht zu signieren.\n3. Das Tool signiert die eingegebene Nachricht und gibt die signierte Nachricht aus.\n\nAnwendungsfälle:\n1. PGP-Nachrichtensignatur: Benutzer können das PGP-Signatur-Tool verwenden, um PGP-Nachrichten zu signieren, um die Integrität und Authentizität der Nachricht zu gewährleisten.\n2. Datenübertragung: Während der Datenübertragung können Benutzer das PGP-Signatur-Tool verwenden, um Daten zu signieren, um die Integrität und Authentizität der Daten zu gewährleisten.\n3. Datenspeicherung: Während der Datenspeicherung können Benutzer das PGP-Signatur-Tool verwenden, um Daten zu signieren, um die Integrität und Authentizität der Daten zu gewährleisten.\n\nAnleitung:\n1. Geben Sie die Nachricht ein, die signiert werden soll.\n2. Geben Sie den privaten Schlüssel und das Passwort ein.\n3. Klicken Sie auf die Schaltfläche \"Signieren\", und das Tool signiert die Nachricht.\n4. Die signierte Nachricht wird im Ausgabe-Bereich des Tools angezeigt."
+  },
+  "fr": {
+    "$name": "Signature PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "signer",
+      "signature",
+      "sig",
+      "signature PGP",
+      "signature de message PGP",
+      "protection de l'intégrité des données",
+      "chiffrement PGP",
+      "signature numérique PGP"
+    ],
+    "$description": "Documentation de l'outil de signature PGP\n\nAperçu:\nL'outil de signature PGP est un outil utilisé pour signer des messages PGP. Les utilisateurs peuvent saisir des messages, des clés privées et des mots de passe, et l'outil signera le message et produira le message signé.\n\nDescription de la fonction:\n1. Les utilisateurs peuvent saisir le message qui doit être signé.\n2. Les utilisateurs peuvent saisir la clé privée et le mot de passe pour signer le message.\n3. L'outil signera le message d'entrée et produira le message signé.\n\nCas d'utilisation:\n1. Signature de message PGP: Les utilisateurs peuvent utiliser l'outil de signature PGP pour signer des messages PGP afin d'assurer l'intégrité et l'authenticité du message.\n2. Transmission de données: Pendant la transmission de données, les utilisateurs peuvent utiliser l'outil de signature PGP pour signer des données afin d'assurer l'intégrité et l'authenticité des données.\n3. Stockage de données: Pendant le stockage de données, les utilisateurs peuvent utiliser l'outil de signature PGP pour signer des données afin d'assurer l'intégrité et l'authenticité des données.\n\nInstructions:\n1. Saisissez le message qui doit être signé.\n2. Saisissez la clé privée et le mot de passe.\n3. Cliquez sur le bouton \"Signer\", et l'outil signera le message.\n4. Le message signé sera affiché dans la zone de sortie de l'outil."
+  },
+  "it": {
+    "$name": "Firma PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "firma",
+      "firma digitale",
+      "sig",
+      "firmare con PGP",
+      "firmare messaggi con PGP",
+      "protezione dell'integrità dei dati",
+      "crittografia con PGP",
+      "firma digitale con PGP"
+    ],
+    "$description": "Strumento di firma PGP - Documentazione\n\nPanoramica:\nLo strumento di firma PGP è uno strumento utilizzato per firmare messaggi PGP. Gli utenti possono inserire messaggi, chiavi private e password e lo strumento firmerà il messaggio e produrrà il messaggio firmato.\n\nDescrizione della funzione:\n1. Gli utenti possono inserire il messaggio che deve essere firmato.\n2. Gli utenti possono inserire la chiave privata e la password per firmare il messaggio.\n3. Lo strumento firmerà il messaggio di input e produrrà il messaggio firmato.\n\nCasi d'uso:\n1. Firma di messaggi PGP: gli utenti possono utilizzare lo strumento di firma PGP per firmare messaggi PGP per garantire l'integrità e l'autenticità del messaggio.\n2. Trasmissione di dati: durante la trasmissione di dati, gli utenti possono utilizzare lo strumento di firma PGP per firmare i dati per garantire l'integrità e l'autenticità dei dati.\n3. Archiviazione di dati: durante l'archiviazione di dati, gli utenti possono utilizzare lo strumento di firma PGP per firmare i dati per garantire l'integrità e l'autenticità dei dati.\n\nIstruzioni:\n1. Inserire il messaggio che deve essere firmato.\n2. Inserire la chiave privata e la password.\n3. Fare clic sul pulsante \"Firma\" e lo strumento firmerà il messaggio.\n4. Il messaggio firmato verrà visualizzato nell'area di output dello strumento."
+  },
+  "ru": {
+    "$name": "Подпись PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "подпись",
+      "цифровая подпись",
+      "sig",
+      "PGP подпись",
+      "PGP подпись сообщения",
+      "защита целостности данных",
+      "PGP шифрование",
+      "PGP цифровая подпись"
+    ],
+    "$description": "Документация для инструмента подписи PGP\n\nОбзор:\nИнструмент подписи PGP используется для подписи сообщений PGP. Пользователи могут вводить сообщения, закрытые ключи и пароли, и инструмент будет подписывать сообщение и выводить подписанное сообщение.\n\nОписание функций:\n1. Пользователи могут вводить сообщение, которое нужно подписать.\n2. Пользователи могут вводить закрытый ключ и пароль для подписи сообщения.\n3. Инструмент подпишет введенное сообщение и выведет подписанное сообщение.\n\nВарианты использования:\n1. Подписание сообщений PGP: пользователи могут использовать инструмент подписи PGP для подписи сообщений PGP, чтобы обеспечить целостность и подлинность сообщения.\n2. Передача данных: во время передачи данных пользователи могут использовать инструмент подписи PGP для подписи данных, чтобы обеспечить целостность и подлинность данных.\n3. Хранение данных: во время хранения данных пользователи могут использовать инструмент подписи PGP для подписи данных, чтобы обеспечить целостность и подлинность данных.\n\nИнструкции:\n1. Введите сообщение, которое нужно подписать.\n2. Введите закрытый ключ и пароль.\n3. Нажмите кнопку \"Подписать\", и инструмент подпишет сообщение.\n4. Подписанное сообщение будет отображаться в области вывода инструмента."
+  },
+  "pt": {
+    "$name": "Assinatura PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "assinatura",
+      "assinatura digital",
+      "sig",
+      "assinatura PGP",
+      "assinatura de mensagem PGP",
+      "proteção de integridade de dados",
+      "criptografia PGP",
+      "assinatura digital PGP"
+    ],
+    "$description": "Ferramenta de Documentação de Assinatura PGP\n\nVisão geral:\nA Ferramenta de Assinatura PGP é uma ferramenta usada para assinar mensagens PGP. Os usuários podem inserir mensagens, chaves privadas e senhas, e a ferramenta irá assinar a mensagem e produzir a mensagem assinada.\n\nDescrição da função:\n1. Os usuários podem inserir a mensagem que precisa ser assinada.\n2. Os usuários podem inserir a chave privada e a senha para assinar a mensagem.\n3. A ferramenta irá assinar a mensagem de entrada e produzir a mensagem assinada.\n\nCasos de uso:\n1. Assinatura de mensagem PGP: Os usuários podem usar a Ferramenta de Assinatura PGP para assinar mensagens PGP para garantir a integridade e autenticidade da mensagem.\n2. Transmissão de dados: Durante a transmissão de dados, os usuários podem usar a Ferramenta de Assinatura PGP para assinar dados para garantir a integridade e autenticidade dos dados.\n3. Armazenamento de dados: Durante o armazenamento de dados, os usuários podem usar a Ferramenta de Assinatura PGP para assinar dados para garantir a integridade e autenticidade dos dados.\n\nInstruções:\n1. Insira a mensagem que precisa ser assinada.\n2. Insira a chave privada e a senha.\n3. Clique no botão \"Assinar\", e a ferramenta irá assinar a mensagem.\n4. A mensagem assinada será exibida na área de saída da ferramenta."
+  },
+  "en": {
+    "$name": "PGP Signing",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "sign",
+      "signature",
+      "sig",
+      "PGP signing",
+      "PGP message signing",
+      "data integrity protection",
+      "PGP encryption",
+      "PGP digital signature"
+    ],
+    "$description": "PGP Signing Tool Documentation\n\nOverview:\nThe PGP Signing Tool is a tool used to sign PGP messages. Users can input messages, private keys, and passwords, and the tool will sign the message and output the signed message.\n\nFunction Description:\n1. Users can input the message that needs to be signed.\n2. Users can input the private key and password to sign the message.\n3. The tool will sign the input message and output the signed message.\n\nUse Cases:\n1. PGP message signing: Users can use the PGP Signing Tool to sign PGP messages to ensure the integrity and authenticity of the message.\n2. Data transmission: During data transmission, users can use the PGP Signing Tool to sign data to ensure the integrity and authenticity of the data.\n3. Data storage: During data storage, users can use the PGP Signing Tool to sign data to ensure the integrity and authenticity of the data.\n\nInstructions:\n1. Input the message that needs to be signed.\n2. Input the private key and password.\n3. Click the \"Sign\" button, and the tool will sign the message.\n4. The signed message will be displayed in the output area of the tool."
+  }
+}

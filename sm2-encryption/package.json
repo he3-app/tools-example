@@ -1,0 +1,46 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "userId": "3e696ac5-0721-4558-8c21-5b501c27115e",
+    "name": "SM2 Encryption",
+    "id": "sm2-encryption",
+    "isPublic": true,
+    "relatedToolId": [
+      "sm2-decryption"
+    ],
+    "version": "1.0.4",
+    "description": "SM2 Encryption tool is an encryption tool based on the SM2 algorithm. It can encrypt input text and output the encrypted result. Here are the detailed instructions for this tool:\n\nFeatures:\n\n1. Supports encrypting input text.\n\n2. Supports selecting encryption mode, including C1C2C3 and C1C3C2 modes.\n\n3. Supports selecting encryption keys, which can be manually entered or automatically generated.\n\n4. Supports saving the encrypted result as a file.\n\nUse cases:\n\n1. Data encryption: In scenarios where sensitive data needs to be encrypted, SM2 Encryption tool can be used to encrypt and protect data security.\n\n2. Algorithm learning: For personnel learning the SM2 algorithm, this tool can be used for practice and verification, deepening their understanding of the algorithm.\n\n3. Key management: In scenarios where key management is required, this tool can generate key pairs and save private keys for later use.\n\nInstructions:\n\n1. Enter the text that needs to be encrypted.\n\n2. Select the encryption mode and key.\n\n3. Click the encrypt button to obtain the encrypted result.\n\n4. You can choose to save the encrypted result as a file.\n\nNotes:\n\n1. The input text cannot be empty.\n\n2. The key cannot be empty.\n\n3. The file name of the saved encrypted result is the original file name plus the .enc suffix.\n\n4. This tool only supports SM2 algorithm encryption and does not support other encryption algorithms.\n\n5. The encrypted result is for reference only and does not represent absolute security.",
+    "repository": "",
+    "icon": "lock-outlined",
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "sm2",
+      "encryption",
+      "SM2 algorithm",
+      "encryption tool",
+      "data encryption",
+      "algorithm learning",
+      "key management"
+    ]
+  },
+  "dependencies": {
+    "gm-crypto": "^0.1.8",
+    "sm-crypto": "^0.3.12",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

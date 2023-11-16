@@ -1,0 +1,189 @@
+{
+  "zh-cn": {
+    "$name": "RSA加密",
+    "$keywords": [
+      "非对称加密",
+      "RSA",
+      "加密",
+      "加密",
+      "非对称加密",
+      "RSA算法",
+      "解密",
+      "签名",
+      "数据安全",
+      "安全通信",
+      "数据库加密"
+    ],
+    "$description": "RSA加密工具是一种用于加密和解密文本的工具。它使用RSA加密算法，可以使用公钥加密文本，使用私钥解密文本，或使用私钥签名文本。\n\n特点：\n\n1. 输入要加密或签名的文本。\n\n2. 输入公钥或私钥。\n\n3. 选择要使用的密钥类型（公钥或私钥）。\n\n4. 工具将使用所选的密钥类型来加密、解密或签名文本。\n\n5. 工具将输出加密、解密或签名后的文本。\n\n用例：\n\n1. 数据加密：在数据传输过程中，使用RSA加密工具可以加密敏感数据以保护其安全性。\n\n2. 数字签名：使用RSA加密工具可以签名文本以确保其完整性和真实性。\n\n3. 安全通信：使用RSA加密工具可以加密通信内容以确保其安全性。\n\n4. 数据库加密：使用RSA加密工具可以加密数据库中的敏感数据以保护其安全性。"
+  },
+  "zh-tw": {
+    "$name": "RSA加密",
+    "$keywords": [
+      "非對稱加密",
+      "RSA",
+      "加密",
+      "加密",
+      "非對稱加密",
+      "RSA演算法",
+      "解密",
+      "簽名",
+      "資料安全",
+      "安全通訊",
+      "資料庫加密"
+    ],
+    "$description": "RSA加密工具是一個用於加密和解密文本的工具。它使用RSA加密算法，可以使用公鑰加密文本，使用私鑰解密文本，或使用私鑰對文本進行簽名。\n\n功能：\n\n1. 輸入要加密或簽名的文本。\n\n2. 輸入公鑰或私鑰。\n\n3. 選擇要使用的密鑰類型（公鑰或私鑰）。\n\n4. 工具將使用所選的密鑰類型來加密、解密或簽名文本。\n\n5. 工具將輸出加密、解密或簽名的文本。\n\n用例：\n\n1. 數據加密：在數據傳輸期間，使用RSA加密工具可以加密敏感數據以保護其安全性。\n\n2. 數字簽名：使用RSA加密工具可以對文本進行簽名，以確保其完整性和真實性。\n\n3. 安全通信：使用RSA加密工具可以加密通信內容，以確保其安全性。\n\n4. 數據庫加密：使用RSA加密工具可以加密數據庫中的敏感數據，以保護其安全性。"
+  },
+  "es": {
+    "$name": "Cifrado RSA",
+    "$keywords": [
+      "asimétrica",
+      "RSA",
+      "encriptación",
+      "encriptar",
+      "encriptación asimétrica",
+      "algoritmo RSA",
+      "descifrado",
+      "firma",
+      "seguridad de datos",
+      "comunicación segura",
+      "encriptación de base de datos"
+    ],
+    "$description": "La herramienta de cifrado RSA es una herramienta utilizada para cifrar y descifrar texto. Utiliza el algoritmo de cifrado RSA y puede cifrar texto utilizando una clave pública, descifrar texto utilizando una clave privada o firmar texto utilizando una clave privada.\n\nCaracterísticas:\n\n1. Ingrese el texto que se va a cifrar o firmar.\n\n2. Ingrese la clave pública o privada.\n\n3. Seleccione el tipo de clave que se va a utilizar (pública o privada).\n\n4. La herramienta utilizará el tipo de clave seleccionado para cifrar, descifrar o firmar el texto.\n\n5. La herramienta mostrará el texto cifrado, descifrado o firmado.\n\nCasos de uso:\n\n1. Cifrado de datos: Durante la transmisión de datos, el uso de la herramienta de cifrado RSA puede cifrar datos sensibles para proteger su seguridad.\n\n2. Firma digital: El uso de la herramienta de cifrado RSA puede firmar texto para garantizar su integridad y autenticidad.\n\n3. Comunicación segura: El uso de la herramienta de cifrado RSA puede cifrar el contenido de la comunicación para garantizar su seguridad.\n\n4. Cifrado de base de datos: El uso de la herramienta de cifrado RSA puede cifrar datos sensibles en una base de datos para proteger su seguridad."
+  },
+  "ja": {
+    "$name": "RSA暗号化",
+    "$keywords": [
+      "非対称暗号化",
+      "RSA",
+      "暗号化",
+      "暗号化する",
+      "非対称暗号化",
+      "RSAアルゴリズム",
+      "復号化",
+      "署名",
+      "データセキュリティ",
+      "安全な通信",
+      "データベース暗号化"
+    ],
+    "$description": "RSA暗号化ツールは、テキストを暗号化および復号化するために使用されるツールです。RSA暗号化アルゴリズムを使用し、公開鍵を使用してテキストを暗号化し、秘密鍵を使用してテキストを復号化し、または秘密鍵を使用してテキストに署名することができます。\n\n機能：\n\n1. 暗号化または署名するテキストを入力します。\n\n2. 公開鍵または秘密鍵を入力します。\n\n3. 使用する鍵のタイプ（公開鍵または秘密鍵）を選択します。\n\n4. ツールは選択した鍵のタイプを使用して、テキストを暗号化、復号化、または署名します。\n\n5. ツールは暗号化、復号化、または署名されたテキストを出力します。\n\n使用例：\n\n1. データの暗号化：データの送信中に、RSA暗号化ツールを使用して機密データを暗号化してセキュリティを保護できます。\n\n2. デジタル署名：RSA暗号化ツールを使用することで、テキストに署名してその完全性と信頼性を確保できます。\n\n3. セキュアな通信：RSA暗号化ツールを使用することで、通信内容を暗号化してセキュリティを確保できます。\n\n4. データベースの暗号化：RSA暗号化ツールを使用することで、データベース内の機密データを暗号化してセキュリティを保護できます。"
+  },
+  "ko": {
+    "$name": "RSA 암호화",
+    "$keywords": [
+      "비대칭",
+      "RSA",
+      "암호화",
+      "암호화",
+      "비대칭 암호화",
+      "RSA 알고리즘",
+      "복호화",
+      "서명",
+      "데이터 보안",
+      "안전한 통신",
+      "데이터베이스 암호화"
+    ],
+    "$description": "RSA 암호화 도구는 텍스트를 암호화하고 복호화하는 데 사용되는 도구입니다. 이 도구는 RSA 암호화 알고리즘을 사용하며 공개 키를 사용하여 텍스트를 암호화하거나 개인 키를 사용하여 텍스트를 복호화하거나 개인 키를 사용하여 텍스트에 서명 할 수 있습니다.\n\n기능:\n\n1. 암호화 또는 서명 할 텍스트를 입력합니다.\n\n2. 공개 키 또는 개인 키를 입력합니다.\n\n3. 사용할 키 유형 (공개 또는 개인)을 선택합니다.\n\n4. 도구는 선택한 키 유형을 사용하여 텍스트를 암호화, 복호화 또는 서명합니다.\n\n5. 도구는 암호화 된, 복호화 된 또는 서명 된 텍스트를 출력합니다.\n\n사용 사례:\n\n1. 데이터 암호화 : 데이터 전송 중 RSA 암호화 도구를 사용하여 중요한 데이터를 암호화하여 보안을 보호 할 수 있습니다.\n\n2. 디지털 서명 : RSA 암호화 도구를 사용하여 텍스트에 서명하여 무결성과 신뢰성을 보장할 수 있습니다.\n\n3. 안전한 통신 : RSA 암호화 도구를 사용하여 통신 콘텐츠를 암호화하여 보안을 보장할 수 있습니다.\n\n4. 데이터베이스 암호화 : RSA 암호화 도구를 사용하여 데이터베이스의 중요한 데이터를 암호화하여 보안을 보호할 수 있습니다."
+  },
+  "de": {
+    "$name": "RSA-Verschlüsselung",
+    "$keywords": [
+      "asymmetrisch",
+      "RSA",
+      "Verschlüsselung",
+      "verschlüsseln",
+      "Asymmetrische Verschlüsselung",
+      "RSA-Algorithmus",
+      "Entschlüsselung",
+      "Signatur",
+      "Datensicherheit",
+      "Sichere Kommunikation",
+      "Datenbankverschlüsselung"
+    ],
+    "$description": "Das RSA-Verschlüsselungstool ist ein Werkzeug, das zur Verschlüsselung und Entschlüsselung von Text verwendet wird. Es verwendet den RSA-Verschlüsselungsalgorithmus und kann Text mit einem öffentlichen Schlüssel verschlüsseln, Text mit einem privaten Schlüssel entschlüsseln oder Text mit einem privaten Schlüssel signieren.\n\nFunktionen:\n\n1. Geben Sie den zu verschlüsselnden oder zu signierenden Text ein.\n\n2. Geben Sie den öffentlichen oder privaten Schlüssel ein.\n\n3. Wählen Sie den Typ des zu verwendenden Schlüssels (öffentlich oder privat).\n\n4. Das Tool verwendet den ausgewählten Schlüsseltyp, um den Text zu verschlüsseln, zu entschlüsseln oder zu signieren.\n\n5. Das Tool gibt den verschlüsselten, entschlüsselten oder signierten Text aus.\n\nAnwendungsfälle:\n\n1. Datenverschlüsselung: Während der Datenübertragung kann das RSA-Verschlüsselungstool sensible Daten verschlüsseln, um deren Sicherheit zu gewährleisten.\n\n2. Digitale Signatur: Mit dem RSA-Verschlüsselungstool kann Text signiert werden, um dessen Integrität und Authentizität sicherzustellen.\n\n3. Sichere Kommunikation: Mit dem RSA-Verschlüsselungstool kann die Kommunikationsinhalte verschlüsselt werden, um deren Sicherheit zu gewährleisten.\n\n4. Datenbankverschlüsselung: Mit dem RSA-Verschlüsselungstool können sensible Daten in einer Datenbank verschlüsselt werden, um deren Sicherheit zu gewährleisten."
+  },
+  "fr": {
+    "$name": "Chiffrement RSA",
+    "$keywords": [
+      "asymétrique",
+      "RSA",
+      "chiffrement",
+      "crypter",
+      "chiffrement asymétrique",
+      "algorithme RSA",
+      "déchiffrement",
+      "signature",
+      "sécurité des données",
+      "communication sécurisée",
+      "chiffrement de base de données"
+    ],
+    "$description": "L'outil de chiffrement RSA est un outil utilisé pour chiffrer et déchiffrer du texte. Il utilise l'algorithme de chiffrement RSA et peut chiffrer du texte à l'aide d'une clé publique, déchiffrer du texte à l'aide d'une clé privée ou signer du texte à l'aide d'une clé privée.\n\nFonctionnalités :\n\n1. Entrer le texte à chiffrer ou à signer.\n\n2. Entrer la clé publique ou la clé privée.\n\n3. Sélectionner le type de clé à utiliser (publique ou privée).\n\n4. L'outil utilisera le type de clé sélectionné pour chiffrer, déchiffrer ou signer le texte.\n\n5. L'outil produira le texte chiffré, déchiffré ou signé.\n\nCas d'utilisation :\n\n1. Chiffrement de données : Pendant la transmission de données, l'utilisation de l'outil de chiffrement RSA peut chiffrer des données sensibles pour protéger leur sécurité.\n\n2. Signature numérique : L'utilisation de l'outil de chiffrement RSA peut signer du texte pour garantir son intégrité et son authenticité.\n\n3. Communication sécurisée : L'utilisation de l'outil de chiffrement RSA peut chiffrer le contenu de la communication pour garantir sa sécurité.\n\n4. Chiffrement de base de données : L'utilisation de l'outil de chiffrement RSA peut chiffrer des données sensibles dans une base de données pour protéger leur sécurité."
+  },
+  "it": {
+    "$name": "Crittografia RSA",
+    "$keywords": [
+      "asimmetrica",
+      "RSA",
+      "crittografia",
+      "crittografare",
+      "crittografia asimmetrica",
+      "algoritmo RSA",
+      "decrittazione",
+      "firma",
+      "sicurezza dei dati",
+      "comunicazione sicura",
+      "crittografia del database"
+    ],
+    "$description": "Lo strumento di crittografia RSA è uno strumento utilizzato per crittografare e decrittografare il testo. Utilizza l'algoritmo di crittografia RSA e può crittografare il testo utilizzando una chiave pubblica, decrittografare il testo utilizzando una chiave privata o firmare il testo utilizzando una chiave privata.\n\nCaratteristiche:\n\n1. Inserire il testo da crittografare o firmare.\n\n2. Inserire la chiave pubblica o privata.\n\n3. Selezionare il tipo di chiave da utilizzare (pubblica o privata).\n\n4. Lo strumento utilizzerà il tipo di chiave selezionato per crittografare, decrittografare o firmare il testo.\n\n5. Lo strumento produrrà il testo crittografato, decrittografato o firmato.\n\nCasi d'uso:\n\n1. Crittografia dei dati: durante la trasmissione dei dati, utilizzando lo strumento di crittografia RSA, è possibile crittografare i dati sensibili per proteggere la loro sicurezza.\n\n2. Firma digitale: utilizzando lo strumento di crittografia RSA, è possibile firmare il testo per garantirne l'integrità e l'autenticità.\n\n3. Comunicazione sicura: utilizzando lo strumento di crittografia RSA, è possibile crittografare il contenuto della comunicazione per garantirne la sicurezza.\n\n4. Crittografia del database: utilizzando lo strumento di crittografia RSA, è possibile crittografare i dati sensibili in un database per proteggere la loro sicurezza."
+  },
+  "ru": {
+    "$name": "RSA Шифрование",
+    "$keywords": [
+      "асимметричное",
+      "RSA",
+      "шифрование",
+      "шифровать",
+      "асимметричное шифрование",
+      "алгоритм RSA",
+      "дешифрование",
+      "подпись",
+      "безопасность данных",
+      "безопасная коммуникация",
+      "шифрование базы данных"
+    ],
+    "$description": "Инструмент шифрования RSA - это инструмент, используемый для шифрования и дешифрования текста. Он использует алгоритм шифрования RSA и может шифровать текст с использованием открытого ключа, дешифровать текст с использованием закрытого ключа или подписывать текст с использованием закрытого ключа.\n\nОсобенности:\n\n1. Введите текст, который нужно зашифровать или подписать.\n\n2. Введите открытый или закрытый ключ.\n\n3. Выберите тип ключа, который будет использоваться (открытый или закрытый).\n\n4. Инструмент будет использовать выбранный тип ключа для шифрования, дешифрования или подписи текста.\n\n5. Инструмент выведет зашифрованный, дешифрованный или подписанный текст.\n\nПрименение:\n\n1. Шифрование данных: Во время передачи данных использование инструмента шифрования RSA может зашифровать конфиденциальные данные для защиты их безопасности.\n\n2. Цифровая подпись: Использование инструмента шифрования RSA может подписать текст, чтобы обеспечить его целостность и подлинность.\n\n3. Безопасная связь: Использование инструмента шифрования RSA может зашифровать содержимое коммуникации, чтобы обеспечить его безопасность.\n\n4. Шифрование базы данных: Использование инструмента шифрования RSA может зашифровать конфиденциальные данные в базе данных для защиты их безопасности."
+  },
+  "pt": {
+    "$name": "Criptografia RSA",
+    "$keywords": [
+      "assimétrica",
+      "RSA",
+      "criptografia",
+      "criptografar",
+      "criptografia assimétrica",
+      "algoritmo RSA",
+      "descriptografia",
+      "assinatura",
+      "segurança de dados",
+      "comunicação segura",
+      "criptografia de banco de dados"
+    ],
+    "$description": "A Ferramenta de Criptografia RSA é uma ferramenta usada para criptografar e descriptografar texto. Ela usa o algoritmo de criptografia RSA e pode criptografar texto usando uma chave pública, descriptografar texto usando uma chave privada ou assinar texto usando uma chave privada.\n\nRecursos:\n\n1. Insira o texto a ser criptografado ou assinado.\n\n2. Insira a chave pública ou privada.\n\n3. Selecione o tipo de chave a ser usado (pública ou privada).\n\n4. A ferramenta usará o tipo de chave selecionado para criptografar, descriptografar ou assinar o texto.\n\n5. A ferramenta fornecerá o texto criptografado, descriptografado ou assinado.\n\nCasos de uso:\n\n1. Criptografia de dados: Durante a transmissão de dados, usar a Ferramenta de Criptografia RSA pode criptografar dados sensíveis para proteger sua segurança.\n\n2. Assinatura digital: Usando a Ferramenta de Criptografia RSA, é possível assinar texto para garantir sua integridade e autenticidade.\n\n3. Comunicação segura: Usando a Ferramenta de Criptografia RSA, é possível criptografar o conteúdo da comunicação para garantir sua segurança.\n\n4. Criptografia de banco de dados: Usando a Ferramenta de Criptografia RSA, é possível criptografar dados sensíveis em um banco de dados para proteger sua segurança."
+  },
+  "en": {
+    "$name": "RSA Encryption",
+    "$keywords": [
+      "asymmetric",
+      "RSA",
+      "encryption",
+      "encrypt",
+      "Asymmetric encryption",
+      "RSA algorithm",
+      "Decryption",
+      "Signature",
+      "Data security",
+      "Secure communication",
+      "Database encryption"
+    ],
+    "$description": "RSA Encryption Tool is a tool used for encrypting and decrypting text. It uses the RSA encryption algorithm and can encrypt text using a public key, decrypt text using a private key, or sign text using a private key.\n\nFeatures:\n\n1. Input the text to be encrypted or signed.\n\n2. Input the public key or private key.\n\n3. Select the type of key to be used (public or private).\n\n4. The tool will use the selected key type to encrypt, decrypt, or sign the text.\n\n5. The tool will output the encrypted, decrypted, or signed text.\n\nUse cases:\n\n1. Data encryption: During data transmission, using the RSA Encryption Tool can encrypt sensitive data to protect its security.\n\n2. Digital signature: Using the RSA Encryption Tool can sign text to ensure its integrity and authenticity.\n\n3. Secure communication: Using the RSA Encryption Tool can encrypt communication content to ensure its security.\n\n4. Database encryption: Using the RSA Encryption Tool can encrypt sensitive data in a database to protect its security."
+  }
+}

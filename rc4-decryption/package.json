@@ -1,0 +1,43 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "userId": "3e696ac5-0721-4558-8c21-5b501c27115e",
+    "name": "RC4 Decryption",
+    "id": "rc4-decryption",
+    "isPublic": true,
+    "relatedToolId": [
+      "rc4-encryption"
+    ],
+    "version": "1.0.4",
+    "description": "RC4 Decryption Tool is a tool used to decrypt RC4 encrypted data. It can decrypt the input ciphertext and output plaintext.\n\nFeatures:\n\n1. Supports decrypting ciphertext input.\n\n2. Supports decrypting with input key.\n\n3. Supports selecting whether to use the RC4 Drop algorithm for decryption.\n\n4. Supports inputting the dropWords parameter of the RC4 Drop algorithm.\n\n5. Supports file input and output.\n\nUse cases:\n\n1. Data decryption: This tool can be used to decrypt RC4 encrypted data when needed.\n\n2. Data recovery: In case of data loss or damage, if there is a backup of RC4 encrypted data, this tool can be used to decrypt and recover the original data.\n\n3. Data transmission: When sensitive data needs to be transmitted, RC4 encryption algorithm can be used for encryption, and then this tool can be used for decryption to ensure data security.\n\n4. Data storage: When sensitive data needs to be stored, RC4 encryption algorithm can be used for encryption, and then this tool can be used for decryption to ensure data security.",
+    "repository": "",
+    "icon": "lock-outlined",
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "rc4",
+      "decryption",
+      "decrypt",
+      "symmetric",
+      "Symmetric Encryption"
+    ]
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

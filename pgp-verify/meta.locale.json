@@ -1,0 +1,167 @@
+{
+  "zh-cn": {
+    "$name": "PGP验证",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "验证",
+      "验证",
+      "签名验证",
+      "安全通信",
+      "数据传输",
+      "公钥",
+      "签名信息"
+    ],
+    "$description": "PGP验证工具文档\n\n概述：\nPGP验证工具是一种用于验证PGP签名的工具。用户可以输入签名信息和公钥，工具将自动验证签名的有效性并显示验证结果。\n\n特点：\n1. 用户可以输入签名信息和公钥。\n2. 工具将自动验证签名的有效性。\n3. 工具将显示验证结果。\n\n用例：\n1. PGP签名验证：用户可以使用PGP验证工具验证PGP签名的有效性。\n2. 安全通信：用户可以使用PGP签名确保通信的安全性。PGP验证工具可用于验证签名的有效性。\n3. 数据传输：用户可以使用PGP签名确保数据传输的安全性。PGP验证工具可用于验证签名的有效性。\n\n说明：\n1. 打开PGP验证工具。\n2. 输入签名信息和公钥。\n3. 点击“验证”按钮。\n4. 工具将自动验证签名的有效性并显示验证结果。\n\n注意事项：\n1. 用户需要对PGP签名有基本的了解才能正确使用PGP验证工具。\n2. 用户需要确保输入的签名信息和公钥是正确的，否则工具将无法正确验证签名的有效性。\n3. PGP验证工具仅用于验证签名的有效性，不提供签名功能。用户需要使用其他工具生成签名。"
+  },
+  "zh-tw": {
+    "$name": "PGP 驗證",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "驗證",
+      "確認",
+      "簽名驗證",
+      "安全通訊",
+      "資料傳輸",
+      "公鑰",
+      "簽名資訊"
+    ],
+    "$description": "PGP 驗證工具文件\n\n概述：\nPGP 驗證工具是一個用於驗證 PGP 簽名的工具。用戶可以輸入簽名信息和公鑰，工具將自動驗證簽名的有效性並顯示驗證結果。\n\n功能：\n1. 用戶可以輸入簽名信息和公鑰。\n2. 工具將自動驗證簽名的有效性。\n3. 工具將顯示驗證結果。\n\n用例：\n1. PGP 簽名驗證：用戶可以使用 PGP 驗證工具來驗證 PGP 簽名的有效性。\n2. 安全通信：用戶可以使用 PGP 簽名來確保通信的安全性。PGP 驗證工具可用於驗證簽名的有效性。\n3. 數據傳輸：用戶可以使用 PGP 簽名來確保數據傳輸的安全性。PGP 驗證工具可用於驗證簽名的有效性。\n\n說明：\n1. 打開 PGP 驗證工具。\n2. 輸入簽名信息和公鑰。\n3. 點擊“驗證”按鈕。\n4. 工具將自動驗證簽名的有效性並顯示驗證結果。\n\n注意事項：\n1. 用戶需要對 PGP 簽名有基本的了解才能正確使用 PGP 驗證工具。\n2. 用戶需要確保輸入的簽名信息和公鑰正確，否則工具將無法正確驗證簽名的有效性。\n3. PGP 驗證工具僅用於驗證簽名的有效性，不提供簽名功能。用戶需要使用其他工具生成簽名。"
+  },
+  "es": {
+    "$name": "Verificación PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "verificar",
+      "validar",
+      "verificación de firma",
+      "comunicación segura",
+      "transmisión de datos",
+      "clave pública",
+      "información de firma"
+    ],
+    "$description": "Herramienta de Documentación de Verificación PGP\n\nResumen:\nLa herramienta de verificación PGP es una herramienta utilizada para verificar firmas PGP. Los usuarios pueden ingresar información de firma y claves públicas, y la herramienta verificará automáticamente la validez de la firma y mostrará el resultado de la verificación.\n\nCaracterísticas:\n1. Los usuarios pueden ingresar información de firma y claves públicas.\n2. La herramienta verificará automáticamente la validez de la firma.\n3. La herramienta mostrará el resultado de la verificación.\n\nCasos de uso:\n1. Verificación de firma PGP: Los usuarios pueden utilizar la herramienta de verificación PGP para verificar la validez de las firmas PGP.\n2. Comunicación segura: Los usuarios pueden utilizar firmas PGP para garantizar la seguridad de la comunicación. La herramienta de verificación PGP se puede utilizar para verificar la validez de la firma.\n3. Transmisión de datos: Los usuarios pueden utilizar firmas PGP para garantizar la seguridad de la transmisión de datos. La herramienta de verificación PGP se puede utilizar para verificar la validez de la firma.\n\nInstrucciones:\n1. Abra la herramienta de verificación PGP.\n2. Ingrese información de firma y claves públicas.\n3. Haga clic en el botón \"Verificar\".\n4. La herramienta verificará automáticamente la validez de la firma y mostrará el resultado de la verificación.\n\nNotas:\n1. Los usuarios necesitan tener una comprensión básica de las firmas PGP para utilizar correctamente la herramienta de verificación PGP.\n2. Los usuarios deben asegurarse de que la información de firma y las claves públicas ingresadas sean correctas, de lo contrario, la herramienta no podrá verificar correctamente la validez de la firma.\n3. La herramienta de verificación PGP solo se utiliza para verificar la validez de la firma y no proporciona funcionalidad de firma. Los usuarios deben utilizar otras herramientas para generar firmas."
+  },
+  "ja": {
+    "$name": "PGP検証",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "検証",
+      "確認",
+      "署名検証",
+      "安全な通信",
+      "データ転送",
+      "公開鍵",
+      "署名情報"
+    ],
+    "$description": "PGP検証ツールのドキュメンテーション\n\n概要：\nPGP検証ツールは、PGP署名を検証するためのツールです。ユーザーは署名情報と公開鍵を入力し、ツールは自動的に署名の妥当性を検証し、検証結果を表示します。\n\n特徴：\n1. ユーザーは署名情報と公開鍵を入力できます。\n2. ツールは自動的に署名の妥当性を検証します。\n3. ツールは検証結果を表示します。\n\n使用例：\n1. PGP署名の検証：ユーザーはPGP検証ツールを使用して、PGP署名の妥当性を検証できます。\n2. セキュアな通信：ユーザーはPGP署名を使用して通信のセキュリティを確保できます。PGP検証ツールを使用して署名の妥当性を検証できます。\n3. データ伝送：ユーザーはPGP署名を使用してデータ伝送のセキュリティを確保できます。PGP検証ツールを使用して署名の妥当性を検証できます。\n\n手順：\n1. PGP検証ツールを開きます。\n2. 署名情報と公開鍵を入力します。\n3. 「検証」ボタンをクリックします。\n4. ツールは自動的に署名の妥当性を検証し、検証結果を表示します。\n\n注意事項：\n1. ユーザーは、PGP署名の基本的な理解が必要です。\n2. ユーザーは、入力した署名情報と公開鍵が正しいことを確認する必要があります。そうでない場合、ツールは署名の妥当性を正しく検証できません。\n3. PGP検証ツールは署名機能を提供せず、署名の生成には他のツールを使用する必要があります。"
+  },
+  "ko": {
+    "$name": "PGP 검증",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "검증",
+      "확인",
+      "서명 검증",
+      "안전한 통신",
+      "데이터 전송",
+      "공개 키",
+      "서명 정보"
+    ],
+    "$description": "PGP 검증 도구 문서\n\n개요:\nPGP 검증 도구는 PGP 서명을 검증하는 데 사용되는 도구입니다. 사용자는 서명 정보와 공개 키를 입력하면 도구가 자동으로 서명의 유효성을 검증하고 검증 결과를 표시합니다.\n\n특징:\n1. 사용자는 서명 정보와 공개 키를 입력할 수 있습니다.\n2. 도구는 자동으로 서명의 유효성을 검증합니다.\n3. 도구는 검증 결과를 표시합니다.\n\n사용 사례:\n1. PGP 서명 검증: 사용자는 PGP 검증 도구를 사용하여 PGP 서명의 유효성을 검증할 수 있습니다.\n2. 안전한 통신: 사용자는 PGP 서명을 사용하여 통신의 안전성을 보장할 수 있습니다. PGP 검증 도구를 사용하여 서명의 유효성을 검증할 수 있습니다.\n3. 데이터 전송: 사용자는 PGP 서명을 사용하여 데이터 전송의 안전성을 보장할 수 있습니다. PGP 검증 도구를 사용하여 서명의 유효성을 검증할 수 있습니다.\n\n사용 방법:\n1. PGP 검증 도구를 엽니다.\n2. 서명 정보와 공개 키를 입력합니다.\n3. \"검증\" 버튼을 클릭합니다.\n4. 도구는 자동으로 서명의 유효성을 검증하고 검증 결과를 표시합니다.\n\n참고 사항:\n1. 사용자는 PGP 서명에 대한 기본적인 이해가 있어야 PGP 검증 도구를 올바르게 사용할 수 있습니다.\n2. 사용자는 입력한 서명 정보와 공개 키가 올바른지 확인해야 합니다. 그렇지 않으면 도구가 서명의 유효성을 올바르게 검증하지 못할 수 있습니다.\n3. PGP 검증 도구는 서명 기능을 제공하지 않으며, 서명을 생성하기 위해서는 다른 도구를 사용해야 합니다."
+  },
+  "de": {
+    "$name": "PGP-Verifizierung",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "Verifizierung",
+      "Validierung",
+      "Signaturverifizierung",
+      "sichere Kommunikation",
+      "Datenübertragung",
+      "öffentlicher Schlüssel",
+      "Signaturinformation"
+    ],
+    "$description": "PGP-Verifizierungstool-Dokumentation\n\nÜberblick:\nDas PGP-Verifizierungstool ist ein Tool, das zur Überprüfung von PGP-Signaturen verwendet wird. Benutzer können Signaturinformationen und öffentliche Schlüssel eingeben und das Tool wird automatisch die Gültigkeit der Signatur überprüfen und das Verifizierungsergebnis anzeigen.\n\nFunktionen:\n1. Benutzer können Signaturinformationen und öffentliche Schlüssel eingeben.\n2. Das Tool wird automatisch die Gültigkeit der Signatur überprüfen.\n3. Das Tool wird das Verifizierungsergebnis anzeigen.\n\nAnwendungsfälle:\n1. PGP-Signaturverifizierung: Benutzer können das PGP-Verifizierungstool verwenden, um die Gültigkeit von PGP-Signaturen zu überprüfen.\n2. Sichere Kommunikation: Benutzer können PGP-Signaturen verwenden, um die Sicherheit der Kommunikation zu gewährleisten. Das PGP-Verifizierungstool kann verwendet werden, um die Gültigkeit der Signatur zu überprüfen.\n3. Datenübertragung: Benutzer können PGP-Signaturen verwenden, um die Sicherheit der Datenübertragung zu gewährleisten. Das PGP-Verifizierungstool kann verwendet werden, um die Gültigkeit der Signatur zu überprüfen.\n\nAnweisungen:\n1. Öffnen Sie das PGP-Verifizierungstool.\n2. Geben Sie Signaturinformationen und öffentliche Schlüssel ein.\n3. Klicken Sie auf die Schaltfläche \"Verifizieren\".\n4. Das Tool wird automatisch die Gültigkeit der Signatur überprüfen und das Verifizierungsergebnis anzeigen.\n\nHinweise:\n1. Benutzer müssen ein grundlegendes Verständnis von PGP-Signaturen haben, um das PGP-Verifizierungstool korrekt zu verwenden.\n2. Benutzer müssen sicherstellen, dass die eingegebenen Signaturinformationen und öffentlichen Schlüssel korrekt sind, da das Tool sonst die Gültigkeit der Signatur nicht korrekt überprüfen kann.\n3. Das PGP-Verifizierungstool dient nur zur Überprüfung der Gültigkeit der Signatur und bietet keine Signaturfunktionalität. Benutzer müssen andere Tools verwenden, um Signaturen zu generieren."
+  },
+  "fr": {
+    "$name": "Vérification PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "vérifier",
+      "valider",
+      "vérification de signature",
+      "communication sécurisée",
+      "transmission de données",
+      "clé publique",
+      "informations de signature"
+    ],
+    "$description": "Outil de documentation de vérification PGP\n\nAperçu:\nL'outil de vérification PGP est un outil utilisé pour vérifier les signatures PGP. Les utilisateurs peuvent entrer des informations de signature et des clés publiques, et l'outil vérifiera automatiquement la validité de la signature et affichera le résultat de la vérification.\n\nFonctionnalités:\n1. Les utilisateurs peuvent entrer des informations de signature et des clés publiques.\n2. L'outil vérifiera automatiquement la validité de la signature.\n3. L'outil affichera le résultat de la vérification.\n\nCas d'utilisation:\n1. Vérification de signature PGP: Les utilisateurs peuvent utiliser l'outil de vérification PGP pour vérifier la validité des signatures PGP.\n2. Communication sécurisée: Les utilisateurs peuvent utiliser des signatures PGP pour assurer la sécurité de la communication. L'outil de vérification PGP peut être utilisé pour vérifier la validité de la signature.\n3. Transmission de données: Les utilisateurs peuvent utiliser des signatures PGP pour assurer la sécurité de la transmission de données. L'outil de vérification PGP peut être utilisé pour vérifier la validité de la signature.\n\nInstructions:\n1. Ouvrez l'outil de vérification PGP.\n2. Entrez les informations de signature et les clés publiques.\n3. Cliquez sur le bouton \"Vérifier\".\n4. L'outil vérifiera automatiquement la validité de la signature et affichera le résultat de la vérification.\n\nNotes:\n1. Les utilisateurs doivent avoir une compréhension de base des signatures PGP pour utiliser correctement l'outil de vérification PGP.\n2. Les utilisateurs doivent s'assurer que les informations de signature et les clés publiques entrées sont correctes, sinon l'outil ne pourra pas vérifier correctement la validité de la signature.\n3. L'outil de vérification PGP est uniquement utilisé pour vérifier la validité de la signature et ne fournit pas de fonctionnalité de signature. Les utilisateurs doivent utiliser d'autres outils pour générer des signatures."
+  },
+  "it": {
+    "$name": "Verifica PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "verifica",
+      "convalida",
+      "verifica della firma",
+      "comunicazione sicura",
+      "trasmissione dei dati",
+      "chiave pubblica",
+      "informazioni sulla firma"
+    ],
+    "$description": "Strumento di documentazione per la verifica PGP\n\nPanoramica:\nLo strumento di verifica PGP è uno strumento utilizzato per verificare le firme PGP. Gli utenti possono inserire le informazioni sulla firma e le chiavi pubbliche e lo strumento verificherà automaticamente la validità della firma e visualizzerà il risultato della verifica.\n\nCaratteristiche:\n1. Gli utenti possono inserire le informazioni sulla firma e le chiavi pubbliche.\n2. Lo strumento verificherà automaticamente la validità della firma.\n3. Lo strumento visualizzerà il risultato della verifica.\n\nCasi d'uso:\n1. Verifica della firma PGP: gli utenti possono utilizzare lo strumento di verifica PGP per verificare la validità delle firme PGP.\n2. Comunicazione sicura: gli utenti possono utilizzare le firme PGP per garantire la sicurezza della comunicazione. Lo strumento di verifica PGP può essere utilizzato per verificare la validità della firma.\n3. Trasmissione di dati: gli utenti possono utilizzare le firme PGP per garantire la sicurezza della trasmissione dei dati. Lo strumento di verifica PGP può essere utilizzato per verificare la validità della firma.\n\nIstruzioni:\n1. Aprire lo strumento di verifica PGP.\n2. Inserire le informazioni sulla firma e le chiavi pubbliche.\n3. Fare clic sul pulsante \"Verifica\".\n4. Lo strumento verificherà automaticamente la validità della firma e visualizzerà il risultato della verifica.\n\nNote:\n1. Gli utenti devono avere una conoscenza di base delle firme PGP per utilizzare correttamente lo strumento di verifica PGP.\n2. Gli utenti devono assicurarsi che le informazioni sulla firma e le chiavi pubbliche inserite siano corrette, altrimenti lo strumento non sarà in grado di verificare correttamente la validità della firma.\n3. Lo strumento di verifica PGP viene utilizzato solo per verificare la validità della firma e non fornisce funzionalità di firma. Gli utenti devono utilizzare altri strumenti per generare le firme."
+  },
+  "ru": {
+    "$name": "PGP Проверка",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "проверка",
+      "валидация",
+      "проверка подписи",
+      "безопасное общение",
+      "передача данных",
+      "открытый ключ",
+      "информация о подписи"
+    ],
+    "$description": "Документация для инструмента проверки PGP-подписей\n\nОбзор:\nИнструмент проверки PGP-подписей используется для проверки PGP-подписей. Пользователи могут вводить информацию о подписи и открытые ключи, и инструмент автоматически проверит подлинность подписи и отобразит результат проверки.\n\nОсобенности:\n1. Пользователи могут вводить информацию о подписи и открытые ключи.\n2. Инструмент автоматически проверит подлинность подписи.\n3. Инструмент отобразит результат проверки.\n\nВарианты использования:\n1. Проверка PGP-подписей: Пользователи могут использовать инструмент проверки PGP-подписей для проверки подлинности PGP-подписей.\n2. Безопасная коммуникация: Пользователи могут использовать PGP-подписи для обеспечения безопасности коммуникации. Инструмент проверки PGP-подписей может использоваться для проверки подлинности подписи.\n3. Передача данных: Пользователи могут использовать PGP-подписи для обеспечения безопасности передачи данных. Инструмент проверки PGP-подписей может использоваться для проверки подлинности подписи.\n\nИнструкции:\n1. Откройте инструмент проверки PGP-подписей.\n2. Введите информацию о подписи и открытые ключи.\n3. Нажмите кнопку \"Проверить\".\n4. Инструмент автоматически проверит подлинность подписи и отобразит результат проверки.\n\nПримечания:\n1. Пользователи должны иметь базовое понимание PGP-подписей, чтобы правильно использовать инструмент проверки PGP-подписей.\n2. Пользователи должны убедиться, что введенная информация о подписи и открытые ключи правильны, иначе инструмент не сможет правильно проверить подлинность подписи.\n3. Инструмент проверки PGP-подписей используется только для проверки подлинности подписи и не предоставляет функциональность подписи. Пользователи должны использовать другие инструменты для генерации подписей."
+  },
+  "pt": {
+    "$name": "Verificação PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "verificar",
+      "validar",
+      "verificação de assinatura",
+      "comunicação segura",
+      "transmissão de dados",
+      "chave pública",
+      "informação de assinatura"
+    ],
+    "$description": "Ferramenta de Documentação de Verificação PGP\n\nVisão geral:\nA Ferramenta de Verificação PGP é uma ferramenta usada para verificar assinaturas PGP. Os usuários podem inserir informações de assinatura e chaves públicas, e a ferramenta verificará automaticamente a validade da assinatura e exibirá o resultado da verificação.\n\nRecursos:\n1. Os usuários podem inserir informações de assinatura e chaves públicas.\n2. A ferramenta verificará automaticamente a validade da assinatura.\n3. A ferramenta exibirá o resultado da verificação.\n\nCasos de uso:\n1. Verificação de assinatura PGP: Os usuários podem usar a Ferramenta de Verificação PGP para verificar a validade de assinaturas PGP.\n2. Comunicação segura: Os usuários podem usar assinaturas PGP para garantir a segurança da comunicação. A Ferramenta de Verificação PGP pode ser usada para verificar a validade da assinatura.\n3. Transmissão de dados: Os usuários podem usar assinaturas PGP para garantir a segurança da transmissão de dados. A Ferramenta de Verificação PGP pode ser usada para verificar a validade da assinatura.\n\nInstruções:\n1. Abra a Ferramenta de Verificação PGP.\n2. Insira informações de assinatura e chaves públicas.\n3. Clique no botão \"Verificar\".\n4. A ferramenta verificará automaticamente a validade da assinatura e exibirá o resultado da verificação.\n\nObservações:\n1. Os usuários precisam ter uma compreensão básica de assinaturas PGP para usar a Ferramenta de Verificação PGP corretamente.\n2. Os usuários precisam garantir que as informações de assinatura e chaves públicas inseridas estejam corretas, caso contrário, a ferramenta não poderá verificar corretamente a validade da assinatura.\n3. A Ferramenta de Verificação PGP é usada apenas para verificar a validade da assinatura e não fornece funcionalidade de assinatura. Os usuários precisam usar outras ferramentas para gerar assinaturas."
+  },
+  "en": {
+    "$name": "PGP Verification",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "verify",
+      "validate",
+      "signature verification",
+      "secure communication",
+      "data transmission",
+      "public key",
+      "signature information"
+    ],
+    "$description": "PGP Verification Tool Documentation\n\nOverview:\nThe PGP Verification Tool is a tool used to verify PGP signatures. Users can input signature information and public keys, and the tool will automatically verify the validity of the signature and display the verification result.\n\nFeatures:\n1. Users can input signature information and public keys.\n2. The tool will automatically verify the validity of the signature.\n3. The tool will display the verification result.\n\nUse Cases:\n1. PGP signature verification: Users can use the PGP Verification Tool to verify the validity of PGP signatures.\n2. Secure communication: Users can use PGP signatures to ensure the security of communication. The PGP Verification Tool can be used to verify the validity of the signature.\n3. Data transmission: Users can use PGP signatures to ensure the security of data transmission. The PGP Verification Tool can be used to verify the validity of the signature.\n\nInstructions:\n1. Open the PGP Verification Tool.\n2. Input signature information and public keys.\n3. Click the \"Verify\" button.\n4. The tool will automatically verify the validity of the signature and display the verification result.\n\nNotes:\n1. Users need to have a basic understanding of PGP signatures to use the PGP Verification Tool correctly.\n2. Users need to ensure that the input signature information and public keys are correct, otherwise the tool will not be able to verify the validity of the signature correctly.\n3. The PGP Verification Tool is only used to verify the validity of the signature and does not provide signature functionality. Users need to use other tools to generate signatures."
+  }
+}

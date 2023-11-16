@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "enc": "文件加密成功，点击按钮输出文件",
+    "dec": "文件解密成功，点击按钮输出文件",
+    "key": "密钥:",
+    "mode": "模式:",
+    "padding": "填充:"
+  },
+  "en": {
+    "enc": "The file is encrypted successfully. Click the button to output the file",
+    "dec": "The file is decrypted successfully. Click the button to output the file",
+    "key": "Passphrase:",
+    "mode": "Mode:",
+    "padding": "Padding:"
+  },
+  "de": {
+    "enc": "Die Dateiverschlüsselung ist erfolgreich. Klicken Sie auf die Schaltfläche, um die Datei auszugeben",
+    "dec": "Die Dateientschlüsselung ist erfolgreich. Klicken Sie auf die Schaltfläche, um die Datei auszugeben",
+    "key": "Taste:",
+    "mode": "Modell:",
+    "padding": "Füllung:"
+  },
+  "es": {
+    "enc": "El cifrado de archivo es exitoso, haga clic en el botón para emitir el archivo",
+    "dec": "El descifrado del archivo es exitoso, haga clic en el botón para emitir el archivo",
+    "key": "Llave:",
+    "mode": "modelo:",
+    "padding": "relleno:"
+  },
+  "fr": {
+    "enc": "Le chiffrement du fichier est réussi, cliquez sur le bouton pour sortir le fichier",
+    "dec": "Le décryptage du fichier réussit, cliquez sur le bouton pour sortir le fichier",
+    "key": "Clé:",
+    "mode": "modèle:",
+    "padding": "remplissage:"
+  },
+  "it": {
+    "enc": "La crittografia del file ha esito positivo, fare clic sul pulsante per emettere il file",
+    "dec": "La decryption del file ha esito positivo, fai clic sul pulsante per output del file",
+    "key": "Chiave:",
+    "mode": "modello:",
+    "padding": "Riempimento:"
+  },
+  "ja": {
+    "enc": "ファイルの暗号化が成功しました。ボタンをクリックしてファイルを出力します。",
+    "dec": "ファイルの復号化が成功しました。ボタンをクリックしてファイルを出力します。",
+    "key": "鍵：",
+    "mode": "モデル：",
+    "padding": "充填："
+  },
+  "ko": {
+    "enc": "파일 암호화가 성공적이면 버튼을 클릭하여 파일을 출력합니다.",
+    "dec": "파일 암호 해독이 성공적이면 버튼을 클릭하여 파일을 출력합니다.",
+    "key": "열쇠:",
+    "mode": "모델:",
+    "padding": "충전재:"
+  },
+  "pt": {
+    "enc": "A criptografia de arquivo é bem -sucedida, clique no botão para emitir o arquivo",
+    "dec": "A descriptografia do arquivo é bem -sucedida, clique no botão para emitir o arquivo",
+    "key": "Chave:",
+    "mode": "modelo:",
+    "padding": "enchimento:"
+  },
+  "ru": {
+    "enc": "Шифрование файла успешно, нажмите кнопку, чтобы вывести файл",
+    "dec": "Дешифрование файла успешно, нажмите кнопку, чтобы вывести файл",
+    "key": "Ключ:",
+    "mode": "модель:",
+    "padding": "начинка:"
+  },
+  "zh-tw": {
+    "enc": "文件加密成功，點擊按鈕輸出文件",
+    "dec": "文件解密成功，點擊按鈕輸出文件",
+    "key": "密鑰:",
+    "mode": "模式:",
+    "padding": "填充:"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "zh-cn": {
+    "$name": "Rabbit 加密",
+    "$description": "Rabbit 加密是一种对称加密工具，使用Rabbit 流密码算法加密数据。它是一种快速和安全的加密数据的方法，非常适合在数据安全是首要考虑的应用程序中使用。",
+    "$keywords": [
+      "Rabbit",
+      "加密",
+      "加密",
+      "对称"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Rabbit 加密",
+    "$description": "Rabbit 加密是一種對稱加密工具，使用Rabbit 流加密算法對數據進行加密。它是一種快速且安全的數據加密方法，非常適合在數據安全是首要考慮的應用中使用。",
+    "$keywords": [
+      "Rabbit",
+      "加密",
+      "加密",
+      "對稱"
+    ]
+  },
+  "es": {
+    "$name": "Cifrado de Conejo",
+    "$description": "El Cifrado de Conejo es una herramienta de cifrado simétrico que utiliza el algoritmo de cifrado de flujo Rabbit para cifrar datos. Es un método rápido y seguro para cifrar datos, lo que lo hace ideal para su uso en aplicaciones donde la seguridad de los datos es una prioridad máxima.",
+    "$keywords": [
+      "Rabbit",
+      "cifrado",
+      "cifrar",
+      "simétrico"
+    ]
+  },
+  "ja": {
+    "$name": "Rabbit暗号化",
+    "$description": "Rabbit暗号化は、Rabbitストリーム暗号アルゴリズムを使用してデータを暗号化する対称暗号化ツールです。データのセキュリティが最優先事項であるアプリケーションで使用するには、高速で安全なデータの暗号化方法です。",
+    "$keywords": [
+      "Rabbit",
+      "暗号化",
+      "暗号化する",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "토끼 암호화",
+    "$description": "토끼 암호화는 Rabbit 스트림 암호 알고리즘을 사용하여 데이터를 암호화하는 대칭 암호화 도구입니다. 데이터 보안이 최우선인 애플리케이션에서 사용하기에 이상적인 빠르고 안전한 데이터 암호화 방법입니다.",
+    "$keywords": [
+      "Rabbit",
+      "암호화",
+      "암호화하다",
+      "대칭"
+    ]
+  },
+  "de": {
+    "$name": "Kaninchenverschlüsselung",
+    "$description": "Die Kaninchenverschlüsselung ist ein symmetrisches Verschlüsselungswerkzeug, das den Rabbit-Stream-Cipher-Algorithmus zur Verschlüsselung von Daten verwendet. Es ist eine schnelle und sichere Methode zur Verschlüsselung von Daten und eignet sich daher ideal für Anwendungen, bei denen die Datensicherheit oberste Priorität hat.",
+    "$keywords": [
+      "Rabbit",
+      "verschlüsselung",
+      "verschlüsseln",
+      "symmetrisch"
+    ]
+  },
+  "fr": {
+    "$name": "Chiffrement Rabbit",
+    "$description": "Le chiffrement Rabbit est un outil de chiffrement symétrique qui utilise l'algorithme de chiffrement de flux Rabbit pour chiffrer des données. C'est une méthode rapide et sécurisée de chiffrement de données, ce qui en fait l'outil idéal pour une utilisation dans des applications où la sécurité des données est une priorité absolue.",
+    "$keywords": [
+      "Rabbit",
+      "chiffrement",
+      "chiffrer",
+      "symétrique"
+    ]
+  },
+  "it": {
+    "$name": "Rabbit Encryption",
+    "$description": "Rabbit Encryption è uno strumento di crittografia simmetrica che utilizza l'algoritmo di cifratura a flusso Rabbit per crittografare i dati. È un metodo veloce e sicuro per crittografare i dati, rendendolo ideale per l'uso in applicazioni in cui la sicurezza dei dati è una priorità assoluta.",
+    "$keywords": [
+      "Rabbit",
+      "crittografia",
+      "crittografare",
+      "simmetrica"
+    ]
+  },
+  "ru": {
+    "$name": "Шифрование Rabbit",
+    "$description": "Шифрование Rabbit - это симметричный инструмент шифрования, который использует алгоритм поточного шифра Rabbit для шифрования данных. Это быстрый и безопасный метод шифрования данных, что делает его идеальным для использования в приложениях, где безопасность данных является приоритетом.",
+    "$keywords": [
+      "Rabbit",
+      "шифрование",
+      "шифровать",
+      "симметричный"
+    ]
+  },
+  "pt": {
+    "$name": "Criptografia Rabbit",
+    "$description": "A Criptografia Rabbit é uma ferramenta de criptografia simétrica que utiliza o algoritmo de cifra de fluxo Rabbit para criptografar dados. É um método rápido e seguro de criptografar dados, tornando-o ideal para uso em aplicações onde a segurança de dados é uma prioridade máxima.",
+    "$keywords": [
+      "Rabbit",
+      "criptografia",
+      "criptografar",
+      "simétrica"
+    ]
+  },
+  "en": {
+    "$name": "Rabbit Encryption",
+    "$description": "Rabbit Encryption is a symmetric encryption tool that uses the Rabbit stream cipher algorithm to encrypt data. It is a fast and secure method of encrypting data, making it ideal for use in applications where data security is a top priority.",
+    "$keywords": [
+      "Rabbit",
+      "encryption",
+      "encrypt",
+      "symmetric"
+    ]
+  }
+}

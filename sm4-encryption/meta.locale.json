@@ -1,0 +1,211 @@
+{
+  "zh-cn": {
+    "$name": "SM4加密",
+    "$keywords": [
+      "sm4",
+      "加密",
+      "SM4算法",
+      "加密工具",
+      "数据加密",
+      "文件加密",
+      "数据解密",
+      "ECB加密模式",
+      "CBC加密模式",
+      "填充模式",
+      "十六进制格式",
+      "Base64格式",
+      "Utf8格式"
+    ],
+    "$description": "SM4加密工具是一种用于加密和解密数据的工具。它使用SM4算法，支持两种加密模式：ECB和CBC。它可以加密输入数据并输出加密结果。此外，该工具支持多种输入和输出格式，包括Hex、Base64和Utf8。用户可以选择不同的输入和输出格式、加密模式和填充方法，以满足不同的加密需求。\n\n特点：\n\n1. 支持多种输入和输出格式：该工具支持多种输入和输出格式，包括Hex、Base64和Utf8。\n\n2. 支持ECB和CBC加密模式：该工具支持ECB和CBC加密模式，用户可以根据需要选择不同的加密模式。\n\n3. 支持填充方法：该工具支持填充方法，用户可以选择是否填充数据。\n\n4. 支持文件加密：该工具支持文件加密，用户可以选择要加密的文件并输出加密结果。\n\n用例：\n\n1. 数据加密：在数据传输过程中，需要加密数据以确保其安全性。使用SM4加密工具，可以加密数据，并选择不同的加密模式和填充方法以满足不同的加密需求。\n\n2. 文件加密：在文件传输过程中，需要加密文件以确保其安全性。使用SM4加密工具，用户可以选择要加密的文件并输出加密结果。\n\n3. 数据解密：在数据传输过程中，需要解密数据以确保其安全性。使用SM4加密工具，可以解密加密数据，并选择不同的输入和输出格式以满足不同的解密需求。"
+  },
+  "zh-tw": {
+    "$name": "SM4加密",
+    "$keywords": [
+      "sm4",
+      "加密",
+      "SM4演算法",
+      "加密工具",
+      "資料加密",
+      "檔案加密",
+      "資料解密",
+      "ECB加密模式",
+      "CBC加密模式",
+      "填充模式",
+      "十六進位格式",
+      "Base64格式",
+      "Utf8格式"
+    ],
+    "$description": "SM4加密工具是一款用於加密和解密數據的工具。它使用SM4算法，支持兩種加密模式：ECB和CBC。它可以加密輸入數據並輸出加密結果。此外，該工具支持多種輸入和輸出格式，包括Hex、Base64和Utf8。用戶可以選擇不同的輸入和輸出格式、加密模式和填充方法，以滿足不同的加密需求。\n\n特點：\n\n1. 支持多種輸入和輸出格式：該工具支持多種輸入和輸出格式，包括Hex、Base64和Utf8。\n\n2. 支持ECB和CBC加密模式：該工具支持ECB和CBC加密模式，用戶可以根據需要選擇不同的加密模式。\n\n3. 支持填充方法：該工具支持填充方法，用戶可以選擇是否填充數據。\n\n4. 支持文件加密：該工具支持文件加密，用戶可以選擇要加密的文件並輸出加密結果。\n\n使用場景：\n\n1. 數據加密：在數據傳輸過程中，需要對數據進行加密以確保其安全性。使用SM4加密工具，可以加密數據，並選擇不同的加密模式和填充方法，以滿足不同的加密需求。\n\n2. 文件加密：在文件傳輸過程中，需要對文件進行加密以確保其安全性。使用SM4加密工具，用戶可以選擇要加密的文件並輸出加密結果。\n\n3. 數據解密：在數據傳輸過程中，需要對數據進行解密以確保其安全性。使用SM4加密工具，可以解密加密數據，並選擇不同的輸入和輸出格式，以滿足不同的解密需求。"
+  },
+  "es": {
+    "$name": "Cifrado SM4",
+    "$keywords": [
+      "sm4",
+      "encriptación",
+      "algoritmo SM4",
+      "herramienta de encriptación",
+      "encriptación de datos",
+      "encriptación de archivos",
+      "desencriptación de datos",
+      "modo de encriptación ECB",
+      "modo de encriptación CBC",
+      "modo de relleno",
+      "formato Hex",
+      "formato Base64",
+      "formato Utf8"
+    ],
+    "$description": "La herramienta de cifrado SM4 es una herramienta utilizada para cifrar y descifrar datos. Utiliza el algoritmo SM4 y admite dos modos de cifrado: ECB y CBC. Puede cifrar los datos de entrada y producir el resultado cifrado. Además, la herramienta admite múltiples formatos de entrada y salida, incluyendo Hex, Base64 y Utf8. Los usuarios pueden elegir diferentes formatos de entrada y salida, modos de cifrado y métodos de relleno para satisfacer diferentes necesidades de cifrado.\n\nCaracterísticas:\n\n1. Admite múltiples formatos de entrada y salida: La herramienta admite múltiples formatos de entrada y salida, incluyendo Hex, Base64 y Utf8.\n\n2. Admite modos de cifrado ECB y CBC: La herramienta admite modos de cifrado ECB y CBC, y los usuarios pueden elegir diferentes modos de cifrado según sea necesario.\n\n3. Admite métodos de relleno: La herramienta admite métodos de relleno, y los usuarios pueden elegir si desean rellenar los datos.\n\n4. Admite cifrado de archivos: La herramienta admite cifrado de archivos, y los usuarios pueden elegir el archivo que desean cifrar y producir el resultado cifrado.\n\nCasos de uso:\n\n1. Cifrado de datos: Durante la transmisión de datos, es necesario cifrar los datos para garantizar su seguridad. Utilizando la herramienta de cifrado SM4, los datos pueden cifrarse y se pueden seleccionar diferentes modos de cifrado y métodos de relleno para satisfacer diferentes necesidades de cifrado.\n\n2. Cifrado de archivos: Durante la transmisión de archivos, es necesario cifrar los archivos para garantizar su seguridad. Utilizando la herramienta de cifrado SM4, los usuarios pueden elegir el archivo que desean cifrar y producir el resultado cifrado.\n\n3. Descifrado de datos: Durante la transmisión de datos, es necesario descifrar los datos para garantizar su seguridad. Utilizando la herramienta de cifrado SM4, los datos cifrados pueden descifrarse y se pueden seleccionar diferentes formatos de entrada y salida para satisfacer diferentes necesidades de descifrado."
+  },
+  "ja": {
+    "$name": "SM4暗号化",
+    "$keywords": [
+      "sm4",
+      "暗号化",
+      "SM4アルゴリズム",
+      "暗号化ツール",
+      "データ暗号化",
+      "ファイル暗号化",
+      "データ復号化",
+      "ECB暗号化モード",
+      "CBC暗号化モード",
+      "パディングモード",
+      "Hex形式",
+      "Base64形式",
+      "Utf8形式"
+    ],
+    "$description": "SM4暗号化ツールは、データの暗号化と復号化に使用されるツールです。SM4アルゴリズムを使用し、ECBおよびCBCの2つの暗号化モードをサポートしています。入力データを暗号化し、暗号化された結果を出力することができます。さらに、このツールはHex、Base64、Utf8などの複数の入力および出力形式をサポートしています。ユーザーは、異なる入力および出力形式、暗号化モード、およびパディング方法を選択して、異なる暗号化ニーズに対応することができます。\n\n特徴：\n\n1. 複数の入力および出力形式をサポート：このツールは、Hex、Base64、Utf8などの複数の入力および出力形式をサポートしています。\n\n2. ECBおよびCBCの暗号化モードをサポート：このツールは、ECBおよびCBCの暗号化モードをサポートしており、ユーザーは必要に応じて異なる暗号化モードを選択することができます。\n\n3. パディング方法をサポート：このツールは、パディング方法をサポートしており、ユーザーはデータをパディングするかどうかを選択することができます。\n\n4. ファイル暗号化をサポート：このツールは、ファイル暗号化をサポートしており、ユーザーは暗号化するファイルを選択し、暗号化された結果を出力することができます。\n\n使用例：\n\n1. データの暗号化：データの送信中に、データを暗号化してセキュリティを確保する必要があります。SM4暗号化ツールを使用すると、異なる暗号化モードやパディング方法を選択して、異なる暗号化ニーズに対応することができます。\n\n2. ファイルの暗号化：ファイルの送信中に、ファイルを暗号化してセキュリティを確保する必要があります。SM4暗号化ツールを使用すると、暗号化するファイルを選択し、暗号化された結果を出力することができます。\n\n3. データの復号化：データの送信中に、データを復号化してセキュリティを確保する必要があります。SM4暗号化ツールを使用すると、暗号化されたデータを復号化し、異なる入力および出力形式を選択して、異なる復号化ニーズに対応することができます。"
+  },
+  "ko": {
+    "$name": "SM4 암호화",
+    "$keywords": [
+      "sm4",
+      "암호화",
+      "SM4 알고리즘",
+      "암호화 도구",
+      "데이터 암호화",
+      "파일 암호화",
+      "데이터 복호화",
+      "ECB 암호화 모드",
+      "CBC 암호화 모드",
+      "패딩 모드",
+      "16진수 형식",
+      "Base64 형식",
+      "Utf8 형식"
+    ],
+    "$description": "SM4 암호화 도구는 데이터를 암호화하고 복호화하는 데 사용되는 도구입니다. SM4 알고리즘을 사용하며 ECB 및 CBC 두 가지 암호화 모드를 지원합니다. 입력 데이터를 암호화하고 암호화된 결과를 출력할 수 있습니다. 또한, 이 도구는 Hex, Base64 및 Utf8을 포함한 다양한 입력 및 출력 형식을 지원합니다. 사용자는 다른 입력 및 출력 형식, 암호화 모드 및 패딩 방법을 선택하여 다양한 암호화 요구 사항을 충족시킬 수 있습니다.\n\n기능:\n\n1. 다양한 입력 및 출력 형식 지원: 이 도구는 Hex, Base64 및 Utf8을 포함한 다양한 입력 및 출력 형식을 지원합니다.\n\n2. ECB 및 CBC 암호화 모드 지원: 이 도구는 ECB 및 CBC 암호화 모드를 지원하며, 사용자는 필요에 따라 다른 암호화 모드를 선택할 수 있습니다.\n\n3. 패딩 방법 지원: 이 도구는 패딩 방법을 지원하며, 사용자는 데이터를 패딩할지 여부를 선택할 수 있습니다.\n\n4. 파일 암호화 지원: 이 도구는 파일 암호화를 지원하며, 사용자는 암호화할 파일을 선택하고 암호화된 결과를 출력할 수 있습니다.\n\n사용 사례:\n\n1. 데이터 암호화: 데이터 전송 중에 데이터를 암호화하여 보안을 유지해야 합니다. SM4 암호화 도구를 사용하면 데이터를 암호화하고 다양한 암호화 모드 및 패딩 방법을 선택하여 다양한 암호화 요구 사항을 충족시킬 수 있습니다.\n\n2. 파일 암호화: 파일 전송 중에 파일을 암호화하여 보안을 유지해야 합니다. SM4 암호화 도구를 사용하면 암호화할 파일을 선택하고 암호화된 결과를 출력할 수 있습니다.\n\n3. 데이터 복호화: 데이터 전송 중에 데이터를 복호화하여 보안을 유지해야 합니다. SM4 암호화 도구를 사용하면 암호화된 데이터를 복호화하고 다양한 입력 및 출력 형식을 선택하여 다양한 복호화 요구 사항을 충족시킬 수 있습니다."
+  },
+  "de": {
+    "$name": "SM4-Verschlüsselung",
+    "$keywords": [
+      "sm4",
+      "Verschlüsselung",
+      "SM4-Algorithmus",
+      "Verschlüsselungstool",
+      "Datenverschlüsselung",
+      "Dateiverschlüsselung",
+      "Datenentschlüsselung",
+      "ECB-Verschlüsselungsmodus",
+      "CBC-Verschlüsselungsmodus",
+      "Padding-Modus",
+      "Hex-Format",
+      "Base64-Format",
+      "Utf8-Format"
+    ],
+    "$description": "SM4-Verschlüsselungstool ist ein Tool, das zur Verschlüsselung und Entschlüsselung von Daten verwendet wird. Es verwendet den SM4-Algorithmus und unterstützt zwei Verschlüsselungsmodi: ECB und CBC. Es kann die Eingangsdaten verschlüsseln und das verschlüsselte Ergebnis ausgeben. Zusätzlich unterstützt das Tool mehrere Eingabe- und Ausgabeformate, einschließlich Hex, Base64 und Utf8. Benutzer können verschiedene Eingabe- und Ausgabeformate, Verschlüsselungsmodi und Padding-Methoden wählen, um unterschiedlichen Verschlüsselungsanforderungen gerecht zu werden.\n\nFunktionen:\n\n1. Unterstützt mehrere Eingabe- und Ausgabeformate: Das Tool unterstützt mehrere Eingabe- und Ausgabeformate, einschließlich Hex, Base64 und Utf8.\n\n2. Unterstützt ECB- und CBC-Verschlüsselungsmodi: Das Tool unterstützt ECB- und CBC-Verschlüsselungsmodi, und Benutzer können je nach Bedarf verschiedene Verschlüsselungsmodi wählen.\n\n3. Unterstützt Padding-Methoden: Das Tool unterstützt Padding-Methoden, und Benutzer können wählen, ob die Daten gepaddet werden sollen.\n\n4. Unterstützt Dateiverschlüsselung: Das Tool unterstützt die Dateiverschlüsselung, und Benutzer können die zu verschlüsselnde Datei auswählen und das verschlüsselte Ergebnis ausgeben.\n\nAnwendungsfälle:\n\n1. Datenverschlüsselung: Während der Datenübertragung müssen Daten verschlüsselt werden, um deren Sicherheit zu gewährleisten. Mit dem SM4-Verschlüsselungstool können Daten verschlüsselt werden, und verschiedene Verschlüsselungsmodi und Padding-Methoden können ausgewählt werden, um unterschiedlichen Verschlüsselungsanforderungen gerecht zu werden.\n\n2. Dateiverschlüsselung: Während der Dateiübertragung müssen Dateien verschlüsselt werden, um deren Sicherheit zu gewährleisten. Mit dem SM4-Verschlüsselungstool können Benutzer die zu verschlüsselnde Datei auswählen und das verschlüsselte Ergebnis ausgeben.\n\n3. Datendekodierung: Während der Datenübertragung müssen Daten entschlüsselt werden, um deren Sicherheit zu gewährleisten. Mit dem SM4-Verschlüsselungstool können verschlüsselte Daten entschlüsselt werden, und verschiedene Eingabe- und Ausgabeformate können ausgewählt werden, um unterschiedlichen Entschlüsselungsanforderungen gerecht zu werden."
+  },
+  "fr": {
+    "$name": "Chiffrement SM4",
+    "$keywords": [
+      "sm4",
+      "chiffrement",
+      "algorithme SM4",
+      "outil de chiffrement",
+      "chiffrement de données",
+      "chiffrement de fichiers",
+      "décryptage de données",
+      "mode de chiffrement ECB",
+      "mode de chiffrement CBC",
+      "mode de remplissage",
+      "format Hex",
+      "format Base64",
+      "format Utf8"
+    ],
+    "$description": "L'outil de chiffrement SM4 est un outil utilisé pour chiffrer et déchiffrer des données. Il utilise l'algorithme SM4 et prend en charge deux modes de chiffrement : ECB et CBC. Il peut chiffrer les données d'entrée et produire le résultat chiffré en sortie. De plus, l'outil prend en charge plusieurs formats d'entrée et de sortie, notamment Hex, Base64 et Utf8. Les utilisateurs peuvent choisir différents formats d'entrée et de sortie, modes de chiffrement et méthodes de remplissage pour répondre à différents besoins de chiffrement.\n\nFonctionnalités :\n\n1. Prise en charge de plusieurs formats d'entrée et de sortie : L'outil prend en charge plusieurs formats d'entrée et de sortie, notamment Hex, Base64 et Utf8.\n\n2. Prise en charge des modes de chiffrement ECB et CBC : L'outil prend en charge les modes de chiffrement ECB et CBC, et les utilisateurs peuvent choisir différents modes de chiffrement selon leurs besoins.\n\n3. Prise en charge des méthodes de remplissage : L'outil prend en charge les méthodes de remplissage, et les utilisateurs peuvent choisir de remplir ou non les données.\n\n4. Prise en charge du chiffrement de fichiers : L'outil prend en charge le chiffrement de fichiers, et les utilisateurs peuvent choisir le fichier à chiffrer et produire le résultat chiffré en sortie.\n\nCas d'utilisation :\n\n1. Chiffrement de données : Pendant la transmission de données, les données doivent être chiffrées pour assurer leur sécurité. En utilisant l'outil de chiffrement SM4, les données peuvent être chiffrées, et différents modes de chiffrement et méthodes de remplissage peuvent être sélectionnés pour répondre à différents besoins de chiffrement.\n\n2. Chiffrement de fichiers : Pendant la transmission de fichiers, les fichiers doivent être chiffrés pour assurer leur sécurité. En utilisant l'outil de chiffrement SM4, les utilisateurs peuvent choisir le fichier à chiffrer et produire le résultat chiffré en sortie.\n\n3. Déchiffrement de données : Pendant la transmission de données, les données doivent être déchiffrées pour assurer leur sécurité. En utilisant l'outil de chiffrement SM4, les données chiffrées peuvent être déchiffrées, et différents formats d'entrée et de sortie peuvent être sélectionnés pour répondre à différents besoins de déchiffrement."
+  },
+  "it": {
+    "$name": "Crittografia SM4",
+    "$keywords": [
+      "sm4",
+      "crittografia",
+      "algoritmo SM4",
+      "strumento di crittografia",
+      "crittografia dei dati",
+      "crittografia dei file",
+      "decrittografia dei dati",
+      "modalità di crittografia ECB",
+      "modalità di crittografia CBC",
+      "modalità di riempimento",
+      "formato esadecimale",
+      "formato Base64",
+      "formato Utf8"
+    ],
+    "$description": "Lo strumento di crittografia SM4 è uno strumento utilizzato per crittografare e decrittografare dati. Utilizza l'algoritmo SM4 e supporta due modalità di crittografia: ECB e CBC. Può crittografare i dati di input e produrre in output il risultato crittografato. Inoltre, lo strumento supporta diversi formati di input e output, tra cui Hex, Base64 e Utf8. Gli utenti possono scegliere diversi formati di input e output, modalità di crittografia e metodi di padding per soddisfare diverse esigenze di crittografia.\n\nCaratteristiche:\n\n1. Supporta diversi formati di input e output: lo strumento supporta diversi formati di input e output, tra cui Hex, Base64 e Utf8.\n\n2. Supporta le modalità di crittografia ECB e CBC: lo strumento supporta le modalità di crittografia ECB e CBC, e gli utenti possono scegliere diverse modalità di crittografia a seconda delle loro esigenze.\n\n3. Supporta i metodi di padding: lo strumento supporta i metodi di padding, e gli utenti possono scegliere se aggiungere il padding ai dati.\n\n4. Supporta la crittografia di file: lo strumento supporta la crittografia di file, e gli utenti possono scegliere il file da crittografare e produrre in output il risultato crittografato.\n\nCasi d'uso:\n\n1. Crittografia dei dati: durante la trasmissione dei dati, i dati devono essere crittografati per garantirne la sicurezza. Utilizzando lo strumento di crittografia SM4, i dati possono essere crittografati e possono essere selezionate diverse modalità di crittografia e metodi di padding per soddisfare diverse esigenze di crittografia.\n\n2. Crittografia di file: durante la trasmissione di file, i file devono essere crittografati per garantirne la sicurezza. Utilizzando lo strumento di crittografia SM4, gli utenti possono scegliere il file da crittografare e produrre in output il risultato crittografato.\n\n3. Decrittografia dei dati: durante la trasmissione dei dati, i dati devono essere decrittografati per garantirne la sicurezza. Utilizzando lo strumento di crittografia SM4, i dati crittografati possono essere decrittografati e possono essere selezionati diversi formati di input e output per soddisfare diverse esigenze di decrittografia."
+  },
+  "ru": {
+    "$name": "Шифрование SM4",
+    "$keywords": [
+      "sm4",
+      "шифрование",
+      "алгоритм SM4",
+      "инструмент шифрования",
+      "шифрование данных",
+      "шифрование файлов",
+      "дешифрование данных",
+      "режим ECB шифрования",
+      "режим CBC шифрования",
+      "режим дополнения",
+      "формат Hex",
+      "формат Base64",
+      "формат Utf8"
+    ],
+    "$description": "Инструмент шифрования SM4 - это инструмент, используемый для шифрования и дешифрования данных. Он использует алгоритм SM4 и поддерживает два режима шифрования: ECB и CBC. Он может зашифровать входные данные и вывести зашифрованный результат. Кроме того, инструмент поддерживает несколько форматов ввода и вывода, включая Hex, Base64 и Utf8. Пользователи могут выбирать различные форматы ввода и вывода, режимы шифрования и методы дополнения, чтобы удовлетворить различные потребности в шифровании.\n\nОсобенности:\n\n1. Поддержка нескольких форматов ввода и вывода: Инструмент поддерживает несколько форматов ввода и вывода, включая Hex, Base64 и Utf8.\n\n2. Поддержка режимов шифрования ECB и CBC: Инструмент поддерживает режимы шифрования ECB и CBC, и пользователи могут выбирать различные режимы шифрования по мере необходимости.\n\n3. Поддержка методов дополнения: Инструмент поддерживает методы дополнения, и пользователи могут выбирать, нужно ли дополнять данные.\n\n4. Поддержка шифрования файлов: Инструмент поддерживает шифрование файлов, и пользователи могут выбирать файл для шифрования и выводить зашифрованный результат.\n\nПримеры использования:\n\n1. Шифрование данных: Во время передачи данных данные нужно зашифровать, чтобы обеспечить их безопасность. Используя инструмент шифрования SM4, данные могут быть зашифрованы, и можно выбрать различные режимы шифрования и методы дополнения, чтобы удовлетворить различные потребности в шифровании.\n\n2. Шифрование файлов: Во время передачи файлов файлы нужно зашифровать, чтобы обеспечить их безопасность. Используя инструмент шифрования SM4, пользователи могут выбирать файл для шифрования и выводить зашифрованный результат.\n\n3. Дешифрование данных: Во время передачи данных данные нужно дешифровать, чтобы обеспечить их безопасность. Используя инструмент шифрования SM4, зашифрованные данные могут быть дешифрованы, и можно выбирать различные форматы ввода и вывода, чтобы удовлетворить различные потребности в дешифровании."
+  },
+  "pt": {
+    "$name": "Criptografia SM4",
+    "$keywords": [
+      "sm4",
+      "criptografia",
+      "algoritmo SM4",
+      "ferramenta de criptografia",
+      "criptografia de dados",
+      "criptografia de arquivos",
+      "descriptografia de dados",
+      "modo de criptografia ECB",
+      "modo de criptografia CBC",
+      "modo de preenchimento",
+      "formato Hex",
+      "formato Base64",
+      "formato Utf8"
+    ],
+    "$description": "A ferramenta de criptografia SM4 é uma ferramenta usada para criptografar e descriptografar dados. Ela usa o algoritmo SM4 e suporta dois modos de criptografia: ECB e CBC. Ela pode criptografar os dados de entrada e produzir o resultado criptografado. Além disso, a ferramenta suporta vários formatos de entrada e saída, incluindo Hex, Base64 e Utf8. Os usuários podem escolher diferentes formatos de entrada e saída, modos de criptografia e métodos de preenchimento para atender a diferentes necessidades de criptografia.\n\nRecursos:\n\n1. Suporta vários formatos de entrada e saída: A ferramenta suporta vários formatos de entrada e saída, incluindo Hex, Base64 e Utf8.\n\n2. Suporta modos de criptografia ECB e CBC: A ferramenta suporta modos de criptografia ECB e CBC, e os usuários podem escolher diferentes modos de criptografia conforme necessário.\n\n3. Suporta métodos de preenchimento: A ferramenta suporta métodos de preenchimento, e os usuários podem escolher se desejam preencher os dados.\n\n4. Suporta criptografia de arquivos: A ferramenta suporta criptografia de arquivos, e os usuários podem escolher o arquivo a ser criptografado e produzir o resultado criptografado.\n\nCasos de uso:\n\n1. Criptografia de dados: Durante a transmissão de dados, é necessário criptografar os dados para garantir sua segurança. Usando a ferramenta de criptografia SM4, os dados podem ser criptografados, e diferentes modos de criptografia e métodos de preenchimento podem ser selecionados para atender a diferentes necessidades de criptografia.\n\n2. Criptografia de arquivos: Durante a transmissão de arquivos, os arquivos precisam ser criptografados para garantir sua segurança. Usando a ferramenta de criptografia SM4, os usuários podem escolher o arquivo a ser criptografado e produzir o resultado criptografado.\n\n3. Descriptografia de dados: Durante a transmissão de dados, é necessário descriptografar os dados para garantir sua segurança. Usando a ferramenta de criptografia SM4, os dados criptografados podem ser descriptografados, e diferentes formatos de entrada e saída podem ser selecionados para atender a diferentes necessidades de descriptografia."
+  },
+  "en": {
+    "$name": "SM4 Encryption",
+    "$keywords": [
+      "sm4",
+      "encryption",
+      "SM4 algorithm",
+      "encryption tool",
+      "data encryption",
+      "file encryption",
+      "data decryption",
+      "ECB encryption mode",
+      "CBC encryption mode",
+      "padding mode",
+      "Hex format",
+      "Base64 format",
+      "Utf8 format"
+    ],
+    "$description": "SM4 Encryption tool is a tool used for encrypting and decrypting data. It uses the SM4 algorithm and supports two encryption modes: ECB and CBC. It can encrypt the input data and output the encrypted result. Additionally, the tool supports multiple input and output formats, including Hex, Base64, and Utf8. Users can choose different input and output formats, encryption modes, and padding methods to meet different encryption needs.\n\nFeatures:\n\n1. Supports multiple input and output formats: The tool supports multiple input and output formats, including Hex, Base64, and Utf8.\n\n2. Supports ECB and CBC encryption modes: The tool supports ECB and CBC encryption modes, and users can choose different encryption modes as needed.\n\n3. Supports padding methods: The tool supports padding methods, and users can choose whether to pad the data.\n\n4. Supports file encryption: The tool supports file encryption, and users can choose the file to be encrypted and output the encrypted result.\n\nUse cases:\n\n1. Data encryption: During data transmission, data needs to be encrypted to ensure its security. Using the SM4 Encryption tool, data can be encrypted, and different encryption modes and padding methods can be selected to meet different encryption needs.\n\n2. File encryption: During file transmission, files need to be encrypted to ensure their security. Using the SM4 Encryption tool, users can choose the file to be encrypted and output the encrypted result.\n\n3. Data decryption: During data transmission, data needs to be decrypted to ensure its security. Using the SM4 Encryption tool, encrypted data can be decrypted, and different input and output formats can be selected to meet different decryption needs."
+  }
+}

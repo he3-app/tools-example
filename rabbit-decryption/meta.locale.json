@@ -1,0 +1,112 @@
+{
+  "zh-cn": {
+    "$name": "Rabbit 解密",
+    "$description": "Rabbit 解密是一款强大的工具，允许用户解密使用Rabbit对称加密算法加密的数据。凭借其先进的解密能力，Rabbit解密可以快速准确地解密甚至最复杂的Rabbit加密数据，使其成为任何使用Rabbit加密的人必备的工具。",
+    "$keywords": [
+      "Rabbit",
+      "解密",
+      "解密",
+      "对称"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Rabbit 解密",
+    "$description": "Rabbit 解密是一個強大的工具，允許用戶解密使用Rabbit對稱加密算法加密的數據。憑藉其先進的解密能力，Rabbit解密可以快速而準確地解密即使是最複雜的Rabbit加密數據，使其成為任何使用Rabbit加密的人必不可少的工具。",
+    "$keywords": [
+      "Rabbit",
+      "解密",
+      "解碼",
+      "對稱"
+    ]
+  },
+  "es": {
+    "$name": "Descifrado de Conejo",
+    "$description": "Descifrado de Conejo es una herramienta poderosa que permite a los usuarios descifrar datos cifrados utilizando el algoritmo de cifrado simétrico Rabbit. Con sus capacidades avanzadas de descifrado, Descifrado de Conejo puede descifrar rápidamente y con precisión incluso los datos cifrados más complejos de Rabbit, lo que lo convierte en una herramienta esencial para cualquier persona que trabaje con el cifrado de Rabbit.",
+    "$keywords": [
+      "Rabbit",
+      "descifrado",
+      "descifrar",
+      "simétrico"
+    ]
+  },
+  "ja": {
+    "$name": "Rabbit復号",
+    "$description": "Rabbit復号は、Rabbit対称暗号化アルゴリズムで暗号化されたデータを復号化することができる強力なツールです。高度な復号能力により、Rabbit復号は、最も複雑なRabbit暗号化データでも迅速かつ正確に復号化することができます。これは、Rabbit暗号化を扱うすべての人にとって必須のツールです。",
+    "$keywords": [
+      "Rabbit",
+      "復号",
+      "decrypt",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "토끼 복호화",
+    "$description": "토끼 복호화는 토끼 대칭 암호화 알고리즘으로 암호화된 데이터를 해독할 수 있는 강력한 도구입니다. 고급 복호화 기능을 갖춘 토끼 복호화는 가장 복잡한 토끼 암호화된 데이터도 빠르고 정확하게 해독할 수 있어 토끼 암호화를 다루는 모든 사람에게 필수적인 도구입니다.",
+    "$keywords": [
+      "Rabbit",
+      "복호화",
+      "해독",
+      "대칭"
+    ]
+  },
+  "de": {
+    "$name": "Rabbit Entschlüsselung",
+    "$description": "Rabbit Entschlüsselung ist ein leistungsstarkes Tool, das Benutzern ermöglicht, Daten zu entschlüsseln, die mit dem symmetrischen Verschlüsselungsalgorithmus Rabbit verschlüsselt wurden. Mit seinen fortschrittlichen Entschlüsselungsfähigkeiten kann Rabbit Entschlüsselung selbst die komplexesten mit Rabbit verschlüsselten Daten schnell und genau entschlüsseln, was es zu einem unverzichtbaren Werkzeug für jeden macht, der mit Rabbit-Verschlüsselung arbeitet.",
+    "$keywords": [
+      "Rabbit",
+      "entschlüsselung",
+      "entschlüsseln",
+      "symmetrisch"
+    ]
+  },
+  "fr": {
+    "$name": "Décryptage de Lapin",
+    "$description": "Le Décryptage de Lapin est un outil puissant qui permet aux utilisateurs de décrypter des données chiffrées à l'aide de l'algorithme de chiffrement symétrique Lapin. Avec ses capacités de décryptage avancées, le Décryptage de Lapin peut rapidement et précisément décrypter même les données chiffrées les plus complexes de Lapin, en faisant un outil essentiel pour toute personne travaillant avec le chiffrement de Lapin.",
+    "$keywords": [
+      "Rabbit",
+      "décryptage",
+      "décrypter",
+      "symétrique"
+    ]
+  },
+  "it": {
+    "$name": "Decrittografia Rabbit",
+    "$description": "La Decrittografia Rabbit è un potente strumento che consente agli utenti di decrittografare i dati criptati utilizzando l'algoritmo di crittografia simmetrica Rabbit. Grazie alle sue avanzate capacità di decrittografia, la Decrittografia Rabbit può decrittografare rapidamente e con precisione anche i dati crittografati Rabbit più complessi, rendendola uno strumento essenziale per chiunque lavori con la crittografia Rabbit.",
+    "$keywords": [
+      "Rabbit",
+      "decrittografia",
+      "decrittografare",
+      "simmetrica"
+    ]
+  },
+  "ru": {
+    "$name": "Расшифровка Rabbit",
+    "$description": "Расшифровка Rabbit - мощный инструмент, который позволяет пользователям расшифровывать данные, зашифрованные с использованием симметричного алгоритма шифрования Rabbit. Благодаря своим продвинутым возможностям расшифровки, Расшифровка Rabbit может быстро и точно расшифровывать даже самые сложные зашифрованные данные Rabbit, что делает его необходимым инструментом для всех, кто работает с шифрованием Rabbit.",
+    "$keywords": [
+      "Rabbit",
+      "расшифровка",
+      "расшифровать",
+      "симметричный"
+    ]
+  },
+  "pt": {
+    "$name": "Descriptografia de Coelho",
+    "$description": "A Descriptografia de Coelho é uma ferramenta poderosa que permite aos usuários descriptografar dados criptografados usando o algoritmo de criptografia simétrica Rabbit. Com suas capacidades avançadas de descriptografia, a Descriptografia de Coelho pode descriptografar rapidamente e com precisão até mesmo os dados criptografados mais complexos do Rabbit, tornando-a uma ferramenta essencial para qualquer pessoa que trabalhe com criptografia do Rabbit.",
+    "$keywords": [
+      "Rabbit",
+      "descriptografia",
+      "descriptografar",
+      "simétrica"
+    ]
+  },
+  "en": {
+    "$name": "Rabbit Decryption",
+    "$description": "Rabbit Decryption is a powerful tool that allows users to decrypt data encrypted using the Rabbit symmetric encryption algorithm. With its advanced decryption capabilities, Rabbit Decryption can quickly and accurately decrypt even the most complex Rabbit-encrypted data, making it an essential tool for anyone working with Rabbit encryption.",
+    "$keywords": [
+      "Rabbit",
+      "decryption",
+      "decrypt",
+      "symmetric"
+    ]
+  }
+}

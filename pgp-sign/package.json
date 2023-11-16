@@ -1,0 +1,50 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "id": "pgp-sign",
+    "name": "PGP Signing",
+    "icon": "thunderbolt-outlined",
+    "version": "1.0.4",
+    "isPublic": true,
+    "repository": "",
+    "category": [
+      "cryptography"
+    ],
+    "description": "PGP Signing Tool Documentation\n\nOverview:\nThe PGP Signing Tool is a tool used to sign PGP messages. Users can input messages, private keys, and passwords, and the tool will sign the message and output the signed message.\n\nFunction Description:\n1. Users can input the message that needs to be signed.\n2. Users can input the private key and password to sign the message.\n3. The tool will sign the input message and output the signed message.\n\nUse Cases:\n1. PGP message signing: Users can use the PGP Signing Tool to sign PGP messages to ensure the integrity and authenticity of the message.\n2. Data transmission: During data transmission, users can use the PGP Signing Tool to sign data to ensure the integrity and authenticity of the data.\n3. Data storage: During data storage, users can use the PGP Signing Tool to sign data to ensure the integrity and authenticity of the data.\n\nInstructions:\n1. Input the message that needs to be signed.\n2. Input the private key and password.\n3. Click the \"Sign\" button, and the tool will sign the message.\n4. The signed message will be displayed in the output area of the tool.",
+    "keywords": [
+      "GPG",
+      "PGP",
+      "sign",
+      "signature",
+      "sig",
+      "PGP signing",
+      "PGP message signing",
+      "data integrity protection",
+      "PGP encryption",
+      "PGP digital signature"
+    ],
+    "relatedToolId": [
+      "pgp-encrypt",
+      "pgp-decrypt",
+      "pgp-key-pair-generator",
+      "pgp-verify"
+    ]
+  },
+  "dependencies": {
+    "openpgp": "^5.7.0",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish",
+    "version": "he3 version"
+  },
+  "he3": {
+    "name": "PGP Encryption",
+    "id": "pgp-encrypt",
+    "icon": "thunderbolt-outlined",
+    "version": "1.0.4",
+    "description": "PGP Encryption is a tool used for encrypting information. Users can input the information they want to encrypt and a public key. The tool will use the OpenPGP library to encrypt the information and output the encrypted message.\n\nFeatures:\n\n1. Users can input the information they want to encrypt and a public key.\n\n2. The tool will use the OpenPGP library to encrypt the information.\n\n3. The encrypted message will be displayed in the output area of the tool.\n\nUse cases:\n\n1. Protecting privacy: Users can use PGP Encryption to encrypt sensitive information to protect their privacy.\n\n2. Secure communication: Users can use PGP Encryption to encrypt communication content to ensure the security of their communication.\n\n3. Data transmission: Users can use PGP Encryption to encrypt data to ensure the security of their data transmission.",
+    "isPublic": true,
+    "category": [
+      "cryptography"
+    ],
+    "keywords": [
+      "GPG",
+      "PGP",
+      "encrypt",
+      "encryption",
+      "PGP encryption",
+      "OpenPGP library",
+      "information protection",
+      "secure communication",
+      "data transmission"
+    ],
+    "relatedToolId": [
+      "pgp-decrypt",
+      "pgp-key-pair-generator",
+      "pgp-sign",
+      "pgp-verify"
+    ]
+  },
+  "dependencies": {
+    "openpgp": "^5.7.0",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}
