@@ -1,0 +1,4 @@
+{
+  "jsonParseError": "JSON 분석에 실패했습니다",
+  "yamlParseError": "YAML 분석에 실패했습니다"
+}

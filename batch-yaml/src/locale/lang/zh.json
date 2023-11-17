@@ -1,0 +1,4 @@
+{
+  "jsonParseError": "JSON 解析失败",
+  "yamlParseError": "YAML 解析失败"
+}

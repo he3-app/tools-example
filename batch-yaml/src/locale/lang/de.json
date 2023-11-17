@@ -1,0 +1,4 @@
+{
+  "jsonParseError": "Die JSON -Analyse ist fehlgeschlagen",
+  "yamlParseError": "Die YAML -Analyse ist fehlgeschlagen"
+}

@@ -1,0 +1,948 @@
+{
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "generate": "he3 generate",
+    "version": "he3 version"
+  },
+  "he3": [
+    {
+      "id": "properties-to-yaml",
+      "name": "Properties to YAML",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "Properties to YAML Tool is a tool used to convert Properties files to YAML format. It provides a simple and efficient way to convert Properties files to YAML format.\n\nFeatures:\n\n1. Convert Properties files to YAML format.\n\n2. Automatically detect input Properties files and convert them to YAML format.\n\n3. Display the converted YAML format in the output area.\n\nUse Cases:\n\n1. Configuration Management: Properties files are commonly used for configuration management in Java applications. Using the Properties to YAML Tool, developers can easily convert Properties files to YAML format, which is more readable and easier to manage.\n\n2. YAML-based Applications: Many modern applications use YAML as their configuration format. Using the Properties to YAML Tool, developers can easily convert Properties files to YAML format, which can be used in YAML-based applications.\n\n3. Data Analysis: Data analysts often need to analyze various data formats, including Properties and YAML. Using the Properties to YAML Tool, they can easily convert Properties files to YAML format, which can be used for data analysis and visualization.",
+      "keywords": [
+        "convert",
+        "Properties",
+        "YAML",
+        "transform",
+        "YML",
+        "Properties to YAML",
+        "configuration management",
+        "YAML-based applications",
+        "data analysis"
+      ],
+      "relatedToolId": [
+        "yaml-to-properties",
+        "properties-to-json"
+      ]
+    },
+    {
+      "id": "yaml-to-properties",
+      "name": "YAML to Properties",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Properties Tool is a tool that converts YAML format to Properties format. It utilizes various dependencies such as js-yaml, json-stringify-pretty-compact, and @he3-kit/utils to provide a seamless conversion experience. \n\nFeatures:\n\n1. Allows users to input YAML data that needs to be converted to Properties format.\n\n2. Automatically detects the input YAML data and converts it to Properties format.\n\n3. Displays the converted Properties data in the output area.\n\nUse Cases:\n\n1. API Development and Testing: Developers often need to view JSON data returned during API development or testing. Using the YAML to Properties Tool, they can easily convert the YAML data to Properties format, making it easier to check the data structure and content.\n\n2. Data Analysis: Data analysts need to process and analyze various YAML data. Using this tool, they can easily convert YAML data to Properties format, making it easier to understand the data structure and content.\n\n3. YAML Data Review: During code review, reviewers can use the YAML to Properties Tool to convert YAML data to Properties format, making it easier to view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Properties",
+        "transform",
+        "YML",
+        "YAML to Properties",
+        "YAML format",
+        "Properties format",
+        "js-yaml",
+        "json-stringify-pretty-compact",
+        "@he3-kit/utils",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "properties-to-yaml",
+        "json-to-properties"
+      ]
+    },
+    {
+      "id": "yaml-to-php",
+      "name": "YAML to PHP",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to PHP Tool is a tool that converts YAML code to PHP code. It uses the js-yaml library to parse the YAML code and then uses the json2php library to convert the parsed object to PHP code. The tool also includes error handling to catch any syntax errors in the YAML code.\n\nFeatures:\n\n1. Converts YAML code to PHP code.\n\n2. Automatically detects and handles syntax errors in the YAML code.\n\n3. Outputs the converted PHP code.\n\nUse Cases:\n\n1. Web Development: When developing web applications, developers often need to convert YAML code to PHP code. This tool makes it easy to do so, saving time and effort.\n\n2. Data Processing: Data analysts often work with YAML code and need to convert it to PHP code for further processing. This tool simplifies the process, allowing analysts to focus on their analysis rather than the conversion process.\n\n3. Code Review: During code review, reviewers may need to convert YAML code to PHP code to better understand the code structure. This tool makes it easy to do so, improving the efficiency of the code review process.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "PHP",
+        "transform",
+        "YML",
+        "YAML to PHP",
+        "convert YAML to PHP",
+        "YAML code to PHP code",
+        "js-yaml library",
+        "json2php library",
+        "syntax errors",
+        "web development",
+        "data processing",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-php"
+      ]
+    },
+    {
+      "id": "yaml-to-pretty",
+      "name": "YAML Formatting",
+      "icon": "appstore-outlined",
+      "version": "1.0.7",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML Formatting Tool is a tool that helps to format YAML strings. It can transform YAML strings into a more readable format by adding spaces and line breaks.\n\nFeatures:\n\n1. Paste or input YAML data that is difficult to read into the tool.\n\n2. The tool automatically detects the input YAML data and formats it.\n\n3. The formatted YAML data is displayed in the output area of the tool.\n\nUse cases:\n\n1. API development and testing: Developers often need to view the returned YAML data when developing or testing APIs. Using the YAML Formatting Tool can transform difficult-to-read YAML data into an easy-to-read format, making it easier to check the data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various YAML data. Using this tool, they can easily format YAML data, thereby better understanding the data structure and content.\n\n3. YAML data review: During code review, reviewers can use the YAML Formatting Tool to format YAML data for easier viewing and understanding of the data structure.",
+      "keywords": [
+        "yaml",
+        "yml",
+        "beautify",
+        "pretty",
+        "prettify",
+        "fmt",
+        "format",
+        "formatter",
+        "validate",
+        "validator",
+        "data analysis",
+        "API development",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-pretty"
+      ]
+    },
+    {
+      "id": "yaml-to-csv",
+      "name": "YAML to CSV",
+      "icon": "appstore-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to CSV Tool is a tool that converts YAML data to CSV format. It can take YAML data as input and convert it to CSV format, making it easier to work with.\n\nFeatures:\n\n1. Allows users to input YAML data that is difficult to read.\n\n2. Automatically detects and converts the YAML data to CSV format.\n\n3. Displays the converted CSV data in the output area of the tool.\n\nUse Cases:\n\n1. API Development and Testing: Developers often need to view the JSON data returned by APIs during development and testing. Using the YAML to CSV Tool, they can easily convert the YAML data to CSV format, making it easier to check the data structure and content.\n\n2. Data Analysis: Data analysts need to process and analyze various types of data, including YAML data. Using this tool, they can easily convert YAML data to CSV format, making it easier to understand the data structure and content.\n\n3. Data Review: During code review, reviewers can use the YAML to CSV Tool to convert YAML data to CSV format, making it easier to view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "CSV",
+        "transform",
+        "YML",
+        "YAML to CSV converter",
+        "YAML data transformation",
+        "CSV data format",
+        "API development",
+        "Data analysis",
+        "Code review"
+      ],
+      "relatedToolId": [
+        "json-to-csv"
+      ]
+    },
+    {
+      "id": "yaml-to-generator",
+      "name": "YAML Generator",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML Generator is a tool that converts YAML data to JSON format. It uses the js-yaml library to parse YAML data and then converts it to JSON format. The tool also provides a sample YAML data and automatically detects if the input data is in YAML format.\n\nFeatures:\n\n1. Converts YAML data to JSON format.\n\n2. Automatically detects if the input data is in YAML format.\n\n3. Provides a sample YAML data for testing.\n\n4. Supports generating JSON data from property files.\n\n5. Supports generating Objective-C interface from YAML data.\n\nUsage:\n\n1. Copy or input the YAML data into the tool.\n\n2. The tool will automatically detect if the input data is in YAML format and convert it to JSON format.\n\n3. The converted JSON data will be displayed in the output area.\n\n4. To generate JSON data from property files, input the property data into the tool and click the \"Convert\" button.\n\n5. To generate Objective-C interface from YAML data, click the \"Objective-C Interface\" button.\n\nUse cases:\n\n1. API development and testing: Developers often need to view the JSON data returned by APIs during development or testing. Using YAML Generator, they can easily convert the YAML data to JSON format and quickly check the data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily convert the YAML data to JSON format and better understand the data structure and content.\n\n3. JSON data review: During code review, reviewers can use YAML Generator to convert the YAML data to JSON format for easier viewing and understanding of the data structure.",
+      "keywords": [
+        "generate",
+        "generator",
+        "yaml",
+        "yml",
+        "YAML to JSON",
+        "YAML converter",
+        "JSON generator",
+        "property files to JSON",
+        "Objective-C interface generator"
+      ],
+      "relatedToolId": [
+        "json-to-generator"
+      ]
+    },
+    {
+      "id": "yaml-to-zod-schema",
+      "name": "YAML to Zod Schema",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Zod Schema Tool is a tool that converts YAML data into Zod Schema. It uses the js-yaml and json-to-zod libraries to parse and convert the YAML data into a Zod Schema. The tool also includes sample data and an input validation function to ensure that the input data is in YAML format.\n\nFeatures:\n\n1. Converts YAML data into Zod Schema.\n\n2. Validates input data to ensure that it is in YAML format.\n\n3. Includes sample data for testing and demonstration purposes.\n\nUsage:\n\n1. Input YAML data into the tool.\n\n2. The tool will automatically convert the YAML data into a Zod Schema.\n\n3. The converted Zod Schema will be displayed in the output area of the tool.\n\nUse Cases:\n\n1. Data Validation: Developers can use the YAML to Zod Schema Tool to validate YAML data and ensure that it conforms to a specific schema.\n\n2. Data Transformation: Data analysts can use the tool to convert YAML data into a Zod Schema, which can then be used for data transformation and analysis.\n\n3. API Development: Developers can use the tool to convert YAML data into a Zod Schema, which can then be used to define the structure of API responses.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Zod Schema",
+        "transform",
+        "YML",
+        "YAML to Zod Schema",
+        "data validation",
+        "data transformation",
+        "API development"
+      ],
+      "relatedToolId": [
+        "json-to-zod-schema"
+      ]
+    },
+    {
+      "id": "yaml-to-sarcastic",
+      "name": "YAML to Sarcastic",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Sarcastic is a tool that allows users to easily convert YAML files into Sarcastic format. This transformation process enables users to quickly and efficiently translate their YAML data into a more readable and humorous format, making it easier to understand and share with others.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Sarcastic",
+        "transform",
+        "YML"
+      ],
+      "relatedToolId": [
+        "json-to-sarcastic"
+      ]
+    },
+    {
+      "id": "yaml-to-scala",
+      "name": "YAML to Scala",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Scala Tool is a tool that converts YAML code to Scala code. It uses js-yaml and transform-json-types libraries to parse and transform the YAML code into Scala code. The tool provides a user-friendly interface for users to input YAML code and get the corresponding Scala code as output.\n\nFeatures:\n\n1. Converts YAML code to Scala code.\n\n2. Provides a user-friendly interface for inputting YAML code.\n\n3. Automatically detects and parses the input YAML code.\n\n4. Outputs the corresponding Scala code in the output area.\n\nUsage:\n\n1. Scala Development: Developers can use the YAML to Scala Tool to convert YAML code to Scala code, which can be used in Scala development.\n\n2. Data Analysis: Data analysts can use the tool to convert YAML data to Scala code, which can be used for data analysis.\n\n3. Code Review: Reviewers can use the tool to convert YAML code to Scala code, which can be used for code review.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Scala",
+        "transform",
+        "YML",
+        "YAML to Scala converter",
+        "YAML to Scala parser",
+        "YAML to Scala transformation",
+        "YAML to Scala code generation",
+        "Scala development tool",
+        "Data analysis tool",
+        "Code review tool"
+      ],
+      "relatedToolId": [
+        "json-to-scala"
+      ]
+    },
+    {
+      "id": "yaml-to-io-ts",
+      "name": "YAML to IO-TS",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to IO-TS Tool is a tool that converts YAML data to IO-TS data. It uses js-yaml and transform-json-types libraries to parse and transform the YAML data to IO-TS data. The tool provides the following features:\n\n1. Input YAML data and output IO-TS data.\n\n2. Automatically detects the input YAML data and transforms it to IO-TS data.\n\n3. Provides a sample YAML data for testing and validation.\n\n4. Provides an auto-fill input condition to check if the input data is in YAML format.\n\nThe tool can be used in the following scenarios:\n\n1. API development and testing: Developers often need to convert YAML data to IO-TS data when developing or testing APIs. This tool can help them quickly transform the YAML data to IO-TS data, making it easier to check the data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various YAML data. This tool can help them easily transform the YAML data to IO-TS data, making it easier to understand the data structure and content.\n\n3. Code review: During code review, reviewers can use this tool to transform YAML data to IO-TS data, making it easier to view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "IO-TS",
+        "transform",
+        "YML",
+        "YAML to IO-TS",
+        "js-yaml",
+        "transform-json-types",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-io-ts"
+      ]
+    },
+    {
+      "id": "yaml-to-big-query-schema",
+      "name": "YAML to Big Query Schema",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Big Query Schema is a powerful tool that allows users to easily convert YAML files into Big Query Schema format. With this tool, users can quickly transform their YML data into a structured format that is compatible with Big Query, making it easy to analyze and visualize their data.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Big Query Schema",
+        "transform",
+        "YML"
+      ],
+      "relatedToolId": [
+        "json-to-big-query-schema"
+      ]
+    },
+    {
+      "id": "yaml-to-typescript-interface",
+      "name": "YAML to TypeScript Interface",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "The YAML to TypeScript Interface tool is a tool that converts the YAML format to a TypeScript interface. It can convert the input YAML string into a TypeScript interface definition, which is convenient for developers to use in TypeScript projects. \n\nFunction description:\n1. Paste or input data in YAML format into the tool. \n\n2. The tool will automatically convert YAML data into JSON format and format it. \n\n3. The tool will automatically convert JSON data into TypeScript interface definitions. \n\n4. The tool provides sample data and the function of automatically filling the input bar, which is convenient for users to use. \n\nUsage scenarios:\n\n1. TypeScript project development: In TypeScript projects, developers usually need to determine the right interface for type checking and code hinting. Using the YAML to TypeScript Interface tool, developers can easily convert YAML data into TypeScript interface definition, providing high development efficiency. \n \n2. Data format conversion: In the process of data format conversion, developers can use the YAML to TypeScript interface tool to convert YAML data into TypeScript interface, which is convenient for subsequent data processing and use. \n\n3. Data structure analysis: When analyzing the data structure, developers can use the YAML to TypeScript Interface tool to convert YAML data into TypeScript interface definition, which is convenient for explaining data structure and content.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "TypeScript Interface",
+        "transform",
+        "YML",
+        "ts",
+        "YAML to TypeScript",
+        "interface generation",
+        "data conversion",
+        "type checking",
+        "code hinting",
+        "data structure analysis"
+      ],
+      "relatedToolId": [
+        "json-to-typescript-interface"
+      ]
+    },
+    {
+      "id": "yaml-to-xml",
+      "name": "YAML to XML",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to XML Tool is a tool that converts YAML data to XML format. It uses the js-yaml and jstoxml libraries to perform the conversion. The tool provides a user-friendly interface for users to input YAML data and get the corresponding XML output.\n\nFeatures:\n\n1. Converts YAML data to XML format.\n\n2. Provides a user-friendly interface for inputting YAML data.\n\n3. Automatically detects input YAML data and converts it to XML format.\n\n4. Displays the converted XML output in the tool's output area.\n\nUsage:\n\n1. Data conversion: Users can use the YAML to XML Tool to convert YAML data to XML format for use in various applications.\n\n2. Data integration: Users can use the tool to integrate YAML data with other XML-based data sources.\n\n3. Data visualization: Users can use the tool to convert YAML data to XML format for visualization in various XML-based data visualization tools.\n\nDependencies:\n\n1. @he3-kit/utils\n\n2. js-yaml\n\n3. jstoxml\n\n4. utils/utils\n\n5. isYaml\n\n6. ErrorLine\n\n7. YAML\n\n8. window.$he3.jsonToOther('objective-c', jsonStr)\n\n9. JSON_SCHEMA\n\n10. Number.parseFloat\n\n11. isNaN\n\n12. isFinite\n\n13. JSON.stringify\n\n14. JSON.parse\n\n15. toXML\n\n16. formatJsonPropMappings\n\n17. formatJsonPath\n\n18. traverseBoth\n\n19. property2json\n\n20. cleanse\n\n21. split\n\n22. forEach\n\n23. entries\n\n24. push\n\n25. join\n\n26. match\n\n27. slice\n\n28. parseInt\n\n29. try-catch\n\n30. throw\n\n31. typeof\n\n32. if-else statements\n\n33. for loops\n\n34. async-await\n\n35. export statements.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "XML",
+        "transform",
+        "YML",
+        "YAML to XML",
+        "YAML data",
+        "XML format",
+        "js-yaml",
+        "jstoxml",
+        "data integration",
+        "data visualization",
+        "user-friendly interface"
+      ],
+      "relatedToolId": [
+        "json-to-xml"
+      ]
+    },
+    {
+      "id": "yaml-to-kotlin-class",
+      "name": "YAML to Kotlin Class",
+      "icon": "appstore-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Kotlin Class Tool is a tool that converts YAML data into Kotlin classes. It uses js-yaml and json-to-kotlin-class libraries to parse and convert YAML data into Kotlin classes. The tool takes YAML data as input and generates Kotlin classes as output.\n\nFeatures:\n\n1. Converts YAML data into Kotlin classes.\n\n2. Automatically detects input YAML data and converts it into Kotlin classes.\n\n3. Generates Kotlin classes with data classes and properties.\n\nUsage:\n\n1. Kotlin Development: Developers can use this tool to convert YAML data into Kotlin classes for their Kotlin projects. This tool can save time and effort in manually creating Kotlin classes.\n\n2. Data Analysis: Data analysts can use this tool to convert YAML data into Kotlin classes for their data analysis projects. This tool can help them to better understand the data structure and content.\n\n3. Code Review: Code reviewers can use this tool to convert YAML data into Kotlin classes for their code review process. This tool can help them to easily view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Kotlin Class",
+        "transform",
+        "YML",
+        "YAML to Kotlin Class",
+        "Kotlin",
+        "data analysis",
+        "code review",
+        "js-yaml",
+        "json-to-kotlin-class"
+      ],
+      "relatedToolId": [
+        "json-to-kotlin-class"
+      ]
+    },
+    {
+      "id": "yaml-to-json-schema",
+      "name": "YAML to JSON Schema",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to JSON Schema Tool is a tool that converts YAML data to JSON Schema format. It uses the js-yaml and json-to-schema-fork libraries to perform the conversion. The tool takes in YAML data as input and outputs JSON Schema data.\n\nFeatures:\n\n1. Converts YAML data to JSON Schema format.\n\n2. Automatically detects input YAML data and converts it to JSON Schema format.\n\n3. Outputs the converted JSON Schema data.\n\nUse Cases:\n\n1. API Development and Testing: Developers often need to view JSON data returned by APIs during development or testing. The YAML to JSON Schema Tool can convert the JSON data to a readable format, making it easier to check the data structure and content.\n\n2. Data Analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily convert the JSON data to a readable format, making it easier to understand the data structure and content.\n\n3. JSON Data Review: During code review, reviewers can use the YAML to JSON Schema Tool to convert JSON data to a readable format, making it easier to view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "JSON Schema",
+        "transform",
+        "YML",
+        "YAML to JSON Schema",
+        "convert YAML to JSON Schema",
+        "js-yaml",
+        "json-to-schema-fork",
+        "API development",
+        "data analysis",
+        "JSON data review"
+      ],
+      "relatedToolId": [
+        "json-to-json-schema"
+      ]
+    },
+    {
+      "id": "yaml-to-crystal-class",
+      "name": "YAML to Crystal Class",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Crystal Class Tool is a tool that converts YAML data into Crystal class. It uses js-yaml library to parse YAML data and then converts it into JSON format. Finally, it uses the $he3.jsonToOther() method to convert the JSON data into Crystal class.\n\nFeatures:\n\n1. Converts YAML data into Crystal class.\n\n2. Automatically detects input YAML data and converts it into Crystal class.\n\n3. Provides sample YAML data for testing.\n\n4. Provides auto-fill input condition for detecting YAML data.\n\nUsage:\n\n1. Copy or input YAML data into the tool.\n\n2. The tool will automatically detect the input YAML data and convert it into Crystal class.\n\n3. The converted Crystal class will be displayed in the output area.\n\nUse cases:\n\n1. API development and testing: Developers often need to view the returned YAML data when developing or testing APIs. Using the YAML to Crystal Class Tool, they can easily convert the YAML data into Crystal class, making it easier to check the data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various YAML data. Using this tool, they can easily convert YAML data into Crystal class, which helps them better understand the data structure and content.\n\n3. Code review: During code review, reviewers can use the YAML to Crystal Class Tool to convert YAML data into Crystal class, making it easier to view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Crystal Class",
+        "transform",
+        "YML",
+        "YAML to Crystal Class",
+        "YAML data",
+        "js-yaml",
+        "JSON format",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-crystal-class"
+      ]
+    },
+    {
+      "id": "yaml-to-elm-module",
+      "name": "YAML to Elm Module",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Elm Module is a tool that converts YAML code to Elm module code. It uses the js-yaml library to parse the YAML code and then converts it to JSON. The resulting JSON is then converted to Elm module code using the $he3.jsonToOther() function.\n\nFeatures:\n\n1. Converts YAML code to Elm module code.\n\n2. Supports automatic detection of input YAML code.\n\n3. Provides a sample YAML code for testing.\n\n4. Supports auto-filling of input condition.\n\nUsage:\n\n1. Elm module development: Developers can use YAML to Elm Module to convert YAML code to Elm module code, which can be used in their Elm projects.\n\n2. YAML to JSON conversion: Users can use YAML to Elm Module to convert YAML code to JSON, which can be used in other applications.\n\n3. Data analysis: Data analysts can use YAML to Elm Module to convert YAML code to Elm module code, which can be used to analyze data in Elm.\n\nDependencies:\n\n1. @he3-kit/utils: A utility library for converting JSON to other formats.\n\n2. js-yaml: A YAML parser and serializer for JavaScript.\n\n3. yaml: A JavaScript library for working with YAML.\n\n4. ErrorLine: A custom error class for handling errors in YAML code.\n\n5. isYaml: A function for checking if a string is valid YAML code.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Elm Module",
+        "transform",
+        "YML",
+        "YAML to Elm Module",
+        "JSON",
+        "parser",
+        "serializer",
+        "data analysis",
+        "utility library"
+      ],
+      "relatedToolId": [
+        "json-to-elm-module"
+      ]
+    },
+    {
+      "id": "yaml-to-pike-class",
+      "name": "YAML to Pike Class",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Pike Class Tool is a tool that converts YAML data into Pike Class code. It uses the js-yaml library to parse YAML data and then converts it into JSON format. The resulting JSON data is then converted into Pike Class code using the He3 Kit's jsonToOther() function.\n\nFeatures:\n\n1. Converts YAML data into Pike Class code.\n\n2. Automatically detects input YAML data and converts it into Pike Class code.\n\n3. Outputs the resulting Pike Class code in the tool's output area.\n\nUse Cases:\n\n1. Pike Class Development: Developers can use the YAML to Pike Class Tool to convert YAML data into Pike Class code, which can then be used in their Pike Class applications.\n\n2. Data Analysis: Data analysts can use the tool to convert YAML data into Pike Class code, which can then be used for data analysis.\n\n3. Code Review: During code review, reviewers can use the tool to convert YAML data into Pike Class code, which can then be used to better understand the data structure and content.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Pike Class",
+        "transform",
+        "YML",
+        "YAML to Pike Class",
+        "YAML data",
+        "Pike Class code",
+        "js-yaml",
+        "jsonToOther()",
+        "He3 Kit",
+        "data analysis",
+        "code review",
+        "data structure",
+        "content"
+      ],
+      "relatedToolId": [
+        "json-to-pike-class"
+      ]
+    },
+    {
+      "id": "yaml-to-haskell-module",
+      "name": "YAML to Haskell Module",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Haskell Module is a tool that converts YAML code to Haskell module code. It utilizes the js-yaml library to parse YAML code and then converts the resulting object to JSON. The JSON is then passed to the $he3.jsonToOther function to convert it to Haskell module code.\n\nFeatures:\n\n1. Converts YAML code to Haskell module code.\n\n2. Automatically detects input language as YAML and output language as Haskell.\n\n3. Provides a sample YAML code for testing.\n\n4. Provides an auto-fill input condition to check if the input is valid YAML code.\n\nUsage:\n\n1. Developers can use this tool to convert YAML code to Haskell module code for use in their projects.\n\n2. Users can input YAML code into the tool and it will automatically convert it to Haskell module code.\n\n3. The tool provides a sample YAML code for testing and an auto-fill input condition to check if the input is valid YAML code.\n\nDependencies:\n\n1. @he3-kit/utils\n\n2. js-yaml\n\n3. YAML\n\n4. ErrorLine\n\n5. $he3.jsonToOther\n\n6. isYaml\n\n7. utils\n\n8. ObjectiveCInterface\n\nYAML to Haskell Module is a useful tool for developers who need to convert YAML code to Haskell module code. It is easy to use and provides a sample YAML code for testing. The tool is also useful for users who need to convert YAML code to Haskell module code for their projects.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Haskell Module",
+        "transform",
+        "YML",
+        "YAML to Haskell conversion",
+        "YAML parser",
+        "Haskell module generator",
+        "YML to Haskell",
+        "YAML to Haskell code"
+      ],
+      "relatedToolId": [
+        "json-to-haskell-module"
+      ]
+    },
+    {
+      "id": "yaml-to-objective-c-interface",
+      "name": "YAML to Objective-C Interface",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Objective-C Interface Tool is a tool that converts YAML data into Objective-C interface code. It uses js-yaml library to parse YAML data and then converts it into JSON format. Finally, it uses the window.$he3.jsonToOther() method to convert the JSON data into Objective-C interface code.\n\nFeatures:\n\n1. Converts YAML data into Objective-C interface code.\n\n2. Automatically detects YAML data and converts it into JSON format.\n\n3. Converts JSON data into Objective-C interface code.\n\n4. Provides sample YAML data for testing.\n\n5. Automatically detects if the input data is in YAML format.\n\nUsage:\n\n1. Copy or input YAML data into the tool.\n\n2. The tool will automatically detect the YAML data and convert it into Objective-C interface code.\n\n3. The converted Objective-C interface code will be displayed in the output area.\n\nUse cases:\n\n1. iOS App Development: Developers can use this tool to convert YAML data into Objective-C interface code for their iOS apps.\n\n2. API Development and Testing: Developers can use this tool to convert YAML data into Objective-C interface code for their APIs.\n\n3. Data Analysis: Data analysts can use this tool to convert YAML data into Objective-C interface code for their data analysis tasks.\n\n4. Code Review: Reviewers can use this tool to convert YAML data into Objective-C interface code for their code review tasks.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Objective-C Interface",
+        "transform",
+        "YML",
+        "YAML to Objective-C Interface",
+        "iOS App Development",
+        "API Development",
+        "Data Analysis",
+        "Code Review"
+      ],
+      "relatedToolId": [
+        "json-to-objective-c-interface"
+      ]
+    },
+    {
+      "id": "yaml-to-sql-schema",
+      "name": "YAML to SQL Schema",
+      "icon": "appstore-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to SQL Schema Tool\n\nThe YAML to SQL Schema tool is a tool that converts YAML data into SQL schema. It analyzes the YAML data and generates SQL statements that can be used to create tables in a database.\n\nFeatures:\n\n1. Converts YAML data into SQL schema.\n\n2. Automatically detects data types and generates appropriate SQL data types.\n\n3. Supports nested data structures and generates sub-tables as needed.\n\nUsage:\n\n1. Input or paste YAML data into the tool.\n\n2. The tool will automatically analyze the data and generate SQL schema.\n\n3. The generated SQL schema can be copied and used to create tables in a database.\n\nUse cases:\n\n1. API development and testing: Developers often need to view JSON data returned by APIs during development and testing. The YAML to SQL Schema tool can convert the JSON data into SQL schema, making it easier to check the data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily convert the JSON data into SQL schema, making it easier to understand the data structure and content.\n\n3. JSON data review: During code review, reviewers can use the YAML to SQL Schema tool to convert JSON data into SQL schema, making it easier to view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "SQL Schema",
+        "transform",
+        "YML",
+        "YAML to SQL",
+        "YAML data conversion",
+        "SQL schema generation",
+        "nested data structures",
+        "data type detection",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-sql-schema"
+      ]
+    },
+    {
+      "id": "yaml-to-sql-schema",
+      "name": "YAML to SQL Schema",
+      "icon": "appstore-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to SQL Schema Tool\n\nThe YAML to SQL Schema tool is a tool that converts YAML data into SQL schema. It analyzes the YAML data and generates SQL statements that can be used to create tables in a database.\n\nFeatures:\n\n1. Converts YAML data into SQL schema.\n\n2. Automatically detects data types and generates appropriate SQL data types.\n\n3. Supports nested data structures and generates sub-tables as needed.\n\nUsage:\n\n1. Input or paste YAML data into the tool.\n\n2. The tool will automatically analyze the data and generate SQL schema.\n\n3. The generated SQL schema can be copied and used to create tables in a database.\n\nUse cases:\n\n1. API development and testing: Developers often need to view JSON data returned by APIs during development and testing. The YAML to SQL Schema tool can convert the JSON data into SQL schema, making it easier to check the data structure and content.\n\n2. Data analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily convert the JSON data into SQL schema, making it easier to understand the data structure and content.\n\n3. JSON data review: During code review, reviewers can use the YAML to SQL Schema tool to convert JSON data into SQL schema, making it easier to view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "SQL Schema",
+        "transform",
+        "YML",
+        "YAML to SQL",
+        "YAML data conversion",
+        "SQL schema generation",
+        "nested data structures",
+        "data type detection",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-sql-schema"
+      ]
+    },
+    {
+      "id": "yaml-to-swift-struct",
+      "name": "YAML to Swift Struct",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Swift Struct Tool is a tool that converts YAML data into Swift Structs. It uses the js-yaml library to parse YAML data and then converts it into a JSON string. The JSON string is then passed to the $he3.jsonToOther() function to convert it into Swift Structs.\n\nFeatures:\n\n1. Converts YAML data into Swift Structs.\n\n2. Automatically detects YAML data and converts it into Swift Structs.\n\n3. Provides a sample YAML data for testing.\n\n4. Provides an auto-fill input condition to detect YAML data.\n\nUsage:\n\n1. Developers can use this tool to convert YAML data into Swift Structs for their iOS projects.\n\n2. Testers can use this tool to verify the correctness of the YAML data before using it in their tests.\n\n3. Technical writers can use this tool to generate Swift Structs from YAML data for their documentation.\n\nDependencies:\n\n1. @he3-kit/utils\n\n2. js-yaml\n\n3. YAML\n\n4. ErrorLine\n\n5. JSON_SCHEMA\n\n6. window.$he3.jsonToOther() function\n\n7. isYaml function\n\n8. yamlExample\n\n9. utils.ts\n\n10. ObjectiveCInterface function\n\n11. yamlToSQLExample\n\n12. yamlGeneratorExample\n\n13. uglyYamlExample\n\n14. propertiesExample\n\n15. JSONToProperty function\n\n16. propertyToJSON function\n\n17. parseErrorLine function\n\n18. objToYaml function\n\n19. jsonToYaml function\n\n20. transformTool function\n\n21. inputHandler function\n\n22. inputLang: 'YAML'\n\n23. outputLang: 'SWIFT'\n\n24. sampleData: yamlExample\n\n25. autoFillInputCondition: isYaml",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Swift Struct",
+        "transform",
+        "YML",
+        "YAML to Swift Struct",
+        "js-yaml",
+        "JSON string",
+        "iOS projects",
+        "testing",
+        "documentation",
+        "auto-fill input",
+        "sample data"
+      ],
+      "relatedToolId": [
+        "json-to-swift-struct"
+      ]
+    },
+    {
+      "id": "yaml-to-c00-struct",
+      "name": "YAML to C++ Struct",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to C++ Struct Tool is a tool that converts YAML data into C++ struct. It uses js-yaml library to parse YAML data and then converts it into JSON format. Finally, it uses the $he3.jsonToOther() function to convert the JSON data into C++ struct.\n\nFeatures:\n\n1. Converts YAML data into C++ struct.\n\n2. Automatically detects input YAML data and converts it into C++ struct.\n\n3. Provides a sample YAML data for testing.\n\n4. Supports auto-fill input condition for detecting YAML data.\n\nUsage:\n\n1. Copy or input YAML data into the tool.\n\n2. The tool will automatically detect the input YAML data and convert it into C++ struct.\n\n3. The converted C++ struct will be displayed in the output area.\n\n4. Use the sample YAML data for testing.\n\n5. The tool supports auto-fill input condition for detecting YAML data.\n\nUse cases:\n\n1. C++ development and testing: Developers often need to convert YAML data into C++ struct for development or testing purposes. This tool provides an easy way to convert YAML data into C++ struct.\n\n2. Data analysis: Data analysts need to analyze various types of data, including YAML data. This tool provides an easy way to convert YAML data into C++ struct, which can be used for data analysis.\n\n3. Code review: During code review, reviewers can use this tool to convert YAML data into C++ struct, which can help them to better understand the data structure and content.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "C++ Struct",
+        "transform",
+        "YML",
+        "YAML to C++ Struct",
+        "YAML data",
+        "js-yaml",
+        "JSON format",
+        "auto-fill input",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-c00-struct"
+      ]
+    },
+    {
+      "id": "yaml-to-dart-class",
+      "name": "YAML to Dart Class",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Dart Class Tool is a tool that converts YAML data into Dart classes. It uses js-yaml library to parse YAML data and then converts it into JSON format. Finally, it uses the window.$he3.jsonToOther() method to convert the JSON data into Dart classes.\n\nFeatures:\n\n1. Converts YAML data into Dart classes.\n\n2. Automatically detects input YAML data and converts it into Dart classes.\n\n3. Provides a sample YAML data for testing.\n\n4. Provides an auto-fill input condition to detect if the input data is in YAML format.\n\nUsage:\n\n1. Developers can use this tool to convert YAML data into Dart classes for their Dart projects.\n\n2. This tool can be used to convert YAML data into Dart classes for data analysis purposes.\n\n3. This tool can be used to convert YAML data into Dart classes for code review purposes.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Dart Class",
+        "transform",
+        "YML",
+        "YAML to Dart Class",
+        "js-yaml",
+        "JSON",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-dart-class"
+      ]
+    },
+    {
+      "id": "yaml-to-rust-struct",
+      "name": "YAML to Rust Struct",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Rust Struct Tool is a tool that converts YAML data into Rust Struct format. It uses the js-yaml library to parse the YAML data and then converts it into a JSON string. The JSON string is then converted into Rust Struct format using the $he3.jsonToOther() function.\n\nFeatures:\n\n1. Converts YAML data into Rust Struct format.\n\n2. Automatically detects input YAML data and converts it into Rust Struct format.\n\n3. Provides a sample YAML data for testing.\n\n4. Provides an auto-fill input condition to detect if the input data is in YAML format.\n\nUsage:\n\n1. Rust Struct Development: Developers can use this tool to convert YAML data into Rust Struct format for use in their Rust applications.\n\n2. Data Analysis: Data analysts can use this tool to convert YAML data into Rust Struct format for analysis and processing.\n\n3. Code Review: Reviewers can use this tool to convert YAML data into Rust Struct format for easier review and understanding of the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Rust Struct",
+        "transform",
+        "YML",
+        "YAML to Rust Struct",
+        "convert YAML to Rust Struct",
+        "YAML data transformation",
+        "Rust Struct development",
+        "data analysis",
+        "code review",
+        "js-yaml library",
+        "JSON string conversion",
+        "auto-fill input detection",
+        "YML format"
+      ],
+      "relatedToolId": [
+        "json-to-rust-struct"
+      ]
+    },
+    {
+      "id": "yaml-to-ruby-module",
+      "name": "YAML to Ruby Module",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Ruby Module is a tool that converts YAML code to Ruby code. It uses the js-yaml library to parse the YAML code and then converts it to JSON format. The JSON data is then converted to Ruby code using the $he3.jsonToOther() method.\n\nFeatures:\n\n1. Converts YAML code to Ruby code.\n\n2. Supports automatic detection of input YAML code.\n\n3. Provides a sample YAML code for testing.\n\n4. Supports auto-filling of input condition.\n\nUsage:\n\n1. Ruby development: Developers can use YAML to Ruby Module to convert YAML code to Ruby code, which can be used in Ruby development.\n\n2. YAML to Ruby conversion: Users can use this tool to convert YAML code to Ruby code for various purposes.\n\n3. Code review: Reviewers can use this tool to convert YAML code to Ruby code for easier review and understanding.\n\nDependencies:\n\n1. @he3-kit/utils\n\n2. js-yaml\n\n3. utils.ts\n\n4. isYaml.ts\n\n5. ErrorLine.ts\n\n6. YAML\n\n7. $he3.jsonToOther() method.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Ruby Module",
+        "transform",
+        "YML",
+        "YAML to Ruby conversion",
+        "YAML code conversion",
+        "Ruby development",
+        "js-yaml",
+        "JSON to Ruby",
+        "YML to Ruby",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-ruby-module"
+      ]
+    },
+    {
+      "id": "yaml-to-python-class",
+      "name": "YAML to Python Class",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Python Class Tool is a tool that converts YAML data into Python class. It uses js-yaml to parse YAML data and then converts it into Python class. The tool provides a sample YAML data for users to test the conversion process. It also provides a function to check if the input data is in YAML format.\n\nFeatures:\n\n1. Converts YAML data into Python class.\n\n2. Uses js-yaml to parse YAML data.\n\n3. Provides a sample YAML data for testing.\n\n4. Checks if the input data is in YAML format.\n\nUsage:\n\n1. Copy or input the YAML data into the tool.\n\n2. Click the \"Convert\" button to convert the YAML data into Python class.\n\n3. The converted Python class will be displayed in the output area.\n\nUse cases:\n\n1. Python development: When developing Python applications, developers often need to convert YAML data into Python class. This tool provides an easy way to do this conversion.\n\n2. Data analysis: Data analysts often work with YAML data. This tool can help them convert YAML data into Python class, which can be used for data analysis.\n\n3. YAML data review: During code review, reviewers can use this tool to convert YAML data into Python class, which can help them better understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Python Class",
+        "transform",
+        "YML",
+        "YAML to Python Class",
+        "js-yaml",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-python-class"
+      ]
+    },
+    {
+      "id": "yaml-to-java-bean",
+      "name": "YAML to Java Bean",
+      "icon": "appstore-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Java Bean Tool is a tool that converts YAML data into Java Bean objects. It uses js-yaml library to parse YAML data and then converts it into Java Bean objects using the json2java function. The tool provides a user-friendly interface to input YAML data and generates Java Bean objects as output.\n\nFeatures:\n\n1. Converts YAML data into Java Bean objects.\n\n2. Provides a user-friendly interface to input YAML data.\n\n3. Generates Java Bean objects as output.\n\n4. Supports auto-fill input condition for YAML data.\n\nUsage:\n\n1. Java Bean Development: Developers can use this tool to convert YAML data into Java Bean objects, which can be used in Java applications.\n\n2. Data Analysis: Data analysts can use this tool to convert YAML data into Java Bean objects, which can be used for data analysis.\n\n3. Code Review: Reviewers can use this tool to convert YAML data into Java Bean objects, which can be used for code review.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "JAVA Bean",
+        "transform",
+        "YML",
+        "YAML to Java Bean",
+        "YAML data",
+        "Java Bean objects",
+        "js-yaml",
+        "json2java",
+        "user-friendly interface",
+        "auto-fill input",
+        "Java Bean Development",
+        "Data Analysis",
+        "Code Review"
+      ],
+      "relatedToolId": [
+        "json-to-java-bean"
+      ]
+    },
+    {
+      "id": "yaml-to-go-struct",
+      "name": "YAML to Go Struct",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to Go Struct Tool is a tool that converts YAML data into Go Struct format. It is a command-line tool that can be used to convert YAML data into Go Struct format. The tool takes YAML data as input and generates Go Struct code as output.\n\nFeatures:\n\n1. Converts YAML data into Go Struct format.\n\n2. Supports flattening of nested YAML data.\n\n3. Automatically detects input YAML data and generates Go Struct code.\n\nUsage:\n\n1. Copy or input YAML data into the tool.\n\n2. The tool will automatically detect the input YAML data and generate Go Struct code.\n\n3. The generated Go Struct code will be displayed in the output area of the tool.\n\nUse Cases:\n\n1. API Development and Testing: Developers often need to view the JSON data returned by APIs during development or testing. Using the YAML to Go Struct tool, they can easily convert the YAML data into Go Struct format, making it easier to check the data structure and content.\n\n2. Data Analysis: Data analysts need to process and analyze various YAML data. Using this tool, they can easily convert YAML data into Go Struct format, making it easier to understand the data structure and content.\n\n3. YAML Data Review: During code review, reviewers can use the YAML to Go Struct tool to convert YAML data into Go Struct format, making it easier to view and understand the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "Go Struct",
+        "transform",
+        "YML",
+        "YAML to Go Struct",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-go-struct"
+      ]
+    },
+    {
+      "id": "yaml-to-json",
+      "name": "YAML to JSON",
+      "icon": "appstore-outlined",
+      "version": "1.0.3",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML to JSON Tool is a tool that converts YAML data to JSON format. It uses the js-yaml library to parse YAML data and the json-stringify-pretty-compact library to format JSON data. The tool also includes error handling to ensure that the input YAML data is valid.\n\nFeatures:\n\n1. Converts YAML data to JSON format.\n\n2. Automatically detects input YAML data and converts it to JSON format.\n\n3. Displays the formatted JSON data in the output area.\n\nUse Cases:\n\n1. API Development and Testing: Developers often need to view JSON data returned by APIs during development or testing. The YAML to JSON Tool can convert the difficult-to-read YAML data to an easy-to-read format, making it easier to check the data structure and content.\n\n2. Data Analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily format JSON data to better understand the data structure and content.\n\n3. JSON Data Review: During code review, reviewers can use the YAML to JSON Tool to format JSON data for easier viewing and understanding of the data structure.",
+      "keywords": [
+        "convert",
+        "YAML",
+        "JSON",
+        "transform",
+        "YML",
+        "YAML to JSON",
+        "YAML data",
+        "JSON format",
+        "js-yaml",
+        "json-stringify-pretty-compact",
+        "error handling",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-yaml"
+      ]
+    },
+    {
+      "id": "yaml-to-minify",
+      "name": "YAML Compressor",
+      "icon": "appstore-outlined",
+      "version": "1.0.4",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "yaml"
+      ],
+      "description": "YAML Compressor is a tool used to compress YAML files into a more compact format. It can be used to reduce the size of YAML files, making them easier to store and transfer.\n\nFeatures:\n\n1. Converts YAML files to JSON format.\n\n2. Compresses the JSON data to reduce its size.\n\n3. Outputs the compressed YAML data.\n\nUse Cases:\n\n1. API Development and Testing: Developers often need to view the JSON data returned by APIs during development or testing. Using YAML Compressor, they can easily convert the YAML data to a more compact format, making it easier to check the data structure and content.\n\n2. Data Analysis: Data analysts need to process and analyze various JSON data. Using this tool, they can easily compress the YAML data, making it easier to understand the data structure and content.\n\n3. Code Review: During code review, reviewers can use YAML Compressor to compress the YAML data, making it easier to view and understand the data structure.",
+      "keywords": [
+        "yaml",
+        "yml",
+        "minify",
+        "compress",
+        "uglify",
+        "compressor",
+        "JSON",
+        "API development",
+        "data analysis",
+        "code review"
+      ],
+      "relatedToolId": [
+        "json-to-minify"
+      ]
+    }
+  ],
+  "dependencies": {
+    "@he3-kit/utils": "latest",
+    "dayjs": "^1.11.7",
+    "generate-schema": "^2.6.0",
+    "js-yaml": "^4.1.0",
+    "json-stringify-pretty-compact": "^4.0.0",
+    "json-to-kotlin-class": "^1.2.0",
+    "json-to-schema-fork": "^1.3.0",
+    "json-to-zod": "^1.1.2",
+    "json2csv": "5.0.7",
+    "json2php": "^0.0.7",
+    "json2ts": "^0.0.7",
+    "jstoxml": "^3.2.5",
+    "sql-formatter": "^12.1.3",
+    "transform-json-types": "^0.7.0",
+    "vue": "^3.2.47",
+    "vue-i18n": "^9.2.2",
+    "yaml": "^2.2.1",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@types/js-yaml": "^4.0.5",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "terser": "^5.16.6",
+    "vite": "^4.1.4"
+  }
+}
