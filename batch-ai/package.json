@@ -32,7 +32,7 @@
       "id": "programming-assistant",
       "name": "Programming Assistant",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.14",
+      "version": "1.1.15",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -51,7 +51,7 @@
       "id": "writing-assistant",
       "name": "Writing Assistant",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -69,7 +69,7 @@
       "id": "summary-content",
       "name": "Summary Content",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -87,7 +87,7 @@
       "id": "think-tank",
       "name": "Think Tank",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -104,7 +104,7 @@
       "id": "writing-title-generator",
       "name": "WritingTitle Generator",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.14",
+      "version": "1.1.15",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -123,7 +123,7 @@
       "id": "perfect-programmer",
       "name": "Perfect Programmer",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -142,7 +142,7 @@
       "id": "database-expert",
       "name": "Database Expert",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "isPublic": true,
       "repository": "",
       "category": [
