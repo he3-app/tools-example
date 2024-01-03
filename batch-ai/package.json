@@ -15,7 +15,7 @@
       "id": "xiaohongshu-generator",
       "name": "Little Red Book",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -32,7 +32,7 @@
       "id": "programming-assistant",
       "name": "Programming Assistant",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -51,7 +51,7 @@
       "id": "writing-assistant",
       "name": "Writing Assistant",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -69,7 +69,7 @@
       "id": "summary-content",
       "name": "Summary Content",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -87,7 +87,7 @@
       "id": "think-tank",
       "name": "Think Tank",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -104,7 +104,7 @@
       "id": "writing-title-generator",
       "name": "WritingTitle Generator",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -123,7 +123,7 @@
       "id": "perfect-programmer",
       "name": "Perfect Programmer",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -142,7 +142,7 @@
       "id": "database-expert",
       "name": "Database Expert",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -161,7 +161,7 @@
       "id": "deep-thinking-assistant",
       "name": "DeepThinking Assistant",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -179,7 +179,7 @@
       "id": "seo-assistant",
       "name": "SEO Assistant",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -198,7 +198,7 @@
       "id": "bug-finder",
       "name": "Bug Hunter",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -219,7 +219,7 @@
       "id": "code-writer",
       "name": "Code Writer",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.4",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -237,7 +237,7 @@
       "id": "comment-generator",
       "name": "Comment Generator",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -255,7 +255,7 @@
       "id": "test-data-generator",
       "name": "Test Data Generator",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -274,7 +274,7 @@
       "id": "code-refactor",
       "name": "Code Refactor",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -293,7 +293,7 @@
       "id": "error-analysis",
       "name": "Error Analysis",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.2",
+      "version": "1.0.4",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -315,7 +315,7 @@
       "id": "code-optimizer",
       "name": "Code Optimizer",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -335,7 +335,7 @@
       "id": "performance-optimizer",
       "name": "Performance Optimizer",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -357,7 +357,7 @@
       "id": "namer",
       "name": "Naming Master",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -378,7 +378,7 @@
       "id": "emoji-assistant",
       "name": "Emoji Assistant",
       "icon": "thunderbolt-outlined",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -398,7 +398,7 @@
       "id": "i18n-trans",
       "name": "I18nTrans Assistant",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "isPublic": true,
       "repository": "",
       "category": [
@@ -416,7 +416,7 @@
       "id": "swagger-doc-helper",
       "name": "Swagger Doc Helper",
       "icon": "thunderbolt-outlined",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "isPublic": true,
       "repository": "",
       "category": [
