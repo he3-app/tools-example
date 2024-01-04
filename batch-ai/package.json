@@ -429,6 +429,234 @@
         "comment"
       ],
       "relatedToolId": []
+    },
+    {
+      "id": "midjourney-prompt-generator",
+      "name": "Midjourney Prompt Generator",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "By filling in detailed and creative descriptions for the provided image, Midjourney is inspired to generate unique and interesting images. This also applies to Stable Diffusion.",
+      "keywords": [
+        "ai",
+        "midjourney",
+        "stable diffusion"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "rephrase",
+      "name": "rephrase",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Rewrite the specified content into multiple versions to avoid text duplication.",
+      "keywords": [
+        "ai",
+        "rewrite",
+        "duplication",
+        "text"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "stand-upomedian",
+      "name": "Stand Upomedian",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Output humorous stand-up comedy based on a certain topic, and try to incorporate elements of everyday life to enhance the audience's sense of empathy.",
+      "keywords": [
+        "ai",
+        "comedy"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "selfish-gene",
+      "name": "Selfish Gene",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Simulate human collective consciousness and predict people's reactions to events. ",
+      "keywords": [
+        "ai",
+        "Simulate human"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "interior-decorator",
+      "name": "Interior Decorator",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Interior Decorator",
+      "keywords": [
+        "ai",
+        "interior decorator"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "fallacy-finder",
+      "name": "Fallacy Finder",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Discovering logical loopholes in language, such as why shampoo recommended by celebrities may not necessarily be trustworthy.",
+      "keywords": [
+        "ai",
+        "logical loopholes"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "variable-and-function-namers",
+      "name": "Variable And Function Namers",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Helps you quickly generate sensible variable or function names to increase code readability",
+      "keywords": [
+        "ai",
+        "Variable",
+        "Function",
+        "Namers"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "stackoverflow-answer",
+      "name": "Stackoverflow Answer",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Simulated programming community to answer your questions and provide solution code.",
+      "keywords": [
+        "ai",
+        "stackoverflow"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "research-report",
+      "name": "Research Report",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "research report",
+      "keywords": [
+        "ai",
+        "research report"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "personal-trainer",
+      "name": "Personal Trainer",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Develop a fitness plan by inputting indicators such as height, weight, age, etc.",
+      "keywords": [
+        "ai",
+        "personal trainer"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "poet",
+      "name": "poet",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Output verses based on the topic or theme.",
+      "keywords": [
+        "ai",
+        "poet"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "word-association-memory",
+      "name": "Word Association Memory",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "contextualized vocabulary memory.",
+      "keywords": [
+        "ai",
+        "vocabulary",
+        "memory"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "algorithm-expert",
+      "name": "Algorithm Expert",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Implementing algorithmic competition problems using C++.",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "C++"
+      ],
+      "relatedToolId": []
     }
   ],
   "dependencies": {
