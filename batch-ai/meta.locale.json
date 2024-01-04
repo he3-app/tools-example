@@ -2352,5 +2352,1356 @@
         "Comente"
       ]
     }
+  },
+  {
+    "id": "midjourney-prompt-generator",
+    "zh-cn": {
+      "$name": "中途提示生成器",
+      "$description": "通过为所提供的图像填写详细且富有创意的描述，Midjourney 受到启发，生成独特且有趣的图像。 这也适用于稳定扩散。",
+      "$keywords": [
+        "人工智能",
+        "中途",
+        "稳定扩散"
+      ]
+    },
+    "zh-tw": {
+      "$name": "中途提示產生器",
+      "$description": "透過為所提供的圖像填寫詳細且富有創意的描述，Midjourney 受到啟發，產生獨特且有趣的圖像。 這也適用於穩定擴散。",
+      "$keywords": [
+        "人工智慧",
+        "中途",
+        "穩定擴散"
+      ]
+    },
+    "en": {
+      "$name": "Midjourney Prompt Generator",
+      "$description": "By filling in detailed and creative descriptions for the provided image, Midjourney is inspired to generate unique and interesting images. This also applies to Stable Diffusion.",
+      "$keywords": [
+        "ai",
+        "midjourney",
+        "stable diffusion"
+      ]
+    },
+    "es": {
+      "$name": "Generador de avisos a mitad del viaje",
+      "$description": "Al completar descripciones detalladas y creativas para la imagen proporcionada, Midjourney se inspira para generar imágenes únicas e interesantes. Esto también se aplica a la difusión estable.",
+      "$keywords": [
+        "ai",
+        "mitad del viaje",
+        "difusión estable"
+      ]
+    },
+    "ja": {
+      "$name": "旅の途中のプロンプトジェネレーター",
+      "$description": "提供された画像に詳細かつ創造的な説明を入力することにより、Midjourney はユニークで興味深い画像を生成するよう促します。 これは安定拡散にも当てはまります。",
+      "$keywords": [
+        "あい",
+        "旅の途中",
+        "安定した拡散"
+      ]
+    },
+    "ko": {
+      "$name": "중간 프롬프트 생성기",
+      "$description": "제공된 이미지에 대한 상세하고 창의적인 설명을 작성함으로써 Midjourney는 독특하고 흥미로운 이미지를 생성하도록 영감을 받았습니다. 이는 안정 확산에도 적용됩니다.",
+      "$keywords": [
+        "일체 포함",
+        "도중에",
+        "안정적인 확산"
+      ]
+    },
+    "de": {
+      "$name": "Generator für Eingabeaufforderungen während der Fahrt",
+      "$description": "Durch das Ausfüllen detaillierter und kreativer Beschreibungen für das bereitgestellte Bild wird Midjourney dazu inspiriert, einzigartige und interessante Bilder zu erstellen. Dies gilt auch für die stabile Diffusion.",
+      "$keywords": [
+        "ai",
+        "mitten auf der Reise",
+        "stabile diffusion"
+      ]
+    },
+    "fr": {
+      "$name": "Générateur d'invites à mi-parcours",
+      "$description": "En remplissant des descriptions détaillées et créatives pour l'image fournie, Midjourney est inspiré pour générer des images uniques et intéressantes. Ceci s'applique également à la diffusion stable.",
+      "$keywords": [
+        "ai",
+        "à mi-parcours",
+        "diffusion stable"
+      ]
+    },
+    "it": {
+      "$name": "Generatore di suggerimenti di metà viaggio",
+      "$description": "Compilando descrizioni dettagliate e creative per l'immagine fornita, Midjourney si ispira a generare immagini uniche e interessanti. Questo vale anche per la diffusione stabile.",
+      "$keywords": [
+        "ai",
+        "metà viaggio",
+        "diffusione stabile"
+      ]
+    },
+    "ru": {
+      "$name": "Генератор подсказок Midjourney",
+      "$description": "Заполняя подробные и креативные описания к предоставленному изображению, Midjourney вдохновляется на создание уникальных и интересных изображений. Это также относится и к стабильной диффузии.",
+      "$keywords": [
+        "ай",
+        "середина пути",
+        "стабильная диффузия"
+      ]
+    },
+    "pt": {
+      "$name": "Gerador de avisos no meio da jornada",
+      "$description": "Ao preencher descrições detalhadas e criativas para a imagem fornecida, Midjourney se inspira para gerar imagens únicas e interessantes. Isto também se aplica à difusão estável.",
+      "$keywords": [
+        "ai",
+        "meio da jornada",
+        "difusão estável"
+      ]
+    }
+  },
+  {
+    "id": "rephrase",
+    "zh-cn": {
+      "$name": "改写",
+      "$description": "将指定内容重写为多个版本，避免文本重复。",
+      "$keywords": [
+        "人工智能",
+        "改写",
+        "复制",
+        "文本"
+      ]
+    },
+    "zh-tw": {
+      "$name": "改寫",
+      "$description": "將指定內容重寫為多個版本，避免文字重複。",
+      "$keywords": [
+        "人工智慧",
+        "改寫",
+        "複製",
+        "文字"
+      ]
+    },
+    "en": {
+      "$name": "rephrase",
+      "$description": "Rewrite the specified content into multiple versions to avoid text duplication.",
+      "$keywords": [
+        "ai",
+        "rewrite",
+        "duplication",
+        "text"
+      ]
+    },
+    "es": {
+      "$name": "expresar de otro modo",
+      "$description": "Vuelva a escribir el contenido especificado en varias versiones para evitar la duplicación de texto.",
+      "$keywords": [
+        "ai",
+        "volver a escribir",
+        "duplicación",
+        "texto"
+      ]
+    },
+    "ja": {
+      "$name": "言い換える",
+      "$description": "テキストの重複を避けるために、指定されたコンテンツを複数のバージョンに書き換えます。",
+      "$keywords": [
+        "あい",
+        "リライト",
+        "複製",
+        "文章"
+      ]
+    },
+    "ko": {
+      "$name": "바꿔 말하다",
+      "$description": "텍스트 중복을 피하기 위해 지정된 내용을 여러 버전으로 다시 작성합니다.",
+      "$keywords": [
+        "일체 포함",
+        "고쳐 쓰기",
+        "복사",
+        "텍스트"
+      ]
+    },
+    "de": {
+      "$name": "umformulieren",
+      "$description": "Schreiben Sie den angegebenen Inhalt in mehrere Versionen um, um Textduplizierungen zu vermeiden.",
+      "$keywords": [
+        "ai",
+        "umschreiben",
+        "Vervielfältigung",
+        "Text"
+      ]
+    },
+    "fr": {
+      "$name": "reformuler",
+      "$description": "Réécrivez le contenu spécifié dans plusieurs versions pour éviter la duplication de texte.",
+      "$keywords": [
+        "ai",
+        "récrire",
+        "reproduction",
+        "texte"
+      ]
+    },
+    "it": {
+      "$name": "riformulare",
+      "$description": "Riscrivere il contenuto specificato in più versioni per evitare la duplicazione del testo.",
+      "$keywords": [
+        "ai",
+        "riscrivere",
+        "duplicazione",
+        "testo"
+      ]
+    },
+    "ru": {
+      "$name": "перефразировать",
+      "$description": "Перепишите указанный контент в несколько версий, чтобы избежать дублирования текста.",
+      "$keywords": [
+        "ай",
+        "переписать",
+        "дублирование",
+        "текст"
+      ]
+    },
+    "pt": {
+      "$name": "reformular",
+      "$description": "Reescreva o conteúdo especificado em várias versões para evitar duplicação de texto.",
+      "$keywords": [
+        "ai",
+        "reescrever",
+        "duplicação",
+        "texto"
+      ]
+    }
+  },
+  {
+    "id": "stand-upomedian",
+    "zh-cn": {
+      "$name": "站起来",
+      "$description": "根据某一话题输出幽默的单口喜剧，并尝试融入日常生活元素，增强观众的共情感。",
+      "$keywords": [
+        "人工智能",
+        "喜剧"
+      ]
+    },
+    "zh-tw": {
+      "$name": "站起來",
+      "$description": "根據某一主題輸出幽默的單口喜劇，並試著融入日常生活元素，增強觀眾的共情感。",
+      "$keywords": [
+        "人工智慧",
+        "喜劇"
+      ]
+    },
+    "en": {
+      "$name": "standUpomedian",
+      "$description": "Output humorous stand-up comedy based on a certain topic, and try to incorporate elements of everyday life to enhance the audience's sense of empathy.",
+      "$keywords": [
+        "ai",
+        "comedy"
+      ]
+    },
+    "es": {
+      "$name": "standUmedian",
+      "$description": "Produce monólogos humorísticos basados ​​en un tema determinado e intenta incorporar elementos de la vida cotidiana para mejorar el sentido de empatía de la audiencia.",
+      "$keywords": [
+        "ai",
+        "comedia"
+      ]
+    },
+    "ja": {
+      "$name": "スタンドアップメディアン",
+      "$description": "特定のトピックに基づいてユーモアのあるスタンダップ コメディを出力し、視聴者の共感を高めるために日常生活の要素を取り入れてみます。",
+      "$keywords": [
+        "あい",
+        "コメディ"
+      ]
+    },
+    "ko": {
+      "$name": "스탠드우포메디언",
+      "$description": "특정 주제를 바탕으로 유머러스한 스탠드업 코미디를 출력하고, 일상생활의 요소를 접목시켜 관객의 공감력을 높이도록 노력하세요.",
+      "$keywords": [
+        "일체 포함",
+        "코메디"
+      ]
+    },
+    "de": {
+      "$name": "standUpomedian",
+      "$description": "Geben Sie humorvolle Stand-up-Comedy zu einem bestimmten Thema heraus und versuchen Sie, Elemente des Alltags zu integrieren, um das Einfühlungsvermögen des Publikums zu stärken.",
+      "$keywords": [
+        "ai",
+        "Komödie"
+      ]
+    },
+    "fr": {
+      "$name": "standUpomédian",
+      "$description": "Produisez des comédies humoristiques basées sur un certain sujet et essayez d'incorporer des éléments de la vie quotidienne pour renforcer le sentiment d'empathie du public.",
+      "$keywords": [
+        "ai",
+        "comédie"
+      ]
+    },
+    "it": {
+      "$name": "standUpomedian",
+      "$description": "Produci una commedia stand-up umoristica basata su un determinato argomento e cerca di incorporare elementi della vita quotidiana per migliorare il senso di empatia del pubblico.",
+      "$keywords": [
+        "ai",
+        "commedia"
+      ]
+    },
+    "ru": {
+      "$name": "стендUpomedian",
+      "$description": "Выпускайте юмористические стендап-комедии, основанные на определенной теме, и постарайтесь включить элементы повседневной жизни, чтобы усилить чувство сопереживания у аудитории.",
+      "$keywords": [
+        "ай",
+        "комедия"
+      ]
+    },
+    "pt": {
+      "$name": "standUpomediano",
+      "$description": "Produza comédia stand-up humorística baseada em um determinado tema e tente incorporar elementos da vida cotidiana para aumentar o senso de empatia do público.",
+      "$keywords": [
+        "ai",
+        "comédia"
+      ]
+    }
+  },
+  {
+    "id": "selfish-gene",
+    "de": {
+      "$name": "egoistischGene",
+      "$description": "Simulieren Sie das menschliche kollektive Bewusstsein und prognostizieren Sie die Reaktionen der Menschen auf Ereignisse.",
+      "$keywords": [
+        "ai",
+        "Simulieren Sie einen Menschen"
+      ]
+    },
+    "ko": {
+      "$name": "이기적인 유전자",
+      "$description": "인간의 집단의식을 시뮬레이션하고 사건에 대한 사람들의 반응을 예측합니다.",
+      "$keywords": [
+        "일체 포함",
+        "인간을 시뮬레이션"
+      ]
+    },
+    "zh-cn": {
+      "$name": "自私的基因",
+      "$description": "模拟人类集体意识并预测人们对事件的反应。",
+      "$keywords": [
+        "人工智能",
+        "模拟人类"
+      ]
+    },
+    "ru": {
+      "$name": "эгоистичныйДжин",
+      "$description": "Моделируйте коллективное сознание человека и предсказывайте реакцию людей на события.",
+      "$keywords": [
+        "ай",
+        "Имитировать человека"
+      ]
+    },
+    "es": {
+      "$name": "gen egoísta",
+      "$description": "Simule la conciencia colectiva humana y prediga las reacciones de las personas ante los acontecimientos.",
+      "$keywords": [
+        "ai",
+        "simular humano"
+      ]
+    },
+    "zh-tw": {
+      "$name": "自私的基因",
+      "$description": "模擬人類集體意識並預測人們對事件的反應。",
+      "$keywords": [
+        "人工智慧",
+        "模擬人類"
+      ]
+    },
+    "it": {
+      "$name": "egoistaGene",
+      "$description": "Simula la coscienza collettiva umana e prevede le reazioni delle persone agli eventi.",
+      "$keywords": [
+        "ai",
+        "Simula l'essere umano"
+      ]
+    },
+    "en": {
+      "$name": "selfishGene",
+      "$description": "Simulate human collective consciousness and predict people's reactions to events. ",
+      "$keywords": [
+        "ai",
+        "Simulate human"
+      ]
+    },
+    "pt": {
+      "$name": "egoístaGene",
+      "$description": "Simule a consciência coletiva humana e preveja as reações das pessoas aos eventos.",
+      "$keywords": [
+        "ai",
+        "Simular humano"
+      ]
+    },
+    "fr": {
+      "$name": "égoïsteGène",
+      "$description": "Simulez la conscience collective humaine et prédisez les réactions des gens aux événements.",
+      "$keywords": [
+        "ai",
+        "Simuler l'humain"
+      ]
+    },
+    "ja": {
+      "$name": "利己的な遺伝子",
+      "$description": "人間の集合意識をシミュレートし、出来事に対する人々の反応を予測します。",
+      "$keywords": [
+        "あい",
+        "人間をシミュレートする"
+      ]
+    }
+  },
+  {
+    "id": "interior-decorator",
+    "zh-cn": {
+      "$name": "内部装修",
+      "$description": "内部装修",
+      "$keywords": [
+        "人工智能",
+        "内部装修"
+      ]
+    },
+    "zh-tw": {
+      "$name": "內部裝潢",
+      "$description": "內部裝潢",
+      "$keywords": [
+        "人工智慧",
+        "內部裝潢"
+      ]
+    },
+    "en": {
+      "$name": "interiorDecorator",
+      "$description": "Interior Decorator",
+      "$keywords": [
+        "ai",
+        "interior decorator"
+      ]
+    },
+    "es": {
+      "$name": "decorador de interiores",
+      "$description": "Decorador de interiores",
+      "$keywords": [
+        "ai",
+        "decorador de interiores"
+      ]
+    },
+    "ko": {
+      "$name": "실내 장식가",
+      "$description": "실내 장식가",
+      "$keywords": [
+        "일체 포함",
+        "실내 장식가"
+      ]
+    },
+    "de": {
+      "$name": "Innenarchitekt",
+      "$description": "Innenarchitekt",
+      "$keywords": [
+        "ai",
+        "Innenarchitekt"
+      ]
+    },
+    "fr": {
+      "$name": "décorateur d'intérieur",
+      "$description": "Décorateur d'intérieur",
+      "$keywords": [
+        "ai",
+        "décorateur d'intérieur"
+      ]
+    },
+    "it": {
+      "$name": "decoratore d'interni",
+      "$description": "Decoratore d'interni",
+      "$keywords": [
+        "ai",
+        "decoratore d'interni"
+      ]
+    },
+    "ru": {
+      "$name": "Декоратор интерьера",
+      "$description": "Декоратор интерьера",
+      "$keywords": [
+        "ай",
+        "декоратор интерьера"
+      ]
+    },
+    "pt": {
+      "$name": "decorador de interiores",
+      "$description": "Decorador de interiores",
+      "$keywords": [
+        "ai",
+        "decorador de interiores"
+      ]
+    },
+    "ja": {
+      "$name": "インテリアデコレーター",
+      "$description": "インテリアデコレーター",
+      "$keywords": [
+        "あい",
+        "インテリアデコレーター"
+      ]
+    }
+  },
+  {
+    "id": "interior-decorator",
+    "zh-cn": {
+      "$name": "内部装修",
+      "$description": "内部装修",
+      "$keywords": [
+        "人工智能",
+        "内部装修"
+      ]
+    },
+    "zh-tw": {
+      "$name": "內部裝潢",
+      "$description": "內部裝潢",
+      "$keywords": [
+        "人工智慧",
+        "內部裝潢"
+      ]
+    },
+    "en": {
+      "$name": "interiorDecorator",
+      "$description": "Interior Decorator",
+      "$keywords": [
+        "ai",
+        "interior decorator"
+      ]
+    },
+    "es": {
+      "$name": "decorador de interiores",
+      "$description": "Decorador de interiores",
+      "$keywords": [
+        "ai",
+        "decorador de interiores"
+      ]
+    },
+    "ja": {
+      "$name": "インテリアデコレーター",
+      "$description": "インテリアデコレーター",
+      "$keywords": [
+        "あい",
+        "インテリアデコレーター"
+      ]
+    },
+    "ko": {
+      "$name": "실내 장식가",
+      "$description": "실내 장식가",
+      "$keywords": [
+        "일체 포함",
+        "실내 장식가"
+      ]
+    },
+    "de": {
+      "$name": "Innenarchitekt",
+      "$description": "Innenarchitekt",
+      "$keywords": [
+        "ai",
+        "Innenarchitekt"
+      ]
+    },
+    "it": {
+      "$name": "decoratore d'interni",
+      "$description": "Decoratore d'interni",
+      "$keywords": [
+        "ai",
+        "decoratore d'interni"
+      ]
+    },
+    "ru": {
+      "$name": "Декоратор интерьера",
+      "$description": "Декоратор интерьера",
+      "$keywords": [
+        "ай",
+        "декоратор интерьера"
+      ]
+    },
+    "pt": {
+      "$name": "decorador de interiores",
+      "$description": "Decorador de interiores",
+      "$keywords": [
+        "ai",
+        "decorador de interiores"
+      ]
+    },
+    "fr": {
+      "$name": "décorateur d'intérieur",
+      "$description": "Décorateur d'intérieur",
+      "$keywords": [
+        "ai",
+        "décorateur d'intérieur"
+      ]
+    }
+  },
+  {
+    "id": "fallacy-finder",
+    "zh-cn": {
+      "$name": "谬误查找器",
+      "$description": "发现语言中的逻辑漏洞，比如为什么明星推荐的洗发水不一定值得信赖。",
+      "$keywords": [
+        "人工智能",
+        "逻辑漏洞"
+      ]
+    },
+    "zh-tw": {
+      "$name": "謬誤查找器",
+      "$description": "發現語言中的邏輯漏洞，例如為什麼明星推薦的洗髮精不一定值得信賴。",
+      "$keywords": [
+        "人工智慧",
+        "邏輯漏洞"
+      ]
+    },
+    "en": {
+      "$name": "fallacyFinder",
+      "$description": "Discovering logical loopholes in language, such as why shampoo recommended by celebrities may not necessarily be trustworthy.",
+      "$keywords": [
+        "ai",
+        "logical loopholes"
+      ]
+    },
+    "es": {
+      "$name": "buscador de falacias",
+      "$description": "Descubrir lagunas lógicas en el lenguaje, como por ejemplo por qué el champú recomendado por celebridades no necesariamente es confiable.",
+      "$keywords": [
+        "ai",
+        "lagunas lógicas"
+      ]
+    },
+    "ja": {
+      "$name": "誤謬ファインダー",
+      "$description": "著名人が推奨するシャンプーが必ずしも信頼できるわけではない理由など、言語の論理的な抜け穴を発見する。",
+      "$keywords": [
+        "あい",
+        "論理的な抜け穴"
+      ]
+    },
+    "ko": {
+      "$name": "오류 찾기",
+      "$description": "연예인이 추천하는 샴푸가 반드시 신뢰할 수 없는 이유와 같은 언어의 논리적 허점을 발견합니다.",
+      "$keywords": [
+        "일체 포함",
+        "논리적 허점"
+      ]
+    },
+    "de": {
+      "$name": "fallacyFinder",
+      "$description": "Entdecken Sie logische Lücken in der Sprache, beispielsweise warum von Prominenten empfohlene Shampoos nicht unbedingt vertrauenswürdig sind.",
+      "$keywords": [
+        "ai",
+        "logische Lücken"
+      ]
+    },
+    "fr": {
+      "$name": "erreurFinder",
+      "$description": "Découvrir des failles logiques dans le langage, par exemple pourquoi les shampooings recommandés par des célébrités ne sont pas nécessairement fiables.",
+      "$keywords": [
+        "ai",
+        "failles logiques"
+      ]
+    },
+    "it": {
+      "$name": "fallacyFinder",
+      "$description": "Scoprire scappatoie logiche nel linguaggio, ad esempio perché lo shampoo consigliato dalle celebrità potrebbe non essere necessariamente affidabile.",
+      "$keywords": [
+        "ai",
+        "scappatoie logiche"
+      ]
+    },
+    "ru": {
+      "$name": "Искатель заблуждений",
+      "$description": "Обнаружение логических лазеек в формулировках, например, почему шампунь, рекомендованный знаменитостями, не обязательно заслуживает доверия.",
+      "$keywords": [
+        "ай",
+        "логические лазейки"
+      ]
+    },
+    "pt": {
+      "$name": "faláciaFinder",
+      "$description": "Descobrir lacunas lógicas na linguagem, como por exemplo, por que o shampoo recomendado por celebridades pode não ser necessariamente confiável.",
+      "$keywords": [
+        "ai",
+        "lacunas lógicas"
+      ]
+    }
+  },
+  {
+    "id": "variable-and-function-namers",
+    "zh-cn": {
+      "$name": "变量和函数命名者",
+      "$description": "帮助您快速生成合理的变量或函数名称以提高代码可读性",
+      "$keywords": [
+        "人工智能",
+        "多变的",
+        "功能",
+        "命名者"
+      ]
+    },
+    "zh-tw": {
+      "$name": "變數和函數命名者",
+      "$description": "幫助您快速產生合理的變數或函數名稱以提高程式碼可讀性",
+      "$keywords": [
+        "人工智慧",
+        "多變的",
+        "功能",
+        "命名者"
+      ]
+    },
+    "en": {
+      "$name": "VariableAndFunctionNamers",
+      "$description": "Helps you quickly generate sensible variable or function names to increase code readability",
+      "$keywords": [
+        "ai",
+        "Variable",
+        "Function",
+        "Namers"
+      ]
+    },
+    "es": {
+      "$name": "Nombres de variables y funciones",
+      "$description": "Le ayuda a generar rápidamente nombres de funciones o variables sensibles para aumentar la legibilidad del código.",
+      "$keywords": [
+        "ai",
+        "Variable",
+        "Función",
+        "Nombres"
+      ]
+    },
+    "ja": {
+      "$name": "変数と関数の名前",
+      "$description": "意味のある変数名または関数名を迅速に生成して、コードの可読性を向上させるのに役立ちます。",
+      "$keywords": [
+        "あい",
+        "変数",
+        "関数",
+        "命名者"
+      ]
+    },
+    "ko": {
+      "$name": "VariableAndFunctionNamers",
+      "$description": "코드 가독성을 높이기 위해 합리적인 변수 또는 함수 이름을 빠르게 생성하는 데 도움이 됩니다.",
+      "$keywords": [
+        "일체 포함",
+        "변하기 쉬운",
+        "기능",
+        "이름자"
+      ]
+    },
+    "de": {
+      "$name": "VariableAndFunctionNamers",
+      "$description": "Hilft Ihnen, schnell sinnvolle Variablen- oder Funktionsnamen zu generieren, um die Lesbarkeit des Codes zu verbessern",
+      "$keywords": [
+        "ai",
+        "Variable",
+        "Funktion",
+        "Namensgeber"
+      ]
+    },
+    "fr": {
+      "$name": "Noms de variables et de fonctions",
+      "$description": "Vous aide à générer rapidement des noms de variables ou de fonctions sensibles pour augmenter la lisibilité du code",
+      "$keywords": [
+        "ai",
+        "Variable",
+        "Fonction",
+        "Noms"
+      ]
+    },
+    "it": {
+      "$name": "NomiVariabiliEFunzioni",
+      "$description": "Ti aiuta a generare rapidamente nomi di variabili o funzioni sensibili per aumentare la leggibilità del codice",
+      "$keywords": [
+        "ai",
+        "Variabile",
+        "Funzione",
+        "Nominatori"
+      ]
+    },
+    "ru": {
+      "$name": "Имя переменной и функции",
+      "$description": "Помогает быстро генерировать разумные имена переменных или функций для повышения читаемости кода.",
+      "$keywords": [
+        "ай",
+        "Переменная",
+        "Функция",
+        "Намерители"
+      ]
+    },
+    "pt": {
+      "$name": "Nomeadores de variáveis ​​e funções",
+      "$description": "Ajuda a gerar rapidamente variáveis ​​ou nomes de funções sensatos para aumentar a legibilidade do código",
+      "$keywords": [
+        "ai",
+        "Variável",
+        "Função",
+        "Nomeadores"
+      ]
+    }
+  },
+  {
+    "id": "stackoverflow-answer",
+    "zh-cn": {
+      "$name": "Stackoverflow答案",
+      "$description": "模拟编程社区为您解答问题并提供解决方案代码。",
+      "$keywords": [
+        "人工智能",
+        "堆栈溢出"
+      ]
+    },
+    "zh-tw": {
+      "$name": "Stackoverflow答案",
+      "$description": "模擬程式設計社群為您解答問題並提供解決方案程式碼。",
+      "$keywords": [
+        "人工智慧",
+        "堆疊溢位"
+      ]
+    },
+    "en": {
+      "$name": "StackoverflowAnswer",
+      "$description": "Simulated programming community to answer your questions and provide solution code.",
+      "$keywords": [
+        "ai",
+        "stackoverflow"
+      ]
+    },
+    "es": {
+      "$name": "StackoverflowRespuesta",
+      "$description": "Comunidad de programación simulada para responder sus preguntas y proporcionar código de solución.",
+      "$keywords": [
+        "ai",
+        "desbordamiento de pila"
+      ]
+    },
+    "ja": {
+      "$name": "スタックオーバーフロー回答",
+      "$description": "質問に答え、ソリューション コードを提供するシミュレートされたプログラミング コミュニティ。",
+      "$keywords": [
+        "あい",
+        "スタックオーバーフロー"
+      ]
+    },
+    "ko": {
+      "$name": "스택오버플로우답변",
+      "$description": "귀하의 질문에 답변하고 솔루션 코드를 제공하는 시뮬레이션 프로그래밍 커뮤니티입니다.",
+      "$keywords": [
+        "일체 포함",
+        "스택 오버플로"
+      ]
+    },
+    "de": {
+      "$name": "StackoverflowAntwort",
+      "$description": "Simulierte Programmiergemeinschaft, die Ihre Fragen beantwortet und Lösungscode bereitstellt.",
+      "$keywords": [
+        "ai",
+        "Paketüberfluss"
+      ]
+    },
+    "fr": {
+      "$name": "StackoverflowRéponse",
+      "$description": "Communauté de programmation simulée pour répondre à vos questions et fournir le code de la solution.",
+      "$keywords": [
+        "ai",
+        "débordement de pile"
+      ]
+    },
+    "it": {
+      "$name": "StackoverflowRisposta",
+      "$description": "Comunità di programmazione simulata per rispondere alle tue domande e fornire il codice della soluzione.",
+      "$keywords": [
+        "ai",
+        "stackoverflow"
+      ]
+    },
+    "ru": {
+      "$name": "StackoverflowОтвет",
+      "$description": "Сообщество симулированных программистов, которое ответит на ваши вопросы и предоставит код решения.",
+      "$keywords": [
+        "ай",
+        "переполнение стека"
+      ]
+    },
+    "pt": {
+      "$name": "Resposta Stackoverflow",
+      "$description": "Comunidade de programação simulada para responder às suas perguntas e fornecer o código da solução.",
+      "$keywords": [
+        "ai",
+        "fluxo de pilha"
+      ]
+    }
+  },
+  {
+    "id": "research-report",
+    "en": {
+      "$name": "ResearchReport",
+      "$description": "research report",
+      "$keywords": [
+        "ai",
+        "research report"
+      ]
+    },
+    "es": {
+      "$name": "Informe de investigación",
+      "$description": "Informe de investigación",
+      "$keywords": [
+        "ai",
+        "Informe de investigación"
+      ]
+    },
+    "ko": {
+      "$name": "연구 보고서",
+      "$description": "연구 보고서",
+      "$keywords": [
+        "일체 포함",
+        "연구 보고서"
+      ]
+    },
+    "pt": {
+      "$name": "Relatório de pesquisa",
+      "$description": "relatório de pesquisa",
+      "$keywords": [
+        "ai",
+        "relatório de pesquisa"
+      ]
+    },
+    "ru": {
+      "$name": "Исследовательский отчет",
+      "$description": "исследовательский отчет",
+      "$keywords": [
+        "ай",
+        "исследовательский отчет"
+      ]
+    },
+    "it": {
+      "$name": "Rapporto di ricerca",
+      "$description": "rapporto di ricerca",
+      "$keywords": [
+        "ai",
+        "rapporto di ricerca"
+      ]
+    },
+    "fr": {
+      "$name": "Rapport de recherche",
+      "$description": "rapport de recherche",
+      "$keywords": [
+        "ai",
+        "rapport de recherche"
+      ]
+    },
+    "zh-cn": {
+      "$name": "研究报告",
+      "$description": "研究报告",
+      "$keywords": [
+        "人工智能",
+        "研究报告"
+      ]
+    },
+    "de": {
+      "$name": "Forschungsbericht",
+      "$description": "Forschungsbericht",
+      "$keywords": [
+        "ai",
+        "Forschungsbericht"
+      ]
+    },
+    "ja": {
+      "$name": "調査報告書",
+      "$description": "調査報告書",
+      "$keywords": [
+        "あい",
+        "調査報告書"
+      ]
+    },
+    "zh-tw": {
+      "$name": "研究報告",
+      "$description": "研究報告",
+      "$keywords": [
+        "人工智慧",
+        "研究報告"
+      ]
+    }
+  },
+  {
+    "id": "personal-trainer",
+    "en": {
+      "$name": "personal trainer",
+      "$description": "Develop a fitness plan by inputting indicators such as height, weight, age, etc.",
+      "$keywords": [
+        "ai",
+        "personal trainer"
+      ]
+    },
+    "zh-cn": {
+      "$name": "私人教练",
+      "$description": "通过输入身高、体重、年龄等指标来制定健身计划。",
+      "$keywords": [
+        "人工智能",
+        "私人教练"
+      ]
+    },
+    "es": {
+      "$name": "entrenador personal",
+      "$description": "Desarrolle un plan de acondicionamiento físico ingresando indicadores como altura, peso, edad, etc.",
+      "$keywords": [
+        "ai",
+        "entrenador personal"
+      ]
+    },
+    "zh-tw": {
+      "$name": "私人教練",
+      "$description": "透過輸入身高、體重、年齡等指標來制定健身計畫。",
+      "$keywords": [
+        "人工智慧",
+        "私人教練"
+      ]
+    },
+    "de": {
+      "$name": "personalTrainer",
+      "$description": "Entwickeln Sie einen Fitnessplan, indem Sie Indikatoren wie Größe, Gewicht, Alter usw. eingeben.",
+      "$keywords": [
+        "ai",
+        "persönlicher Trainer"
+      ]
+    },
+    "fr": {
+      "$name": "entraîneur personnel",
+      "$description": "Élaborez un plan de remise en forme en saisissant des indicateurs tels que la taille, le poids, l'âge, etc.",
+      "$keywords": [
+        "ai",
+        "entraîneur personnel"
+      ]
+    },
+    "ko": {
+      "$name": "개인 트레이너",
+      "$description": "키, 몸무게, 나이 등의 지표를 입력하여 피트니스 계획을 수립합니다.",
+      "$keywords": [
+        "일체 포함",
+        "개인 트레이너"
+      ]
+    },
+    "pt": {
+      "$name": "treinador pessoal",
+      "$description": "Desenvolva um plano de condicionamento físico inserindo indicadores como altura, peso, idade, etc.",
+      "$keywords": [
+        "ai",
+        "treinador pessoal"
+      ]
+    },
+    "ru": {
+      "$name": "персональный тренер",
+      "$description": "Разработайте фитнес-план, введя такие показатели, как рост, вес, возраст и т. д.",
+      "$keywords": [
+        "ай",
+        "персональный тренер"
+      ]
+    },
+    "ja": {
+      "$name": "個人トレーナー",
+      "$description": "身長、体重、年齢などの指標を入力してフィットネス プランを作成します。",
+      "$keywords": [
+        "あい",
+        "個人トレーナー"
+      ]
+    },
+    "it": {
+      "$name": "allenatore personale",
+      "$description": "Sviluppa un piano di fitness inserendo indicatori come altezza, peso, età, ecc.",
+      "$keywords": [
+        "ai",
+        "allenatore personale"
+      ]
+    }
+  },
+  {
+    "id": "poet",
+    "zh-cn": {
+      "$name": "诗人",
+      "$description": "根据主题或主题输出经文。",
+      "$keywords": [
+        "人工智能",
+        "诗人"
+      ]
+    },
+    "zh-tw": {
+      "$name": "詩人",
+      "$description": "根據主題或主題輸出經文。",
+      "$keywords": [
+        "人工智慧",
+        "詩人"
+      ]
+    },
+    "en": {
+      "$name": "poet",
+      "$description": "Output verses based on the topic or theme.",
+      "$keywords": [
+        "ai",
+        "poet"
+      ]
+    },
+    "es": {
+      "$name": "poeta",
+      "$description": "Produce versos basados ​​en el tema o tema.",
+      "$keywords": [
+        "ai",
+        "poeta"
+      ]
+    },
+    "ja": {
+      "$name": "詩人",
+      "$description": "トピックやテーマに基づいて詩を出力します。",
+      "$keywords": [
+        "あい",
+        "詩人"
+      ]
+    },
+    "ko": {
+      "$name": "시인",
+      "$description": "주제나 주제에 따라 구절을 출력합니다.",
+      "$keywords": [
+        "일체 포함",
+        "시인"
+      ]
+    },
+    "de": {
+      "$name": "Dichter",
+      "$description": "Geben Sie Verse basierend auf dem Thema oder Thema aus.",
+      "$keywords": [
+        "ai",
+        "Dichter"
+      ]
+    },
+    "fr": {
+      "$name": "poète",
+      "$description": "Versets de sortie basés sur le sujet ou le thème.",
+      "$keywords": [
+        "ai",
+        "poète"
+      ]
+    },
+    "it": {
+      "$name": "poeta",
+      "$description": "Versetti di output basati sull'argomento o sul tema.",
+      "$keywords": [
+        "ai",
+        "poeta"
+      ]
+    },
+    "ru": {
+      "$name": "поэт",
+      "$description": "Вывод стихов по теме или теме.",
+      "$keywords": [
+        "ай",
+        "поэт"
+      ]
+    },
+    "pt": {
+      "$name": "poeta",
+      "$description": "Produza versículos com base no tópico ou tema.",
+      "$keywords": [
+        "ai",
+        "poeta"
+      ]
+    }
+  },
+  {
+    "id": "word-association-memory",
+    "zh-cn": {
+      "$name": "词联想记忆",
+      "$description": "情境化词汇记忆。",
+      "$keywords": [
+        "人工智能",
+        "词汇",
+        "记忆"
+      ]
+    },
+    "zh-tw": {
+      "$name": "詞聯想記憶",
+      "$description": "情境化詞彙記憶。",
+      "$keywords": [
+        "人工智慧",
+        "詞彙",
+        "記憶"
+      ]
+    },
+    "en": {
+      "$name": "wordAssociationMemory",
+      "$description": "contextualized vocabulary memory.",
+      "$keywords": [
+        "ai",
+        "vocabulary",
+        "memory"
+      ]
+    },
+    "es": {
+      "$name": "palabraAsociaciónMemoria",
+      "$description": "Memoria de vocabulario contextualizado.",
+      "$keywords": [
+        "ai",
+        "vocabulario",
+        "memoria"
+      ]
+    },
+    "ja": {
+      "$name": "単語連想記憶",
+      "$description": "文脈に応じた語彙記憶。",
+      "$keywords": [
+        "あい",
+        "語彙",
+        "メモリ"
+      ]
+    },
+    "ko": {
+      "$name": "단어연상메모리",
+      "$description": "상황화된 어휘 기억.",
+      "$keywords": [
+        "일체 포함",
+        "어휘",
+        "메모리"
+      ]
+    },
+    "de": {
+      "$name": "WortAssoziationSpeicher",
+      "$description": "kontextualisiertes Vokabelgedächtnis.",
+      "$keywords": [
+        "ai",
+        "Wortschatz",
+        "Erinnerung"
+      ]
+    },
+    "fr": {
+      "$name": "motAssociationMémoire",
+      "$description": "mémoire de vocabulaire contextualisée.",
+      "$keywords": [
+        "ai",
+        "vocabulaire",
+        "mémoire"
+      ]
+    },
+    "it": {
+      "$name": "parolaAssociazioneMemoria",
+      "$description": "memoria del vocabolario contestualizzato.",
+      "$keywords": [
+        "ai",
+        "vocabolario",
+        "memoria"
+      ]
+    },
+    "ru": {
+      "$name": "словоАссоциацияПамять",
+      "$description": "контекстуальная словарная память.",
+      "$keywords": [
+        "ай",
+        "словарный запас",
+        "Память"
+      ]
+    },
+    "pt": {
+      "$name": "palavraAssociaçãoMemória",
+      "$description": "memória de vocabulário contextualizada.",
+      "$keywords": [
+        "ai",
+        "vocabulário",
+        "memória"
+      ]
+    }
+  },
+  {
+    "id": "algorithm-expert",
+    "zh-cn": {
+      "$name": "算法专家",
+      "$description": "使用 C++ 实现算法竞争问题。",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "C++"
+      ]
+    },
+    "zh-tw": {
+      "$name": "演算法專家",
+      "$description": "使用 C++ 實作演算法競爭問題。",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "C++"
+      ]
+    },
+    "es": {
+      "$name": "Experto en algoritmos",
+      "$description": "Implementación de problemas algorítmicos de competencia usando C++.",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "C++"
+      ]
+    },
+    "pt": {
+      "$name": "Especialista em algoritmos",
+      "$description": "Implementação de problemas de competição algorítmica usando C++.",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "C++"
+      ]
+    },
+    "en": {
+      "$name": "AlgorithmExpert",
+      "$description": "Implementing algorithmic competition problems using C++.",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "C++"
+      ]
+    },
+    "it": {
+      "$name": "AlgorithmExpert",
+      "$description": "Implementazione di problemi di concorrenza algoritmica utilizzando C++.",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "C++"
+      ]
+    },
+    "ko": {
+      "$name": "알고리즘전문가",
+      "$description": "C++를 사용하여 알고리즘 경쟁 문제를 구현합니다.",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "C++"
+      ]
+    },
+    "ru": {
+      "$name": "АлгоритмЭксперт",
+      "$description": "Реализация алгоритмических задач конкуренции с использованием C++.",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "С++"
+      ]
+    },
+    "ja": {
+      "$name": "アルゴリズムの専門家",
+      "$description": "C++ を使用してアルゴリズムの競合問題を実装します。",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "C++"
+      ]
+    },
+    "fr": {
+      "$name": "Expert en algorithme",
+      "$description": "Implémentation de problèmes de concurrence algorithmique en C++.",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "C++"
+      ]
+    },
+    "de": {
+      "$name": "AlgorithmusExperte",
+      "$description": "Implementierung algorithmischer Wettbewerbsprobleme mit C++.",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "C++"
+      ]
+    }
   }
 ]
