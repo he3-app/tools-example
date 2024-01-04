@@ -469,7 +469,7 @@
     },
     {
       "id": "stand-upomedian",
-      "name": "standUpomedian",
+      "name": "Stand Upomedian",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -486,7 +486,7 @@
     },
     {
       "id": "selfish-gene",
-      "name": "selfishGene",
+      "name": "Selfish Gene",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -503,24 +503,7 @@
     },
     {
       "id": "interior-decorator",
-      "name": "interiorDecorator",
-      "icon": "thunderbolt-outlined",
-      "version": "1.0.0",
-      "isPublic": true,
-      "repository": "",
-      "category": [
-        "ai"
-      ],
-      "description": "Interior Decorator",
-      "keywords": [
-        "ai",
-        "interior decorator"
-      ],
-      "relatedToolId": []
-    },
-    {
-      "id": "interior-decorator",
-      "name": "interiorDecorator",
+      "name": "Interior Decorator",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -537,7 +520,7 @@
     },
     {
       "id": "fallacy-finder",
-      "name": "fallacyFinder",
+      "name": "Fallacy Finder",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -554,7 +537,7 @@
     },
     {
       "id": "variable-and-function-namers",
-      "name": "VariableAndFunctionNamers",
+      "name": "Variable And Function Namers",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -573,7 +556,7 @@
     },
     {
       "id": "stackoverflow-answer",
-      "name": "StackoverflowAnswer",
+      "name": "Stackoverflow Answer",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -590,7 +573,7 @@
     },
     {
       "id": "research-report",
-      "name": "ResearchReport",
+      "name": "Research Report",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -607,7 +590,7 @@
     },
     {
       "id": "personal-trainer",
-      "name": "personalTrainer",
+      "name": "Personal Trainer",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -641,7 +624,7 @@
     },
     {
       "id": "word-association-memory",
-      "name": "wordAssociationMemory",
+      "name": "Word Association Memory",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
@@ -659,7 +642,7 @@
     },
     {
       "id": "algorithm-expert",
-      "name": "AlgorithmExpert",
+      "name": "Algorithm Expert",
       "icon": "thunderbolt-outlined",
       "version": "1.0.0",
       "isPublic": true,
