@@ -657,6 +657,150 @@
         "C++"
       ],
       "relatedToolId": []
+    },
+    {
+      "id": "weChat-mini-program",
+      "name": "WeChat MiniProgram Assistant",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Auxiliary WeChat mini program development.",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "weChat"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "travel-itinerary",
+      "name": "Travel Itinerary",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Based on your travel destination, budget, time, and requirements, AI can roughly plan your trip. ",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "travel"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "video-speech-copywriting",
+      "name": "Video Speech Copywriting",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Generate youtube popular style video spoken word copy.",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "youtube"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "expanded-news",
+      "name": "Expanded News",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "expand news",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "news"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "culinary-reviews",
+      "name": "Culinary Reviews",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Culinary Reviews Generator",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "reviews"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "positive-evaluation-of-products",
+      "name": "Positive Evaluation Of Products",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Positive Evaluation Of Products",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "reviews"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "negative-evaluation-of-products",
+      "name": "Negative Evaluation Of Products",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Negative Evaluation Of Products",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "reviews"
+      ],
+      "relatedToolId": []
+    },
+    {
+      "id": "gift-ideas",
+      "name": "Gift Ideas",
+      "icon": "thunderbolt-outlined",
+      "version": "1.0.0",
+      "isPublic": true,
+      "repository": "",
+      "category": [
+        "ai"
+      ],
+      "description": "Gift Ideas",
+      "keywords": [
+        "ai",
+        "algorithmic",
+        "ideas"
+      ],
+      "relatedToolId": []
     }
   ],
   "dependencies": {

@@ -3612,5 +3612,821 @@
         "C++"
       ]
     }
+  },
+  {
+    "id": "weChat-mini-program",
+    "ko": {
+      "$name": "WeChat Mini프로그램 도우미",
+      "$description": "보조 WeChat 미니 프로그램 개발.",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "위챗"
+      ]
+    },
+    "en": {
+      "$name": "WeChat MiniProgram Assistant",
+      "$description": "Auxiliary WeChat mini program development.",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "weChat"
+      ]
+    },
+    "es": {
+      "$name": "Asistente del miniprograma WeChat",
+      "$description": "Desarrollo de miniprogramas auxiliares WeChat.",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "nosotroschateamos"
+      ]
+    },
+    "it": {
+      "$name": "Assistente WeChat MiniProgram",
+      "$description": "Sviluppo del mini programma WeChat ausiliario.",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "weChat"
+      ]
+    },
+    "ru": {
+      "$name": "WeChat MiniProgram Assistant",
+      "$description": "Разработка вспомогательной мини-программы WeChat.",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "мыЧат"
+      ]
+    },
+    "zh-tw": {
+      "$name": "微信小程式助手",
+      "$description": "輔助微信小程式開發。",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "微信"
+      ]
+    },
+    "zh-cn": {
+      "$name": "微信小程序助手",
+      "$description": "辅助微信小程序开发。",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "微信"
+      ]
+    },
+    "de": {
+      "$name": "WeChat MiniProgramm-Assistent",
+      "$description": "Entwicklung des WeChat-Hilfsprogramms im Miniformat.",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "weChat"
+      ]
+    },
+    "fr": {
+      "$name": "Assistant du mini-programme WeChat",
+      "$description": "Développement de mini-programmes WeChat auxiliaires.",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "WeChat"
+      ]
+    },
+    "ja": {
+      "$name": "WeChat ミニプログラム アシスタント",
+      "$description": "補助的な WeChat ミニプログラム開発。",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "微信"
+      ]
+    },
+    "pt": {
+      "$name": "Assistente de miniprograma WeChat",
+      "$description": "Desenvolvimento de miniprograma WeChat auxiliar.",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "nósChat"
+      ]
+    }
+  },
+  {
+    "id": "travel-itinerary",
+    "de": {
+      "$name": "Reiseverlauf",
+      "$description": "Basierend auf Ihrem Reiseziel, Budget, Zeit und Anforderungen kann KI Ihre Reise grob planen.",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "reisen"
+      ]
+    },
+    "ja": {
+      "$name": "旅行予定",
+      "$description": "旅行の目的地、予算、時間、要件に基づいて、AI が大まかな旅行を計画します。",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "旅行"
+      ]
+    },
+    "en": {
+      "$name": "Travel Itinerary",
+      "$description": "Based on your travel destination, budget, time, and requirements, AI can roughly plan your trip. ",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "travel"
+      ]
+    },
+    "es": {
+      "$name": "Itinerario de viaje",
+      "$description": "Según su destino de viaje, presupuesto, tiempo y requisitos, la IA puede planificar su viaje de forma aproximada.",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "viajar"
+      ]
+    },
+    "fr": {
+      "$name": "Itinéraire de voyage",
+      "$description": "En fonction de votre destination de voyage, de votre budget, de votre temps et de vos exigences, l'IA peut planifier approximativement votre voyage.",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "voyage"
+      ]
+    },
+    "zh-tw": {
+      "$name": "旅遊行程",
+      "$description": "AI可以根據你的旅行目的地、預算、時間、需求，大致規劃你的行程。",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "旅行"
+      ]
+    },
+    "zh-cn": {
+      "$name": "旅游行程",
+      "$description": "AI可以根据你的旅行目的地、预算、时间、需求，大致规划你的行程。",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "旅行"
+      ]
+    },
+    "it": {
+      "$name": "Itinerario di viaggio",
+      "$description": "In base alla destinazione del viaggio, al budget, al tempo e ai requisiti, l’intelligenza artificiale può pianificare approssimativamente il tuo viaggio.",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "viaggio"
+      ]
+    },
+    "ru": {
+      "$name": "Маршрут путешествия",
+      "$description": "В зависимости от пункта назначения, бюджета, времени и требований ИИ может примерно спланировать вашу поездку.",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "путешествовать"
+      ]
+    },
+    "pt": {
+      "$name": "Itinerário de viagem",
+      "$description": "Com base no destino da viagem, orçamento, tempo e requisitos, a IA pode planejar aproximadamente sua viagem.",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "viagem"
+      ]
+    },
+    "ko": {
+      "$name": "여행일정",
+      "$description": "여행 목적지, 예산, 시간, 요구 사항을 기반으로 AI가 대략적인 여행 계획을 세울 수 있습니다.",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "여행하다"
+      ]
+    }
+  },
+  {
+    "id": "video-speech-copywriting",
+    "ko": {
+      "$name": "영상 연설 카피라이팅",
+      "$description": "YouTube 인기 스타일 비디오 음성 단어 사본을 생성합니다.",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "유튜브"
+      ]
+    },
+    "zh-tw": {
+      "$name": "視訊演講文案",
+      "$description": "產生 YouTube 流行風格影片口語副本。",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "youtube"
+      ]
+    },
+    "en": {
+      "$name": "Video Speech Copywriting",
+      "$description": "Generate youtube popular style video spoken word copy.",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "youtube"
+      ]
+    },
+    "zh-cn": {
+      "$name": "视频演讲文案",
+      "$description": "生成 YouTube 流行风格视频口语副本。",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "YouTube"
+      ]
+    },
+    "es": {
+      "$name": "Redacción de discursos en vídeo",
+      "$description": "Genere una copia de la palabra hablada de un video de estilo popular de YouTube.",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "YouTube"
+      ]
+    },
+    "ja": {
+      "$name": "ビデオスピーチのコピーライティング",
+      "$description": "YouTube の人気スタイルのビデオの話し言葉のコピーを生成します。",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "ユーチューブ"
+      ]
+    },
+    "de": {
+      "$name": "Texten von Videoreden",
+      "$description": "Erstellen Sie eine Spoken-Word-Kopie für Videos im populären YouTube-Stil.",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "Youtube"
+      ]
+    },
+    "fr": {
+      "$name": "Rédaction de discours vidéo",
+      "$description": "Générez une copie vocale de vidéo de style populaire YouTube.",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "Youtube"
+      ]
+    },
+    "pt": {
+      "$name": "Redação de fala em vídeo",
+      "$description": "Gere uma cópia de palavra falada de vídeo de estilo popular do YouTube.",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "YouTube"
+      ]
+    },
+    "it": {
+      "$name": "Copywriting per discorsi video",
+      "$description": "Genera una copia di parole parlate per video in stile popolare di YouTube.",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "Youtube"
+      ]
+    },
+    "ru": {
+      "$name": "Видео Речевой Копирайтинг",
+      "$description": "Создайте копию устного видео в популярном стиле YouTube.",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "YouTube"
+      ]
+    }
+  },
+  {
+    "id": "expanded-news",
+    "en": {
+      "$name": "Expanded News",
+      "$description": "expand news",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "news"
+      ]
+    },
+    "ko": {
+      "$name": "확장된 뉴스",
+      "$description": "뉴스 펼치기",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "소식"
+      ]
+    },
+    "es": {
+      "$name": "Noticias ampliadas",
+      "$description": "ampliar noticias",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "noticias"
+      ]
+    },
+    "ja": {
+      "$name": "拡大ニュース",
+      "$description": "ニュースを展開する",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "ニュース"
+      ]
+    },
+    "de": {
+      "$name": "Erweiterte Nachrichten",
+      "$description": "Neuigkeiten erweitern",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "Nachricht"
+      ]
+    },
+    "pt": {
+      "$name": "Notícias Expandidas",
+      "$description": "expandir notícias",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "notícias"
+      ]
+    },
+    "zh-cn": {
+      "$name": "扩展新闻",
+      "$description": "展开新闻",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "消息"
+      ]
+    },
+    "fr": {
+      "$name": "Nouvelles élargies",
+      "$description": "développer les actualités",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "nouvelles"
+      ]
+    },
+    "zh-tw": {
+      "$name": "擴展新聞",
+      "$description": "展開新聞",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "訊息"
+      ]
+    },
+    "it": {
+      "$name": "Notizie ampliate",
+      "$description": "ampliare le notizie",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "notizia"
+      ]
+    },
+    "ru": {
+      "$name": "Расширенные новости",
+      "$description": "расширить новости",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "Новости"
+      ]
+    }
+  },
+  {
+    "id": "culinary-reviews",
+    "ru": {
+      "$name": "Кулинарные обзоры",
+      "$description": "Генератор кулинарных обзоров",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "обзоры"
+      ]
+    },
+    "fr": {
+      "$name": "Avis culinaires",
+      "$description": "Générateur d'avis culinaires",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "Commentaires"
+      ]
+    },
+    "pt": {
+      "$name": "Avaliações culinárias",
+      "$description": "Gerador de avaliações culinárias",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "avaliações"
+      ]
+    },
+    "it": {
+      "$name": "Recensioni culinarie",
+      "$description": "Generatore di recensioni culinarie",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "recensioni"
+      ]
+    },
+    "ja": {
+      "$name": "料理のレビュー",
+      "$description": "料理レビュージェネレーター",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "レビュー"
+      ]
+    },
+    "es": {
+      "$name": "Reseñas culinarias",
+      "$description": "Generador de reseñas culinarias",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "opiniones"
+      ]
+    },
+    "de": {
+      "$name": "Kulinarische Rezensionen",
+      "$description": "Generator für kulinarische Bewertungen",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "Bewertungen"
+      ]
+    },
+    "ko": {
+      "$name": "요리 리뷰",
+      "$description": "요리 리뷰 생성기",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "리뷰"
+      ]
+    },
+    "en": {
+      "$name": "Culinary Reviews",
+      "$description": "Culinary Reviews Generator",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "reviews"
+      ]
+    },
+    "zh-tw": {
+      "$name": "烹飪評論",
+      "$description": "烹飪評論產生器",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "評論"
+      ]
+    },
+    "zh-cn": {
+      "$name": "烹饪评论",
+      "$description": "烹饪评论生成器",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "评论"
+      ]
+    }
+  },
+  {
+    "id": "positive-evaluation-of-products",
+    "it": {
+      "$name": "Valutazione positiva dei prodotti",
+      "$description": "Valutazione positiva dei prodotti",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "recensioni"
+      ]
+    },
+    "pt": {
+      "$name": "Avaliação Positiva De Produtos",
+      "$description": "Avaliação Positiva De Produtos",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "avaliações"
+      ]
+    },
+    "en": {
+      "$name": "Positive Evaluation Of Products",
+      "$description": "Positive Evaluation Of Products",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "reviews"
+      ]
+    },
+    "es": {
+      "$name": "Evaluación positiva de productos",
+      "$description": "Evaluación positiva de productos",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "opiniones"
+      ]
+    },
+    "fr": {
+      "$name": "Évaluation positive des produits",
+      "$description": "Évaluation positive des produits",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "Commentaires"
+      ]
+    },
+    "zh-tw": {
+      "$name": "產品正面評價",
+      "$description": "產品正面評價",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "評論"
+      ]
+    },
+    "ja": {
+      "$name": "製品の肯定的な評価",
+      "$description": "製品の肯定的な評価",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "レビュー"
+      ]
+    },
+    "zh-cn": {
+      "$name": "产品正面评价",
+      "$description": "产品正面评价",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "评论"
+      ]
+    },
+    "de": {
+      "$name": "Positive Bewertung der Produkte",
+      "$description": "Positive Bewertung der Produkte",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "Bewertungen"
+      ]
+    },
+    "ko": {
+      "$name": "제품에 대한 긍정적인 평가",
+      "$description": "제품에 대한 긍정적인 평가",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "리뷰"
+      ]
+    },
+    "ru": {
+      "$name": "Положительная оценка продукции",
+      "$description": "Положительная оценка продукции",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "обзоры"
+      ]
+    }
+  },
+  {
+    "id": "negative-evaluation-of-products",
+    "en": {
+      "$name": "Negative Evaluation Of Products",
+      "$description": "Negative Evaluation Of Products",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "reviews"
+      ]
+    },
+    "zh-cn": {
+      "$name": "产品负面评价",
+      "$description": "产品负面评价",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "评论"
+      ]
+    },
+    "ru": {
+      "$name": "Негативная оценка продукции",
+      "$description": "Негативная оценка продукции",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "обзоры"
+      ]
+    },
+    "fr": {
+      "$name": "Évaluation négative des produits",
+      "$description": "Évaluation négative des produits",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "Commentaires"
+      ]
+    },
+    "pt": {
+      "$name": "Avaliação negativa de produtos",
+      "$description": "Avaliação negativa de produtos",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "avaliações"
+      ]
+    },
+    "ja": {
+      "$name": "製品に対するマイナス評価",
+      "$description": "製品に対するマイナス評価",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "レビュー"
+      ]
+    },
+    "de": {
+      "$name": "Negative Bewertung von Produkten",
+      "$description": "Negative Bewertung von Produkten",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "Bewertungen"
+      ]
+    },
+    "es": {
+      "$name": "Evaluación negativa de productos",
+      "$description": "Evaluación negativa de productos",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "opiniones"
+      ]
+    },
+    "ko": {
+      "$name": "제품에 대한 부정적인 평가",
+      "$description": "제품에 대한 부정적인 평가",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "리뷰"
+      ]
+    },
+    "it": {
+      "$name": "Valutazione negativa dei prodotti",
+      "$description": "Valutazione negativa dei prodotti",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "recensioni"
+      ]
+    },
+    "zh-tw": {
+      "$name": "產品負面評價",
+      "$description": "產品負面評價",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "評論"
+      ]
+    }
+  },
+  {
+    "id": "gift-ideas",
+    "ja": {
+      "$name": "ギフトのアイデア",
+      "$description": "ギフトのアイデア",
+      "$keywords": [
+        "あい",
+        "アルゴリズム的な",
+        "アイデア"
+      ]
+    },
+    "fr": {
+      "$name": "Idées de cadeau",
+      "$description": "Idées de cadeau",
+      "$keywords": [
+        "ai",
+        "algorithmique",
+        "idées"
+      ]
+    },
+    "ko": {
+      "$name": "선물 아이디어",
+      "$description": "선물 아이디어",
+      "$keywords": [
+        "일체 포함",
+        "알고리즘의",
+        "아이디어"
+      ]
+    },
+    "es": {
+      "$name": "Ideas de regalo",
+      "$description": "Ideas de regalo",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "ideas"
+      ]
+    },
+    "zh-tw": {
+      "$name": "禮物創意",
+      "$description": "禮物創意",
+      "$keywords": [
+        "人工智慧",
+        "演算法的",
+        "想法"
+      ]
+    },
+    "zh-cn": {
+      "$name": "礼物创意",
+      "$description": "礼物创意",
+      "$keywords": [
+        "人工智能",
+        "算法的",
+        "想法"
+      ]
+    },
+    "de": {
+      "$name": "Geschenkideen",
+      "$description": "Geschenkideen",
+      "$keywords": [
+        "ai",
+        "algorithmisch",
+        "Ideen"
+      ]
+    },
+    "pt": {
+      "$name": "Ideias de presentes",
+      "$description": "Ideias de presentes",
+      "$keywords": [
+        "ai",
+        "algorítmico",
+        "Ideias"
+      ]
+    },
+    "en": {
+      "$name": "Gift Ideas",
+      "$description": "Gift Ideas",
+      "$keywords": [
+        "ai",
+        "algorithmic",
+        "ideas"
+      ]
+    },
+    "it": {
+      "$name": "Idee regalo",
+      "$description": "Idee regalo",
+      "$keywords": [
+        "ai",
+        "algoritmico",
+        "idee"
+      ]
+    },
+    "ru": {
+      "$name": "Идеи для подарка",
+      "$description": "Идеи для подарка",
+      "$keywords": [
+        "ай",
+        "алгоритмический",
+        "идеи"
+      ]
+    }
   }
 ]
