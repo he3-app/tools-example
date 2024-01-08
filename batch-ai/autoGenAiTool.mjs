@@ -3,14 +3,17 @@ import { OpenAIChat } from "langchain/llms/openai";
 
 exec()
 async function exec() {
-  const AiToolsJsonRes = await generateAiToolsJson('我需要感谢信生成工具')
+  const AiToolsJsonRes = await generateAiToolsJson('我需要外卖评价器')
   if (!AiToolsJsonRes) {
     return
   }
   const id = AiToolsJsonRes.id;
   const description = AiToolsJsonRes.description
   const keywords = AiToolsJsonRes.keywords
-  const prompt = AiToolsJsonRes.prompt
+  // const prompt = AiToolsJsonRes.prompt
+  const prompt = `
+  我想让你扮演一个外卖评价的角色。你会对外卖的菜品、色泽、香味、食材的讲究、品相等但不限于这些场景做出评价。你的评价不会重复，不会敷衍。你会对每一个外卖评价进行打分，最高分值为 1，最低为 0。如果生成的评价分值为 0 或低于 0.7 的情况下，你将重新生成评价。直至评价分值为 1。你要评价的外卖是: 
+  `
   createFile(id)
   appendPromptFile(id, prompt)
   readAndWriteJsonFile(id, description, keywords);
@@ -47,7 +50,7 @@ async function generateAiToolsJson(
 
 其次，你要根据我给的话题生成一个符合短横线命名法(不是下划线)的英文变量名称作为 id，尽可能见词知意，尽可能简短，你需要返回一个默认的最优结果。
 然后，你需要根据你生成的提示词生成描述信息description, 描述信息要简短且易于理解, 描述信息必须是英语。
-最后，你需要为生成的提示词生成 5 个 SEO 关键词 keywords, 关键词必须是英语。
+最后，你需要为生成的提示词生成 3 个 SEO 关键词 keywords, 关键词必须是英语。
 你的回复必须要将 prompt， id， description， keywords 放在一个 json 文件中返回。
 话题：${ topic }`;
 
@@ -138,7 +141,7 @@ async function readAndWriteI18nJsonFile(id, description, keywords) {
 function appendPromptFile(id, prompt) {
   const filePath = './src/utils/prompt.ts';
   const contentToAppend = `
-  export const ${ kebabToPascalCase(id) } = '${ prompt }'
+  export const ${ kebabToPascalCase(id) } = \`${ prompt }\`
   `;
   try {
     fs.appendFileSync(filePath, contentToAppend, 'utf8');
