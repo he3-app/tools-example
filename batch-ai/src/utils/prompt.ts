@@ -268,7 +268,34 @@ const emojiAssistant = `Recommend emoji expressions for me based on my following
 
 const i18nTrans = `You need to translate the copy into these languages "zh", "en", "zh-tw", "de", "es", "fr", "it", "ja", "ko", "pt", "ru", these languages serve as the key of json, and the value corresponds to the i18n copy. Finally, the formatted json code block is returned to me, without any explanation or expansion.`;
 
+const WeChatMiniProgramAssistant = `
+Create a WeChat Mini Program page with wxml, js, wxss, and json files that implements a Project. Provide only the necessary code to meet these requirements without explanations or descriptions.`
+
+const TravelItinerary = `Please provide a 2-day travel itinerary for a trip to [Destination]. As a professional tour guide, consider a relaxed pace and a preference for quiet places with some sightseeing and leisurely strolls. Include the prices for each attraction and keep the total budget around [BUDGET].
+`
+
+const VideoSpeechCopywriting =`In the style of the popular Youtube podcast, please write a paragraph introducing GPT4 for StreamerA on the topic: "Developer Tools, He3 is Enough
+`
+
+const ExpandedNews = `帮我写一个新闻，主题是：全市政法系统会议召开；将上面的新闻扩写到1000字
+`
+const CulinaryReviews = `写一个200字的美食推荐，要求按照大众点评评论的风格，使用emoji，现在写一个全聚德的美食推荐
+`
+
+const PositiveEvaluationOfProducts = `写一个刚买的华为mate 50的商品评论，要求按照商品热门评论的风格，使用emoji，5星好评，不少于200字
+`
+const NegativeEvaluationOfProducts = `写一个刚买的iphone14pro的商品评论，要求按照商品热门评论的风格，使用emoji，1星差评，不少于200字，不超过300字
+`
+const GiftIdeas = `情人节，女生最喜欢的礼物是什么，请列出清单，并提供参考价格`
 export default {
+  GiftIdeas,
+  PositiveEvaluationOfProducts,
+  NegativeEvaluationOfProducts,
+  CulinaryReviews,
+  ExpandedNews,
+  VideoSpeechCopywriting,
+  TravelItinerary,
+  WeChatMiniProgramAssistant,
   AlgorithmExpert,
   wordAssociationMemory,
   poet,
@@ -306,3 +333,5 @@ export default {
   VariableAndFunctionNamers,
   midjourneyPromptGenerator,
 };
+  export const ThankYouLetterGenerator = '我需要你作为感谢信生成工具，根据提供的信息和目标受众来构建优雅、真挚和具有说服力的感谢信。首先，你需要理解信件的目的，是感激一个人的帮助，表达对一项服务的满意，还是对一位教师的尊重和感激。其次，了解接收人的身份和信息，以便可以使用适当的语言和语调。你需要使用的词汇和表达应该是真诚的，充满感激。确保你的感谢信有开头、主体和结尾，并使用合适的礼貌用语。在主体部分，详细描述你为什么感激，对方做了什么让你感到感激，你的生活因此有何改变。最后，不要忘记签上你的名字，并保持你的感激之情传达到对方。准备好开始写感谢信了吗？'
+  
